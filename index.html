@@ -1,0 +1,1067 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark" data-lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+<meta name="description" content="Quantum Elements — A next-generation premium periodic table platform with immersive science, multilingual support, deep element data, 3D atomic visualization, and futuristic learning experience." />
+
+<meta name="keywords" content="Periodic Table, Quantum Elements, Chemistry, Elements, Science, 3D Atom, Electron Configuration, Futuristic Periodic Table, Chemistry Learning, Interactive Science, Bengali Chemistry, Scientific Platform, AI Chemistry System" />
+
+<meta name="author" content="ISTIACK AHAMED" />
+<meta name="theme-color" content="#000308" />
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Quantum Elements — Futuristic Periodic Table" />
+<meta property="og:description" content="The ultimate futuristic periodic table experience with immersive chemistry learning, 3D atom visualization, multilingual support, and deep scientific data." />
+<meta property="og:image" content="t.png" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Quantum Elements — Futuristic Periodic Table" />
+<meta name="twitter:description" content="Explore a next-generation interactive periodic table with 3D atoms, deep scientific knowledge, and cinematic futuristic UI." />
+<meta name="twitter:image" content="t.png" />
+
+<link rel="icon" type="image/jpeg" href="t.png" />
+<link rel="apple-touch-icon" href="t.png" />
+
+<title>Quantum Elements — Periodic Table</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- ============================================================
+       LOADING SCREEN
+  ============================================================ -->
+  <div id="loading-screen" class="loading-screen" role="status" aria-label="Loading Quantum Elements" aria-live="polite">
+    <div class="loading-quantum-layers">
+      <div class="loading-layer loading-layer--ring1" aria-hidden="true"></div>
+      <div class="loading-layer loading-layer--ring2" aria-hidden="true"></div>
+      <div class="loading-layer loading-layer--ring3" aria-hidden="true"></div>
+      <div class="loading-layer loading-layer--core" aria-hidden="true"></div>
+    </div>
+    <div class="loading-intro-wrapper">
+      <div class="loading-logo" aria-hidden="true">
+        <span class="loading-logo__symbol">Q</span>
+        <span class="loading-logo__dot"></span>
+      </div>
+      <p class="loading-brand-name">Quantum Elements</p>
+      <div class="loading-progress-track" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Loading progress">
+        <div class="loading-progress-fill" id="loading-progress-fill"></div>
+      </div>
+      <p class="loading-status-text" id="loading-status-text">Initializing quantum lattice…</p>
+    </div>
+    <div class="loading-grid-overlay" aria-hidden="true"></div>
+  </div>
+
+  <!-- ============================================================
+       GLOBAL BACKGROUND LAYERS
+  ============================================================ -->
+  <div class="global-background" aria-hidden="true">
+    <canvas class="bg-layer bg-layer--particles" id="canvas-particles"></canvas>
+    <div class="bg-layer bg-layer--quantum-grid"></div>
+    <div class="bg-layer bg-layer--holographic"></div>
+    <div class="bg-layer bg-layer--ambient-glow"></div>
+    <div class="bg-layer bg-layer--noise"></div>
+    <div class="bg-layer bg-layer--vignette"></div>
+  </div>
+
+  <!-- ============================================================
+       ROOT APP CONTAINER
+  ============================================================ -->
+  <div id="app" class="app-root" role="main">
+
+    <!-- ============================================================
+         TOP NAVBAR
+    ============================================================ -->
+    <header class="navbar" role="banner" id="main-navbar">
+      <div class="navbar__inner">
+
+        <!-- Brand / Logo -->
+        <a href="#" class="navbar__brand" aria-label="Quantum Elements Home">
+          <span class="navbar__brand-icon" aria-hidden="true">
+            <span class="brand-icon__nucleus"></span>
+            <span class="brand-icon__orbit brand-icon__orbit--1"></span>
+            <span class="brand-icon__orbit brand-icon__orbit--2"></span>
+          </span>
+          <span class="navbar__brand-text">
+            <span class="navbar__brand-title">Quantum</span>
+            <span class="navbar__brand-sub">Elements</span>
+          </span>
+        </a>
+
+        <!-- Search -->
+        <div class="navbar__search-area" role="search">
+          <label for="navbar-search-input" class="sr-only">Search elements</label>
+          <div class="navbar__search-field">
+            <span class="navbar__search-icon" aria-hidden="true"></span>
+            <input
+              type="search"
+              id="navbar-search-input"
+              class="navbar__search-input"
+              placeholder="Search element, symbol, number…"
+              autocomplete="off"
+              autocorrect="off"
+              spellcheck="false"
+              aria-autocomplete="list"
+              aria-controls="search-suggestions-dropdown"
+              aria-expanded="false"
+            />
+            <kbd class="navbar__search-shortcut" aria-hidden="true">⌘K</kbd>
+          </div>
+          <!-- Search suggestions dropdown -->
+          <div
+            id="search-suggestions-dropdown"
+            class="search-suggestions-dropdown"
+            role="listbox"
+            aria-label="Search suggestions"
+            hidden
+          >
+            <div class="search-suggestions__header">
+              <span class="search-suggestions__label">Results</span>
+              <span class="search-suggestions__count" id="search-result-count"></span>
+            </div>
+            <ul class="search-suggestions__list" id="search-suggestions-list" role="group"></ul>
+            <div class="search-suggestions__footer">
+              <button type="button" class="search-suggestions__advanced-btn" id="open-advanced-search">
+                Advanced Search
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Utility Controls -->
+        <div class="navbar__utilities">
+          <!-- Language Toggle -->
+          <button
+            type="button"
+            class="navbar__util-btn navbar__lang-toggle"
+            id="lang-toggle"
+            aria-label="Switch language"
+            aria-pressed="false"
+          >
+            <span class="lang-toggle__en" data-lang-label="en">EN</span>
+            <span class="lang-toggle__divider" aria-hidden="true">/</span>
+            <span class="lang-toggle__bn" data-lang-label="bn">বাং</span>
+          </button>
+
+          <!-- Theme Toggle -->
+          <button
+            type="button"
+            class="navbar__util-btn navbar__theme-toggle"
+            id="theme-toggle"
+            aria-label="Toggle theme"
+            aria-pressed="true"
+          >
+            <span class="theme-toggle__icon theme-toggle__icon--dark" aria-hidden="true"></span>
+            <span class="theme-toggle__icon theme-toggle__icon--light" aria-hidden="true"></span>
+          </button>
+
+          <!-- Command Palette Trigger -->
+          <button
+            type="button"
+            class="navbar__util-btn navbar__command-trigger"
+            id="command-palette-trigger"
+            aria-label="Open command palette"
+            aria-keyshortcuts="Control+K Meta+K"
+            aria-haspopup="dialog"
+          >
+            <span class="command-trigger__icon" aria-hidden="true"></span>
+            <span class="command-trigger__label">Command</span>
+          </button>
+
+          <!-- Mobile Menu Trigger -->
+          <button
+            type="button"
+            class="navbar__util-btn navbar__mobile-menu-trigger"
+            id="mobile-menu-trigger"
+            aria-label="Open menu"
+            aria-expanded="false"
+            aria-controls="mobile-nav-menu"
+          >
+            <span class="hamburger-line" aria-hidden="true"></span>
+            <span class="hamburger-line" aria-hidden="true"></span>
+            <span class="hamburger-line" aria-hidden="true"></span>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Mobile Navigation Menu -->
+      <nav
+        id="mobile-nav-menu"
+        class="mobile-nav-menu"
+        aria-label="Mobile navigation"
+        hidden
+      >
+        <ul class="mobile-nav-menu__list" role="list">
+          <li><a href="#section-table" class="mobile-nav-menu__link">Periodic Table</a></li>
+          <li><a href="#section-learning" class="mobile-nav-menu__link">Learn</a></li>
+          <li><a href="#section-compare" class="mobile-nav-menu__link">Compare</a></li>
+          <li><a href="#section-favorites" class="mobile-nav-menu__link">Favorites</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- ============================================================
+         HERO SECTION
+    ============================================================ -->
+    <section class="hero-section" id="section-hero" aria-labelledby="hero-title">
+
+      <!-- Floating atom visuals -->
+      <div class="hero-atom-visuals" aria-hidden="true">
+        <div class="hero-atom hero-atom--large">
+          <div class="hero-atom__nucleus"></div>
+          <div class="hero-atom__orbit hero-atom__orbit--1"></div>
+          <div class="hero-atom__orbit hero-atom__orbit--2"></div>
+          <div class="hero-atom__orbit hero-atom__orbit--3"></div>
+          <div class="hero-atom__electron hero-atom__electron--1"></div>
+          <div class="hero-atom__electron hero-atom__electron--2"></div>
+          <div class="hero-atom__electron hero-atom__electron--3"></div>
+        </div>
+        <div class="hero-atom hero-atom--small-1" aria-hidden="true"></div>
+        <div class="hero-atom hero-atom--small-2" aria-hidden="true"></div>
+        <div class="hero-particle-field" id="hero-particle-field" aria-hidden="true"></div>
+      </div>
+
+      <div class="hero-content">
+        <div class="hero-eyebrow" aria-hidden="true">
+          <span class="hero-eyebrow__line"></span>
+          <span class="hero-eyebrow__text">Next-Generation Chemistry</span>
+          <span class="hero-eyebrow__line"></span>
+        </div>
+        <h1 class="hero-title" id="hero-title">
+          <span class="hero-title__line1">Explore the</span>
+          <span class="hero-title__line2">
+            <em class="hero-title__accent">Quantum</em>
+            <span class="hero-title__word"> Universe</span>
+          </span>
+          <span class="hero-title__line3">of Elements</span>
+        </h1>
+        <p class="hero-subtitle">
+          118 elements. Infinite depth. Immersive science across chemistry, physics, industry, and the cosmos.
+        </p>
+
+        <!-- Scientific statistics -->
+        <div class="hero-stats" role="list" aria-label="Platform statistics">
+          <div class="hero-stat" role="listitem">
+            <span class="hero-stat__value" data-stat="elements">118</span>
+            <span class="hero-stat__label">Elements</span>
+          </div>
+          <div class="hero-stat" role="listitem">
+            <span class="hero-stat__value" data-stat="datapoints">10K+</span>
+            <span class="hero-stat__label">Data Points</span>
+          </div>
+          <div class="hero-stat" role="listitem">
+            <span class="hero-stat__value" data-stat="languages">2</span>
+            <span class="hero-stat__label">Languages</span>
+          </div>
+          <div class="hero-stat" role="listitem">
+            <span class="hero-stat__value" data-stat="categories">9</span>
+            <span class="hero-stat__label">Categories</span>
+          </div>
+        </div>
+
+        <div class="hero-cta-group">
+          <a href="#section-table" class="hero-cta hero-cta--primary">
+            <span>Explore Table</span>
+            <span class="hero-cta__arrow" aria-hidden="true"></span>
+          </a>
+          <button type="button" class="hero-cta hero-cta--secondary" id="hero-random-element">
+            Random Element
+          </button>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ============================================================
+         CATEGORY FILTER SECTION
+    ============================================================ -->
+    <section class="filter-section" id="section-filters" aria-label="Filter elements by category">
+      <div class="filter-section__inner">
+        <div class="filter-section__header">
+          <h2 class="filter-section__title">Filter by Category</h2>
+          <button type="button" class="filter-reset-btn" id="filter-reset" aria-label="Clear all filters">
+            Clear All
+          </button>
+        </div>
+
+        <!-- Filter buttons — populated by JS from JSON category data -->
+        <div
+          class="filter-buttons"
+          id="filter-buttons-container"
+          role="group"
+          aria-label="Element category filters"
+        >
+          <button
+            type="button"
+            class="filter-btn filter-btn--all active"
+            data-filter="all"
+            aria-pressed="true"
+          >
+            <span class="filter-btn__dot" aria-hidden="true"></span>
+            All Elements
+          </button>
+          <!-- Additional filter buttons rendered dynamically by app.js -->
+        </div>
+
+        <!-- Scientific category legend -->
+        <div class="category-legend" id="category-legend" aria-label="Category color legend">
+          <!-- Populated dynamically by app.js -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         PERIODIC TABLE SECTION
+    ============================================================ -->
+    <section class="table-section" id="section-table" aria-labelledby="table-section-title">
+      <div class="table-section__header">
+        <h2 class="table-section__title" id="table-section-title">Periodic Table of Elements</h2>
+        <div class="table-section__controls">
+          <button type="button" class="table-control-btn" id="table-zoom-in" aria-label="Zoom in">+</button>
+          <button type="button" class="table-control-btn" id="table-zoom-out" aria-label="Zoom out">−</button>
+          <button type="button" class="table-control-btn" id="table-zoom-reset" aria-label="Reset zoom">⊙</button>
+          <button type="button" class="table-view-toggle" id="table-view-toggle" aria-label="Toggle view mode">
+            <span>Grid</span>
+            <span>List</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Scrollable viewport for horizontal scroll / touch drag -->
+      <div
+        class="table-viewport"
+        id="table-viewport"
+        role="region"
+        aria-label="Periodic table, scroll horizontally to view all elements"
+        tabindex="0"
+      >
+
+        <!-- Group number header row -->
+        <div class="table-group-numbers" aria-hidden="true" id="table-group-numbers">
+          <!-- Rendered by app.js: groups 1–18 -->
+        </div>
+
+        <!-- Period number column labels -->
+        <div class="table-period-numbers" aria-hidden="true" id="table-period-numbers">
+          <!-- Rendered by app.js: periods 1–7 -->
+        </div>
+
+        <!-- Main periodic table grid -->
+        <div
+          class="periodic-table-grid"
+          id="periodic-table-grid"
+          role="grid"
+          aria-label="Periodic table of elements"
+          aria-rowcount="9"
+          aria-colcount="18"
+        >
+          <!-- Element blocks rendered dynamically by app.js from /data/*.json -->
+          <!-- Each element block will have structure like:
+            <div role="gridcell" class="element-block" data-element-id="" data-atomic-number=""
+              data-symbol="" data-category="" data-period="" data-group=""
+              tabindex="0" aria-label="">
+              <span class="element-block__number"></span>
+              <span class="element-block__symbol"></span>
+              <span class="element-block__name"></span>
+              <span class="element-block__mass"></span>
+              <div class="element-block__glow" aria-hidden="true"></div>
+            </div>
+          -->
+        </div>
+
+        <!-- Lanthanide series label + row -->
+        <div class="table-series-row table-series-row--lanthanides" id="table-lanthanides">
+          <div class="table-series-label" aria-hidden="true">
+            <span>57–71</span>
+            <span class="table-series-label__text">Lanthanides</span>
+          </div>
+          <div class="table-series-cells" id="lanthanide-cells" role="group" aria-label="Lanthanide series elements">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+
+        <!-- Actinide series label + row -->
+        <div class="table-series-row table-series-row--actinides" id="table-actinides">
+          <div class="table-series-label" aria-hidden="true">
+            <span>89–103</span>
+            <span class="table-series-label__text">Actinides</span>
+          </div>
+          <div class="table-series-cells" id="actinide-cells" role="group" aria-label="Actinide series elements">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+
+      </div><!-- /table-viewport -->
+
+      <!-- Touch/drag scroll hint -->
+      <p class="table-scroll-hint" aria-hidden="true">← Drag or swipe to scroll →</p>
+
+    </section>
+
+    <!-- ============================================================
+         SIDE PANELS (Favorites, Recent, Compare, Learning)
+    ============================================================ -->
+    <aside class="side-panels" id="side-panels" aria-label="Side panels">
+
+      <!-- Favorites Panel -->
+      <div
+        class="side-panel side-panel--favorites"
+        id="panel-favorites"
+        role="region"
+        aria-labelledby="panel-favorites-title"
+        hidden
+      >
+        <div class="side-panel__header">
+          <h3 class="side-panel__title" id="panel-favorites-title">
+            <span class="side-panel__icon" aria-hidden="true">♡</span>
+            Favorites
+          </h3>
+          <button type="button" class="side-panel__close" aria-label="Close favorites panel" data-closes="panel-favorites">✕</button>
+        </div>
+        <div class="side-panel__body">
+          <ul class="side-panel__list" id="favorites-list" role="list" aria-label="Favorite elements">
+            <!-- Rendered by app.js -->
+          </ul>
+          <p class="side-panel__empty" id="favorites-empty">No favorites yet. Click ♡ on any element.</p>
+        </div>
+        <div class="side-panel__footer">
+          <button type="button" class="side-panel__action-btn" id="favorites-clear">Clear All</button>
+        </div>
+      </div>
+
+      <!-- Recent Viewed Panel -->
+      <div
+        class="side-panel side-panel--recent"
+        id="panel-recent"
+        role="region"
+        aria-labelledby="panel-recent-title"
+        hidden
+      >
+        <div class="side-panel__header">
+          <h3 class="side-panel__title" id="panel-recent-title">
+            <span class="side-panel__icon" aria-hidden="true">◷</span>
+            Recent
+          </h3>
+          <button type="button" class="side-panel__close" aria-label="Close recent panel" data-closes="panel-recent">✕</button>
+        </div>
+        <div class="side-panel__body">
+          <ul class="side-panel__list" id="recent-list" role="list" aria-label="Recently viewed elements">
+            <!-- Rendered by app.js -->
+          </ul>
+          <p class="side-panel__empty" id="recent-empty">No recently viewed elements.</p>
+        </div>
+        <div class="side-panel__footer">
+          <button type="button" class="side-panel__action-btn" id="recent-clear">Clear History</button>
+        </div>
+      </div>
+
+      <!-- Quick Compare Panel -->
+      <div
+        class="side-panel side-panel--compare"
+        id="panel-compare"
+        role="region"
+        aria-labelledby="panel-compare-title"
+        hidden
+      >
+        <div class="side-panel__header">
+          <h3 class="side-panel__title" id="panel-compare-title">
+            <span class="side-panel__icon" aria-hidden="true">⇄</span>
+            Compare
+          </h3>
+          <button type="button" class="side-panel__close" aria-label="Close compare panel" data-closes="panel-compare">✕</button>
+        </div>
+        <div class="side-panel__body">
+          <div class="compare-slots" id="compare-slots" aria-label="Elements selected for comparison">
+            <div class="compare-slot compare-slot--a" id="compare-slot-a" aria-label="Compare slot A">
+              <span class="compare-slot__placeholder">Select Element A</span>
+            </div>
+            <span class="compare-vs" aria-hidden="true">VS</span>
+            <div class="compare-slot compare-slot--b" id="compare-slot-b" aria-label="Compare slot B">
+              <span class="compare-slot__placeholder">Select Element B</span>
+            </div>
+          </div>
+          <div class="compare-table-wrapper" id="compare-table-wrapper" aria-live="polite">
+            <!-- Comparison table rendered by app.js -->
+          </div>
+        </div>
+        <div class="side-panel__footer">
+          <button type="button" class="side-panel__action-btn" id="compare-clear">Reset</button>
+        </div>
+      </div>
+
+      <!-- Learning Mode Panel -->
+      <div
+        class="side-panel side-panel--learning"
+        id="panel-learning"
+        role="region"
+        aria-labelledby="panel-learning-title"
+        hidden
+      >
+        <div class="side-panel__header">
+          <h3 class="side-panel__title" id="panel-learning-title">
+            <span class="side-panel__icon" aria-hidden="true">⚛</span>
+            Learning Mode
+          </h3>
+          <button type="button" class="side-panel__close" aria-label="Close learning panel" data-closes="panel-learning">✕</button>
+        </div>
+        <div class="side-panel__body">
+          <div class="learning-mode-controls">
+            <button type="button" class="learning-mode-btn active" data-mode="flashcard" aria-pressed="true">Flashcards</button>
+            <button type="button" class="learning-mode-btn" data-mode="quiz" aria-pressed="false">Quiz</button>
+            <button type="button" class="learning-mode-btn" data-mode="match" aria-pressed="false">Match</button>
+          </div>
+          <div class="learning-mode-content" id="learning-mode-content" aria-live="polite">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Panel Toggles (floating triggers) -->
+      <div class="panel-triggers" aria-label="Panel controls">
+        <button type="button" class="panel-trigger" id="trigger-favorites" aria-label="Toggle favorites panel" aria-expanded="false" aria-controls="panel-favorites">♡</button>
+        <button type="button" class="panel-trigger" id="trigger-recent" aria-label="Toggle recent panel" aria-expanded="false" aria-controls="panel-recent">◷</button>
+        <button type="button" class="panel-trigger" id="trigger-compare" aria-label="Toggle compare panel" aria-expanded="false" aria-controls="panel-compare">⇄</button>
+        <button type="button" class="panel-trigger" id="trigger-learning" aria-label="Toggle learning panel" aria-expanded="false" aria-controls="panel-learning">⚛</button>
+      </div>
+
+    </aside>
+
+    <!-- ============================================================
+         LEARNING SYSTEM SECTION
+    ============================================================ -->
+    <section class="learning-section" id="section-learning" aria-labelledby="learning-section-title">
+      <div class="learning-section__inner">
+        <h2 class="learning-section__title" id="learning-section-title">Interactive Learning</h2>
+        <p class="learning-section__subtitle">Master the elements through flashcards, quizzes, and comparisons.</p>
+
+        <div class="learning-cards-grid" id="learning-cards-grid" aria-label="Learning cards">
+          <!-- Flashcards, quiz cards, and comparison cards rendered by app.js -->
+        </div>
+
+        <!-- Related elements row -->
+        <div class="related-elements-row" id="related-elements-row" aria-label="Related elements">
+          <h3 class="related-elements-row__title">Related Elements</h3>
+          <div class="related-elements-list" id="related-elements-list">
+            <!-- Rendered by app.js -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         FOOTER
+    ============================================================ -->
+    <footer class="site-footer" id="site-footer" role="contentinfo">
+      <div class="site-footer__inner">
+
+        <div class="site-footer__brand">
+          <span class="site-footer__logo" aria-hidden="true">⚛</span>
+          <span class="site-footer__name">Quantum Elements</span>
+        </div>
+
+        <nav class="site-footer__nav" aria-label="Footer navigation">
+          <ul class="site-footer__nav-list" role="list">
+            <li><a href="#section-table" class="site-footer__nav-link">Periodic Table</a></li>
+            <li><a href="#section-learning" class="site-footer__nav-link">Learning</a></li>
+            <li><a href="#" class="site-footer__nav-link">References</a></li>
+          </ul>
+        </nav>
+
+        <div class="site-footer__meta">
+          <p class="site-footer__references">
+            Data sourced from IUPAC, NIST, PubChem, and Royal Society of Chemistry.
+          </p>
+          <p class="site-footer__version" id="footer-version">
+            v1.0.0 &mdash; <span id="footer-element-count">118</span> elements loaded
+          </p>
+          <p class="site-footer__system" id="footer-system-info" aria-live="polite">
+            <!-- System info (browser, language) injected by app.js -->
+          </p>
+          <p class="site-footer__credits">
+  Built with precision &amp; passion. &copy;
+  <span id="footer-year"></span>
+  <a
+    href="https://Instagram.com/anonymous.istiack"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="footer-instagram-link"
+  >
+    ISTIACK AHAMED KHAN
+  </a>
+</p>
+        </div>
+
+      </div>
+    </footer>
+
+  </div><!-- /app-root -->
+
+  <!-- ============================================================
+       IMMERSIVE ELEMENT MODAL
+  ============================================================ -->
+  <div
+    id="element-modal"
+    class="element-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="modal-element-name"
+    aria-describedby="modal-element-tagline"
+    hidden
+  >
+    <!-- Modal backdrop -->
+    <div class="modal-backdrop" id="modal-backdrop" aria-hidden="true"></div>
+
+    <!-- Modal panel -->
+    <div class="modal-panel" id="modal-panel">
+
+      <!-- Modal close -->
+      <button
+        type="button"
+        class="modal-close-btn"
+        id="modal-close-btn"
+        aria-label="Close element modal"
+      >
+        <span aria-hidden="true">✕</span>
+      </button>
+
+      <!-- Modal Header -->
+      <header class="modal-header" id="modal-header">
+        <div class="modal-header__element-symbol-block" id="modal-symbol-block" aria-hidden="true">
+          <span class="modal-symbol" id="modal-symbol"></span>
+          <span class="modal-atomic-number" id="modal-atomic-number"></span>
+        </div>
+        <div class="modal-header__info">
+          <h2 class="modal-element-name" id="modal-element-name"></h2>
+          <p class="modal-element-name-bn" id="modal-element-name-bn" lang="bn"></p>
+          <p class="modal-element-tagline" id="modal-element-tagline"></p>
+          <div class="modal-header__badges" id="modal-header-badges">
+            <!-- Category badge, block, phase badges injected by app.js -->
+          </div>
+        </div>
+        <div class="modal-header__quick-stats" id="modal-quick-stats" aria-label="Quick statistics">
+          <!-- Quick stats (mass, density, etc.) injected by app.js -->
+        </div>
+
+        <!-- Favorite toggle -->
+        <button
+          type="button"
+          class="modal-favorite-btn"
+          id="modal-favorite-btn"
+          aria-label="Add to favorites"
+          aria-pressed="false"
+        >
+          <span aria-hidden="true">♡</span>
+        </button>
+      </header>
+
+      <!-- Modal Tab Navigation -->
+      <nav class="modal-tabs" id="modal-tabs" aria-label="Element data sections">
+        <ul class="modal-tabs__list" role="tablist">
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab active" id="tab-overview" aria-selected="true" aria-controls="tabpanel-overview" data-tab="overview">Overview</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-structure" aria-selected="false" aria-controls="tabpanel-structure" data-tab="structure">Structure</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-properties" aria-selected="false" aria-controls="tabpanel-properties" data-tab="properties">Properties</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-industrial" aria-selected="false" aria-controls="tabpanel-industrial" data-tab="industrial">Industrial Uses</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-safety" aria-selected="false" aria-controls="tabpanel-safety" data-tab="safety">Safety</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-learning" aria-selected="false" aria-controls="tabpanel-learning" data-tab="learning">Learning</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-reactions" aria-selected="false" aria-controls="tabpanel-reactions" data-tab="reactions">Reactions</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-environment" aria-selected="false" aria-controls="tabpanel-environment" data-tab="environment">Environment</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-history" aria-selected="false" aria-controls="tabpanel-history" data-tab="history">History</button>
+          </li>
+          <li role="presentation">
+            <button type="button" role="tab" class="modal-tab" id="tab-quiz" aria-selected="false" aria-controls="tabpanel-quiz" data-tab="quiz">Quiz</button>
+          </li>
+        </ul>
+        <div class="modal-tabs__indicator" id="modal-tab-indicator" aria-hidden="true"></div>
+      </nav>
+
+      <!-- Modal Body (Tab Panels) -->
+      <div class="modal-body" id="modal-body">
+
+        <!-- Overview Tab Panel -->
+        <section
+          id="tabpanel-overview"
+          class="modal-tabpanel modal-tabpanel--active"
+          role="tabpanel"
+          aria-labelledby="tab-overview"
+          tabindex="0"
+        >
+          <!-- 3D Atom Viewer -->
+          <div class="atom-viewer-section" aria-label="3D atom viewer">
+            <div class="atom-viewer-container" id="atom-viewer-container">
+              <canvas class="atom-viewer-canvas" id="atom-viewer-canvas" aria-label="3D atom model"></canvas>
+              <!-- HUD overlays -->
+              <div class="atom-viewer-hud" id="atom-viewer-hud" aria-hidden="true">
+                <div class="hud-label hud-label--nucleus" id="hud-nucleus-label"></div>
+                <div class="hud-orbit-labels" id="hud-orbit-labels"></div>
+                <div class="hud-electron-count" id="hud-electron-count"></div>
+              </div>
+              <!-- Scientific controls -->
+              <div class="atom-viewer-controls" aria-label="3D viewer controls">
+                <button type="button" class="atom-ctrl-btn" id="atom-ctrl-spin" aria-label="Toggle spin">⟳</button>
+                <button type="button" class="atom-ctrl-btn" id="atom-ctrl-zoom-in" aria-label="Zoom in">+</button>
+                <button type="button" class="atom-ctrl-btn" id="atom-ctrl-zoom-out" aria-label="Zoom out">−</button>
+                <button type="button" class="atom-ctrl-btn" id="atom-ctrl-reset" aria-label="Reset view">⊙</button>
+              </div>
+              <!-- Quantum particle layer -->
+              <div class="atom-quantum-particles" id="atom-quantum-particles" aria-hidden="true"></div>
+            </div>
+            <!-- Electron configuration display -->
+            <div class="electron-config-display" id="electron-config-display" aria-label="Electron configuration">
+              <p class="electron-config__notation" id="electron-config-notation"></p>
+              <div class="electron-config__shells" id="electron-config-shells"></div>
+            </div>
+          </div>
+
+          <!-- Overview content -->
+          <div class="overview-content" id="overview-content" aria-live="polite">
+            <!-- Pronunciation, appearance, phase, natural occurrence — injected by app.js -->
+          </div>
+
+          <!-- Fun Facts -->
+          <div class="fun-facts-section" id="fun-facts-section" aria-label="Fun facts">
+            <h3 class="fun-facts-section__title">Fun Facts</h3>
+            <ul class="fun-facts-list" id="fun-facts-list" role="list">
+              <!-- Rendered by app.js -->
+            </ul>
+          </div>
+
+        </section>
+
+        <!-- Structure Tab Panel -->
+        <section
+          id="tabpanel-structure"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-structure"
+          tabindex="0"
+          hidden
+        >
+          <div class="structure-content" id="structure-content" aria-live="polite">
+            <!-- Protons, neutrons, electrons, quantum numbers, orbital config — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- Properties Tab Panel -->
+        <section
+          id="tabpanel-properties"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-properties"
+          tabindex="0"
+          hidden
+        >
+          <div class="properties-content" id="properties-content" aria-live="polite">
+            <!-- Physical and chemical properties — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- Industrial Uses Tab Panel -->
+        <section
+          id="tabpanel-industrial"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-industrial"
+          tabindex="0"
+          hidden
+        >
+          <div class="industrial-content" id="industrial-content" aria-live="polite">
+            <!-- All industrial application categories — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- Safety Tab Panel -->
+        <section
+          id="tabpanel-safety"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-safety"
+          tabindex="0"
+          hidden
+        >
+          <div class="safety-content" id="safety-content" aria-live="polite">
+            <!-- Hazards, storage, handling, exposure risks — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- Learning Tab Panel -->
+        <section
+          id="tabpanel-learning"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-learning"
+          tabindex="0"
+          hidden
+        >
+          <div class="learning-content" id="learning-content" aria-live="polite">
+            <!-- Simple/advanced explanations, learning tips, misconceptions, comparisons — injected by app.js -->
+          </div>
+          <!-- Comparison cards -->
+          <div class="modal-comparisons" id="modal-comparisons" aria-label="Element comparisons">
+            <!-- Rendered by app.js -->
+          </div>
+        </section>
+
+        <!-- Reactions Tab Panel -->
+        <section
+          id="tabpanel-reactions"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-reactions"
+          tabindex="0"
+          hidden
+        >
+          <div class="reactions-content" id="reactions-content" aria-live="polite">
+            <!-- Reactions, oxidation, reduction, bonding examples — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- Environment Tab Panel -->
+        <section
+          id="tabpanel-environment"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-environment"
+          tabindex="0"
+          hidden
+        >
+          <div class="environment-content" id="environment-content" aria-live="polite">
+            <!-- Biological, environmental data, toxicity, sustainability — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- History Tab Panel -->
+        <section
+          id="tabpanel-history"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-history"
+          tabindex="0"
+          hidden
+        >
+          <div class="history-content" id="history-content" aria-live="polite">
+            <!-- Discovery, historical uses, famous experiments, economics — injected by app.js -->
+          </div>
+        </section>
+
+        <!-- Quiz Tab Panel -->
+        <section
+          id="tabpanel-quiz"
+          class="modal-tabpanel"
+          role="tabpanel"
+          aria-labelledby="tab-quiz"
+          tabindex="0"
+          hidden
+        >
+          <div class="quiz-content" id="quiz-content" aria-live="polite">
+            <!-- Quiz questions rendered by app.js -->
+          </div>
+          <div class="quiz-score" id="quiz-score" aria-live="assertive" aria-atomic="true">
+            <!-- Score injected by app.js -->
+          </div>
+        </section>
+
+      </div><!-- /modal-body -->
+
+      <!-- Modal swipe-to-close indicator (mobile) -->
+      <div class="modal-swipe-hint" aria-hidden="true">
+        <span class="modal-swipe-hint__bar"></span>
+      </div>
+
+    </div><!-- /modal-panel -->
+  </div><!-- /element-modal -->
+
+  <!-- ============================================================
+       ADVANCED SEARCH MODAL
+  ============================================================ -->
+  <div
+    id="advanced-search-modal"
+    class="advanced-search-modal"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="advanced-search-title"
+    hidden
+  >
+    <div class="modal-backdrop advanced-search-backdrop" id="advanced-search-backdrop" aria-hidden="true"></div>
+    <div class="advanced-search-panel" id="advanced-search-panel">
+      <div class="advanced-search-header">
+        <h2 class="advanced-search-title" id="advanced-search-title">Advanced Search</h2>
+        <button type="button" class="advanced-search-close" id="advanced-search-close" aria-label="Close advanced search">✕</button>
+      </div>
+      <div class="advanced-search-body">
+        <div class="advanced-search-filters" role="search" aria-label="Advanced element filters">
+          <!-- Filter inputs: atomic number range, mass range, category, period, group, block, phase -->
+          <div class="advanced-filter-group">
+            <label for="filter-atomic-min">Atomic Number</label>
+            <div class="advanced-filter-range">
+              <input type="number" id="filter-atomic-min" class="advanced-filter-input" min="1" max="118" placeholder="Min" aria-label="Minimum atomic number" />
+              <span aria-hidden="true">–</span>
+              <input type="number" id="filter-atomic-max" class="advanced-filter-input" min="1" max="118" placeholder="Max" aria-label="Maximum atomic number" />
+            </div>
+          </div>
+          <div class="advanced-filter-group">
+            <label for="filter-period">Period</label>
+            <select id="filter-period" class="advanced-filter-select" aria-label="Filter by period">
+              <option value="">All</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+            </select>
+          </div>
+          <div class="advanced-filter-group">
+            <label for="filter-block">Block</label>
+            <select id="filter-block" class="advanced-filter-select" aria-label="Filter by block">
+              <option value="">All</option>
+              <option value="s">s</option>
+              <option value="p">p</option>
+              <option value="d">d</option>
+              <option value="f">f</option>
+            </select>
+          </div>
+          <div class="advanced-filter-group">
+            <label for="filter-phase">Phase</label>
+            <select id="filter-phase" class="advanced-filter-select" aria-label="Filter by phase">
+              <option value="">All</option>
+              <option value="gas">Gas</option>
+              <option value="liquid">Liquid</option>
+              <option value="solid">Solid</option>
+            </select>
+          </div>
+          <div class="advanced-filter-group">
+            <label>
+              <input type="checkbox" id="filter-radioactive" class="advanced-filter-checkbox" aria-label="Show only radioactive elements" />
+              Radioactive only
+            </label>
+          </div>
+        </div>
+        <div class="advanced-search-results" id="advanced-search-results" aria-live="polite" aria-label="Search results">
+          <!-- Results rendered by app.js -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       COMMAND PALETTE
+  ============================================================ -->
+  <div
+    id="command-palette"
+    class="command-palette"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="command-palette-label"
+    hidden
+  >
+    <div class="modal-backdrop command-palette-backdrop" id="command-palette-backdrop" aria-hidden="true"></div>
+    <div class="command-palette-panel" id="command-palette-panel">
+      <div class="command-palette-header">
+        <span class="command-palette-icon" aria-hidden="true">⌘</span>
+        <label for="command-palette-input" id="command-palette-label" class="sr-only">Command palette input</label>
+        <input
+          type="text"
+          id="command-palette-input"
+          class="command-palette-input"
+          placeholder="Type a command, element name, or symbol…"
+          autocomplete="off"
+          autocorrect="off"
+          spellcheck="false"
+          aria-autocomplete="list"
+          aria-controls="command-palette-results"
+        />
+        <kbd class="command-palette-esc" aria-label="Press Escape to close">esc</kbd>
+      </div>
+      <div class="command-palette-body">
+        <!-- Command groups -->
+        <div class="command-group" id="command-group-elements" aria-label="Element commands">
+          <p class="command-group__label">Elements</p>
+          <ul class="command-list" id="command-list-elements" role="listbox" aria-label="Element results">
+            <!-- Rendered by app.js -->
+          </ul>
+        </div>
+        <div class="command-group" id="command-group-actions" aria-label="Application commands">
+          <p class="command-group__label">Actions</p>
+          <ul class="command-list" id="command-list-actions" role="listbox" aria-label="Action commands">
+            <li role="option" class="command-item" data-action="toggle-theme" tabindex="-1">
+              <span class="command-item__icon" aria-hidden="true">◑</span>
+              <span class="command-item__label">Toggle Theme</span>
+              <kbd class="command-item__shortcut">T</kbd>
+            </li>
+            <li role="option" class="command-item" data-action="toggle-lang" tabindex="-1">
+              <span class="command-item__icon" aria-hidden="true">⌃</span>
+              <span class="command-item__label">Switch Language</span>
+              <kbd class="command-item__shortcut">L</kbd>
+            </li>
+            <li role="option" class="command-item" data-action="random-element" tabindex="-1">
+              <span class="command-item__icon" aria-hidden="true">⚄</span>
+              <span class="command-item__label">Random Element</span>
+              <kbd class="command-item__shortcut">R</kbd>
+            </li>
+            <li role="option" class="command-item" data-action="open-compare" tabindex="-1">
+              <span class="command-item__icon" aria-hidden="true">⇄</span>
+              <span class="command-item__label">Compare Elements</span>
+            </li>
+            <li role="option" class="command-item" data-action="open-learning" tabindex="-1">
+              <span class="command-item__icon" aria-hidden="true">⚛</span>
+              <span class="command-item__label">Learning Mode</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="command-palette-footer" aria-hidden="true">
+        <span><kbd>↑</kbd><kbd>↓</kbd> navigate</span>
+        <span><kbd>↵</kbd> select</span>
+        <span><kbd>esc</kbd> close</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============================================================
+       TOAST NOTIFICATION SYSTEM
+  ============================================================ -->
+  <div
+    id="toast-container"
+    class="toast-container"
+    role="region"
+    aria-live="polite"
+    aria-label="Notifications"
+  >
+    <!-- Toast notifications injected dynamically by app.js -->
+  </div>
+
+  <!-- ============================================================
+       SCRIPTS
+  ============================================================ -->
+  <script src="app.js" defer></script>
+
+</body>
+</html>

@@ -1,0 +1,432 @@
+{
+  "elementId": 1,
+  "basicInformation": {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": {
+      "en": "Hydrogen",
+      "bn": "হাইড্রোজেন"
+    },
+    "pronunciation": {
+      "en": "/ˈhaɪdrədʒən/",
+      "bn": "হাই-ড্রো-জেন"
+    },
+    "atomicMass": 1.008,
+    "category": {
+      "en": "Reactive nonmetal",
+      "bn": "সক্রিয় অধাতু"
+    },
+    "group": 1,
+    "period": 1,
+    "block": "s",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Colorless gas",
+      "bn": "বর্ণহীন গ্যাস"
+    },
+    "color": {
+      "en": "Colorless",
+      "bn": "বর্ণহীন"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Henry Cavendish",
+      "bn": "হেনরি ক্যাভেন্ডিশ"
+    },
+    "discoveryYear": 1766,
+    "discoveryLocation": {
+      "en": "United Kingdom",
+      "bn": "যুক্তরাজ্য"
+    },
+    "discoveryStory": {
+      "en": "Recognized as a distinct element by Cavendish, who called it 'inflammable air'. Antoine Lavoisier later named it 'hydrogen' (water-former).",
+      "bn": "ক্যাভেন্ডিশ এটিকে একটি স্বতন্ত্র পদার্থ হিসেবে চিহ্নিত করেন এবং এর নাম দেন 'দাহ্য বায়ু'। পরে অ্যান্টোইন ল্যাভয়সিয়ে এর নাম রাখেন 'হাইড্রোজেন' (জল-সৃষ্টিকারী)।"
+    },
+    "historicalUses": {
+      "en": "Early use included lifting gas for zeppelins and balloons, which was largely discontinued after the Hindenburg disaster.",
+      "bn": "প্রাথমিক ব্যবহারে জেপেলিন এবং বেলুন ওড়ানোর গ্যাস অন্তর্ভুক্ত ছিল, যা হিন্ডেনবার্গ বিপর্যয়ের পরে মূলত বন্ধ হয়ে যায়।"
+    },
+    "famousExperiments": {
+      "en": "Cavendish's experiment reacting zinc with hydrochloric acid to isolate hydrogen gas.",
+      "bn": "ক্যাভেন্ডিশের পরীক্ষা যেখানে তিনি হাইড্রোক্লোরিক অ্যাসিডের সাথে দস্তার বিক্রিয়া ঘটিয়ে হাইড্রোজেন গ্যাস আলাদা করেন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 1,
+    "neutrons": 0,
+    "electrons": 1,
+    "valenceElectrons": 1,
+    "shells": 1,
+    "shellDistribution": [1],
+    "electronConfiguration": "1s¹",
+    "orbitalConfiguration": {
+      "1s": 1
+    },
+    "oxidationStates": [1, -1],
+    "quantumNumbers": {
+      "principal": 1,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.00008988,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 13.99,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 20.271,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 53,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 31,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 120,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.1805,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 14.304,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Hexagonal (in solid state)",
+      "bn": "ষড়ভুজাকার (কঠিন অবস্থায়)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.20,
+    "ionizationEnergy": {
+      "value": 1312.0,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 72.8,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly reactive with halogens and oxygen. Forms compounds with most elements.",
+      "bn": "হ্যালোজেন এবং অক্সিজেনের সাথে অত্যন্ত প্রতিক্রিয়াশীল। বেশিরভাগ উপাদানের সাথে যৌগ গঠন করে।"
+    },
+    "commonCompounds": ["H₂O", "CH₄", "NH₃", "HCl", "H₂O₂"],
+    "flameTestColor": {
+      "en": "Pale blue",
+      "bn": "ফ্যাকাশে নীল"
+    },
+    "spectralLines": ["410.17nm", "434.05nm", "486.13nm", "656.28nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Haber process for ammonia synthesis, hydrogenation of oils, hydrocracking in petroleum refining.",
+      "bn": "অ্যামোনিয়া সংশ্লেষণের জন্য হ্যাবার প্রক্রিয়া, তেলের হাইড্রোজেনেশন, পেট্রোলিয়াম পরিশোধনে হাইড্রোক্র্যাকিং।"
+    },
+    "commercialUses": {
+      "en": "Fuel cells for commercial vehicles, welding gas, weather balloons.",
+      "bn": "বাণিজ্যিক যানবাহনের জন্য ফুয়েল সেল, ঢালাই গ্যাস, আবহাওয়া বেলুন।"
+    },
+    "electronicsUses": {
+      "en": "Rotor coolant in electrical power plant generators due to high thermal conductivity.",
+      "bn": "উচ্চ তাপ পরিবাহকতার কারণে বিদ্যুৎ কেন্দ্রের জেনারেটরে রোটর কুল্যান্ট হিসেবে।"
+    },
+    "semiconductorUses": {
+      "en": "Carrier gas in deposition processes and annealing atmospheres.",
+      "bn": "ডিপোজিশন প্রক্রিয়া এবং অ্যানিলিং বায়ুমণ্ডলে বাহক গ্যাস হিসেবে।"
+    },
+    "aerospaceUses": {
+      "en": "Liquid hydrogen serves as the primary cryogenic rocket fuel for space exploration.",
+      "bn": "তরল হাইড্রোজেন মহাকাশ অনুসন্ধানের জন্য প্রাথমিক ক্রায়োজেনিক রকেট জ্বালানী হিসাবে কাজ করে।"
+    },
+    "batteryUses": {
+      "en": "Nickel-hydrogen batteries used primarily in aerospace applications.",
+      "bn": "নিকেল-হাইড্রোজেন ব্যাটারি প্রাথমিকভাবে মহাকাশীয় যন্ত্রপাতিতে ব্যবহৃত হয়।"
+    },
+    "aiHardwareUses": {
+      "en": "Advanced cooling systems for extreme-density AI data centers.",
+      "bn": "অত্যধিক ঘনত্বের এআই ডেটা সেন্টারের জন্য উন্নত কুলিং সিস্টেম।"
+    },
+    "renewableEnergyUses": {
+      "en": "Energy carrier for storing excess renewable energy (Green Hydrogen).",
+      "bn": "অতিরিক্ত নবায়নযোগ্য শক্তি সংরক্ষণের জন্য শক্তির বাহক (সবুজ হাইড্রোজেন)।"
+    },
+    "nanotechnologyUses": {
+      "en": "Passivation of silicon surfaces to prevent unintended oxidation.",
+      "bn": "অবাঞ্ছিত জারণ রোধ করতে সিলিকন পৃষ্ঠের প্যাসিভেশন।"
+    },
+    "nuclearUses": {
+      "en": "Isotopes Deuterium and Tritium are the primary fuels for nuclear fusion reactors.",
+      "bn": "আইসোটোপ ডিউটেরিয়াম এবং ট্রিটিয়াম পারমাণবিক ফিউশন চুল্লির প্রাথমিক জ্বালানী।"
+    },
+    "militaryUses": {
+      "en": "Fusion component in thermonuclear weapons.",
+      "bn": "থার্মোনিউক্লিয়ার অস্ত্রে ফিউশন উপাদান হিসেবে।"
+    },
+    "medicalUses": {
+      "en": "Hydrogen breath tests for digestion tracking; emerging use as a therapeutic antioxidant.",
+      "bn": "হজম ট্র্যাকিংয়ের জন্য হাইড্রোজেন শ্বাস পরীক্ষা; থেরাপিউটিক অ্যান্টিঅক্সিডেন্ট হিসাবে উদীয়মান ব্যবহার।"
+    },
+    "foodIndustryUses": {
+      "en": "Hydrogenation to convert liquid vegetable oils into solid fats.",
+      "bn": "তরল উদ্ভিজ্জ তেলকে কঠিন চর্বিতে রূপান্তর করতে হাইড্রোজেনেশন।"
+    },
+    "constructionUses": {
+      "en": "Tracer gas for leak detection in pipelines and structural testing.",
+      "bn": "পাইপলাইন এবং কাঠামোগত পরীক্ষায় লিক সনাক্তকরণের জন্য ট্রেসার গ্যাস।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Absolutely essential. Makes up water molecules and is a structural component of all organic compounds.",
+      "bn": "একেবারে অপরিহার্য। জলের অণু তৈরি করে এবং সমস্ত জৈব যৌগের একটি কাঠামোগত উপাদান।"
+    },
+    "humanBodyRole": {
+      "en": "Comprises ~10% of human body mass; crucial for cellular hydration, pH balance, and energy (ATP) production.",
+      "bn": "মানবদেহের ভরের প্রায় ১০% গঠন করে; সেলুলার হাইড্রেশন, পিএইচ ভারসাম্য এবং শক্তি (এটিপি) উৎপাদনের জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+    },
+    "toxicity": {
+      "en": "Non-toxic, but functions as a simple asphyxiant by displacing oxygen in confined spaces.",
+      "bn": "অ-বিষাক্ত, তবে আবদ্ধ স্থানে অক্সিজেন প্রতিস্থাপন করে শ্বাসরোধকারী হিসাবে কাজ করে।"
+    },
+    "environmentalImpact": {
+      "en": "Combustion produces only pure water, making it a zero-emission fuel source.",
+      "bn": "দহনের ফলে শুধুমাত্র বিশুদ্ধ জল উৎপন্ন হয়, যা এটিকে একটি শূন্য-নির্গমন জ্বালানীর উৎসে পরিণত করে।"
+    },
+    "pollutionRisks": {
+      "en": "Leakage into the atmosphere may indirectly extend the lifetime of methane, a potent greenhouse gas.",
+      "bn": "বায়ুমণ্ডলে ফাঁস পরোক্ষভাবে মিথেনের জীবনকাল বাড়িয়ে তুলতে পারে, যা একটি শক্তিশালী গ্রিনহাউস গ্যাস।"
+    },
+    "recyclingMethods": {
+      "en": "Captured from industrial waste streams and purified via pressure swing adsorption.",
+      "bn": "শিল্প বর্জ্য প্রবাহ থেকে ধারণ করা হয় এবং চাপ সুইং শোষণের মাধ্যমে বিশুদ্ধ করা হয়।"
+    },
+    "sustainabilityScore": 9.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "India",
+        "bn": "ভারত"
+      }
+    ],
+    "miningMethods": {
+      "en": "Steam methane reforming (grey), coal gasification (brown), and water electrolysis (green).",
+      "bn": "স্টিম মিথেন রিফর্মিং (ধূসর), কয়লা গ্যাসিফিকেশন (বাদামী) এবং জল তড়িৎ বিশ্লেষণ (সবুজ)।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "75% by mass",
+        "bn": "ভর অনুযায়ী ৭৫%"
+      },
+      "earthCrust": {
+        "en": "0.14% by mass",
+        "bn": "ভর অনুযায়ী ০.১৪%"
+      },
+      "oceans": {
+        "en": "10.8% by mass",
+        "bn": "ভর অনুযায়ী ১০.৮%"
+      }
+    },
+    "marketValue": {
+      "en": "Green hydrogen currently valued at $3.00 - $6.00 per kg; Grey hydrogen at $1.00 - $2.00 per kg.",
+      "bn": "সবুজ হাইড্রোজেনের বর্তমান মূল্য প্রতি কেজি $৩.০০ - $৬.০০; ধূসর হাইড্রোজেন প্রতি কেজি $১.০০ - $২.০০।"
+    },
+    "futureDemand": {
+      "en": "Projected to scale exponentially as the primary pillar of the global net-zero energy transition.",
+      "bn": "বৈশ্বিক নিট-জিরো শক্তি পরিবর্তনের প্রাথমিক স্তম্ভ হিসাবে সূচকীয় হারে বাড়বে বলে ধারণা করা হচ্ছে।"
+    },
+    "globalImportance": {
+      "en": "Critical for decarbonizing heavy industry, shipping, and aviation sectors.",
+      "bn": "ভারী শিল্প, শিপিং এবং বিমান চলাচলের খাতগুলিকে ডিকার্বোনাইজ করার জন্য গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Extremely flammable. Wide flammability range in air (4% to 75%). Invisible flame.",
+      "bn": "অত্যন্ত দাহ্য। বাতাসে দাহ্যতার বিস্তৃত পরিসর (৪% থেকে ৭৫%)। অদৃশ্য শিখা।"
+    },
+    "storageRequirements": {
+      "en": "Store in highly pressurized, heavily reinforced composite cylinders or specialized cryogenic tanks.",
+      "bn": "উচ্চ চাপযুক্ত, ব্যাপকভাবে শক্তিশালী যৌগিক সিলিন্ডার বা বিশেষ ক্রায়োজেনিক ট্যাঙ্কে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use non-sparking tools, ensure strict ventilation, and monitor with dedicated hydrogen sensors.",
+      "bn": "স্ফুলিঙ্গ তৈরি করে না এমন সরঞ্জাম ব্যবহার করুন, কঠোর বায়ুচলাচল নিশ্চিত করুন এবং ডেডিকেটেড হাইড্রোজেন সেন্সর দিয়ে পর্যবেক্ষণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of high concentrations causes dizziness, unconsciousness, or death via asphyxiation.",
+      "bn": "উচ্চ ঘনত্বের গ্যাস শ্বাস গ্রহণের ফলে মাথা ঘোরা, অজ্ঞান হওয়া বা শ্বাসরোধের মাধ্যমে মৃত্যু হতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "High Risk (Fire/Explosion)",
+      "bn": "উচ্চ ঝুঁকি (আগুন/বিস্ফোরণ)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Extremely Flammable Gas",
+        "bn": "অত্যন্ত দাহ্য গ্যাস"
+      },
+      {
+        "en": "Compressed Gas",
+        "bn": "সংকুচিত গ্যাস"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Hydrogen is the first and simplest element. It powers the sun and combines with oxygen to make water.",
+      "bn": "হাইড্রোজেন হল প্রথম এবং সহজতম উপাদান। এটি সূর্যকে শক্তি জোগায় এবং অক্সিজেনের সাথে মিলে জল তৈরি করে।"
+    },
+    "advancedExplanation": {
+      "en": "A single proton and electron system serving as the foundational building block of the universe. Its quantum mechanical model forms the basis for understanding all heavier elements.",
+      "bn": "একটি একক প্রোটন এবং ইলেক্ট্রন সিস্টেম যা মহাবিশ্বের মৌলিক ভিত্তি হিসেবে কাজ করে। এর কোয়ান্টাম মেকানিক্যাল মডেল সমস্ত ভারী উপাদান বোঝার ভিত্তি তৈরি করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Jupiter is basically a giant ball of liquid metallic hydrogen.",
+        "bn": "বৃহস্পতি গ্রহটি মূলত তরল ধাতব হাইড্রোজেনের একটি বিশাল বল।"
+      },
+      {
+        "en": "It is the only element that can exist without neutrons.",
+        "bn": "এটি একমাত্র উপাদান যা নিউট্রন ছাড়াই থাকতে পারে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 2,
+        "relation": {
+          "en": "Unlike highly reactive Hydrogen, Helium is a noble, unreactive gas, despite both being extremely light.",
+          "bn": "অত্যন্ত প্রতিক্রিয়াশীল হাইড্রোজেনের বিপরীতে, হিলিয়াম একটি নিষ্ক্রিয় গ্যাস, যদিও উভয়ই অত্যন্ত হালকা।"
+        }
+      }
+    ],
+    "relatedElements": [2, 3, 6, 8],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the most abundant element in the universe?",
+          "bn": "মহাবিশ্বের সবচেয়ে প্রচুর উপাদান কোনটি?"
+        },
+        "options": [
+          {
+            "en": "Oxygen",
+            "bn": "অক্সিজেন"
+          },
+          {
+            "en": "Hydrogen",
+            "bn": "হাইড্রোজেন"
+          },
+          {
+            "en": "Carbon",
+            "bn": "কার্বন"
+          },
+          {
+            "en": "Helium",
+            "bn": "হিলিয়াম"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Hydrogen accounts for roughly 75% of all baryonic mass in the universe.",
+          "bn": "হাইড্রোজেন মহাবিশ্বের সমস্ত ব্যারায়নিক ভরের প্রায় ৭৫%।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Hydrogen vehicles are like moving bombs.",
+        "bn": "হাইড্রোজেন চালিত যানবাহন চলন্ত বোমার মতো।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol 'H' and atomic number 1. It stands alone at the top left of the periodic table.",
+        "bn": "'H' প্রতীক এবং পারমাণবিক সংখ্যা ১ মনে রাখুন। এটি পর্যায় সারণির একেবারে উপরে বাম দিকে একাকী অবস্থান করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "2H₂ + O₂ → 2H₂O",
+        "description": {
+          "en": "Combustion of hydrogen gas producing water.",
+          "bn": "হাইড্রোজেন গ্যাসের দহনে জল উৎপন্ন হয়।"
+        }
+      },
+      {
+        "equation": "N₂ + 3H₂ → 2NH₃",
+        "description": {
+          "en": "Haber process for the industrial synthesis of ammonia.",
+          "bn": "শিল্পক্ষেত্রে অ্যামোনিয়া সংশ্লেষণের জন্য হ্যাবার প্রক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "H₂ → 2H⁺ + 2e⁻",
+        "description": {
+          "en": "Oxidation half-reaction in a standard hydrogen fuel cell.",
+          "bn": "একটি স্ট্যান্ডার্ড হাইড্রোজেন ফুয়েল সেলে জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "2H⁺ + 2e⁻ → H₂",
+        "description": {
+          "en": "Reduction of hydrogen ions at the cathode during electrolysis.",
+          "bn": "তড়িৎ বিশ্লেষণের সময় ক্যাথোডে হাইড্রোজেন আয়নের বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent Bond",
+          "bn": "সমযোজী বন্ধন"
+        },
+        "molecule": "CH₄",
+        "description": {
+          "en": "Hydrogen shares its single electron with Carbon to form stable methane.",
+          "bn": "হাইড্রোজেন স্থিতিশীল মিথেন গঠনের জন্য কার্বনের সাথে তার একক ইলেকট্রন ভাগ করে নেয়।"
+        }
+      }
+    ]
+  }
+}
