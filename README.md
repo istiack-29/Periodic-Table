@@ -13,8 +13,8 @@
 [![Live Preview](https://img.shields.io/badge/Launch-Live%20Platform-0A84FF?style=for-the-badge&logo=safari&logoColor=white)](https://istiack-29.github.io/Periodic-Table)
 [![Version](https://img.shields.io/badge/Version-1.0-8A2BE2?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-111111?style=for-the-badge)](#-license)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-00C896?style=for-the-badge)](#)
-[![Chemistry Engine](https://img.shields.io/badge/Powered%20By-Quantum%20Data%20Engine-FF6B6B?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Active-00C896?style=for-the-badge)](#)
+[![Powered By](https://img.shields.io/badge/Powered%20By-Istiack%20Ahamed%20Khan-FF6B6B?style=for-the-badge)](#)
 
 </div>
 
@@ -82,6 +82,7 @@ From real-time atomic visualization to multilingual scientific data structures, 
 ├── index.html
 ├── style.css
 ├── app.js
+├── 
 ├── t.png
 │
 ├── /data

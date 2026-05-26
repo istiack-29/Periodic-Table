@@ -89,6 +89,9 @@ html {
 }
 
 body {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   font-family: var(--qe-font-ui);
   background-color: var(--qe-bg-void);
   color: var(--qe-text-primary);
