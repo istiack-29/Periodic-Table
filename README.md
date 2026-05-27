@@ -82,7 +82,7 @@ From real-time atomic visualization to multilingual scientific data structures, 
 ├── index.html
 ├── style.css
 ├── app.js
-├── 
+├── security.js
 ├── t.png
 │
 ├── /data
@@ -93,7 +93,8 @@ From real-time atomic visualization to multilingual scientific data structures, 
 │   └── 118.json
 │
 ├── /fonts
-│   └── iOS Bangla Font.ttf
+│   ├── English.ttf
+│   └── Bangla.ttf
 │
 ├── LICENSE
 └── README.md
