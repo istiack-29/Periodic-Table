@@ -365,6 +365,557 @@
           "en": "Hydrogen accounts for roughly 75% of all baryonic mass in the universe.",
           "bn": "হাইড্রোজেন মহাবিশ্বের সমস্ত ব্যারায়নিক ভরের প্রায় ৭৫%।"
         }
+      },
+      {
+        "question": {
+          "en": "Which specific combination of hydrogen isotopes is primarily utilized in modern thermonuclear weapons and fusion reactors due to its optimal cross-section?",
+          "bn": "আধুনিক থার্মোনিউক্লিয়ার অস্ত্র এবং ফিউশন চুল্লিগুলিতে কোন নির্দিষ্ট হাইড্রোজেন আইসোটোপের সংমিশ্রণটি তার সর্বোত্তম ক্রস-সেকশনের কারণে প্রাথমিকভাবে ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "Protium-Deuterium",
+            "bn": "প্রোটিয়াম-ডিউটেরিয়াম"
+          },
+          {
+            "en": "Deuterium-Tritium",
+            "bn": "ডিউটেরিয়াম-ট্রিটিয়াম"
+          },
+          {
+            "en": "Tritium-Protium",
+            "bn": "ট্রিটিয়াম-প্রোটিয়াম"
+          },
+          {
+            "en": "Deuterium-Deuterium",
+            "bn": "ডিউটেরিয়াম-ডিউটেরিয়াম"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The D-T fusion reaction has the highest reaction rate at the lowest temperature among fusion candidates.",
+          "bn": "ফিউশন বিক্রিয়ার বিকল্পগুলোর মধ্যে ডি-টি (D-T) ফিউশন বিক্রিয়ার হার সর্বনিম্ন তাপমাত্রায় সর্বোচ্চ থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "The transition of an electron from n=4 to n=2 in a hydrogen atom corresponds to which spectral line in the Balmer series?",
+          "bn": "হাইড্রোজেন পরমাণুতে একটি ইলেকট্রনের n=4 থেকে n=2 তে রূপান্তর বামার সিরিজের কোন বর্ণালী রেখার সাথে মিলে যায়?"
+        },
+        "options": [
+          {
+            "en": "H-alpha (656 nm)",
+            "bn": "এইচ-আলফা (৬৫৬ ন্যানোমিটার)"
+          },
+          {
+            "en": "H-beta (486 nm)",
+            "bn": "এইচ-বিটা (৪৮৬ ন্যানোমিটার)"
+          },
+          {
+            "en": "H-gamma (434 nm)",
+            "bn": "এইচ-গামা (৪৩৪ ন্যানোমিটার)"
+          },
+          {
+            "en": "H-delta (410 nm)",
+            "bn": "এইচ-ডেল্টা (৪১০ ন্যানোমিটার)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The transition from n=4 to n=2 produces a blue-green photon at 486.1 nm, known as the H-beta line.",
+          "bn": "n=4 থেকে n=2 তে স্থানান্তরের ফলে ৪৮৬.১ ন্যানোমিটার তরঙ্গদৈর্ঘ্যের একটি নীল-সবুজ ফোটন উৎপন্ন হয়, যা এইচ-বিটা লাইন নামে পরিচিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Under what approximate extreme conditions is hydrogen theorized to transition into a liquid metallic state, as believed to exist in Jupiter's interior?",
+          "bn": "বৃহস্পতির অভ্যন্তরে যেমনটি বিদ্যমান বলে মনে করা হয়, আনুমানিক কোন চরম পরিস্থিতিতে হাইড্রোজেন তরল ধাতব অবস্থায় রূপান্তরিত হবে বলে তত্ত্ব দেওয়া হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "100 GPa",
+            "bn": "১০০ GPa"
+          },
+          {
+            "en": "400+ GPa",
+            "bn": "৪০০+ GPa"
+          },
+          {
+            "en": "10 GPa",
+            "bn": "১০ GPa"
+          },
+          {
+            "en": "50 GPa",
+            "bn": "৫০ GPa"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Theoretical physics models and recent diamond anvil experiments suggest metallization occurs above 400 Gigapascals.",
+          "bn": "তাত্ত্বিক পদার্থবিজ্ঞানের মডেল এবং সাম্প্রতিক ডায়মন্ড অ্যানভিল পরীক্ষাগুলো নির্দেশ করে যে এই ধাতব রূপান্তরটি ৪০০ গিগাপ্যাসকেলের উপরে ঘটে।"
+        }
+      },
+      {
+        "question": {
+          "en": "At standard room temperature, what is the approximate equilibrium ratio of orthohydrogen to parahydrogen?",
+          "bn": "আদর্শ কক্ষ তাপমাত্রায়, অর্থোহাইড্রোজেন থেকে প্যারাহাইড্রোজেনের আনুমানিক ভারসাম্য অনুপাত কত?"
+        },
+        "options": [
+          {
+            "en": "1:1",
+            "bn": "১:১"
+          },
+          {
+            "en": "1:3",
+            "bn": "১:৩"
+          },
+          {
+            "en": "3:1",
+            "bn": "৩:১"
+          },
+          {
+            "en": "100% orthohydrogen",
+            "bn": "১০০% অর্থোহাইড্রোজেন"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Due to nuclear spin states, normal hydrogen at room temperature consists of 75% orthohydrogen and 25% parahydrogen.",
+          "bn": "নিউক্লিয়ার স্পিন অবস্থার কারণে, কক্ষ তাপমাত্রায় সাধারণ হাইড্রোজেনের ৭৫% অর্থোহাইড্রোজেন এবং ২৫% প্যারাহাইড্রোজেন থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In a Proton Exchange Membrane (PEM) fuel cell, what acts as the charge carrier across the electrolyte membrane?",
+          "bn": "একটি প্রোটন এক্সচেঞ্জ মেমব্রেন (PEM) ফুয়েল সেলে, ইলেক্ট্রোলাইট মেমব্রেন জুড়ে চার্জ বাহক হিসাবে কোনটি কাজ করে?"
+        },
+        "options": [
+          {
+            "en": "Electrons",
+            "bn": "ইলেকট্রন"
+          },
+          {
+            "en": "Hydride ions",
+            "bn": "হাইড্রাইড আয়ন"
+          },
+          {
+            "en": "Hydrogen atoms",
+            "bn": "হাইড্রোজেন পরমাণু"
+          },
+          {
+            "en": "Protons / H+ ions",
+            "bn": "প্রোটন / H+ আয়ন"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "The PEM only allows protons (H+ ions) to pass through, forcing electrons to travel through an external circuit to generate current.",
+          "bn": "PEM মেমব্রেন কেবল প্রোটনকে (H+ আয়ন) এর মধ্য দিয়ে যেতে দেয়, যার ফলে ইলেকট্রনগুলি বিদ্যুৎ উৎপন্ন করতে বাইরের সার্কিট দিয়ে ভ্রমণ করতে বাধ্য হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is the first ionization energy of hydrogen (1312 kJ/mol) significantly higher than that of alkali metals like lithium (520 kJ/mol)?",
+          "bn": "কেন হাইড্রোজেনের প্রথম আয়নীকরণ শক্তি (১৩১২ kJ/mol) লিথিয়ামের (৫২০ kJ/mol) মতো ক্ষারীয় ধাতুগুলির তুলনায় উল্লেখযোগ্যভাবে বেশি?"
+        },
+        "options": [
+          {
+            "en": "Shielding effect is maximal",
+            "bn": "শিল্ডিং প্রভাব সর্বাধিক"
+          },
+          {
+            "en": "Lack of inner shell electrons shielding the nucleus",
+            "bn": "নিউক্লিয়াসকে রক্ষা করার জন্য ভিতরের শেলের ইলেকট্রনের অভাব"
+          },
+          {
+            "en": "It has more protons",
+            "bn": "এর বেশি প্রোটন আছে"
+          },
+          {
+            "en": "It forms covalent bonds easily",
+            "bn": "এটি সহজে সমযোজী বন্ধন তৈরি করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Hydrogen's lone electron experiences the full unshielded pull of the nucleus, making it exceptionally hard to remove.",
+          "bn": "হাইড্রোজেনের একমাত্র ইলেকট্রন নিউক্লিয়াসের সম্পূর্ণ আবরণহীন আকর্ষণ অনুভব করে, যা একে অপসারণ করা অত্যন্ত কঠিন করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which 'color' designation refers to hydrogen produced via methane pyrolysis, which generates solid carbon rather than CO2 emissions?",
+          "bn": "কোন 'রঙ' এর উপাধিটি মিথেন পাইরোলাইসিসের মাধ্যমে উৎপাদিত হাইড্রোজেনকে বোঝায়, যা CO2 নির্গমনের পরিবর্তে কঠিন কার্বন তৈরি করে?"
+        },
+        "options": [
+          {
+            "en": "Blue Hydrogen",
+            "bn": "নীল হাইড্রোজেন"
+          },
+          {
+            "en": "Turquoise Hydrogen",
+            "bn": "ফিরোজা হাইড্রোজেন"
+          },
+          {
+            "en": "Pink Hydrogen",
+            "bn": "গোলাপী হাইড্রোজেন"
+          },
+          {
+            "en": "Grey Hydrogen",
+            "bn": "ধূসর হাইড্রোজেন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Turquoise hydrogen bridges the gap between fossil fuels and green energy by trapping carbon in a solid, usable form.",
+          "bn": "ফিরোজা হাইড্রোজেন কঠিন এবং ব্যবহারযোগ্য রূপে কার্বনকে আবদ্ধ করে জীবাশ্ম জ্বালানী এবং সবুজ শক্তির মধ্যে সেতুবন্ধন তৈরি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In complex metal hydrides like Lithium Aluminium Hydride (LiAlH4), what is the formal oxidation state of hydrogen?",
+          "bn": "লিথিয়াম অ্যালুমিনিয়াম হাইড্রাইডের (LiAlH4) মতো জটিল ধাতব হাইড্রাইডে হাইড্রোজেনের ফর্মাল জারণ অবস্থা কত?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "0",
+            "bn": "০"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "When bonded to metals with lower electronegativity, hydrogen accepts an electron to form a hydride ion (H-).",
+          "bn": "কম তড়িৎঋণাত্মক ধাতুর সাথে যুক্ত হলে, হাইড্রোজেন একটি ইলেকট্রন গ্রহণ করে হাইড্রাইড আয়ন (H-) গঠন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Due to its low molecular mass, what is the root-mean-square (rms) speed of hydrogen molecules at standard temperature (273 K) compared to oxygen molecules?",
+          "bn": "এর কম আণবিক ভরের কারণে, আদর্শ তাপমাত্রায় (২৭৩ K) অক্সিজেন অণুর তুলনায় হাইড্রোজেন অণুগুলির রুট-মিন-স্কোয়ার (rms) গতি কত?"
+        },
+        "options": [
+          {
+            "en": "2 times faster",
+            "bn": "২ গুণ দ্রুত"
+          },
+          {
+            "en": "4 times faster",
+            "bn": "৪ গুণ দ্রুত"
+          },
+          {
+            "en": "16 times faster",
+            "bn": "১৬ গুণ দ্রুত"
+          },
+          {
+            "en": "Equal speed",
+            "bn": "সমান গতি"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "According to Graham's law, speed is inversely proportional to the square root of molar mass. Oxygen (32) is 16 times heavier than Hydrogen (2), making hydrogen sqrt(16) = 4 times faster.",
+          "bn": "গ্রাহামের সূত্র অনুসারে, গতি মোলার ভরের বর্গমূলের ব্যাস্তানুপাতিক। অক্সিজেন (৩২) হাইড্রোজেনের (২) চেয়ে ১৬ গুণ বেশি ভারী, যার ফলে হাইড্রোজেনের গতি হয় রুট(১৬) = ৪ গুণ বেশি।"
+        }
+      },
+      {
+        "question": {
+          "en": "For the single electron in a ground-state hydrogen atom, what is the complete set of valid quantum numbers (n, l, ml, ms)?",
+          "bn": "গ্রাউন্ড-স্টেট হাইড্রোজেন পরমাণুর একটি ইলেকট্রনের জন্য, বৈধ কোয়ান্টাম সংখ্যার (n, l, ml, ms) সম্পূর্ণ সেট কী?"
+        },
+        "options": [
+          {
+            "en": "(1, 1, 0, +1/2)",
+            "bn": "(১, ১, ০, +১/২)"
+          },
+          {
+            "en": "(1, 0, 0, +1/2 or -1/2)",
+            "bn": "(১, ০, ০, +১/২ অথবা -১/২)"
+          },
+          {
+            "en": "(2, 0, 0, +1/2)",
+            "bn": "(২, ০, ০, +১/২)"
+          },
+          {
+            "en": "(1, 0, 1, -1/2)",
+            "bn": "(১, ০, ১, -১/২)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "In the lowest energy state (1s orbital), principal quantum number n=1, azimuthal l=0, magnetic ml=0, and spin ms can be +1/2 or -1/2.",
+          "bn": "সর্বনিম্ন শক্তির স্তরে (1s অরবিটাল), প্রধান কোয়ান্টাম সংখ্যা n=1, অ্যাজিমুথাল l=0, ম্যাগনেটিক ml=0, এবং স্পিন ms +1/2 বা -1/2 হতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is a hydrogen fire particularly difficult to detect in a well-lit environment compared to hydrocarbon fires?",
+          "bn": "হাইড্রোকার্বনের আগুনের তুলনায় পর্যাপ্ত আলো যুক্ত পরিবেশে হাইড্রোজেনের আগুন শনাক্ত করা কেন বিশেষভাবে কঠিন?"
+        },
+        "options": [
+          {
+            "en": "It produces excessive smoke",
+            "bn": "এটি অত্যধিক ধোঁয়া উৎপন্ন করে"
+          },
+          {
+            "en": "It burns at a very low temperature",
+            "bn": "এটি খুব কম তাপমাত্রায় পুড়ে যায়"
+          },
+          {
+            "en": "It emits mostly ultraviolet radiation and no visible soot",
+            "bn": "এটি মূলত অতিবেগুনী বিকিরণ নির্গত করে এবং কোন দৃশ্যমান ধোঁয়া/কালি নির্গত করে না"
+          },
+          {
+            "en": "It immediately extinguishes in air",
+            "bn": "এটি বাতাসে সাথে সাথে নিভে যায়"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Hydrogen combustion produces only water vapor (no carbon soot) and emits a pale blue flame that is virtually invisible in daylight.",
+          "bn": "হাইড্রোজেনের দহন শুধুমাত্র জলীয় বাষ্প উৎপন্ন করে (কোনও কার্বন কালি নেই) এবং একটি ফ্যাকাশে নীল শিখা নির্গত করে যা দিনের আলোতে কার্যত অদৃশ্য।"
+        }
+      },
+      {
+        "question": {
+          "en": "The 21-cm line in radio astronomy, crucial for mapping the interstellar medium, is produced by what specific physical phenomenon in neutral hydrogen?",
+          "bn": "রেডিও জ্যোতির্বিজ্ঞানে ২১-সেমি লাইন, যা আন্তঃনাক্ষত্রিক মাধ্যম ম্যাপ করার জন্য অত্যন্ত গুরুত্বপূর্ণ, নিরপেক্ষ হাইড্রোজেনের কোন নির্দিষ্ট ভৌত ঘটনার দ্বারা উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "Electron dropping from n=2 to n=1",
+            "bn": "ইলেকট্রনের n=2 থেকে n=1 এ পতন"
+          },
+          {
+            "en": "Spin-flip transition of the electron relative to the proton",
+            "bn": "প্রোটনের সাপেক্ষে ইলেকট্রনের স্পিন-ফ্লিপ রূপান্তর"
+          },
+          {
+            "en": "Nuclear fusion of two protons",
+            "bn": "দুটি প্রোটনের পারমাণবিক ফিউশন"
+          },
+          {
+            "en": "Ionization of neutral hydrogen",
+            "bn": "নিরপেক্ষ হাইড্রোজেনের আয়নীকরণ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "When the electron's spin flips from parallel to anti-parallel relative to the proton, it releases a low-energy photon with a 21-cm wavelength.",
+          "bn": "যখন ইলেকট্রনের স্পিন প্রোটনের সাপেক্ষে সমান্তরাল থেকে অ্যান্টি-সমান্তরালে ফ্লিপ করে, তখন এটি ২১-সেমি তরঙ্গদৈর্ঘ্যের একটি কম-শক্তির ফোটন প্রকাশ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What unique property allows hydrogen to form strong intermolecular 'hydrogen bonds' with highly electronegative atoms like F, O, and N?",
+          "bn": "কোন অনন্য বৈশিষ্ট্যের কারণে হাইড্রোজেন F, O এবং N এর মতো উচ্চ তড়িৎঋণাত্মক পরমাণুগুলির সাথে শক্তিশালী আন্তঃআণবিক 'হাইড্রোজেন বন্ড' গঠন করতে পারে?"
+        },
+        "options": [
+          {
+            "en": "High mass density",
+            "bn": "উচ্চ ভর ঘনত্ব"
+          },
+          {
+            "en": "Its unshielded proton creates a concentrated partial positive charge",
+            "bn": "এর আচ্ছাদনহীন প্রোটন একটি ঘনীভূত আংশিক ধনাত্মক আধান তৈরি করে"
+          },
+          {
+            "en": "Low ionization energy",
+            "bn": "কম আয়নীকরণ শক্তি"
+          },
+          {
+            "en": "Ability to expand its octet",
+            "bn": "এর অষ্টক প্রসারিত করার ক্ষমতা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Because hydrogen has no inner shielding electrons, a highly electronegative atom pulls the bonding pair away, leaving the bare proton exposed to attract adjacent molecules.",
+          "bn": "যেহেতু হাইড্রোজেনের কোনো অভ্যন্তরীণ শিল্ডিং ইলেকট্রন নেই, তাই একটি উচ্চ তড়িৎঋণাত্মক পরমাণু বন্ধন জোড়াকে দূরে টেনে নেয়, যার ফলে উন্মুক্ত প্রোটনটি পার্শ্ববর্তী অণুগুলিকে আকর্ষণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In biological systems, the transfer of hydrogen atoms (and their associated electrons) to coenzymes like NAD+ is fundamentally categorized as what type of reaction?",
+          "bn": "জৈবিক সিস্টেমে, NAD+ এর মতো কোএনজাইমগুলিতে হাইড্রোজেন পরমাণুর (এবং তাদের সাথে যুক্ত ইলেকট্রন) স্থানান্তর মৌলিকভাবে কোন ধরনের বিক্রিয়া হিসাবে শ্রেণীবদ্ধ করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Hydrolysis",
+            "bn": "হাইড্রোলাইসিস"
+          },
+          {
+            "en": "Oxidation-Reduction (Redox)",
+            "bn": "জারণ-বিজারণ (রেডক্স)"
+          },
+          {
+            "en": "Condensation",
+            "bn": "ঘনীভবন"
+          },
+          {
+            "en": "Isomerization",
+            "bn": "আইসোমারাইজেশন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "In biochemistry, the removal of a hydrogen atom (dehydrogenation) is essentially an oxidation process, while its addition is a reduction.",
+          "bn": "বায়োকেমিস্ট্রিতে, হাইড্রোজেন পরমাণু অপসারণ (ডিহাইড্রোজেনেশন) মূলত একটি জারণ প্রক্রিয়া, যখন এর সংযোজন হলো বিজারণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In main-sequence stars significantly heavier than the Sun, hydrogen is converted into helium primarily through which catalytic cycle?",
+          "bn": "সূর্যের চেয়ে উল্লেখযোগ্যভাবে ভারী প্রধান-ক্রমের নক্ষত্রগুলিতে, প্রাথমিকভাবে কোন অনুঘটক চক্রের মাধ্যমে হাইড্রোজেন হিলিয়ামে রূপান্তরিত হয়?"
+        },
+        "options": [
+          {
+            "en": "Triple-alpha process",
+            "bn": "ট্রিপল-আলফা প্রক্রিয়া"
+          },
+          {
+            "en": "CNO cycle",
+            "bn": "CNO চক্র"
+          },
+          {
+            "en": "r-process",
+            "bn": "r-প্রক্রিয়া"
+          },
+          {
+            "en": "s-process",
+            "bn": "s-প্রক্রিয়া"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "While the Sun uses the proton-proton chain, more massive and hotter stars dominate their energy production using Carbon, Nitrogen, and Oxygen as catalysts in the CNO cycle.",
+          "bn": "যদিও সূর্য প্রোটন-প্রোটন চেইন ব্যবহার করে, অপেক্ষাকৃত বেশি ভরযুক্ত এবং উত্তপ্ত নক্ষত্রগুলো CNO চক্রে কার্বন, নাইট্রোজেন এবং অক্সিজেনকে অনুঘটক হিসাবে ব্যবহার করে তাদের শক্তি উৎপাদন নিয়ন্ত্রণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the Haber-Bosch process, what is the theoretical effect of extremely high pressure on the equilibrium of the reaction (N2 + 3H2 ⇌ 2NH3)?",
+          "bn": "হ্যাবার-বোশ প্রক্রিয়ায়, বিক্রিয়ার (N2 + 3H2 ⇌ 2NH3) ভারসাম্যের ওপর চরম উচ্চ চাপের তাত্ত্বিক প্রভাব কী?"
+        },
+        "options": [
+          {
+            "en": "Shifts equilibrium towards reactants",
+            "bn": "বিক্রিয়কগুলির দিকে ভারসাম্য স্থানান্তরিত করে"
+          },
+          {
+            "en": "No effect on equilibrium",
+            "bn": "ভারসাম্যের উপর কোন প্রভাব নেই"
+          },
+          {
+            "en": "Shifts equilibrium towards the product (ammonia)",
+            "bn": "উৎপাদের (অ্যামোনিয়া) দিকে ভারসাম্য স্থানান্তরিত করে"
+          },
+          {
+            "en": "Stops the reaction entirely",
+            "bn": "বিক্রিয়া সম্পূর্ণ বন্ধ করে দেয়"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "According to Le Chatelier's principle, increasing pressure shifts the reaction towards the side with fewer moles of gas (2 moles of NH3 vs 4 moles of reactants).",
+          "bn": "লা শাতেলিয়ের নীতি অনুসারে, চাপ বাড়ানো হলে বিক্রিয়াটি সেই দিকে সরে যায় যেদিকে গ্যাসের মোল সংখ্যা কম থাকে (২ মোল NH3 বনাম ৪ মোল বিক্রিয়ক)।"
+        }
+      },
+      {
+        "question": {
+          "en": "What dangerous metallurgical phenomenon occurs when monatomic hydrogen diffuses into the crystal lattice of high-strength metals like steel, significantly reducing their ductility?",
+          "bn": "স্টিলের মতো উচ্চ-শক্তির ধাতুর স্ফটিক জালিতে মনোটমিক হাইড্রোজেন প্রবেশ করলে তাদের নমনীয়তা উল্লেখযোগ্যভাবে হ্রাস পায়, এই বিপজ্জনক মেটালার্জিক্যাল ঘটনাটিকে কী বলা হয়?"
+        },
+        "options": [
+          {
+            "en": "Hydrogen Embrittlement",
+            "bn": "হাইড্রোজেন এমব্রিটেলমেন্ট"
+          },
+          {
+            "en": "Galvanic Corrosion",
+            "bn": "গ্যালভানিক ক্ষয়"
+          },
+          {
+            "en": "Annealing",
+            "bn": "অ্যানিলিং"
+          },
+          {
+            "en": "Passivation",
+            "bn": "প্যাসিভেশন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Hydrogen embrittlement causes catastrophic, unpredictable structural failures in high-strength steel alloys under stress.",
+          "bn": "হাইড্রোজেন এমব্রিটেলমেন্টের কারণে চাপে থাকা উচ্চ-শক্তির স্টিল অ্যালয়গুলোতে বিপর্যয়কর এবং অপ্রত্যাশিত কাঠামোগত ফাটল দেখা দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is pure hydrogen gas widely used instead of air as a coolant in the rotors of large modern electrical power plant generators?",
+          "bn": "বড় আধুনিক বৈদ্যুতিক পাওয়ার প্ল্যান্ট জেনারেটরের রোটরে কুল্যান্ট হিসেবে বাতাসের পরিবর্তে বিশুদ্ধ হাইড্রোজেন গ্যাস কেন ব্যাপকভাবে ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is completely non-flammable",
+            "bn": "এটি সম্পূর্ণ অদাহ্য"
+          },
+          {
+            "en": "It has much higher thermal conductivity and lower aerodynamic drag",
+            "bn": "এর অনেক বেশি তাপ পরিবাহিতা এবং কম অ্যারোডাইনামিক ড্র্যাগ রয়েছে"
+          },
+          {
+            "en": "It is heavier than air",
+            "bn": "এটি বাতাসের চেয়ে ভারী"
+          },
+          {
+            "en": "It forms insulating solid compounds",
+            "bn": "এটি নিরোধক কঠিন যৌগ গঠন করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Hydrogen transfers heat far more efficiently than air and its extremely low density reduces windage losses (friction) in the spinning rotor.",
+          "bn": "হাইড্রোজেন বাতাসের চেয়ে অনেক বেশি দক্ষতার সাথে তাপ স্থানান্তর করে এবং এর অত্যন্ত কম ঘনত্বের কারণে ঘূর্ণায়মান রোটরে ঘর্ষণজনিত ক্ষতি হ্রাস পায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "According to the Brønsted-Lowry acid-base theory, what strictly defines an acid in relation to the hydrogen atom?",
+          "bn": "ব্রনস্টেড-লাউরি অ্যাসিড-বেস তত্ত্ব অনুসারে, হাইড্রোজেন পরমাণুর সাপেক্ষে অ্যাসিডের কঠোর সংজ্ঞা কী?"
+        },
+        "options": [
+          {
+            "en": "An electron pair acceptor",
+            "bn": "একটি ইলেকট্রন জোড় গ্রহণকারী"
+          },
+          {
+            "en": "A substance that produces OH- ions",
+            "bn": "একটি পদার্থ যা OH- আয়ন তৈরি করে"
+          },
+          {
+            "en": "A proton (H+) donor",
+            "bn": "একটি প্রোটন (H+) দাতা"
+          },
+          {
+            "en": "A substance that turns red litmus blue",
+            "bn": "একটি পদার্থ যা লাল লিটমাসকে নীল করে"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Brønsted-Lowry theory defines acids strictly as species that can donate a hydrogen ion (proton) to another substance.",
+          "bn": "ব্রনস্টেড-লাউরি তত্ত্ব অনুসারে অ্যাসিড হলো এমন পদার্থ যা অন্য কোনো পদার্থকে একটি হাইড্রোজেন আয়ন (প্রোটন) দান করতে পারে।"
+        }
       }
     ],
     "misconceptions": [
