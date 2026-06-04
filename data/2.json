@@ -1,0 +1,1010 @@
+{
+  "elementId": 2,
+  "basicInformation": {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": {
+      "en": "Helium",
+      "bn": "হিলিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈhiːliəm/",
+      "bn": "হি-লি-আম"
+    },
+    "atomicMass": 4.0026,
+    "category": {
+      "en": "Noble gas",
+      "bn": "নিষ্ক্রিয় গ্যাস"
+    },
+    "group": 18,
+    "period": 1,
+    "block": "s",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Colorless gas",
+      "bn": "বর্ণহীন গ্যাস"
+    },
+    "color": {
+      "en": "Colorless",
+      "bn": "বর্ণহীন"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Pierre Janssen / Norman Lockyer",
+      "bn": "পিয়েরে জ্যানসেন / নর্ম্যান লকায়ার"
+    },
+    "discoveryYear": 1868,
+    "discoveryLocation": {
+      "en": "Observed in solar spectrum (India/UK); isolated on Earth in 1895 by William Ramsay (UK)",
+      "bn": "সৌর বর্ণালীতে পর্যবেক্ষণ করা হয় (ভারত/যুক্তরাজ্য); ১৮৯৫ সালে উইলিয়াম র‍্যামসে (যুক্তরাজ্য) পৃথিবীতে এটি বিচ্ছিন্ন করেন"
+    },
+    "discoveryStory": {
+      "en": "First detected during the 1868 solar eclipse by Janssen via an unidentified spectral line at 587.56 nm. Lockyer independently observed it and hypothesized it was an undiscovered element, naming it 'helium' after Helios, the Greek sun god. William Ramsay later isolated it from the mineral cleveite on Earth in 1895.",
+      "bn": "১৮৬৮ সালের সূর্যগ্রহণের সময় জ্যানসেন ৫৮৭.৫৬ ন্যানোমিটারে একটি অজ্ঞাত বর্ণালী রেখার মাধ্যমে প্রথম এটি শনাক্ত করেন। লকায়ার স্বাধীনভাবে এটি পর্যবেক্ষণ করেন এবং এটিকে একটি অনাবিষ্কৃত মৌল বলে অনুমান করেন, গ্রিক সূর্যদেবতা হেলিওসের নামানুসারে এর নাম রাখেন 'হিলিয়াম'। উইলিয়াম র‍্যামসে পরে ১৮৯৫ সালে ক্লিভাইট খনিজ থেকে পৃথিবীতে এটি বিচ্ছিন্ন করেন।"
+    },
+    "historicalUses": {
+      "en": "Non-flammable lifting gas for dirigibles and weather balloons since the 1920s, replacing dangerous hydrogen. Used extensively in cryogenics for superconducting magnets in MRI machines from the 1970s onward.",
+      "bn": "১৯২০ এর দশক থেকে বিপজ্জনক হাইড্রোজেনের পরিবর্তে ডিরিজিবল এবং আবহাওয়া বেলুনের জন্য অ-দাহ্য উত্তোলন গ্যাস হিসেবে ব্যবহৃত হয়। ১৯৭০ এর দশক থেকে MRI মেশিনের সুপারকন্ডাক্টিং চুম্বকের জন্য ক্রায়োজেনিক্সে ব্যাপকভাবে ব্যবহৃত হয়।"
+    },
+    "famousExperiments": {
+      "en": "Kamerlingh Onnes's 1908 liquefaction of helium at 4.2 K, which led directly to his discovery of superconductivity in mercury just three years later.",
+      "bn": "কামারলিং ওনেসের ১৯০৮ সালে ৪.২ K তাপমাত্রায় হিলিয়াম তরলীকরণ, যা মাত্র তিন বছর পরে পারদে সুপারকন্ডাক্টিভিটি আবিষ্কারের সরাসরি নেতৃত্ব দেয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 2,
+    "neutrons": 2,
+    "electrons": 2,
+    "valenceElectrons": 2,
+    "shells": 1,
+    "shellDistribution": [2],
+    "electronConfiguration": "1s²",
+    "orbitalConfiguration": {
+      "1s": 2
+    },
+    "oxidationStates": [0],
+    "quantumNumbers": {
+      "principal": 1,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.0001785,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": null,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 4.222,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 31,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 28,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 140,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.1513,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 5.193,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Hexagonal close-packed (hcp) under extreme pressure",
+      "bn": "চরম চাপে হেক্সাগোনাল ক্লোজ-প্যাকড (hcp)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": null,
+    "ionizationEnergy": {
+      "value": 2372.3,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 0,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Chemically inert under all standard conditions. No stable neutral compounds exist due to its completely filled 1s² shell. Does not react with any element or compound under normal circumstances.",
+      "bn": "সমস্ত আদর্শ পরিস্থিতিতে রাসায়নিকভাবে নিষ্ক্রিয়। সম্পূর্ণ পূর্ণ 1s² শেলের কারণে কোনো স্থিতিশীল নিরপেক্ষ যৌগ বিদ্যমান নেই। সাধারণ পরিস্থিতিতে কোনো মৌল বা যৌগের সাথে বিক্রিয়া করে না।"
+    },
+    "commonCompounds": [],
+    "flameTestColor": {
+      "en": "None (inert)",
+      "bn": "কোনটিই নয় (নিষ্ক্রিয়)"
+    },
+    "spectralLines": ["587.56nm", "667.81nm", "706.52nm", "728.13nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Pressurizing and purging of rocket fuel systems, arc welding shielding gas, leak detection in pressurized systems, and controlled atmosphere for semiconductor wafer production.",
+      "bn": "রকেট জ্বালানী সিস্টেম চাপযুক্ত এবং পরিষ্কার করা, আর্ক ওয়েল্ডিং শিল্ডিং গ্যাস, চাপযুক্ত সিস্টেমে লিক সনাক্তকরণ এবং সেমিকন্ডাক্টর ওয়েফার উৎপাদনের জন্য নিয়ন্ত্রিত পরিবেশ।"
+    },
+    "commercialUses": {
+      "en": "Lifting gas for party balloons, weather balloons, and advertising blimps. Helium-filled voice-alteration demonstrations.",
+      "bn": "পার্টি বেলুন, আবহাওয়া বেলুন এবং বিজ্ঞাপন ব্লিম্পের জন্য লিফটিং গ্যাস। হিলিয়াম-ভর্তি ভয়েস পরিবর্তন প্রদর্শনী।"
+    },
+    "electronicsUses": {
+      "en": "Used as a carrier gas in gas chromatography and as a blanket gas for the growth of silicon and germanium crystals in semiconductor manufacturing.",
+      "bn": "গ্যাস ক্রোমাটোগ্রাফিতে বাহক গ্যাস হিসেবে এবং সেমিকন্ডাক্টর উৎপাদনে সিলিকন ও জার্মেনিয়াম স্ফটিক বৃদ্ধির জন্য কম্বল গ্যাস হিসেবে ব্যবহৃত হয়।"
+    },
+    "semiconductorUses": {
+      "en": "Critical purge gas in extreme ultraviolet (EUV) lithography systems used for cutting-edge 3nm and 2nm chip manufacturing nodes.",
+      "bn": "অত্যাধুনিক ৩nm এবং ২nm চিপ উৎপাদন নোডের জন্য ব্যবহৃত এক্সট্রিম আল্ট্রাভায়োলেট (EUV) লিথোগ্রাফি সিস্টেমে সমালোচনামূলক পার্জ গ্যাস।"
+    },
+    "aerospaceUses": {
+      "en": "Used to purge hydrogen fuel lines on the Space Launch System (SLS). Pressurizes propellant tanks on launch vehicles. Wind tunnel testing at high Mach numbers.",
+      "bn": "স্পেস লঞ্চ সিস্টেম (SLS)-এ হাইড্রোজেন জ্বালানী লাইন পরিষ্কার করতে ব্যবহৃত হয়। লঞ্চ যানের প্রপেলান্ট ট্যাঙ্কে চাপ দেয়। উচ্চ ম্যাক সংখ্যায় বায়ু সুড়ঙ্গ পরীক্ষা।"
+    },
+    "batteryUses": {
+      "en": "Not directly used in battery systems; however, helium atmosphere is used during manufacture of certain solid-state battery electrolytes to prevent moisture contamination.",
+      "bn": "ব্যাটারি সিস্টেমে সরাসরি ব্যবহৃত হয় না; তবে, আর্দ্রতা দূষণ রোধ করতে নির্দিষ্ট সলিড-স্টেট ব্যাটারি ইলেক্ট্রোলাইট উৎপাদনের সময় হিলিয়াম পরিবেশ ব্যবহার করা হয়।"
+    },
+    "aiHardwareUses": {
+      "en": "Liquid helium is indispensable for cooling superconducting qubits in quantum computing systems to near absolute zero (~15 millikelvin), a foundational technology for next-generation AI accelerators.",
+      "bn": "কোয়ান্টাম কম্পিউটিং সিস্টেমে সুপারকন্ডাক্টিং কিউবিটগুলিকে পরম শূন্যের (~১৫ মিলিকেলভিন) কাছাকাছি ঠান্ডা করার জন্য তরল হিলিয়াম অপরিহার্য, যা পরবর্তী প্রজন্মের এআই অ্যাক্সেলারেটরের জন্য একটি ভিত্তিগত প্রযুক্তি।"
+    },
+    "renewableEnergyUses": {
+      "en": "Used in the cooling systems of fusion reactor magnets (ITER) and as a heat transfer medium in Generation IV pebble-bed nuclear reactors.",
+      "bn": "ফিউশন চুল্লির চুম্বক (ITER) এর কুলিং সিস্টেমে এবং জেনারেশন IV পেবল-বেড নিউক্লিয়ার রিঅ্যাক্টরে তাপ স্থানান্তর মাধ্যম হিসেবে ব্যবহৃত হয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Helium ion microscopy (HIM) provides resolution superior to electron microscopes for nanoscale surface imaging and nanofabrication at sub-nm precision.",
+      "bn": "হিলিয়াম আয়ন মাইক্রোস্কোপি (HIM) ন্যানো-স্কেল সারফেস ইমেজিং এবং সাব-ন্যানোমিটার নির্ভুলতায় ন্যানোফ্যাব্রিকেশনের জন্য ইলেকট্রন মাইক্রোস্কোপের চেয়ে উন্নত রেজোলিউশন প্রদান করে।"
+    },
+    "nuclearUses": {
+      "en": "Helium-3 (³He), a rare isotope, is sought as an advanced fuel for aneutronic fusion reactions. Helium-4 is the primary coolant in High-Temperature Gas-cooled Reactors (HTGRs).",
+      "bn": "হিলিয়াম-৩ (³He), একটি বিরল আইসোটোপ, অ্যানিউট্রোনিক ফিউশন বিক্রিয়ার জন্য একটি উন্নত জ্বালানী হিসেবে চাওয়া হচ্ছে। হিলিয়াম-৪ হল হাই-টেম্পারেচার গ্যাস-কুলড রিঅ্যাক্টর (HTGRs) এর প্রাথমিক কুল্যান্ট।"
+    },
+    "militaryUses": {
+      "en": "Pressurization of guidance system components in ballistic missiles. Surveillance balloon lifting gas for persistent intelligence, surveillance, and reconnaissance (ISR) platforms.",
+      "bn": "ব্যালিস্টিক ক্ষেপণাস্ত্রে গাইডেন্স সিস্টেম উপাদান চাপযুক্ত করা। স্থায়ী গোয়েন্দা, নজরদারি এবং পুনরুদ্ধার (ISR) প্ল্যাটফর্মের জন্য নজরদারি বেলুন উত্তোলন গ্যাস।"
+    },
+    "medicalUses": {
+      "en": "Liquid helium as the primary cryogen for MRI machine superconducting magnets. Helium-oxygen mixtures (Heliox) to treat severe respiratory conditions like croup and asthma by reducing breathing resistance.",
+      "bn": "MRI মেশিনের সুপারকন্ডাক্টিং চুম্বকের জন্য প্রাথমিক ক্রায়োজেন হিসেবে তরল হিলিয়াম। ক্রুপ এবং হাঁপানির মতো গুরুতর শ্বাসকষ্টের চিকিৎসার জন্য শ্বাসকষ্ট কমাতে হিলিয়াম-অক্সিজেন মিশ্রণ (হেলিঅক্স)।"
+    },
+    "foodIndustryUses": {
+      "en": "Minimal direct food use. Used in controlled-atmosphere packaging equipment testing and as a tracer gas for leak detection in food-grade sealed packaging lines.",
+      "bn": "সরাসরি খাদ্য ব্যবহার ন্যূনতম। নিয়ন্ত্রিত বায়ুমণ্ডলের প্যাকেজিং সরঞ্জাম পরীক্ষায় এবং খাদ্য-গ্রেডের সিলড প্যাকেজিং লাইনে লিক সনাক্তকরণের জন্য ট্রেসার গ্যাস হিসেবে ব্যবহৃত হয়।"
+    },
+    "constructionUses": {
+      "en": "Tracer gas for locating leaks in pressurized natural gas pipelines, HVAC ductwork, and building envelope airtightness testing.",
+      "bn": "চাপযুক্ত প্রাকৃতিক গ্যাস পাইপলাইন, এইচভিএসি ডাক্টওয়ার্ক এবং ভবনের এনভেলোপ বায়ুচলাচল পরীক্ষায় লিক সনাক্ত করার জন্য ট্রেসার গ্যাস।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological role. Helium is completely inert and does not participate in any biochemical processes or enzymatic reactions.",
+      "bn": "কোনো পরিচিত জৈবিক ভূমিকা নেই। হিলিয়াম সম্পূর্ণ নিষ্ক্রিয় এবং কোনো জৈব রাসায়নিক প্রক্রিয়া বা এনজাইমেটিক বিক্রিয়ায় অংশ নেয় না।"
+    },
+    "humanBodyRole": {
+      "en": "No metabolic role. When inhaled at high concentrations, it acts as a simple asphyxiant by diluting breathable oxygen. Medical Heliox mixtures reduce airway resistance in obstructed patients.",
+      "bn": "কোনো বিপাকীয় ভূমিকা নেই। উচ্চ ঘনত্বে শ্বাস নিলে, এটি শ্বাসযোগ্য অক্সিজেন পাতলা করে শ্বাসরোধকারী হিসেবে কাজ করে। চিকিৎসা হেলিঅক্স মিশ্রণ বাধাগ্রস্ত রোগীদের বায়ুপথের প্রতিরোধ কমায়।"
+    },
+    "toxicity": {
+      "en": "Non-toxic and chemically inert. Primary hazard is asphyxiation in confined spaces when it displaces oxygen below safe breathing levels.",
+      "bn": "অ-বিষাক্ত এবং রাসায়নিকভাবে নিষ্ক্রিয়। প্রধান বিপদ হল আবদ্ধ স্থানে শ্বাসরোধ যখন এটি অক্সিজেনকে নিরাপদ শ্বাস-প্রশ্বাসের মাত্রার নিচে স্থানচ্যুত করে।"
+    },
+    "environmentalImpact": {
+      "en": "Chemically inert and environmentally benign. Released helium rapidly escapes into the upper atmosphere and is eventually lost to space, making it a non-renewable terrestrial resource.",
+      "bn": "রাসায়নিকভাবে নিষ্ক্রিয় এবং পরিবেশগতভাবে নিরীহ। নির্গত হিলিয়াম দ্রুত উপরের বায়ুমণ্ডলে পালিয়ে যায় এবং শেষ পর্যন্ত মহাকাশে হারিয়ে যায়, এটিকে একটি অ-নবায়নযোগ্য ভূমি সম্পদে পরিণত করে।"
+    },
+    "pollutionRisks": {
+      "en": "Essentially zero. Helium is non-reactive, non-toxic, and non-flammable. It contributes neither to greenhouse warming nor to chemical pollution of air, water, or soil.",
+      "bn": "মূলত শূন্য। হিলিয়াম অ-প্রতিক্রিয়াশীল, অ-বিষাক্ত এবং অ-দাহ্য। এটি গ্রিনহাউস উষ্ণায়নে বা বায়ু, জল বা মাটির রাসায়নিক দূষণে অবদান রাখে না।"
+    },
+    "recyclingMethods": {
+      "en": "Helium can be recovered and recycled from MRI machines, cryogenic systems, and industrial processes using adsorption-based purification and re-liquefaction plants. Recycling is economically critical given finite reserves.",
+      "bn": "শোষণ-ভিত্তিক পরিশোধন এবং পুনরায় তরলীকরণ প্ল্যান্ট ব্যবহার করে MRI মেশিন, ক্রায়োজেনিক সিস্টেম এবং শিল্প প্রক্রিয়া থেকে হিলিয়াম পুনরুদ্ধার এবং পুনর্ব্যবহার করা যায়। সীমিত মজুদ বিবেচনায় পুনর্ব্যবহার অর্থনৈতিকভাবে গুরুত্বপূর্ণ।"
+    },
+    "sustainabilityScore": 3.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Qatar",
+        "bn": "কাতার"
+      },
+      {
+        "en": "Algeria",
+        "bn": "আলজেরিয়া"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted as a byproduct of natural gas processing. Helium-rich natural gas fields (typically >0.3% He) are processed through cryogenic separation and fractional distillation.",
+      "bn": "প্রাকৃতিক গ্যাস প্রক্রিয়াকরণের উপজাত হিসেবে নিষ্কাশিত। হিলিয়াম সমৃদ্ধ প্রাকৃতিক গ্যাস ক্ষেত্রগুলি (সাধারণত >০.৩% He) ক্রায়োজেনিক বিচ্ছেদ এবং ভগ্নাংশ পাতনের মাধ্যমে প্রক্রিয়া করা হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "24% by mass (second most abundant element)",
+        "bn": "ভর অনুযায়ী ২৪% (দ্বিতীয় সর্বাধিক প্রচুর মৌল)"
+      },
+      "earthCrust": {
+        "en": "0.00000008% by mass (extremely scarce)",
+        "bn": "ভর অনুযায়ী ০.০০০০০০০৮% (অত্যন্ত দুর্লভ)"
+      },
+      "oceans": {
+        "en": "Trace amounts only",
+        "bn": "কেবলমাত্র ট্রেস পরিমাণ"
+      }
+    },
+    "marketValue": {
+      "en": "Industrial-grade liquid helium trades at approximately $15–$35 per cubic meter; prices are highly volatile due to supply chain disruptions and limited geological reserves.",
+      "bn": "শিল্প-গ্রেডের তরল হিলিয়াম প্রতি ঘনমিটারে প্রায় $১৫–$৩৫ এ বিক্রি হয়; সরবরাহ শৃঙ্খলের বিঘ্ন এবং সীমিত ভূতাত্ত্বিক মজুদের কারণে মূল্য অত্যন্ত অস্থির।"
+    },
+    "futureDemand": {
+      "en": "Projected to grow significantly driven by quantum computing, fusion energy programs (ITER), and expanding semiconductor fabrication capacity. Helium scarcity is considered a strategic national security concern.",
+      "bn": "কোয়ান্টাম কম্পিউটিং, ফিউশন শক্তি প্রোগ্রাম (ITER) এবং সেমিকন্ডাক্টর ফ্যাব্রিকেশন ক্ষমতা বৃদ্ধির দ্বারা চালিত উল্লেখযোগ্যভাবে বৃদ্ধি পাবে বলে পূর্বাভাস দেওয়া হয়েছে। হিলিয়ামের ঘাটতি একটি কৌশলগত জাতীয় নিরাপত্তা উদ্বেগ হিসেবে বিবেচিত হয়।"
+    },
+    "globalImportance": {
+      "en": "Classified as a critical mineral by the US, EU, and multiple nations. Essential for MRI healthcare infrastructure, advanced chip manufacturing, and frontier quantum and fusion research. Its non-renewable terrestrial nature makes conservation paramount.",
+      "bn": "মার্কিন যুক্তরাষ্ট্র, ইইউ এবং একাধিক দেশ দ্বারা একটি সমালোচনামূলক খনিজ হিসেবে শ্রেণীবদ্ধ। MRI স্বাস্থ্যসেবা অবকাঠামো, উন্নত চিপ উৎপাদন এবং সীমান্ত কোয়ান্টাম ও ফিউশন গবেষণার জন্য অপরিহার্য। এর অ-নবায়নযোগ্য ভূমি প্রকৃতি সংরক্ষণকে সর্বোচ্চ গুরুত্ব দেয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Simple asphyxiant in enclosed spaces. Liquid helium causes severe cryogenic burns (frostbite) on contact with skin. Rapid vaporization of liquid helium in a confined space can cause explosive pressure buildup.",
+      "bn": "আবদ্ধ স্থানে সাধারণ শ্বাসরোধকারী। তরল হিলিয়াম ত্বকের সংস্পর্শে গুরুতর ক্রায়োজেনিক পোড়া (তুষারপাত) ঘটায়। আবদ্ধ স্থানে তরল হিলিয়ামের দ্রুত বাষ্পীভবন বিস্ফোরক চাপ তৈরি করতে পারে।"
+    },
+    "storageRequirements": {
+      "en": "Store compressed gas cylinders in well-ventilated areas, secured upright. Liquid helium requires specialized double-walled vacuum-insulated Dewar flasks or cryogenic storage tanks. Avoid heat sources.",
+      "bn": "সংকুচিত গ্যাস সিলিন্ডারগুলি সু-বায়ুচলাচলযুক্ত জায়গায়, সোজাভাবে সুরক্ষিত করে সংরক্ষণ করুন। তরল হিলিয়ামের জন্য বিশেষ ডবল-ওয়ালড ভ্যাকুয়াম-ইনসুলেটেড ডেওয়ার ফ্লাস্ক বা ক্রায়োজেনিক স্টোরেজ ট্যাঙ্ক প্রয়োজন। তাপের উৎস এড়িয়ে চলুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use insulated cryogenic gloves and face shield when handling liquid helium. Ensure adequate ventilation to prevent oxygen-deficient atmospheres. Monitor O2 levels with fixed gas detectors when using in confined spaces.",
+      "bn": "তরল হিলিয়াম পরিচালনা করার সময় নিরোধক ক্রায়োজেনিক গ্লাভস এবং ফেস শিল্ড ব্যবহার করুন। অক্সিজেনের ঘাটতিজনিত বায়ুমণ্ডল রোধ করতে পর্যাপ্ত বায়ুচলাচল নিশ্চিত করুন। আবদ্ধ স্থানে ব্যবহার করার সময় স্থির গ্যাস ডিটেক্টর দিয়ে O2 মাত্রা পর্যবেক্ষণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "High-concentration inhalation displaces oxygen, causing rapid dizziness, unconsciousness, and death from asphyxiation. Inhaling directly from pressurized cylinders can rupture lung tissue. Cryogenic burns from liquid helium exposure.",
+      "bn": "উচ্চ ঘনত্বে শ্বাস গ্রহণ অক্সিজেন স্থানচ্যুত করে, দ্রুত মাথা ঘোরা, অজ্ঞানতা এবং শ্বাসরোধ থেকে মৃত্যু ঘটায়। সংকুচিত সিলিন্ডার থেকে সরাসরি শ্বাস নিলে ফুসফুসের টিস্যু ফেটে যেতে পারে। তরল হিলিয়ামের সংস্পর্শে ক্রায়োজেনিক পোড়া।"
+    },
+    "safetyLevel": {
+      "en": "Low Risk (Asphyxiant / Cryogenic Burn)",
+      "bn": "কম ঝুঁকি (শ্বাসরোধকারী / ক্রায়োজেনিক পোড়া)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Non-flammable Compressed Gas",
+        "bn": "অ-দাহ্য সংকুচিত গ্যাস"
+      },
+      {
+        "en": "Simple Asphyxiant",
+        "bn": "সাধারণ শ্বাসরোধকারী"
+      },
+      {
+        "en": "Cryogenic Liquid Hazard (liquid form)",
+        "bn": "ক্রায়োজেনিক তরল বিপদ (তরল আকারে)"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Helium is the second lightest element and a noble gas that refuses to react with anything. It is what makes balloons float and keeps MRI machines running.",
+      "bn": "হিলিয়াম দ্বিতীয় হালকা মৌল এবং একটি নিষ্ক্রিয় গ্যাস যা কোনো কিছুর সাথে বিক্রিয়া করতে অস্বীকার করে। এটিই বেলুনকে ভাসিয়ে রাখে এবং MRI মেশিন চালু রাখে।"
+    },
+    "advancedExplanation": {
+      "en": "With a complete and chemically impenetrable 1s² electron configuration, helium possesses the highest first ionization energy of any element (2372 kJ/mol) and a zero electron affinity. Its quantum mechanical superfluid phase, Helium-II, exhibits frictionless flow, infinite thermal conductivity, and the ability to climb walls — properties with no classical analogy and that only emerge below the lambda point (2.17 K).",
+      "bn": "একটি সম্পূর্ণ এবং রাসায়নিকভাবে অভেদ্য 1s² ইলেকট্রন কনফিগারেশনের সাথে, হিলিয়ামের যেকোনো মৌলের মধ্যে সর্বোচ্চ প্রথম আয়নীকরণ শক্তি (২৩৭২ kJ/mol) এবং শূন্য ইলেকট্রন আসক্তি রয়েছে। এর কোয়ান্টাম মেকানিক্যাল সুপারফ্লুইড পর্যায়, হিলিয়াম-II, ঘর্ষণহীন প্রবাহ, অসীম তাপীয় পরিবাহিতা এবং দেওয়াল বেয়ে ওঠার ক্ষমতা প্রদর্শন করে — এমন বৈশিষ্ট্য যার কোনো শাস্ত্রীয় সাদৃশ্য নেই এবং যা কেবল ল্যাম্বদা পয়েন্টের (২.১৭ K) নিচে দেখা দেয়।"
+    },
+    "funFacts": [
+      {
+        "en": "Helium is the only element on the periodic table that was discovered in space (the Sun) before it was found on Earth.",
+        "bn": "হিলিয়াম পর্যায় সারণির একমাত্র মৌল যা পৃথিবীতে আবিষ্কৃত হওয়ার আগে মহাকাশে (সূর্যে) আবিষ্কৃত হয়েছিল।"
+      },
+      {
+        "en": "Liquid Helium II is a quantum superfluid — it defies gravity by creeping up and over the walls of its container in a phenomenon called the 'Rollin film'.",
+        "bn": "তরল হিলিয়াম II একটি কোয়ান্টাম সুপারফ্লুইড — এটি 'রোলিন ফিল্ম' নামক একটি ঘটনায় তার পাত্রের দেওয়াল বেয়ে উপরে এবং বাইরে উঠে মাধ্যাকর্ষণকে অমান্য করে।"
+      },
+      {
+        "en": "Earth is slowly losing its helium forever. Because it is so light, escaped helium atoms reach escape velocity and are permanently lost to outer space.",
+        "bn": "পৃথিবী ধীরে ধীরে চিরকালের জন্য তার হিলিয়াম হারাচ্ছে। এটি এত হালকা হওয়ায়, পালিয়ে যাওয়া হিলিয়াম পরমাণুগুলি মুক্তি বেগ লাভ করে এবং স্থায়ীভাবে মহাকাশে হারিয়ে যায়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 1,
+        "relation": {
+          "en": "Both hydrogen and helium are extremely light gases in period 1, but helium's full electron shell makes it utterly inert while hydrogen is among the most reactive elements.",
+          "bn": "হাইড্রোজেন এবং হিলিয়াম উভয়ই পর্যায় ১-এর অত্যন্ত হালকা গ্যাস, কিন্তু হিলিয়ামের পূর্ণ ইলেকট্রন শেল এটিকে সম্পূর্ণ নিষ্ক্রিয় করে তোলে যখন হাইড্রোজেন সবচেয়ে প্রতিক্রিয়াশীল মৌলগুলির মধ্যে একটি।"
+        }
+      },
+      {
+        "compareWithId": 10,
+        "relation": {
+          "en": "Helium and Neon are both noble gases (Group 18) with full valence shells, but Neon has a larger atomic radius and slightly higher boiling point, and emits its characteristic orange-red glow in discharge tubes.",
+          "bn": "হিলিয়াম এবং নিয়ন উভয়ই পূর্ণ ভ্যালেন্স শেল সহ নিষ্ক্রিয় গ্যাস (গ্রুপ ১৮), কিন্তু নিয়নের পারমাণবিক ব্যাসার্ধ বড় এবং স্ফুটনাংক সামান্য বেশি, এবং ডিসচার্জ টিউবে এর বৈশিষ্ট্যসূচক কমলা-লাল আভা নির্গত করে।"
+        }
+      }
+    ],
+    "relatedElements": [1, 10, 18, 36],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "Why does helium have a completely filled valence shell despite being in Period 1 of the periodic table, which normally holds only 2 electrons?",
+          "bn": "পর্যায় সারণির পর্যায় ১-এ থাকা সত্ত্বেও কেন হিলিয়ামের ভ্যালেন্স শেল সম্পূর্ণ পূর্ণ, যা সাধারণত মাত্র ২টি ইলেকট্রন ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "It has extra orbitals from the d-block",
+            "bn": "এর d-ব্লক থেকে অতিরিক্ত অরবিটাল রয়েছে"
+          },
+          {
+            "en": "The 1s orbital holds a maximum of 2 electrons, which already constitutes a complete shell",
+            "bn": "1s অরবিটালে সর্বোচ্চ ২টি ইলেকট্রন থাকে, যা ইতিমধ্যে একটি সম্পূর্ণ শেল গঠন করে"
+          },
+          {
+            "en": "It borrows electrons from period 2 elements",
+            "bn": "এটি পর্যায় ২-এর মৌল থেকে ইলেকট্রন ধার করে"
+          },
+          {
+            "en": "Its nucleus has a special binding force",
+            "bn": "এর নিউক্লিয়াসে একটি বিশেষ বাঁধাই শক্তি রয়েছে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The n=1 shell consists only of the 1s subshell, which can hold a maximum of 2 electrons. Helium's 2 electrons completely fill this shell, giving it the electronic stability of a noble gas.",
+          "bn": "n=1 শেলে শুধুমাত্র 1s সাবশেল থাকে, যা সর্বোচ্চ ২টি ইলেকট্রন ধারণ করতে পারে। হিলিয়ামের ২টি ইলেকট্রন এই শেলটি সম্পূর্ণরূপে পূর্ণ করে, এটিকে একটি নিষ্ক্রিয় গ্যাসের ইলেকট্রনিক স্থিতিশীলতা প্রদান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Among all elements in the periodic table, helium holds what distinction regarding its first ionization energy?",
+          "bn": "পর্যায় সারণির সকল মৌলের মধ্যে, প্রথম আয়নীকরণ শক্তির বিষয়ে হিলিয়াম কী বিশেষ মর্যাদা রাখে?"
+        },
+        "options": [
+          {
+            "en": "Lowest first ionization energy",
+            "bn": "সর্বনিম্ন প্রথম আয়নীকরণ শক্তি"
+          },
+          {
+            "en": "Highest first ionization energy of any element",
+            "bn": "যেকোনো মৌলের মধ্যে সর্বোচ্চ প্রথম আয়নীকরণ শক্তি"
+          },
+          {
+            "en": "Median ionization energy",
+            "bn": "মধ্যবর্তী আয়নীকরণ শক্তি"
+          },
+          {
+            "en": "Cannot be ionized under any condition",
+            "bn": "কোনো পরিস্থিতিতে আয়নিত হতে পারে না"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Helium's first ionization energy of 2372.3 kJ/mol is the highest of any element, a result of its small atomic radius and the exceptionally strong nuclear attraction on its tightly held 1s electrons.",
+          "bn": "হিলিয়ামের ২৩৭২.৩ kJ/mol প্রথম আয়নীকরণ শক্তি যেকোনো মৌলের মধ্যে সর্বোচ্চ, যা এর ছোট পারমাণবিক ব্যাসার্ধ এবং শক্তভাবে ধরে রাখা 1s ইলেকট্রনগুলিতে অত্যন্ত শক্তিশালী পারমাণবিক আকর্ষণের ফলাফল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the unique physical behavior that distinguishes Helium-II (superfluid helium) from all other known liquids?",
+          "bn": "কোন অনন্য ভৌত আচরণ হিলিয়াম-II (সুপারফ্লুইড হিলিয়াম)-কে অন্য সকল পরিচিত তরল থেকে আলাদা করে?"
+        },
+        "options": [
+          {
+            "en": "It has extremely high viscosity",
+            "bn": "এর অত্যন্ত উচ্চ সান্দ্রতা রয়েছে"
+          },
+          {
+            "en": "It exhibits zero viscosity and creeps up container walls",
+            "bn": "এটি শূন্য সান্দ্রতা প্রদর্শন করে এবং পাত্রের দেওয়াল বেয়ে উপরে ওঠে"
+          },
+          {
+            "en": "It turns into plasma at room temperature",
+            "bn": "এটি কক্ষ তাপমাত্রায় প্লাজমায় পরিণত হয়"
+          },
+          {
+            "en": "It has a refractive index greater than 2",
+            "bn": "এর প্রতিসরাঙ্ক ২-এর বেশি"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Below the lambda point (2.17 K), liquid helium transitions to the superfluid phase He-II, which has exactly zero viscosity, infinite thermal conductivity, and spontaneously creeps out of open containers via the Rollin film effect.",
+          "bn": "ল্যাম্বদা পয়েন্টের (২.১৭ K) নিচে, তরল হিলিয়াম সুপারফ্লুইড পর্যায় He-II-তে রূপান্তরিত হয়, যার ঠিক শূন্য সান্দ্রতা, অসীম তাপ পরিবাহিতা এবং রোলিন ফিল্ম প্রভাবের মাধ্যমে খোলা পাত্র থেকে স্বতঃস্ফূর্তভাবে বেরিয়ে আসার ক্ষমতা রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is helium extracted from natural gas fields rather than from the atmosphere, even though the atmosphere contains helium?",
+          "bn": "যদিও বায়ুমণ্ডলে হিলিয়াম রয়েছে, তবুও কেন হিলিয়াম বায়ুমণ্ডলের পরিবর্তে প্রাকৃতিক গ্যাস ক্ষেত্র থেকে নিষ্কাশন করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Atmospheric helium is radioactive",
+            "bn": "বায়ুমণ্ডলীয় হিলিয়াম তেজস্ক্রিয়"
+          },
+          {
+            "en": "Atmospheric concentration (~5.2 ppm) is far too low; natural gas fields contain it at economically viable concentrations",
+            "bn": "বায়ুমণ্ডলীয় ঘনত্ব (~৫.২ ppm) অনেক কম; প্রাকৃতিক গ্যাস ক্ষেত্রে অর্থনৈতিকভাবে কার্যকর ঘনত্বে এটি রয়েছে"
+          },
+          {
+            "en": "Atmospheric separation is chemically impossible",
+            "bn": "বায়ুমণ্ডলীয় বিচ্ছেদ রাসায়নিকভাবে অসম্ভব"
+          },
+          {
+            "en": "Atmospheric helium has different isotopic ratios",
+            "bn": "বায়ুমণ্ডলীয় হিলিয়ামের আলাদা আইসোটোপিক অনুপাত রয়েছে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Helium makes up only about 5.2 ppm of Earth's atmosphere, making atmospheric extraction extremely energy-intensive and uneconomical. Natural gas fields in the US and Qatar can contain up to 7% helium, making field extraction the viable commercial method.",
+          "bn": "হিলিয়াম পৃথিবীর বায়ুমণ্ডলের মাত্র প্রায় ৫.২ ppm, যা বায়ুমণ্ডলীয় নিষ্কাশনকে অত্যন্ত শক্তি-নিবিড় এবং অলাভজনক করে তোলে। মার্কিন যুক্তরাষ্ট্র এবং কাতারের প্রাকৃতিক গ্যাস ক্ষেত্রে ৭% পর্যন্ত হিলিয়াম থাকতে পারে, যা ক্ষেত্র নিষ্কাশনকে কার্যকর বাণিজ্যিক পদ্ধতি করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the context of MRI machines, what is the specific function of liquid helium?",
+          "bn": "MRI মেশিনের প্রেক্ষাপটে, তরল হিলিয়ামের নির্দিষ্ট কার্য কী?"
+        },
+        "options": [
+          {
+            "en": "It generates the radio frequency pulses",
+            "bn": "এটি রেডিও ফ্রিকোয়েন্সি পালস তৈরি করে"
+          },
+          {
+            "en": "It cools the superconducting electromagnet coils to ~4K, enabling zero-resistance current flow and an intense stable magnetic field",
+            "bn": "এটি সুপারকন্ডাক্টিং ইলেক্ট্রোম্যাগনেট কয়েলগুলিকে ~4K-তে ঠান্ডা করে, শূন্য-প্রতিরোধ কারেন্ট প্রবাহ এবং একটি তীব্র স্থিতিশীল চৌম্বক ক্ষেত্র সক্ষম করে"
+          },
+          {
+            "en": "It is the contrast agent injected into patients",
+            "bn": "এটি রোগীদের মধ্যে ইনজেকশন করা কনট্রাস্ট এজেন্ট"
+          },
+          {
+            "en": "It shields the detector from external radiation",
+            "bn": "এটি বাইরের বিকিরণ থেকে ডিটেক্টরকে রক্ষা করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "MRI magnets are wound from superconducting wire (niobium-titanium alloy) that only loses electrical resistance near absolute zero. Liquid helium at ~4K maintains this superconducting state, allowing persistent high-current loops that generate the powerful 1.5T–3T magnetic fields needed for imaging.",
+          "bn": "MRI চুম্বকগুলি সুপারকন্ডাক্টিং তার (নিওবিয়াম-টাইটানিয়াম সংকর) দিয়ে তৈরি যা পরম শূন্যের কাছাকাছি বৈদ্যুতিক প্রতিরোধ হারায়। ~4K-তে তরল হিলিয়াম এই সুপারকন্ডাক্টিং অবস্থা বজায় রাখে, যা ইমেজিংয়ের জন্য প্রয়োজনীয় শক্তিশালী ১.৫T–৩T চৌম্বক ক্ষেত্র তৈরি করে স্থায়ী উচ্চ-কারেন্ট লুপ তৈরি করতে দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Helium-3 (³He) is extremely rare on Earth but may be abundant on the lunar surface. What makes ³He strategically valuable as a potential fusion fuel?",
+          "bn": "হিলিয়াম-৩ (³He) পৃথিবীতে অত্যন্ত দুর্লভ কিন্তু চন্দ্রপৃষ্ঠে প্রচুর থাকতে পারে। কী কারণে ³He একটি সম্ভাব্য ফিউশন জ্বালানী হিসেবে কৌশলগতভাবে মূল্যবান?"
+        },
+        "options": [
+          {
+            "en": "It undergoes fission, not fusion",
+            "bn": "এটি ফিউশন নয়, বিভাজন ঘটায়"
+          },
+          {
+            "en": "D+³He fusion produces no neutrons (aneutronic), reducing radioactive waste and enabling direct energy conversion",
+            "bn": "D+³He ফিউশন কোনো নিউট্রন তৈরি করে না (অ্যানিউট্রোনিক), তেজস্ক্রিয় বর্জ্য কমায় এবং সরাসরি শক্তি রূপান্তর সক্ষম করে"
+          },
+          {
+            "en": "It has higher mass than Tritium",
+            "bn": "ট্রিটিয়ামের চেয়ে এর ভর বেশি"
+          },
+          {
+            "en": "It is the primary product of uranium decay",
+            "bn": "এটি ইউরেনিয়াম ক্ষয়ের প্রাথমিক পণ্য"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The D-³He reaction (²H + ³He → ⁴He + p) produces only a proton and helium-4 — no neutrons. This aneutronic property means reactor walls would not become radioactivated, enabling simpler engineering and potentially direct conversion of energy from charged particle streams.",
+          "bn": "D-³He বিক্রিয়া (²H + ³He → ⁴He + p) শুধুমাত্র একটি প্রোটন এবং হিলিয়াম-৪ তৈরি করে — কোনো নিউট্রন নয়। এই অ্যানিউট্রোনিক বৈশিষ্ট্যের অর্থ হল চুল্লির দেওয়ালগুলি তেজস্ক্রিয় হবে না, যা সহজতর ইঞ্জিনিয়ারিং এবং চার্জড পার্টিকেল স্ট্রিম থেকে সম্ভাব্য সরাসরি শক্তি রূপান্তর সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Helium does not have a melting point at standard pressure. What is the unique reason for this anomaly?",
+          "bn": "আদর্শ চাপে হিলিয়ামের কোনো গলনাঙ্ক নেই। এই অসঙ্গতির অনন্য কারণ কী?"
+        },
+        "options": [
+          {
+            "en": "It decomposes before reaching its melting point",
+            "bn": "এটি তার গলনাঙ্কে পৌঁছানোর আগেই বিভাজিত হয়"
+          },
+          {
+            "en": "Quantum zero-point energy prevents helium atoms from solidifying at any temperature under standard pressure",
+            "bn": "কোয়ান্টাম শূন্য-বিন্দু শক্তি আদর্শ চাপে যেকোনো তাপমাত্রায় হিলিয়াম পরমাণুগুলিকে কঠিন হওয়া থেকে রোধ করে"
+          },
+          {
+            "en": "It forms diatomic molecules that prevent solidification",
+            "bn": "এটি দ্বিপরমাণু অণু গঠন করে যা কঠিনীকরণ রোধ করে"
+          },
+          {
+            "en": "Its crystalline structure melts at 0 K",
+            "bn": "এর ক্রিস্টালাইন কাঠামো ০ K এ গলে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Helium's extremely weak interatomic van der Waals forces are overcome by quantum mechanical zero-point energy — the minimum energy atoms possess even at absolute zero. This residual kinetic energy prevents helium from solidifying unless external pressure above 25 atmospheres is applied.",
+          "bn": "হিলিয়ামের অত্যন্ত দুর্বল আন্তঃপরমাণু ভ্যান ডার ওয়ালস বলগুলি কোয়ান্টাম মেকানিক্যাল শূন্য-বিন্দু শক্তি দ্বারা অতিক্রান্ত হয় — পরম শূন্যেও পরমাণুগুলির সর্বনিম্ন শক্তি থাকে। এই অবশিষ্ট গতিশক্তি হিলিয়ামকে কঠিন হতে বাধা দেয় যদি না ২৫ বায়ুমণ্ডলের উপরে বাহ্যিক চাপ প্রয়োগ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the origin of virtually all terrestrial helium found in natural gas reservoirs?",
+          "bn": "প্রাকৃতিক গ্যাস মজুদে পাওয়া কার্যত সমস্ত ভূমি হিলিয়ামের উৎস কী?"
+        },
+        "options": [
+          {
+            "en": "Captured from the solar wind by Earth's magnetic field",
+            "bn": "পৃথিবীর চৌম্বক ক্ষেত্র দ্বারা সৌরবায়ু থেকে ধারণ করা"
+          },
+          {
+            "en": "Alpha decay of radioactive elements (uranium and thorium) in Earth's crust over billions of years",
+            "bn": "কোটি কোটি বছর ধরে পৃথিবীর ভূত্বকে তেজস্ক্রিয় মৌল (ইউরেনিয়াম এবং থোরিয়াম) এর আলফা ক্ষয়"
+          },
+          {
+            "en": "Volcanic outgassing from the mantle",
+            "bn": "আবরণ থেকে আগ্নেয় গ্যাস বের হওয়া"
+          },
+          {
+            "en": "Decomposition of organic matter",
+            "bn": "জৈব পদার্থের পচন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Alpha particles emitted during the radioactive decay of uranium-238, uranium-235, and thorium-232 in the crust are helium-4 nuclei. These particles slow down, capture electrons, and accumulate as helium gas in porous rock formations sealed by impermeable caprock layers over geological timescales.",
+          "bn": "ভূত্বকে ইউরেনিয়াম-২৩৮, ইউরেনিয়াম-২৩৫ এবং থোরিয়াম-২৩২ এর তেজস্ক্রিয় ক্ষয়ের সময় নির্গত আলফা কণাগুলি হিলিয়াম-৪ নিউক্লিয়াস। এই কণাগুলি ধীর হয়ে যায়, ইলেকট্রন ধারণ করে এবং ভূতাত্ত্বিক সময়ের মধ্যে অভেদ্য ক্যাপরক স্তর দ্বারা সিলড ছিদ্রযুক্ত পাথর গঠনে হিলিয়াম গ্যাস হিসেবে জমা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does inhaling helium temporarily raise the pitch of a human voice?",
+          "bn": "হিলিয়াম শ্বাস নেওয়ার ফলে কেন মানুষের কণ্ঠস্বরের পিচ সাময়িকভাবে বেড়ে যায়?"
+        },
+        "options": [
+          {
+            "en": "Helium tightens the vocal cords",
+            "bn": "হিলিয়াম কণ্ঠনালী শক্ত করে"
+          },
+          {
+            "en": "Sound travels approximately 3 times faster in helium than air, raising the resonant frequencies of the vocal tract",
+            "bn": "শব্দ বাতাসের তুলনায় হিলিয়ামে প্রায় ৩ গুণ দ্রুত ভ্রমণ করে, কণ্ঠ নালীর অনুরণনমূলক কম্পাঙ্ক বাড়িয়ে তোলে"
+          },
+          {
+            "en": "Helium chemically reacts with the vocal cords",
+            "bn": "হিলিয়াম রাসায়নিকভাবে কণ্ঠনালীর সাথে বিক্রিয়া করে"
+          },
+          {
+            "en": "Increased lung pressure changes the vibration rate",
+            "bn": "বর্ধিত ফুসফুসের চাপ কম্পনের হার পরিবর্তন করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The speed of sound in a gas depends on its molecular weight. Helium (MW=4) is much lighter than air (average MW~29), so sound travels much faster in helium-filled airways. This increases the resonant frequencies of the vocal tract, shifting all harmonic frequencies upward and creating the characteristic 'chipmunk' voice effect.",
+          "bn": "গ্যাসে শব্দের গতি তার আণবিক ভরের উপর নির্ভর করে। হিলিয়াম (MW=4) বাতাসের (গড় MW~29) চেয়ে অনেক হালকা, তাই হিলিয়াম-ভর্তি বায়ুপথে শব্দ অনেক দ্রুত ভ্রমণ করে। এটি কণ্ঠ নালীর অনুরণনমূলক কম্পাঙ্ক বাড়ায়, সমস্ত হারমোনিক কম্পাঙ্ক উপরে স্থানান্তরিত করে এবং বৈশিষ্ট্যসূচক 'চিপমাঙ্ক' কণ্ঠস্বর প্রভাব তৈরি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period and group of the periodic table is helium placed, and why is its group placement considered somewhat debated?",
+          "bn": "হিলিয়াম পর্যায় সারণির কোন পর্যায় এবং গ্রুপে স্থাপিত হয়েছে, এবং কেন এর গ্রুপ স্থাপন কিছুটা বিতর্কিত বলে মনে করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Period 2, Group 2, no debate exists",
+            "bn": "পর্যায় ২, গ্রুপ ২, কোনো বিতর্ক নেই"
+          },
+          {
+            "en": "Period 1, Group 18; some argue it belongs in Group 2 due to its 1s² electron configuration matching alkaline earth metals",
+            "bn": "পর্যায় ১, গ্রুপ ১৮; কেউ কেউ যুক্তি দেন যে এটি 1s² ইলেকট্রন কনফিগারেশনের কারণে গ্রুপ ২-এ থাকা উচিত যা ক্ষারীয় মৃত্তিকা ধাতুর সাথে মিলে"
+          },
+          {
+            "en": "Period 1, Group 1, due to its s-block position",
+            "bn": "পর্যায় ১, গ্রুপ ১, এর s-ব্লক অবস্থানের কারণে"
+          },
+          {
+            "en": "Period 2, Group 18, no debate",
+            "bn": "পর্যায় ২, গ্রুপ ১৮, কোনো বিতর্ক নেই"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Helium is placed in Group 18 (noble gases) based on its chemical inertness. However, some chemists argue it technically belongs in Group 2 because it has a filled s-subshell (1s²), which mirrors the configuration of alkaline earth metals like beryllium (1s²2s²). IUPAC places it in Group 18 based on chemical behavior.",
+          "bn": "হিলিয়াম তার রাসায়নিক নিষ্ক্রিয়তার উপর ভিত্তি করে গ্রুপ ১৮ (নিষ্ক্রিয় গ্যাস)-এ স্থাপিত হয়েছে। তবে, কিছু রসায়নবিদ যুক্তি দেন যে এটি প্রযুক্তিগতভাবে গ্রুপ ২-এ অন্তর্গত কারণ এতে একটি পূর্ণ s-সাবশেল (1s²) রয়েছে, যা বেরিলিয়াম (1s²2s²) এর মতো ক্ষারীয় মৃত্তিকা ধাতুর কনফিগারেশনের সাথে মিলে। IUPAC রাসায়নিক আচরণের উপর ভিত্তি করে এটিকে গ্রুপ ১৮-তে রাখে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Under what specific extreme conditions can helium form chemical compounds, such as Na₂He?",
+          "bn": "কোন নির্দিষ্ট চরম পরিস্থিতিতে হিলিয়াম রাসায়নিক যৌগ গঠন করতে পারে, যেমন Na₂He?"
+        },
+        "options": [
+          {
+            "en": "At absolute zero temperature",
+            "bn": "পরম শূন্য তাপমাত্রায়"
+          },
+          {
+            "en": "At megabar (millions of atmospheres) pressures, forcing electronic interactions",
+            "bn": "মেগাবার (লক্ষ লক্ষ বায়ুমণ্ডল) চাপে, ইলেকট্রনিক মিথস্ক্রিয়াকে বাধ্য করা হয়"
+          },
+          {
+            "en": "In liquid phase at 4 K",
+            "bn": "৪ K-এ তরল পর্যায়ে"
+          },
+          {
+            "en": "Under intense UV radiation",
+            "bn": "তীব্র UV বিকিরণের অধীনে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "In 2017, researchers synthesized Na₂He at pressures of ~1.1 megabars (about 1.1 million atmospheres) in a diamond anvil cell. At such extreme pressures, electron redistribution enables helium to interact with sodium's electrons, forming a stable electride compound — confirming that noble gas reactivity is possible under planetary interior conditions.",
+          "bn": "২০১৭ সালে, গবেষকরা একটি ডায়মন্ড অ্যানভিল কোষে ~১.১ মেগাবার (প্রায় ১.১ মিলিয়ন বায়ুমণ্ডল) চাপে Na₂He সংশ্লেষণ করেন। এই ধরনের চরম চাপে, ইলেকট্রন পুনর্বণ্টন হিলিয়ামকে সোডিয়ামের ইলেকট্রনের সাথে মিথস্ক্রিয়া করতে সক্ষম করে, একটি স্থিতিশীল ইলেক্ট্রাইড যৌগ গঠন করে — নিশ্চিত করে যে গ্রহের অভ্যন্তরীণ পরিস্থিতিতে নিষ্ক্রিয় গ্যাসের সক্রিয়তা সম্ভব।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Penning Ionization effect, and which gas pair is the classic textbook example involving helium?",
+          "bn": "পেনিং আয়নীকরণ প্রভাব কী, এবং কোন গ্যাসের জুটি হিলিয়াম জড়িত ক্লাসিক পাঠ্যবই উদাহরণ?"
+        },
+        "options": [
+          {
+            "en": "Direct electron transfer between two noble gas atoms; He-Ne",
+            "bn": "দুটি নিষ্ক্রিয় গ্যাস পরমাণুর মধ্যে সরাসরি ইলেকট্রন স্থানান্তর; He-Ne"
+          },
+          {
+            "en": "Ionization of a target gas by collision with a metastable helium atom; He* + Ar → He + Ar⁺ + e⁻",
+            "bn": "মেটাস্টেবল হিলিয়াম পরমাণুর সাথে সংঘর্ষ দ্বারা একটি লক্ষ্য গ্যাসের আয়নীকরণ; He* + Ar → He + Ar⁺ + e⁻"
+          },
+          {
+            "en": "Fusion of helium nuclei under high temperature",
+            "bn": "উচ্চ তাপমাত্রায় হিলিয়াম নিউক্লিয়াসের ফিউশন"
+          },
+          {
+            "en": "Spectral emission from helium in plasma state",
+            "bn": "প্লাজমা অবস্থায় হিলিয়াম থেকে বর্ণালী নির্গমন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Penning Ionization occurs when a metastable excited atom (He*) with stored excitation energy collides with a ground-state atom of another species whose ionization energy is less than the excitation energy of He*. The energy is transferred, ionizing the target. The He*-Argon pair is a canonical example used in plasma physics and gas discharge lasers.",
+          "bn": "পেনিং আয়নীকরণ ঘটে যখন একটি মেটাস্টেবল উত্তেজিত পরমাণু (He*) সঞ্চিত উত্তেজনা শক্তি সহ অন্য প্রজাতির একটি গ্রাউন্ড-স্টেট পরমাণুর সাথে সংঘর্ষ করে যার আয়নীকরণ শক্তি He* এর উত্তেজনা শক্তির চেয়ে কম। শক্তি স্থানান্তরিত হয়, লক্ষ্যকে আয়নিত করে। He*-আর্গন জুটি প্লাজমা পদার্থবিজ্ঞান এবং গ্যাস ডিসচার্জ লেজারে ব্যবহৃত একটি আদর্শ উদাহরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is the Helium-II superfluid's thermal conductivity described compared to conventional materials?",
+          "bn": "প্রচলিত উপকরণের তুলনায় হিলিয়াম-II সুপারফ্লুইডের তাপ পরিবাহিতা কীভাবে বর্ণনা করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Lower than most metals",
+            "bn": "বেশিরভাগ ধাতুর চেয়ে কম"
+          },
+          {
+            "en": "Effectively infinite — heat moves as a wave (second sound) not molecular diffusion",
+            "bn": "কার্যকরভাবে অসীম — তাপ আণবিক প্রসারণ নয়, একটি তরঙ্গ (দ্বিতীয় শব্দ) হিসাবে চলে"
+          },
+          {
+            "en": "Equivalent to copper",
+            "bn": "তামার সমতুল্য"
+          },
+          {
+            "en": "Zero, as it is an insulator",
+            "bn": "শূন্য, কারণ এটি একটি নিরোধক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "In the superfluid phase He-II, heat is not transported by molecular diffusion but propagates as a quantum mechanical wave called 'second sound'. This gives He-II an effectively infinite thermal conductivity — thousands of times higher than the best metallic conductors — allowing it to instantly redistribute any temperature gradient.",
+          "bn": "সুপারফ্লুইড পর্যায় He-II-তে, তাপ আণবিক প্রসারণ দ্বারা পরিবহন করা হয় না বরং 'দ্বিতীয় শব্দ' নামক একটি কোয়ান্টাম মেকানিক্যাল তরঙ্গ হিসাবে প্রচারিত হয়। এটি He-II-কে কার্যকরভাবে অসীম তাপ পরিবাহিতা দেয় — সেরা ধাতব পরিবাহকের চেয়ে হাজার গুণ বেশি — যা এটিকে যেকোনো তাপমাত্রার গ্রেডিয়েন্ট তাৎক্ষণিকভাবে পুনর্বিতরণ করতে দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What property of helium makes it the ideal choice as a carrier gas in high-resolution gas chromatography (GC) analysis?",
+          "bn": "হিলিয়ামের কোন বৈশিষ্ট্য এটিকে উচ্চ-রেজোলিউশন গ্যাস ক্রোমাটোগ্রাফি (GC) বিশ্লেষণে বাহক গ্যাস হিসেবে আদর্শ পছন্দ করে তোলে?"
+        },
+        "options": [
+          {
+            "en": "High molecular mass improves separation",
+            "bn": "উচ্চ আণবিক ভর বিচ্ছেদ উন্নত করে"
+          },
+          {
+            "en": "Chemical inertness, low viscosity, high diffusivity, and excellent thermal conductivity for the TCD detector",
+            "bn": "রাসায়নিক নিষ্ক্রিয়তা, কম সান্দ্রতা, উচ্চ প্রসারণযোগ্যতা এবং TCD ডিটেক্টরের জন্য চমৎকার তাপীয় পরিবাহিতা"
+          },
+          {
+            "en": "It reacts with the column to improve retention",
+            "bn": "এটি ধারণ উন্নত করতে কলামের সাথে বিক্রিয়া করে"
+          },
+          {
+            "en": "It is the cheapest available gas",
+            "bn": "এটি সবচেয়ে সস্তা উপলব্ধ গ্যাস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "For GC, the ideal carrier gas must not react with analytes or the column. Helium is chemically inert, has low viscosity (allowing fast flow without high back-pressure), has high diffusivity (improving peak sharpness via the van Deemter equation), and its thermal conductivity is very different from most analytes, making it ideal for the thermal conductivity detector (TCD).",
+          "bn": "GC-এর জন্য, আদর্শ বাহক গ্যাস অবশ্যই বিশ্লেষণ পদার্থ বা কলামের সাথে বিক্রিয়া করবে না। হিলিয়াম রাসায়নিকভাবে নিষ্ক্রিয়, কম সান্দ্রতা আছে (উচ্চ ব্যাক-প্রেসার ছাড়াই দ্রুত প্রবাহের অনুমতি দেয়), উচ্চ প্রসারণযোগ্যতা আছে (ভ্যান ডিমটার সমীকরণের মাধ্যমে পিক তীক্ষ্ণতা উন্নত করে), এবং এর তাপ পরিবাহিতা বেশিরভাগ বিশ্লেষণ পদার্থ থেকে খুব আলাদা, যা এটিকে তাপীয় পরিবাহিতা ডিটেক্টর (TCD) এর জন্য আদর্শ করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Heliox, a therapeutic helium-oxygen breathing mixture, is clinically effective for treating which medical condition and why?",
+          "bn": "হেলিঅক্স, একটি থেরাপিউটিক হিলিয়াম-অক্সিজেন শ্বাস-প্রশ্বাসের মিশ্রণ, কোন চিকিৎসা অবস্থার চিকিৎসার জন্য ক্লিনিক্যালি কার্যকর এবং কেন?"
+        },
+        "options": [
+          {
+            "en": "Bacterial pneumonia; helium kills pathogens",
+            "bn": "ব্যাকটেরিয়াল নিউমোনিয়া; হিলিয়াম রোগজীবাণু মেরে ফেলে"
+          },
+          {
+            "en": "Upper airway obstruction (croup, asthma); its low density reduces airway resistance and the work of breathing",
+            "bn": "উপরের বায়ুপথ বাধা (ক্রুপ, হাঁপানি); এর কম ঘনত্ব বায়ুপথের প্রতিরোধ এবং শ্বাস-প্রশ্বাসের কাজ কমায়"
+          },
+          {
+            "en": "Carbon monoxide poisoning; helium displaces CO",
+            "bn": "কার্বন মনোক্সাইড বিষক্রিয়া; হিলিয়াম CO স্থানচ্যুত করে"
+          },
+          {
+            "en": "Hyperventilation; it increases CO2 levels",
+            "bn": "হাইপারভেন্টিলেশন; এটি CO2 মাত্রা বাড়ায়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Gas flow in airways can become turbulent when resistance is high. According to fluid dynamics (Reynolds number), turbulence is reduced with lower-density gases. Since helium has ~7x lower density than nitrogen, Heliox mixtures are far less turbulent than air, dramatically reducing the physical effort needed to breathe through constricted airways in conditions like severe asthma or post-extubation stridor.",
+          "bn": "বায়ুপথে গ্যাসের প্রবাহ অশান্ত হতে পারে যখন প্রতিরোধ বেশি থাকে। ফ্লুইড ডায়নামিক্স (রেনোল্ডস সংখ্যা) অনুসারে, কম ঘনত্বের গ্যাসে অশান্তি হ্রাস পায়। যেহেতু হিলিয়ামের ঘনত্ব নাইট্রোজেনের চেয়ে ~৭ গুণ কম, হেলিঅক্স মিশ্রণ বাতাসের চেয়ে অনেক কম অশান্ত, যা গুরুতর হাঁপানি বা পোস্ট-এক্সটুবেশন স্ট্রিডরের মতো পরিস্থিতিতে সংকুচিত বায়ুপথের মধ্য দিয়ে শ্বাস নিতে প্রয়োজনীয় শারীরিক প্রচেষ্টাকে নাটকীয়ভাবে হ্রাস করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which particle does helium emit during alpha decay, and what element does the decaying atom transform into after losing an alpha particle?",
+          "bn": "আলফা ক্ষয়ের সময় হিলিয়াম কোন কণা নির্গত করে, এবং একটি আলফা কণা হারানোর পর ক্ষয়প্রাপ্ত পরমাণু কোন মৌলে পরিণত হয়?"
+        },
+        "options": [
+          {
+            "en": "A proton; the atom becomes an isotope of the same element",
+            "bn": "একটি প্রোটন; পরমাণু একই মৌলের একটি আইসোটোপে পরিণত হয়"
+          },
+          {
+            "en": "A helium-4 nucleus (2 protons + 2 neutrons); the parent atom's atomic number decreases by 2 and mass by 4",
+            "bn": "একটি হিলিয়াম-৪ নিউক্লিয়াস (২ প্রোটন + ২ নিউট্রন); মূল পরমাণুর পারমাণবিক সংখ্যা ২ এবং ভর ৪ হ্রাস পায়"
+          },
+          {
+            "en": "An electron; the atom gains one proton number",
+            "bn": "একটি ইলেকট্রন; পরমাণু একটি প্রোটন সংখ্যা লাভ করে"
+          },
+          {
+            "en": "A neutron; the mass decreases by 1",
+            "bn": "একটি নিউট্রন; ভর ১ হ্রাস পায়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "An alpha particle is identical to a helium-4 nucleus (⁴He²⁺), containing 2 protons and 2 neutrons. When a nucleus undergoes alpha decay, it loses this particle, causing its atomic number Z to decrease by 2 and its mass number A to decrease by 4. For example, Radium-226 (Z=88) decays to Radon-222 (Z=86) by alpha emission.",
+          "bn": "একটি আলফা কণা হিলিয়াম-৪ নিউক্লিয়াসের (⁴He²⁺) সাথে অভিন্ন, যেটিতে ২টি প্রোটন এবং ২টি নিউট্রন রয়েছে। যখন একটি নিউক্লিয়াস আলফা ক্ষয় ঘটায়, তখন এটি এই কণা হারায়, যার ফলে এর পারমাণবিক সংখ্যা Z ২ হ্রাস পায় এবং ভর সংখ্যা A ৪ হ্রাস পায়। উদাহরণস্বরূপ, রেডিয়াম-২২৬ (Z=৮৮) আলফা নির্গমনের মাধ্যমে রেডন-২২২ (Z=৮৬)-এ ক্ষয়প্রাপ্ত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which spectral line of helium, first observed during a solar eclipse, led to the discovery of the element itself, and at what wavelength is it found?",
+          "bn": "হিলিয়ামের কোন বর্ণালী রেখা, যা প্রথম সূর্যগ্রহণের সময় পর্যবেক্ষণ করা হয়েছিল, মৌলটির আবিষ্কারের দিকে পরিচালিত করেছিল এবং এটি কোন তরঙ্গদৈর্ঘ্যে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "The D2 line at 589.0 nm (sodium yellow)",
+            "bn": "৫৮৯.০ nm-এ D2 রেখা (সোডিয়াম হলুদ)"
+          },
+          {
+            "en": "The D3 line at 587.56 nm, falling between sodium's D1 and D2 lines and unexplained by any known element",
+            "bn": "৫৮৭.৫৬ nm-এ D3 রেখা, সোডিয়ামের D1 এবং D2 রেখার মাঝখানে পড়ে এবং কোনো পরিচিত মৌল দ্বারা ব্যাখ্যাযোগ্য নয়"
+          },
+          {
+            "en": "A line at 656 nm in the hydrogen Balmer series",
+            "bn": "হাইড্রোজেন বামার সিরিজে ৬৫৬ nm-এ একটি রেখা"
+          },
+          {
+            "en": "An ultraviolet line at 121 nm",
+            "bn": "১২১ nm-এ একটি অতিবেগুনী রেখা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "During the 1868 solar eclipse, Janssen and Lockyer independently observed a bright yellow spectral emission line at 587.56 nm in the solar chromosphere that did not correspond to any element known at the time. It was dubbed the D3 line (next to sodium's D1/D2 doublet) and later confirmed to be a new element — helium — isolated on Earth 27 years later by William Ramsay in 1895.",
+          "bn": "১৮৬৮ সালের সূর্যগ্রহণের সময়, জ্যানসেন এবং লকায়ার স্বাধীনভাবে সৌর ক্রোমোস্ফিয়ারে ৫৮৭.৫৬ nm-এ একটি উজ্জ্বল হলুদ বর্ণালী নির্গমন রেখা পর্যবেক্ষণ করেন যা সেই সময় পরিচিত কোনো মৌলের সাথে মিলেনি। এটিকে D3 রেখা (সোডিয়ামের D1/D2 ডাবলেটের পাশে) বলা হয়েছিল এবং পরে একটি নতুন মৌল হিসেবে নিশ্চিত করা হয়েছিল — হিলিয়াম — ২৭ বছর পরে ১৮৯৫ সালে উইলিয়াম র‍্যামসে পৃথিবীতে বিচ্ছিন্ন করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is helium considered a non-renewable resource on Earth, unlike water or atmospheric oxygen?",
+          "bn": "জল বা বায়ুমণ্ডলীয় অক্সিজেনের মতো পৃথিবীতে হিলিয়ামকে কেন অ-নবায়নযোগ্য সম্পদ হিসেবে বিবেচনা করা হয়?"
+        },
+        "options": [
+          {
+            "en": "It can only be found in meteorites",
+            "bn": "এটি শুধুমাত্র উল্কাপিণ্ডে পাওয়া যায়"
+          },
+          {
+            "en": "Once released, its low mass allows it to escape Earth's gravity permanently; and its geological production rate is extremely slow",
+            "bn": "একবার নির্গত হলে, এর কম ভর এটিকে পৃথিবীর মাধ্যাকর্ষণ থেকে স্থায়ীভাবে পালাতে দেয়; এবং এর ভূতাত্ত্বিক উৎপাদন হার অত্যন্ত ধীর"
+          },
+          {
+            "en": "It reacts with the atmosphere and forms stable compounds",
+            "bn": "এটি বায়ুমণ্ডলের সাথে বিক্রিয়া করে এবং স্থিতিশীল যৌগ গঠন করে"
+          },
+          {
+            "en": "Human industry rapidly converts it into other elements",
+            "bn": "মানব শিল্প দ্রুত এটিকে অন্য মৌলে রূপান্তরিত করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Earth's helium is produced by the alpha decay of uranium and thorium deep within the crust — a geological process taking billions of years. Once helium escapes industrial or natural containment into the open atmosphere, its thermal velocity exceeds Earth's escape velocity (~11.2 km/s) for a significant fraction of atoms, and it is gradually and permanently lost to space. There is no natural replenishment cycle on a human timescale.",
+          "bn": "পৃথিবীর হিলিয়াম ভূত্বকের গভীরে ইউরেনিয়াম এবং থোরিয়ামের আলফা ক্ষয় দ্বারা উৎপাদিত হয় — একটি ভূতাত্ত্বিক প্রক্রিয়া যা কোটি কোটি বছর সময় নেয়। একবার হিলিয়াম শিল্প বা প্রাকৃতিক আবদ্ধতা থেকে খোলা বায়ুমণ্ডলে বেরিয়ে গেলে, এর তাপীয় বেগ পরমাণুর একটি উল্লেখযোগ্য অংশের জন্য পৃথিবীর মুক্তি বেগ (~১১.২ km/s) অতিক্রম করে, এবং এটি ধীরে ধীরে এবং স্থায়ীভাবে মহাকাশে হারিয়ে যায়। মানবিক সময়সীমায় কোনো প্রাকৃতিক পুনরায় পূরণের চক্র নেই।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the context of deep-sea diving, what dangerous condition is associated with breathing nitrogen-oxygen mixtures at high pressure, and why is helium used as a replacement diluent?",
+          "bn": "গভীর সমুদ্র ডাইভিংয়ের প্রেক্ষাপটে, উচ্চ চাপে নাইট্রোজেন-অক্সিজেন মিশ্রণ শ্বাস নেওয়ার সাথে কোন বিপজ্জনক অবস্থা যুক্ত, এবং কেন হিলিয়ামকে প্রতিস্থাপন ডিলুয়েন্ট হিসেবে ব্যবহার করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Oxygen toxicity; helium does not oxidize at depth",
+            "bn": "অক্সিজেন বিষাক্ততা; হিলিয়াম গভীরতায় জারিত হয় না"
+          },
+          {
+            "en": "Nitrogen narcosis (raptures of the deep); helium has a much lower lipid solubility and does not cause narcosis at depth",
+            "bn": "নাইট্রোজেন নার্কোসিস (গভীরতার মোহ); হিলিয়ামের লিপিড দ্রাব্যতা অনেক কম এবং এটি গভীরতায় নার্কোসিস সৃষ্টি করে না"
+          },
+          {
+            "en": "Helium poisoning; small doses of helium are antidotes to nitrogen narcosis",
+            "bn": "হিলিয়াম বিষক্রিয়া; হিলিয়ামের ছোট ডোজ নাইট্রোজেন নার্কোসিসের প্রতিষেধক"
+          },
+          {
+            "en": "CO2 buildup; helium is a better CO2 scrubber",
+            "bn": "CO2 জমা; হিলিয়াম একটি ভালো CO2 স্ক্রাবার"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "At depths below 30 meters, nitrogen in compressed air dissolves into neural lipid membranes, causing nitrogen narcosis — an intoxicated, impaired state. Helium's near-zero lipid solubility means it does not accumulate in nervous tissue, making Trimix (helium-nitrogen-oxygen) and Heliox (helium-oxygen) safe breathing gases for professional saturation diving to hundreds of meters depth.",
+          "bn": "৩০ মিটারের নিচে গভীরতায়, সংকুচিত বাতাসে নাইট্রোজেন নিউরাল লিপিড মেমব্রেনে দ্রবীভূত হয়, নাইট্রোজেন নার্কোসিস সৃষ্টি করে — একটি নেশাগ্রস্ত, প্রতিবন্ধী অবস্থা। হিলিয়ামের প্রায়-শূন্য লিপিড দ্রাব্যতার অর্থ এটি স্নায়বিক টিস্যুতে জমা হয় না, ট্রাইমিক্স (হিলিয়াম-নাইট্রোজেন-অক্সিজেন) এবং হেলিঅক্স (হিলিয়াম-অক্সিজেন) কে শত শত মিটার গভীরতায় পেশাদার স্যাচুরেশন ডাইভিংয়ের জন্য নিরাপদ শ্বাস-প্রশ্বাসের গ্যাস করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which two cosmic nucleosynthesis processes are responsible for producing the vast majority of helium-4 in the universe?",
+          "bn": "মহাবিশ্বে হিলিয়াম-৪ এর বিশাল সংখ্যাগরিষ্ঠতা উৎপাদনের জন্য কোন দুটি মহাজাগতিক নিউক্লিওসিন্থেসিস প্রক্রিয়া দায়ী?"
+        },
+        "options": [
+          {
+            "en": "Neutron capture and fission",
+            "bn": "নিউট্রন ক্যাপচার এবং বিভাজন"
+          },
+          {
+            "en": "Big Bang Nucleosynthesis (BBN) and stellar hydrogen fusion in main-sequence stars",
+            "bn": "বিগ ব্যাং নিউক্লিওসিন্থেসিস (BBN) এবং প্রধান-ক্রম নক্ষত্রে তারকা হাইড্রোজেন ফিউশন"
+          },
+          {
+            "en": "Supernova explosions and planetary formation",
+            "bn": "সুপারনোভা বিস্ফোরণ এবং গ্রহ গঠন"
+          },
+          {
+            "en": "Cosmic ray spallation and radioactive decay of lithium",
+            "bn": "মহাজাগতিক রশ্মি স্প্যালেশন এবং লিথিয়ামের তেজস্ক্রিয় ক্ষয়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Approximately 24% of all baryonic matter in the universe is helium-4. About 75% of this was created within the first 3 minutes after the Big Bang during Big Bang Nucleosynthesis (BBN), when the universe cooled enough for protons and neutrons to fuse. The remaining ~25% of cosmic helium-4 has been continuously manufactured inside stars through the proton-proton chain and CNO cycle, which fuse four hydrogen nuclei into one helium-4 nucleus.",
+          "bn": "মহাবিশ্বের সমস্ত বেরিওনিক পদার্থের প্রায় ২৪% হিলিয়াম-৪। এর প্রায় ৭৫% বিগ ব্যাং-এর পরের প্রথম ৩ মিনিটের মধ্যে বিগ ব্যাং নিউক্লিওসিন্থেসিস (BBN) এর সময় তৈরি হয়েছিল, যখন মহাবিশ্ব প্রোটন এবং নিউট্রন ফিউজ করার জন্য যথেষ্ট ঠান্ডা হয়েছিল। অবশিষ্ট ~২৫% মহাজাগতিক হিলিয়াম-৪ প্রোটন-প্রোটন চেইন এবং CNO চক্রের মাধ্যমে নক্ষত্রের ভেতরে ক্রমাগত তৈরি হচ্ছে, যা চারটি হাইড্রোজেন নিউক্লিয়াসকে একটি হিলিয়াম-৪ নিউক্লিয়াসে ফিউজ করে।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Helium is completely harmless — While non-toxic, inhaling directly from pressurized containers is extremely dangerous and has caused deaths due to lung rupture and rapid oxygen displacement.",
+        "bn": "হিলিয়াম সম্পূর্ণ ক্ষতিকর নয় — অ-বিষাক্ত হলেও, সংকুচিত পাত্র থেকে সরাসরি শ্বাস নেওয়া অত্যন্ত বিপজ্জনক এবং ফুসফুস ফেটে যাওয়া ও দ্রুত অক্সিজেন স্থানচ্যুতির কারণে মৃত্যু ঘটিয়েছে।"
+      },
+      {
+        "en": "Noble gases never react — While true under standard conditions, extreme pressures (megabars) can force helium to form compounds like Na₂He, overturning the idea of absolute inertness.",
+        "bn": "নিষ্ক্রিয় গ্যাস কখনই বিক্রিয়া করে না — আদর্শ পরিস্থিতিতে সত্য হলেও, চরম চাপ (মেগাবার) হিলিয়ামকে Na₂He-এর মতো যৌগ গঠনে বাধ্য করতে পারে, পরম নিষ্ক্রিয়তার ধারণাকে উল্টে দেয়।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember: He is element 2, Group 18. It sits at the top-right of the periodic table. Its two electrons fill the 1s shell completely — this is why it is so stable and inert.",
+        "bn": "মনে রাখুন: He হল মৌল ২, গ্রুপ ১৮। এটি পর্যায় সারণির উপরের-ডানে অবস্থিত। এর দুটি ইলেকট্রন 1s শেলটি সম্পূর্ণরূপে পূর্ণ করে — এই কারণেই এটি এত স্থিতিশীল এবং নিষ্ক্রিয়।"
+      },
+      {
+        "en": "Connect helium to real-world applications: MRI machines, party balloons, and the coolant for quantum computers all rely on helium's unique properties.",
+        "bn": "হিলিয়ামকে বাস্তব-বিশ্বের প্রয়োগের সাথে সংযুক্ত করুন: MRI মেশিন, পার্টি বেলুন এবং কোয়ান্টাম কম্পিউটারের কুল্যান্ট সবই হিলিয়ামের অনন্য বৈশিষ্ট্যের উপর নির্ভর করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "⁴He + ⁴He + ⁴He → ¹²C (Triple-alpha process)",
+        "description": {
+          "en": "Three helium-4 nuclei fuse inside massive stars to form carbon-12 via the triple-alpha process, the stellar nucleosynthesis pathway responsible for producing all carbon in the universe.",
+          "bn": "তিনটি হিলিয়াম-৪ নিউক্লিয়াস বিশাল নক্ষত্রের ভেতরে ট্রিপল-আলফা প্রক্রিয়ার মাধ্যমে ফিউজ করে কার্বন-১২ তৈরি করে, মহাবিশ্বের সমস্ত কার্বন উৎপাদনের জন্য দায়ী নাক্ষত্রিক নিউক্লিওসিন্থেসিস পথ।"
+        }
+      },
+      {
+        "equation": "²H + ³He → ⁴He + ¹H (Aneutronic Fusion)",
+        "description": {
+          "en": "Deuterium-Helium-3 aneutronic fusion reaction — produces no neutrons, generates a proton and helium-4, and is the primary target reaction for advanced clean fusion energy reactors.",
+          "bn": "ডিউটেরিয়াম-হিলিয়াম-৩ অ্যানিউট্রোনিক ফিউশন বিক্রিয়া — কোনো নিউট্রন তৈরি করে না, একটি প্রোটন এবং হিলিয়াম-৪ উৎপন্ন করে, এবং উন্নত পরিষ্কার ফিউশন শক্তি চুল্লির প্রাথমিক লক্ষ্য বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "He → He⁺ + e⁻ (requires 2372 kJ/mol; only achievable in plasma or particle accelerators)",
+        "description": {
+          "en": "Ionization of helium requiring the highest first ionization energy of any element. Only achievable under extreme plasma conditions or high-energy particle physics experiments, not by ordinary chemical means.",
+          "bn": "হিলিয়ামের আয়নীকরণে যেকোনো মৌলের সর্বোচ্চ প্রথম আয়নীকরণ শক্তি প্রয়োজন। কেবলমাত্র চরম প্লাজমা পরিস্থিতিতে বা উচ্চ-শক্তির কণা পদার্থবিজ্ঞান পরীক্ষায় সম্ভব, সাধারণ রাসায়নিক উপায়ে নয়।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "He⁺ + e⁻ → He⁰ (plasma recombination)",
+        "description": {
+          "en": "Recombination of a helium ion with a free electron, occurring in plasma environments such as stellar interiors or laboratory fusion experiments, releasing a photon of characteristic wavelength.",
+          "bn": "প্লাজমা পরিবেশে যেমন নক্ষত্রের অভ্যন্তর বা পরীক্ষাগার ফিউশন পরীক্ষায় ঘটা হিলিয়াম আয়নের সাথে একটি মুক্ত ইলেকট্রনের পুনর্মিলন, বৈশিষ্ট্যসূচক তরঙ্গদৈর্ঘ্যের একটি ফোটন নির্গত করে।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Van der Waals Interaction (London Dispersion Force only)",
+          "bn": "ভ্যান ডার ওয়ালস মিথস্ক্রিয়া (শুধুমাত্র লন্ডন ডিসপার্সন ফোর্স)"
+        },
+        "molecule": "He···He",
+        "description": {
+          "en": "Helium atoms interact only via extremely weak London dispersion forces arising from instantaneous electron density fluctuations. The He-He interaction energy is the weakest known (~0.00088 kJ/mol), explaining helium's extraordinarily low boiling point of 4.22 K.",
+          "bn": "হিলিয়াম পরমাণুগুলি শুধুমাত্র তাৎক্ষণিক ইলেকট্রন ঘনত্ব ওঠানামা থেকে উদ্ভূত অত্যন্ত দুর্বল লন্ডন ডিসপার্সন বলের মাধ্যমে মিথস্ক্রিয়া করে। He-He মিথস্ক্রিয়া শক্তি পরিচিত সবচেয়ে দুর্বল (~০.০০০৮৮ kJ/mol), হিলিয়ামের অসাধারণভাবে কম ৪.২২ K এর স্ফুটনাংক ব্যাখ্যা করে।"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1009 @@
+{
+"elementId": 4,
+"basicInformation": {
+"atomicNumber": 4,
+"symbol": "Be",
+"name": {
+"en": "Beryllium",
+"bn": "বেরিলিয়াম"
+},
+"pronunciation": {
+"en": "/bəˈrɪliəm/",
+"bn": "বে-রি-লি-য়াম"
+},
+"atomicMass": 9.0122,
+"category": {
+"en": "Alkaline earth metal",
+"bn": "মৃত্তিকা ক্ষার ধাতু"
+},
+"group": 2,
+"period": 2,
+"block": "s",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "White-gray metallic",
+"bn": "সাদা-ধূসর ধাতব"
+},
+"color": {
+"en": "Gray",
+"bn": "ধূসর"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Louis Nicolas Vauquelin",
+"bn": "লুই নিকোলাস ভাক্লিন"
+},
+"discoveryYear": 1798,
+"discoveryLocation": {
+"en": "France",
+"bn": "ফ্রান্স"
+},
+"discoveryStory": {
+"en": "Vauquelin discovered beryllium as an oxide component in beryl and emeralds. Friedrich Wöhler and Antoine Bussy independently isolated the pure metal in 1828 by reacting potassium with beryllium chloride.",
+"bn": "ভাক্লিন বেরিল এবং পান্না খনিজে একটি অক্সাইড উপাদান হিসাবে বেরিলিয়াম আবিষ্কার করেন। ১৮২৮ সালে ফ্রিডরিখ ভোলার এবং অ্যান্টোইন বুসি পটাসিয়ামের সাথে বেরিলিয়াম ক্লোরাইডের বিক্রিয়া ঘটিয়ে স্বাধীনভাবে বিশুদ্ধ ধাতুটিকে আলাদা করেন।"
+},
+"historicalUses": {
+"en": "Initially used under the name 'glucinium' due to the sweet taste of its salts, before its extreme toxicity was fully understood.",
+"bn": "এর লবণের মিষ্টি স্বাদের কারণে প্রাথমিকভাবে এটি 'গ্লুসিনিয়াম' নামে ব্যবহৃত হতো, তবে পরবর্তীতে এর চরম বিষাক্ততা সম্পূর্ণরূপে জানা যায়।"
+},
+"famousExperiments": {
+"en": "James Chadwick's 1832 experiment where alpha particles bombarding beryllium led to the discovery of the neutron.",
+"bn": "জেমস চ্যাডউইকের ১৮৩২ সালের পরীক্ষা যেখানে বেরিলিয়ামকে আলফা কণা দ্বারা আঘাত করার মাধ্যমে নিউট্রন আবিষ্কৃত হয়েছিল।"
+}
+},
+"atomicStructure": {
+"protons": 4,
+"neutrons": 5,
+"electrons": 4,
+"valenceElectrons": 2,
+"shells": 2,
+"shellDistribution": [
+2,
+2
+],
+"electronConfiguration": "[He] 2s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2
+},
+"oxidationStates": [
+2
+],
+"quantumNumbers": {
+"principal": 2,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 1.85,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1560,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 2742,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 112,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 96,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 153,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 200,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 25.0,
+"unit": "MS/m"
+},
+"specificHeat": {
+"value": 1.825,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 5.5,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.57,
+"ionizationEnergy": {
+"value": 899.5,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 0.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Resists oxidation in air at room temperature due to a protective oxide layer. Reacts with acids and alkalis, exhibiting amphoteric properties.",
+"bn": "একটি প্রতিরক্ষামূলক অক্সাইড স্তরের কারণে কক্ষ তাপমাত্রায় বাতাসে জারণ প্রতিরোধ করে। অ্যাসিড এবং ক্ষার উভয়ের সাথেই বিক্রিয়া করে উভধর্মী বৈশিষ্ট্য প্রদর্শন করে।"
+},
+"commonCompounds": [
+"BeO",
+"BeCl₂",
+"BeF₂",
+"BeSO₄",
+"Be(OH)₂"
+],
+"flameTestColor": {
+"en": "White",
+"bn": "সাদা"
+},
+"spectralLines": [
+"313.11nm",
+"457.27nm",
+"467.34nm"
+]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Manufacture of beryllium-copper alloys used for heavy-duty springs, non-sparking tools, and electrical contacts.",
+"bn": "ভারী-ডিউটি স্প্রিংস, স্ফুলিঙ্গহীন সরঞ্জাম এবং বৈদ্যুতিক সংযোগের জন্য ব্যবহৃত বেরিলিয়াম-তামার সংকর ধাতু তৈরি।"
+},
+"commercialUses": {
+"en": "X-ray tube windows due to its low atomic number, which allows high transparency to X-rays.",
+"bn": "কম পারমাণবিক সংখ্যার কারণে এক্স-রে টিউব উইন্ডো তৈরিতে ব্যবহৃত হয়, যা এক্স-রে-র জন্য উচ্চ স্বচ্ছতা প্রদান করে।"
+},
+"electronicsUses": {
+"en": "Beryllium oxide (BeO) is used as a high-thermal-conductivity ceramic insulator in high-power RF transmitters.",
+"bn": "উচ্চ-শক্তির আরএফ ট্রান্সমিটারে বেরিলিয়াম অক্সাইড (BeO) উচ্চ-তাপ-পরিবাহী সিরামিক ইনসুলেটর হিসাবে ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "P-type dopant in compound semiconductors like Gallium Arsenide (GaAs) grown via molecular beam epitaxy.",
+"bn": "মলিকুলার বিম এপিট্যাক্সির মাধ্যমে উৎপাদিত গ্যালিয়াম আর্সেনাইড (GaAs) এর মতো যৌগিক সেমিকন্ডাক্টরে পি-টাইপ ডোপ্যান্ট হিসেবে।"
+},
+"aerospaceUses": {
+"en": "Primary structural material for extreme-stiffness, low-weight optical mirrors in space telescopes, notably the James Webb Space Telescope.",
+"bn": "মহাকাশ দূরবীক্ষণ যন্ত্রের (বিশেষ করে জেমস ওয়েব স্পেস টেলিস্কোপ) অত্যন্ত দৃঢ় এবং কম ওজনের অপটিক্যাল আয়নার প্রাথমিক কাঠামোগত উপাদান।"
+},
+"batteryUses": {
+"en": "Structural grids in specialized military-grade high-vibration battery systems.",
+"bn": "বিশেষায়িত সামরিক-গ্রেডের উচ্চ-কম্পনযুক্ত ব্যাটারি সিস্টেমে কাঠামোগত গ্রিড হিসেবে।"
+},
+"aiHardwareUses": {
+"en": "Structural chassis for next-generation lithography mirrors ensuring sub-nanometer stability in advanced chip manufacturing.",
+"bn": "উন্নত চিপ উত্পাদনে সাব-ন্যানোমিটার স্থিতিশীলতা নিশ্চিত করতে পরবর্তী প্রজন্মের লিথোগ্রাফি আয়নার কাঠামোগত চ্যাসিস।"
+},
+"renewableEnergyUses": {
+"en": "Alloys for stress-resistant bearings and structural connectors in offshore wind turbine gearboxes.",
+"bn": "অফশোর উইন্ড টারবাইন গিয়ারবক্সে চাপ-প্রতিরোধী বিয়ারিং এবং কাঠামোগত সংযোগকারীর জন্য সংকর ধাতু।"
+},
+"nanotechnologyUses": {
+"en": "Beryllium-doped quantum wells for high-efficiency far-infrared photodetectors.",
+"bn": "উচ্চ-দক্ষতার দূর-ইনফ্রারেড ফোটোডিটেক্টরের জন্য বেরিলিয়াম-ডোপড কোয়ান্টাম ওয়েলস।"
+},
+"nuclearUses": {
+"en": "Act as an efficient neutron reflector and moderator in nuclear reactors and experimental fusion facilities.",
+"bn": "পারমাণবিক চুল্লি এবং পরীক্ষামূলক ফিউশন সুবিধাগুলিতে একটি দক্ষ নিউট্রন প্রতিফলক এবং মডারেটর হিসাবে কাজ করে।"
+},
+"militaryUses": {
+"en": "Component in the pits of nuclear weapons to act as a neutron initiator and reflector; structural components in guided missiles.",
+"bn": "নিউট্রন ইনিশিয়েটর এবং প্রতিফলক হিসাবে কাজ করার জন্য পারমাণবিক অস্ত্রের পিটের উপাদান; গাইডেড মিসাইলের কাঠামোগত উপাদান।"
+},
+"medicalUses": {
+"en": "Ultra-thin beryllium foils used in high-resolution medical CT scanners and specialized imaging equipment.",
+"bn": "উচ্চ-রেজোলিউশন মেডিকেল সিটি স্ক্যানার এবং বিশেষায়িত ইমেজিং সরঞ্জামগুলিতে ব্যবহৃত আল্ট্রা-পাতলা বেরিলিয়াম ফয়েল।"
+},
+"foodIndustryUses": {
+"en": "Non-sparking material tools used in volatile organic powder handling facilities within industrial processing plants.",
+"bn": "শিল্প প্রক্রিয়াকরণ প্ল্যান্টের মধ্যে উদ্বায়ী জৈব পাউডার হ্যান্ডলিং সুবিধাগুলিতে ব্যবহৃত স্ফুলিঙ্গহীন সরঞ্জাম।"
+},
+"constructionUses": {
+"en": "High-strength structural components in specialized seismically isolated architectural installations.",
+"bn": "বিশেষায়িত ভূমিকম্প প্রতিরোধী স্থাপত্য স্থাপনায় উচ্চ-শক্তির কাঠামোগত উপাদান।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No known biological role. It is highly toxic and unnecessary for any living organism.",
+"bn": "কোনো পরিচিত জৈবিক ভূমিকা নেই। এটি অত্যন্ত বিষাক্ত এবং কোনো জীবন্ত প্রাণীর জন্য এর প্রয়োজন নেই।"
+},
+"humanBodyRole": {
+"en": "Extremely harmful. Competes with magnesium in biochemical pathways, inhibiting essential enzymes.",
+"bn": "অত্যন্ত ক্ষতিকারক। জৈব রাসায়নিক বিক্রিয়ায় এটি ম্যাগনেসিয়ামের সাথে প্রতিযোগিতা করে প্রয়োজনীয় এনজাইমগুলিকে বাধা দেয়।"
+},
+"toxicity": {
+"en": "Classified as a Category 1 carcinogen. Inhalation of dust causes Berylliosis, a fatal chronic lung disease.",
+"bn": "ক্যাটাগরি ১ কার্সিনোজেন হিসাবে শ্রেণীবদ্ধ। এর ধূলিকণা শ্বাস-প্রশ্বাসের সাথে শরীরে প্রবেশ করলে বেরিলিওসিস নামক একটি মারাত্মক ক্রনিক ফুসফুসের রোগ হয়।"
+},
+"environmentalImpact": {
+"en": "Beryllium compounds do not bioaccumulate significantly in food chains but remain tightly bound to soil particles.",
+"bn": "বেরিলিয়াম যৌগগুলি খাদ্য শৃঙ্খলে উল্লেখযোগ্যভাবে জৈব সঞ্চিত হয় না তবে মাটির কণার সাথে শক্তভাবে আবদ্ধ থাকে।"
+},
+"pollutionRisks": {
+"en": "Industrial emissions or improper electronic waste recycling can cause local soil contamination and respiratory risks to wildlife.",
+"bn": "শিল্প নির্গমন বা অনুপযুক্ত ইলেকট্রনিক বর্জ্য পুনর্ব্যবহার স্থানীয় মাটি দূষণ এবং বন্যপ্রাণীদের শ্বাসকষ্টের ঝুঁকি তৈরি করতে পারে।"
+},
+"recyclingMethods": {
+"en": "Pyrometallurgical processing of beryllium-copper scrap to recover and reformulate aerospace alloys.",
+"bn": "মহাকাশ সংকর ধাতু পুনরুদ্ধার এবং সংস্কার করতে বেরিলিয়াম-তামার স্ক্র্যাপের পাইরোমেটালার্জিক্যাল প্রক্রিয়াকরণ।"
+},
+"sustainabilityScore": 4.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Kazakhstan",
+"bn": "কাজাখস্তান"
+}
+],
+"miningMethods": {
+"en": "Open-pit extraction of bertrandite ores and underground mining of beryl pegmatites.",
+"bn": "বার্ট্রান্ডাইট আকরিকের ওপেন-পিট নিষ্কাশন এবং বেরিল পেগমাটাইটের ভূগর্ভস্থ খনি খনন।"
+},
+"abundance": {
+"universe": {
+"en": "0.000001% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০১%"
+},
+"earthCrust": {
+"en": "0.00028% by mass",
+"bn": "ভর অনুযায়ী ০.০০০২৮%"
+},
+"oceans": {
+"en": "6 × 10⁻¹¹% by mass",
+"bn": "ভর অনুযায়ী ৬ × ১০⁻১১%"
+}
+},
+"marketValue": {
+"en": "Highly valuable, high-purity vacuum-cast beryllium metal can range from $500 to $1,500 per kg depending on grade.",
+"bn": "অত্যন্ত মূল্যবান, উচ্চ-বিশুদ্ধতার ভ্যাকুয়াম-কাস্ট বেরিলিয়াম ধাতুর মূল্য গ্রেডের উপর ভিত্তি করে প্রতি কেজি $৫০০ থেকে $১,৫০০ পর্যন্ত হতে পারে।"
+},
+"futureDemand": {
+"en": "Increasing steady demand driven by defense systems, commercial space missions, and next-generation nuclear fusion R&D.",
+"bn": "প্রতিরক্ষা ব্যবস্থা, বাণিজ্যিক মহাকাশ মিশন এবং পরবর্তী প্রজন্মের পারমাণবিক ফিউশন আরঅ্যান্ডডি দ্বারা চালিত হয়ে এর চাহিদা ক্রমাগত বৃদ্ধি পাচ্ছে।"
+},
+"globalImportance": {
+"en": "Classified as a critical raw material globally due to its irreplaceable applications in defense and aerospace infrastructure.",
+"bn": "প্রতিরক্ষা এবং মহাকাশ অবকাঠামোতে অপূরণীয় প্রয়োগের কারণে বিশ্বব্যাপী এটিকে একটি গুরুত্বপূর্ণ কাঁচামাল হিসাবে শ্রেণীবদ্ধ করা হয়েছে।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Inhalation of airborne dust or fumes causes incurable chronic berylliosis and lung cancer. Skin contact can cause granulomas.",
+"bn": "বাতাসে থাকা ধুলো বা ধোঁয়া শ্বাস-প্রশ্বাসের মাধ্যমে গ্রহণ করলে নিরাময় অযোগ্য ক্রনিক বেরিলিওসিস এবং ফুসফুসের ক্যান্সার হয়। ত্বকের সংস্পর্শে গ্র্যানুলোমা হতে পারে।"
+},
+"storageRequirements": {
+"en": "Store in securely sealed, labeled containers inside negative-pressure enclosures with dedicated particulate filtration systems.",
+"bn": "উন্নত পার্টিকুলেট ফিল্ট্রেশন সিস্টেম যুক্ত নেগেটিভ-প্রেসার এনক্লোজারের ভিতরে সুরক্ষিতভাবে সিল করা, লেবেলযুক্ত পাত্রে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Strict HEPA-filtered ventilation, respirator usage, protective suits, and complete avoidance of mechanical processes that generate dry dust.",
+"bn": "কঠোর হেপা (HEPA) ফিল্টারযুক্ত বায়ুচলাচল, রেসপিরেটর ব্যবহার, প্রতিরক্ষামূলক স্যুট পরিধান এবং শুষ্ক ধুলো উৎপন্নকারী যান্ত্রিক প্রক্রিয়াগুলি সম্পূর্ণরূপে পরিহার করা।"
+},
+"exposureRisks": {
+"en": "Chronic lung inflammation, coughing, fatigue, chest pain, and severe long-term respiratory failure.",
+"bn": "দীর্ঘস্থায়ী ফুসফুসের প্রদাহ, কাশি, ক্লান্তি, বুকে ব্যথা এবং দীর্ঘমেয়াদে মারাত্মক শ্বাসকষ্ট।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Inhalation Hazard/Carcinogen)",
+"bn": "চরম ঝুঁকি (শ্বাসগ্রহণের ঝুঁকি/কার্সিনোজেন)"
+},
+"hazardClassifications": [
+{
+"en": "Highly Toxic",
+"bn": "অত্যন্ত বিষাক্ত"
+},
+{
+"en": "Carcinogenic",
+"bn": "ক্যান্সার সৃষ্টিকারী"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Beryllium is a very light but incredibly strong metal. Because it doesn't expand much under heat and lets X-rays pass right through, it's used to make spacecraft mirrors and advanced medical machinery.",
+"bn": "বেরিলিয়াম হলো খুব হালকা কিন্তু অবিশ্বাস্য রকমের শক্তিশালী একটি ধাতু। তাপে এটি খুব বেশি প্রসারিত হয় না এবং এর মধ্য দিয়ে সরাসরি এক্স-রে চলাচল করতে পারে বলে এটি মহাকাশযানের আয়না এবং উন্নত চিকিৎসা যন্ত্রপাতি তৈরিতে ব্যবহৃত হয়।"
+},
+"advancedExplanation": {
+"en": "Beryllium exhibits anomalous properties compared to other alkaline earth metals due to its exceptionally small atomic size and high charge density. This induces a high covalent character in its bonding (Fajans' Rules) and causes its oxide and hydroxide to be amphoteric rather than basic.",
+"bn": "ব্যতিক্রমী ছোট পারমাণবিক আকার এবং উচ্চ চার্জ ঘনত্বের কারণে বেরিলিয়াম অন্যান্য মৃত্তিকা ক্ষার ধাতুর তুলনায় ব্যতিক্রমী বৈশিষ্ট্য প্রদর্শন করে। এটি এর বন্ধনে উচ্চ সমযোজী চরিত্র প্ররোচিত করে (ফাযানের সূত্র) এবং এর অক্সাইড ও হাইড্রোক্সাইডকে ক্ষারীয় হওয়ার পরিবর্তে উভধর্মী করে তোলে।"
+},
+"funFacts": [
+{
+"en": "Emeralds get their beautiful green color from chromium impurities inside a crystal structure made mostly of beryllium.",
+"bn": "পান্নার সুন্দর সবুজ রঙ মূলত বেরিলিয়াম দ্বারা গঠিত স্ফটিক কাঠামোর ভিতরে ক্রোমিয়ামের অপদ্রব্যের কারণে তৈরি হয়।"
+},
+{
+"en": "Even though it is a metal, beryllium can taste sweet, but tasting it can lead to fatal poisoning.",
+"bn": "ধাতু হওয়া সত্ত্বেও বেরিলিয়াম মিষ্টি স্বাদের হতে পারে, তবে এটি আস্বাদন করলে মারাত্মক বিষক্রিয়া হতে পারে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 3,
+"relation": {
+"en": "Beryllium is significantly harder, has a much higher melting point, and is less reactive than Lithium, despite being right next to it.",
+"bn": "লিথিয়ামের ঠিক পাশে থাকা সত্ত্বেও, বেরিলিয়াম লিথিয়ামের তুলনায় উল্লেখযোগ্যভাবে শক্ত, এর গলনাঙ্ক অনেক বেশি এবং এটি কম প্রতিক্রিয়াশীল।"
+}
+}
+],
+"relatedElements": [
+3,
+12,
+13
+],
+"quizQuestions": [
+{
+"question": {
+"en": "Which physical property makes beryllium uniquely suitable for structural components in space telescopes like the James Webb Space Telescope?",
+"bn": "কোন ভৌত বৈশিষ্ট্যের কারণে বেরিলিয়াম জেমস ওয়েব স্পেস টেলিস্কোপের মতো মহাকাশ দূরবীক্ষণের কাঠামোগত উপাদানের জন্য অনন্যভাবে উপযোগী?"
+},
+"options": [
+{
+"en": "Low melting point",
+"bn": "কম গলনাঙ্ক"
+},
+{
+"en": "High density and malleability",
+"bn": "উচ্চ ঘনত্ব এবং নমনীয়তা"
+},
+{
+"en": "High stiffness-to-weight ratio and thermal stability",
+"bn": "উচ্চ দৃঢ়তা-ওজন অনুপাত এবং তাপীয় স্থায়িত্ব"
+},
+{
+"en": "Ferromagnetic properties",
+"bn": "ফেরোম্যাগনেটিক বৈশিষ্ট্য"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Beryllium retains its shape perfectly under extreme cryogenic conditions and is extremely rigid yet ultra-lightweight.",
+"bn": "চরম ক্রায়োজেনিক পরিস্থিতিতেও বেরিলিয়াম তার আকৃতি নিখুঁতভাবে বজায় রাখে এবং এটি অত্যন্ত কঠোর অথচ অতি-হালকা ওজনের।"
+}
+},
+{
+"question": {
+"en": "Why is beryllium metal highly transparent to X-ray radiation?",
+"bn": "বেরিলিয়াম ধাতু কেন এক্স-রে বিকিরণের প্রতি অত্যন্ত স্বচ্ছ?"
+},
+"options": [
+{
+"en": "It has an extremely low atomic number (Z=4) and few electrons to scatter X-rays",
+"bn": "এর পারমাণবিক সংখ্যা অত্যন্ত কম (Z=4) এবং এক্স-রে বিচ্ছুরণ করার জন্য খুব কম ইলেকট্রন রয়েছে"
+},
+{
+"en": "It is a liquid at room temperature",
+"bn": "এটি কক্ষ তাপমাত্রায় তরল থাকে"
+},
+{
+"en": "It contains zero neutrons",
+"bn": "এতে কোনো নিউট্রন নেই"
+},
+{
+"en": "It forms a dense gold protective layer",
+"bn": "এটি একটি ঘন সোনার প্রতিরক্ষামূলক স্তর গঠন করে"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "With only 4 electrons per atom, beryllium has a very low electron density, allowing X-rays to pass through with minimal absorption.",
+"bn": "প্রতিটি পরমাণুতে মাত্র ৪টি ইলেকট্রন থাকায়, বেরিলিয়ামের ইলেকট্রন ঘনত্ব খুব কম হয়, যার ফলে এক্স-রে ন্যূনতম শোষণ সহ এর মধ্য দিয়ে যেতে পারে।"
+}
+},
+{
+"question": {
+"en": "What fatal chronic disease is explicitly caused by inhaling dust or fumes of beryllium?",
+"bn": "বেরিলিয়ামের ধুলো বা ধোঁয়া শ্বাস-প্রশ্বাসের মাধ্যমে গ্রহণ করলে কোন মারাত্মক দীর্ঘস্থায়ী রোগটি হয়?"
+},
+"options": [
+{
+"en": "Silicosis",
+"bn": "সিলিকোসিস"
+},
+{
+"en": "Berylliosis",
+"bn": "বেরিলিওসিস"
+},
+{
+"en": "Asbestosis",
+"bn": "অ্যাসবেস্টোসিস"
+},
+{
+"en": "Minamata disease",
+"bn": "মিনামাটা রোগ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Berylliosis is an incurable granulomatous lung disease triggered by an immune response to inhaled beryllium particles.",
+"bn": "বেরিলিওসিস হলো একটি নিরাময় অযোগ্য গ্র্যানুলোম্যাটাস ফুসফুসের রোগ যা শ্বাস-প্রশ্বাসের সাথে গৃহীত বেরিলিয়াম কণার প্রতিরোধ ক্ষমতার প্রতিক্রিয়ার কারণে ঘটে।"
+}
+},
+{
+"question": {
+"en": "Beryllium shares a distinct 'diagonal relationship' with which group 13 element?",
+"bn": "বেরিলিয়াম গ্রুপ ১৩ এর কোন উপাদানের সাথে একটি স্পষ্ট 'কর্ণ সম্পর্ক' (diagonal relationship) শেয়ার করে?"
+},
+"options": [
+{
+"en": "Boron",
+"bn": "বোরন"
+},
+{
+"en": "Aluminum",
+"bn": "অ্যালুমিনিয়াম"
+},
+{
+"en": "Gallium",
+"bn": "গ্যালিয়াম"
+},
+{
+"en": "Indium",
+"bn": "ইন্ডিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Beryllium and Aluminum share similar electronegativities, ionic charge densities, and amphoteric behaviors due to their diagonal alignment.",
+"bn": "তাদের আড়াআড়ি বা কর্ণ অবস্থানের কারণে বেরিলিয়াম এবং অ্যালুমিনিয়াম অনুরূপ তড়িৎঋণাত্মকতা, আয়নিক চার্জ ঘনত্ব এবং উভধর্মী আচরণ প্রদর্শন করে।"
+}
+},
+{
+"question": {
+"en": "Which of the following compounds of beryllium displays amphoteric behavior?",
+"bn": "বেরিলিয়ামের নিচের কোন যৌগটি উভধর্মী আচরণ প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "BeCl2",
+"bn": "BeCl2"
+},
+{
+"en": "BeSO4",
+"bn": "BeSO4"
+},
+{
+"en": "Be(OH)2",
+"bn": "Be(OH)2"
+},
+{
+"en": "BeF2",
+"bn": "BeF2"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Beryllium hydroxide reacts with both strong acids to form salts and strong bases to form beryllates, proving it is amphoteric.",
+"bn": "বেরিলিয়াম হাইড্রোক্সাইড তীব্র অ্যাসিডের সাথে বিক্রিয়া করে লবণ এবং তীব্র ক্ষারের সাথে বিক্রিয়া করে বেরিলেট গঠন করে, যা প্রমাণ করে যে এটি উভধর্মী।"
+}
+},
+{
+"question": {
+"en": "According to Fajans' Rules, why do beryllium compounds like BeCl2 exhibit a high degree of covalent character?",
+"bn": "ফাযানের সূত্র অনুসারে, BeCl2 এর মতো বেরিলিয়াম যৌগগুলি কেন উচ্চ মাত্রায় সমযোজী চরিত্র প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "Large ionic size of Be2+",
+"bn": "Be2+ এর বড় আয়নিক আকার"
+},
+{
+"en": "Small size and high charge density of the Be2+ ion, leading to high polarizing power",
+"bn": "Be2+ আয়নের ছোট আকার এবং উচ্চ চার্জ ঘনত্ব, যা উচ্চ পোলারায়ন ক্ষমতা তৈরি করে"
+},
+{
+"en": "Low electronegativity of Chlorine",
+"bn": "ক্লোরিনের কম তড়িৎঋণাত্মকতা"
+},
+{
+"en": "Inert pair effect",
+"bn": "নিষ্ক্রিয় জোড় প্রভাব"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The tiny Be2+ cation has a high polarizing power that distorts the electron cloud of adjacent anions, introducing covalent nature.",
+"bn": "ক্ষুদ্র Be2+ ক্যাটায়নের একটি উচ্চ পোলারায়ন ক্ষমতা রয়েছে যা পার্শ্ববর্তী অ্যানায়নের ইলেকট্রন মেঘকে বিকৃত করে সমযোজী প্রকৃতির জন্ম দেয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary reason why beryllium copper alloys are used to manufacture tools for hazardous oil rigs and gas facilities?",
+"bn": "বিপজ্জনক তেল খনি এবং গ্যাস সুবিধার জন্য সরঞ্জাম তৈরি করতে বেরিলিয়াম তামার সংকর ধাতু ব্যবহার করার প্রাথমিক কারণ কী?"
+},
+"options": [
+{
+"en": "They dissolve completely in water",
+"bn": "এরা জলে সম্পূর্ণ দ্রবীভূত হয়"
+},
+{
+"en": "They are highly magnetic",
+"bn": "এরা অত্যন্ত চৌম্বকীয়"
+},
+{
+"en": "They are non-sparking and non-magnetic while remaining incredibly strong",
+"bn": "অবিশ্বাস্য রকমের শক্তিশালী হওয়া সত্ত্বেও এরা স্ফুলিঙ্গহীন এবং অ-চৌম্বকীয় হয়"
+},
+{
+"en": "They have a sweet odor",
+"bn": "এদের একটি মিষ্টি গন্ধ আছে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Tools made of beryllium copper do not create friction sparks, mitigating fire risks in explosive gas environments.",
+"bn": "বেরিলিয়াম তামা দিয়ে তৈরি সরঞ্জাম ঘর্ষণজনিত স্ফুলিঙ্গ তৈরি করে না, যা বিস্ফোরক গ্যাস পরিবেশে আগুনের ঝুঁকি হ্রাস করে।"
+}
+},
+{
+"question": {
+"en": "In James Chadwick's breakthrough 1932 experiment, bombarding beryllium with alpha particles resulted in the emission of which subatomic particle?",
+"bn": "জেমস চ্যাডউইকের ১৯৩২ সালের যুগান্তকারী পরীক্ষায়, বেরিলিয়ামকে আলফা কণা দ্বারা আঘাত করার ফলে কোন উপপারমাণবিক কণাটি নির্গত হয়েছিল?"
+},
+"options": [
+{
+"en": "Proton",
+"bn": "প্রোটন"
+},
+{
+"en": "Neutron",
+"bn": "নিউট্রন"
+},
+{
+"en": "Electron",
+"bn": "ইলেকট্রন"
+},
+{
+"en": "Positron",
+"bn": "পজিট্রন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The alpha particles reacted with beryllium-9 nuclei to form carbon-12 and a highly penetrating neutral radiation identified as neutrons.",
+"bn": "আলফা কণাগুলি বেরিলিয়াম-৯ নিউক্লিয়াসের সাথে বিক্রিয়া করে কার্বন-১২ এবং একটি উচ্চ ক্ষমতাসম্পন্ন নিরপেক্ষ বিকিরণ তৈরি করেছিল যা নিউট্রন হিসাবে চিহ্নিত হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary oxidation state observed in all stable beryllium compounds?",
+"bn": "সমস্ত স্থিতিশীল বেরিলিয়াম যৌগে প্রধানত কোন জারণ অবস্থা দেখা যায়?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "-2",
+"bn": "-২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Beryllium readily loses its two valence 2s electrons to achieve the stable helium shell configuration.",
+"bn": "স্থিতিশীল হিলিয়াম শেল কনফিগারেশন অর্জন করতে বেরিলিয়াম সহজেই তার দুটি ভ্যালেন্স 2s ইলেকট্রন হারিয়ে ফেলে।"
+}
+},
+{
+"question": {
+"en": "What crystalline mineral structure is the most prominent source of beryllium found in nature?",
+"bn": "প্রকৃতিতে পাওয়া বেরিলিয়ামের সবচেয়ে প্রধান উৎস কোন স্ফটিক খনিজ কাঠামোটি?"
+},
+"options": [
+{
+"en": "Halite",
+"bn": "হ্যালাইট"
+},
+{
+"en": "Beryl",
+"bn": "বেরিল"
+},
+{
+"en": "Hematite",
+"bn": "হেমাটাইট"
+},
+{
+"en": "Gypsum",
+"bn": "জিপসাম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Beryl (Be3Al2Si6O18) is a silicate mineral that serves as the classic gemstone and ore source of beryllium.",
+"bn": "বেরিল (Be3Al2Si6O18) হলো একটি সিলিকেট খনিজ যা বেরিলিয়ামের একটি রত্নপাথর এবং আকরিক উৎস হিসাবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "How does beryllium respond to flame testing under standard conditions?",
+"bn": "আদর্শ পরিস্থিতিতে শিখা পরীক্ষায় বেরিলিয়াম কেমন সাড়া দেয়?"
+},
+"options": [
+{
+"en": "Bright yellow flame",
+"bn": "উজ্জ্বল হলুদ শিখা"
+},
+{
+"en": "Brick red flame",
+"bn": "ইটের মতো লাল শিখা"
+},
+{
+"en": "No strong distinctive color / White glow",
+"bn": "কোনো তীব্র স্বতন্ত্র রঙ নেই / সাদা আভা"
+},
+{
+"en": "Deep royal blue flame",
+"bn": "গাঢ় রাজকীয় নীল শিখা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Due to its high ionization energy and tightly held electrons, it does not impart a distinctive color during standard flame tests.",
+"bn": "উচ্চ আয়নীকরণ শক্তি এবং শক্তভাবে ধরে রাখা ইলেকট্রনের কারণে, এটি সাধারণ শিখা পরীক্ষার সময় কোনো স্বতন্ত্র রঙ প্রদান করে না।"
+}
+},
+{
+"question": {
+"en": "What is the complete ground-state orbital configuration for beryllium's 4 electrons?",
+"bn": "বেরিলিয়ামের ৪টি ইলেকট্রনের জন্য সম্পূর্ণ গ্রাউন্ড-স্টেট অরবিটাল কনফিগারেশন কী?"
+},
+"options": [
+{
+"en": "1s² 2s¹ 2p¹",
+"bn": "1s² 2s¹ 2p¹"
+},
+{
+"en": "1s² 2s²",
+"bn": "1s² 2s²"
+},
+{
+"en": "1s³ 2s¹",
+"bn": "1s³ 2s¹"
+},
+{
+"en": "1s⁴",
+"bn": "1s⁴"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The 4 electrons fill the 1s subshell entirely first, followed by filling the 2s valence subshell.",
+"bn": "৪টি ইলেকট্রন প্রথমে 1s সাবশেলটি সম্পূর্ণরূপে পূরণ করে, তারপরে 2s ভ্যালেন্স সাবশেলটি পূরণ করে।"
+}
+},
+{
+"question": {
+"en": "Which unique property allows beryllium to serve effectively as a component inside nuclear reactor cores?",
+"bn": "কোন অনন্য বৈশিষ্ট্যের কারণে বেরিলিয়াম পারমাণবিক চুল্লির কোরের ভিতরে একটি উপাদান হিসাবে কার্যকরভাবে কাজ করতে পারে?"
+},
+"options": [
+{
+"en": "High neutron absorption cross-section",
+"bn": "উচ্চ নিউট্রন শোষণ ক্রস-সেকশন"
+},
+{
+"en": "Low neutron scattering cross-section",
+"bn": "কম নিউট্রন বিচ্ছুরণ ক্রস-সেকশন"
+},
+{
+"en": "High neutron scattering and reflection efficiency with low absorption",
+"bn": "কম শোষণ সহ উচ্চ নিউট্রন বিচ্ছুরণ এবং প্রতিফলন দক্ষতা"
+},
+{
+"en": "It converts neutrons directly into power",
+"bn": "এটি নিউট্রনকে সরাসরি শক্তিতে রূপান্তরিত করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Beryllium reflects neutrons back into the core fuel matrix without absorbing them, optimizing the chain reaction efficiency.",
+"bn": "বেরিলিয়াম নিউট্রন শোষণ না করেই কোর ফুয়েল ম্যাট্রিক্সে প্রতিফলিত করে, যা চেইন বিক্রিয়ার দক্ষতাকে অপ্টিমাইজ করে।"
+}
+},
+{
+"question": {
+"en": "What is the gaseous geometry of a beryllium chloride (BeCl2) monomer molecule?",
+"bn": "একটি বেরিলিয়াম ক্লোরাইড (BeCl2) মনোমার অণুর গ্যাসীয় জ্যামিতিক গঠন কী?"
+},
+"options": [
+{
+"en": "Bent / V-shaped",
+"bn": "বাঁকানো / V-আকৃতির"
+},
+{
+"en": "Linear",
+"bn": "রৈখিক"
+},
+{
+"en": "Trigonal planar",
+"bn": "ত্রিকোণীয় সমতলীয়"
+},
+{
+"en": "Tetrahedral",
+"bn": "চতুস্তলকীয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In the vapor phase, BeCl2 forms a linear monomer with sp hybridization and a 180° bond angle.",
+"bn": "বাষ্পীয় অবস্থায়, BeCl2 sp সংকরণ এবং ১৮০ ডিগ্রি বন্ধন কোণ সহ একটি রৈখিক মনোমার গঠন করে।"
+}
+},
+{
+"question": {
+"en": "What crystal structure does pure beryllium metal form at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় বিশুদ্ধ বেরিলিয়াম ধাতু কোন স্ফটিক কাঠামো গঠন করে?"
+},
+"options": [
+{
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+},
+{
+"en": "Rhombohedral",
+"bn": "রমবোহেড্রাল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Beryllium crystallizes into a tight hexagonal close-packed lattice layout.",
+"bn": "বেরিলিয়াম একটি সুবিন্যস্ত হেক্সাগোনাল ক্লোজ-প্যাকড ল্যাটিস বিন্যাসে স্ফটিকীভূত হয়।"
+}
+},
+{
+"question": {
+"en": "Why does beryllium resist corrosion by water and air under normal atmospheric conditions?",
+"bn": "স্বাভাবিক বায়ুমণ্ডলীয় পরিস্থিতিতে বেরিলিয়াম কেন জল এবং বায়ু দ্বারা ক্ষয় প্রতিরোধ করে?"
+},
+"options": [
+{
+"en": "It is a noble metal like gold",
+"bn": "এটি সোনার মতো একটি অভিজাত ধাতু"
+},
+{
+"en": "It forms a tight, protective oxide passivation layer",
+"bn": "এটি একটি সুবিন্যস্ত, প্রতিরক্ষামূলক অক্সাইড প্যাসিভেশন স্তর গঠন করে"
+},
+{
+"en": "It dissolves the air around it",
+"bn": "এটি চারপাশের বাতাসকে দ্রবীভূত করে"
+},
+{
+"en": "It is completely liquid at normal temperature",
+"bn": "এটি স্বাভাবিক তাপমাত্রায় সম্পূর্ণ তরল থাকে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "A thin, tenacious layer of beryllium oxide (BeO) forms instantly on the surface, sealing the rest of the metal from reacting.",
+"bn": "বেরিলিয়াম অক্সাইডের (BeO) একটি পাতলা, দৃঢ় স্তর তাত্ক্ষণিকভাবে পৃষ্ঠের উপর তৈরি হয়, যা ধাতুর অবশিষ্ট অংশকে বিক্রিয়া করা থেকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "What is the only stable, naturally occurring isotope of beryllium?",
+"bn": "বেরিলিয়ামের একমাত্র স্থিতিশীল, প্রাকৃতিকভাবে প্রাপ্ত আইসোটোপ কোনটি?"
+},
+"options": [
+{
+"en": "Beryllium-7",
+"bn": "বেরিলিয়াম-৭"
+},
+{
+"en": "Beryllium-9",
+"bn": "বেরিলিয়াম-৯"
+},
+{
+"en": "Beryllium-10",
+"bn": "বেরিলিয়াম-১০"
+},
+{
+"en": "Beryllium-8",
+"bn": "বেরিলিয়াম-৮"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Beryllium is a mononuclidic element; virtually 100% of natural beryllium is the stable isotope Beryllium-9.",
+"bn": "বেরিলিয়াম হলো একটি মোনোনুক্লিডিক উপাদান; প্রাকৃতিক বেরিলিয়ামের প্রায় ১০০% হলো স্থিতিশীল আইসোটোপ বেরিলিয়াম-৯।"
+}
+},
+{
+"question": {
+"en": "How does the first ionization energy of beryllium compare to that of boron (Z=5)?",
+"bn": "বোরনের (Z=5) তুলনায় বেরিলিয়ামের প্রথম আয়নীকরণ শক্তি কেমন?"
+},
+"options": [
+{
+"en": "Beryllium is much lower",
+"bn": "বেরিলিয়ামের অনেক কম"
+},
+{
+"en": "Beryllium is higher due to its stable, fully filled 2s subshell",
+"bn": "এর স্থিতিশীল, সম্পূর্ণ পূর্ণ 2s সাবশেলের কারণে বেরিলিয়ামের বেশি"
+},
+{
+"en": "They are exactly equal",
+"bn": "তারা সম্পূর্ণ সমান"
+},
+{
+"en": "Beryllium has zero ionization energy",
+"bn": "বেরিলিয়ামের আয়নীকরণ শক্তি শূন্য"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Beryllium has a fully filled 2s² configuration which is stable, whereas boron has a lone electron in its 2p subshell which is easier to remove.",
+"bn": "বেরিলিয়ামের একটি সম্পূর্ণ পূর্ণ 2s² কনফিগারেশন রয়েছে যা স্থিতিশীল, যেখানে বোরনের 2p সাবশেলে একটি একাকী ইলেকট্রন রয়েছে যা অপসারণ করা সহজ।"
+}
+},
+{
+"question": {
+"en": "Historically, what original alternative name was given to beryllium because of its sweet tasting compound property?",
+"bn": "ঐতিহাসিকভাবে, মিষ্টি স্বাদের যৌগের বৈশিষ্ট্যের কারণে বেরিলিয়ামকে প্রথমে কী বিকল্প নাম দেওয়া হয়েছিল?"
+},
+"options": [
+{
+"en": "Glucinium",
+"bn": "গ্লুসিনিয়াম"
+},
+{
+"en": "Plumbago",
+"bn": "প্লাম্বাগো"
+},
+{
+"en": "Stibium",
+"bn": "স্টিবিয়াম"
+},
+{
+"en": "Natrium",
+"bn": "নেট্রিয়াম"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "It was named glucinium from the Greek 'glykys' meaning sweet, before the international scientific community standardized 'Beryllium'.",
+"bn": "আন্তর্জাতিক বৈজ্ঞানিক সম্প্রদায় 'বেরিলিয়াম' প্রমিত করার আগে গ্রীক 'গ্লাইকিস' যার অর্থ মিষ্টি থেকে এর নাম গ্লুসিনিয়াম রাখা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What type of magnetic ordering does pure elemental beryllium possess?",
+"bn": "বিশুদ্ধ মৌলিক বেরিলিয়ামের কোন ধরণের চৌম্বকীয় বিন্যাস রয়েছে?"
+},
+"options": [
+{
+"en": "Ferromagnetic",
+"bn": "ফেরোম্যাগনেটিক"
+},
+{
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+},
+{
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+},
+{
+"en": "Antiferromagnetic",
+"bn": "অ্যান্টিফেরোম্যাগনেটিক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Beryllium is diamagnetic; it is weakly repelled by an externally applied magnetic field.",
+"bn": "বেরিলিয়াম ডায়াম্যাগনেটিক; এটি একটি বাহ্যিকভাবে প্রয়োগ করা চৌম্বক ক্ষেত্র দ্বারা দুর্বলভাবে বিকর্ষিত হয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Since beryllium forms emeralds, it must be completely safe to wear or process directly. Wearing emerald jewelry is safe because beryllium is bound securely within a stable silicate crystal lattice, but handling raw beryllium dust or inhaling it during machining is lethal.",
+"bn": "যেহেতু বেরিলিয়াম পান্না তৈরি করে, তাই এটি পরিধান করা বা সরাসরি প্রক্রিয়াকরণ করা সম্পূর্ণ নিরাপদ হতে হবে। পান্নার গহনা পরা নিরাপদ কারণ বেরিলিয়াম একটি স্থিতিশীল সিলিকেট স্ফটিক ল্যাটিসের মধ্যে সুরক্ষিতভাবে আবদ্ধ থাকে, তবে অপরিশোধিত বেরিলিয়ামের ধুলো নাড়াচাড়া করা বা মেশিনিংয়ের সময় এটি শ্বাস-প্রশ্বাসের মাধ্যমে গ্রহণ করা মারাত্মক।"
+}
+],
+"learningTips": [
+{
+"en": "Associate Beryllium with the number 4: Atomic number 4, 4 protons, and forms the core structure of 4-sided tetrahedral configurations in polymer complexes.",
+"bn": "বেরিলিয়ামকে ৪ সংখ্যার সাথে যুক্ত করুন: পারমাণবিক সংখ্যা ৪, ৪টি প্রোটন এবং পলিমার কমপ্লেক্সে ৪-পার্শ্বযুক্ত চতুস্তলকীয় কনফিগারেশনের মূল কাঠামো গঠন করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Be + O₂ → 2BeO",
+"description": {
+"en": "Reaction of beryllium with oxygen at high temperatures to form beryllium oxide.",
+"bn": "উচ্চ তাপমাত্রায় অক্সিজেনের সাথে বেরিলিয়ামের বিক্রিয়ায় বেরিলিয়াম অক্সাইড তৈরি হয়।"
+}
+},
+{
+"equation": "Be + 2HCl → BeCl₂ + H₂",
+"description": {
+"en": "Reaction of metallic beryllium with hydrochloric acid yielding hydrogen gas.",
+"bn": "হাইড্রোক্লোরিক অ্যাসিডের সাথে ধাতব বেরিলিয়ামের বিক্রিয়ায় হাইড্রোজেন গ্যাস উৎপন্ন হয়।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Be → Be²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation half-reaction of beryllium when dissolving into highly acidic solutions.",
+"bn": "অত্যধিক অম্লীয় দ্রবণে দ্রবীভূত হওয়ার সময় বেরিলিয়ামের জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Be²⁺ + 2e⁻ → Be",
+"description": {
+"en": "Reduction of beryllium ions to pure metallic form via molten salt electrolysis.",
+"bn": "গলিত লবণ তড়িৎ বিশ্লেষণের মাধ্যমে বেরিলিয়াম আয়ন থেকে বিশুদ্ধ ধাতব রূপে বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "BeCl₂",
+"description": {
+"en": "Beryllium forms covalent bonds despite being a metal due to its high ionization energy and small atomic volume.",
+"bn": "ধাতু হওয়া সত্ত্বেও বেরিলিয়াম তার উচ্চ আয়নীকরণ শক্তি এবং ছোট পারমাণবিক আয়তনের কারণে সমযোজী বন্ধন গঠন করে।"
+}
+}
+]
+}
+}
