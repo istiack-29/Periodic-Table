@@ -1,0 +1,1015 @@
+{
+  "elementId": 7,
+  "basicInformation": {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "name": {
+      "en": "Nitrogen",
+      "bn": "নাইট্রোজেন"
+    },
+    "pronunciation": {
+      "en": "/ˈnaɪtrədʒən/",
+      "bn": "নাই-ট্রো-জেন"
+    },
+    "atomicMass": 14.007,
+    "category": {
+      "en": "Diatomic nonmetal",
+      "bn": "দ্বিপরমাণুক অধাতু"
+    },
+    "group": 15,
+    "period": 2,
+    "block": "p",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Colorless gas",
+      "bn": "বর্ণহীন গ্যাস"
+    },
+    "color": {
+      "en": "Colorless",
+      "bn": "বর্ণহীন"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Daniel Rutherford",
+      "bn": "ড্যানিয়েল রাদারফোর্ড"
+    },
+    "discoveryYear": 1772,
+    "discoveryLocation": {
+      "en": "Scotland",
+      "bn": "স্কটল্যান্ড"
+    },
+    "discoveryStory": {
+      "en": "Daniel Rutherford discovered nitrogen by isolating it from air. He removed oxygen and carbon dioxide and found a residual gas that would not support combustion or life, calling it 'noxious air'.",
+      "bn": "ড্যানিয়েল রাদারফোর্ড বাতাস থেকে আলাদা করে নাইট্রোজেন আবিষ্কার করেন। তিনি অক্সিজেন এবং কার্বন ডাই অক্সাইড অপসারণ করেন এবং একটি অবশিষ্ট গ্যাস পান যা দহন বা জীবনকে সমর্থন করে না, তিনি এর নাম দিয়েছিলেন 'নক্সিয়াস এয়ার' বা 'ক্ষতিকারক বায়ু'।"
+    },
+    "historicalUses": {
+      "en": "Historically used in the form of saltpeter (potassium nitrate) for making gunpowder during the Middle Ages.",
+      "bn": "ঐতিহাসিকভাবে মধ্যযুগে বারুদ তৈরিতে সল্টপিটার (পটাশিয়াম নাইট্রেট) আকারে ব্যবহৃত হতো।"
+    },
+    "famousExperiments": {
+      "en": "Haber-Bosch process development in the early 20th century, which allowed atmospheric nitrogen to be converted into ammonia for fertilizers and explosives.",
+      "bn": "বিংশ শতাব্দীর শুরুতে হ্যাবার-বশ প্রক্রিয়ার বিকাশ, যা বায়ুমণ্ডলীয় নাইট্রোজেনকে সার এবং বিস্ফোরকের জন্য অ্যামোনিয়াতে রূপান্তর করার অনুমতি দেয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 7,
+    "neutrons": 7,
+    "electrons": 7,
+    "valenceElectrons": 5,
+    "shells": 2,
+    "shellDistribution": [
+      2,
+      5
+    ],
+    "electronConfiguration": "1s² 2s² 2p³",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 3
+    },
+    "oxidationStates": [
+      5,
+      4,
+      3,
+      2,
+      1,
+      -1,
+      -2,
+      -3
+    ],
+    "quantumNumbers": {
+      "principal": 2,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 1.2506,
+      "unit": "g/L"
+    },
+    "meltingPoint": {
+      "value": 63.15,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 77.355,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 65,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 71,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 155,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.02583,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": null,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 1.04,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": null,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Hexagonal",
+      "bn": "ষড়ভুজাকার"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 3.04,
+    "ionizationEnergy": {
+      "value": 1402.3,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -6.8,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Very unreactive at standard conditions due to its extremely strong triple bond in diatomic N2. Reacts at high temperatures or with the help of catalysts.",
+      "bn": "দ্বিপরমাণুক N2 তে অত্যন্ত শক্তিশালী ত্রিবন্ধনের কারণে প্রমাণ অবস্থায় এটি খুবই নিষ্ক্রিয়। উচ্চ তাপমাত্রায় বা অনুঘটকের সাহায্যে প্রতিক্রিয়া দেখায়।"
+    },
+    "commonCompounds": [
+      "NH₃",
+      "HNO₃",
+      "N₂O",
+      "NO₂",
+      "KNO₃",
+      "NaN₃"
+    ],
+    "flameTestColor": {
+      "en": "N/A",
+      "bn": "প্রযোজ্য নয়"
+    },
+    "spectralLines": [
+      "746.83nm",
+      "821.63nm",
+      "868.02nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Haber-Bosch process uses nitrogen to synthesize ammonia, the foundation of the global fertilizer industry.",
+      "bn": "হ্যাবার-বশ প্রক্রিয়ায় নাইট্রোজেন ব্যবহার করে অ্যামোনিয়া তৈরি করা হয়, যা বিশ্বব্যাপী সার শিল্পের ভিত্তি।"
+    },
+    "commercialUses": {
+      "en": "Used to inflate airplane and race car tires, and as a blanketing gas to prevent oxidation in packaged foods.",
+      "bn": "বিমান এবং রেস গাড়ির টায়ার ফোলাতে এবং প্যাকেটজাত খাবারে জারণ রোধ করতে ব্ল্যাংকেটিং গ্যাস হিসেবে ব্যবহৃত হয়।"
+    },
+    "electronicsUses": {
+      "en": "Used as a purge gas in semiconductor manufacturing and soldering to prevent oxidation of delicate components.",
+      "bn": "সেমিকন্ডাক্টর উত্পাদন এবং সোল্ডারিংয়ে সূক্ষ্ম উপাদানগুলোর জারণ রোধ করতে পার্জ গ্যাস হিসাবে ব্যবহৃত হয়।"
+    },
+    "semiconductorUses": {
+      "en": "Nitrogen trifluoride (NF3) is widely used for cleaning plasma-enhanced chemical vapor deposition (PECVD) chambers.",
+      "bn": "প্লাজমা-এনহ্যান্সড কেমিক্যাল ভেপার ডিপোজিশন (PECVD) চেম্বার পরিষ্কার করার জন্য নাইট্রোজেন ট্রাইফ্লুরাইড (NF3) ব্যাপকভাবে ব্যবহৃত হয়।"
+    },
+    "aerospaceUses": {
+      "en": "Pressurizes aircraft fuel systems to reduce fire hazards.",
+      "bn": "অগ্নিকাণ্ডের ঝুঁকি কমাতে বিমানের জ্বালানি সিস্টেমকে চাপযুক্ত করে।"
+    },
+    "batteryUses": {
+      "en": "Used in the manufacturing environments of lithium-ion batteries to maintain a dry, inert atmosphere.",
+      "bn": "শুষ্ক, নিষ্ক্রিয় বায়ুমণ্ডল বজায় রাখতে লিথিয়াম-আয়ন ব্যাটারির উত্পাদন পরিবেশে ব্যবহৃত হয়।"
+    },
+    "aiHardwareUses": {
+      "en": "Liquid nitrogen is sometimes used in extreme cooling setups for overclocking high-performance computing components.",
+      "bn": "উচ্চ-কর্মক্ষমতা সম্পন্ন কম্পিউটিং উপাদানগুলোর ওভারক্লকিংয়ের জন্য তরল নাইট্রোজেন কখনও কখনও চরম কুলিং সেটআপে ব্যবহৃত হয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Essential for cultivating biomass for biofuels.",
+      "bn": "জৈব জ্বালানির জন্য বায়োমাস চাষের অপরিহার্য উপাদান।"
+    },
+    "nanotechnologyUses": {
+      "en": "Nitrogen doping is used to modify the electrical properties of carbon nanotubes and graphene.",
+      "bn": "কার্বন ন্যানোটিউব এবং গ্রাফিনের বৈদ্যুতিক বৈশিষ্ট্য সংশোধন করতে নাইট্রোজেন ডোপিং ব্যবহৃত হয়।"
+    },
+    "nuclearUses": {
+      "en": "Nitrogen-15 is used in nuclear magnetic resonance (NMR) spectroscopy and in agricultural tracing studies.",
+      "bn": "নাইট্রোজেন-১৫ নিউক্লিয়ার ম্যাগনেটিক রেজোন্যান্স (NMR) স্পেকট্রোস্কোপি এবং কৃষি ট্রেসিং গবেষণায় ব্যবহৃত হয়।"
+    },
+    "militaryUses": {
+      "en": "A fundamental component in almost all conventional explosives (TNT, RDX, gunpowder).",
+      "bn": "প্রায় সমস্ত প্রচলিত বিস্ফোরকের (TNT, RDX, বারুদ) একটি মৌলিক উপাদান।"
+    },
+    "medicalUses": {
+      "en": "Liquid nitrogen is used in cryosurgery to remove warts and preserve biological samples (sperm, eggs, tissues). Nitrous oxide (N2O) is used as an anesthetic.",
+      "bn": "ক্রায়োসার্জারিতে আঁচিল অপসারণ এবং জৈবিক নমুনা (শুক্রাণু, ডিম্বাণু, টিস্যু) সংরক্ষণের জন্য তরল নাইট্রোজেন ব্যবহৃত হয়। নাইট্রাস অক্সাইড (N2O) চেতনানাশক হিসাবে ব্যবহৃত হয়।"
+    },
+    "foodIndustryUses": {
+      "en": "Liquid nitrogen is used for flash freezing foods. Nitrogen gas replaces oxygen in bags (like potato chips) to prevent staleness.",
+      "bn": "খাবার দ্রুত হিমায়িত (ফ্ল্যাশ ফ্রিজিং) করার জন্য তরল নাইট্রোজেন ব্যবহৃত হয়। খাবার নষ্ট হওয়া রোধ করতে ব্যাগে (যেমন আলুর চিপস) অক্সিজেনের বদলে নাইট্রোজেন গ্যাস ব্যবহার করা হয়।"
+    },
+    "constructionUses": {
+      "en": "Used in pipe freezing to temporarily block water flow during repairs.",
+      "bn": "মেরামতের সময় পানির প্রবাহ অস্থায়ীভাবে বন্ধ করতে পাইপ হিমায়িত করার কাজে ব্যবহৃত হয়।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "A crucial structural component of amino acids (proteins) and nucleic acids (DNA and RNA). Life as we know it cannot exist without it.",
+      "bn": "অ্যামিনো অ্যাসিড (প্রোটিন) এবং নিউক্লিক অ্যাসিডের (ডিএনএ এবং আরএনএ) একটি অত্যন্ত গুরুত্বপূর্ণ কাঠামোগত উপাদান। আমরা যেভাবে জানি, নাইট্রোজেন ছাড়া জীবনের অস্তিত্ব সম্ভব নয়।"
+    },
+    "humanBodyRole": {
+      "en": "Makes up about 3% of the human body by mass.",
+      "bn": "ভরের দিক থেকে মানবদেহের প্রায় ৩% তৈরি করে।"
+    },
+    "toxicity": {
+      "en": "Nitrogen gas is non-toxic, but acting as a simple asphyxiant it can displace oxygen and cause suffocation in confined spaces. Certain nitrogen compounds (like NO2 and cyanides) are highly toxic.",
+      "bn": "নাইট্রোজেন গ্যাস বিষাক্ত নয়, তবে একটি সাধারণ শ্বাসরোধকারী হিসেবে এটি অক্সিজেনকে স্থানচ্যুত করতে পারে এবং আবদ্ধ স্থানে শ্বাসরোধ করতে পারে। নির্দিষ্ট নাইট্রোজেন যৌগ (যেমন NO2 এবং সায়ানাইড) অত্যন্ত বিষাক্ত।"
+    },
+    "environmentalImpact": {
+      "en": "Excess nitrogen from fertilizers running off into waterways causes eutrophication, leading to massive algae blooms and oceanic 'dead zones'.",
+      "bn": "সার থেকে অতিরিক্ত নাইট্রোজেন জলপথে প্রবাহিত হওয়ার ফলে ইউট্রোফিকেশন ঘটে, যা ব্যাপক শৈবাল বৃদ্ধি এবং সামুদ্রিক 'ডেড জোন' (মৃত অঞ্চল) তৈরি করে।"
+    },
+    "pollutionRisks": {
+      "en": "Nitrogen oxides (NOx) from vehicle emissions contribute heavily to smog, acid rain, and respiratory problems.",
+      "bn": "যানবাহন থেকে নির্গত নাইট্রোজেন অক্সাইড (NOx) ধোঁয়াশা, অ্যাসিড বৃষ্টি এবং শ্বাসযন্ত্রের সমস্যায় মারাত্মকভাবে অবদান রাখে।"
+    },
+    "recyclingMethods": {
+      "en": "The biological nitrogen cycle recycles nitrogen through nitrogen fixation by bacteria, nitrification, and denitrification.",
+      "bn": "জৈবিক নাইট্রোজেন চক্র ব্যাকটেরিয়ার মাধ্যমে নাইট্রোজেন সংবদ্ধকরণ (ফিক্সেশন), নাইট্রিফিকেশন এবং ডিনাইট্রিফিকেশনের মাধ্যমে নাইট্রোজেন পুনর্ব্যবহার করে।"
+    },
+    "sustainabilityScore": 3.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Global (Extracted from air)",
+        "bn": "বিশ্বব্যাপী (বাতাস থেকে নিষ্কাশিত)"
+      }
+    ],
+    "miningMethods": {
+      "en": "Fractional distillation of liquid air.",
+      "bn": "তরল বায়ুর আংশিক পাতন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "0.1% by mass",
+        "bn": "ভর অনুযায়ী ০.১%"
+      },
+      "earthCrust": {
+        "en": "0.002% by mass",
+        "bn": "ভর অনুযায়ী ০.০০২%"
+      },
+      "oceans": {
+        "en": "0.00005% by mass",
+        "bn": "ভর অনুযায়ী ০.০০০°৫%"
+      }
+    },
+    "marketValue": {
+      "en": "Relatively cheap, typically costing a few cents per liter for liquid nitrogen.",
+      "bn": "তুলনামূলকভাবে সস্তা, সাধারণত তরল নাইট্রোজেনের দাম প্রতি লিটারে কয়েক সেন্ট হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand is expected to remain stable and high, primarily driven by the agricultural sector's constant need for fertilizers.",
+      "bn": "চাহিদা স্থিতিশীল এবং উচ্চ থাকার প্রত্যাশা করা হচ্ছে, যা মূলত কৃষি খাতের সারের ধ্রুবক চাহিদার দ্বারা চালিত।"
+    },
+    "globalImportance": {
+      "en": "Fundamentally sustains the current global population size through the production of synthetic fertilizers.",
+      "bn": "সিন্থেটিক সার উৎপাদনের মাধ্যমে মৌলিকভাবে বর্তমান বৈশ্বিক জনসংখ্যার আকার বজায় রাখে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Liquid nitrogen causes severe frostbite instantly. Nitrogen gas acts as a silent asphyxiant because it lacks odor and humans have no warning mechanism for oxygen deprivation.",
+      "bn": "তরল নাইট্রোজেন তাত্ক্ষণিকভাবে গুরুতর ফ্রস্টবাইট সৃষ্টি করে। নাইট্রোজেন গ্যাস একটি নীরব শ্বাসরোধকারী হিসাবে কাজ করে কারণ এর কোনো গন্ধ নেই এবং মানুষের অক্সিজেন বঞ্চনার জন্য কোনো সতর্কতামূলক ব্যবস্থা নেই।"
+    },
+    "storageRequirements": {
+      "en": "Liquid nitrogen must be stored in specialized vacuum flasks (Dewars) with loose-fitting lids to allow boiling gas to escape and prevent explosion.",
+      "bn": "তরল নাইট্রোজেন অবশ্যই বিশেষায়িত ভ্যাকুয়াম ফ্লাস্কে (দেওয়ার্স) ঢিলা ঢাকনা দিয়ে সংরক্ষণ করতে হবে যাতে ফুটন্ত গ্যাস বেরিয়ে যেতে পারে এবং বিস্ফোরণ রোধ করা যায়।"
+    },
+    "handlingProcedures": {
+      "en": "Use cryogenic gloves and a face shield when handling liquid nitrogen. Ensure areas with N2 gas cylinders are well-ventilated.",
+      "bn": "তরল নাইট্রোজেন পরিচালনা করার সময় ক্রায়োজেনিক গ্লাভস এবং একটি ফেস শিল্ড ব্যবহার করুন। N2 গ্যাস সিলিন্ডারযুক্ত এলাকাগুলো যেন সু-বাতাসযুক্ত হয় তা নিশ্চিত করুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhaling pure nitrogen causes unconsciousness within one or two breaths, leading rapidly to death.",
+      "bn": "খাঁটি নাইট্রোজেন শ্বাস নেওয়ার ফলে এক বা দুটি শ্বাসের মধ্যে অজ্ঞান হয়ে যায়, যা দ্রুত মৃত্যুর দিকে নিয়ে যায়।"
+    },
+    "safetyLevel": {
+      "en": "Low (Gas under normal conditions) / High (Liquid or Confined Spaces)",
+      "bn": "নিম্ন (স্বাভাবিক অবস্থায় গ্যাস) / উচ্চ (তরল বা আবদ্ধ স্থানে)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Simple Asphyxiant",
+        "bn": "সাধারণ শ্বাসরোধকারী"
+      },
+      {
+        "en": "Cryogenic Hazard (Liquid)",
+        "bn": "ক্রায়োজেনিক ঝুঁকি (তরল)"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Nitrogen makes up almost 80% of the air we breathe. It's a shy element that doesn't like to react with things, which makes it great for keeping potato chips fresh and making up the bulk of our atmosphere without catching fire.",
+      "bn": "আমাদের শ্বাসের বাতাসের প্রায় ৮০% নাইট্রোজেন। এটি একটি লাজুক উপাদান যা অন্যান্য জিনিসের সাথে প্রতিক্রিয়া করতে পছন্দ করে না, যা একে আলুর চিপস তাজা রাখার জন্য এবং আগুন না ধরেই আমাদের বায়ুমণ্ডলের সিংহভাগ তৈরি করার জন্য দুর্দান্ত করে তোলে।"
+    },
+    "advancedExplanation": {
+      "en": "Diatomic nitrogen (N2) is incredibly stable due to its strong triple bond (one sigma and two pi bonds), requiring 941 kJ/mol to break. This high activation energy makes it inert under standard conditions. Life relies on nitrogenase enzymes in certain bacteria to break this bond (nitrogen fixation) at room temperature.",
+      "bn": "দ্বিপরমাণুক নাইট্রোজেন (N2) এর শক্তিশালী ত্রিবন্ধনের (একটি সিগমা এবং দুটি পাই বন্ধন) কারণে অবিশ্বাস্যভাবে স্থিতিশীল, যা ভাঙতে ৯৪১ কিলোজুল/মোল শক্তির প্রয়োজন হয়। এই উচ্চ সক্রিয়করণ শক্তি একে প্রমাণ অবস্থায় নিষ্ক্রিয় করে তোলে। কক্ষ তাপমাত্রায় এই বন্ধন ভাঙতে (নাইট্রোজেন ফিক্সেশন) জীবন নির্দিষ্ট ব্যাকটেরিয়ায় থাকা নাইট্রোজিনেস এনজাইমের উপর নির্ভর করে।"
+    },
+    "funFacts": [
+      {
+        "en": "The aurora borealis (Northern Lights) get their beautiful purple, blue, and red colors from glowing nitrogen atoms in the upper atmosphere.",
+        "bn": "অরোরা বোরিয়ালিস (উত্তরের আলো) উপরের বায়ুমণ্ডলে জ্বলজ্বলে নাইট্রোজেন পরমাণুর কারণে তাদের সুন্দর বেগুনি, নীল এবং লাল রঙ পায়।"
+      },
+      {
+        "en": "When deep-sea divers come to the surface too quickly, nitrogen bubbles form in their blood, causing a painful and deadly condition called 'the bends'.",
+        "bn": "যখন গভীর সমুদ্রের ডুবুরিরা খুব দ্রুত পৃষ্ঠে আসে, তখন তাদের রক্তে নাইট্রোজেনের বুদবুদ তৈরি হয়, যার ফলে একটি বেদনাদায়ক এবং মারাত্মক অবস্থা তৈরি হয় যাকে 'দ্য বেন্ডস' বলা হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 8,
+        "relation": {
+          "en": "Oxygen makes up 21% of air and supports fire and life. Nitrogen makes up 78% of air and dilutes the oxygen, preventing the world from burning up easily.",
+          "bn": "অক্সিজেন বাতাসের ২১% তৈরি করে এবং আগুন ও জীবনকে সমর্থন করে। নাইট্রোজেন বাতাসের ৭৮% তৈরি করে এবং অক্সিজেনকে পাতলা করে, যা বিশ্বকে সহজে পুড়ে যাওয়া থেকে রক্ষা করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      6,
+      8,
+      15
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What percentage of the Earth's atmosphere is composed of Nitrogen gas?",
+          "bn": "পৃথিবীর বায়ুমণ্ডলের কত শতাংশ নাইট্রোজেন গ্যাস দিয়ে গঠিত?"
+        },
+        "options": [
+          {
+            "en": "21%",
+            "bn": "২১%"
+          },
+          {
+            "en": "50%",
+            "bn": "৫০%"
+          },
+          {
+            "en": "78%",
+            "bn": "৭৮%"
+          },
+          {
+            "en": "99%",
+            "bn": "৯৯%"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Nitrogen is by far the most abundant gas in the Earth's atmosphere, making up approximately 78% of it by volume.",
+          "bn": "নাইট্রোজেন পৃথিবীর বায়ুমণ্ডলে সবচেয়ে প্রচুর পরিমাণে থাকা গ্যাস, যা আয়তন অনুযায়ী এর প্রায় ৭৮%।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the name of the industrial process used to convert atmospheric nitrogen into ammonia for fertilizer?",
+          "bn": "সারের জন্য বায়ুমণ্ডলীয় নাইট্রোজেনকে অ্যামোনিয়াতে রূপান্তর করতে ব্যবহৃত শিল্প প্রক্রিয়ার নাম কী?"
+        },
+        "options": [
+          {
+            "en": "Ostwald process",
+            "bn": "অস্টওয়াল্ড প্রক্রিয়া"
+          },
+          {
+            "en": "Contact process",
+            "bn": "স্পর্শ পদ্ধতি"
+          },
+          {
+            "en": "Haber-Bosch process",
+            "bn": "হ্যাবার-বশ প্রক্রিয়া"
+          },
+          {
+            "en": "Bayer process",
+            "bn": "বেয়ার প্রক্রিয়া"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The Haber-Bosch process combines nitrogen from the air with hydrogen under high temperature and pressure to produce ammonia (NH3).",
+          "bn": "হ্যাবার-বশ প্রক্রিয়ায় উচ্চ তাপমাত্রা এবং চাপের অধীনে বাতাসের নাইট্রোজেনকে হাইড্রোজেনের সাথে একত্রিত করে অ্যামোনিয়া (NH3) তৈরি করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is nitrogen gas (N2) so unreactive at room temperature?",
+          "bn": "কেন নাইট্রোজেন গ্যাস (N2) ঘরের তাপমাত্রায় এত নিষ্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "It has no valence electrons",
+            "bn": "এর কোনো যোজ্যতা ইলেকট্রন নেই"
+          },
+          {
+            "en": "It has a very strong triple bond between its atoms",
+            "bn": "এর পরমাণুগুলির মধ্যে একটি খুব শক্তিশালী ত্রিবন্ধন (ট্রিপল বন্ড) রয়েছে"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "এটি একটি নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "It is too heavy to react",
+            "bn": "এটি প্রতিক্রিয়া দেখানোর জন্য খুব ভারী"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The triple covalent bond in N2 is extremely strong. Breaking it requires a massive amount of energy, making the gas highly stable and unreactive.",
+          "bn": "N2 তে ত্রিপল সমযোজী বন্ধন অত্যন্ত শক্তিশালী। এটি ভাঙতে প্রচুর পরিমাণে শক্তির প্রয়োজন হয়, যা গ্যাসটিকে অত্যন্ত স্থিতিশীল এবং নিষ্ক্রিয় করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In biology, nitrogen is a crucial building block for which type of macromolecule?",
+          "bn": "জীববিজ্ঞানে, নাইট্রোজেন কোন ধরণের ম্যাক্রোমলিকুলের জন্য একটি গুরুত্বপূর্ণ বিল্ডিং ব্লক?"
+        },
+        "options": [
+          {
+            "en": "Carbohydrates",
+            "bn": "কার্বোহাইড্রেট"
+          },
+          {
+            "en": "Lipids (Fats)",
+            "bn": "লিপিড (চর্বি)"
+          },
+          {
+            "en": "Proteins (Amino acids)",
+            "bn": "প্রোটিন (অ্যামিনো অ্যাসিড)"
+          },
+          {
+            "en": "Sugars",
+            "bn": "শর্করা"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Every amino acid, which are the building blocks of proteins, contains an 'amine' group composed of nitrogen and hydrogen (-NH2).",
+          "bn": "প্রতিটি অ্যামিনো অ্যাসিড, যা প্রোটিনের বিল্ডিং ব্লক, একটি 'অ্যামিন' গ্রুপ ধারণ করে যা নাইট্রোজেন এবং হাইড্রোজেন (-NH2) দিয়ে গঠিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "At what temperature does nitrogen become a liquid at standard atmospheric pressure?",
+          "bn": "প্রমাণ বায়ুমণ্ডলীয় চাপে কত তাপমাত্রায় নাইট্রোজেন তরল হয়?"
+        },
+        "options": [
+          {
+            "en": "-273.15 °C",
+            "bn": "-২৭৩.১৫ °C"
+          },
+          {
+            "en": "-195.8 °C",
+            "bn": "-১৯৫.৮ °C"
+          },
+          {
+            "en": "-78.5 °C",
+            "bn": "-৭৮.৫ °C"
+          },
+          {
+            "en": "0 °C",
+            "bn": "০ °C"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Nitrogen boils at 77 K, which is approximately -195.8 degrees Celsius or -320 degrees Fahrenheit.",
+          "bn": "নাইট্রোজেন ৭৭ কেলভিনে (77 K) ফোটে, যা প্রায় -১৯৫.৮ ডিগ্রি সেলসিয়াস বা -৩২০ ডিগ্রি ফারেনহাইট।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the term for the biological process where bacteria convert atmospheric nitrogen into a form usable by plants?",
+          "bn": "ব্যাকটেরিয়া বায়ুমণ্ডলীয় নাইট্রোজেনকে উদ্ভিদের ব্যবহারযোগ্য রূপান্তর করার জৈবিক প্রক্রিয়ার নাম কী?"
+        },
+        "options": [
+          {
+            "en": "Nitrogenation",
+            "bn": "নাইট্রোজেনেশন"
+          },
+          {
+            "en": "Nitrogen fixation",
+            "bn": "নাইট্রোজেন সংবদ্ধকরণ (ফিক্সেশন)"
+          },
+          {
+            "en": "Photosynthesis",
+            "bn": "সালোকসংশ্লেষণ"
+          },
+          {
+            "en": "Denitrification",
+            "bn": "ডিনাইট্রিফিকেশন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Nitrogen fixation is carried out by specialized bacteria (often in the roots of legumes) that turn N2 into ammonia or related compounds that plants can absorb.",
+          "bn": "নাইট্রোজেন সংবদ্ধকরণ (ফিক্সেশন) বিশেষায়িত ব্যাকটেরিয়া (প্রায়শই লিগিউম জাতীয় উদ্ভিদের শিকড়ে) দ্বারা পরিচালিত হয়, যা N2 কে অ্যামোনিয়া বা সংশ্লিষ্ট যৌগগুলোতে পরিণত করে যা উদ্ভিদ শোষণ করতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which common nitrogen-containing compound is laughing gas, often used as an anesthetic by dentists?",
+          "bn": "কোন সাধারণ নাইট্রোজেনযুক্ত যৌগটি লাফিং গ্যাস, যা প্রায়ই দাঁতের চিকিৎসকরা চেতনানাশক হিসেবে ব্যবহার করেন?"
+        },
+        "options": [
+          {
+            "en": "Nitric oxide (NO)",
+            "bn": "নাইট্রিক অক্সাইড (NO)"
+          },
+          {
+            "en": "Nitrogen dioxide (NO2)",
+            "bn": "নাইট্রোজেন ডাই অক্সাইড (NO2)"
+          },
+          {
+            "en": "Nitrous oxide (N2O)",
+            "bn": "নাইট্রাস অক্সাইড (N2O)"
+          },
+          {
+            "en": "Ammonia (NH3)",
+            "bn": "অ্যামোনিয়া (NH3)"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Nitrous oxide (N2O) has euphoric and pain-relieving effects, earning it the nickname 'laughing gas'.",
+          "bn": "নাইট্রাস অক্সাইড (N2O)-এর উচ্ছ্বসিত এবং ব্যথা উপশমকারী প্রভাব রয়েছে, যার ফলে এর ডাকনাম 'লাফিং গ্যাস'।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why are bags of potato chips inflated with nitrogen gas instead of normal air?",
+          "bn": "আলুর চিপসের ব্যাগগুলো সাধারণ বাতাসের পরিবর্তে নাইট্রোজেন গ্যাস দিয়ে কেন ফোলানো হয়?"
+        },
+        "options": [
+          {
+            "en": "To make the chips lighter",
+            "bn": "চিপসগুলোকে হালকা করার জন্য"
+          },
+          {
+            "en": "To prevent the oils from oxidizing and going rancid",
+            "bn": "তেলগুলোকে জারিত হওয়া এবং নষ্ট হওয়া থেকে রোধ করতে"
+          },
+          {
+            "en": "To add a salty flavor",
+            "bn": "একটি নোনতা স্বাদ যোগ করতে"
+          },
+          {
+            "en": "Because nitrogen is a cheaper gas than air",
+            "bn": "কারণ নাইট্রোজেন বাতাসের চেয়ে সস্তা গ্যাস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Oxygen in normal air would react with the fats in the chips, making them stale. Nitrogen is unreactive, keeping them fresh and providing a cushion against crushing.",
+          "bn": "স্বাভাবিক বাতাসের অক্সিজেন চিপসের চর্বির সাথে বিক্রিয়া করে সেগুলোকে বাসি করে তুলবে। নাইট্রোজেন প্রতিক্রিয়াশীল নয়, তাই এটি চিপসকে তাজা রাখে এবং চূর্ণ হওয়ার বিরুদ্ধে একটি কুশন সরবরাহ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does a single nitrogen atom possess?",
+          "bn": "একটি একক নাইট্রোজেন পরমাণুর কয়টি যোজ্যতা ইলেকট্রন থাকে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "৩"
+          },
+          {
+            "en": "5",
+            "bn": "৫"
+          },
+          {
+            "en": "7",
+            "bn": "৭"
+          },
+          {
+            "en": "8",
+            "bn": "৮"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Nitrogen is in group 15 of the periodic table, so it has 5 valence electrons in its outermost shell (2s2 2p3).",
+          "bn": "নাইট্রোজেন পর্যায় সারণীর ১৫ নম্বর গ্রুপে রয়েছে, তাই এর সবচেয়ে বাইরের শেলে (2s2 2p3) ৫টি যোজ্যতা ইলেকট্রন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which highly explosive liquid compound contains nitrogen?",
+          "bn": "কোন অত্যন্ত বিস্ফোরক তরল যৌগে নাইট্রোজেন থাকে?"
+        },
+        "options": [
+          {
+            "en": "Nitroglycerin",
+            "bn": "নাইট্রোগ্লিসারিন"
+          },
+          {
+            "en": "Sulfuric acid",
+            "bn": "সালফিউরিক এসিড"
+          },
+          {
+            "en": "Hydrogen peroxide",
+            "bn": "হাইড্রোজেন পারঅক্সাইড"
+          },
+          {
+            "en": "Benzene",
+            "bn": "বেনজিন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Nitroglycerin contains nitrate groups. Nitrogen-containing molecules make excellent explosives because they rapidly decompose into very stable N2 gas, releasing massive energy and pressure.",
+          "bn": "নাইট্রোগ্লিসারিনে নাইট্রেট গ্রুপ থাকে। নাইট্রোজেন-ধারণকারী অণুগুলো চমৎকার বিস্ফোরক তৈরি করে কারণ তারা দ্রুত ভেঙে খুব স্থিতিশীল N2 গ্যাসে পরিণত হয়, যা প্রচুর শক্তি এবং চাপ নির্গত করে।"
+        }
+      },
+      {
+  "question": {
+    "en": "What is the most abundant stable isotope of nitrogen found in nature?",
+    "bn": "প্রকৃতিতে নাইট্রোজেনের সবচেয়ে প্রচুর পরিমাণে পাওয়া স্থিতিশীল আইসোটোপ কোনটি?"
+  },
+  "options": [
+    {
+      "en": "Nitrogen-13",
+      "bn": "নাইট্রোজেন-১৩"
+    },
+    {
+      "en": "Nitrogen-14",
+      "bn": "নাইট্রোজেন-১৪"
+    },
+    {
+      "en": "Nitrogen-15",
+      "bn": "নাইট্রোজেন-১৫"
+    },
+    {
+      "en": "Nitrogen-16",
+      "bn": "নাইট্রোজেন-১৬"
+    }
+  ],
+  "correctOptionIndex": 1,
+  "explanation": {
+    "en": "Nitrogen-14 makes up over 99.6% of all naturally occurring nitrogen on Earth. It has 7 protons and 7 neutrons.",
+    "bn": "পৃথিবীতে প্রাকৃতিকভাবে প্রাপ্ত সমস্ত নাইট্রোজেনের ৯৯.৬% এরও বেশি হলো নাইট্রোজেন-১৪। এর ৭টি প্রোটন এবং ৭টি নিউট্রন রয়েছে।"
+  }
+},
+{
+  "question": {
+    "en": "Antoine Lavoisier originally named nitrogen 'azote', which translates from Greek to mean what?",
+    "bn": "অ্যান্টোইন ল্যাভয়সিয়ে প্রাথমিকভাবে নাইট্রোজেনের নাম দিয়েছিলেন 'অ্যাজোট' (azote), যা গ্রীক থেকে অনুবাদ করলে কী দাঁড়ায়?"
+  },
+  "options": [
+    {
+      "en": "Invisible gas",
+      "bn": "অদৃশ্য গ্যাস"
+    },
+    {
+      "en": "Choking air",
+      "bn": "শ্বাসরোধকারী বায়ু"
+    },
+    {
+      "en": "No life",
+      "bn": "জীবন নেই"
+    },
+    {
+      "en": "Acid maker",
+      "bn": "অ্যাসিড প্রস্তুতকারক"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "He named it 'azote' (from Greek a- 'no' and zoe 'life') because animals placed in pure nitrogen gas would quickly die from suffocation.",
+    "bn": "তিনি এর নাম দিয়েছিলেন 'অ্যাজোট' (গ্রীক 'a-' মানে 'না' এবং 'zoe' মানে 'জীবন' থেকে) কারণ খাঁটি নাইট্রোজেন গ্যাসে রাখা প্রাণীরা দ্রুত শ্বাসরোধে মারা যেত।"
+  }
+},
+{
+  "question": {
+    "en": "The rapid inflation of automobile airbags is powered by the explosive decomposition of which nitrogen-containing compound?",
+    "bn": "অটোমোবাইলের এয়ারব্যাগ দ্রুত ফুলে ওঠা কোন নাইট্রোজেনযুক্ত যৌগের বিস্ফোরক পচনের (ডিকম্পোজিশন) দ্বারা চালিত হয়?"
+  },
+  "options": [
+    {
+      "en": "Nitroglycerin",
+      "bn": "নাইট্রোগ্লিসারিন"
+    },
+    {
+      "en": "Ammonium nitrate",
+      "bn": "অ্যামোনিয়াম নাইট্রেট"
+    },
+    {
+      "en": "Sodium azide (NaN3)",
+      "bn": "সোডিয়াম অ্যাজাইড (NaN3)"
+    },
+    {
+      "en": "Nitrous oxide",
+      "bn": "নাইট্রাস অক্সাইড"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "When a crash is detected, sodium azide is heated, causing it to decompose instantly into sodium metal and a massive volume of nitrogen gas, inflating the bag in milliseconds.",
+    "bn": "যখন কোনো সংঘর্ষ শনাক্ত হয়, তখন সোডিয়াম অ্যাজাইড উত্তপ্ত হয়, যার ফলে এটি তাত্ক্ষণিকভাবে সোডিয়াম ধাতু এবং বিশাল আয়তনের নাইট্রোজেন গ্যাসে পচে যায়, যা মিলিসেকেন্ডের মধ্যে ব্যাগটি ফুলিয়ে দেয়।"
+  }
+},
+{
+  "question": {
+    "en": "In the structure of DNA, which vital molecules contain nitrogen and form the 'rungs' of the double helix ladder?",
+    "bn": "ডিএনএ (DNA)-এর গঠনে, কোন অত্যাবশ্যক অণুগুলোতে নাইট্রোজেন থাকে এবং ডাবল হেলিক্স মইয়ের 'ধাপ' তৈরি করে?"
+  },
+  "options": [
+    {
+      "en": "Phosphate groups",
+      "bn": "ফসফেট গ্রুপ"
+    },
+    {
+      "en": "Deoxyribose sugars",
+      "bn": "ডিঅক্সিরাইবোজ সুগার"
+    },
+    {
+      "en": "Nitrogenous bases",
+      "bn": "নাইট্রোজেনাস বেস"
+    },
+    {
+      "en": "Phospholipids",
+      "bn": "ফসফোলিপিড"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "Adenine, thymine, cytosine, and guanine are nitrogenous bases. Their specific pairing encodes all genetic information across almost all living organisms.",
+    "bn": "অ্যাডেনিন, থাইমিন, সাইটোসিন এবং গুয়ানিন হলো নাইট্রোজেনাস বেস। এদের নির্দিষ্ট জোড়া প্রায় সমস্ত জীবন্ত প্রাণীর সমস্ত জেনেটিক তথ্য এনকোড করে।"
+  }
+},
+{
+  "question": {
+    "en": "Which nitrogen-based compound (N2H4) is famously used as a highly reactive and toxic rocket propellant?",
+    "bn": "কোন নাইট্রোজেন-ভিত্তিক যৌগ (N2H4) অত্যন্ত প্রতিক্রিয়াশীল এবং বিষাক্ত রকেট প্রোপেলান্ট (জ্বালানি) হিসাবে বিখ্যাতভাবে ব্যবহৃত হয়?"
+  },
+  "options": [
+    {
+      "en": "Ammonia",
+      "bn": "অ্যামোনিয়া"
+    },
+    {
+      "en": "Hydrazine",
+      "bn": "হাইড্রাজিন"
+    },
+    {
+      "en": "Cyanide",
+      "bn": "সায়ানাইড"
+    },
+    {
+      "en": "Nitric acid",
+      "bn": "নাইট্রিক অ্যাসিড"
+    }
+  ],
+  "correctOptionIndex": 1,
+  "explanation": {
+    "en": "Hydrazine is heavily used in spacecraft thrusters because it is hypergolic, meaning it ignites spontaneously and reliably when it comes into contact with an oxidizer.",
+    "bn": "মহাকাশযানের থ্রাস্টারে হাইড্রাজিন ব্যাপকভাবে ব্যবহৃত হয় কারণ এটি হাইপারগোলিক, যার অর্থ এটি অক্সিডাইজারের সংস্পর্শে এলে স্বতঃস্ফূর্তভাবে এবং নির্ভরযোগ্যভাবে জ্বলে ওঠে।"
+  }
+},
+{
+  "question": {
+    "en": "Which oxide of nitrogen is a toxic, reddish-brown gas that plays a major role in the formation of urban smog?",
+    "bn": "নাইট্রোজেনের কোন অক্সাইডটি একটি বিষাক্ত, লালচে-বাদামী গ্যাস যা শহুরে ধোঁয়াশা তৈরিতে প্রধান ভূমিকা পালন করে?"
+  },
+  "options": [
+    {
+      "en": "Nitric oxide (NO)",
+      "bn": "নাইট্রিক অক্সাইড (NO)"
+    },
+    {
+      "en": "Nitrous oxide (N2O)",
+      "bn": "নাইট্রাস অক্সাইড (N2O)"
+    },
+    {
+      "en": "Nitrogen dioxide (NO2)",
+      "bn": "নাইট্রোজেন ডাই অক্সাইড (NO2)"
+    },
+    {
+      "en": "Dinitrogen pentoxide (N2O5)",
+      "bn": "ডিনাইট্রোজেন পেন্টক্সাইড (N2O5)"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "Nitrogen dioxide (NO2) is emitted largely by cars and power plants. It gives photochemical smog its distinct brownish hue and irritates the lungs.",
+    "bn": "নাইট্রোজেন ডাই অক্সাইড (NO2) মূলত গাড়ি এবং বিদ্যুৎ কেন্দ্র থেকে নির্গত হয়। এটি ফটোক্যামিকেল ধোঁয়াশাকে এর স্বতন্ত্র কালচে-বাদামী আভা দেয় এবং ফুসফুসকে জ্বালাতন করে।"
+  }
+},
+{
+  "question": {
+    "en": "When nitrogen oxides from vehicle exhaust react with water in the atmosphere, they form which strong acid, a major component of acid rain?",
+    "bn": "যানবাহনের নির্গমন থেকে নাইট্রোজেন অক্সাইড বায়ুমণ্ডলের পানির সাথে বিক্রিয়া করলে কোন শক্তিশালী অ্যাসিড তৈরি করে, যা অ্যাসিড বৃষ্টির একটি প্রধান উপাদান?"
+  },
+  "options": [
+    {
+      "en": "Hydrochloric acid",
+      "bn": "হাইড্রোক্লোরিক অ্যাসিড"
+    },
+    {
+      "en": "Sulfuric acid",
+      "bn": "সালফিউরিক অ্যাসিড"
+    },
+    {
+      "en": "Nitric acid",
+      "bn": "নাইট্রিক অ্যাসিড"
+    },
+    {
+      "en": "Carbonic acid",
+      "bn": "কার্বনিক অ্যাসিড"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "Nitrogen dioxide reacts with water and oxygen in the air to produce nitric acid (HNO3), which falls to the earth as acid rain, damaging ecosystems and buildings.",
+    "bn": "নাইট্রোজেন ডাই অক্সাইড বাতাসের জল এবং অক্সিজেনের সাথে বিক্রিয়া করে নাইট্রিক অ্যাসিড (HNO3) তৈরি করে, যা অ্যাসিড বৃষ্টি হিসাবে পৃথিবীতে পড়ে, বাস্তুতন্ত্র এবং ভবনগুলোর ক্ষতি করে।"
+  }
+},
+{
+  "question": {
+    "en": "What dangerous condition occurs when scuba divers breathe compressed air at extreme depths, causing a drunken-like state due to dissolved nitrogen?",
+    "bn": "স্কুবা ডাইভাররা যখন চরম গভীরতায় সংকুচিত বায়ু শ্বাস হিসেবে গ্রহণ করে, তখন দ্রবীভূত নাইট্রোজেনের কারণে মাতালের মতো অবস্থার সৃষ্টি হয়, এই বিপজ্জনক অবস্থাকে কী বলে?"
+  },
+  "options": [
+    {
+      "en": "The Bends",
+      "bn": "দ্য বেন্ডস"
+    },
+    {
+      "en": "Oxygen toxicity",
+      "bn": "অক্সিজেন বিষাক্ততা"
+    },
+    {
+      "en": "Nitrogen narcosis",
+      "bn": "নাইট্রোজেন নারকোসিস"
+    },
+    {
+      "en": "Hypoxia",
+      "bn": "হাইপোক্সিয়া"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "Also known as 'raptures of the deep', nitrogen narcosis happens because the high water pressure forces more nitrogen gas to dissolve into the diver's bloodstream, acting like an anesthetic on the brain.",
+    "bn": "এটি 'রাপচারস অফ দ্য ডিপ' নামেও পরিচিত। নাইট্রোজেন নারকোসিস ঘটে কারণ উচ্চ জলের চাপ আরও বেশি নাইট্রোজেন গ্যাসকে ডুবুরির রক্তপ্রবাহে দ্রবীভূত হতে বাধ্য করে, যা মস্তিষ্কে চেতনানাশকের মতো কাজ করে।"
+  }
+},
+{
+  "question": {
+    "en": "In the nitrogen cycle, what is the specific process where bacteria convert nitrates back into nitrogen gas (N2), returning it to the atmosphere?",
+    "bn": "নাইট্রোজেন চক্রে, কোন নির্দিষ্ট প্রক্রিয়ায় ব্যাকটেরিয়া নাইট্রেটকে পুনরায় নাইট্রোজেন গ্যাসে (N2) রূপান্তরিত করে এবং বায়ুমণ্ডলে ফিরিয়ে দেয়?"
+  },
+  "options": [
+    {
+      "en": "Nitrification",
+      "bn": "নাইট্রিফিকেশন"
+    },
+    {
+      "en": "Denitrification",
+      "bn": "ডিনাইট্রিফিকেশন"
+    },
+    {
+      "en": "Ammonification",
+      "bn": "অ্যামোনিফিকেশন"
+    },
+    {
+      "en": "Nitrogen fixation",
+      "bn": "নাইট্রোজেন সংবদ্ধকরণ"
+    }
+  ],
+  "correctOptionIndex": 1,
+  "explanation": {
+    "en": "Denitrification completes the nitrogen cycle. Certain bacteria in waterlogged, anaerobic (oxygen-poor) soils strip oxygen from nitrates for respiration, releasing N2 back into the air.",
+    "bn": "ডিনাইট্রিফিকেশন নাইট্রোজেন চক্র সম্পন্ন করে। জলাবদ্ধ, অ্যানেরোবিক (অক্সিজেন-দরিদ্র) মাটিতে থাকা কিছু ব্যাকটেরিয়া শ্বাস-প্রশ্বাসের জন্য নাইট্রেট থেকে অক্সিজেন ছিনিয়ে নেয়, যার ফলে N2 বাতাসে ফিরে যায়।"
+  }
+},
+{
+  "question": {
+    "en": "Nitric acid is mixed with hydrochloric acid to form 'Aqua Regia' (Royal Water), which is famous for its ability to dissolve what precious metal?",
+    "bn": "নাইট্রিক অ্যাসিডকে হাইড্রোক্লোরিক অ্যাসিডের সাথে মিশিয়ে 'অ্যাকোয়া রেজিয়া' (রাজকীয় জল) তৈরি করা হয়, যা কোন মূল্যবান ধাতু গলানোর ক্ষমতার জন্য বিখ্যাত?"
+  },
+  "options": [
+    {
+      "en": "Silver",
+      "bn": "রুপা"
+    },
+    {
+      "en": "Platinum",
+      "bn": "প্লাটিনাম"
+    },
+    {
+      "en": "Gold",
+      "bn": "সোনা"
+    },
+    {
+      "en": "Titanium",
+      "bn": "টাইটানিয়াম"
+    }
+  ],
+  "correctOptionIndex": 2,
+  "explanation": {
+    "en": "Gold is incredibly unreactive and won't dissolve in either acid alone. However, the unique combination in Aqua Regia creates free chlorine atoms and nitrosyl chloride, which can readily dissolve gold.",
+    "bn": "সোনা অবিশ্বাস্যভাবে প্রতিক্রিয়াশীল নয় এবং একা কোনো অ্যাসিডেই দ্রবীভূত হবে না। তবে, অ্যাকোয়া রেজিয়ার অনন্য সংমিশ্রণ মুক্ত ক্লোরিন পরমাণু এবং নাইট্রোসিল ক্লোরাইড তৈরি করে, যা সহজেই সোনা দ্রবীভূত করতে পারে।"
+  }
+}
+
+    ],
+    "misconceptions": [
+      {
+        "en": "Air is mostly oxygen. (False: Air is roughly 78% nitrogen and only 21% oxygen).",
+        "bn": "বাতাস মূলত অক্সিজেন। (মিথ্যা: বাতাসে প্রায় ৭৮% নাইট্রোজেন এবং মাত্র ২১% অক্সিজেন থাকে)।"
+      },
+      {
+        "en": "Nitrogen is flammable. (False: Nitrogen is inert and actually extinguishes fires by displacing oxygen).",
+        "bn": "নাইট্রোজেন দাহ্য পদার্থ। (মিথ্যা: নাইট্রোজেন নিষ্ক্রিয় এবং প্রকৃতপক্ষে অক্সিজেনকে স্থানচ্যুত করে আগুন নিভিয়ে দেয়)।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember that Nitrogen acts like a tight pair of handcuffs (N≡N). It takes a lot of effort to break them apart, which is why it doesn't react easily with other elements.",
+        "bn": "মনে রাখবেন যে নাইট্রোজেন হ্যান্ডকাফের একটি শক্ত জোড়ার মতো (N≡N) আচরণ করে। এগুলোকে ভাঙতে অনেক চেষ্টার প্রয়োজন হয়, যে কারণে এটি অন্যান্য উপাদানগুলির সাথে সহজে প্রতিক্রিয়া দেখায় না।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "N₂ + 3H₂ ⇌ 2NH₃",
+        "description": {
+          "en": "The Haber-Bosch process: Nitrogen reacts with hydrogen gas under high temperature, pressure, and an iron catalyst to produce ammonia.",
+          "bn": "হ্যাবার-বশ প্রক্রিয়া: নাইট্রোজেন উচ্চ তাপমাত্রা, চাপ এবং একটি আয়রন প্রভাবকের (অনুঘটক) অধীনে হাইড্রোজেন গ্যাসের সাথে বিক্রিয়া করে অ্যামোনিয়া তৈরি করে।"
+        }
+      },
+      {
+        "equation": "N₂ + O₂ → 2NO",
+        "description": {
+          "en": "Formation of nitric oxide during lightning strikes or in internal combustion engines due to extreme heat.",
+          "bn": "বজ্রপাতের সময় বা চরম উত্তাপের কারণে অভ্যন্তরীণ দহন ইঞ্জিনগুলোতে নাইট্রিক অক্সাইড গঠন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "2NO + O₂ → 2NO₂",
+        "description": {
+          "en": "Further oxidation of nitric oxide to form nitrogen dioxide, a brown, toxic gas associated with smog.",
+          "bn": "ধোঁয়াশার সাথে যুক্ত একটি বাদামী, বিষাক্ত গ্যাস নাইট্রোজেন ডাই অক্সাইড তৈরি করতে নাইট্রিক অক্সাইডের আরও জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "2NO₂ + 4CO → N₂ + 4CO₂",
+        "description": {
+          "en": "Reduction of nitrogen dioxide in a car's catalytic converter to produce harmless nitrogen gas.",
+          "bn": "একটি গাড়ির অনুঘটক রূপান্তরকারীতে (ক্যাটালাইটিক কনভার্টার) নির্দোষ নাইট্রোজেন গ্যাস তৈরি করতে নাইট্রোজেন ডাই অক্সাইডের বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Triple Covalent Bond",
+          "bn": "ত্রিপল সমযোজী বন্ধন"
+        },
+        "molecule": "N₂",
+        "description": {
+          "en": "Two nitrogen atoms share three pairs of electrons, forming one extremely strong sigma bond and two pi bonds.",
+          "bn": "দুটি নাইট্রোজেন পরমাণু তিন জোড়া ইলেকট্রন ভাগ করে, একটি অত্যন্ত শক্তিশালী সিগমা বন্ধন এবং দুটি পাই বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

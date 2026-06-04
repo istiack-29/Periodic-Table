@@ -1,0 +1,1030 @@
+{
+"elementId": 6,
+"basicInformation": {
+"atomicNumber": 6,
+"symbol": "C",
+"name": {
+"en": "Carbon",
+"bn": "কার্বন"
+},
+"pronunciation": {
+"en": "/ˈkɑːrbən/",
+"bn": "কার-বন"
+},
+"atomicMass": 12.011,
+"category": {
+"en": "Polyatomic nonmetal",
+"bn": "বহুপরমাণুক অধাতু"
+},
+"group": 14,
+"period": 2,
+"block": "p",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Black (graphite), Colorless (diamond)",
+"bn": "কালো (গ্রাফাইট), বর্ণহীন (হীরা)"
+},
+"color": {
+"en": "Black / Colorless",
+"bn": "কালো / বর্ণহীন"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Ancient Civilizations (Egyptians and Sumerians)",
+"bn": "প্রাচীন সভ্যতা (মিশরীয় এবং সুমেরীয়)"
+},
+"discoveryYear": null,
+"discoveryLocation": {
+"en": "Ancient Middle East",
+"bn": "প্রাচীন মধ্যপ্রাচ্য"
+},
+"discoveryStory": {
+"en": "Known since prehistory as soot and charcoal. Antoine Lavoisier first listed it as a distinct element in 1789, deriving the name from the Latin 'carbo' for coal.",
+"bn": "প্রাগৈতিহাসিক কাল থেকেই ঝুল এবং কাঠকয়লা হিসেবে পরিচিত। অ্যান্টোইন ল্যাভয়সিয়ে ১৭৮৯ সালে প্রথম এটিকে একটি স্বতন্ত্র উপাদান হিসাবে তালিকাভুক্ত করেন, ল্যাটিন শব্দ 'কার্বো' (কয়লা) থেকে এর নামকরণ করা হয়।"
+},
+"historicalUses": {
+"en": "Charcoal was used by the Romans to smelt ores to make bronze and by the Egyptians as eyeliner and for drawing.",
+"bn": "ব্রোঞ্জ তৈরির আকরিক গলাতে রোমানরা কাঠকয়লা ব্যবহার করত এবং মিশরীয়রা চোখের লাইনার ও ছবি আঁকতে এটি ব্যবহার করত।"
+},
+"famousExperiments": {
+"en": "Lavoisier burned a diamond and charcoal, proving both produced only carbon dioxide, showing they were the same element.",
+"bn": "ল্যাভয়সিয়ে একটি হীরা এবং কাঠকয়লা পুড়িয়েছিলেন, প্রমাণ করেছিলেন যে উভয়ই কেবল কার্বন ডাই অক্সাইড তৈরি করে, যা দেখায় যে তারা একই উপাদান।"
+}
+},
+"atomicStructure": {
+"protons": 6,
+"neutrons": 6,
+"electrons": 6,
+"valenceElectrons": 4,
+"shells": 2,
+"shellDistribution": [
+2,
+4
+],
+"electronConfiguration": "1s² 2s² 2p²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 2
+},
+"oxidationStates": [
+4,
+3,
+2,
+1,
+0,
+-1,
+-2,
+-3,
+-4
+],
+"quantumNumbers": {
+"principal": 2,
+"azimuthal": 1,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 2.267,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 3915,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 4300,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 70,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 76,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 170,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 140,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 100000,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.709,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 10.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Hexagonal (Graphite), Diamond cubic",
+"bn": "ষড়ভুজাকার (গ্রাফাইট), হীরা কিউবিক"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 2.55,
+"ionizationEnergy": {
+"value": 1086.5,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 122.3,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Generally unreactive at standard temperatures but oxidizes at high temperatures. Unique ability to form long, stable chains (catenation).",
+"bn": "সাধারণ তাপমাত্রায় সাধারণত প্রতিক্রিয়াশীল নয় তবে উচ্চ তাপমাত্রায় জারিত হয়। দীর্ঘ, স্থিতিশীল চেইন (ক্যাটেনেশন) গঠন করার অনন্য ক্ষমতা রয়েছে।"
+},
+"commonCompounds": [
+"CO₂",
+"CO",
+"CH₄",
+"C₂H₅OH",
+"CaCO₃",
+"H₂CO₃",
+"C₆H₁₂O₆"
+],
+"flameTestColor": {
+"en": "Orange-yellow (for carbon-based soot)",
+"bn": "কমলা-হলুদ (কার্বন-ভিত্তিক ঝুলের জন্য)"
+},
+"spectralLines": [
+"247.86nm",
+"193.09nm",
+"156.14nm"
+]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Essential for steel production (as coke). Carbon black is heavily used to strengthen rubber in automobile tires.",
+"bn": "ইস্পাত উৎপাদনের জন্য অপরিহার্য (কোক হিসাবে)। অটোমোবাইলের টায়ারে রাবারকে শক্তিশালী করার জন্য কার্বন ব্ল্যাক ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"commercialUses": {
+"en": "Graphite in pencils, diamonds in jewelry, and water filtration systems using activated charcoal.",
+"bn": "পেন্সিলে গ্রাফাইট, গয়নাতে হীরা এবং সক্রিয় কাঠকয়লা (অ্যাক্টিভেটেড চারকোল) ব্যবহার করে জল পরিস্রাবণ সিস্টেম।"
+},
+"electronicsUses": {
+"en": "Graphite is the primary material used for the anode in commercial lithium-ion batteries.",
+"bn": "গ্রাফাইট হলো বাণিজ্যিক লিথিয়াম-আয়ন ব্যাটারিতে অ্যানোডের জন্য ব্যবহৃত প্রাথমিক উপাদান।"
+},
+"semiconductorUses": {
+"en": "Silicon carbide (SiC) is a crucial wide-bandgap semiconductor for high-power electric vehicle components.",
+"bn": "সিলিকন কার্বাইড (SiC) উচ্চ-শক্তির বৈদ্যুতিক গাড়ির উপাদানগুলির জন্য একটি অত্যন্ত গুরুত্বপূর্ণ ওয়াইড-ব্যান্ডগ্যাপ সেমিকন্ডাক্টর।"
+},
+"aerospaceUses": {
+"en": "Carbon fiber reinforced polymers (CFRP) are used extensively to build ultra-light, rigid aircraft wings and fuselages.",
+"bn": "কার্বন ফাইবার রিইনফোর্সড পলিমার (CFRP) অতি-হালকা, দৃঢ় বিমানের ডানা এবং ফিউজলেজ তৈরি করতে ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"batteryUses": {
+"en": "Anode material in virtually all lithium-ion batteries; carbon nanotubes are used to improve battery conductivity.",
+"bn": "প্রায় সমস্ত লিথিয়াম-আয়ন ব্যাটারিতে অ্যানোড উপাদান; কার্বন ন্যানোটিউব ব্যাটারির পরিবাহিতা উন্নত করতে ব্যবহৃত হয়।"
+},
+"aiHardwareUses": {
+"en": "Graphene and carbon nanotubes are leading candidates for post-silicon nanoelectronics in future high-density AI processors.",
+"bn": "গ্রাফিন এবং কার্বন ন্যানোটিউব ভবিষ্যতের উচ্চ-ঘনত্বের এআই (AI) প্রসেসরগুলিতে পোস্ট-সিলিকন ন্যানোইলেকট্রনিক্সের জন্য প্রধান প্রার্থী।"
+},
+"renewableEnergyUses": {
+"en": "Wind turbine blades utilize huge amounts of carbon fiber. Graphene supercapacitors offer future energy storage solutions.",
+"bn": "উইন্ড টারবাইনের ব্লেডে প্রচুর পরিমাণে কার্বন ফাইবার ব্যবহার করা হয়। গ্রাফিন সুপারক্যাপাসিটর ভবিষ্যতের শক্তি সংরক্ষণের সমাধান প্রদান করে।"
+},
+"nanotechnologyUses": {
+"en": "Graphene, fullerenes (C60), and carbon nanotubes form the absolute backbone of modern nanotech research.",
+"bn": "গ্রাফিন, ফুলারিনস (C60) এবং কার্বন ন্যানোটিউব আধুনিক ন্যানোটেক গবেষণার পরম মেরুদণ্ড তৈরি করে।"
+},
+"nuclearUses": {
+"en": "Highly purified graphite is used as a neutron moderator in some nuclear reactor designs (like RBMK and advanced gas-cooled reactors).",
+"bn": "অত্যন্ত বিশুদ্ধ গ্রাফাইট কিছু পারমাণবিক চুল্লির ডিজাইনে (যেমন RBMK এবং উন্নত গ্যাস-কুলড রিঅ্যাক্টর) নিউট্রন মডারেটর হিসেবে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Kevlar integration, stealth coating materials (radar absorption), and advanced tactical body armor.",
+"bn": "কেভলার ইন্টিগ্রেশন, স্টিলথ লেপ উপকরণ (রাডার শোষণ) এবং উন্নত কৌশলগত বডি আর্মার।"
+},
+"medicalUses": {
+"en": "Activated carbon for poison treatment. Carbon-14 is critical for radiometric dating and medical diagnostic breath tests.",
+"bn": "বিষের চিকিৎসার জন্য অ্যাক্টিভেটেড কার্বন। রেডিওমেট্রিক ডেটিং এবং মেডিক্যাল ডায়াগনস্টিক শ্বাস পরীক্ষার জন্য কার্বন-১৪ অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"foodIndustryUses": {
+"en": "Carbon dioxide is used for carbonation in beverages, decaffeination, and as dry ice for deep-freeze transport.",
+"bn": "কার্বন ডাই অক্সাইড পানীয়ের কার্বনেশন, ডিক্যাফিনেটিং এবং ডিপ-ফ্রিজ পরিবহনের জন্য ড্রাই আইস হিসেবে ব্যবহৃত হয়।"
+},
+"constructionUses": {
+"en": "Carbon composite rebars provide corrosion-resistant alternatives to steel in structural concrete.",
+"bn": "কার্বন কম্পোজিট রিবার কাঠামোগত কংক্রিটে ইস্পাতের একটি জারা-প্রতিরোধী বিকল্প প্রদান করে।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "The absolute foundation of all known biology. Its ability to form four stable covalent bonds creates the complex molecules of life (DNA, proteins, carbohydrates).",
+"bn": "সব পরিচিত জীববিজ্ঞানের পরম ভিত্তি। চারটি স্থিতিশীল সমযোজী বন্ধন তৈরি করার ক্ষমতা জীবনের জটিল অণু (ডিএনএ, প্রোটিন, কার্বোহাইড্রেট) তৈরি করে।"
+},
+"humanBodyRole": {
+"en": "Makes up approximately 18% of the human body by mass, second only to oxygen.",
+"bn": "ভরের দিক থেকে মানবদেহের প্রায় ১৮% তৈরি করে, যা অক্সিজেনের পরেই দ্বিতীয়।"
+},
+"toxicity": {
+"en": "Pure carbon is non-toxic. However, its oxides (CO) are highly toxic, and fine carbon nanoparticles can damage lungs.",
+"bn": "বিশুদ্ধ কার্বন বিষাক্ত নয়। তবে, এর অক্সাইড (CO) অত্যন্ত বিষাক্ত এবং সূক্ষ্ম কার্বন ন্যানো পার্টিকেল ফুসফুসের ক্ষতি করতে পারে।"
+},
+"environmentalImpact": {
+"en": "The carbon cycle governs Earth's climate. Anthropogenic emission of CO2 and methane is the primary driver of global climate change.",
+"bn": "কার্বন চক্র পৃথিবীর জলবায়ু নিয়ন্ত্রণ করে। মানুষের দ্বারা সৃষ্ট CO2 এবং মিথেন নির্গমন বৈশ্বিক জলবায়ু পরিবর্তনের প্রাথমিক চালক।"
+},
+"pollutionRisks": {
+"en": "Ocean acidification from dissolved CO2 threatens marine ecosystems; atmospheric CO2 traps global heat.",
+"bn": "দ্রবীভূত CO2 থেকে সমুদ্রের অম্লতা বৃদ্ধি সামুদ্রিক বাস্তুতন্ত্রের জন্য হুমকি; বায়ুমণ্ডলীয় CO2 বৈশ্বিক তাপকে আটকে রাখে।"
+},
+"recyclingMethods": {
+"en": "Emerging carbon capture and storage (CCS) technologies aim to pull CO2 from the air and recycle it into e-fuels or solid carbonates.",
+"bn": "উদীয়মান কার্বন ক্যাপচার এবং স্টোরেজ (CCS) প্রযুক্তি বাতাস থেকে CO2 টেনে নিয়ে সেগুলোকে ই-জ্বালানী বা কঠিন কার্বনেটে পুনর্ব্যবহার করার লক্ষ্য রাখে।"
+},
+"sustainabilityScore": 5.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "India",
+"bn": "ভারত"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+}
+],
+"miningMethods": {
+"en": "Subsurface and open-pit mining for coal and graphite; pipe mining in kimberlite rock for natural diamonds.",
+"bn": "কয়লা এবং গ্রাফাইটের জন্য ভূগর্ভস্থ এবং উন্মুক্ত খনি (ওপেন-পিট); প্রাকৃতিক হীরার জন্য কিম্বারলাইট পাথরে পাইপ মাইনিং।"
+},
+"abundance": {
+"universe": {
+"en": "0.5% by mass",
+"bn": "ভর অনুযায়ী ০.৫%"
+},
+"earthCrust": {
+"en": "0.02% by mass",
+"bn": "ভর অনুযায়ী ০.০২%"
+},
+"oceans": {
+"en": "0.0028% by mass",
+"bn": "ভর অনুযায়ী ০.০০২৮%"
+}
+},
+"marketValue": {
+"en": "Varies extreme widely: Coal is ~$100/ton, standard graphite ~$1,000/ton, diamonds can exceed $10,000,000/kg.",
+"bn": "দামের চরম তারতম্য রয়েছে: কয়লা প্রায় $১০০/টন, স্ট্যান্ডার্ড গ্রাফাইট প্রায় $১,০০০/টন, হীরার দাম $১০,০০০,০০০/কেজি ছাড়িয়ে যেতে পারে।"
+},
+"futureDemand": {
+"en": "Fossil fuel demand is declining, but demand for high-purity graphite (batteries) and advanced carbon composites is skyrocketing exponentially.",
+"bn": "জীবাশ্ম জ্বালানির চাহিদা হ্রাস পাচ্ছে, তবে উচ্চ-বিশুদ্ধতার গ্রাফাইট (ব্যাটারি) এবং উন্নত কার্বন কম্পোজিটের চাহিদা সূচকীয় হারে বাড়ছে।"
+},
+"globalImportance": {
+"en": "The backbone of global energy (fossil fuels), materials science, and the entire chemical industry.",
+"bn": "বৈশ্বিক শক্তি (জীবাশ্ম জ্বালানী), বস্তু বিজ্ঞান এবং সমগ্র রাসায়নিক শিল্পের মেরুদণ্ড।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Coal dust causes pneumoconiosis (black lung). CO gas is a silent, odorless killer. CO2 is an asphyxiant at high levels.",
+"bn": "কয়লার ধুলো নিউমোকোনিওসিস (কালো ফুসফুস) সৃষ্টি করে। CO গ্যাস একটি নীরব, গন্ধহীন ঘাতক। CO2 উচ্চ মাত্রায় একটি শ্বাসরোধকারী গ্যাস।"
+},
+"storageRequirements": {
+"en": "Store carbon black and graphite away from strong oxidizers to prevent explosive dust hazards.",
+"bn": "বিস্ফোরক ধুলোর ঝুঁকি এড়াতে কার্বন ব্ল্যাক এবং গ্রাফাইট শক্তিশালী জারক থেকে দূরে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Proper ventilation is required when handling carbon nanomaterials to avoid inhalation toxicity.",
+"bn": "শ্বাসগ্রহণের বিষাক্ততা এড়াতে কার্বন ন্যানোমেটেরিয়ালগুলি পরিচালনা করার সময় সঠিক বায়ুচলাচল প্রয়োজন।"
+},
+"exposureRisks": {
+"en": "Inhalation of nanomaterials like carbon nanotubes can trigger asbestos-like inflammation in lung tissues.",
+"bn": "কার্বন ন্যানোটিউবের মতো ন্যানোমেটেরিয়াল শ্বাস নেওয়ার ফলে ফুসফুসের টিস্যুতে অ্যাসবেস্টসের মতো প্রদাহ শুরু হতে পারে।"
+},
+"safetyLevel": {
+"en": "Moderate Risk (Dust/Nanomaterials) / High Risk (Oxide Gases)",
+"bn": "মাঝারি ঝুঁকি (ধুলো/ন্যানোমেটেরিয়ালস) / উচ্চ ঝুঁকি (অক্সাইড গ্যাস)"
+},
+"hazardClassifications": [
+{
+"en": "Combustible Dust",
+"bn": "দাহ্য ধুলো"
+},
+{
+"en": "Respiratory Irritant",
+"bn": "শ্বাসযন্ত্রের উত্তেজক"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Carbon is the 'duct tape of life'. It can connect to almost anything, including itself, in many ways. It makes up diamonds, pencil lead, and you!",
+"bn": "কার্বন হলো 'জীবনের আঠালো টেপ'। এটি প্রায় যেকোনো কিছুর সাথে, এমনকি নিজের সাথেও নানাভাবে যুক্ত হতে পারে। এটি হীরা, পেন্সিলের সিসা এবং আপনাকে তৈরি করে!"
+},
+"advancedExplanation": {
+"en": "Carbon's 2s2 2p2 electron configuration allows for sp, sp2, and sp3 orbital hybridization. This unique versatility permits the formation of immense linear chains, planar aromatic rings, and massive 3D lattices, underpinning all organic chemistry.",
+"bn": "কার্বনের 2s2 2p2 ইলেকট্রন কনফিগারেশন sp, sp2 এবং sp3 অরবিটাল সংকরায়ণের (হাইব্রিডাইজেশন) অনুমতি দেয়। এই অনন্য বহুমুখিতা বিশাল রৈখিক চেইন, সমতল অ্যারোমেটিক রিং এবং বিশাল 3D জালি গঠনের অনুমতি দেয়, যা সমস্ত জৈব রসায়নের ভিত্তি।"
+},
+"funFacts": [
+{
+"en": "Graphene, a single layer of carbon atoms, is 200 times stronger than steel but completely transparent.",
+"bn": "গ্রাফিন, কার্বন পরমাণুর একটি একক স্তর, ইস্পাতের চেয়ে ২০০ গুণ শক্তিশালী কিন্তু সম্পূর্ণ স্বচ্ছ।"
+},
+{
+"en": "If you could extract all the carbon from a human body, you could make about 9,000 pencils.",
+"bn": "আপনি যদি মানবদেহ থেকে সমস্ত কার্বন বের করতে পারেন, তবে আপনি প্রায় ৯,০০০ পেন্সিল তৈরি করতে পারবেন।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 14,
+"relation": {
+"en": "Silicon sits right below Carbon in group 14. While Silicon builds the inorganic digital world (computers), Carbon builds the organic biological world (life).",
+"bn": "সিলিকন ১৪ নং গ্রুপে কার্বনের ঠিক নিচেই বসে। যদিও সিলিকন অজৈব ডিজিটাল জগত (কম্পিউটার) তৈরি করে, কার্বন জৈব জৈবিক জগত (জীবন) তৈরি করে।"
+}
+}
+],
+"relatedElements": [
+1,
+7,
+8,
+14,
+15
+],
+"quizQuestions": [
+{
+"question": {
+"en": "Which natural allotrope of carbon is renowned as the hardest known natural substance?",
+"bn": "কার্বনের কোন প্রাকৃতিক রূপভেদটি (অ্যালোট্রপ) সবচেয়ে কঠিন পরিচিত প্রাকৃতিক পদার্থ হিসাবে বিখ্যাত?"
+},
+"options": [
+{
+"en": "Graphite",
+"bn": "গ্রাফাইট"
+},
+{
+"en": "Graphene",
+"bn": "গ্রাফিন"
+},
+{
+"en": "Diamond",
+"bn": "হীরা"
+},
+{
+"en": "Lonsdaleite",
+"bn": "লনসডেলাইট"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "In diamonds, each carbon atom is bonded to four others in a rigid, 3D tetrahedral network (sp3 hybridization), making it extremely hard.",
+"bn": "হীরাতে, প্রতিটি কার্বন পরমাণু একটি দৃঢ়, থ্রিডি (3D) টেট্রাহেড্রাল নেটওয়ার্কে (sp3 সংকরায়ণ) অন্য চারটির সাথে আবদ্ধ থাকে, যা এটিকে অত্যন্ত কঠিন করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What specific radioactive isotope of carbon is utilized by archaeologists for radiometric dating of organic remains?",
+"bn": "জৈব অবশেষের রেডিওমেট্রিক ডেটিংয়ের জন্য প্রত্নতাত্ত্বিকরা কার্বনের কোন নির্দিষ্ট তেজস্ক্রিয় আইসোটোপ ব্যবহার করেন?"
+},
+"options": [
+{
+"en": "Carbon-12",
+"bn": "কার্বন-১২"
+},
+{
+"en": "Carbon-13",
+"bn": "কার্বন-১৩"
+},
+{
+"en": "Carbon-14",
+"bn": "কার্বন-১৪"
+},
+{
+"en": "Carbon-16",
+"bn": "কার্বন-১৬"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Carbon-14 is a radioactive isotope with a half-life of 5,730 years, constantly generated in the upper atmosphere and absorbed by living things.",
+"bn": "কার্বন-১৪ হলো একটি তেজস্ক্রিয় আইসোটোপ যার অর্ধায়ু ৫,৭৩০ বছর, এটি উপরের বায়ুমণ্ডলে ক্রমাগত উৎপন্ন হয় এবং জীবিত প্রাণীদের দ্বারা শোষিত হয়।"
+}
+},
+{
+"question": {
+"en": "In graphite, the carbon atoms undergo what type of orbital hybridization, allowing it to conduct electricity?",
+"bn": "গ্রাফাইটে, কার্বন পরমাণুগুলি কোন ধরণের অরবিটাল সংকরায়ণের (হাইব্রিডাইজেশন) মধ্য দিয়ে যায়, যা এটিকে বিদ্যুৎ পরিচালনা করতে সহায়তা করে?"
+},
+"options": [
+{
+"en": "sp",
+"bn": "sp"
+},
+{
+"en": "sp2",
+"bn": "sp2"
+},
+{
+"en": "sp3",
+"bn": "sp3"
+},
+{
+"en": "sp3d",
+"bn": "sp3d"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Graphite features sp2 hybridization. This leaves one unhybridized p-orbital per atom, creating a 'sea' of delocalized electrons that conduct electricity.",
+"bn": "গ্রাফাইটে sp2 হাইব্রিডাইজেশন থাকে। এটি প্রতি পরমাণুতে একটি অসংকরিত পি-অরবিটাল (p-orbital) রেখে দেয়, যা ডিলোকালাইজড ইলেকট্রনের একটি 'সাগর' তৈরি করে এবং বিদ্যুৎ পরিবহন করে।"
+}
+},
+{
+"question": {
+"en": "Buckminsterfullerene (C60) has a molecular structure that identically resembles what common object?",
+"bn": "বাকমিনস্টারফুলারিন (C60) এর একটি আণবিক কাঠামো রয়েছে যা কোন সাধারণ বস্তুর সাথে হুবহু মিলে যায়?"
+},
+"options": [
+{
+"en": "A pyramid",
+"bn": "একটি পিরামিড"
+},
+{
+"en": "A soccer ball",
+"bn": "একটি সকার বল"
+},
+{
+"en": "A cylinder",
+"bn": "একটি সিলিন্ডার"
+},
+{
+"en": "A DNA double helix",
+"bn": "একটি ডিএনএ (DNA) ডাবল হেলিক্স"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "C60 forms a truncated icosahedron made of 20 hexagons and 12 pentagons, exactly like a traditional soccer ball.",
+"bn": "C60 হলো ২০টি ষড়ভুজ এবং ১২টি পঞ্চভুজ দিয়ে তৈরি একটি ট্রাঙ্কেটেড ইকোসাহেড্রন, যা হুবহু একটি ঐতিহ্যবাহী সকার বলের মতো।"
+}
+},
+{
+"question": {
+"en": "What fundamental biological process removes carbon dioxide from the Earth's atmosphere and converts it into glucose?",
+"bn": "কোন মৌলিক জৈবিক প্রক্রিয়া পৃথিবীর বায়ুমণ্ডল থেকে কার্বন ডাই অক্সাইড অপসারণ করে এবং একে গ্লুকোজে রূপান্তরিত করে?"
+},
+"options": [
+{
+"en": "Cellular respiration",
+"bn": "কোষীয় শ্বসন"
+},
+{
+"en": "Photosynthesis",
+"bn": "সালোকসংশ্লেষণ"
+},
+{
+"en": "Fermentation",
+"bn": "গাঁজন (ফার্মেন্টেশন)"
+},
+{
+"en": "Transpiration",
+"bn": "প্রস্বেদন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Plants and cyanobacteria use sunlight during photosynthesis to fix atmospheric CO2 into solid, energy-rich carbon compounds like glucose.",
+"bn": "উদ্ভিদ এবং সায়ানোব্যাকটেরিয়া সালোকসংশ্লেষণের সময় সূর্যালোক ব্যবহার করে বায়ুমণ্ডলীয় CO2 কে গ্লুকোজের মতো কঠিন, শক্তি-সমৃদ্ধ কার্বন যৌগে আবদ্ধ করে।"
+}
+},
+{
+"question": {
+"en": "Why is Carbon Monoxide (CO) exceptionally dangerous to human health?",
+"bn": "কার্বন মনোক্সাইড (CO) মানুষের স্বাস্থ্যের জন্য কেন ব্যতিক্রমীভাবে বিপজ্জনক?"
+},
+"options": [
+{
+"en": "It dissolves bones",
+"bn": "এটি হাড় গলিয়ে দেয়"
+},
+{
+"en": "It causes immediate blindness",
+"bn": "এটি তাত্ক্ষণিক অন্ধত্ব সৃষ্টি করে"
+},
+{
+"en": "It binds to hemoglobin 200x stronger than oxygen, causing suffocation",
+"bn": "এটি অক্সিজেনের চেয়ে ২০০ গুণ বেশি শক্তিশালীভাবে হিমোগ্লোবিনের সাথে আবদ্ধ হয়, যার ফলে শ্বাসরোধ হয়"
+},
+{
+"en": "It destroys lung tissue like an acid",
+"bn": "এটি অ্যাসিডের মতো ফুসফুসের টিস্যু ধ্বংস করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "CO has an extraordinarily high affinity for the iron in hemoglobin, effectively blocking oxygen transport in the blood.",
+"bn": "হিমোগ্লোবিনের আয়রনের প্রতি CO এর অসাধারণ উচ্চ সখ্যতা রয়েছে, যা রক্তে অক্সিজেন পরিবহনে কার্যকরভাবে বাধা দেয়।"
+}
+},
+{
+"question": {
+"en": "Under standard atmospheric pressure, what happens to graphite when it is heated to around 3900 K?",
+"bn": "আদর্শ বায়ুমণ্ডলীয় চাপের অধীনে, গ্রাফাইটকে যখন ৩৯০০ কেলভিনের কাছাকাছি উত্তপ্ত করা হয় তখন এর কী ঘটে?"
+},
+"options": [
+{
+"en": "It melts into liquid carbon",
+"bn": "এটি গলে তরল কার্বনে পরিণত হয়"
+},
+{
+"en": "It sublimates directly from solid to gas",
+"bn": "এটি কঠিন থেকে সরাসরি গ্যাসে ঊর্ধ্বপাতিত হয়"
+},
+{
+"en": "It condenses into a diamond",
+"bn": "এটি ঘনীভূত হয়ে হীরাতে পরিণত হয়"
+},
+{
+"en": "It undergoes nuclear fusion",
+"bn": "এটি পারমাণবিক ফিউশনের মধ্য দিয়ে যায়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Carbon has no liquid phase at normal atmospheric pressure; instead, it sublimates directly from solid to gas at extreme temperatures.",
+"bn": "স্বাভাবিক বায়ুমণ্ডলীয় চাপে কার্বনের কোনো তরল অবস্থা নেই; এর পরিবর্তে, এটি চরম তাপমাত্রায় কঠিন থেকে সরাসরি গ্যাসে ঊর্ধ্বপাতিত হয়।"
+}
+},
+{
+"question": {
+"en": "Adding a small amount of carbon (usually up to 2.1%) to iron produces what universally critical structural alloy?",
+"bn": "আয়রনের সাথে অল্প পরিমাণ কার্বন (সাধারণত ২.১% পর্যন্ত) যোগ করলে কোন সার্বজনীন সমালোচনামূলক কাঠামোগত সংকর ধাতু তৈরি হয়?"
+},
+"options": [
+{
+"en": "Bronze",
+"bn": "ব্রোঞ্জ"
+},
+{
+"en": "Brass",
+"bn": "পিতল"
+},
+{
+"en": "Titanium",
+"bn": "টাইটানিয়াম"
+},
+{
+"en": "Steel",
+"bn": "ইস্পাত (স্টিল)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Carbon atoms sit in the interstitial spaces of the iron crystal lattice, preventing the iron layers from sliding past each other, creating rigid steel.",
+"bn": "কার্বন পরমাণুগুলি আয়রন ক্রিস্টাল জালির ইন্টারস্টিশিয়াল স্পেসে বসে থাকে, যা আয়রনের স্তরগুলিকে একে অপরের পাশ দিয়ে পিছলে যেতে বাধা দেয় এবং দৃঢ় ইস্পাত তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "How many valence electrons does a neutral, isolated carbon atom possess?",
+"bn": "একটি নিরপেক্ষ, বিচ্ছিন্ন কার্বন পরমাণুর কয়টি যোজ্যতা ইলেকট্রন থাকে?"
+},
+"options": [
+{
+"en": "2",
+"bn": "২"
+},
+{
+"en": "4",
+"bn": "৪"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "8",
+"bn": "৮"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Carbon is in group 14 and has 4 valence electrons in its outer shell (2s2 2p2), allowing it to form four distinct chemical bonds.",
+"bn": "কার্বন ১৪ নং গ্রুপে রয়েছে এবং এর বাইরের শেলে (2s2 2p2) ৪টি যোজ্যতা ইলেকট্রন রয়েছে, যা এটিকে চারটি স্বতন্ত্র রাসায়নিক বন্ধন তৈরি করতে সহায়তা করে।"
+}
+},
+{
+"question": {
+"en": "In the vocabulary of organic chemistry, a hydrocarbon containing entirely single carbon-carbon bonds is called an:",
+"bn": "জৈব রসায়নের পরিভাষায়, সম্পূর্ণভাবে একক কার্বন-কার্বন বন্ধন যুক্ত একটি হাইড্রোকার্বনকে কী বলা হয়:"
+},
+"options": [
+{
+"en": "Alkene",
+"bn": "অ্যালকিন"
+},
+{
+"en": "Alkyne",
+"bn": "অ্যালকাইন"
+},
+{
+"en": "Alkane",
+"bn": "অ্যালকেন"
+},
+{
+"en": "Aromatic",
+"bn": "অ্যারোমেটিক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Alkanes are saturated hydrocarbons meaning all carbon-carbon bonds are single covalent bonds (sp3 hybridized).",
+"bn": "অ্যালকেনগুলি হলো সম্পৃক্ত হাইড্রোকার্বন যার অর্থ সমস্ত কার্বন-কার্বন বন্ধন হলো একক সমযোজী বন্ধন (sp3 সংকরিত)।"
+}
+},
+{
+"question": {
+"en": "Deep inside massive stars at the end of their lives, carbon-12 is formed via the collision of three atoms of which element?",
+"bn": "বিশাল নক্ষত্রের জীবনের শেষে তাদের গভীরে, কোন উপাদানের তিনটি পরমাণুর সংঘর্ষের মাধ্যমে কার্বন-১২ গঠিত হয়?"
+},
+"options": [
+{
+"en": "Hydrogen",
+"bn": "হাইড্রোজেন"
+},
+{
+"en": "Helium",
+"bn": "হিলিয়াম"
+},
+{
+"en": "Oxygen",
+"bn": "অক্সিজেন"
+},
+{
+"en": "Lithium",
+"bn": "লিথিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The triple-alpha process involves three helium-4 nuclei (alpha particles) fusing sequentially to create carbon-12.",
+"bn": "ট্রিপল-আলফা প্রক্রিয়ায় তিনটি হিলিয়াম-৪ নিউক্লিয়াস (আলফা কণা) পর্যায়ক্রমে ফিউজ হয়ে কার্বন-১২ তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Which unique carbon allotrope is theoretically considered a 1-dimensional (1D) nanomaterial?",
+"bn": "তাত্ত্বিকভাবে কোন অনন্য কার্বন রূপভেদটিকে (অ্যালোট্রপ) ১-মাত্রিক (1D) ন্যানোমেটেরিয়াল হিসেবে বিবেচনা করা হয়?"
+},
+"options": [
+{
+"en": "Graphene",
+"bn": "গ্রাফিন"
+},
+{
+"en": "Carbon nanotube",
+"bn": "কার্বন ন্যানোটিউব"
+},
+{
+"en": "Diamond",
+"bn": "হীরা"
+},
+{
+"en": "Fullerene",
+"bn": "ফুলারিন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "While graphene is a 2D sheet, carbon nanotubes are rolled cylinders of graphene extending massively in one direction, behaving as 1D quantum wires.",
+"bn": "গ্রাফিন একটি ২ডি (2D) শীট হলেও, কার্বন ন্যানোটিউবগুলি হলো গ্রাফিনের ঘূর্ণিত সিলিন্ডার যা এক দিকে ব্যাপকভাবে প্রসারিত হয় এবং 1D কোয়ান্টাম তারের মতো আচরণ করে।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of carbon in the greenhouse gas methane (CH4)?",
+"bn": "গ্রিনহাউস গ্যাস মিথেনে (CH4) কার্বনের ফর্মাল জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "0",
+"bn": "০"
+},
+{
+"en": "-2",
+"bn": "-২"
+},
+{
+"en": "-4",
+"bn": "-৪"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Since carbon is slightly more electronegative than hydrogen (+1), it holds the electrons from all four bonds, giving it an oxidation state of -4.",
+"bn": "যেহেতু কার্বন হাইড্রোজেনের (+১) চেয়ে সামান্য বেশি তড়িৎঋণাত্মক, তাই এটি চারটি বন্ধন থেকেই ইলেকট্রন ধরে রাখে, যা একে -৪ জারণ অবস্থা প্রদান করে।"
+}
+},
+{
+"question": {
+"en": "In environmental science, what is meant by the term 'Blue Carbon'?",
+"bn": "পরিবেশ বিজ্ঞানে, 'ব্লু কার্বন' (নীল কার্বন) শব্দটি দ্বারা কী বোঝায়?"
+},
+"options": [
+{
+"en": "Carbon captured by industrial scrubbers",
+"bn": "শিল্পের স্ক্রাবার দ্বারা ধৃত কার্বন"
+},
+{
+"en": "Carbon sequestered by the world's coastal and marine ecosystems",
+"bn": "বিশ্বের উপকূলীয় এবং সামুদ্রিক বাস্তুতন্ত্র দ্বারা আবদ্ধ কার্বন"
+},
+{
+"en": "Carbon found in blue diamonds",
+"bn": "নীল হীরাতে পাওয়া কার্বন"
+},
+{
+"en": "Carbon stored in high-altitude clouds",
+"bn": "উঁচু মেঘের মধ্যে সংরক্ষিত কার্বন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Blue carbon refers to the vast amounts of CO2 absorbed and stored by oceans, mangroves, and seagrass meadows.",
+"bn": "ব্লু কার্বন বলতে মহাসাগর, ম্যানগ্রোভ এবং সামুদ্রিক ঘাসের তৃণভূমি দ্বারা শোষিত এবং সঞ্চিত বিপুল পরিমাণ CO2 বোঝায়।"
+}
+},
+{
+"question": {
+"en": "Although diamonds are thermodynamically less stable than graphite at room temperature, why don't diamond rings spontaneously turn into pencil lead?",
+"bn": "কক্ষ তাপমাত্রায় গ্রাফাইটের তুলনায় হীরা থার্মোডাইনামিক্যালি কম স্থিতিশীল হলেও, হীরার আংটি কেন স্বতঃস্ফূর্তভাবে পেন্সিলের সিসায় পরিণত হয় না?"
+},
+"options": [
+{
+"en": "Diamond is actually more stable",
+"bn": "হীরা আসলে বেশি স্থিতিশীল"
+},
+{
+"en": "Oxygen prevents the reaction",
+"bn": "অক্সিজেন বিক্রিয়া রোধ করে"
+},
+{
+"en": "The activation energy barrier is incredibly high",
+"bn": "সক্রিয়করণ শক্তির (অ্যাক্টিভেশন এনার্জি) বাধা অবিশ্বাস্যভাবে বেশি"
+},
+{
+"en": "Metals in the ring hold it together",
+"bn": "আংটিতে থাকা ধাতুগুলি এটিকে একসাথে ধরে রাখে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The process is kinetically frozen. Breaking the immense tetrahedral sp3 bonds to reform sp2 graphite sheets requires massive energy input (activation energy).",
+"bn": "প্রক্রিয়াটি গতিগতভাবে (kinetically) হিমায়িত। টেট্রাহেড্রাল sp3 বন্ধন ভেঙে পুনরায় sp2 গ্রাফাইট শীট তৈরি করতে প্রচুর শক্তির ইনপুট প্রয়োজন (সক্রিয়করণ শক্তি)।"
+}
+},
+{
+"question": {
+"en": "Which highly porous form of carbon is heavily used in emergency rooms to treat drug overdoses and oral poisonings?",
+"bn": "কার্বনের কোন অত্যন্ত ছিদ্রযুক্ত রূপটি জরুরি কক্ষে ওষুধের ওভারডোজ এবং মৌখিক বিষক্রিয়ার চিকিত্সার জন্য ব্যাপকভাবে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Carbon black",
+"bn": "কার্বন ব্ল্যাক"
+},
+{
+"en": "Graphene",
+"bn": "গ্রাফিন"
+},
+{
+"en": "Activated charcoal",
+"bn": "সক্রিয় কাঠকয়লা (অ্যাক্টিভেটেড চারকোল)"
+},
+{
+"en": "Coke",
+"bn": "কোক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Activated charcoal is processed to have a massive surface area, acting as a chemical sponge that binds to toxins in the stomach before they can be absorbed.",
+"bn": "অ্যাক্টিভেটেড চারকোল প্রক্রিয়াজাত করে এর পৃষ্ঠতল ব্যাপকভাবে বৃদ্ধি করা হয়, যা রাসায়নিক স্পঞ্জের মতো কাজ করে এবং বিষাক্ত পদার্থগুলো শোষিত হওয়ার আগেই পাকস্থলীতে আবদ্ধ করে।"
+}
+},
+{
+"question": {
+"en": "Why does carbon uniquely have the ability to form millions of stable, diverse organic molecules, a property called 'catenation'?",
+"bn": "কেন কার্বনের লক্ষ লক্ষ স্থিতিশীল, বৈচিত্র্যময় জৈব অণু গঠন করার অনন্য ক্ষমতা রয়েছে, যাকে 'ক্যাটেনেশন' (catenation) বলা হয়?"
+},
+"options": [
+{
+"en": "Because it has a very large atomic radius",
+"bn": "কারণ এর পারমাণবিক ব্যাসার্ধ অনেক বড়"
+},
+{
+"en": "Because it is highly electronegative",
+"bn": "কারণ এটি অত্যন্ত তড়িৎঋণাত্মক"
+},
+{
+"en": "Because its C-C bond energy is exceptionally high and stable",
+"bn": "কারণ এর C-C বন্ড শক্তি ব্যতিক্রমীভাবে বেশি এবং স্থিতিশীল"
+},
+{
+"en": "Because it forms ionic bonds readily",
+"bn": "কারণ এটি সহজেই আয়নিক বন্ধন তৈরি করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Carbon atoms can link together indefinitely because the bond energy of a C-C covalent bond is extremely high, preventing the long chains from easily snapping apart.",
+"bn": "কার্বন পরমাণুগুলি অনির্দিষ্টকালের জন্য একসাথে যুক্ত হতে পারে কারণ একটি C-C সমযোজী বন্ধনের বন্ড এনার্জি অত্যন্ত বেশি, যা দীর্ঘ শৃঙ্খলগুলিকে সহজেই ভেঙে যাওয়া থেকে বাধা দেয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary reason graphite acts as an excellent dry lubricant, unlike diamond?",
+"bn": "হীরার বিপরীতে গ্রাফাইট একটি চমৎকার শুষ্ক লুব্রিকেন্ট হিসেবে কাজ করার প্রাথমিক কারণ কী?"
+},
+"options": [
+{
+"en": "It produces oil when compressed",
+"bn": "এটি সংকুচিত হলে তেল তৈরি করে"
+},
+{
+"en": "Its layers are held together only by weak Van der Waals forces",
+"bn": "এর স্তরগুলি কেবল দুর্বল ভ্যান ডার ওয়ালস ফোর্সের মাধ্যমে একসাথে ধরে রাখা হয়"
+},
+{
+"en": "It is completely perfectly smooth at a quantum level",
+"bn": "এটি কোয়ান্টাম স্তরে সম্পূর্ণরূপে নিখুঁত মসৃণ"
+},
+{
+"en": "It reacts with air to form slippery CO2",
+"bn": "এটি বাতাসের সাথে বিক্রিয়া করে পিচ্ছিল CO2 তৈরি করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Graphite is made of stacked 2D sheets. While bonds within a sheet are strong, the forces between the sheets are very weak, allowing them to easily slide over one another.",
+"bn": "গ্রাফাইট 2D শিটের স্তূপ দিয়ে তৈরি। যদিও একটি শিটের মধ্যে বন্ধন শক্তিশালী, তবে শিটগুলির মধ্যবর্তী শক্তি অত্যন্ত দুর্বল, যা তাদের একে অপরের ওপর দিয়ে সহজেই পিছলে যেতে সাহায্য করে।"
+}
+},
+{
+"question": {
+"en": "In the blast furnace extraction of iron, what is the specific chemical role of carbon monoxide (formed from burning coke)?",
+"bn": "ব্লাস্ট ফার্নেসে লোহা নিষ্কাশনের সময়, কার্বন মনোক্সাইডের (পোড়ানো কোক থেকে গঠিত) নির্দিষ্ট রাসায়নিক ভূমিকা কী?"
+},
+"options": [
+{
+"en": "It melts the iron ore",
+"bn": "এটি লোহার আকরিক গলে দেয়"
+},
+{
+"en": "It acts as a strong reducing agent",
+"bn": "এটি একটি শক্তিশালী বিজারক হিসাবে কাজ করে"
+},
+{
+"en": "It catalyzes the reaction",
+"bn": "এটি বিক্রিয়াকে ত্বরান্বিত করে (ক্যাটালাইজ করে)"
+},
+{
+"en": "It cools the furnace",
+"bn": "এটি চুল্লি ঠান্ডা করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Carbon monoxide reacts with iron(III) oxide (ore), stripping away the oxygen (reducing it) to leave pure molten iron, while becoming CO2.",
+"bn": "কার্বন মনোক্সাইড আয়রন (III) অক্সাইডের (আকরিক) সাথে বিক্রিয়া করে, অক্সিজেন ছিনিয়ে নিয়ে (একে হ্রাস করে) বিশুদ্ধ গলিত লোহা রেখে যায়, এবং নিজে CO2 তে পরিণত হয়।"
+}
+},
+{
+"question": {
+"en": "Which property allows Carbon-14 dating to determine the age of ancient biological artifacts?",
+"bn": "কার্বন-১৪ ডেটিংয়ের কোন বৈশিষ্ট্যটি প্রাচীন জৈবিক শিল্পকর্মের বয়স নির্ধারণ করতে দেয়?"
+},
+"options": [
+{
+"en": "Its constant rate of radioactive decay post-mortem",
+"bn": "মৃত্যুর পরে এর তেজস্ক্রিয় ক্ষয়ের ধ্রুবক হার"
+},
+{
+"en": "Its reaction with oxygen over time",
+"bn": "সময়ের সাথে অক্সিজেনের সাথে এর বিক্রিয়া"
+},
+{
+"en": "Its color change as it fossilizes",
+"bn": "ফসিলে পরিণত হওয়ার সাথে সাথে এর রঙের পরিবর্তন"
+},
+{
+"en": "Its increasing mass over thousands of years",
+"bn": "হাজার হাজার বছর ধরে এর ক্রমবর্ধমান ভর"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Once an organism dies, it stops absorbing C-14. The C-14 already inside decays at a predictable half-life (5,730 years), acting as a reliable atomic clock.",
+"bn": "একবার একটি জীব মারা গেলে, এটি C-14 শোষণ করা বন্ধ করে দেয়। এর ভেতরে আগে থেকেই থাকা C-14 একটি নির্দিষ্ট অর্ধায়ুতে (৫,৭৩০ বছর) ক্ষয় হতে থাকে, যা একটি নির্ভরযোগ্য পারমাণবিক ঘড়ির মতো কাজ করে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Coal turns into diamonds under the Earth. (False: Diamonds are generally much older than Earth's first plants and formed from pure deep-mantle carbon, not organic coal).",
+"bn": "মাটির নিচে কয়লা হীরাতে পরিণত হয়। (মিথ্যা: হীরা সাধারণত পৃথিবীর প্রথম উদ্ভিদের চেয়ে অনেক পুরানো এবং তা খাঁটি গভীর-মেন্টাল কার্বন থেকে তৈরি, জৈব কয়লা থেকে নয়)।"
+},
+{
+"en": "Carbon is always black. (False: Diamond is transparent, and CO2 is an invisible gas).",
+"bn": "কার্বন সবসময় কালো হয়। (মিথ্যা: হীরা স্বচ্ছ এবং CO2 একটি অদৃশ্য গ্যাস)।"
+}
+],
+"learningTips": [
+{
+"en": "Think of Carbon as the ultimate 'LEGO brick' of the universe. Because it has exactly 4 connection points (valence electrons), it can build endless structures.",
+"bn": "কার্বনকে মহাবিশ্বের চূড়ান্ত 'লেগো (LEGO) ইট' হিসেবে ভাবুন। যেহেতু এর ঠিক ৪টি সংযোগ বিন্দু (যোজ্যতা ইলেকট্রন) রয়েছে, এটি অফুরন্ত কাঠামো তৈরি করতে পারে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "C + O₂ → CO₂",
+"description": {
+"en": "Complete combustion of carbon in the presence of excess oxygen, releasing immense heat.",
+"bn": "অতিরিক্ত অক্সিজেনের উপস্থিতিতে কার্বনের সম্পূর্ণ দহন, যা প্রচুর তাপ নির্গত করে।"
+}
+},
+{
+"equation": "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+"description": {
+"en": "Reduction of iron ore in a blast furnace using carbon monoxide derived from coke.",
+"bn": "কোক থেকে প্রাপ্ত কার্বন মনোক্সাইড ব্যবহার করে ব্লাস্ট ফার্নেসে লোহার আকরিকের বিজারণ।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "2C + O₂ → 2CO",
+"description": {
+"en": "Incomplete combustion (oxidation) of carbon forming highly toxic carbon monoxide.",
+"bn": "অত্যন্ত বিষাক্ত কার্বন মনোক্সাইড গঠন করে কার্বনের অসম্পূর্ণ দহন (জারণ)।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "6CO₂ + 6H₂O + light → C₆H₁₂O₆ + 6O₂",
+"description": {
+"en": "Photosynthesis: biological reduction of carbon dioxide into glucose.",
+"bn": "সালোকসংশ্লেষণ: কার্বন ডাই অক্সাইডের গ্লুকোজে জৈবিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Network Bond (sp3)",
+"bn": "সমযোজী নেটওয়ার্ক বন্ধন (sp3)"
+},
+"molecule": "C (Diamond)",
+"description": {
+"en": "Each carbon atom shares electrons with four neighbors forming a tetrahedral macromolecule.",
+"bn": "প্রতিটি কার্বন পরমাণু চারজন প্রতিবেশীর সাথে ইলেকট্রন ভাগ করে একটি টেট্রাহেড্রাল ম্যাক্রোমলিকুল তৈরি করে।"
+}
+}
+]
+}
+}

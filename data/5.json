@@ -1,0 +1,1022 @@
+{
+"elementId": 5,
+"basicInformation": {
+"atomicNumber": 5,
+"symbol": "B",
+"name": {
+"en": "Boron",
+"bn": "বোরন"
+},
+"pronunciation": {
+"en": "/ˈbɔːrɒn/",
+"bn": "বো-রন"
+},
+"atomicMass": 10.81,
+"category": {
+"en": "Metalloid",
+"bn": "অপধাতু"
+},
+"group": 13,
+"period": 2,
+"block": "p",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Black-brown solid",
+"bn": "কালো-বাদামী কঠিন পদার্থ"
+},
+"color": {
+"en": "Black",
+"bn": "কালো"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Joseph Louis Gay-Lussac and Louis Jacques Thénard",
+"bn": "জোসেফ লুই গে-লুসাক এবং লুই জ্যাক থেনার্ড"
+},
+"discoveryYear": 1808,
+"discoveryLocation": {
+"en": "France / United Kingdom",
+"bn": "ফ্রান্স / যুক্তরাজ্য"
+},
+"discoveryStory": {
+"en": "Discovered simultaneously by French chemists Gay-Lussac and Thénard, and English chemist Sir Humphry Davy, by reacting boric acid with potassium.",
+"bn": "ফরাসি রসায়নবিদ গে-লুসাক এবং থেনার্ড এবং ইংরেজ রসায়নবিদ স্যার হামফ্রি ডেভি একই সাথে পটাশিয়ামের সাথে বোরিক অ্যাসিডের বিক্রিয়া ঘটিয়ে এটি আবিষ্কার করেন।"
+},
+"historicalUses": {
+"en": "Compounds like borax were used by ancient civilizations thousands of years ago to make glazes for pottery and ceramics.",
+"bn": "বোরাক্সের মতো যৌগ হাজার হাজার বছর আগে প্রাচীন সভ্যতায় মৃৎশিল্প এবং সিরামিকের গ্লেজ তৈরির জন্য ব্যবহৃত হত।"
+},
+"famousExperiments": {
+"en": "Humphry Davy's pioneering electrochemical isolation of elemental boron from boric acid solutions.",
+"bn": "হামফ্রি ডেভির বোরিক অ্যাসিড দ্রবণ থেকে মৌলিক বোরনের যুগান্তকারী ইলেক্ট্রোকেমিক্যাল পৃথকীকরণ পরীক্ষা।"
+}
+},
+"atomicStructure": {
+"protons": 5,
+"neutrons": 6,
+"electrons": 5,
+"valenceElectrons": 3,
+"shells": 2,
+"shellDistribution": [
+2,
+3
+],
+"electronConfiguration": "1s² 2s² 2p¹",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 1
+},
+"oxidationStates": [
+3,
+2,
+1
+],
+"quantumNumbers": {
+"principal": 2,
+"azimuthal": 1,
+"magnetic": -1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 2.08,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 2349,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 4200,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 85,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 84,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 192,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 27.4,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 0.0001,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 1.026,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 9.3,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Rhombohedral (Alpha-boron)",
+"bn": "রম্বোহেড্রাল (আলফা-বোরন)"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 2.04,
+"ionizationEnergy": {
+"value": 800.6,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 26.7,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Resistant to chemical attack at room temperature. Reacts with strong oxidizing agents (like nitric acid) when heated.",
+"bn": "কক্ষ তাপমাত্রায় রাসায়নিক বিক্রিয়া প্রতিরোধী। উত্তপ্ত হলে শক্তিশালী জারক পদার্থের (যেমন নাইট্রিক অ্যাসিড) সাথে বিক্রিয়া করে।"
+},
+"commonCompounds": [
+"B₂O₃",
+"H₃BO₃",
+"Na₂B₄O₇",
+"BF₃",
+"B₄C",
+"NaBH₄",
+"B₂H₆"
+],
+"flameTestColor": {
+"en": "Bright green",
+"bn": "উজ্জ্বল সবুজ"
+},
+"spectralLines": [
+"249.77nm",
+"208.96nm"
+]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Manufacture of borosilicate glass (Pyrex) which is highly resistant to thermal shock, and fiberglass for insulation.",
+"bn": "বোরোসিলিকেট গ্লাস (পাইরেক্স) তৈরি যা তাপমাত্রার পরিবর্তনে অত্যন্ত প্রতিরোধী এবং নিরোধক হিসেবে ব্যবহৃত ফাইবারগ্লাস তৈরিতে।"
+},
+"commercialUses": {
+"en": "Sodium perborate is used as a bleaching agent in laundry detergents. Boric acid is used as a mild antiseptic and insecticide.",
+"bn": "সোডিয়াম পারবোরেট লন্ড্রি ডিটারজেন্টে ব্লিচিং এজেন্ট হিসাবে ব্যবহৃত হয়। বোরিক অ্যাসিড একটি মৃদু অ্যান্টিসেপটিক এবং কীটনাশক হিসাবে ব্যবহৃত হয়।"
+},
+"electronicsUses": {
+"en": "Crucial p-type dopant for silicon semiconductors to increase electrical conductivity.",
+"bn": "বৈদ্যুতিক পরিবাহিতা বাড়ানোর জন্য সিলিকন সেমিকন্ডাক্টরের অত্যন্ত গুরুত্বপূর্ণ পি-টাইপ ডোপান্ট।"
+},
+"semiconductorUses": {
+"en": "Boron diffusion and ion implantation are standard processes in CMOS transistor manufacturing.",
+"bn": "বোরন ডিফিউশন এবং আয়ন ইমপ্লান্টেশন সিএমওএস (CMOS) ট্রানজিস্টর তৈরির স্ট্যান্ডার্ড প্রক্রিয়া।"
+},
+"aerospaceUses": {
+"en": "Boron fibers are embedded in epoxy matrices to create ultra-light, high-strength composites for military aircraft.",
+"bn": "সামরিক বিমানের জন্য অতি-হালকা, উচ্চ-শক্তির যৌগিক উপাদান তৈরি করতে বোরন ফাইবার ইপোক্সি ম্যাট্রিক্সে যুক্ত করা হয়।"
+},
+"batteryUses": {
+"en": "Boron-based salts are being explored as advanced electrolytes in next-generation lithium-ion batteries.",
+"bn": "বোরন-ভিত্তিক লবণগুলি পরবর্তী প্রজন্মের লিথিয়াম-আয়ন ব্যাটারিতে উন্নত ইলেক্ট্রোলাইট হিসাবে অন্বেষণ করা হচ্ছে।"
+},
+"aiHardwareUses": {
+"en": "Used in the precision doping of advanced logic nodes (3nm/2nm) that power dense AI compute architectures.",
+"bn": "ঘন এআই (AI) কম্পিউট আর্কিটেকচারগুলিকে শক্তি প্রদানকারী উন্নত লজিক নোডগুলির (3nm/2nm) নির্ভুল ডোপিংয়ে ব্যবহৃত হয়।"
+},
+"renewableEnergyUses": {
+"en": "Critical component in Neodymium magnets (Nd2Fe14B) used in electric vehicle motors and wind turbine generators.",
+"bn": "ইলেকট্রিক গাড়ির মোটর এবং উইন্ড টারবাইন জেনারেটরে ব্যবহৃত নিওডিমিয়াম চুম্বকের (Nd2Fe14B) গুরুত্বপূর্ণ উপাদান।"
+},
+"nanotechnologyUses": {
+"en": "Boron nitride nanotubes (BNNTs) offer immense tensile strength and excellent thermal conductivity without electrical conductivity.",
+"bn": "বোরন নাইট্রাইড ন্যানোটিউব (BNNTs) বৈদ্যুতিক পরিবাহিতা ছাড়াই অসীম প্রসার্য শক্তি এবং চমৎকার তাপ পরিবাহিতা প্রদান করে।"
+},
+"nuclearUses": {
+"en": "The Boron-10 isotope has a high neutron absorption cross-section, used extensively in nuclear reactor control rods and shielding.",
+"bn": "বোরন-১০ আইসোটোপের উচ্চ নিউট্রন শোষণ ক্ষমতা রয়েছে, যা পারমাণবিক চুল্লির কন্ট্রোল রড এবং শিল্ডিংয়ে ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Boron carbide (B4C) is one of the hardest known materials, heavily utilized in tank armor and bulletproof ceramic plates.",
+"bn": "বোরন কার্বাইড (B4C) পরিচিত কঠিনতম পদার্থগুলির মধ্যে একটি, যা ট্যাঙ্কের বর্ম এবং বুলেটপ্রুফ সিরামিক প্লেটে ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"medicalUses": {
+"en": "Boron Neutron Capture Therapy (BNCT) is an experimental non-invasive treatment for malignant brain tumors.",
+"bn": "বোরন নিউট্রন ক্যাপচার থেরাপি (BNCT) ম্যালিগন্যান্ট ব্রেন টিউমারের জন্য একটি পরীক্ষামূলক নন-ইনভেসিভ চিকিৎসা।"
+},
+"foodIndustryUses": {
+"en": "Boric acid was historically used as a food preservative, though this is now banned in many countries due to toxicity concerns. It is a vital micronutrient in agriculture.",
+"bn": "বোরিক অ্যাসিড ঐতিহাসিকভাবে খাদ্য সংরক্ষক হিসেবে ব্যবহৃত হত, যদিও বিষাক্ততার উদ্বেগের কারণে এটি এখন অনেক দেশে নিষিদ্ধ। এটি কৃষিকাজে একটি অত্যাবশ্যকীয় মাইক্রোনিউট্রিয়েন্ট।"
+},
+"constructionUses": {
+"en": "Borax is added to cellulose insulation to act as a potent fire retardant and anti-fungal agent.",
+"bn": "একটি শক্তিশালী ফায়ার রিটার্ডেন্ট এবং অ্যান্টি-ফাঙ্গাল এজেন্ট হিসাবে কাজ করার জন্য সেলুলোজ ইনসুলেশনে বোরাক্স যোগ করা হয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Essential micronutrient for plants; critical for cell wall formation and reproduction. Biological role in animals is not fully understood.",
+"bn": "উদ্ভিদের জন্য অপরিহার্য মাইক্রোনিউট্রিয়েন্ট; কোষ প্রাচীর গঠন এবং প্রজননের জন্য গুরুত্বপূর্ণ। প্রাণীদের মধ্যে এর জৈবিক ভূমিকা পুরোপুরি বোঝা যায় নি।"
+},
+"humanBodyRole": {
+"en": "Trace amounts are believed to be beneficial for bone health and metabolism, though it is not strictly classified as an essential nutrient for humans.",
+"bn": "সামান্য পরিমাণ হাড়ের স্বাস্থ্য এবং বিপাকের জন্য উপকারী বলে মনে করা হয়, যদিও এটি মানুষের জন্য একটি অপরিহার্য পুষ্টি হিসাবে কঠোরভাবে শ্রেণীবদ্ধ নয়।"
+},
+"toxicity": {
+"en": "Elemental boron and borates have low toxicity to humans (similar to table salt) but are highly toxic to insects and certain plant species in high concentrations.",
+"bn": "মৌলিক বোরন এবং বোরেটের মানুষের জন্য বিষাক্ততা কম (টেবিল লবণের মতো) তবে পোকামাকড় এবং কিছু উদ্ভিদ প্রজাতির জন্য উচ্চ ঘনত্বের ক্ষেত্রে অত্যন্ত বিষাক্ত।"
+},
+"environmentalImpact": {
+"en": "Borate mining can cause localized environmental degradation and groundwater contamination if not properly managed.",
+"bn": "বোরেট খনির কাজ সঠিকভাবে পরিচালিত না হলে স্থানীয় পরিবেশের অবক্ষয় এবং ভূগর্ভস্থ জলের দূষণ ঘটাতে পারে।"
+},
+"pollutionRisks": {
+"en": "Excessive boron runoff from agricultural fertilizers or detergents can build up in soil, becoming toxic to sensitive crops like citrus.",
+"bn": "কৃষিকাজের সার বা ডিটারজেন্ট থেকে অত্যধিক বোরন মাটিতে জমা হতে পারে, যা সাইট্রাসের মতো সংবেদনশীল ফসলের জন্য বিষাক্ত হয়ে ওঠে।"
+},
+"recyclingMethods": {
+"en": "Borosilicate glass poses recycling challenges as its high melting point contaminates standard glass recycling streams.",
+"bn": "বোরোসিলিকেট গ্লাস পুনর্ব্যবহার করা চ্যালেঞ্জিং, কারণ এর উচ্চ গলনাঙ্ক স্ট্যান্ডার্ড গ্লাস রিসাইক্লিং প্রক্রিয়াকে দূষিত করে।"
+},
+"sustainabilityScore": 7.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Turkey",
+"bn": "তুরস্ক"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Chile",
+"bn": "চিলি"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+}
+],
+"miningMethods": {
+"en": "Surface open-pit mining of borate minerals such as borax, kernite, and colemanite.",
+"bn": "বোরাক্স, কার্নাইট এবং কোলেমানাইটের মতো বোরেট খনিজগুলির ওপেন-পিট মাইনিং (উন্মুক্ত খনি)।"
+},
+"abundance": {
+"universe": {
+"en": "0.0000001% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০১%"
+},
+"earthCrust": {
+"en": "0.001% by mass",
+"bn": "ভর অনুযায়ী ০.০০১%"
+},
+"oceans": {
+"en": "0.00044% by mass",
+"bn": "ভর অনুযায়ী ০.০০০৪৪%"
+}
+},
+"marketValue": {
+"en": "High-purity elemental boron costs roughly $5,000 per metric ton; industrial borax is highly affordable at ~$400 per ton.",
+"bn": "উচ্চ-বিশুদ্ধতার মৌলিক বোরনের দাম প্রতি মেট্রিক টন প্রায় ৫,০০০ ডলার; শিল্পক্ষেত্রে ব্যবহৃত বোরাক্স প্রতি টন প্রায় ৪০০ ডলারে অত্যন্ত সাশ্রয়ী।"
+},
+"futureDemand": {
+"en": "Steady increase projected, driven heavily by its requirement in high-strength NdFeB permanent magnets for the green energy sector.",
+"bn": "সবুজ শক্তি খাতের জন্য উচ্চ-শক্তির NdFeB স্থায়ী চুম্বকের প্রয়োজনীয়তার কারণে এর চাহিদা ক্রমশ বৃদ্ধি পাবে বলে ধারণা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "Turkey holds over 70% of the world's known borate reserves, making it a highly centralized strategic resource.",
+"bn": "তুরস্কের কাছে বিশ্বের পরিচিত বোরেট মজুদের ৭০% এর বেশি রয়েছে, যা এটিকে একটি অত্যন্ত কেন্দ্রীভূত কৌশলগত সম্পদে পরিণত করেছে।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Elemental boron is generally safe. Halides (like BF3) and boranes (like B2H6) are extremely toxic, highly reactive, and dangerously flammable.",
+"bn": "মৌলিক বোরন সাধারণত নিরাপদ। হ্যালাইডস (যেমন BF3) এবং বোরেনস (যেমন B2H6) অত্যন্ত বিষাক্ত, অত্যন্ত প্রতিক্রিয়াশীল এবং বিপজ্জনকভাবে দাহ্য।"
+},
+"storageRequirements": {
+"en": "Keep elemental boron dry. Store volatile boron compounds under inert atmospheres (argon or nitrogen) in tightly sealed containers.",
+"bn": "মৌলিক বোরন শুষ্ক রাখুন। উদ্বায়ী বোরন যৌগগুলিকে শক্তভাবে সিল করা পাত্রে নিষ্ক্রিয় বায়ুমণ্ডলে (আর্গন বা নাইট্রোজেন) সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Use proper PPE to avoid dust inhalation. Handle highly reactive boranes strictly within a fume hood using specialized gas regulators.",
+"bn": "ধুলো শ্বাস নেওয়া এড়াতে সঠিক পিপিই (PPE) ব্যবহার করুন। অত্যন্ত প্রতিক্রিয়াশীল বোরেনগুলি শুধুমাত্র বিশেষ গ্যাস নিয়ন্ত্রক ব্যবহার করে ফিউম হুডের ভেতরে পরিচালনা করুন।"
+},
+"exposureRisks": {
+"en": "Inhaling boron dust irritates the respiratory tract. Significant ingestion of boric acid can cause gastrointestinal distress and central nervous system effects.",
+"bn": "বোরনের ধুলো শ্বাস নিলে শ্বাসকষ্ট হতে পারে। উল্লেখযোগ্য পরিমাণ বোরিক অ্যাসিড গ্রহণে গ্যাস্ট্রোইনটেস্টাইনাল সমস্যা এবং কেন্দ্রীয় স্নায়ুতন্ত্রের ক্ষতি হতে পারে।"
+},
+"safetyLevel": {
+"en": "Low Risk (Elemental) / High Risk (Hydrides & Halides)",
+"bn": "স্বল্প ঝুঁকি (মৌল) / উচ্চ ঝুঁকি (হাইড্রাইডস এবং হ্যালাইডস)"
+},
+"hazardClassifications": [
+{
+"en": "Irritant (Dust)",
+"bn": "উত্তেজক (ধুলো)"
+},
+{
+"en": "Toxic (Specific Compounds)",
+"bn": "বিষাক্ত (নির্দিষ্ট যৌগ)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Boron is a hard, dark element that behaves like a mix between a metal and a nonmetal. It makes glass shatter-proof and helps plants grow.",
+"bn": "বোরন একটি কঠিন, গাঢ় রঙের উপাদান যা ধাতু এবং অধাতুর মিশ্রণের মতো আচরণ করে। এটি কাঁচকে ভাঙা-প্রতিরোধী করে তোলে এবং উদ্ভিদের বৃদ্ধিতে সাহায্য করে।"
+},
+"advancedExplanation": {
+"en": "As a Group 13 metalloid with only three valence electrons, boron forms complex, electron-deficient multi-center bonds. This characteristic structural chemistry allows it to form exceptionally hard refractory compounds and act as a powerful Lewis acid.",
+"bn": "গ্রুপ ১৩ এর একটি অপধাতু হিসাবে যার মাত্র তিনটি যোজ্যতা ইলেকট্রন রয়েছে, বোরন জটিল, ইলেকট্রন-ঘাটতি মাল্টি-সেন্টার বন্ড তৈরি করে। এই বৈশিষ্ট্যগত কাঠামোগত রসায়ন এটিকে ব্যতিক্রমীভাবে কঠিন অবাধ্য যৌগ তৈরি করতে এবং একটি শক্তিশালী লুইস অ্যাসিড হিসাবে কাজ করতে দেয়।"
+},
+"funFacts": [
+{
+"en": "Unlike most elements, Boron was not made inside stars! It was created in space when high-energy cosmic rays smashed into heavier atoms, breaking them apart.",
+"bn": "বেশিরভাগ উপাদানের বিপরীতে, বোরন নক্ষত্রের ভিতরে তৈরি হয়নি! উচ্চ-শক্তির মহাজাগতিক রশ্মি যখন ভারী পরমাণুগুলোকে আঘাত করে টুকরো টুকরো করে দেয়, তখন মহাকাশে এর সৃষ্টি হয়েছিল।"
+},
+{
+"en": "Oobleck and slime owe their gooey properties to borax, which cross-links the polymer chains.",
+"bn": "উব্লেক এবং স্লাইম তাদের আঠালো বৈশিষ্ট্যের জন্য বোরাক্সের কাছে ঋণী, যা পলিমার চেইনগুলিকে ক্রস-লিঙ্ক করে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 6,
+"relation": {
+"en": "Boron and Carbon are neighbors, but Carbon easily completes its octet to form organic life, whereas Boron is inherently electron-deficient, forming weird multi-center bonds.",
+"bn": "বোরন এবং কার্বন প্রতিবেশী, কিন্তু কার্বন সহজেই তার অষ্টক পূর্ণ করে জৈব জীবন গঠন করে, যেখানে বোরন সহজাতভাবে ইলেকট্রনের ঘাটতি যুক্ত এবং অদ্ভুত বহু-কেন্দ্রিক বন্ধন তৈরি করে।"
+}
+}
+],
+"relatedElements": [
+4,
+6,
+13,
+14
+],
+"quizQuestions": [
+{
+"question": {
+"en": "Which boron isotope is highly valued in the nuclear industry for its ability to absorb free neutrons?",
+"bn": "বিনামূল্যে নিউট্রন শোষণ করার ক্ষমতার কারণে কোন বোরন আইসোটোপ পারমাণবিক শিল্পে অত্যন্ত মূল্যবান?"
+},
+"options": [
+{
+"en": "Boron-8",
+"bn": "বোরন-৮"
+},
+{
+"en": "Boron-10",
+"bn": "বোরন-১০"
+},
+{
+"en": "Boron-11",
+"bn": "বোরন-১১"
+},
+{
+"en": "Boron-12",
+"bn": "বোরন-১২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Boron-10 has an extremely high cross-section for thermal neutron absorption, making it ideal for nuclear control rods.",
+"bn": "বোরন-১০ এর থার্মাল নিউট্রন শোষণের ক্ষমতা অত্যন্ত বেশি, যা একে পারমাণবিক কন্ট্রোল রডের জন্য আদর্শ করে তোলে।"
+}
+},
+{
+"question": {
+"en": "How is the elemental abundance of boron primarily generated in the universe?",
+"bn": "মহাবিশ্বে বোরনের মৌলিক প্রাচুর্য প্রাথমিকভাবে কীভাবে তৈরি হয়?"
+},
+"options": [
+{
+"en": "Stellar nucleosynthesis in giant stars",
+"bn": "দৈত্যাকার নক্ষত্রে স্টেলার নিউক্লিওসিন্থেসিস"
+},
+{
+"en": "Supernova explosions",
+"bn": "সুপারনোভা বিস্ফোরণ"
+},
+{
+"en": "Cosmic ray spallation",
+"bn": "কসমিক রে স্প্যালেশন"
+},
+{
+"en": "The Big Bang",
+"bn": "বিগ ব্যাং"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Boron is rarely formed in stars; instead, it forms when high-energy cosmic rays collide with heavier nuclei like carbon, splitting them.",
+"bn": "বোরন নক্ষত্রে খুব কমই গঠিত হয়; এর পরিবর্তে, এটি গঠিত হয় যখন উচ্চ-শক্তির কসমিক রে কার্বনের মতো ভারী নিউক্লিয়াসের সাথে সংঘর্ষ করে তাদের বিভক্ত করে দেয়।"
+}
+},
+{
+"question": {
+"en": "What type of chemical bonding defines the unusual structure of diborane (B2H6)?",
+"bn": "কোন ধরনের রাসায়নিক বন্ধন ডাইবোরেনের (B2H6) অস্বাভাবিক কাঠামোকে সংজ্ঞায়িত করে?"
+},
+"options": [
+{
+"en": "Standard covalent double bonds",
+"bn": "স্ট্যান্ডার্ড সমযোজী দ্বি-বন্ধন"
+},
+{
+"en": "Ionic bonding",
+"bn": "আয়নিক বন্ধন"
+},
+{
+"en": "3-center 2-electron bonds (Banana bonds)",
+"bn": "৩-কেন্দ্র ২-ইলেকট্রন বন্ড (কলা বন্ড)"
+},
+{
+"en": "Metallic bonding",
+"bn": "ধাতব বন্ধন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because boron is electron-deficient, two boron atoms share two bridging hydrogen atoms using only two electrons per B-H-B bridge.",
+"bn": "বোরনে ইলেকট্রনের ঘাটতি থাকার কারণে, দুটি বোরন পরমাণু প্রতি B-H-B ব্রিজে মাত্র দুটি ইলেকট্রন ব্যবহার করে দুটি ব্রিজিং হাইড্রোজেন পরমাণু ভাগ করে নেয়।"
+}
+},
+{
+"question": {
+"en": "In the semiconductor industry, introducing trace amounts of boron into pure silicon creates what type of material?",
+"bn": "সেমিকন্ডাক্টর শিল্পে, বিশুদ্ধ সিলিকনের মধ্যে সামান্য পরিমাণ বোরন প্রবর্তন করলে কোন ধরণের উপাদান তৈরি হয়?"
+},
+"options": [
+{
+"en": "N-type semiconductor",
+"bn": "এন-টাইপ সেমিকন্ডাক্টর"
+},
+{
+"en": "P-type semiconductor",
+"bn": "পি-টাইপ সেমিকন্ডাক্টর"
+},
+{
+"en": "Perfect insulator",
+"bn": "নিখুঁত ইনসুলেটর"
+},
+{
+"en": "Superconductor",
+"bn": "সুপারকন্ডাক্টর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Boron has one less valence electron than silicon, creating an electron 'hole' that acts as a positive charge carrier (p-type doping).",
+"bn": "বোরনে সিলিকনের চেয়ে একটি যোজ্যতা ইলেকট্রন কম থাকে, যা একটি ইলেকট্রন 'হোল' তৈরি করে যা ধনাত্মক আধান বাহক (পি-টাইপ ডোপিং) হিসাবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "What extremely hard boron compound is frequently used in modern bulletproof vests and tank armor?",
+"bn": "আধুনিক বুলেটপ্রুফ ভেস্ট এবং ট্যাঙ্কের বর্মে কোন অত্যন্ত শক্ত বোরন যৌগটি প্রায়শই ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Boron trifluoride",
+"bn": "বোরন ট্রাইফ্লুরাইড"
+},
+{
+"en": "Boric acid",
+"bn": "বোরিক অ্যাসিড"
+},
+{
+"en": "Boron carbide",
+"bn": "বোরন কার্বাইড"
+},
+{
+"en": "Borax",
+"bn": "বোরাক্স"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Boron carbide (B4C) is one of the hardest materials known, making it exceptional for stopping high-velocity projectiles.",
+"bn": "বোরন কার্বাইড (B4C) হলো পরিচিত সবচেয়ে কঠিন পদার্থগুলির মধ্যে একটি, যা উচ্চ-গতির প্রজেক্টাইল বন্ধ করতে ব্যতিক্রমীভাবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "Adding boron oxide to silica sand during glass manufacturing produces borosilicate glass. What is its primary advantage?",
+"bn": "কাঁচ তৈরির সময় সিলিকা বালিতে বোরন অক্সাইড যোগ করলে বোরোসিলিকেট গ্লাস তৈরি হয়। এর প্রধান সুবিধা কী?"
+},
+"options": [
+{
+"en": "It becomes completely transparent to UV light",
+"bn": "এটি ইউভি (UV) আলোর কাছে সম্পূর্ণ স্বচ্ছ হয়ে ওঠে"
+},
+{
+"en": "It becomes highly magnetic",
+"bn": "এটি অত্যন্ত চৌম্বকীয় হয়ে ওঠে"
+},
+{
+"en": "It develops a very low coefficient of thermal expansion",
+"bn": "এর তাপীয় সম্প্রসারণের সহগ খুব কম হয়"
+},
+{
+"en": "It shatters more easily for safety purposes",
+"bn": "নিরাপত্তার উদ্দেশ্যে এটি আরও সহজে ভেঙে যায়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Borosilicate glass (e.g., Pyrex) expands very little when heated, preventing it from cracking under severe temperature changes.",
+"bn": "বোরোসিলিকেট গ্লাস (যেমন, পাইরেক্স) উত্তপ্ত হলে খুব কম প্রসারিত হয়, যা একে তীব্র তাপমাত্রার পরিবর্তনে ফেটে যাওয়া থেকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "Which of the following compounds is universally recognized as a classic Lewis acid because of its incomplete octet?",
+"bn": "অসম্পূর্ণ অষ্টকের কারণে নিচের কোন যৌগটি ক্লাসিক লুইস অ্যাসিড হিসাবে সর্বজনীনভাবে স্বীকৃত?"
+},
+"options": [
+{
+"en": "Methane (CH4)",
+"bn": "মিথেন (CH4)"
+},
+{
+"en": "Ammonia (NH3)",
+"bn": "অ্যামোনিয়া (NH3)"
+},
+{
+"en": "Boron trifluoride (BF3)",
+"bn": "বোরন ট্রাইফ্লুরাইড (BF3)"
+},
+{
+"en": "Sodium chloride (NaCl)",
+"bn": "সোডিয়াম ক্লোরাইড (NaCl)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "BF3 has only 6 valence electrons around the boron atom, making it highly eager to accept an electron pair (Lewis acid).",
+"bn": "BF3 এর বোরন পরমাণুর চারপাশে মাত্র ৬টি যোজ্যতা ইলেকট্রন রয়েছে, যা এটিকে একটি ইলেকট্রন জোড় (লুইস অ্যাসিড) গ্রহণ করতে অত্যন্ত আগ্রহী করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What unique physical structure does Boron's most common allotrope form?",
+"bn": "বোরনের সবচেয়ে সাধারণ বহুরূপটি (অ্যালোট্রপ) কোন অনন্য শারীরিক গঠন তৈরি করে?"
+},
+"options": [
+{
+"en": "A perfect cubic lattice",
+"bn": "একটি নিখুঁত ঘনক জালিকা"
+},
+{
+"en": "A flat, hexagonal 2D sheet",
+"bn": "একটি সমতল, ষড়ভুজাকার ২ডি (2D) শীট"
+},
+{
+"en": "A 12-atom icosahedron (B12)",
+"bn": "একটি ১২-পরমাণু ইকোসহেড্রন (B12)"
+},
+{
+"en": "A tetrahedral network",
+"bn": "একটি টেট্রাহেড্রাল নেটওয়ার্ক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Elemental boron structurally organizes into complex icosahedral clusters (B12), setting it apart from metals and nonmetals.",
+"bn": "মৌলিক বোরন কাঠামোগতভাবে জটিল ইকোসাহেড্রাল ক্লাস্টারে (B12) সংগঠিত হয়, যা একে ধাতু এবং অধাতু থেকে আলাদা করে।"
+}
+},
+{
+"question": {
+"en": "What color does boron impart to a flame during a flame test?",
+"bn": "ফ্লেম টেস্টের সময় বোরন শিখায় কী রঙ ধারণ করে?"
+},
+"options": [
+{
+"en": "Crimson red",
+"bn": "ক্রিমসন লাল"
+},
+{
+"en": "Bright green",
+"bn": "উজ্জ্বল সবুজ"
+},
+{
+"en": "Golden yellow",
+"bn": "সোনালী হলুদ"
+},
+{
+"en": "Violet",
+"bn": "বেগুনি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "When ignited, boron compounds emit a striking bright green light, often used in pyrotechnics and flares.",
+"bn": "প্রজ্বলিত হলে, বোরন যৌগগুলি একটি আকর্ষণীয় উজ্জ্বল সবুজ আলো নির্গত করে, যা প্রায়শই আতশবাজি এবং ফ্লেয়ারে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "Boron Nitride (BN) comes in two main forms. One is soft and slippery like graphite, the other is:",
+"bn": "বোরন নাইট্রাইড (BN) দুটি প্রধান রূপে আসে। একটি গ্রাফাইটের মতো নরম এবং পিচ্ছিল, অন্যটি হলো:"
+},
+"options": [
+{
+"en": "A highly reactive gas",
+"bn": "একটি অত্যন্ত প্রতিক্রিয়াশীল গ্যাস"
+},
+{
+"en": "A liquid metal at room temperature",
+"bn": "কক্ষ তাপমাত্রায় একটি তরল ধাতু"
+},
+{
+"en": "An extremely hard substance similar to diamond",
+"bn": "হীরার মতো অত্যন্ত কঠিন পদার্থ"
+},
+{
+"en": "A water-soluble salt",
+"bn": "জলে দ্রবণীয় লবণ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Cubic Boron Nitride (c-BN) has a structure isoelectronic to diamond and is second only to diamond in hardness.",
+"bn": "কিউবিক বোরন নাইট্রাইডের (c-BN) হীরার মতো একটি আইসোইলেকট্রনিক কাঠামো রয়েছে এবং এটি কঠোরতায় হীরার পরেই দ্বিতীয়।"
+}
+},
+{
+"question": {
+"en": "Which country dominates the global supply and holds the vast majority of the world's borate reserves?",
+"bn": "কোন দেশ বিশ্বব্যাপী সরবরাহ নিয়ন্ত্রণ করে এবং বিশ্বের বেশিরভাগ বোরেট মজুদ ধরে রেখেছে?"
+},
+"options": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Turkey",
+"bn": "তুরস্ক"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Turkey holds roughly 73% of the world's total known boron reserves, making it the undisputed superpower of the boron market.",
+"bn": "তুরস্ক বিশ্বের মোট পরিচিত বোরন মজুদের প্রায় ৭৩% ধরে রেখেছে, যা এটিকে বোরন বাজারের অবিসংবাদিত পরাশক্তিতে পরিণত করেছে।"
+}
+},
+{
+"question": {
+"en": "In biological systems, particularly agriculture, boron is considered:",
+"bn": "জৈবিক সিস্টেমে, বিশেষ করে কৃষিতে, বোরনকে কী বিবেচনা করা হয়:"
+},
+"options": [
+{
+"en": "A highly toxic weed killer",
+"bn": "একটি অত্যন্ত বিষাক্ত আগাছানাশক"
+},
+{
+"en": "An essential micronutrient for plants",
+"bn": "উদ্ভিদের জন্য একটি অপরিহার্য মাইক্রোনিউট্রিয়েন্ট"
+},
+{
+"en": "A macro-nutrient like Nitrogen",
+"bn": "নাইট্রোজেনের মতো একটি ম্যাক্রো-নিউট্রিয়েন্ট"
+},
+{
+"en": "Completely biologically inert",
+"bn": "সম্পূর্ণরূপে জৈবিকভাবে নিষ্ক্রিয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Plants require tiny amounts of boron to maintain cell wall structural integrity and facilitate reproduction/pollen tube growth.",
+"bn": "কোষ প্রাচীরের কাঠামোগত অখণ্ডতা বজায় রাখতে এবং প্রজনন/পরাগ টিউবের বৃদ্ধি সহজতর করার জন্য উদ্ভিদের অল্প পরিমাণে বোরন প্রয়োজন।"
+}
+},
+{
+"question": {
+"en": "What revolutionary medical therapy uses boron's ability to absorb neutrons to destroy localized cancer cells without surgery?",
+"bn": "অস্ত্রোপচার ছাড়াই স্থানীয় ক্যান্সার কোষগুলিকে ধ্বংস করতে কোন যুগান্তকারী চিকিৎসায় বোরনের নিউট্রন শোষণ করার ক্ষমতা ব্যবহার করা হয়?"
+},
+"options": [
+{
+"en": "Chemotherapy",
+"bn": "কেমোথেরাপি"
+},
+{
+"en": "Boron Neutron Capture Therapy (BNCT)",
+"bn": "বোরন নিউট্রন ক্যাপচার থেরাপি (BNCT)"
+},
+{
+"en": "Proton Beam Therapy",
+"bn": "প্রোটন বিম থেরাপি"
+},
+{
+"en": "Immunotherapy",
+"bn": "ইমিউনোথেরাপি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In BNCT, patients are injected with a boron compound that accumulates in tumors. Low-energy neutrons then target the tumor, splitting the boron and destroying the cancer cells from within.",
+"bn": "BNCT-তে রোগীদের একটি বোরন যৌগ ইনজেকশন দেওয়া হয় যা টিউমারে জমা হয়। তারপরে কম-শক্তির নিউট্রনগুলি টিউমারকে লক্ষ্য করে বোরনকে বিভক্ত করে এবং ভেতর থেকে ক্যান্সার কোষগুলিকে ধ্বংস করে দেয়।"
+}
+},
+{
+"question": {
+"en": "In what everyday household product would you most commonly find sodium tetraborate (Borax)?",
+"bn": "প্রতিদিনের গৃহস্থালির কোন পণ্যটিতে আপনি সাধারণত সোডিয়াম টেট্রাবোরেট (বোরাক্স) পাবেন?"
+},
+"options": [
+{
+"en": "Toothpaste",
+"bn": "টুথপেস্ট"
+},
+{
+"en": "Laundry detergent enhancer",
+"bn": "লন্ড্রি ডিটারজেন্ট বৃদ্ধিকারী"
+},
+{
+"en": "Cooking oil",
+"bn": "রান্নার তেল"
+},
+{
+"en": "Batteries",
+"bn": "ব্যাটারি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Borax is a classic household cleaning agent and laundry booster that helps soften water and bleach out stains.",
+"bn": "বোরাক্স একটি ক্লাসিক গৃহস্থালী পরিচ্ছন্নতা এজেন্ট এবং লন্ড্রি বুস্টার যা জল নরম করতে এবং দাগ দূর করতে সহায়তা করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary green-energy application driving massive future demand for Neodymium-Iron-Boron (NdFeB) magnets?",
+"bn": "নিওডিমিয়াম-আয়রন-বোরন (NdFeB) চুম্বকের বিশাল ভবিষ্যত চাহিদাকে চালিত করার প্রাথমিক সবুজ-শক্তি প্রয়োগ কী?"
+},
+"options": [
+{
+"en": "Solar panels",
+"bn": "সোলার প্যানেল"
+},
+{
+"en": "Hydroelectric dams",
+"bn": "জলবিদ্যুৎ বাঁধ"
+},
+{
+"en": "Electric vehicle (EV) motors and wind turbines",
+"bn": "বৈদ্যুতিক গাড়ির (EV) মোটর এবং উইন্ড টারবাইন"
+},
+{
+"en": "Nuclear fusion reactors",
+"bn": "পারমাণবিক ফিউশন চুল্লি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "NdFeB magnets are the strongest known permanent magnets, utterly essential for the compact, highly efficient motors required by EVs.",
+"bn": "NdFeB চুম্বকগুলি হলো পরিচিত সবচেয়ে শক্তিশালী স্থায়ী চুম্বক, যা ইভি-র (EV) জন্য প্রয়োজনীয় কমপ্যাক্ট এবং অত্যন্ত দক্ষ মোটরগুলির জন্য একেবারে অপরিহার্য।"
+}
+},
+{
+"question": {
+"en": "Sodium borohydride (NaBH4) is extensively used in organic chemistry as what kind of agent?",
+"bn": "জৈব রসায়নে সোডিয়াম বোরোহাইড্রাইড (NaBH4) ব্যাপকভাবে কী ধরনের এজেন্ট হিসাবে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "A strong oxidizing agent",
+"bn": "একটি শক্তিশালী জারক"
+},
+{
+"en": "A mild reducing agent",
+"bn": "একটি মৃদু বিজারক"
+},
+{
+"en": "A strong acid",
+"bn": "একটি শক্তিশালী অ্যাসিড"
+},
+{
+"en": "A polymerization catalyst",
+"bn": "একটি পলিমারাইজেশন অনুঘটক"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "NaBH4 safely and selectively reduces aldehydes and ketones to alcohols without reacting with water as violently as other hydrides.",
+"bn": "NaBH4 নিরাপদে এবং বেছে বেছে অ্যালডিহাইড এবং কিটোনকে অ্যালকোহলে রূপান্তরিত করে, অন্যান্য হাইড্রাইডের মতো জলের সাথে তীব্রভাবে বিক্রিয়া না করেই।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of boron in boric acid (H3BO3)?",
+"bn": "বোরিক অ্যাসিডে (H3BO3) বোরনের ফর্মাল জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "-3",
+"bn": "-৩"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Boron typically adopts an oxidation state of +3 in its stable oxygen-containing compounds, like B2O3 and H3BO3.",
+"bn": "বোরন সাধারণত তার স্থিতিশীল অক্সিজেনযুক্ত যৌগগুলিতে, যেমন B2O3 এবং H3BO3-এ, +৩ জারণ অবস্থা গ্রহণ করে।"
+}
+},
+{
+"question": {
+"en": "Why does Boric Acid act as a Brønsted-Lowry acid in water, despite lacking typical acidic protons?",
+"bn": "সাধারণ অ্যাসিডিক প্রোটনের অভাব থাকা সত্ত্বেও বোরিক অ্যাসিড কেন জলে ব্রনস্টেড-লাউরি অ্যাসিড হিসাবে কাজ করে?"
+},
+"options": [
+{
+"en": "It directly donates an H+ ion",
+"bn": "এটি সরাসরি একটি H+ আয়ন দান করে"
+},
+{
+"en": "It doesn't; it's purely a base",
+"bn": "এটি করে না; এটি সম্পূর্ণভাবে একটি ক্ষার"
+},
+{
+"en": "It accepts an OH- ion from water, leaving a free H+ behind",
+"bn": "এটি জল থেকে একটি OH- আয়ন গ্রহণ করে, যার ফলে একটি মুক্ত H+ পিছনে থেকে যায়"
+},
+{
+"en": "It completely dissolves into B3+ and H- ions",
+"bn": "এটি সম্পূর্ণরূপে B3+ এবং H- আয়নে দ্রবীভূত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Boric acid acts as a Lewis acid by grabbing a hydroxide ion (OH-) from H2O, which consequently releases an H+ ion into the solution.",
+"bn": "বোরিক অ্যাসিড H2O থেকে একটি হাইড্রোক্সাইড আয়ন (OH-) গ্রহণ করে লুইস অ্যাসিড হিসাবে কাজ করে, যা ফলস্বরূপ দ্রবণে একটি H+ আয়ন ছেড়ে দেয়।"
+}
+},
+{
+"question": {
+"en": "Elemental boron is classified on the periodic table as a:",
+"bn": "মৌলিক বোরন পর্যায় সারণিতে কীভাবে শ্রেণীবদ্ধ করা হয়:"
+},
+"options": [
+{
+"en": "Alkali metal",
+"bn": "ক্ষারীয় ধাতু"
+},
+{
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+{
+"en": "Halogen",
+"bn": "হ্যালোজেন"
+},
+{
+"en": "Metalloid",
+"bn": "অপধাতু"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Boron is a metalloid, possessing properties intermediate between those of metals and nonmetals.",
+"bn": "বোরন একটি অপধাতু, যার ধাতু এবং অধাতুর মধ্যবর্তী বৈশিষ্ট্য রয়েছে।"
+}
+},
+{
+"question": {
+"en": "What structural role does boron play in fiberglass?",
+"bn": "ফাইবারগ্লাসে বোরন কোন কাঠামোগত ভূমিকা পালন করে?"
+},
+"options": [
+{
+"en": "It makes it electrically conductive",
+"bn": "এটি একে বিদ্যুৎ পরিবাহী করে তোলে"
+},
+{
+"en": "It fluxes the silica and reduces the melting temperature, improving strength",
+"bn": "এটি সিলিকাকে ফ্লাক্স করে এবং গলন তাপমাত্রা হ্রাস করে, শক্তি উন্নত করে"
+},
+{
+"en": "It changes the glass color to black",
+"bn": "এটি কাঁচের রঙ কালো করে দেয়"
+},
+{
+"en": "It prevents the glass from becoming solid",
+"bn": "এটি কাঁচকে কঠিন হতে বাধা দেয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Boron oxide acts as a network former and flux, making the fiberglass stronger, chemically resistant, and easier to spin from the melt.",
+"bn": "বোরন অক্সাইড একটি নেটওয়ার্ক প্রস্তুতকারক এবং ফ্লাক্স হিসেবে কাজ করে, যা ফাইবারগ্লাসকে শক্তিশালী, রাসায়নিক প্রতিরোধী এবং গলিত অবস্থা থেকে ঘোরানো সহজ করে তোলে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Boron is a heavy metal because it is hard and dark. (It is actually a very light metalloid).",
+"bn": "বোরন একটি ভারী ধাতু কারণ এটি শক্ত এবং গাঢ় রঙের। (এটি আসলে একটি খুব হালকা অপধাতু)।"
+},
+{
+"en": "Borax and boric acid are the exact same chemical. (Borax is a salt of boric acid, but they have distinct chemical structures and uses).",
+"bn": "বোরাক্স এবং বোরিক অ্যাসিড হুবহু একই রাসায়নিক। (বোরাক্স হলো বোরিক অ্যাসিডের একটি লবণ, তবে তাদের স্বতন্ত্র রাসায়নিক গঠন এবং ব্যবহার রয়েছে)।"
+}
+],
+"learningTips": [
+{
+"en": "Remember 'Boron the Builder'—it forms strange architectural structures (like the B12 icosahedron) because it's desperate to share electrons.",
+"bn": "'বোরন দ্য বিল্ডার' মনে রাখবেন—এটি অদ্ভুত স্থাপত্য কাঠামো গঠন করে (যেমন B12 ইকোসহেড্রন) কারণ এটি ইলেকট্রন ভাগ করে নেওয়ার জন্য মরিয়া।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "4B + 3O₂ → 2B₂O₃",
+"description": {
+"en": "Combustion of boron at high temperatures to form boron trioxide.",
+"bn": "বোরন ট্রাইঅক্সাইড তৈরি করতে উচ্চ তাপমাত্রায় বোরনের দহন।"
+}
+},
+{
+"equation": "BF₃ + F⁻ → BF₄⁻",
+"description": {
+"en": "Boron trifluoride acting as a Lewis acid by accepting an electron pair from a fluoride ion.",
+"bn": "ফ্লোরাইড আয়ন থেকে একটি ইলেকট্রন জোড় গ্রহণ করে বোরন ট্রাইফ্লুরাইড লুইস অ্যাসিড হিসাবে কাজ করে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "B → B³⁺ + 3e⁻",
+"description": {
+"en": "Formal oxidation of boron in reactions (though free B3+ ions do not exist in standard chemistry).",
+"bn": "বিক্রিয়ায় বোরনের আনুষ্ঠানিক জারণ (যদিও সাধারণ রসায়নে মুক্ত B3+ আয়ন থাকে না)।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "BCl₃ + 1.5H₂ → B + 3HCl",
+"description": {
+"en": "Reduction of boron trichloride by hydrogen gas to produce high-purity elemental boron.",
+"bn": "উচ্চ-বিশুদ্ধতার মৌলিক বোরন তৈরি করতে হাইড্রোজেন গ্যাস দ্বারা বোরন ট্রাইক্লোরাইডের বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Multi-center Bond (Banana Bond)",
+"bn": "মাল্টি-সেন্টার বন্ড (কলা বন্ড)"
+},
+"molecule": "B₂H₆",
+"description": {
+"en": "Two boron atoms share two bridging hydrogen atoms via a 3-center 2-electron bond due to electron deficiency.",
+"bn": "ইলেকট্রনের ঘাটতির কারণে ৩-কেন্দ্র ২-ইলেকট্রন বন্ধনের মাধ্যমে দুটি বোরন পরমাণু দুটি ব্রিজিং হাইড্রোজেন পরমাণু ভাগ করে নেয়।"
+}
+}
+]
+}
+}
