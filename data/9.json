@@ -1,0 +1,990 @@
+{
+"elementId": 9,
+"basicInformation": {
+"atomicNumber": 9,
+"symbol": "F",
+"name": {
+"en": "Fluorine",
+"bn": "ফ্লুরিন"
+},
+"pronunciation": {
+"en": "/ˈflʊəriːn, ˈflɔːriːn/",
+"bn": "ফ্লু-রিন"
+},
+"atomicMass": 18.998,
+"category": {
+"en": "Reactive nonmetal (Halogen)",
+"bn": "সক্রিয় অধাতু (হ্যালোজেন)"
+},
+"group": 17,
+"period": 2,
+"block": "p",
+"phase": {
+"en": "Gas",
+"bn": "গ্যাস"
+},
+"appearance": {
+"en": "Pale yellow gas",
+"bn": "ফ্যাকাশে হলুদ গ্যাস"
+},
+"color": {
+"en": "Pale yellow",
+"bn": "ফ্যাকাশে হলুদ"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Henri Moissan",
+"bn": "অঁরি মোয়াসঁ"
+},
+"discoveryYear": 1886,
+"discoveryLocation": {
+"en": "France",
+"bn": "ফ্রান্স"
+},
+"discoveryStory": {
+"en": "After many chemists suffered poisoning or death trying to isolate it, Henri Moissan finally succeeded by electrolyzing a solution of potassium hydrogen difluoride in liquid hydrogen fluoride at very low temperatures, using platinum-iridium electrodes.",
+"bn": "এটি আলাদা করার চেষ্টা করে অনেক রসায়নবিদ বিষক্রিয়ার শিকার বা মৃত্যুবরণ করার পর, অঁরি মোয়াসঁ অবশেষে খুব কম তাপমাত্রায় তরল হাইড্রোজেন ফ্লোরাইডে পটাসিয়াম হাইড্রোজেন ডাইফ্লুরাইডের দ্রবণকে প্ল্যাটিনাম-ইরিডিয়াম ইলেকট্রোড ব্যবহার করে তড়িৎ বিশ্লেষণের মাধ্যমে সফলভাবে আলাদা করেন।"
+},
+"historicalUses": {
+"en": "Early use was primarily in the form of hydrofluoric acid for etching glass, dating back to the 17th century before the element was even isolated.",
+"bn": "প্রাথমিক ব্যবহার মূলত হাইড্রোফ্লুরিক অ্যাসিড আকারে কাঁচ খোদাই করার জন্য ছিল, যা মৌলটি আলাদা হওয়ার আগেই ১৭শ শতাব্দী থেকে ব্যবহৃত হতো।"
+},
+"famousExperiments": {
+"en": "Moissan's dangerous 1886 electrolysis experiment which earned him the 1906 Nobel Prize in Chemistry.",
+"bn": "মোয়াসাঁর ১৮৮৬ সালের বিপজ্জনক তড়িৎ বিশ্লেষণ পরীক্ষা যা তাকে ১৯০৬ সালে রসায়নে নোবেল পুরস্কার এনে দেয়।"
+}
+},
+"atomicStructure": {
+"protons": 9,
+"neutrons": 10,
+"electrons": 9,
+"valenceElectrons": 7,
+"shells": 2,
+"shellDistribution": [2, 7],
+"electronConfiguration": "1s² 2s² 2p⁵",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 5
+},
+"oxidationStates": [-1],
+"quantumNumbers": {
+"principal": 2,
+"azimuthal": 1,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 0.001696,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 53.48,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 85.03,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 38,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 57,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 147,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 0.02591,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": null,
+"specificHeat": {
+"value": 0.824,
+"unit": "J/(g·K)"
+},
+"hardness": null,
+"crystalStructure": {
+"en": "Monoclinic",
+"bn": "মনোক্লিনিক"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 3.98,
+"ionizationEnergy": {
+"value": 1681.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 328.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "The most electronegative and reactive of all elements. It reacts violently with almost all elements, including some noble gases, often causing them to ignite.",
+"bn": "সমস্ত মৌলের মধ্যে সবচেয়ে বেশি তড়িৎঋণাত্মক এবং প্রতিক্রিয়াশীল। এটি কিছু নিষ্ক্রিয় গ্যাস সহ প্রায় সমস্ত মৌলের সাথে হিংস্রভাবে বিক্রিয়া করে, যার ফলে অনেক সময় আগুন ধরে যায়।"
+},
+"commonCompounds": ["HF", "NaF", "UF₆", "SF₆", "CF₄", "CaF₂"],
+"flameTestColor": null,
+"spectralLines": ["685.60nm", "690.24nm", "703.74nm", "712.79nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Synthesis of fluoropolymers (like Teflon), cryolite for aluminum smelting, and production of sulfur hexafluoride for high-voltage switchgear.",
+"bn": "ফ্লুরোপলিমার (যেমন টেফলন) সংশ্লেষণ, অ্যালুমিনিয়াম গলানোর জন্য ক্রায়োলাইট এবং হাই-ভোল্টেজ সুইচগিয়ারের জন্য সালফার হেক্সাফ্লুরাইড উৎপাদন।"
+},
+"commercialUses": {
+"en": "Sodium fluoride in toothpaste and municipal water fluoridation to prevent tooth decay; non-stick coatings.",
+"bn": "দাঁতের ক্ষয় রোধ করতে টুথপেস্টে সোডিয়াম ফ্লোরাইড এবং পৌরসভার জলে ফ্লোরাইডেশন; নন-স্টিক আবরণ।"
+},
+"electronicsUses": {
+"en": "Sulfur hexafluoride (SF6) is used as an excellent dielectric insulator in high-voltage circuit breakers.",
+"bn": "সালফার হেক্সাফ্লুরাইড (SF6) উচ্চ-ভোল্টেজ সার্কিট ব্রেকারগুলিতে একটি চমৎকার ডাইইলেকট্রিক ইনসুলেটর হিসাবে ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "Fluorine-containing gases (CF4, NF3, SF6) are critical for plasma etching of silicon and cleaning chemical vapor deposition (CVD) chambers.",
+"bn": "ফ্লুরিন-যুক্ত গ্যাস (CF4, NF3, SF6) সিলিকনের প্লাজমা এচিং এবং কেমিক্যাল ভেপার ডিপোজিশন (CVD) চেম্বার পরিষ্কার করার জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"aerospaceUses": {
+"en": "Fluoropolymers like PTFE are used extensively for high-temperature wiring insulation and chemical-resistant seals in spacecraft.",
+"bn": "PTFE এর মতো ফ্লুরোপলিমারগুলি মহাকাশযানে উচ্চ-তাপমাত্রার তারের নিরোধক এবং রাসায়নিক-প্রতিরোধী সিলের জন্য ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"batteryUses": {
+"en": "Lithium hexafluorophosphate (LiPF6) is the standard electrolyte utilized in almost all commercial lithium-ion batteries.",
+"bn": "লিথিয়াম হেক্সাফ্লুরোফসফেট (LiPF6) হলো প্রায় সমস্ত বাণিজ্যিক লিথিয়াম-আয়ন ব্যাটারিতে ব্যবহৃত স্ট্যান্ডার্ড ইলেক্ট্রোলাইট।"
+},
+"aiHardwareUses": {
+"en": "Immersion cooling fluids (fluoroketones, fluoropolyethers) for ultra-dense AI supercomputers and server farms.",
+"bn": "অতি-ঘনত্বের এআই সুপারকম্পিউটার এবং সার্ভার ফার্মগুলির জন্য নিমজ্জন কুলিং তরল (ফ্লুরোকিটোন, ফ্লুরোপলিথার)।"
+},
+"renewableEnergyUses": {
+"en": "Fluorinated backsheets are used in solar panels for extreme weather durability and UV resistance.",
+"bn": "ফ্লুরিনযুক্ত ব্যাকশীটগুলি চরম আবহাওয়ায় স্থায়িত্ব এবং ইউভি প্রতিরোধের জন্য সোলার প্যানেলে ব্যবহৃত হয়।"
+},
+"nanotechnologyUses": {
+"en": "Surface modification of nanoparticles to make them superhydrophobic (water-repellent) and oleophobic.",
+"bn": "ন্যানোপার্টিকেলগুলির পৃষ্ঠের পরিবর্তন করে তাদের সুপারহাইড্রোফোবিক (জল-বিকর্ষক) এবং ওলিওফোবিক করে তোলা।"
+},
+"nuclearUses": {
+"en": "Uranium hexafluoride (UF6) gas is essential for separating uranium isotopes (U-235 from U-238) via gas centrifugation for nuclear fuel.",
+"bn": "পারমাণবিক জ্বালানীর জন্য গ্যাস সেন্ট্রিফিউগেশনের মাধ্যমে ইউরেনিয়াম আইসোটোপ (U-238 থেকে U-235) আলাদা করার জন্য ইউরেনিয়াম হেক্সাফ্লুরাইড (UF6) গ্যাস অপরিহার্য।"
+},
+"militaryUses": {
+"en": "Historically studied as a rocket propellant oxidizer, but abandoned due to its extreme hypergolic toxicity and corrosive exhaust (HF).",
+"bn": "ঐতিহাসিকভাবে রকেট প্রোপেলান্ট অক্সিডাইজার হিসাবে অধ্যয়ন করা হয়েছিল, তবে এর চরম বিষাক্ততা এবং ক্ষয়কারী নির্গমনের (HF) কারণে পরিত্যক্ত হয়।"
+},
+"medicalUses": {
+"en": "Over 20% of modern pharmaceuticals contain fluorine (e.g., Prozac, Lipitor) to increase metabolic stability and lipid solubility. Also used in PET scans (18F).",
+"bn": "আধুনিক ওষুধের ২০% এরও বেশি অংশে ফ্লুরিন (যেমন, প্রোজ্যাক, লিপিটর) থাকে যা বিপাকীয় স্থিতিশীলতা এবং লিপিড দ্রবণীয়তা বাড়ায়। পিইটি (PET) স্ক্যানেও (18F) ব্যবহৃত হয়।"
+},
+"foodIndustryUses": {
+"en": "Indirect use via PTFE (Teflon) coated cookware providing non-stick surfaces for food preparation.",
+"bn": "খাবার তৈরির জন্য নন-স্টিক পৃষ্ঠ প্রদানকারী PTFE (টেফলন) প্রলেপযুক্ত রান্নার বাসনের মাধ্যমে পরোক্ষ ব্যবহার।"
+},
+"constructionUses": {
+"en": "ETFE (Ethylene tetrafluoroethylene) polymers are used as a lightweight, transparent alternative to glass in modern stadium roofs.",
+"bn": "ETFE (ইথিলিন টেট্রাফ্লুরোইথিলিন) পলিমারগুলি আধুনিক স্টেডিয়ামের ছাদে কাঁচের হালকা এবং স্বচ্ছ বিকল্প হিসাবে ব্যবহৃত হয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Considered an essential trace element for humans; it replaces hydroxyl groups in tooth enamel to form decay-resistant fluorapatite.",
+"bn": "মানুষের জন্য একটি অপরিহার্য ট্রেস খনিজ হিসাবে বিবেচিত; এটি দাঁতের এনামেলে হাইড্রোক্সিল গ্রুপগুলিকে প্রতিস্থাপন করে ক্ষয়-প্রতিরোধী ফ্লোরাপ্যাটাইট তৈরি করে।"
+},
+"humanBodyRole": {
+"en": "Strengthens bones and teeth. Approximately 2.6 grams of fluorine exist in the average human body, primarily in the skeleton.",
+"bn": "হাড় এবং দাঁত মজবুত করে। গড় মানবদেহে প্রায় ২.৬ গ্রাম ফ্লুরিন থাকে, যার প্রধান অংশ কঙ্কালে থাকে।"
+},
+"toxicity": {
+"en": "Elemental fluorine gas and hydrofluoric acid are supremely toxic and tissue-destroying. Systemic fluoride poisoning causes severe hypocalcemia.",
+"bn": "মৌলিক ফ্লুরিন গ্যাস এবং হাইড্রোফ্লুরিক অ্যাসিড অত্যন্ত বিষাক্ত এবং টিস্যু ধ্বংসকারী। পদ্ধতিগত ফ্লোরাইড বিষক্রিয়া মারাত্মক হাইপোক্যালসেমিয়ার কারণ হয়।"
+},
+"environmentalImpact": {
+"en": "Chlorofluorocarbons (CFCs) caused severe damage to the ozone layer. Modern fluorinated gases (PFAS) are 'forever chemicals' accumulating in water.",
+"bn": "ক্লোরোফ্লুরোকার্বন (CFC) ওজোন স্তরের মারাত্মক ক্ষতি করেছিল। আধুনিক ফ্লুরিনযুক্ত গ্যাস (PFAS) হলো 'চিরস্থায়ী রাসায়নিক' যা জলে জমা হচ্ছে।"
+},
+"pollutionRisks": {
+"en": "PFAS (per- and polyfluoroalkyl substances) contamination in soil and groundwater poses a massive global health and ecological risk.",
+"bn": "মাটি এবং ভূগর্ভস্থ জলে PFAS (পার- এবং পলিফ্লুরোঅ্যালকাইল পদার্থ) দূষণ বিশ্বব্যাপী স্বাস্থ্য এবং পরিবেশের জন্য একটি বিশাল ঝুঁকি।"
+},
+"recyclingMethods": {
+"en": "Fluorinated refrigerants are carefully captured and chemically broken down or distilled for reuse under strict environmental protocols.",
+"bn": "ফ্লুরিনযুক্ত রেফ্রিজারেন্টগুলি সাবধানে ক্যাপচার করা হয় এবং কঠোর পরিবেশগত প্রোটোকলের অধীনে পুনরায় ব্যবহারের জন্য রাসায়নিকভাবে ভেঙে বা পাতন করা হয়।"
+},
+"sustainabilityScore": 4.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Mexico",
+"bn": "মেক্সিকো"
+},
+{
+"en": "Mongolia",
+"bn": "মঙ্গোলিয়া"
+}
+],
+"miningMethods": {
+"en": "Mined primarily as the mineral fluorite (fluorspar, CaF2), which is crushed and treated with sulfuric acid to produce hydrogen fluoride.",
+"bn": "মূলত খনিজ ফ্লোরাইট (ফ্লুওরোস্পার, CaF2) হিসাবে খনন করা হয়, যা চূর্ণ করা হয় এবং হাইড্রোজেন ফ্লোরাইড তৈরি করতে সালফিউরিক অ্যাসিড দিয়ে শোধন করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.00004% by mass",
+"bn": "ভর অনুযায়ী ০.০০০৪%"
+},
+"earthCrust": {
+"en": "0.054% by mass",
+"bn": "ভর অনুযায়ী ০.০৫৪%"
+},
+"oceans": {
+"en": "0.00013% by mass",
+"bn": "ভর অনুযায়ী ০.০০০১৩%"
+}
+},
+"marketValue": {
+"en": "Acid-grade fluorspar is valued around $400 - $600 per metric ton.",
+"bn": "অ্যাসিড-গ্রেড ফ্লোরস্পারের মূল্য প্রতি মেট্রিক টন প্রায় $৪০০ - $৬০০।"
+},
+"futureDemand": {
+"en": "Demand is rapidly surging due to its critical role in lithium-ion batteries (LiPF6), semiconductor manufacturing, and advanced polymers.",
+"bn": "লিথিয়াম-আয়ন ব্যাটারি (LiPF6), সেমিকন্ডাক্টর উৎপাদন এবং উন্নত পলিমারে এর গুরুত্বপূর্ণ ভূমিকার কারণে এর চাহিদা দ্রুত বৃদ্ধি পাচ্ছে।"
+},
+"globalImportance": {
+"en": "A strategic bottleneck element; without fluorine, modern uranium enrichment, advanced microchips, and EV batteries would be impossible.",
+"bn": "একটি কৌশলগত গুরুত্বপূর্ণ উপাদান; ফ্লুরিন ছাড়া আধুনিক ইউরেনিয়াম সমৃদ্ধকরণ, উন্নত মাইক্রোচিপ এবং ইভি ব্যাটারি অসম্ভব।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "F2 gas is violently reactive and a fatal inhalation hazard. Reacts explosively with water to form deadly HF gas and ozone.",
+"bn": "F2 গ্যাস প্রচণ্ডভাবে প্রতিক্রিয়াশীল এবং শ্বাস গ্রহণের জন্য মারাত্মক বিপদজনক। জল এর সাথে বিস্ফোরকভাবে বিক্রিয়া করে মারাত্মক HF গ্যাস এবং ওজোন তৈরি করে।"
+},
+"storageRequirements": {
+"en": "Must be stored in special steel, Monel, or nickel alloys that form a passivating inner layer of metal fluoride to prevent further reaction.",
+"bn": "বিশেষ ইস্পাত, মোনেল বা নিকেল অ্যালয়ে সংরক্ষণ করতে হবে যা ধাতব ফ্লোরাইডের একটি প্যাসিভেটিং ভিতরের স্তর তৈরি করে যাতে আরও বিক্রিয়া প্রতিরোধ করা যায়।"
+},
+"handlingProcedures": {
+"en": "Requires extreme isolation, blast shields, positive pressure hazmat suits, and strictly dry environments free of organic materials.",
+"bn": "চরম বিচ্ছিন্নতা, ব্লাস্ট শিল্ড, পজিটিভ প্রেসার হ্যাজম্যাট স্যুট এবং জৈব পদার্থ মুক্ত কঠোরভাবে শুষ্ক পরিবেশ প্রয়োজন।"
+},
+"exposureRisks": {
+"en": "Hydrofluoric acid (HF) exposure may not immediately hurt, but penetrates skin to dissolve bone and cause lethal cardiac arrest via calcium depletion.",
+"bn": "হাইড্রোফ্লুরিক অ্যাসিড (HF) এর সংস্পর্শে আসা মাত্রই ব্যথা নাও লাগতে পারে, তবে এটি ত্বক ভেদ করে হাড় গলিয়ে দেয় এবং ক্যালসিয়ামের অভাবের কারণে মারাত্মক কার্ডিয়াক অ্যারেস্ট ঘটায়।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Toxic/Corrosive/Reactive)",
+"bn": "চরম ঝুঁকি (বিষাক্ত/ক্ষয়কারী/প্রতিক্রিয়াশীল)"
+},
+"hazardClassifications": [
+{
+"en": "Oxidizing Gas",
+"bn": "অক্সিডাইজিং গ্যাস"
+},
+{
+"en": "Acute Toxicity (Fatal)",
+"bn": "তীব্র বিষাক্ততা (মারাত্মক)"
+},
+{
+"en": "Skin Corrosion",
+"bn": "ত্বক ক্ষয়কারী"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Fluorine is the most aggressive element in the universe. It will forcefully steal electrons from almost anything it touches, even glass and water.",
+"bn": "ফ্লুরিন মহাবিশ্বের সবচেয়ে আক্রমণাত্মক উপাদান। এটি কাঁচ এবং জল সহ প্রায় যেকোনো বস্তুর সংস্পর্শে এলে জোরপূর্বক ইলেকট্রন ছিনিয়ে নেয়।"
+},
+"advancedExplanation": {
+"en": "Its extreme electronegativity (3.98) and small atomic radius lead to a very weak F-F bond due to lone pair repulsion, while forming immensely strong bonds with other elements (like C-F in Teflon), driving its hyper-reactivity.",
+"bn": "এর চরম তড়িৎঋণাত্মকতা (৩.৯৮) এবং ক্ষুদ্র পারমাণবিক ব্যাসার্ধ লোন পেয়ার বিকর্ষণের কারণে একটি খুব দুর্বল F-F বন্ধন তৈরি করে, অন্যদিকে এটি অন্যান্য উপাদানগুলোর (যেমন টেফলনে C-F) সাথে অত্যন্ত শক্তিশালী বন্ধন গঠন করে, যা এর হাইপার-প্রতিক্রিয়াশীলতাকে পরিচালিত করে।"
+},
+"funFacts": [
+{
+"en": "Fluorine is the only element that will form stable compounds with noble gases like Xenon and Krypton.",
+"bn": "ফ্লুরিন হলো একমাত্র মৌল যা জেনন এবং ক্রিপ্টনের মতো নিষ্ক্রিয় গ্যাসগুলির সাথে স্থিতিশীল যৌগ গঠন করবে।"
+},
+{
+"en": "If you sprayed a stream of fluorine gas at a standard brick, the brick would spontaneously burst into flames.",
+"bn": "যদি আপনি একটি সাধারণ ইটের উপর ফ্লুরিন গ্যাসের ধারা স্প্রে করেন, তবে ইটটিতে স্বতঃস্ফূর্তভাবে আগুন ধরে যাবে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 17,
+"relation": {
+"en": "Unlike Chlorine, Fluorine is too reactive to exist naturally in the ocean as an ion, and its gas cannot be stored in glass because it eats through it.",
+"bn": "ক্লোরিনের বিপরীতে, ফ্লুরিন এত বেশি প্রতিক্রিয়াশীল যে এটি প্রাকৃতিকভাবে মহাসাগরে আয়ন হিসাবে থাকতে পারে না, এবং এর গ্যাস কাঁচের পাত্রে সংরক্ষণ করা যায় না কারণ এটি কাঁচকে গলিয়ে ফেলে।"
+}
+}
+],
+"relatedElements": [8, 17, 10, 2],
+"quizQuestions": [
+{
+"question": {
+"en": "What is fluorine's position on the Pauling electronegativity scale?",
+"bn": "পলিং তড়িৎঋণাত্মকতা স্কেলে ফ্লুরিনের অবস্থান কী?"
+},
+"options": [
+{
+"en": "It is the least electronegative element",
+"bn": "এটি সবচেয়ে কম তড়িৎঋণাত্মক মৌল"
+},
+{
+"en": "It is exactly in the middle",
+"bn": "এটি ঠিক মাঝখানে"
+},
+{
+"en": "It has an electronegativity of 0",
+"bn": "এর তড়িৎঋণাত্মকতা ০"
+},
+{
+"en": "It is the highest, at 3.98",
+"bn": "এটি সর্বোচ্চ, ৩.৯৮"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Fluorine is the most electronegative element on the periodic table, meaning it pulls electrons toward itself stronger than any other atom.",
+"bn": "ফ্লুরিন হলো পর্যায় সারণির সবচেয়ে বেশি তড়িৎঋণাত্মক মৌল, যার অর্থ এটি অন্য যেকোনো পরমাণুর চেয়ে বেশি শক্তিশালীভাবে ইলেকট্রনকে নিজের দিকে টানে।"
+}
+},
+{
+"question": {
+"en": "Which famous chemist finally isolated fluorine gas in 1886 after many others failed or died trying?",
+"bn": "কোন বিখ্যাত রসায়নবিদ ১৮৮৬ সালে অনেক ব্যর্থতা এবং অন্যদের মৃত্যুর পর অবশেষে ফ্লুরিন গ্যাস আলাদা করেছিলেন?"
+},
+"options": [
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+},
+{
+"en": "Henri Moissan",
+"bn": "অঁরি মোয়াসঁ"
+},
+{
+"en": "Antoine Lavoisier",
+"bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+},
+{
+"en": "Humphry Davy",
+"bn": "হামফ্রি ডেভি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Henri Moissan successfully isolated fluorine using low-temperature electrolysis, a highly dangerous feat that won him the Nobel Prize.",
+"bn": "অঁরি মোয়াসঁ নিম্ন-তাপমাত্রার তড়িৎ বিশ্লেষণ ব্যবহার করে সফলভাবে ফ্লুরিন আলাদা করেন, যা ছিল অত্যন্ত বিপজ্জনক একটি কাজ এবং এর জন্য তিনি নোবেল পুরস্কার জিতেছিলেন।"
+}
+},
+{
+"question": {
+"en": "What specific biological compound is formed when fluoride is incorporated into tooth enamel?",
+"bn": "দাঁতের এনামেলে ফ্লোরাইড যুক্ত হলে কোন নির্দিষ্ট জৈবিক যৌগ তৈরি হয়?"
+},
+"options": [
+{
+"en": "Calcium carbonate",
+"bn": "ক্যালসিয়াম কার্বনেট"
+},
+{
+"en": "Fluorapatite",
+"bn": "ফ্লোরাপ্যাটাইট"
+},
+{
+"en": "Hydroxyapatite",
+"bn": "হাইড্রোক্সিপ্যাটাইট"
+},
+{
+"en": "Sodium monofluorophosphate",
+"bn": "সোডিয়াম মনোফ্লুরোফসফেট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Fluoride replaces the hydroxyl ion in hydroxyapatite to form fluorapatite, which is significantly more resistant to acid decay.",
+"bn": "ফ্লোরাইড হাইড্রোক্সিপ্যাটাইটে হাইড্রোক্সিল আয়নকে প্রতিস্থাপন করে ফ্লোরাপ্যাটাইট তৈরি করে, যা অ্যাসিডের ক্ষয়ের বিরুদ্ধে উল্লেখযোগ্যভাবে বেশি প্রতিরোধী।"
+}
+},
+{
+"question": {
+"en": "Why is pure fluorine gas never stored in glass containers?",
+"bn": "বিশুদ্ধ ফ্লুরিন গ্যাস কেন কখনও কাঁচের পাত্রে সংরক্ষণ করা হয় না?"
+},
+"options": [
+{
+"en": "It escapes through microscopic pores",
+"bn": "এটি আণুবীক্ষণিক ছিদ্র দিয়ে বেরিয়ে যায়"
+},
+{
+"en": "It reacts with silicon dioxide, dissolving the glass",
+"bn": "এটি সিলিকন ডাই অক্সাইডের সাথে বিক্রিয়া করে কাঁচকে গলিয়ে দেয়"
+},
+{
+"en": "It turns glass black",
+"bn": "এটি কাঁচকে কালো করে দেয়"
+},
+{
+"en": "Glass is too heavy",
+"bn": "কাঁচ খুব ভারী"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Fluorine aggressively attacks the silicon dioxide in glass, forming gaseous silicon tetrafluoride (SiF4), effectively eating through the container.",
+"bn": "ফ্লুরিন কাঁচের সিলিকন ডাই অক্সাইডকে আক্রমণ করে গ্যাসীয় সিলিকন টেট্রাফ্লুরাইড (SiF4) তৈরি করে, যা পাত্রটিকে গলিয়ে ফুটো করে দেয়।"
+}
+},
+{
+"question": {
+"en": "In the nuclear energy industry, fluorine is combined with uranium to form Uranium Hexafluoride (UF6). What is the purpose of this compound?",
+"bn": "পারমাণবিক শক্তি শিল্পে, ইউরেনিয়ামের সাথে ফ্লুরিন যুক্ত করে ইউরেনিয়াম হেক্সাফ্লুরাইড (UF6) তৈরি করা হয়। এই যৌগের উদ্দেশ্য কী?"
+},
+"options": [
+{
+"en": "To cool down the nuclear reactor",
+"bn": "পারমাণবিক চুল্লি ঠান্ডা করতে"
+},
+{
+"en": "To prevent radiation from escaping",
+"bn": "বিকিরণ নির্গমন রোধ করতে"
+},
+{
+"en": "To allow uranium to become a gas so its isotopes can be separated in centrifuges",
+"bn": "ইউরেনিয়ামকে গ্যাসে পরিণত হতে দেওয়া যাতে সেন্ট্রিফিউজে এর আইসোটোপগুলি আলাদা করা যায়"
+},
+{
+"en": "To make uranium glow in the dark",
+"bn": "ইউরেনিয়ামকে অন্ধকারে আলোকিত করতে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "UF6 is volatile and easily becomes a gas at modest temperatures, making it the standard chemical form used for uranium isotope enrichment.",
+"bn": "UF6 উদ্বায়ী এবং পরিমিত তাপমাত্রায় সহজেই গ্যাসে পরিণত হয়, যা একে ইউরেনিয়াম আইসোটোপ সমৃদ্ধকরণের জন্য ব্যবহৃত স্ট্যান্ডার্ড রাসায়নিক ফর্মে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "Why is the F-F bond in diatomic fluorine (F2) surprisingly weak compared to the Cl-Cl bond?",
+"bn": "কেন দ্বি-পারমাণবিক ফ্লুরিনের (F2) F-F বন্ধনটি Cl-Cl বন্ধনের তুলনায় আশ্চর্যজনকভাবে দুর্বল?"
+},
+"options": [
+{
+"en": "Because it has no neutrons",
+"bn": "কারণ এর কোনো নিউট্রন নেই"
+},
+{
+"en": "Due to strong repulsion between lone pairs of electrons in the small atoms",
+"bn": "ছোট পরমাণুতে ইলেকট্রনের লোন পেয়ারগুলির মধ্যে শক্তিশালী বিকর্ষণের কারণে"
+},
+{
+"en": "Because it forms triple bonds",
+"bn": "কারণ এটি ট্রিপল বন্ড তৈরি করে"
+},
+{
+"en": "Due to low electronegativity",
+"bn": "কম তড়িৎঋণাত্মকতার কারণে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Fluorine atoms are so small that when bonded, their non-bonding electron pairs are forced close together, repelling each other and destabilizing the bond.",
+"bn": "ফ্লুরিন পরমাণুগুলো এতই ছোট যে যখন তারা আবদ্ধ হয়, তখন তাদের নন-বন্ডিং ইলেকট্রন জোড়গুলো একে অপরের কাছাকাছি আসতে বাধ্য হয়, যা একে অপরকে বিকর্ষণ করে এবং বন্ধনকে অস্থিতিশীল করে।"
+}
+},
+{
+"question": {
+"en": "Polytetrafluoroethylene (PTFE), widely used for non-stick cookware, is better known by what trademarked name?",
+"bn": "পলিটেট্রাফ্লুরোইথিলিন (PTFE), যা নন-স্টিক রান্নার বাসনের জন্য ব্যাপকভাবে ব্যবহৃত হয়, এটি কোন ট্রেডমার্ক নামে বেশি পরিচিত?"
+},
+"options": [
+{
+"en": "Kevlar",
+"bn": "কেভলার"
+},
+{
+"en": "Teflon",
+"bn": "টেফলন"
+},
+{
+"en": "Nylon",
+"bn": "নাইলন"
+},
+{
+"en": "Gore-Tex",
+"bn": "গোর-টেক্স"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Teflon is the commercial name for PTFE, a fluoropolymer known for its incredible chemical resistance and non-stick properties.",
+"bn": "টেফলন হলো PTFE-এর বাণিজ্যিক নাম, যা একটি ফ্লুরোপলিমার এবং এটি এর অবিশ্বাস্য রাসায়নিক প্রতিরোধ এবং নন-স্টিক বৈশিষ্ট্যের জন্য পরিচিত।"
+}
+},
+{
+"question": {
+"en": "Fluorine is unique among halogens because its oxidation state in compounds is always:",
+"bn": "হ্যালোজেনগুলোর মধ্যে ফ্লুরিন অনন্য কারণ যৌগে এর জারণ অবস্থা সর্বদা:"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "0",
+"bn": "০"
+},
+{
+"en": "-1",
+"bn": "-১"
+},
+{
+"en": "Variable (+1 to +7)",
+"bn": "পরিবর্তনশীল (+১ থেকে +৭)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because it is the most electronegative element, no other element can pull an electron away from fluorine. Thus, it only exhibits a -1 oxidation state.",
+"bn": "যেহেতু এটি সবচেয়ে বেশি তড়িৎঋণাত্মক উপাদান, তাই অন্য কোনো উপাদান ফ্লুরিন থেকে ইলেকট্রন কেড়ে নিতে পারে না। ফলে এটি কেবল -১ জারণ অবস্থা প্রদর্শন করে।"
+}
+},
+{
+"question": {
+"en": "What terrifying reaction occurs when pure fluorine gas comes into contact with liquid water?",
+"bn": "বিশুদ্ধ ফ্লুরিন গ্যাস তরল জলের সংস্পর্শে এলে কী ভয়ানক বিক্রিয়া ঘটে?"
+},
+"options": [
+{
+"en": "It dissolves harmlessly",
+"bn": "এটি ক্ষতিকারক ছাড়াই দ্রবীভূত হয়"
+},
+{
+"en": "It violently steals hydrogen, forming HF and releasing highly reactive oxygen/ozone gas",
+"bn": "এটি হিংস্রভাবে হাইড্রোজেন চুরি করে, HF গঠন করে এবং অত্যন্ত প্রতিক্রিয়াশীল অক্সিজেন/ওজোন গ্যাস নির্গত করে"
+},
+{
+"en": "It freezes the water solid instantly",
+"bn": "এটি জলকে তাৎক্ষণিকভাবে জমিয়ে শক্ত করে দেয়"
+},
+{
+"en": "It sinks to the bottom",
+"bn": "এটি নিচে ডুবে যায়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Fluorine replaces the oxygen in water explosively, producing toxic hydrofluoric acid and displacing oxygen and ozone.",
+"bn": "ফ্লুরিন বিস্ফোরকভাবে জলের অক্সিজেনকে প্রতিস্থাপন করে বিষাক্ত হাইড্রোফ্লুরিক অ্যাসিড তৈরি করে এবং অক্সিজেন ও ওজোনকে স্থানচ্যুত করে।"
+}
+},
+{
+"question": {
+"en": "Which major class of fluorine-containing synthetic chemicals is responsible for the historical depletion of the Earth's ozone layer?",
+"bn": "ফ্লুরিন-যুক্ত সিন্থেটিক রাসায়নিকের কোন প্রধান শ্রেণী পৃথিবীর ওজোন স্তরের ঐতিহাসিক হ্রাসের জন্য দায়ী?"
+},
+"options": [
+{
+"en": "Hydrofluoroolefins (HFOs)",
+"bn": "হাইড্রোফ্লুরোওলেফিন (HFO)"
+},
+{
+"en": "Chlorofluorocarbons (CFCs)",
+"bn": "ক্লোরোফ্লুরোকার্বন (CFC)"
+},
+{
+"en": "Fluoropolymers",
+"bn": "ফ্লুরোপলিমার"
+},
+{
+"en": "Polyfluoroalkyls",
+"bn": "পলিফ্লুরোঅ্যালকাইল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "CFCs, historically used as refrigerants and propellants, break down under UV light in the stratosphere, releasing chlorine radicals that destroy ozone.",
+"bn": "CFC, যা ঐতিহাসিকভাবে রেফ্রিজারেন্ট এবং প্রোপেলান্ট হিসাবে ব্যবহৃত হতো, স্ট্র্যাটোস্ফিয়ারে অতিবেগুনী রশ্মির নিচে ভেঙে যায় এবং ক্লোরিন র‌্যাডিকেল নির্গত করে যা ওজোনকে ধ্বংস করে।"
+}
+},
+{
+"question": {
+"en": "In pharmaceutical chemistry, why is a fluorine atom frequently swapped into a drug molecule's structure?",
+"bn": "ফার্মাসিউটিক্যাল রসায়নে, কেন একটি ওষুধের অণুর কাঠামোতে প্রায়শই একটি ফ্লুরিন পরমাণু যুক্ত করা হয়?"
+},
+"options": [
+{
+"en": "To make the drug taste sweeter",
+"bn": "ওষুধের স্বাদ মিষ্টি করতে"
+},
+{
+"en": "To increase its metabolic stability and allow it to cross cell membranes easier",
+"bn": "এর বিপাকীয় স্থিতিশীলতা বাড়াতে এবং কোষের ঝিল্লি সহজে অতিক্রম করতে"
+},
+{
+"en": "To make it radioactive",
+"bn": "এটিকে তেজস্ক্রিয় করতে"
+},
+{
+"en": "To change the color of the pill",
+"bn": "পিলের রঙ পরিবর্তন করতে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The strong C-F bond resists breakdown by liver enzymes, extending the drug's half-life, while its lipophilicity helps it enter cells.",
+"bn": "শক্তিশালী C-F বন্ধন লিভারের এনজাইম দ্বারা ভাঙ্গন প্রতিহত করে, ওষুধের অর্ধ-জীবন দীর্ঘায়িত করে, অন্যদিকে এর লিপোফিলিসিটি এটিকে কোষে প্রবেশ করতে সাহায্য করে।"
+}
+},
+{
+"question": {
+"en": "Which of the following is considered a 'forever chemical' class that extensively features highly stable carbon-fluorine bonds?",
+"bn": "নিচের কোনটিকে 'চিরস্থায়ী রাসায়নিক' শ্রেণি হিসেবে বিবেচনা করা হয় যা অত্যন্ত স্থিতিশীল কার্বন-ফ্লুরিন বন্ধন দ্বারা গঠিত?"
+},
+"options": [
+{
+"en": "VOCs",
+"bn": "ভিওসি (VOC)"
+},
+{
+"en": "PCBs",
+"bn": "পিসিবি (PCB)"
+},
+{
+"en": "PFAS",
+"bn": "পিএফএএস (PFAS)"
+},
+{
+"en": "PAHs",
+"bn": "পিএএইচ (PAH)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Per- and polyfluoroalkyl substances (PFAS) are known as forever chemicals because their carbon-fluorine bonds are virtually impossible to break down naturally in the environment.",
+"bn": "পার- এবং পলিফ্লুরোঅ্যালকাইল পদার্থ (PFAS) চিরস্থায়ী রাসায়নিক হিসেবে পরিচিত কারণ পরিবেশে প্রাকৃতিকভাবে এদের কার্বন-ফ্লুরিন বন্ধন ভাঙা প্রায় অসম্ভব।"
+}
+},
+{
+"question": {
+"en": "Hydrofluoric acid (HF) acts as a systemic poison. What critical mineral does it aggressively strip from the human body, causing cardiac arrest?",
+"bn": "হাইড্রোফ্লুরিক অ্যাসিড (HF) একটি সিস্টেমিক বিষ হিসেবে কাজ করে। এটি মানবদেহ থেকে কোন অত্যন্ত গুরুত্বপূর্ণ খনিজটি জোরপূর্বক কেড়ে নিয়ে কার্ডিয়াক অ্যারেস্ট ঘটায়?"
+},
+"options": [
+{
+"en": "Iron",
+"bn": "লোহা"
+},
+{
+"en": "Potassium",
+"bn": "পটাসিয়াম"
+},
+{
+"en": "Calcium",
+"bn": "ক্যালসিয়াম"
+},
+{
+"en": "Sodium",
+"bn": "সোডিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "HF deeply penetrates tissue and binds with calcium to form insoluble calcium fluoride, plummeting blood calcium levels (hypocalcemia), which stops the heart.",
+"bn": "HF টিস্যুর গভীরে প্রবেশ করে এবং ক্যালসিয়ামের সাথে যুক্ত হয়ে অদ্রবণীয় ক্যালসিয়াম ফ্লোরাইড তৈরি করে, ফলে রক্তে ক্যালসিয়ামের মাত্রা মারাত্মকভাবে কমে যায় (হাইপোক্যালসেমিয়া), যা হৃদপিণ্ড বন্ধ করে দেয়।"
+}
+},
+{
+"question": {
+"en": "Fluorine relies on what specific interaction to bond stably with heavy noble gases like Xenon?",
+"bn": "জেননের মতো ভারী নিষ্ক্রিয় গ্যাসগুলোর সাথে স্থিতিশীলভাবে বন্ধন তৈরি করতে ফ্লুরিন কোন নির্দিষ্ট মিথস্ক্রিয়ার উপর নির্ভর করে?"
+},
+"options": [
+{
+"en": "Hydrogen bonding",
+"bn": "হাইড্রোজেন বন্ডিং"
+},
+{
+"en": "Metallic bonding",
+"bn": "মেটালিক বন্ডিং"
+},
+{
+"en": "Its intense electronegativity forces the noble gas to expand its valence shell and share electrons",
+"bn": "এর তীব্র তড়িৎঋণাত্মকতা নিষ্ক্রিয় গ্যাসটিকে তার যোজ্যতা শেল প্রসারিত করতে এবং ইলেকট্রন ভাগ করতে বাধ্য করে"
+},
+{
+"en": "Gravitational pull",
+"bn": "মহাকর্ষীয় টান"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Fluorine is so oxidizing it can pull electron density away from Xenon's full octet, forcing the formation of covalent bonds like in XeF4.",
+"bn": "ফ্লুরিন এতটাই অক্সিডাইজিং যে এটি জেননের সম্পূর্ণ অষ্টক থেকে ইলেকট্রনের ঘনত্ব কেড়ে নিতে পারে, যা XeF4-এর মতো সমযোজী বন্ধন গঠন করতে বাধ্য করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial ore used as the starting material for almost all commercial fluorine chemistry?",
+"bn": "প্রায় সমস্ত বাণিজ্যিক ফ্লুরিন রসায়নের জন্য প্রারম্ভিক উপাদান হিসাবে ব্যবহৃত প্রধান শিল্প আকরিক কোনটি?"
+},
+"options": [
+{
+"en": "Bauxite",
+"bn": "বক্সাইট"
+},
+{
+"en": "Fluorite (Fluorspar)",
+"bn": "ফ্লোরাইট (ফ্লুওরোস্পার)"
+},
+{
+"en": "Hematite",
+"bn": "হেমাটাইট"
+},
+{
+"en": "Galena",
+"bn": "গ্যালেনা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Fluorite (Calcium Fluoride, CaF2) is the primary mineral source, mined as fluorspar.",
+"bn": "ফ্লোরাইট (ক্যালসিয়াম ফ্লোরাইড, CaF2) হলো প্রাথমিক খনিজ উৎস, যা ফ্লুওরোস্পার হিসেবে খনন করা হয়।"
+}
+},
+{
+"question": {
+"en": "Which unique chemical property allows hydrogen fluoride (HF) to exist as a liquid closer to room temperature compared to HCl, which is a gas?",
+"bn": "কোন অনন্য রাসায়নিক বৈশিষ্ট্যের কারণে হাইড্রোজেন ফ্লোরাইড (HF) গ্যাসীয় HCl এর তুলনায় কক্ষ তাপমাত্রার কাছাকাছি তরল হিসেবে থাকতে পারে?"
+},
+"options": [
+{
+"en": "High molar mass",
+"bn": "উচ্চ মোলার ভর"
+},
+{
+"en": "Extreme hydrogen bonding capability due to fluorine's electronegativity",
+"bn": "ফ্লুরিনের তড়িৎঋণাত্মকতার কারণে চরম হাইড্রোজেন বন্ধন ক্ষমতা"
+},
+{
+"en": "Covalent network structure",
+"bn": "কোভ্যালেন্ট নেটওয়ার্ক কাঠামো"
+},
+{
+"en": "It decomposes quickly",
+"bn": "এটি দ্রুত পচে যায়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The huge electronegativity difference between H and F creates very strong intermolecular hydrogen bonds, raising HF's boiling point to 19.5 °C.",
+"bn": "H এবং F এর মধ্যে বিশাল তড়িৎঋণাত্মকতার পার্থক্য অত্যন্ত শক্তিশালী আন্তঃআণবিক হাইড্রোজেন বন্ধন তৈরি করে, যা HF এর স্ফুটনাঙ্ক ১৯.৫ °C এ উন্নীত করে।"
+}
+},
+{
+"question": {
+"en": "Why are fluoropolymers like Teflon so resistant to chemical attacks and heat?",
+"bn": "কেন টেফলনের মতো ফ্লুরোপলিমারগুলি রাসায়নিক আক্রমণ এবং তাপের প্রতি এত বেশি প্রতিরোধী?"
+},
+"options": [
+{
+"en": "They are made of metal",
+"bn": "এগুলি ধাতু দিয়ে তৈরি"
+},
+{
+"en": "The Carbon-Fluorine bond is one of the strongest in organic chemistry",
+"bn": "কার্বন-ফ্লুরিন বন্ধন জৈব রসায়নে সবচেয়ে শক্তিশালী বন্ধনগুলির মধ্যে একটি"
+},
+{
+"en": "They dissolve in water",
+"bn": "এগুলো জলে দ্রবীভূত হয়"
+},
+{
+"en": "They reflect heat due to color",
+"bn": "তারা রঙের কারণে তাপ প্রতিফলিত করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The C-F bond is extremely strong and stable. Furthermore, the bulky fluorine atoms shield the carbon backbone from chemical reactants.",
+"bn": "C-F বন্ধন অত্যন্ত শক্তিশালী এবং স্থিতিশীল। তাছাড়া, বৃহৎ ফ্লুরিন পরমাণুগুলো কার্বনের মেরুদণ্ডকে রাসায়নিক বিক্রিয়ক থেকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "In modern electrical power distribution, what specific gas provides the dielectric insulation inside high-voltage circuit breakers?",
+"bn": "আধুনিক বৈদ্যুতিক বিদ্যুৎ বিতরণে, কোন নির্দিষ্ট গ্যাস উচ্চ-ভোল্টেজ সার্কিট ব্রেকারের ভিতরে ডাইইলেকট্রিক নিরোধক সরবরাহ করে?"
+},
+"options": [
+{
+"en": "Nitrogen",
+"bn": "নাইট্রোজেন"
+},
+{
+"en": "Argon",
+"bn": "আর্গন"
+},
+{
+"en": "Sulfur Hexafluoride (SF6)",
+"bn": "সালফার হেক্সাফ্লুরাইড (SF6)"
+},
+{
+"en": "Carbon Dioxide",
+"bn": "কার্বন ডাই অক্সাইড"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "SF6 is an exceptionally stable, non-flammable gas with excellent insulating properties, though it is also a potent greenhouse gas.",
+"bn": "SF6 হলো একটি ব্যতিক্রমী স্থিতিশীল, অদাহ্য গ্যাস যার চমৎকার অন্তরক বৈশিষ্ট্য রয়েছে, যদিও এটি একটি অত্যন্ত শক্তিশালী গ্রিনহাউস গ্যাস।"
+}
+},
+{
+"question": {
+"en": "Fluorine is part of the Halogen group. What does the word 'halogen' literally mean?",
+"bn": "ফ্লুরিন হ্যালোজেন গ্রুপের অংশ। 'হ্যালোজেন' শব্দটির আক্ষরিক অর্থ কী?"
+},
+"options": [
+{
+"en": "Acid-former",
+"bn": "অ্যাসিড-সৃষ্টিকারী"
+},
+{
+"en": "Salt-producing",
+"bn": "লবণ-উৎপাদনকারী"
+},
+{
+"en": "Light-bringer",
+"bn": "আলোক-বহনকারী"
+},
+{
+"en": "Water-maker",
+"bn": "জল-তৈরীকারী"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The term 'halogen' comes from Greek roots meaning 'salt-producing', as these elements react with metals to produce a wide range of salts (like NaF or NaCl).",
+"bn": "'হ্যালোজেন' শব্দটি গ্রিক মূল থেকে এসেছে যার অর্থ 'লবণ-উৎপাদনকারী', কারণ এই মৌলগুলি ধাতুর সাথে বিক্রিয়া করে প্রচুর পরিমাণে লবণ (যেমন NaF বা NaCl) তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Which modern technology relies heavily on lithium hexafluorophosphate (LiPF6) as a core component?",
+"bn": "কোন আধুনিক প্রযুক্তি লিথিয়াম হেক্সাফ্লুরোফসফেট (LiPF6)-এর ওপর একটি মূল উপাদান হিসেবে ব্যাপকভাবে নির্ভরশীল?"
+},
+"options": [
+{
+"en": "Solar panels",
+"bn": "সোলার প্যানেল"
+},
+{
+"en": "Lithium-ion batteries",
+"bn": "লিথিয়াম-আয়ন ব্যাটারি"
+},
+{
+"en": "Wind turbines",
+"bn": "উইন্ড টারবাইন"
+},
+{
+"en": "Hydrogen fuel cells",
+"bn": "হাইড্রোজেন ফুয়েল সেল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "LiPF6 dissolved in organic carbonates is the universally preferred electrolyte in commercial lithium-ion batteries due to its high conductivity and stability.",
+"bn": "জৈব কার্বোনেটে দ্রবীভূত LiPF6 হলো বাণিজ্যিক লিথিয়াম-আয়ন ব্যাটারিতে এর উচ্চ পরিবাহিতা এবং স্থিতিশীলতার কারণে সর্বজনীনভাবে পছন্দের ইলেক্ট্রোলাইট।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Fluoride in water is a mind-control chemical.",
+"bn": "জলে থাকা ফ্লোরাইড হলো মন-নিয়ন্ত্রণকারী রাসায়নিক।"
+},
+{
+"en": "Hydrofluoric acid is the strongest acid because it eats glass.",
+"bn": "হাইড্রোফ্লুরিক অ্যাসিড হলো সবচেয়ে শক্তিশালী অ্যাসিড কারণ এটি কাঁচ খায়।"
+}
+],
+"learningTips": [
+{
+"en": "Remember that Fluorine has the highest electronegativity (3.98). It is the 'ultimate electron thief' of the periodic table.",
+"bn": "মনে রাখবেন যে ফ্লুরিনের সর্বোচ্চ তড়িৎঋণাত্মকতা (৩.৯৮) রয়েছে। এটি পর্যায় সারণির 'চূড়ান্ত ইলেকট্রন চোর'।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "H₂ + F₂ → 2HF",
+"description": {
+"en": "Explosive combination of hydrogen and fluorine gas, which occurs spontaneously even in the dark.",
+"bn": "হাইড্রোজেন এবং ফ্লুরিন গ্যাসের বিস্ফোরক সংমিশ্রণ, যা অন্ধকারেও স্বতঃস্ফূর্তভাবে ঘটে।"
+}
+},
+{
+"equation": "SiO₂ + 4HF → SiF₄ + 2H₂O",
+"description": {
+"en": "The reaction of hydrofluoric acid with silicon dioxide, responsible for etching glass.",
+"bn": "সিলিকন ডাই অক্সাইডের সাথে হাইড্রোফ্লুরিক অ্যাসিডের বিক্রিয়া, যা কাঁচ খোদাই করার জন্য দায়ী।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "2Cl⁻ + F₂ → Cl₂ + 2F⁻",
+"description": {
+"en": "Fluorine rapidly oxidizes chloride ions to chlorine gas because fluorine is a stronger oxidizing agent.",
+"bn": "ফ্লুরিন দ্রুত ক্লোরাইড আয়নকে জারিত করে ক্লোরিন গ্যাসে পরিণত করে কারণ ফ্লুরিন একটি শক্তিশালী জারক পদার্থ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "F₂ + 2e⁻ → 2F⁻",
+"description": {
+"en": "Fluorine easily gains electrons (reduction) due to its high electronegativity.",
+"bn": "উচ্চ তড়িৎঋণাত্মকতার কারণে ফ্লুরিন সহজেই ইলেকট্রন লাভ করে (বিজারণ)।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Polar Covalent Bond",
+"bn": "পোলার কোভ্যালেন্ট বন্ধন"
+},
+"molecule": "HF",
+"description": {
+"en": "Fluorine unequally shares an electron with hydrogen, creating a highly polar molecule capable of strong hydrogen bonding.",
+"bn": "ফ্লুরিন অমসানভাবে হাইড্রোজেনের সাথে একটি ইলেকট্রন ভাগ করে, একটি অত্যন্ত পোলার অণু তৈরি করে যা শক্তিশালী হাইড্রোজেন বন্ধন গঠনে সক্ষম।"
+}
+}
+]
+}
+}

@@ -1,0 +1,986 @@
+{
+"elementId": 8,
+"basicInformation": {
+"atomicNumber": 8,
+"symbol": "O",
+"name": {
+"en": "Oxygen",
+"bn": "অক্সিজেন"
+},
+"pronunciation": {
+"en": "/ˈɒksɪdʒən/",
+"bn": "অক-সি-জেন"
+},
+"atomicMass": 15.999,
+"category": {
+"en": "Reactive nonmetal",
+"bn": "সক্রিয় অধাতু"
+},
+"group": 16,
+"period": 2,
+"block": "p",
+"phase": {
+"en": "Gas",
+"bn": "গ্যাস"
+},
+"appearance": {
+"en": "Colorless gas, pale blue liquid",
+"bn": "বর্ণহীন গ্যাস, ফ্যাকাশে নীল তরল"
+},
+"color": {
+"en": "Colorless",
+"bn": "বর্ণহীন"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Carl Wilhelm Scheele and Joseph Priestley",
+"bn": "কার্ল উইলহেম শিলি এবং জোসেফ প্রিস্টলি"
+},
+"discoveryYear": 1774,
+"discoveryLocation": {
+"en": "Sweden / United Kingdom",
+"bn": "সুইডেন / যুক্তরাজ্য"
+},
+"discoveryStory": {
+"en": "Scheele first produced oxygen by heating mercuric oxide in 1772, but Priestley published his findings first in 1774. Antoine Lavoisier named it 'oxygen' meaning 'acid-former' in Greek.",
+"bn": "শিলি ১৭৭২ সালে মারকিউরিক অক্সাইড গরম করে প্রথম অক্সিজেন তৈরি করেন, তবে প্রিস্টলি ১৭৭৪ সালে প্রথম তার ফলাফল প্রকাশ করেন। অ্যান্টোইন ল্যাভয়সিয়ে এর নাম রাখেন 'অক্সিজেন' যার গ্রিক অর্থ 'অ্যাসিড-সৃষ্টিকারী'।"
+},
+"historicalUses": {
+"en": "Historically fundamental in disproving the phlogiston theory of combustion, paving the way for modern quantitative chemistry.",
+"bn": "দহনের ফ্লজিস্টন তত্ত্বকে ভুল প্রমাণ করতে ঐতিহাসিকভাবে এটি মৌলিক ভূমিকা পালন করে, যা আধুনিক পরিমাণগত রসায়নের পথ প্রশস্ত করে।"
+},
+"famousExperiments": {
+"en": "Priestley's experiment of focusing sunlight on mercuric oxide using a burning glass to capture the 'dephlogisticated air'.",
+"bn": "প্রিস্টলির পরীক্ষা যেখানে তিনি 'ডিফ্লজিস্টিকেটেড বায়ু' ক্যাপচার করতে একটি বার্নিং গ্লাস ব্যবহার করে মারকিউরিক অক্সাইডের উপর সূর্যালোক ঘনীভূত করেছিলেন।"
+}
+},
+"atomicStructure": {
+"protons": 8,
+"neutrons": 8,
+"electrons": 8,
+"valenceElectrons": 6,
+"shells": 2,
+"shellDistribution": [2, 6],
+"electronConfiguration": "1s² 2s² 2p⁴",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 4
+},
+"oxidationStates": [-2, -1, 1, 2],
+"quantumNumbers": {
+"principal": 2,
+"azimuthal": 1,
+"magnetic": -1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 0.001429,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 54.36,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 90.188,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 48,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 66,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 152,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 0.02658,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": null,
+"specificHeat": {
+"value": 0.918,
+"unit": "J/(g·K)"
+},
+"hardness": null,
+"crystalStructure": {
+"en": "Cubic (in solid state)",
+"bn": "ঘনকাকার (কঠিন অবস্থায়)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 3.44,
+"ionizationEnergy": {
+"value": 1313.9,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 141.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Highly reactive nonmetal and strong oxidizing agent that readily forms oxides with most elements.",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল অধাতু এবং শক্তিশালী জারক যা সহজেই বেশিরভাগ উপাদানের সাথে অক্সাইড গঠন করে।"
+},
+"commonCompounds": ["H₂O", "CO₂", "O₂", "O₃", "SiO₂", "Fe₂O₃"],
+"flameTestColor": null,
+"spectralLines": ["777.19nm", "777.42nm", "777.54nm", "844.64nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Basic Oxygen Steelmaking (BOS), smelting of iron ore, synthesis of ethylene oxide, and syngas production.",
+"bn": "বেসিক অক্সিজেন স্টিলমেকিং (BOS), আকরিক লোহা গলানো, ইথিলিন অক্সাইড সংশ্লেষণ এবং সিনগ্যাস উৎপাদন।"
+},
+"commercialUses": {
+"en": "Oxy-acetylene welding, cutting of metals, and municipal water treatment via ozone.",
+"bn": "অক্সি-অ্যাসিটিলিন ঢালাই, ধাতু কাটা এবং ওজোনের মাধ্যমে পৌরসভার জল শোধন।"
+},
+"electronicsUses": {
+"en": "High-purity oxygen is used in silicon dioxide growth for semiconductor manufacturing.",
+"bn": "সেমিকন্ডাক্টর তৈরির জন্য সিলিকন ডাই অক্সাইড বৃদ্ধিতে উচ্চ-বিশুদ্ধ অক্সিজেন ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "Crucial for growing insulating oxide layers on silicon wafers during thermal oxidation.",
+"bn": "থার্মাল অক্সিডেশনের সময় সিলিকন ওয়েফারে অন্তরক অক্সাইড স্তর বৃদ্ধির জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"aerospaceUses": {
+"en": "Liquid Oxygen (LOX) is the standard and most widely used oxidizer in orbital rocket engines.",
+"bn": "তরল অক্সিজেন (LOX) হলো অরবিটাল রকেট ইঞ্জিনগুলোতে সবচেয়ে বহুল ব্যবহৃত এবং মানসম্মত অক্সিডাইজার (জারক)।"
+},
+"batteryUses": {
+"en": "Lithium-oxygen (lithium-air) batteries represent a futuristic, high-density energy storage concept.",
+"bn": "লিথিয়াম-অক্সিজেন (লিথিয়াম-এয়ার) ব্যাটারি একটি ভবিষ্যতমুখী, উচ্চ-ঘনত্বের শক্তি স্টোরেজ ধারণার প্রতিনিধিত্ব করে।"
+},
+"aiHardwareUses": {
+"en": "Oxygen-free highly conductive copper (OFHC) is vital for thermal dissipation and electrical pathways in high-performance AI GPUs.",
+"bn": "উচ্চ-ক্ষমতাসম্পন্ন এআই জিপিইউ-তে তাপ নির্গমন এবং বৈদ্যুতিক পথের জন্য অক্সিজেন-মুক্ত উচ্চ পরিবাহী তামা (OFHC) অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"renewableEnergyUses": {
+"en": "Byproduct of water electrolysis in green hydrogen production, potentially useful for co-located industries.",
+"bn": "সবুজ হাইড্রোজেন উৎপাদনে জল তড়িৎ বিশ্লেষণের উপজাত, যা সহ-অবস্থিত শিল্পগুলির জন্য সম্ভাব্য দরকারী।"
+},
+"nanotechnologyUses": {
+"en": "Fabrication of precise metal oxide nanoparticles and quantum dots for advanced displays.",
+"bn": "উন্নত ডিসপ্লের জন্য সুনির্দিষ্ট মেটাল অক্সাইড ন্যানো পার্টিকেল এবং কোয়ান্টাম ডট তৈরি করা।"
+},
+"nuclearUses": {
+"en": "Uranium dioxide (UO2) is the primary fuel form utilized in commercial nuclear light-water reactors.",
+"bn": "বাণিজ্যিক পারমাণবিক লাইট-ওয়াটার চুল্লিতে প্রাথমিক জ্বালানী ফর্ম হিসাবে ইউরেনিয়াম ডাই অক্সাইড (UO2) ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Life support systems in submarines, high-altitude aircraft, and as an oxidizer in torpedoes.",
+"bn": "সাবমেরিন, উচ্চ-উচ্চতার বিমানে লাইফ সাপোর্ট সিস্টেম এবং টর্পেডোতে জারক হিসাবে।"
+},
+"medicalUses": {
+"en": "Supplemental oxygen therapy, life support for ventilated patients, and hyperbaric oxygen chambers.",
+"bn": "পরিপূরক অক্সিজেন থেরাপি, ভেন্টিলেটেড রোগীদের জন্য লাইফ সাপোর্ট এবং হাইপারবারিক অক্সিজেন চেম্বার।"
+},
+"foodIndustryUses": {
+"en": "Modified atmosphere packaging occasionally uses oxygen to maintain red color in fresh meats.",
+"bn": "সংশোধিত বায়ুমণ্ডলীয় প্যাকেজিংয়ে তাজা মাংসের লাল রঙ বজায় রাখার জন্য মাঝে মাঝে অক্সিজেন ব্যবহার করা হয়।"
+},
+"constructionUses": {
+"en": "Essential in the manufacturing of cement and glass where high-temperature combustion is required.",
+"bn": "সিমেন্ট এবং কাঁচ তৈরিতে অপরিহার্য যেখানে উচ্চ তাপমাত্রার দহন প্রয়োজন।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Essential for all aerobic life. Acts as the final electron acceptor in the cellular respiration electron transport chain.",
+"bn": "সমস্ত বায়বীয় জীবনের জন্য অপরিহার্য। সেলুলার রেসপিরেশন ইলেকট্রন ট্রান্সপোর্ট চেইনে চূড়ান্ত ইলেকট্রন গ্রহণকারী হিসেবে কাজ করে।"
+},
+"humanBodyRole": {
+"en": "Makes up ~65% of human body mass. Bound to hemoglobin for transport to tissues to generate ATP.",
+"bn": "মানবদেহের ভরের প্রায় ৬৫% গঠন করে। এটিপি তৈরি করতে টিস্যুতে পরিবহনের জন্য হিমোগ্লোবিনের সাথে আবদ্ধ থাকে।"
+},
+"toxicity": {
+"en": "Can cause oxygen toxicity (hyperoxia) at elevated partial pressures, leading to seizures and cellular damage via free radicals.",
+"bn": "উচ্চ আংশিক চাপে অক্সিজেন বিষাক্ততা (হাইপারক্সিয়া) সৃষ্টি করতে পারে, যা খিঁচুনি এবং ফ্রি র্যাডিকেলের মাধ্যমে সেলুলার ক্ষতির দিকে পরিচালিত করে।"
+},
+"environmentalImpact": {
+"en": "Drives the oxidation of organic and inorganic matter. The ozone layer (O3) protects the biosphere from lethal UV radiation.",
+"bn": "জৈব এবং অজৈব পদার্থের জারণ ঘটায়। ওজোন স্তর (O3) জীবমণ্ডলকে মারাত্মক অতিবেগুনী বিকিরণ থেকে রক্ষা করে।"
+},
+"pollutionRisks": {
+"en": "Ground-level ozone is a harmful pollutant causing respiratory issues and agricultural damage.",
+"bn": "ভূপৃষ্ঠ-স্তরের ওজোন একটি ক্ষতিকারক দূষক যা শ্বাসকষ্ট এবং কৃষি ক্ষতি করে।"
+},
+"recyclingMethods": {
+"en": "Naturally recycled through the biogeochemical oxygen cycle, primarily driven by photosynthesis.",
+"bn": "প্রাকৃতিকভাবে জৈব-ভূ-রাসায়নিক অক্সিজেন চক্রের মাধ্যমে পুনর্ব্যবহৃত হয়, যা প্রাথমিকভাবে সালোকসংশ্লেষণ দ্বারা পরিচালিত।"
+},
+"sustainabilityScore": 10.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Germany",
+"bn": "জার্মানি"
+}
+],
+"miningMethods": {
+"en": "Extracted from air via cryogenic fractional distillation, or on a smaller scale via vacuum swing adsorption (VSA).",
+"bn": "ক্রায়োজেনিক ভগ্নাংশ পাতনের মাধ্যমে বায়ু থেকে নিষ্কাশিত হয়, অথবা ছোট পরিসরে ভ্যাকুয়াম সুইং শোষণ (VSA) এর মাধ্যমে।"
+},
+"abundance": {
+"universe": {
+"en": "1% by mass (3rd most abundant)",
+"bn": "ভর অনুযায়ী ১% (৩য় সর্বাধিক প্রচুর)"
+},
+"earthCrust": {
+"en": "46.6% by mass (Most abundant)",
+"bn": "ভর অনুযায়ী ৪৬.৬% (সবচেয়ে প্রচুর)"
+},
+"oceans": {
+"en": "86% by mass",
+"bn": "ভর অনুযায়ী ৮৬%"
+}
+},
+"marketValue": {
+"en": "Industrial liquid oxygen ranges roughly from $0.15 to $0.30 per kg depending on purity and scale.",
+"bn": "বিশুদ্ধতা এবং স্কেলের উপর নির্ভর করে শিল্প তরল অক্সিজেনের দাম প্রতি কেজি প্রায় $০.১৫ থেকে $০.৩০ পর্যন্ত।"
+},
+"futureDemand": {
+"en": "Demand is steadily growing, driven by healthcare needs, steel production, and aerospace expansion.",
+"bn": "স্বাস্থ্যসেবার চাহিদা, ইস্পাত উৎপাদন এবং মহাকাশ খাতের সম্প্রসারণের কারণে এর চাহিদা ক্রমাগত বাড়ছে।"
+},
+"globalImportance": {
+"en": "A fundamental commodity chemical underlying modern heavy industry, medicine, and aerospace infrastructure.",
+"bn": "আধুনিক ভারী শিল্প, চিকিৎসা এবং মহাকাশ পরিকাঠামোর অন্তর্নিহিত একটি মৌলিক পণ্য রাসায়নিক।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Non-flammable itself, but vigorously accelerates combustion. Materials that do not normally burn in air may burn violently in pure oxygen.",
+"bn": "নিজে দাহ্য নয়, তবে তীব্রভাবে দহনকে ত্বরান্বিত করে। যেসব পদার্থ সাধারণত বাতাসে পোড়ে না তা বিশুদ্ধ অক্সিজেনে হিংস্রভাবে পুড়তে পারে।"
+},
+"storageRequirements": {
+"en": "Store in clean, grease-free cylinders away from combustibles and ignition sources. Liquid oxygen requires specialized cryogenic Dewars.",
+"bn": "দাহ্য পদার্থ এবং ইগনিশন উত্স থেকে দূরে পরিষ্কার, গ্রীস-মুক্ত সিলিন্ডারে সংরক্ষণ করুন। তরল অক্সিজেনের জন্য বিশেষ ক্রায়োজেনিক ডিওয়ার প্রয়োজন।"
+},
+"handlingProcedures": {
+"en": "Absolutely no oils, greases, or hydrocarbons near oxygen equipment to prevent spontaneous explosive ignition.",
+"bn": "স্বতঃস্ফূর্ত বিস্ফোরক ইগনিশন প্রতিরোধ করার জন্য অক্সিজেন সরঞ্জামের কাছাকাছি কোনো তেল, গ্রীস বা হাইড্রোকার্বন ব্যবহার সম্পূর্ণ নিষেধ।"
+},
+"exposureRisks": {
+"en": "Prolonged breathing of pure oxygen at atmospheric pressure can cause lung damage (Lorrain Smith effect).",
+"bn": "বায়ুমণ্ডলীয় চাপে দীর্ঘক্ষণ বিশুদ্ধ অক্সিজেন শ্বাস নিলে ফুসফুসের ক্ষতি হতে পারে (লরেন স্মিথ প্রভাব)।"
+},
+"safetyLevel": {
+"en": "Moderate Risk (Oxidizer Hazard)",
+"bn": "মাঝারি ঝুঁকি (অক্সিডাইজার বিপদ)"
+},
+"hazardClassifications": [
+{
+"en": "Oxidizing Gas",
+"bn": "অক্সিডাইজিং গ্যাস"
+},
+{
+"en": "Compressed Gas",
+"bn": "সংকুচিত গ্যাস"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Oxygen is the gas we breathe to stay alive. It makes up the water we drink and the ground we walk on, and it makes fires burn.",
+"bn": "অক্সিজেন হলো সেই গ্যাস যা আমরা বেঁচে থাকার জন্য শ্বাস নিই। এটি আমরা যে জল পান করি এবং যে মাটিতে আমরা হাঁটি তা তৈরি করে, এবং এটি আগুন জ্বালাতে সাহায্য করে।"
+},
+"advancedExplanation": {
+"en": "A highly electronegative chalcogen with a triplet ground state, characterized by two unpaired electrons in antibonding orbitals, explaining its paramagnetism and reactivity as a potent diradical oxidizer.",
+"bn": "একটি উচ্চ তড়িৎঋণাত্মক চ্যালকোজেন যার গ্রাউন্ড স্টেট ট্রিপলেট, যা অ্যান্টিবন্ডিং অরবিটালে দুটি বিজোড় ইলেকট্রন দ্বারা চিহ্নিত, যা এর প্যারাম্যাগনেটিজম এবং একটি শক্তিশালী ডির‍্যাডিক্যাল অক্সিডাইজার হিসাবে প্রতিক্রিয়াশীলতা ব্যাখ্যা করে।"
+},
+"funFacts": [
+{
+"en": "Liquid and solid oxygen are naturally pale blue, unlike the colorless gas we breathe.",
+"bn": "তরল এবং কঠিন অক্সিজেন প্রাকৃতিকভাবে ফ্যাকাশে নীল রঙের হয়, যা আমাদের শ্বাস নেওয়া বর্ণহীন গ্যাসের বিপরীত।"
+},
+{
+"en": "The Earth's atmosphere had almost no free oxygen until cyanobacteria started producing it 2.4 billion years ago.",
+"bn": "২৪০ কোটি বছর আগে সায়ানোব্যাকটেরিয়া এটি উৎপাদন শুরু করার আগে পৃথিবীর বায়ুমণ্ডলে প্রায় কোনো মুক্ত অক্সিজেন ছিল না।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 16,
+"relation": {
+"en": "Like its group-mate Sulfur, Oxygen forms -2 ions, but it is much more electronegative and strictly prefers gaseous or discrete liquid/solid states rather than complex rings.",
+"bn": "এর গ্রুপ-সঙ্গী সালফারের মতো, অক্সিজেন -2 আয়ন গঠন করে, তবে এটি অনেক বেশি তড়িৎঋণাত্মক এবং জটিল রিং এর পরিবর্তে গ্যাসিও বা তরল/কঠিন অবস্থাকেই কঠোরভাবে পছন্দ করে।"
+}
+}
+],
+"relatedElements": [1, 6, 7, 9, 16],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the most abundant element in the Earth's crust by mass?",
+"bn": "ভর অনুযায়ী ভূত্বকে সবচেয়ে বেশি পরিমাণে থাকা উপাদান কোনটি?"
+},
+"options": [
+{
+"en": "Silicon",
+"bn": "সিলিকন"
+},
+{
+"en": "Iron",
+"bn": "লোহা"
+},
+{
+"en": "Oxygen",
+"bn": "অক্সিজেন"
+},
+{
+"en": "Aluminum",
+"bn": "অ্যালুমিনিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Oxygen makes up roughly 46.6% of the Earth's crust by mass, mostly bound in silicate minerals.",
+"bn": "অক্সিজেন পৃথিবীর ভূত্বকের ভরের প্রায় ৪৬.৬% তৈরি করে, যা বেশিরভাগ সিলিকেট খনিজ পদার্থে আবদ্ধ থাকে।"
+}
+},
+{
+"question": {
+"en": "Which allotrope of oxygen is responsible for absorbing harmful ultraviolet radiation in the Earth's stratosphere?",
+"bn": "পৃথিবীর স্ট্র্যাটোস্ফিয়ারে ক্ষতিকারক অতিবেগুনী বিকিরণ শোষণের জন্য অক্সিজেনের কোন রূপভেদ দায়ী?"
+},
+"options": [
+{
+"en": "Diatomic Oxygen (O2)",
+"bn": "ডায়াটমিক অক্সিজেন (O2)"
+},
+{
+"en": "Ozone (O3)",
+"bn": "ওজোন (O3)"
+},
+{
+"en": "Tetraoxygen (O4)",
+"bn": "টেট্রাঅক্সিজেন (O4)"
+},
+{
+"en": "Atomic Oxygen (O)",
+"bn": "পারমাণবিক অক্সিজেন (O)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ozone (O3) forms the ozone layer, which filters out most of the sun's lethal UV-B and UV-C radiation.",
+"bn": "ওজোন (O3) ওজোন স্তর গঠন করে, যা সূর্যের বেশিরভাগ মারাত্মক অতিবেগুনী (UV-B এবং UV-C) বিকিরণকে ফিল্টার করে।"
+}
+},
+{
+"question": {
+"en": "Why is liquid oxygen (LOX) visibly pale blue in color?",
+"bn": "তরল অক্সিজেন (LOX) দৃশ্যত ফ্যাকাশে নীল রঙের হয় কেন?"
+},
+"options": [
+{
+"en": "Due to dissolved nitrogen impurities",
+"bn": "দ্রবীভূত নাইট্রোজেন অমেধ্যের কারণে"
+},
+{
+"en": "Rayleigh scattering of light",
+"bn": "আলোর রেলেইগ স্ক্যাটারিং"
+},
+{
+"en": "Electronic transitions absorbing red light",
+"bn": "ইলেকট্রনিক ট্রানজিশন যা লাল আলো শোষণ করে"
+},
+{
+"en": "Refraction from ice crystals",
+"bn": "বরফের স্ফটিক থেকে প্রতিসরণ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The pale blue color comes from simultaneous electronic transitions of paired oxygen molecules absorbing red light.",
+"bn": "ফ্যাকাশে নীল রঙটি আসে জোড়াবদ্ধ অক্সিজেন অণুগুলোর যুগপৎ ইলেকট্রনিক ট্রানজিশনের কারণে, যা লাল আলোকে শোষণ করে।"
+}
+},
+{
+"question": {
+"en": "In molecular orbital theory, what specific characteristic explains why liquid oxygen is attracted to a magnet?",
+"bn": "আণবিক অরবিটাল তত্ত্বে, কোন নির্দিষ্ট বৈশিষ্ট্যের কারণে তরল অক্সিজেন চুম্বকের প্রতি আকৃষ্ট হয়?"
+},
+"options": [
+{
+"en": "It has empty d-orbitals",
+"bn": "এর ফাঁকা d-অরবিটাল আছে"
+},
+{
+"en": "Two unpaired electrons in its pi-antibonding orbitals",
+"bn": "এর পাই-অ্যান্টিবন্ডিং অরবিটালে দুটি বিজোড় ইলেকট্রন"
+},
+{
+"en": "High electronegativity",
+"bn": "উচ্চ তড়িৎঋণাত্মকতা"
+},
+{
+"en": "A net positive formal charge",
+"bn": "একটি নেট ধনাত্মক ফর্মাল আধান"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The two unpaired electrons make the O2 molecule paramagnetic, meaning it is weakly attracted to magnetic fields.",
+"bn": "দুটি বিজোড় ইলেকট্রন O2 অণুকে প্যারাম্যাগনেটিক করে তোলে, যার অর্থ এটি চৌম্বক ক্ষেত্রের প্রতি দুর্বলভাবে আকৃষ্ট হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary commercial method for producing large quantities of pure oxygen gas?",
+"bn": "প্রচুর পরিমাণে বিশুদ্ধ অক্সিজেন গ্যাস তৈরির প্রাথমিক বাণিজ্যিক পদ্ধতি কোনটি?"
+},
+"options": [
+{
+"en": "Electrolysis of water",
+"bn": "জলের তড়িৎ বিশ্লেষণ"
+},
+{
+"en": "Decomposition of hydrogen peroxide",
+"bn": "হাইড্রোজেন পারক্সাইডের পচন"
+},
+{
+"en": "Fractional distillation of liquid air",
+"bn": "তরল বায়ুর আংশিক পাতন"
+},
+{
+"en": "Heating potassium chlorate",
+"bn": "পটাসিয়াম ক্লোরেট গরম করা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Air is cooled until it liquefies, and then its components are separated based on their different boiling points via fractional distillation.",
+"bn": "বায়ুকে তরল না হওয়া পর্যন্ত ঠাণ্ডা করা হয় এবং তারপর এর উপাদানগুলোকে আংশিক পাতনের মাধ্যমে তাদের বিভিন্ন স্ফুটনাঙ্কের উপর ভিত্তি করে আলাদা করা হয়।"
+}
+},
+{
+"question": {
+"en": "In the molecule Oxygen Difluoride (OF2), what is the oxidation state of oxygen?",
+"bn": "অক্সিজেন ডাইফ্লুরাইড (OF2) অণুতে অক্সিজেনের জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "-2",
+"bn": "-২"
+},
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "0",
+"bn": "০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because Fluorine is the only element more electronegative than Oxygen, Oxygen loses electron density and takes a +2 oxidation state.",
+"bn": "যেহেতু ফ্লুরিন হলো একমাত্র মৌল যা অক্সিজেনের চেয়ে বেশি তড়িৎঋণাত্মক, তাই অক্সিজেন ইলেকট্রন ঘনত্ব হারায় এবং +২ জারণ অবস্থা গ্রহণ করে।"
+}
+},
+{
+"question": {
+"en": "Which major biological process is responsible for maintaining the high concentration of oxygen in Earth's atmosphere?",
+"bn": "পৃথিবীর বায়ুমণ্ডলে অক্সিজেনের উচ্চ ঘনত্ব বজায় রাখার জন্য কোন প্রধান জৈবিক প্রক্রিয়া দায়ী?"
+},
+"options": [
+{
+"en": "Respiration",
+"bn": "শ্বসন"
+},
+{
+"en": "Chemosynthesis",
+"bn": "কেমোসিন্থেসিস"
+},
+{
+"en": "Photosynthesis",
+"bn": "সালোকসংশ্লেষণ"
+},
+{
+"en": "Nitrogen Fixation",
+"bn": "নাইট্রোজেন ফিক্সেশন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Plants, algae, and cyanobacteria produce oxygen as a byproduct of photosynthesis, constantly replenishing the atmosphere.",
+"bn": "উদ্ভিদ, শেত্তলা এবং সায়ানোব্যাকটেরিয়া সালোকসংশ্লেষণের উপজাত হিসাবে অক্সিজেন তৈরি করে, যা ক্রমাগত বায়ুমণ্ডলকে পুনরায় পূর্ণ করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary role of oxygen in the process of cellular respiration?",
+"bn": "কোষীয় শ্বসন প্রক্রিয়ায় অক্সিজেনের প্রাথমিক ভূমিকা কী?"
+},
+"options": [
+{
+"en": "It stores glucose in cells",
+"bn": "এটি কোষে গ্লুকোজ সঞ্চয় করে"
+},
+{
+"en": "It acts as the final electron acceptor in the electron transport chain",
+"bn": "এটি ইলেকট্রন ট্রান্সপোর্ট চেইনে চূড়ান্ত ইলেকট্রন গ্রহণকারী হিসাবে কাজ করে"
+},
+{
+"en": "It breaks down proteins into amino acids",
+"bn": "এটি প্রোটিনকে অ্যামিনো অ্যাসিডে ভেঙে দেয়"
+},
+{
+"en": "It transports carbon dioxide out of the lungs",
+"bn": "এটি ফুসফুস থেকে কার্বন ডাই অক্সাইড পরিবহন করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "At the end of the electron transport chain, oxygen captures depleted electrons and binds with protons to form water, enabling continuous ATP production.",
+"bn": "ইলেকট্রন ট্রান্সপোর্ট চেইনের শেষে, অক্সিজেন ক্ষয়প্রাপ্ত ইলেকট্রনগুলো ক্যাপচার করে এবং প্রোটনের সাথে আবদ্ধ হয়ে জল তৈরি করে, যা ক্রমাগত এটিপি উৎপাদন সক্ষম করে।"
+}
+},
+{
+"question": {
+"en": "Which common isotope of oxygen is predominantly used in paleoclimatology to estimate historical global temperatures from ice cores?",
+"bn": "বরফের কোর থেকে ঐতিহাসিক বৈশ্বিক তাপমাত্রা অনুমান করার জন্য পেলিওক্লাইমেটোলজিতে অক্সিজেনের কোন সাধারণ আইসোটোপটি প্রধানত ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Oxygen-15",
+"bn": "অক্সিজেন-১৫"
+},
+{
+"en": "Oxygen-16",
+"bn": "অক্সিজেন-১৬"
+},
+{
+"en": "Oxygen-17",
+"bn": "অক্সিজেন-১৭"
+},
+{
+"en": "Oxygen-18",
+"bn": "অক্সিজেন-১৮"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The ratio of Oxygen-18 to Oxygen-16 in ice cores varies with temperature, providing a reliable proxy record for ancient climates.",
+"bn": "বরফের কোরগুলিতে অক্সিজেন-১৮ থেকে অক্সিজেন-১৬ এর অনুপাত তাপমাত্রার সাথে পরিবর্তিত হয়, যা প্রাচীন জলবায়ুর জন্য একটি নির্ভরযোগ্য প্রক্সি রেকর্ড প্রদান করে।"
+}
+},
+{
+"question": {
+"en": "In the basic oxygen steelmaking (BOS) process, why is supersonic pure oxygen blown into molten pig iron?",
+"bn": "বেসিক অক্সিজেন স্টিলমেকিং (BOS) প্রক্রিয়ায় কেন গলিত পিগ আয়রনের মধ্যে সুপারসনিক বিশুদ্ধ অক্সিজেন ব্লো করা হয়?"
+},
+"options": [
+{
+"en": "To cool the molten metal",
+"bn": "গলিত ধাতু ঠান্ডা করতে"
+},
+{
+"en": "To increase the carbon content",
+"bn": "কার্বন উপাদান বৃদ্ধি করতে"
+},
+{
+"en": "To oxidize and remove impurities like carbon and silicon",
+"bn": "কার্বন এবং সিলিকনের মতো অমেধ্যকে জারিত করতে এবং অপসারণ করতে"
+},
+{
+"en": "To prevent the iron from rusting",
+"bn": "লোহাতে মরিচা পড়া রোধ করতে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The oxygen reacts exothermically with excess carbon (forming CO/CO2) and other impurities, refining the brittle pig iron into tough steel.",
+"bn": "অক্সিজেন অতিরিক্ত কার্বন (CO/CO2 গঠন করে) এবং অন্যান্য অমেধ্যের সাথে এক্সোথার্মিকভাবে বিক্রিয়া করে, ভঙ্গুর পিগ আয়রনকে শক্ত ইস্পাতে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "What happens if a human breathes 100% pure oxygen at pressures higher than normal atmospheric pressure for a prolonged period?",
+"bn": "যদি একজন মানুষ স্বাভাবিক বায়ুমণ্ডলীয় চাপের চেয়ে বেশি চাপে দীর্ঘক্ষণ ১০০% বিশুদ্ধ অক্সিজেন শ্বাস নেয় তবে কী ঘটে?"
+},
+"options": [
+{
+"en": "They become immune to respiratory diseases",
+"bn": "তারা শ্বাসকষ্টজনিত রোগ থেকে প্রতিরোধী হয়ে ওঠে"
+},
+{
+"en": "They experience oxygen toxicity, leading to cell death and seizures",
+"bn": "তারা অক্সিজেন বিষাক্ততা অনুভব করে, যার ফলে কোষের মৃত্যু এবং খিঁচুনি হয়"
+},
+{
+"en": "Their blood turns bright blue",
+"bn": "তাদের রক্ত উজ্জ্বল নীল হয়ে যায়"
+},
+{
+"en": "Their metabolic rate slows down completely",
+"bn": "তাদের বিপাকীয় হার সম্পূর্ণভাবে ধীর হয়ে যায়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Central nervous system oxygen toxicity can cause sudden convulsions and is a major hazard in deep-sea diving.",
+"bn": "সেন্ট্রাল নার্ভাস সিস্টেমে অক্সিজেনের বিষাক্ততা হঠাৎ খিঁচুনির কারণ হতে পারে এবং এটি গভীর সমুদ্রে ডাইভিং করার সময় একটি বড় বিপদ।"
+}
+},
+{
+"question": {
+"en": "In a standard hydrogen-oxygen fuel cell, what reaction occurs at the cathode?",
+"bn": "একটি আদর্শ হাইড্রোজেন-অক্সিজেন ফুয়েল সেলে, ক্যাথোডে কী বিক্রিয়া ঘটে?"
+},
+"options": [
+{
+"en": "Oxygen is oxidized to form water",
+"bn": "অক্সিজেন জারিত হয়ে জল গঠন করে"
+},
+{
+"en": "Hydrogen is reduced to form protons",
+"bn": "হাইড্রোজেন বিজারিত হয়ে প্রোটন গঠন করে"
+},
+{
+"en": "Oxygen molecules gain electrons and react with protons to form water",
+"bn": "অক্সিজেন অণুগুলি ইলেকট্রন লাভ করে এবং প্রোটনের সাথে বিক্রিয়া করে জল তৈরি করে"
+},
+{
+"en": "Water splits into hydrogen and oxygen",
+"bn": "জল বিভক্ত হয়ে হাইড্রোজেন এবং অক্সিজেন তৈরি করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "At the cathode, oxygen acts as the electron acceptor, combining with electrons (from the circuit) and protons (from the electrolyte) to produce water.",
+"bn": "ক্যাথোডে, অক্সিজেন ইলেকট্রন গ্রহণকারী হিসেবে কাজ করে, যা (সার্কিট থেকে) ইলেকট্রন এবং (ইলেক্ট্রোলাইট থেকে) প্রোটনের সাথে যুক্ত হয়ে জল তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Why must extreme care be taken to ensure no oil or grease is present on oxygen cylinder valves?",
+"bn": "অক্সিজেন সিলিন্ডারের ভালভগুলিতে কোনো তেল বা গ্রীস যাতে উপস্থিত না থাকে তা নিশ্চিত করার জন্য চরম যত্ন নেওয়া আবশ্যক কেন?"
+},
+"options": [
+{
+"en": "Oil turns into a toxic gas when exposed to oxygen",
+"bn": "অক্সিজেনের সংস্পর্শে এলে তেল বিষাক্ত গ্যাসে পরিণত হয়"
+},
+{
+"en": "Pressurized oxygen violently reacts with hydrocarbons, causing spontaneous explosions",
+"bn": "চাপযুক্ত অক্সিজেন হাইড্রোকার্বনের সাথে হিংস্রভাবে বিক্রিয়া করে স্বতঃস্ফূর্ত বিস্ফোরণ ঘটায়"
+},
+{
+"en": "Grease causes the cylinder valve to freeze shut",
+"bn": "গ্রীস সিলিন্ডারের ভালভকে জমে বন্ধ করে দেয়"
+},
+{
+"en": "The oxygen will dissolve the metal valve",
+"bn": "অক্সিজেন ধাতব ভালভকে গলিয়ে দেবে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Pure oxygen under high pressure drops the auto-ignition temperature of oils and greases, causing them to explode without an external spark.",
+"bn": "উচ্চ চাপে বিশুদ্ধ অক্সিজেন তেল এবং গ্রীসের স্বতঃস্ফূর্ত-ইগনিশন তাপমাত্রা কমিয়ে দেয়, যার ফলে কোনো বাহ্যিক স্ফুলিঙ্গ ছাড়াই এগুলো বিস্ফোরিত হয়।"
+}
+},
+{
+"question": {
+"en": "What is the typical formal charge of an oxygen atom in the ozone (O3) molecule's resonance structures?",
+"bn": "ওজোন (O3) অণুর রেজোন্যান্স স্ট্রাকচারে একটি অক্সিজেন পরমাণুর সাধারণ ফর্মাল চার্জ কত?"
+},
+"options": [
+{
+"en": "All three atoms have a formal charge of 0",
+"bn": "তিনটি পরমাণুর ফর্মাল চার্জ ০"
+},
+{
+"en": "One is +1, one is -1, and one is 0",
+"bn": "একটি +১, একটি -১, এবং একটি ০"
+},
+{
+"en": "All three atoms are -1",
+"bn": "তিনটি পরমাণুই -১"
+},
+{
+"en": "Two are -1, one is +2",
+"bn": "দুটি -১, একটি +২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In ozone, the central oxygen atom holds a +1 formal charge, while the terminal single-bonded oxygen holds a -1 formal charge.",
+"bn": "ওজোনে, কেন্দ্রীয় অক্সিজেন পরমাণু একটি +১ ফর্মাল আধান ধারণ করে, যখন একক-বন্ধনযুক্ত প্রান্তিক অক্সিজেন একটি -১ ফর্মাল আধান ধারণ করে।"
+}
+},
+{
+"question": {
+"en": "In hydrogen peroxide (H2O2), what is the oxidation state of the oxygen atoms?",
+"bn": "হাইড্রোজেন পারক্সাইডে (H2O2), অক্সিজেন পরমাণুর জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "-2",
+"bn": "-২"
+},
+{
+"en": "-1",
+"bn": "-১"
+},
+{
+"en": "0",
+"bn": "০"
+},
+{
+"en": "+1",
+"bn": "+১"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In peroxides, the oxygen-oxygen single bond means each oxygen only pulls one electron from its bonded hydrogen, resulting in an unusual -1 oxidation state.",
+"bn": "পারক্সাইডগুলোতে, অক্সিজেন-অক্সিজেন একক বন্ধনের অর্থ হলো প্রতিটি অক্সিজেন তার আবদ্ধ হাইড্রোজেন থেকে কেবল একটি ইলেকট্রন টানে, যার ফলে এটি একটি অস্বাভাবিক -১ জারণ অবস্থা লাভ করে।"
+}
+},
+{
+"question": {
+"en": "Approximately what percentage of the Earth's atmosphere by volume is composed of diatomic oxygen gas?",
+"bn": "আয়তন অনুসারে পৃথিবীর বায়ুমণ্ডলের আনুমানিক কত শতাংশ ডায়াটমিক অক্সিজেন গ্যাস দিয়ে গঠিত?"
+},
+"options": [
+{
+"en": "10%",
+"bn": "১০%"
+},
+{
+"en": "21%",
+"bn": "২১%"
+},
+{
+"en": "50%",
+"bn": "৫০%"
+},
+{
+"en": "78%",
+"bn": "৭৮%"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Oxygen makes up roughly 20.95% of the Earth's atmosphere, coming in second place behind Nitrogen (78%).",
+"bn": "অক্সিজেন পৃথিবীর বায়ুমণ্ডলের প্রায় ২০.৯৫% তৈরি করে, যা নাইট্রোজেনের (৭৮%) পরে দ্বিতীয় স্থানে রয়েছে।"
+}
+},
+{
+"question": {
+"en": "Antoine Lavoisier named oxygen from Greek roots meaning 'acid-former' because he mistakenly believed...",
+"bn": "অ্যান্টোইন ল্যাভয়সিয়ে গ্রিক মূল থেকে অক্সিজেনের নামকরণ করেছিলেন যার অর্থ 'অ্যাসিড-সৃষ্টিকারী' কারণ তিনি ভুলভাবে বিশ্বাস করতেন..."
+},
+"options": [
+{
+"en": "It was the only gas that could dissolve in water",
+"bn": "এটি একমাত্র গ্যাস যা জলে দ্রবীভূত হতে পারে"
+},
+{
+"en": "All acids required oxygen to be acidic",
+"bn": "সমস্ত অ্যাসিড অম্লীয় হওয়ার জন্য অক্সিজেনের প্রয়োজন"
+},
+{
+"en": "It tasted incredibly sour",
+"bn": "এটির স্বাদ অবিশ্বাস্য রকমের টক"
+},
+{
+"en": "It burned the lungs like acid",
+"bn": "এটি ফুসফুসকে অ্যাসিডের মতো পুড়িয়ে দেয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Lavoisier noticed that combustion of non-metals produced oxides that formed acids in water, leading him to incorrectly conclude that oxygen was the defining element of all acids.",
+"bn": "ল্যাভয়সিয়ে লক্ষ্য করেন যে অধাতুর দহনে উৎপন্ন অক্সাইডগুলি জলে অ্যাসিড তৈরি করে, যা তাকে ভুল সিদ্ধান্তে নিয়ে যায় যে অক্সিজেন হলো সমস্ত অ্যাসিডের সংজ্ঞায়িত উপাদান।"
+}
+},
+{
+"question": {
+"en": "Which physical state of oxygen exists primarily in extreme high-pressure environments, exhibiting metallic properties and even superconductivity?",
+"bn": "চরম উচ্চ-চাপের পরিবেশে অক্সিজেনের কোন ভৌত অবস্থা প্রাথমিকভাবে বিদ্যমান থাকে, যা ধাতব বৈশিষ্ট্য এবং এমনকি অতিপরিবাহিতা (সুপারকন্ডাক্টিভিটি) প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "Singlet oxygen",
+"bn": "সিঙ্গলেট অক্সিজেন"
+},
+{
+"en": "Solid metallic oxygen (Zeta phase)",
+"bn": "কঠিন ধাতব অক্সিজেন (জেটা ফেজ)"
+},
+{
+"en": "Supercritical liquid oxygen",
+"bn": "সুপারক্রিটিকাল তরল অক্সিজেন"
+},
+{
+"en": "Ozone gas",
+"bn": "ওজোন গ্যাস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Under immense pressures (over 96 GPa), solid oxygen transitions into a metallic state, known as the zeta phase, which can become superconducting at low temperatures.",
+"bn": "অত্যধিক চাপে (৯৬ GPa এর উপরে), কঠিন অক্সিজেন একটি ধাতব অবস্থায় রূপান্তরিত হয়, যা জেটা ফেজ নামে পরিচিত। কম তাপমাত্রায় এটি সুপারকন্ডাক্টিং হয়ে উঠতে পারে।"
+}
+},
+{
+"question": {
+"en": "What is the primary product of the 'Great Oxidation Event' that occurred roughly 2.4 billion years ago?",
+"bn": "প্রায় ২৪০ কোটি বছর আগে ঘটা 'গ্রেট অক্সিডেশন ইভেন্ট'-এর প্রাথমিক পণ্য কী ছিল?"
+},
+"options": [
+{
+"en": "Extinction of most aerobic organisms",
+"bn": "বেশিরভাগ বায়বীয় জীবের বিলুপ্তি"
+},
+{
+"en": "Formation of the moon",
+"bn": "চাঁদ সৃষ্টি"
+},
+{
+"en": "Rusting of dissolved oceanic iron and atmospheric oxygenation",
+"bn": "দ্রবীভূত মহাসাগরীয় লোহাতে মরিচা পড়া এবং বায়ুমণ্ডলীয় অক্সিজেনেশন"
+},
+{
+"en": "Vaporization of the oceans",
+"bn": "সমুদ্রের বাষ্পীভবন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Cyanobacteria produced oxygen that first reacted with iron in the oceans (forming banded iron formations) before finally accumulating in the atmosphere.",
+"bn": "সায়ানোব্যাকটেরিয়া অক্সিজেন তৈরি করেছিল যা বায়ুমণ্ডলে জমা হওয়ার আগে প্রথমে মহাসাগরের লোহার সাথে বিক্রিয়া করেছিল (ব্যান্ডেড আয়রন গঠন করে)।"
+}
+},
+{
+"question": {
+"en": "In chemical kinetics, what reactive, short-lived oxygen species has paired electrons but empty orbitals, making it highly reactive in organic syntheses?",
+"bn": "রাসায়নিক গতিবিদ্যায়, কোন প্রতিক্রিয়াশীল, স্বল্পস্থায়ী অক্সিজেনের জোড় ইলেকট্রন আছে কিন্তু খালি অরবিটাল আছে, যা একে জৈব সংশ্লেষণে অত্যন্ত প্রতিক্রিয়াশীল করে তোলে?"
+},
+"options": [
+{
+"en": "Triplet Oxygen",
+"bn": "ট্রিপলেট অক্সিজেন"
+},
+{
+"en": "Singlet Oxygen",
+"bn": "সিঙ্গলেট অক্সিজেন"
+},
+{
+"en": "Superoxide Anion",
+"bn": "সুপারঅক্সাইড অ্যানায়ন"
+},
+{
+"en": "Hydroxyl Radical",
+"bn": "হাইড্রোক্সিল র‌্যাডিক্যাল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Singlet oxygen is an excited state of O2 where all electrons are spin-paired, bypassing the spin restriction that makes ground-state (triplet) oxygen relatively sluggish at room temperature.",
+"bn": "সিঙ্গলেট অক্সিজেন হলো O2 এর একটি উত্তেজিত অবস্থা যেখানে সমস্ত ইলেকট্রন স্পিন-পেয়ারড থাকে, যা সেই স্পিন বাধাকে অতিক্রম করে যার কারণে গ্রাউন্ড-স্টেট (ট্রিপলেট) অক্সিজেন ঘরের তাপমাত্রায় অপেক্ষাকৃত ধীর গতির হয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Humans hyperventilate primarily because of a lack of oxygen.",
+"bn": "মানুষ প্রাথমিকভাবে অক্সিজেনের অভাবের কারণে হাইপারভেন্টিলেট করে।"
+},
+{
+"en": "Oxygen burns.",
+"bn": "অক্সিজেন নিজে পোড়ে।"
+}
+],
+"learningTips": [
+{
+"en": "Oxygen's atomic number is 8. It supports combustion but is not flammable itself.",
+"bn": "অক্সিজেনের পারমাণবিক সংখ্যা ৮। এটি দহনে সাহায্য করে তবে এটি নিজে দাহ্য নয়।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "4Fe + 3O₂ → 2Fe₂O₃",
+"description": {
+"en": "Oxidation of iron, commonly known as rusting.",
+"bn": "লোহার জারণ, যা সাধারণত মরিচা পড়া নামে পরিচিত।"
+}
+},
+{
+"equation": "CH₄ + 2O₂ → CO₂ + 2H₂O",
+"description": {
+"en": "Complete combustion of methane gas.",
+"bn": "মিথেন গ্যাসের সম্পূর্ণ দহন।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "O₂ + 4e⁻ + 4H⁺ → 2H₂O",
+"description": {
+"en": "Reduction half-reaction of oxygen in acidic conditions (acting as an oxidizer).",
+"bn": "অম্লীয় পরিস্থিতিতে অক্সিজেনের বিজারণ অর্ধ-বিক্রিয়া (অক্সিডাইজার হিসাবে কাজ করে)।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "2O²⁻ → O₂ + 4e⁻",
+"description": {
+"en": "Oxidation of oxide ions at the anode during electrolysis.",
+"bn": "তড়িৎ বিশ্লেষণের সময় অ্যানোডে অক্সাইড আয়নের জারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Double Covalent Bond",
+"bn": "দ্বি-সমযোজী বন্ধন"
+},
+"molecule": "O₂",
+"description": {
+"en": "Two oxygen atoms share two pairs of electrons to fulfill their octets.",
+"bn": "দুটি অক্সিজেন পরমাণু তাদের অষ্টক পূরণের জন্য দুই জোড়া ইলেকট্রন ভাগ করে নেয়।"
+}
+}
+]
+}
+}

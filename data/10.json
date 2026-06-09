@@ -1,0 +1,966 @@
+{
+  "elementId": 10,
+  "basicInformation": {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "name": {
+      "en": "Neon",
+      "bn": "নিয়ন"
+    },
+    "pronunciation": {
+      "en": "/ˈniːɒn/",
+      "bn": "নি-য়ন"
+    },
+    "atomicMass": 20.1797,
+    "category": {
+      "en": "Noble gas",
+      "bn": "নিষ্ক্রিয় গ্যাস"
+    },
+    "group": 18,
+    "period": 2,
+    "block": "p",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Colorless gas exhibiting an intense reddish-orange glow when placed in a high-voltage electric field",
+      "bn": "উচ্চ-ভোল্টেজের বৈদ্যুতিক ক্ষেত্রে রাখা হলে বর্ণহীন গ্যাসটি তীব্র লালচে-কমলা আভা প্রদর্শন করে"
+    },
+    "color": {
+      "en": "Colorless",
+      "bn": "বর্ণহীন"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Sir William Ramsay and Morris Travers",
+      "bn": "স্যার উইলিয়াম রামসে এবং মরিস ট্র্যাভার্স"
+    },
+    "discoveryYear": 1898,
+    "discoveryLocation": {
+      "en": "United Kingdom",
+      "bn": "যুক্তরাজ্য"
+    },
+    "discoveryStory": {
+      "en": "Neon was discovered shortly after krypton when Ramsay and Travers chilled a sample of atmospheric air until it became a liquid, then warmed the liquid and captured the gases as they boiled off. Neon was the second of these three new gases to be discovered.",
+      "bn": "ক্রিপ্টনের পরপরই নিয়ন আবিষ্কৃত হয় যখন রামসে এবং ট্র্যাভার্স বায়ুমণ্ডলীয় বাতাসের একটি নমুনাকে তরল না হওয়া পর্যন্ত ঠাণ্ডা করেন, তারপরে তরলটিকে গরম করেন এবং গ্যাসগুলি ফুটে ওঠার সাথে সাথে সেগুলিকে আলাদা করে ধারণ করেন। আবিষ্কৃত এই তিনটি নতুন গ্যাসের মধ্যে নিয়ন ছিল দ্বিতীয়।"
+    },
+    "historicalUses": {
+      "en": "In 1902, Georges Claude's company Air Liquide produced industrial quantities of neon, leading to the first neon sign lighting demonstration in Paris in 1910, which revolutionized advertising.",
+      "bn": "১৯০২ সালে, জর্জেস ক্লডের কোম্পানি এয়ার লিকুইড শিল্প পরিমাণে নিয়ন উৎপাদন করে, যার ফলে ১৯১০ সালে প্যারিসে প্রথম নিয়ন সাইন লাইটিং প্রদর্শন করা হয়, যা বিজ্ঞাপনে বৈপ্লবিক পরিবর্তন এনেছিল।"
+    },
+    "famousExperiments": {
+      "en": "In 1913, J.J. Thomson channeled streams of neon ions through magnetic and electric fields, observing two distinct glowing patches, thus making the first discovery of isotopes of a stable element (Ne-20 and Ne-22).",
+      "bn": "১৯১৩ সালে, জে.জে. থমসন চৌম্বকীয় এবং বৈদ্যুতিক ক্ষেত্রের মাধ্যমে নিয়ন আয়নের স্রোত প্রবাহিত করে দুটি স্বতন্ত্র উজ্জ্বল প্যাচ পর্যবেক্ষণ করেন, যার মাধ্যমে প্রথম একটি স্থিতিশীল মৌলের আইসোটোপ (Ne-20 এবং Ne-22) আবিষ্কৃত হয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 10,
+    "neutrons": 10,
+    "electrons": 10,
+    "valenceElectrons": 8,
+    "shells": 2,
+    "shellDistribution": [2, 8],
+    "electronConfiguration": "1s² 2s² 2p⁶",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6
+    },
+    "oxidationStates": [0],
+    "quantumNumbers": {
+      "principal": 2,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.0008999,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 24.56,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 27.104,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 38,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 58,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 154,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.0491,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 1.03,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "ফেস-সেন্টারড কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": null,
+    "ionizationEnergy": {
+      "value": 2080.7,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 0,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Chemically inert. It has a full valence shell (an octet), making it exceptionally stable. It forms no true neutral compounds under standard conditions.",
+      "bn": "রাসায়নিকভাবে নিষ্ক্রিয়। এর একটি পূর্ণ যোজ্যতা শেল (একটি অষ্টক) রয়েছে, যা এটিকে অত্যন্ত স্থিতিশীল করে তোলে। এটি স্বাভাবিক পরিস্থিতিতে কোনো প্রকৃত নিরপেক্ষ যৌগ গঠন করে না।"
+    },
+    "commonCompounds": [],
+    "flameTestColor": {
+      "en": "Red-orange (in discharge tube)",
+      "bn": "লাল-কমলা (ডিসচার্জ টিউবে)"
+    },
+    "spectralLines": ["585.25nm", "640.22nm", "703.24nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Used as an economical cryogenic refrigerant. Liquid neon has over 40 times more refrigerating capacity per unit volume than liquid helium.",
+      "bn": "সাশ্রয়ী ক্রায়োজেনিক রেফ্রিজারেন্ট হিসেবে ব্যবহৃত হয়। তরল নিয়নের প্রতি একক আয়তনে তরল হিলিয়ামের তুলনায় ৪০ গুণের বেশি রেফ্রিজারেটিং ক্ষমতা রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Famous for high-voltage luminous tubes used in advertising signs (neon signs) producing a brilliant reddish-orange light.",
+      "bn": "বিজ্ঞাপন সাইনগুলিতে (নিয়ন সাইন) ব্যবহৃত উচ্চ-ভোল্টেজের উজ্জ্বল টিউবগুলির জন্য বিখ্যাত যা একটি উজ্জ্বল লালচে-কমলা আলো তৈরি করে।"
+    },
+    "electronicsUses": {
+      "en": "Used in vacuum tubes, high-voltage indicators, lightning arrestors, wave meter tubes, and older television tubes.",
+      "bn": "ভ্যাকুয়াম টিউব, হাই-ভোল্টেজ ইন্ডিকেটর, লাইটনিং অ্যারেস্টর, ওয়েভ মিটার টিউব এবং পুরনো টেলিভিশন টিউবে ব্যবহৃত হয়।"
+    },
+    "semiconductorUses": {
+      "en": "A critical buffer gas in Deep Ultraviolet (DUV) excimer lasers (like ArF or KrF) used for extreme high-precision photolithography in microchip manufacturing.",
+      "bn": "মাইক্রোচিপ উৎপাদনে চরম উচ্চ-নির্ভুল ফটোলিথোগ্রাফির জন্য ব্যবহৃত ডিপ আল্ট্রাভায়োলেট (DUV) এক্সিমার লেজারগুলিতে (যেমন ArF বা KrF) একটি অত্যন্ত গুরুত্বপূর্ণ বাফার গ্যাস।"
+    },
+    "aerospaceUses": {
+      "en": "Used as a cryogen for highly sensitive infrared imaging and spacecraft sensor equipment that require very low operational temperatures.",
+      "bn": "অত্যন্ত সংবেদনশীল ইনফ্রারেড ইমেজিং এবং মহাকাশযানের সেন্সর সরঞ্জামগুলির জন্য ক্রায়োজেন হিসাবে ব্যবহৃত হয় যার জন্য খুব কম কার্যকরী তাপমাত্রার প্রয়োজন হয়।"
+    },
+    "batteryUses": {
+      "en": "No significant applications in battery technology.",
+      "bn": "ব্যাটারি প্রযুক্তিতে কোনো উল্লেখযোগ্য প্রয়োগ নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "Indirectly indispensable. The semiconductor lasers that print the nanometer-scale transistors for advanced AI GPUs rely on neon gas.",
+      "bn": "পরোক্ষভাবে অপরিহার্য। উন্নত AI GPU-এর জন্য ন্যানোমিটার-স্কেল ট্রানজিস্টর প্রিন্ট করা সেমিকন্ডাক্টর লেজারগুলি নিয়ন গ্যাসের উপর নির্ভর করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "Not widely used in renewable energy generation or storage.",
+      "bn": "নবায়নযোগ্য শক্তি উৎপাদন বা সংরক্ষণে ব্যাপকভাবে ব্যবহৃত হয় না।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in scanning electron microscopy and specific low-temperature quantum state stabilization techniques.",
+      "bn": "স্ক্যানিং ইলেক্ট্রন মাইক্রোস্কোপি এবং নির্দিষ্ট নিম্ন-তাপমাত্রার কোয়ান্টাম স্টেট স্ট্যাবিলাইজেশন টেকনিকে ব্যবহৃত হয়।"
+    },
+    "nuclearUses": {
+      "en": "Occasionally used as a high-purity inert atmosphere or detection gas in specific types of radiation detectors.",
+      "bn": "কখনও কখনও নির্দিষ্ট ধরণের বিকিরণ আবিষ্কারকগুলিতে উচ্চ-বিশুদ্ধতা নিষ্ক্রিয় বায়ুমণ্ডল বা সনাক্তকরণ গ্যাস হিসাবে ব্যবহৃত হয়।"
+    },
+    "militaryUses": {
+      "en": "Helium-neon lasers are used in optical targeting systems, barcode scanning for logistics, and various optical communication devices.",
+      "bn": "হিলিয়াম-নিয়ন লেজারগুলি অপটিক্যাল টার্গেটিং সিস্টেম, লজিস্টিকসের জন্য বারকোড স্ক্যানিং এবং বিভিন্ন অপটিক্যাল যোগাযোগ ডিভাইসে ব্যবহৃত হয়।"
+    },
+    "medicalUses": {
+      "en": "Helium-Neon (HeNe) lasers are utilized in medical optical imaging, dermatology, and some eye surgeries.",
+      "bn": "হিলিয়াম-নিয়ন (HeNe) লেজার চিকিৎসা অপটিক্যাল ইমেজিং, চর্মরোগবিদ্যা এবং কিছু চোখের সার্জারিতে ব্যবহৃত হয়।"
+    },
+    "foodIndustryUses": {
+      "en": "Not typically used in the food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Architectural accent lighting and illuminated artistic installations in modern building designs.",
+      "bn": "আধুনিক ভবনের ডিজাইনে আর্কিটেকচারাল অ্যাকসেন্ট লাইটিং এবং আলোকিত শৈল্পিক স্থাপনা।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Neon has no known biological role. It is completely inert and does not interact with living organisms.",
+      "bn": "নিয়নের কোনো পরিচিত জৈবিক ভূমিকা নেই। এটি সম্পূর্ণ নিষ্ক্রিয় এবং জীবের সাথে কোনো প্রতিক্রিয়া করে না।"
+    },
+    "humanBodyRole": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "toxicity": {
+      "en": "Non-toxic. However, as a simple asphyxiant, it can displace oxygen in poorly ventilated areas, leading to suffocation.",
+      "bn": "অ-বিষাক্ত। যাইহোক, একটি সাধারণ শ্বাসরোধকারী গ্যাস হিসাবে, এটি দুর্বল বায়ুচলাচল এলাকায় অক্সিজেনকে স্থানচ্যুত করতে পারে, যা শ্বাসরোধের কারণ হতে পারে।"
+    },
+    "environmentalImpact": {
+      "en": "Chemically inert and harmless to the environment. It dissipates safely into the atmosphere without causing greenhouse effects or ozone depletion.",
+      "bn": "রাসায়নিকভাবে নিষ্ক্রিয় এবং পরিবেশের জন্য ক্ষতিকারক নয়। এটি গ্রিনহাউস প্রভাব বা ওজোন ক্ষয় না ঘটিয়ে নিরাপদে বায়ুমণ্ডলে ছড়িয়ে পড়ে।"
+    },
+    "pollutionRisks": {
+      "en": "No pollution risks associated with neon itself.",
+      "bn": "নিয়ন সম্পর্কিত কোনো দূষণের ঝুঁকি নেই।"
+    },
+    "recyclingMethods": {
+      "en": "Rarely recycled from small applications due to its inertness and the ease of venting it back into the atmosphere, though industrial users may capture it.",
+      "bn": "এর নিষ্ক্রিয়তা এবং সহজেই বায়ুমণ্ডলে ছেড়ে দেওয়ার সুবিধার কারণে ছোট অ্যাপ্লিকেশন থেকে খুব কমই পুনর্ব্যবহৃত হয়, তবে শিল্প ব্যবহারকারীরা এটি ক্যাপচার করতে পারে।"
+    },
+    "sustainabilityScore": 9.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Ukraine",
+        "bn": "ইউক্রেন"
+      },
+      {
+        "en": "China",
+        "bn": "চীন"
+      }
+    ],
+    "miningMethods": {
+      "en": "Commercially extracted by the fractional distillation of liquid air. It is a byproduct of industrial oxygen and nitrogen production.",
+      "bn": "তরল বায়ুর আংশিক পাতনের মাধ্যমে বাণিজ্যিকভাবে নিষ্কাশন করা হয়। এটি শিল্পে অক্সিজেন এবং নাইট্রোজেন উৎপাদনের একটি উপজাত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "0.13% by mass (5th most abundant)",
+        "bn": "ভর অনুযায়ী ০.১৩% (৫ম সর্বাধিক প্রচুর)"
+      },
+      "earthCrust": {
+        "en": "0.0000005% by mass",
+        "bn": "ভর অনুযায়ী ০.০০০০০০৫%"
+      },
+      "oceans": {
+        "en": "0.000000012% by mass",
+        "bn": "ভর অনুযায়ী ০.০০০০০০০১২%"
+      }
+    },
+    "marketValue": {
+      "en": "Highly volatile market, generally around $100 - $300 per cubic meter, but can spike thousands of percentages during geopolitical supply chain disruptions.",
+      "bn": "অত্যন্ত অস্থিতিশীল বাজার, সাধারণত প্রতি কিউবিক মিটারে প্রায় $১০০ - $৩০০, তবে ভূ-রাজনৈতিক সরবরাহ শৃঙ্খলে ব্যাঘাতের সময় তা হাজার হাজার শতাংশ বৃদ্ধি পেতে পারে।"
+    },
+    "futureDemand": {
+      "en": "Demand is heavily tied to the booming semiconductor industry, making high-purity neon a critical strategic resource.",
+      "bn": "এর চাহিদা বিকাশমান সেমিকন্ডাক্টর শিল্পের সাথে ওতপ্রোতভাবে জড়িত, যা উচ্চ-বিশুদ্ধ নিয়নকে একটি গুরুত্বপূর্ণ কৌশলগত সম্পদে পরিণত করেছে।"
+    },
+    "globalImportance": {
+      "en": "Essential for the global microchip supply chain. Disruptions in neon production directly throttle the manufacturing of smartphones, computers, and AI hardware.",
+      "bn": "বৈশ্বিক মাইক্রোচিপ সাপ্লাই চেইনের জন্য অপরিহার্য। নিয়ন উৎপাদনে ব্যাঘাত সরাসরি স্মার্টফোন, কম্পিউটার এবং এআই হার্ডওয়্যার উৎপাদনকে বাধাগ্রস্ত করে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Compressed gas. Acts as a simple asphyxiant by displacing oxygen in enclosed spaces.",
+      "bn": "সংকুচিত গ্যাস। আবদ্ধ স্থানে অক্সিজেনকে স্থানচ্যুত করে একটি সাধারণ শ্বাসরোধকারী হিসাবে কাজ করে।"
+    },
+    "storageRequirements": {
+      "en": "Must be stored in heavy, highly pressurized gas cylinders in well-ventilated areas, away from excessive heat.",
+      "bn": "অতিরিক্ত তাপ থেকে দূরে, সু-বাতাসযুক্ত এলাকায় ভারী, উচ্চ-চাপযুক্ত গ্যাস সিলিন্ডারে সংরক্ষণ করতে হবে।"
+    },
+    "handlingProcedures": {
+      "en": "Standard procedures for pressurized gases. Ensure adequate ventilation to prevent oxygen displacement.",
+      "bn": "চাপযুক্ত গ্যাসগুলির জন্য স্ট্যান্ডার্ড পদ্ধতি। অক্সিজেন স্থানচ্যুতি রোধ করতে পর্যাপ্ত বায়ুচলাচল নিশ্চিত করুন।"
+    },
+    "exposureRisks": {
+      "en": "Breathing pure neon can cause rapid suffocation, dizziness, nausea, and loss of consciousness.",
+      "bn": "বিশুদ্ধ নিয়ন নিঃশ্বাসে গ্রহণ করলে দ্রুত শ্বাসরোধ, মাথা ঘোরা, বমি বমি ভাব এবং জ্ঞান হারানোর মতো ঘটনা ঘটতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Low Risk (Inert, Non-toxic)",
+      "bn": "কম ঝুঁকি (নিষ্ক্রিয়, অ-বিষাক্ত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Compressed Gas",
+        "bn": "সংকুচিত গ্যাস"
+      },
+      {
+        "en": "Simple Asphyxiant",
+        "bn": "সাধারণ শ্বাসরোধকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Neon is a highly unreactive gas that refuses to combine with other elements. When electricity is passed through it, it glows a beautiful reddish-orange, which is why it is famous for brightly colored signs.",
+      "bn": "নিয়ন হলো একটি অত্যন্ত নিষ্ক্রিয় গ্যাস যা অন্য মৌলগুলির সাথে যুক্ত হতে অস্বীকার করে। যখন এর মধ্য দিয়ে বিদ্যুৎ প্রবাহিত হয়, তখন এটি একটি সুন্দর লালচে-কমলা আভা ছড়ায়, যে কারণে এটি উজ্জ্বল রঙিন সাইনবোর্ডের জন্য বিখ্যাত।"
+    },
+    "advancedExplanation": {
+      "en": "Neon's perfect electron octet (1s² 2s² 2p⁶) gives it an exceptionally high ionization energy and negligible electron affinity. The reddish-orange light emitted in discharge tubes is the result of excited electrons dropping back to their ground state and releasing photons at specific visible light wavelengths.",
+      "bn": "নিয়নের নিখুঁত ইলেকট্রন অষ্টক (1s² 2s² 2p⁶) এটিকে একটি ব্যতিক্রমী উচ্চ আয়নীকরণ শক্তি এবং নগণ্য ইলেক্ট্রন আসক্তি দেয়। ডিসচার্জ টিউবে নির্গত লালচে-কমলা আলো হলো উত্তেজিত ইলেকট্রনগুলির তাদের স্থল অবস্থায় ফিরে আসা এবং নির্দিষ্ট দৃশ্যমান আলোর তরঙ্গদৈর্ঘ্যে ফোটন ছেড়ে দেওয়ার ফলাফল।"
+    },
+    "funFacts": [
+      {
+        "en": "Neon is the fifth most abundant element in the universe, but it is relatively rare on Earth because it is too light for Earth's gravity to hold onto easily.",
+        "bn": "নিয়ন হলো মহাবিশ্বের পঞ্চম সর্বাধিক প্রচুর উপাদান, তবে এটি পৃথিবীতে তুলনামূলকভাবে বিরল কারণ এটি পৃথিবীর মাধ্যাকর্ষণ দ্বারা সহজে আটকে রাখার জন্য খুব হালকা।"
+      },
+      {
+        "en": "A true 'neon sign' only glows reddish-orange. Other colored signs often use different gases like argon (blue) or helium (pink), but are still commonly referred to as 'neon signs'.",
+        "bn": "একটি আসল 'নিয়ন সাইন' কেবল লালচে-কমলা আভা দেয়। অন্যান্য রঙের সাইনগুলি প্রায়শই আর্গন (নীল) বা হিলিয়াম (গোলাপী) এর মতো বিভিন্ন গ্যাস ব্যবহার করে, তবে সেগুলিকে সাধারণত 'নিয়ন সাইন' বলা হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 2,
+        "relation": {
+          "en": "Neon is heavier than Helium but shares its inert noble gas properties. While liquid helium is colder, liquid neon has over 40 times the cooling capacity per unit volume.",
+          "bn": "নিয়ন হিলিয়ামের চেয়ে ভারী তবে এর নিষ্ক্রিয় গ্যাসের বৈশিষ্ট্যগুলি ভাগ করে নেয়। তরল হিলিয়াম শীতল হলেও, তরল নিয়নের প্রতি একক আয়তনে ৪০ গুণের বেশি শীতল করার ক্ষমতা রয়েছে।"
+        }
+      }
+    ],
+    "relatedElements": [2, 18, 36, 54],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is neon's atomic number?",
+          "bn": "নিয়নের পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "8",
+            "bn": "৮"
+          },
+          {
+            "en": "10",
+            "bn": "১০"
+          },
+          {
+            "en": "12",
+            "bn": "১২"
+          },
+          {
+            "en": "18",
+            "bn": "১৮"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Neon is the 10th element on the periodic table, possessing 10 protons.",
+          "bn": "নিয়ন পর্যায় সারণির ১০ম মৌল, যার ১০টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which elemental group does neon belong?",
+          "bn": "নিয়ন কোন মৌল শ্রেণির অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali Metals",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Halogens",
+            "bn": "হ্যালোজেন"
+          },
+          {
+            "en": "Noble Gases",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition Metals",
+            "bn": "অবস্থান্তর ধাতু"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Neon is in Group 18, which is entirely comprised of the stable, unreactive noble gases.",
+          "bn": "নিয়ন গ্রুপ ১৮-তে রয়েছে, যা সম্পূর্ণভাবে স্থিতিশীল, নিষ্ক্রিয় গ্যাস দ্বারা গঠিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What color does pure neon gas emit when an electric current is passed through it in a vacuum tube?",
+          "bn": "ভ্যাকুয়াম টিউবে বৈদ্যুতিক প্রবাহ চালিত হলে বিশুদ্ধ নিয়ন গ্যাস কোন রঙের আলো ছড়ায়?"
+        },
+        "options": [
+          {
+            "en": "Bright blue",
+            "bn": "উজ্জ্বল নীল"
+          },
+          {
+            "en": "Intense reddish-orange",
+            "bn": "তীব্র লালচে-কমলা"
+          },
+          {
+            "en": "Emerald green",
+            "bn": "পান্না সবুজ"
+          },
+          {
+            "en": "Pure white",
+            "bn": "বিশুদ্ধ সাদা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The spectral emission of excited neon atoms produces a very distinct and bright reddish-orange light.",
+          "bn": "উত্তেজিত নিয়ন পরমাণুর বর্ণালী নির্গমন একটি অত্যন্ত স্বতন্ত্র এবং উজ্জ্বল লালচে-কমলা আলো তৈরি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does a neon atom have?",
+          "bn": "একটি নিয়ন পরমাণুর কয়টি যোজ্যতা ইলেকট্রন থাকে?"
+        },
+        "options": [
+          {
+            "en": "2",
+            "bn": "২"
+          },
+          {
+            "en": "6",
+            "bn": "৬"
+          },
+          {
+            "en": "8",
+            "bn": "৮"
+          },
+          {
+            "en": "10",
+            "bn": "১০"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Neon has a completely filled outer shell with 8 valence electrons, completing the 'octet' rule.",
+          "bn": "নিয়নের বাইরের শেলটি ৮টি যোজ্যতা ইলেকট্রন দিয়ে সম্পূর্ণরূপে পূর্ণ থাকে, যা 'অষ্টক' নিয়ম পূরণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary industrial method for obtaining pure neon?",
+          "bn": "বিশুদ্ধ নিয়ন পাওয়ার প্রধান শিল্প পদ্ধতি কোনটি?"
+        },
+        "options": [
+          {
+            "en": "Mining it from deep underground caves",
+            "bn": "গভীর ভূগর্ভস্থ গুহা থেকে খনন করা"
+          },
+          {
+            "en": "Extracting it from ocean water",
+            "bn": "সমুদ্রের জল থেকে নিষ্কাশন করা"
+          },
+          {
+            "en": "Fractional distillation of liquid atmospheric air",
+            "bn": "তরল বায়ুমণ্ডলীয় বাতাসের আংশিক পাতন"
+          },
+          {
+            "en": "Breaking down neon compounds chemically",
+            "bn": "রাসায়নিকভাবে নিয়ন যৌগগুলি ভেঙে ফেলা"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Neon is present in the Earth's atmosphere at about 18 parts per million and is separated from liquefied air.",
+          "bn": "নিয়ন পৃথিবীর বায়ুমণ্ডলে প্রতি মিলিয়নে প্রায় ১৮ ভাগ উপস্থিত থাকে এবং তরল বায়ু থেকে আলাদা করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why doesn't neon form chemical bonds with other elements under standard conditions?",
+          "bn": "স্বাভাবিক পরিস্থিতিতে কেন নিয়ন অন্যান্য মৌলের সাথে রাসায়নিক বন্ধন তৈরি করে না?"
+        },
+        "options": [
+          {
+            "en": "It is highly electronegative",
+            "bn": "এটি অত্যন্ত তড়িৎঋণাত্মক"
+          },
+          {
+            "en": "It has a full valence shell (octet) making it energetically stable",
+            "bn": "এর একটি পূর্ণ যোজ্যতা শেল (অষ্টক) রয়েছে যা একে শক্তিগতভাবে স্থিতিশীল করে তোলে"
+          },
+          {
+            "en": "It is too heavy to move and react",
+            "bn": "এটি এতই ভারী যে নড়াচড়া বা বিক্রিয়া করতে পারে না"
+          },
+          {
+            "en": "It repels all other atoms magnetically",
+            "bn": "এটি চৌম্বকীয়ভাবে অন্য সমস্ত পরমাণুকে বিকর্ষণ করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Atoms bond to achieve a full outer electron shell. Since neon already has one naturally, it has no need to share or steal electrons.",
+          "bn": "পরমাণুগুলি একটি পূর্ণ বাইরের ইলেকট্রন শেল অর্জনের জন্য আবদ্ধ হয়। যেহেতু নিয়নের প্রাকৃতিকভাবেই একটি আছে, তাই এর ইলেকট্রন শেয়ার করার বা চুরি করার কোনো প্রয়োজন নেই।"
+        }
+      },
+      {
+        "question": {
+          "en": "Neon is the ____ most abundant element in the universe.",
+          "bn": "নিয়ন মহাবিশ্বের ____ তম সর্বাধিক প্রচুর মৌল।"
+        },
+        "options": [
+          {
+            "en": "1st",
+            "bn": "১ম"
+          },
+          {
+            "en": "3rd",
+            "bn": "৩য়"
+          },
+          {
+            "en": "5th",
+            "bn": "৫ম"
+          },
+          {
+            "en": "10th",
+            "bn": "১০ম"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Behind hydrogen, helium, oxygen, and carbon, neon is the 5th most abundant element in the universe, created by massive stars.",
+          "bn": "হাইড্রোজেন, হিলিয়াম, অক্সিজেন এবং কার্বনের পিছনে, নিয়ন হলো মহাবিশ্বের ৫ম সর্বাধিক প্রচুর উপাদান, যা বিশাল নক্ষত্র দ্বারা তৈরি হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which modern multi-billion dollar manufacturing industry relies heavily on neon gas for its lasers?",
+          "bn": "কোন আধুনিক বহু-বিলিয়ন ডলারের উৎপাদন শিল্প এর লেজারের জন্য নিয়ন গ্যাসের উপর ব্যাপকভাবে নির্ভর করে?"
+        },
+        "options": [
+          {
+            "en": "Automobile manufacturing",
+            "bn": "অটোমোবাইল উৎপাদন"
+          },
+          {
+            "en": "Semiconductor (Microchip) manufacturing",
+            "bn": "সেমিকন্ডাক্টর (মাইক্রোচিপ) উৎপাদন"
+          },
+          {
+            "en": "Textile manufacturing",
+            "bn": "টেক্সটাইল উৎপাদন"
+          },
+          {
+            "en": "Food processing",
+            "bn": "খাদ্য প্রক্রিয়াকরণ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Neon is critical for the DUV excimer lasers used in photolithography to etch tiny circuits onto silicon wafers.",
+          "bn": "সিলিকন ওয়েফারের উপর ক্ষুদ্র সার্কিট খোদাই করার জন্য ফটোলিথোগ্রাফিতে ব্যবহৃত DUV এক্সিমার লেজারের জন্য নিয়ন অত্যন্ত গুরুত্বপূর্ণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who coined the name 'neon', which comes from the Greek word 'neos' meaning 'new'?",
+          "bn": "কে 'নিয়ন' নামটি তৈরি করেছিলেন, যা গ্রীক শব্দ 'neos' থেকে এসেছে যার অর্থ 'নতুন'?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Albert Einstein",
+            "bn": "অ্যালবার্ট আইনস্টাইন"
+          },
+          {
+            "en": "The 13-year-old son of Sir William Ramsay",
+            "bn": "স্যার উইলিয়াম রামসের ১৩ বছর বয়সী ছেলে"
+          },
+          {
+            "en": "Georges Claude",
+            "bn": "জর্জেস ক্লড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Ramsay's son, Willie, suggested the name 'novum', which his father modified to the Greek equivalent 'neon' (new).",
+          "bn": "রামসের ছেলে উইলি 'novum' নামটির পরামর্শ দিয়েছিলেন, যা তার বাবা গ্রীক সমতুল্য 'neon' (নতুন) -এ পরিবর্তন করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary danger of working with large amounts of neon gas in a closed room?",
+          "bn": "বদ্ধ ঘরে বিপুল পরিমাণ নিয়ন গ্যাস নিয়ে কাজ করার প্রধান বিপদ কী?"
+        },
+        "options": [
+          {
+            "en": "It is highly explosive",
+            "bn": "এটি অত্যন্ত বিস্ফোরক"
+          },
+          {
+            "en": "It is highly toxic and poisonous",
+            "bn": "এটি অত্যন্ত বিষাক্ত এবং ক্ষতিকারক"
+          },
+          {
+            "en": "It can displace oxygen and cause asphyxiation",
+            "bn": "এটি অক্সিজেনকে স্থানচ্যুত করতে পারে এবং শ্বাসরোধের কারণ হতে পারে"
+          },
+          {
+            "en": "It corrodes skin",
+            "bn": "এটি ত্বক ক্ষয় করে"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "While non-toxic, neon can push out the oxygen in an enclosed space, leaving a person without air to breathe.",
+          "bn": "অ-বিষাক্ত হলেও, নিয়ন একটি আবদ্ধ স্থানে অক্সিজেনকে বের করে দিতে পারে, যার ফলে একজন ব্যক্তি শ্বাস নেওয়ার জন্য বায়ু থেকে বঞ্চিত হতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In terms of cooling capacity per unit volume, how does liquid neon compare to liquid helium?",
+          "bn": "প্রতি একক আয়তনের শীতল ক্ষমতার ক্ষেত্রে, তরল নিয়নকে তরল হিলিয়ামের সাথে কীভাবে তুলনা করা হয়?"
+        },
+        "options": [
+          {
+            "en": "It is 40 times less effective",
+            "bn": "এটি ৪০ গুণ কম কার্যকর"
+          },
+          {
+            "en": "They are exactly the same",
+            "bn": "এরা হুবহু একই"
+          },
+          {
+            "en": "It is over 40 times more effective",
+            "bn": "এটি ৪০ গুণেরও বেশি কার্যকর"
+          },
+          {
+            "en": "Neon cannot become a liquid",
+            "bn": "নিয়ন তরল হতে পারে না"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Liquid neon is an incredibly efficient cryogenic refrigerant, possessing over 40 times the cooling capacity of liquid helium per unit of volume.",
+          "bn": "তরল নিয়ন একটি অবিশ্বাস্যভাবে দক্ষ ক্রায়োজেনিক রেফ্রিজারেন্ট, যার প্রতি একক আয়তনে তরল হিলিয়ামের চেয়ে ৪০ গুণেরও বেশি শীতল ক্ষমতা রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "J.J. Thomson's experiment with neon led to the first confirmation of what phenomenon for stable elements?",
+          "bn": "নিয়ন নিয়ে জে.জে. থমসনের পরীক্ষা স্থিতিশীল মৌলগুলির জন্য কোন ঘটনার প্রথম নিশ্চিতকরণের দিকে পরিচালিত করেছিল?"
+        },
+        "options": [
+          {
+            "en": "Radioactivity",
+            "bn": "তেজস্ক্রিয়তা"
+          },
+          {
+            "en": "Isotopes",
+            "bn": "আইসোটোপ"
+          },
+          {
+            "en": "Nuclear fusion",
+            "bn": "নিউক্লিয়ার ফিউশন"
+          },
+          {
+            "en": "Electron orbitals",
+            "bn": "ইলেকট্রন অরবিটাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "By observing two different mass traces for neon, Thomson proved that a stable element could have atoms of different masses (isotopes: Ne-20 and Ne-22).",
+          "bn": "নিয়নের জন্য দুটি ভিন্ন ভরের চিহ্ন পর্যবেক্ষণ করে, থমসন প্রমাণ করেছিলেন যে একটি স্থিতিশীল মৌলে বিভিন্ন ভরের পরমাণু থাকতে পারে (আইসোটোপ: Ne-20 এবং Ne-22)।"
+        }
+      },
+      {
+        "question": {
+          "en": "What biological function does neon serve in the human body?",
+          "bn": "মানবদেহে নিয়ন কোন জৈবিক কাজ করে?"
+        },
+        "options": [
+          {
+            "en": "Helps transport oxygen in blood",
+            "bn": "রক্তে অক্সিজেন পরিবহনে সাহায্য করে"
+          },
+          {
+            "en": "Strengthens bones",
+            "bn": "হাড় মজবুত করে"
+          },
+          {
+            "en": "Aids in nerve transmission",
+            "bn": "স্নায়ুর মাধ্যমে সংকেত পাঠাতে সাহায্য করে"
+          },
+          {
+            "en": "Absolutely none",
+            "bn": "একেবারেই কোনোটি না"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Because it is completely inert, it does not undergo any chemical reactions and therefore cannot take part in biological processes.",
+          "bn": "যেহেতু এটি সম্পূর্ণ নিষ্ক্রিয়, তাই এটি কোনো রাসায়নিক বিক্রিয়ায় অংশ নেয় না এবং তাই জৈবিক প্রক্রিয়াগুলিতে অংশ নিতে পারে না।"
+        }
+      },
+      {
+        "question": {
+          "en": "If a glowing sign is bright blue, is it technically a 'neon' sign chemically speaking?",
+          "bn": "যদি একটি উজ্জ্বল সাইনবোর্ড উজ্জ্বল নীল রঙের হয়, রাসায়নিকভাবে বলতে গেলে এটি কি প্রযুক্তিগতভাবে একটি 'নিয়ন' সাইন?"
+        },
+        "options": [
+          {
+            "en": "Yes, neon naturally glows blue",
+            "bn": "হ্যাঁ, নিয়ন প্রাকৃতিকভাবে নীল আলো দেয়"
+          },
+          {
+            "en": "No, it is likely using argon and mercury",
+            "bn": "না, এতে সম্ভবত আর্গন এবং পারদ ব্যবহৃত হচ্ছে"
+          },
+          {
+            "en": "Yes, if the neon is heated hot enough",
+            "bn": "হ্যাঁ, যদি নিয়নকে যথেষ্ট গরম করা হয়"
+          },
+          {
+            "en": "No, it must be using oxygen",
+            "bn": "না, এটি অবশ্যই অক্সিজেন ব্যবহার করছে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Pure neon only emits reddish-orange light. Other colors are achieved by using different gases or phosphor coatings, even though the public still calls them 'neon signs'.",
+          "bn": "বিশুদ্ধ নিয়ন কেবল লালচে-কমলা আলো নির্গত করে। অন্যান্য রংগুলি বিভিন্ন গ্যাস বা ফসফর লেপ ব্যবহার করে অর্জন করা হয়, যদিও জনসাধারণ এখনও সেগুলিকে 'নিয়ন সাইন' বলে থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is neon much rarer on Earth compared to its high abundance in the universe?",
+          "bn": "মহাবিশ্বে প্রচুর প্রাচুর্যের তুলনায় পৃথিবীতে নিয়ন এত বিরল কেন?"
+        },
+        "options": [
+          {
+            "en": "It reacts with rocks and gets buried",
+            "bn": "এটি পাথরের সাথে বিক্রিয়া করে এবং চাপা পড়ে যায়"
+          },
+          {
+            "en": "Bacteria consume it",
+            "bn": "ব্যাকটেরিয়া এটি খায়"
+          },
+          {
+            "en": "It is a light, inert gas that easily escaped Earth's gravity during the planet's formation",
+            "bn": "এটি একটি হালকা, নিষ্ক্রিয় গ্যাস যা গ্রহের গঠনের সময় সহজেই পৃথিবীর মাধ্যাকর্ষণ থেকে রক্ষা পেয়েছিল"
+          },
+          {
+            "en": "It all dissolved in the oceans",
+            "bn": "এটি সব মহাসাগরে দ্রবীভূত হয়েছে"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Being both light and non-reactive, primordial neon was not bound in heavy minerals and mostly drifted off into space as Earth formed.",
+          "bn": "হালকা এবং অ-প্রতিক্রিয়াশীল উভয়ই হওয়ার কারণে, আদিম নিয়ন ভারী খনিজগুলিতে আবদ্ধ ছিল না এবং পৃথিবী গঠনের সময় বেশিরভাগই মহাকাশে চলে গিয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which of these gases is commonly mixed with neon to create the red lasers found in barcode scanners?",
+          "bn": "বারকোড স্ক্যানারে পাওয়া লাল লেজার তৈরি করতে সাধারণত নিয়নের সাথে কোন গ্যাস মেশানো হয়?"
+        },
+        "options": [
+          {
+            "en": "Oxygen",
+            "bn": "অক্সিজেন"
+          },
+          {
+            "en": "Helium",
+            "bn": "হিলিয়াম"
+          },
+          {
+            "en": "Hydrogen",
+            "bn": "হাইড্রোজেন"
+          },
+          {
+            "en": "Nitrogen",
+            "bn": "নাইট্রোজেন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Helium-Neon (HeNe) lasers are famous for their continuous red beam, operating at a wavelength of 632.8 nm.",
+          "bn": "হিলিয়াম-নিয়ন (HeNe) লেজার তাদের অবিচ্ছিন্ন লাল রশ্মির জন্য বিখ্যাত, যা ৬৩২.৮ এনএম তরঙ্গদৈর্ঘ্যে কাজ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "At what temperature does neon boil?",
+          "bn": "কোন তাপমাত্রায় নিয়ন ফুটতে শুরু করে?"
+        },
+        "options": [
+          {
+            "en": "0 °C",
+            "bn": "০ °C"
+          },
+          {
+            "en": "-100 °C",
+            "bn": "-১০০ °C"
+          },
+          {
+            "en": "-246 °C (27 K)",
+            "bn": "-২৪৬ °C (২৭ K)"
+          },
+          {
+            "en": "100 °C",
+            "bn": "১০০ °C"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Neon has a very low boiling point of 27 K (-246 °C), making it a gas under almost all natural conditions on Earth.",
+          "bn": "নিয়নের স্ফুটনাঙ্ক ২৭ K (-২৪৬ °C) এর মতো অনেক কম, যা একে পৃথিবীর প্রায় সব প্রাকৃতিক অবস্থায় গ্যাসে পরিণত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the typical electronegativity of Neon on the Pauling scale?",
+          "bn": "পলিং স্কেলে নিয়নের সাধারণ তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "4.0",
+            "bn": "৪.০"
+          },
+          {
+            "en": "0.0 or undefined",
+            "bn": "০.০ বা অনির্ধারিত"
+          },
+          {
+            "en": "1.5",
+            "bn": "১.৫"
+          },
+          {
+            "en": "3.1",
+            "bn": "৩.১"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Because it doesn't generally form covalent bonds, an electronegativity value for neon is usually undefined or considered zero.",
+          "bn": "যেহেতু এটি সাধারণত সমযোজী বন্ধন তৈরি করে না, নিয়নের জন্য তড়িৎঋণাত্মকতার মান সাধারণত অনির্ধারিত থাকে বা শূন্য বলে বিবেচিত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what specific state must neon be to emit light in a neon sign?",
+          "bn": "একটি নিয়ন সাইনে আলো ছড়ানোর জন্য নিয়নকে কোন নির্দিষ্ট অবস্থায় থাকতে হবে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma (ionized gas)",
+            "bn": "প্লাজমা (আয়নিত গ্যাস)"
+          },
+          {
+            "en": "Bose-Einstein Condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The high voltage strips electrons away from some neon atoms, turning the gas into a glowing, electrically conductive plasma.",
+          "bn": "উচ্চ ভোল্টেজ কিছু নিয়ন পরমাণু থেকে ইলেকট্রন কেড়ে নেয়, গ্যাসটিকে একটি উজ্জ্বল, বৈদ্যুতিক পরিবাহী প্লাজমায় পরিণত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is neon's molecular structure described at room temperature?",
+          "bn": "কক্ষ তাপমাত্রায় নিয়নের আণবিক গঠনকে কীভাবে বর্ণনা করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Diatomic (Ne2)",
+            "bn": "দ্বি-পারমাণবিক (Ne2)"
+          },
+          {
+            "en": "Monatomic (Ne)",
+            "bn": "এক-পারমাণবিক (Ne)"
+          },
+          {
+            "en": "Polyatomic (Ne8)",
+            "bn": "বহু-পারমাণবিক (Ne8)"
+          },
+          {
+            "en": "Crystal lattice",
+            "bn": "ক্রিস্টাল ল্যাটিস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Unlike gases such as oxygen (O2) or nitrogen (N2), noble gases like neon exist as single, free-floating unbonded atoms (monatomic).",
+          "bn": "অক্সিজেন (O2) বা নাইট্রোজেনের (N2) মতো গ্যাসগুলির বিপরীতে, নিয়নের মতো নিষ্ক্রিয় গ্যাসগুলি একক, অবাধে ভাসমান বন্ধনহীন পরমাণু (এক-পারমাণবিক) হিসাবে বিদ্যমান থাকে।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "All glowing gas tubes used for signs are filled with neon.",
+        "bn": "সাইনবোর্ডের জন্য ব্যবহৃত সমস্ত উজ্জ্বল গ্যাস টিউব নিয়ন দিয়ে পূর্ণ থাকে।"
+      },
+      {
+        "en": "Neon gas is flammable because neon signs can start fires.",
+        "bn": "নিয়ন গ্যাস দাহ্য কারণ নিয়ন সাইনগুলিতে আগুন ধরতে পারে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember that noble gases are 'noble' because they stand apart and do not mix (react) with the 'common' elements.",
+        "bn": "মনে রাখবেন যে নিষ্ক্রিয় গ্যাসগুলি 'উচ্চবংশীয়' কারণ তারা আলাদা থাকে এবং 'সাধারণ' মৌলগুলির সাথে মেশে (বিক্রিয়া করে) না।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Ne + H₂O → No Reaction",
+        "description": {
+          "en": "Neon is perfectly inert and will not react with water, air, or standard chemical reagents.",
+          "bn": "নিয়ন সম্পূর্ণ নিষ্ক্রিয় এবং জল, বাতাস বা সাধারণ রাসায়নিক বিকারকগুলির সাথে প্রতিক্রিয়া করবে না।"
+        }
+      }
+    ],
+    "oxidationExamples": [],
+    "reductionExamples": [],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Van der Waals forces",
+          "bn": "ভ্যান ডার ওয়ালস বল"
+        },
+        "molecule": "Ne (liquid)",
+        "description": {
+          "en": "Neon atoms do not form true chemical bonds. In its liquid or solid state, it is held together solely by extremely weak intermolecular London dispersion forces.",
+          "bn": "নিয়ন পরমাণু প্রকৃত রাসায়নিক বন্ধন তৈরি করে না। এর তরল বা কঠিন অবস্থায়, এটি কেবল অত্যন্ত দুর্বল আন্তঃআণবিক লন্ডন বিচ্ছুরণ শক্তির দ্বারা একত্রে আবদ্ধ থাকে।"
+        }
+      }
+    ]
+  }
+}
