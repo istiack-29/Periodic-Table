@@ -1,0 +1,1005 @@
+{
+  "elementId": 89,
+  "basicInformation": {
+    "atomicNumber": 89,
+    "symbol": "Ac",
+    "name": {
+      "en": "Actinium",
+      "bn": "অ্যাক্টিনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ækˈtɪniəm/",
+      "bn": "অ্যাক-টি-নি-আম"
+    },
+    "atomicMass": 227.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery, glowing pale blue",
+      "bn": "রূপালী, হালকা নীল দীপ্তি"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "André-Louis Debierne",
+      "bn": "আঁদ্রে-লুই দেবিয়ের্ন"
+    },
+    "discoveryYear": 1899,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Discovered by Debierne in residues left by the Curies after extracting radium; independently isolated by Friedrich Oskar Giesel in 1902.",
+      "bn": "কুরিদের রেডিয়াম নিষ্কাশনের পর অবশিষ্টাংশে দেবিয়ের্ন আবিষ্কার করেন; ১৯০২ সালে ফ্রিডরিখ অস্কার গিজেল স্বাধীনভাবে আলাদা করেন।"
+    },
+    "historicalUses": {
+      "en": "Used as a neutron source when mixed with beryllium; gives name to the actinide series of elements.",
+      "bn": "বেরিলিয়ামের সাথে মিশ্রিত হলে নিউট্রন উৎস হিসেবে ব্যবহৃত; উপাদানের অ্যাক্টিনাইড সিরিজের নাম দিয়েছে।"
+    },
+    "famousExperiments": {
+      "en": "Used in Ac-225/Bi-213 alpha-particle generators for targeted alpha therapy research.",
+      "bn": "লক্ষ্যবস্তু আলফা থেরাপি গবেষণার জন্য Ac-২২৫/Bi-২১৩ আলফা-কণা জেনারেটরে ব্যবহৃত।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 89,
+    "neutrons": 138,
+    "electrons": 89,
+    "valenceElectrons": 3,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      9,
+      2
+    ],
+    "electronConfiguration": "[Rn] 6d¹ 7s²",
+    "orbitalConfiguration": {
+      "6d": 1,
+      "7s": 2
+    },
+    "oxidationStates": [
+      3
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 10.07,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1500,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 3500,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 195,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 215,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": null,
+    "thermalConductivity": {
+      "value": 12,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.12,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "পৃষ্ঠকেন্দ্রিক ঘনক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.1,
+    "ionizationEnergy": {
+      "value": 499,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 33.77,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive; tarnishes in air forming a protective oxide layer; reacts with water.",
+      "bn": "প্রতিক্রিয়াশীল; বাতাসে কলঙ্কিত হয়ে সুরক্ষামূলক অক্সাইড স্তর গঠন করে; জলের সাথে বিক্রিয়া করে।"
+    },
+    "commonCompounds": [
+      "AcCl₃",
+      "AcF₃",
+      "Ac₂O₃",
+      "AcH₃",
+      "Ac(OH)₃"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "417.8nm",
+      "438.2nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "No significant industrial uses; produced only in milligram quantities annually.",
+      "bn": "কোনো উল্লেখযোগ্য শিল্প ব্যবহার নেই; বার্ষিক মাত্র মিলিগ্রাম পরিমাণে উৎপাদিত।"
+    },
+    "commercialUses": {
+      "en": "Not commercially available outside specialized nuclear facilities.",
+      "bn": "বিশেষায়িত পারমাণবিক সুবিধার বাইরে বাণিজ্যিকভাবে উপলব্ধ নয়।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nuclearUses": {
+      "en": "Ac-225 used as a parent isotope for generating Bi-213 alpha emitters in nuclear medicine.",
+      "bn": "পারমাণবিক চিকিৎসায় Bi-২১৩ আলফা নির্গমনকারী তৈরির জন্য Ac-২২৫ মূল আইসোটোপ হিসেবে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "Actinium-225 is a leading radionuclide for targeted alpha therapy (TAT) of leukemia and prostate cancer.",
+      "bn": "অ্যাক্টিনিয়াম-২২৫ লিউকেমিয়া ও প্রোস্টেট ক্যান্সারের লক্ষ্যবস্তু আলফা থেরাপির (TAT) জন্য একটি অগ্রণী রেডিওনিউক্লাইড।"
+    },
+    "foodIndustryUses": {
+      "en": "None; absolutely contraindicated.",
+      "bn": "কোনো নেই; সম্পূর্ণভাবে contraindicated।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; mimics rare earth elements in the body and concentrates in liver and bones.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; দেহে বিরল মৃত্তিকা উপাদানের অনুকরণ করে এবং যকৃৎ ও হাড়ে কেন্দ্রীভূত হয়।"
+    },
+    "humanBodyRole": {
+      "en": "None; highly radiotoxic; sequesters in bones causing severe damage.",
+      "bn": "কোনো নেই; অত্যন্ত তেজস্ক্রিয় বিষাক্ত; হাড়ে আটকে গিয়ে মারাত্মক ক্ষতি করে।"
+    },
+    "toxicity": {
+      "en": "~150 times more radiotoxic than radium per unit mass.",
+      "bn": "একক ভর প্রতি রেডিয়ামের তুলনায় ~১৫০ গুণ বেশি তেজস্ক্রিয় বিষাক্ত।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible environmental presence; only laboratory-generated quantities of concern.",
+      "bn": "নগণ্য পরিবেশগত উপস্থিতি; শুধুমাত্র গবেষণাগারে উৎপন্ন পরিমাণ উদ্বেগের।"
+    },
+    "pollutionRisks": {
+      "en": "Decay products including radon-219 and bismuth isotopes contribute to radiological hazard.",
+      "bn": "রেডন-২১৯ ও বিসমাথ আইসোটোপসহ ক্ষয় পণ্য রেডিওলজিকাল ঝুঁকিতে অবদান রাখে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from spent uranium fuel and thorium-229 generators.",
+      "bn": "ব্যবহৃত ইউরেনিয়াম জ্বালানি ও থোরিয়াম-২২৯ জেনারেটর থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 2.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced by neutron irradiation of radium-226 or extracted from thorium-229 decay generators.",
+      "bn": "রেডিয়াম-২২৬ এর নিউট্রন বিকিরণ বা থোরিয়াম-২২৯ ক্ষয় জেনারেটর থেকে নিষ্কাশনের মাধ্যমে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "সামান্য"
+      },
+      "earthCrust": {
+        "en": "5.5×10⁻¹⁰ mg/kg",
+        "bn": "৫.৫×১০⁻¹⁰ মিগ্রা/কেজি"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Ac-225 valued at tens of millions of dollars per gram for medical applications.",
+      "bn": "চিকিৎসা প্রয়োগের জন্য Ac-২২৫ এর মূল্য গ্রাম প্রতি কোটি কোটি ডলার।"
+    },
+    "futureDemand": {
+      "en": "Demand growing rapidly for targeted alpha cancer therapies; production scale-up underway.",
+      "bn": "লক্ষ্যবস্তু আলফা ক্যান্সার থেরাপির জন্য চাহিদা দ্রুত বাড়ছে; উৎপাদন স্কেল-আপ চলছে।"
+    },
+    "globalImportance": {
+      "en": "Strategic radionuclide for next-generation precision oncology treatments.",
+      "bn": "পরবর্তী প্রজন্মের নির্ভুল অনকোলজি চিকিৎসার জন্য কৌশলগত রেডিওনিউক্লাইড।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intensely radioactive; emits high-energy alpha radiation with progeny that emit gamma rays.",
+      "bn": "তীব্রভাবে তেজস্ক্রিয়; উচ্চ-শক্তি আলফা বিকিরণ এবং গামা রশ্মি নির্গমনকারী বংশধরসহ।"
+    },
+    "storageRequirements": {
+      "en": "Stored in lead and tungsten shielded containers within glovebox enclosures.",
+      "bn": "গ্লাভবক্স আবদ্ধতার মধ্যে সীসা ও টাংস্টেন-আবৃত পাত্রে সংরক্ষণ।"
+    },
+    "handlingProcedures": {
+      "en": "Strict remote-handling protocols, full PPE, dosimeters, and licensed facility required.",
+      "bn": "কঠোর দূরবর্তী হ্যান্ডলিং প্রোটোকল, সম্পূর্ণ PPE, ডোসিমিটার ও লাইসেন্সপ্রাপ্ত সুবিধা প্রয়োজন।"
+    },
+    "exposureRisks": {
+      "en": "Even microgram inhalation can cause fatal radiation injury and bone marrow suppression.",
+      "bn": "এমনকি মাইক্রোগ্রাম শ্বাসগ্রহণ মারাত্মক বিকিরণ আঘাত ও অস্থি মজ্জা দমন ঘটাতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radioactive)",
+      "bn": "চরম ঝুঁকি (তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Actinium is a silvery radioactive metal that glows in the dark from its intense radioactivity.",
+      "bn": "অ্যাক্টিনিয়াম একটি রূপালী তেজস্ক্রিয় ধাতু যা তার তীব্র তেজস্ক্রিয়তার কারণে অন্ধকারে জ্বলে।"
+    },
+    "advancedExplanation": {
+      "en": "The first member of the actinide series, exhibiting [Rn]6d¹7s² configuration. Its +3 chemistry resembles lanthanum, while its alpha-emitting isotopes drive frontier nuclear medicine.",
+      "bn": "অ্যাক্টিনাইড সিরিজের প্রথম সদস্য, [Rn]6d¹7s² কনফিগারেশন প্রদর্শন করে। এর +৩ রসায়ন ল্যান্থানামের অনুরূপ, যেখানে এর আলফা-নির্গমনকারী আইসোটোপগুলো অগ্রণী পারমাণবিক চিকিৎসা চালায়।"
+    },
+    "funFacts": [
+      {
+        "en": "Actinium glows pale blue in the dark due to ionization of surrounding air.",
+        "bn": "পার্শ্ববর্তী বায়ুর আয়নীকরণের কারণে অ্যাক্টিনিয়াম অন্ধকারে হালকা নীল আলোকিত হয়।"
+      },
+      {
+        "en": "It gave its name to the entire actinide series of elements.",
+        "bn": "এটি উপাদানের সম্পূর্ণ অ্যাক্টিনাইড সিরিজকে এর নাম দিয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 57,
+        "relation": {
+          "en": "Actinium is the f-block counterpart to Lanthanum (also Group 3), with similar +3 chemistry but profound radioactivity differentiating it.",
+          "bn": "অ্যাক্টিনিয়াম ল্যান্থানামের (এছাড়াও গ্রুপ ৩) f-ব্লক প্রতিরূপ, অনুরূপ +৩ রসায়নসহ কিন্তু গভীর তেজস্ক্রিয়তা এটিকে আলাদা করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      57,
+      88,
+      90,
+      92
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium has atomic number 89, meaning 89 protons in its nucleus.",
+          "bn": "অ্যাক্টিনিয়াম এর পারমাণবিক সংখ্যা 89, অর্থাৎ নিউক্লিয়াসে 89টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Ac",
+            "bn": "Ac"
+          },
+          {
+            "en": "cA",
+            "bn": "cA"
+          },
+          {
+            "en": "XA",
+            "bn": "XA"
+          },
+          {
+            "en": "Aa",
+            "bn": "Aa"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Actinium is Ac.",
+          "bn": "অ্যাক্টিনিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Ac।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Actinium belong?",
+          "bn": "অ্যাক্টিনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Actinium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "অ্যাক্টিনিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 6d¹ 7s²",
+            "bn": "[Rn] 6d¹ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Actinium is [Rn] 6d¹ 7s².",
+          "bn": "অ্যাক্টিনিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 6d¹ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Actinium discovered or first synthesized?",
+          "bn": "কোন বছরে অ্যাক্টিনিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1889",
+            "bn": "1889"
+          },
+          {
+            "en": "1894",
+            "bn": "1894"
+          },
+          {
+            "en": "1899",
+            "bn": "1899"
+          },
+          {
+            "en": "1909",
+            "bn": "1909"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium was discovered in 1899 by André-Louis Debierne.",
+          "bn": "অ্যাক্টিনিয়াম 1899 সালে আঁদ্রে-লুই দেবিয়ের্ন আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Actinium is +3, though Ac can show others.",
+          "bn": "অ্যাক্টিনিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Ac অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Actinium belong?",
+          "bn": "অ্যাক্টিনিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium is in Period 7, the row containing the actinides.",
+          "bn": "অ্যাক্টিনিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "217",
+            "bn": "217"
+          },
+          {
+            "en": "222",
+            "bn": "222"
+          },
+          {
+            "en": "227",
+            "bn": "227"
+          },
+          {
+            "en": "247",
+            "bn": "247"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Actinium has mass number around 227.",
+          "bn": "অ্যাক্টিনিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 227।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Actinium radioactive?",
+          "bn": "অ্যাক্টিনিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Actinium are radioactive — none are stable.",
+          "bn": "অ্যাক্টিনিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Actinium have?",
+          "bn": "অ্যাক্টিনিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Actinium has 3 valence electrons available for chemical bonding.",
+          "bn": "অ্যাক্টিনিয়াম এর রাসায়নিক বন্ধনের জন্য 3টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Actinium belong to?",
+          "bn": "অ্যাক্টিনিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium is classified as a actinide.",
+          "bn": "অ্যাক্টিনিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "André-Louis Debierne",
+            "bn": "André-Louis Debierne"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium was discovered by André-Louis Debierne.",
+          "bn": "অ্যাক্টিনিয়াম আঁদ্রে-লুই দেবিয়ের্ন আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Actinium have?",
+          "bn": "অ্যাক্টিনিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 89 protons for Actinium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: অ্যাক্টিনিয়াম এর জন্য 89টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Actinium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে অ্যাক্টিনিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Actinium exists as a solid.",
+          "bn": "STP-তে, অ্যাক্টিনিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.1",
+            "bn": "1.1"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium has a Pauling electronegativity of approximately 1.1.",
+          "bn": "অ্যাক্টিনিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.1।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Actinium produced in limited quantities?",
+          "bn": "কেন অ্যাক্টিনিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Actinium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "অ্যাক্টিনিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Actinium?",
+          "bn": "অ্যাক্টিনিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Actinium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে অ্যাক্টিনিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium sits in Group 3 of the periodic table.",
+          "bn": "অ্যাক্টিনিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Actinium typically obtained?",
+          "bn": "অ্যাক্টিনিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Actinium is primarily obtained through nuclear synthesis methods.",
+          "bn": "অ্যাক্টিনিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Actinium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার অ্যাক্টিনিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Actinium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "অ্যাক্টিনিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Actinium is not a heavy metal poison in the conventional sense — its danger is purely radiological.",
+        "bn": "অ্যাক্টিনিয়াম প্রচলিত অর্থে ভারী ধাতু বিষ নয় — এর বিপদ সম্পূর্ণভাবে রেডিওলজিকাল।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember: 'Actinium' starts with 'A' and begins the Actinide series (atomic numbers 89-103).",
+        "bn": "মনে রাখুন: 'অ্যাক্টিনিয়াম' 'A' দিয়ে শুরু এবং অ্যাক্টিনাইড সিরিজ (পারমাণবিক সংখ্যা ৮৯-১০৩) শুরু করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4Ac + 3O₂ → 2Ac₂O₃",
+        "description": {
+          "en": "Rapid oxidation in air forming actinium oxide.",
+          "bn": "বাতাসে দ্রুত জারণে অ্যাক্টিনিয়াম অক্সাইড গঠন।"
+        }
+      },
+      {
+        "equation": "2Ac + 6H₂O → 2Ac(OH)₃ + 3H₂",
+        "description": {
+          "en": "Reacts with water to form actinium hydroxide and hydrogen.",
+          "bn": "জলের সাথে বিক্রিয়া করে অ্যাক্টিনিয়াম হাইড্রক্সাইড ও হাইড্রোজেন গঠন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Ac → Ac³⁺ + 3e⁻",
+        "description": {
+          "en": "Loses three valence electrons (6d¹7s²) to form Ac³⁺.",
+          "bn": "তিনটি যোজ্যতা ইলেকট্রন (6d¹7s²) হারিয়ে Ac³⁺ গঠন করে।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Ac³⁺ + 3e⁻ → Ac",
+        "description": {
+          "en": "Reduction of actinium ion to metal in metallothermic processes.",
+          "bn": "মেটালোথার্মিক প্রক্রিয়ায় অ্যাক্টিনিয়াম আয়নের ধাতুতে বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "AcF₃",
+        "description": {
+          "en": "Actinium forms an ionic trifluoride with chemistry similar to lanthanum trifluoride.",
+          "bn": "অ্যাক্টিনিয়াম ল্যান্থানাম ট্রাইফ্লোরাইডের অনুরূপ রসায়নসহ একটি আয়নিক ট্রাইফ্লোরাইড গঠন করে।"
+        }
+      }
+    ]
+  }
+}

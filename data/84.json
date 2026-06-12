@@ -1,0 +1,1013 @@
+{
+  "elementId": 84,
+  "basicInformation": {
+    "atomicNumber": 84,
+    "symbol": "Po",
+    "name": {
+      "en": "Polonium",
+      "bn": "পোলোনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/pəˈloʊniəm/",
+      "bn": "পো-লো-নি-য়াম"
+    },
+    "atomicMass": 209,
+    "category": {
+      "en": "Post-transition metal / Metalloid",
+      "bn": "পরবর্তী-অবস্থান্তর ধাতু / মেটালয়েড"
+    },
+    "group": 16,
+    "period": 6,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery metallic, glowing blue from radioactivity",
+      "bn": "রূপালী ধাতব, তেজস্ক্রিয়তা থেকে নীল আভা"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Marie and Pierre Curie",
+      "bn": "মেরি এবং পিয়ের কুরি"
+    },
+    "discoveryYear": 1898,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Discovered by the Curies in pitchblende residues; named after Marie's homeland Poland to highlight its political partition.",
+      "bn": "পিচব্লেন্ড অবশিষ্টাংশে কুরি দম্পতি আবিষ্কার করেন; মেরির স্বদেশ পোল্যান্ডের রাজনৈতিক বিভাজন তুলে ধরতে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Used as a neutron initiator in early atomic bombs (Manhattan Project) and as a static eliminator in industrial machinery.",
+      "bn": "প্রথম পারমাণবিক বোমায় (ম্যানহাটন প্রকল্প) নিউট্রন ইনিশিয়েটর এবং শিল্প যন্ত্রপাতিতে স্ট্যাটিক ইলিমিনেটর হিসেবে ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "The Curies' painstaking isolation of polonium from tons of pitchblende ore was a foundational achievement in radiochemistry.",
+      "bn": "টন পিচব্লেন্ড আকরিক থেকে কুরিদের কষ্টকর পোলোনিয়াম পৃথকীকরণ রেডিওকেমিস্ট্রিতে একটি মৌলিক অর্জন ছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 84,
+    "neutrons": 125,
+    "electrons": 84,
+    "valenceElectrons": 6,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      6
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴",
+    "orbitalConfiguration": {
+      "6s": 2,
+      "6p": 4,
+      "5d": 10,
+      "4f": 14
+    },
+    "oxidationStates": [
+      -2,
+      2,
+      4,
+      5,
+      6
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 1,
+      "magnetic": -1,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 9.196,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 527,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1235,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 168,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 140,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 197,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 20,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 2300000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.125,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Simple cubic",
+      "bn": "সরল কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Nonmagnetic",
+      "bn": "অ-চৌম্বকীয়"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.0,
+    "ionizationEnergy": {
+      "value": 812.1,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 136,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly radioactive; reacts with halogens and acids; volatile at moderate temperatures.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়; হ্যালোজেন এবং অ্যাসিডের সাথে বিক্রিয়া করে; মাঝারি তাপমাত্রায় উদ্বায়ী।"
+    },
+    "commonCompounds": [
+      "PoO₂",
+      "PoCl₂",
+      "PoCl₄",
+      "PoH₂",
+      "PoO₃"
+    ],
+    "flameTestColor": null,
+    "spectralLines": [
+      "255.8nm",
+      "417.1nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Antistatic devices in textile mills and paper manufacturing; thermoelectric power for satellites.",
+      "bn": "টেক্সটাইল মিল এবং কাগজ উৎপাদনে অ্যান্টিস্ট্যাটিক ডিভাইস; উপগ্রহের জন্য থার্মোইলেকট্রিক পাওয়ার।"
+    },
+    "commercialUses": {
+      "en": "Industrial static eliminators; lunar rover heaters in early space missions.",
+      "bn": "শিল্প স্ট্যাটিক ইলিমিনেটর; প্রাথমিক মহাকাশ মিশনে লুনার রোভার হিটার।"
+    },
+    "electronicsUses": {
+      "en": "Not used in modern electronics due to extreme radioactivity.",
+      "bn": "চরম তেজস্ক্রিয়তার কারণে আধুনিক ইলেকট্রনিক্সে ব্যবহৃত হয় না।"
+    },
+    "semiconductorUses": {
+      "en": "No semiconductor applications due to radiological hazards.",
+      "bn": "রেডিওলজিক্যাল বিপদের কারণে কোনো সেমিকন্ডাক্টর প্রয়োগ নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Lunokhod and Apollo missions used Po-210 as a heating element in lunar night.",
+      "bn": "লুনোখোদ এবং অ্যাপোলো মিশন লুনার রাতে Po-210 হিটিং উপাদান হিসেবে ব্যবহার করেছিল।"
+    },
+    "batteryUses": {
+      "en": "Historically used in radioisotope thermoelectric generators (RTGs) for short-duration missions.",
+      "bn": "ঐতিহাসিকভাবে স্বল্প-সময়ের মিশনের জন্য রেডিওআইসোটোপ থার্মোইলেকট্রিক জেনারেটরে (RTGs) ব্যবহৃত।"
+    },
+    "aiHardwareUses": {
+      "en": "Not applicable due to extreme radiological hazard.",
+      "bn": "চরম রেডিওলজিক্যাল বিপদের কারণে প্রযোজ্য নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Not applicable in renewable energy systems.",
+      "bn": "নবায়নযোগ্য শক্তি সিস্টেমে প্রযোজ্য নয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Trace use in alpha-particle calibration sources for nanoscale detectors.",
+      "bn": "ন্যানোস্কেল ডিটেক্টরের জন্য আলফা-কণা ক্যালিব্রেশন উৎসে ট্রেস ব্যবহার।"
+    },
+    "nuclearUses": {
+      "en": "Po-210 + Be neutron sources used as triggers in early nuclear weapons.",
+      "bn": "Po-210 + Be নিউট্রন উৎস প্রথম পারমাণবিক অস্ত্রে ট্রিগার হিসেবে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "Component of 'urchin' neutron initiators in fission weapons (now obsolete).",
+      "bn": "ফিশন অস্ত্রের 'urchin' নিউট্রন ইনিশিয়েটরের উপাদান (এখন অপ্রচলিত)।"
+    },
+    "medicalUses": {
+      "en": "No medical applications; extreme radiotoxicity prohibits human contact.",
+      "bn": "কোনো চিকিৎসা প্রয়োগ নেই; চরম রেডিওটক্সিসিটি মানব সংস্পর্শ নিষিদ্ধ করে।"
+    },
+    "foodIndustryUses": {
+      "en": "Trace amounts naturally present in tobacco — major source of lung cancer risk from smoking.",
+      "bn": "তামাকে প্রাকৃতিকভাবে ট্রেস পরিমাণ উপস্থিত — ধূমপান থেকে ফুসফুসের ক্যান্সার ঝুঁকির প্রধান উৎস।"
+    },
+    "constructionUses": {
+      "en": "No construction applications.",
+      "bn": "কোনো নির্মাণ প্রয়োগ নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological function; one of the most radiotoxic substances known to science.",
+      "bn": "কোনো জৈবিক কাজ নেই; বিজ্ঞানের কাছে পরিচিত সবচেয়ে রেডিওটক্সিক পদার্থগুলির একটি।"
+    },
+    "humanBodyRole": {
+      "en": "Lethal at microgram quantities; alpha emissions destroy cells from within if ingested or inhaled.",
+      "bn": "মাইক্রোগ্রাম পরিমাণে মারাত্মক; গ্রহণ বা শ্বাস নেওয়া হলে আলফা নির্গমন ভেতর থেকে কোষ ধ্বংস করে।"
+    },
+    "toxicity": {
+      "en": "Approximately 250,000 times more toxic than hydrogen cyanide by mass; gained notoriety in the Litvinenko assassination.",
+      "bn": "ভর অনুযায়ী হাইড্রোজেন সায়ানাইডের চেয়ে প্রায় ২৫০,০০০ গুণ বেশি বিষাক্ত; লিতভিনেঙ্কো হত্যায় কুখ্যাতি অর্জন।"
+    },
+    "environmentalImpact": {
+      "en": "Released by uranium mining and combustion of coal/tobacco; environmental persistence due to decay chains.",
+      "bn": "ইউরেনিয়াম খনন এবং কয়লা/তামাক দহন দ্বারা নির্গত; ক্ষয় চেইনের কারণে পরিবেশগত স্থায়িত্ব।"
+    },
+    "pollutionRisks": {
+      "en": "Concentrates in tobacco leaves via phosphate fertilizers, causing significant cancer burden in smokers.",
+      "bn": "ফসফেট সারের মাধ্যমে তামাক পাতায় ঘনীভূত হয়, ধূমপায়ীদের মধ্যে উল্লেখযোগ্য ক্যান্সার বোঝা সৃষ্টি করে।"
+    },
+    "recyclingMethods": {
+      "en": "Not recycled; spent sources are sealed and stored as long-term radioactive waste.",
+      "bn": "পুনর্ব্যবহৃত নয়; ব্যয়িত উৎসগুলি দীর্ঘমেয়াদী তেজস্ক্রিয় বর্জ্য হিসেবে সিল করে সংরক্ষিত হয়।"
+    },
+    "sustainabilityScore": 0.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Canada",
+        "bn": "কানাডা"
+      }
+    ],
+    "miningMethods": {
+      "en": "Synthesized in nuclear reactors by bismuth-209 neutron bombardment; not commercially mined.",
+      "bn": "পারমাণবিক চুল্লিতে বিসমাথ-২০৯ নিউট্রন বোমাবর্ষণ দ্বারা সংশ্লেষিত; বাণিজ্যিকভাবে খনন করা হয় না।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "ট্রেস"
+      },
+      "earthCrust": {
+        "en": "2×10⁻¹⁰ ppm",
+        "bn": "২×১০⁻¹⁰ পিপিএম"
+      },
+      "oceans": {
+        "en": "1.5×10⁻¹⁴ ppm",
+        "bn": "১.৫×১০⁻¹⁴ পিপিএম"
+      }
+    },
+    "marketValue": {
+      "en": "Approximately $3,200 per microgram of Po-210; among the most expensive substances on Earth.",
+      "bn": "Po-210 প্রতি মাইক্রোগ্রাম প্রায় $৩,২০০; পৃথিবীর সবচেয়ে ব্যয়বহুল পদার্থগুলির একটি।"
+    },
+    "futureDemand": {
+      "en": "Demand limited to specialized neutron sources and antistatic devices in nuclear facilities.",
+      "bn": "পারমাণবিক সুবিধাগুলিতে বিশেষ নিউট্রন উৎস এবং অ্যান্টিস্ট্যাটিক ডিভাইসে চাহিদা সীমাবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic for nuclear research; tightly controlled under international nonproliferation treaties.",
+      "bn": "পারমাণবিক গবেষণার জন্য কৌশলগত; আন্তর্জাতিক অপ্রসারণ চুক্তির অধীনে কঠোরভাবে নিয়ন্ত্রিত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Extreme radiological hazard; alpha emitter causing fatal internal radiation if ingested or inhaled.",
+      "bn": "চরম রেডিওলজিক্যাল বিপদ; গ্রহণ বা শ্বাস নেওয়া হলে মারাত্মক অভ্যন্তরীণ বিকিরণ ঘটায় এমন আলফা নির্গমনকারী।"
+    },
+    "storageRequirements": {
+      "en": "Sealed in welded metal capsules within shielded glove boxes; tracked under strict regulatory protocols.",
+      "bn": "ঢালযুক্ত গ্লাভ বক্সের মধ্যে ঢালাই করা ধাতব ক্যাপসুলে সিল করা; কঠোর নিয়ন্ত্রক প্রোটোকলের অধীনে ট্র্যাক করা।"
+    },
+    "handlingProcedures": {
+      "en": "Handle only in certified nuclear facilities with remote manipulation, full alpha monitoring, and HEPA filtration.",
+      "bn": "শুধুমাত্র দূরবর্তী ম্যানিপুলেশন, সম্পূর্ণ আলফা মনিটরিং এবং HEPA ফিল্ট্রেশন সহ প্রত্যয়িত পারমাণবিক সুবিধাগুলিতে পরিচালনা।"
+    },
+    "exposureRisks": {
+      "en": "Extremely lethal even at nanogram doses if internalized; causes acute radiation syndrome and multi-organ failure.",
+      "bn": "অভ্যন্তরীণ হলে ন্যানোগ্রাম মাত্রায়ও অত্যন্ত মারাত্মক; তীব্র বিকিরণ সিন্ড্রোম এবং বহু-অঙ্গ ব্যর্থতা ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radiotoxic)",
+      "bn": "চরম ঝুঁকি (রেডিওটক্সিক)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Highly Radioactive",
+        "bn": "অত্যন্ত তেজস্ক্রিয়"
+      },
+      {
+        "en": "Acute Toxicity Category 1",
+        "bn": "তীব্র বিষাক্ততা শ্রেণী ১"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Polonium is an extremely rare, highly radioactive metal famous for being deadly even in tiny amounts.",
+      "bn": "পোলোনিয়াম একটি অত্যন্ত বিরল, অত্যন্ত তেজস্ক্রিয় ধাতু যা ক্ষুদ্র পরিমাণেও মারাত্মক হওয়ার জন্য বিখ্যাত।"
+    },
+    "advancedExplanation": {
+      "en": "A volatile chalcogen with a unique simple cubic crystal structure; primarily exists as Po-210 with 138-day half-life emitting 5.3 MeV alpha particles.",
+      "bn": "একটি উদ্বায়ী চ্যালকোজেন যার অনন্য সরল কিউবিক স্ফটিক গঠন; প্রাথমিকভাবে ১৩৮-দিনের অর্ধ-জীবন সহ Po-210 হিসেবে বিদ্যমান যা ৫.৩ MeV আলফা কণা নির্গত করে।"
+    },
+    "funFacts": [
+      {
+        "en": "A single gram of Po-210 generates ~140 watts of heat from radioactive decay alone.",
+        "bn": "Po-210-এর একটি গ্রাম একা তেজস্ক্রিয় ক্ষয় থেকে প্রায় ১৪০ ওয়াট তাপ উৎপন্ন করে।"
+      },
+      {
+        "en": "Marie Curie discovered polonium first, before radium, and named it after Poland.",
+        "bn": "মেরি কুরি রেডিয়ামের আগে প্রথম পোলোনিয়াম আবিষ্কার করেন এবং পোল্যান্ডের নামে নামকরণ করেন।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 83,
+        "relation": {
+          "en": "While bismuth is its non-radioactive neighbor, polonium is one of the most radiotoxic elements; the two share little beyond proximity.",
+          "bn": "যদিও বিসমাথ এর অ-তেজস্ক্রিয় প্রতিবেশী, পোলোনিয়াম সবচেয়ে রেডিওটক্সিক উপাদানগুলির একটি; দুজনে সান্নিধ্যের বাইরে সামান্য মিল রয়েছে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      83,
+      85,
+      86,
+      52
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Polonium?",
+          "bn": "পোলোনিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "83",
+            "bn": "83"
+          },
+          {
+            "en": "84",
+            "bn": "84"
+          },
+          {
+            "en": "85",
+            "bn": "85"
+          },
+          {
+            "en": "86",
+            "bn": "86"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium (Po) has atomic number 84.",
+          "bn": "পোলোনিয়াম (Po) এর পারমাণবিক সংখ্যা 84।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which symbol represents Polonium?",
+          "bn": "কোন প্রতীক পোলোনিয়াম কে নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "Po",
+            "bn": "Po"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The chemical symbol for Polonium is Po.",
+          "bn": "পোলোনিয়াম এর রাসায়নিক প্রতীক Po।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Polonium belong to?",
+          "bn": "পোলোনিয়াম কোন শ্রেণীর অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          },
+          {
+            "en": "Post-transition metal / Metalloid",
+            "bn": "পরবর্তী-অবস্থান্তর ধাতু / মেটালয়েড"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium is classified as a Post-transition metal / Metalloid.",
+          "bn": "পোলোনিয়াম পরবর্তী-অবস্থান্তর ধাতু / মেটালয়েড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Polonium located?",
+          "bn": "পর্যায় সারণির কোন পর্যায়ে পোলোনিয়াম অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium is in period 6.",
+          "bn": "পোলোনিয়াম 6 নং পর্যায়ে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which group does Polonium belong?",
+          "bn": "পোলোনিয়াম কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "15",
+            "bn": "15"
+          },
+          {
+            "en": "16",
+            "bn": "16"
+          },
+          {
+            "en": "17",
+            "bn": "17"
+          },
+          {
+            "en": "18",
+            "bn": "18"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium is in group 16.",
+          "bn": "পোলোনিয়াম 16 নং গ্রুপে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Polonium?",
+          "bn": "পোলোনিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "199.0",
+            "bn": "199.0"
+          },
+          {
+            "en": "209.00",
+            "bn": "209.00"
+          },
+          {
+            "en": "219.0",
+            "bn": "219.0"
+          },
+          {
+            "en": "229.0",
+            "bn": "229.0"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The standard atomic mass of Polonium is approximately 209.",
+          "bn": "পোলোনিয়াম এর প্রমাণ পারমাণবিক ভর প্রায় 209।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Polonium?",
+          "bn": "পোলোনিয়াম এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Kr] 5s¹",
+            "bn": "[Kr] 5s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The ground state electron configuration of Polonium is [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴.",
+          "bn": "পোলোনিয়াম এর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary phase of Polonium at standard conditions?",
+          "bn": "আদর্শ অবস্থায় পোলোনিয়াম এর প্রাথমিক দশা কী?"
+        },
+        "options": [
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          },
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Bose-Einstein condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Polonium exists as a Solid at STP.",
+          "bn": "পোলোনিয়াম STP-তে কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Polonium?",
+          "bn": "পোলোনিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "-2",
+            "bn": "-2"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-3",
+            "bn": "-3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The most stable oxidation state of Polonium is -2.",
+          "bn": "পোলোনিয়াম এর সবচেয়ে স্থিতিশীল জারণ অবস্থা -2।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity of Polonium on the Pauling scale?",
+          "bn": "পলিং স্কেলে পোলোনিয়াম এর তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.00",
+            "bn": "1.00"
+          },
+          {
+            "en": "2.00",
+            "bn": "2.00"
+          },
+          {
+            "en": "3.00",
+            "bn": "3.00"
+          },
+          {
+            "en": "4.00",
+            "bn": "4.00"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Pauling electronegativity of Polonium is approximately 2.0.",
+          "bn": "পোলোনিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 2.0।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Polonium contain?",
+          "bn": "পোলোনিয়াম এর একটি পরমাণুতে কতগুলি প্রোটন থাকে?"
+        },
+        "options": [
+          {
+            "en": "84",
+            "bn": "84"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "79",
+            "bn": "79"
+          },
+          {
+            "en": "168",
+            "bn": "168"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By definition, Polonium has 84 protons (its atomic number).",
+          "bn": "সংজ্ঞা অনুসারে, পোলোনিয়াম এর 84 টি প্রোটন রয়েছে (এর পারমাণবিক সংখ্যা)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which block of the periodic table contains Polonium?",
+          "bn": "পর্যায় সারণির কোন ব্লক পোলোনিয়াম ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-ব্লক"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-ব্লক"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-ব্লক"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-ব্লক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium occupies the p-block.",
+          "bn": "পোলোনিয়াম p-ব্লক দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate first ionization energy of Polonium in kJ/mol?",
+          "bn": "পোলোনিয়াম এর আনুমানিক প্রথম আয়নীকরণ শক্তি kJ/mol এ কত?"
+        },
+        "options": [
+          {
+            "en": "612",
+            "bn": "612"
+          },
+          {
+            "en": "812",
+            "bn": "812"
+          },
+          {
+            "en": "1012",
+            "bn": "1012"
+          },
+          {
+            "en": "1312",
+            "bn": "1312"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The first ionization energy of Polonium is about 812.1 kJ/mol.",
+          "bn": "পোলোনিয়াম এর প্রথম আয়নীকরণ শক্তি প্রায় 812.1 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many electron shells does a neutral Polonium atom have?",
+          "bn": "একটি নিরপেক্ষ পোলোনিয়াম পরমাণুর কতটি ইলেকট্রন শেল রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium has 6 electron shells.",
+          "bn": "পোলোনিয়াম এর 6 টি ইলেকট্রন শেল রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Polonium naturally radioactive?",
+          "bn": "পোলোনিয়াম কি প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "Yes",
+            "bn": "হ্যাঁ"
+          },
+          {
+            "en": "No",
+            "bn": "না"
+          },
+          {
+            "en": "Only in compounds",
+            "bn": "শুধু যৌগে"
+          },
+          {
+            "en": "Only at high temperatures",
+            "bn": "শুধু উচ্চ তাপমাত্রায়"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Polonium is naturally radioactive.",
+          "bn": "পোলোনিয়াম প্রাকৃতিকভাবে তেজস্ক্রিয় হ্যাঁ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the melting point of Polonium in Kelvin?",
+          "bn": "পোলোনিয়াম এর গলনাঙ্ক কেলভিনে কত?"
+        },
+        "options": [
+          {
+            "en": "327",
+            "bn": "327"
+          },
+          {
+            "en": "527",
+            "bn": "527"
+          },
+          {
+            "en": "1027",
+            "bn": "1027"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The melting point of Polonium is approximately 527 K.",
+          "bn": "পোলোনিয়াম এর গলনাঙ্ক প্রায় 527 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the crystal structure of solid Polonium?",
+          "bn": "কঠিন পোলোনিয়াম এর স্ফটিক গঠন কী?"
+        },
+        "options": [
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Simple cubic",
+            "bn": "সরল কিউবিক"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium crystallizes in a Simple cubic structure.",
+          "bn": "পোলোনিয়াম সরল কিউবিক গঠনে স্ফটিকীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with discovering Polonium?",
+          "bn": "পোলোনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Marie and Pierre Curie",
+            "bn": "মেরি এবং পিয়ের কুরি"
+          },
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Antoine Lavoisier",
+            "bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium was discovered by Marie and Pierre Curie.",
+          "bn": "পোলোনিয়াম মেরি এবং পিয়ের কুরি দ্বারা আবিষ্কৃত হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the magnetic ordering of Polonium?",
+          "bn": "পোলোনিয়াম এর চৌম্বকীয় ক্রম কী?"
+        },
+        "options": [
+          {
+            "en": "Ferromagnetic",
+            "bn": "ফেরোম্যাগনেটিক"
+          },
+          {
+            "en": "Paramagnetic",
+            "bn": "প্যারাম্যাগনেটিক"
+          },
+          {
+            "en": "Nonmagnetic",
+            "bn": "অ-চৌম্বকীয়"
+          },
+          {
+            "en": "Antiferromagnetic",
+            "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Polonium exhibits Nonmagnetic behavior.",
+          "bn": "পোলোনিয়াম অ-চৌম্বকীয় আচরণ প্রদর্শন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Polonium first discovered or isolated?",
+          "bn": "পোলোনিয়াম প্রথম কোন বছর আবিষ্কৃত বা আলাদা করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1848",
+            "bn": "1848"
+          },
+          {
+            "en": "1898",
+            "bn": "1898"
+          },
+          {
+            "en": "1948",
+            "bn": "1948"
+          },
+          {
+            "en": "1998",
+            "bn": "1998"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Polonium was first identified in 1898.",
+          "bn": "পোলোনিয়াম প্রথম 1898 সালে চিহ্নিত হয়েছিল।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Polonium glows because of its radioactivity, not because it's hot.",
+        "bn": "পোলোনিয়াম এর তেজস্ক্রিয়তার কারণে জ্বলজ্বল করে, কারণ এটি গরম নয়।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember that Po-210 was the poison used in the 2006 Litvinenko assassination, illustrating its extreme toxicity.",
+        "bn": "মনে রাখবেন যে Po-210 ছিল ২০০৬ লিতভিনেঙ্কো হত্যায় ব্যবহৃত বিষ, এর চরম বিষাক্ততা চিত্রিত করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Po + O₂ → PoO₂",
+        "description": {
+          "en": "Oxidation of polonium in air forming polonium dioxide.",
+          "bn": "বাতাসে পোলোনিয়ামের জারণে পোলোনিয়াম ডাইঅক্সাইড গঠন।"
+        }
+      },
+      {
+        "equation": "Po + 2HCl → PoCl₂ + H₂",
+        "description": {
+          "en": "Reaction with hydrochloric acid producing polonium(II) chloride.",
+          "bn": "হাইড্রোক্লোরিক অ্যাসিডের সাথে বিক্রিয়ায় পোলোনিয়াম(II) ক্লোরাইড উৎপাদন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Po → Po⁴⁺ + 4e⁻",
+        "description": {
+          "en": "Oxidation to the +4 state, the most stable for polonium.",
+          "bn": "+4 অবস্থায় জারণ, পোলোনিয়ামের জন্য সবচেয়ে স্থিতিশীল।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Po⁴⁺ + 4e⁻ → Po",
+        "description": {
+          "en": "Cathodic reduction of polonium ions to elemental metal in electroplating.",
+          "bn": "ইলেকট্রোপ্লেটিংয়ে পোলোনিয়াম আয়নের মৌল ধাতুতে ক্যাথোডিক বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent Bond",
+          "bn": "সমযোজী বন্ধন"
+        },
+        "molecule": "PoH₂",
+        "description": {
+          "en": "Polonium hydride forms an unstable covalent compound analogous to H₂S.",
+          "bn": "পোলোনিয়াম হাইড্রাইড H₂S এর অনুরূপ অস্থিতিশীল সমযোজী যৌগ গঠন করে।"
+        }
+      }
+    ]
+  }
+}

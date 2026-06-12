@@ -1,0 +1,1025 @@
+{
+  "elementId": 94,
+  "basicInformation": {
+    "atomicNumber": 94,
+    "symbol": "Pu",
+    "name": {
+      "en": "Plutonium",
+      "bn": "প্লুটোনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/pluːˈtoʊniəm/",
+      "bn": "প্লু-টো-নি-আম"
+    },
+    "atomicMass": 244.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white, tarnishing to dull gray",
+      "bn": "রূপালী সাদা, ধূসর হয়ে কলঙ্কিত"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay (trace)",
+      "bn": "ক্ষয় থেকে (সামান্য)"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Glenn T. Seaborg et al.",
+      "bn": "গ্লেন টি. সিবোর্গ ও সহযোগীরা"
+    },
+    "discoveryYear": 1940,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "First synthesized by Seaborg, McMillan, Kennedy, and Wahl at Berkeley by deuteron bombardment of uranium-238. Named after Pluto, continuing the planetary naming theme.",
+      "bn": "সিবোর্গ, ম্যাকমিলান, কেনেডি ও ওয়াহল বার্কলিতে ইউরেনিয়াম-২৩৮ এর ডিউটেরন বোমাবর্ষণ দ্বারা প্রথম সংশ্লেষণ করেন। গ্রহীয় নামকরণ থিম অব্যাহত রেখে প্লুটোর নামে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Central material in the Manhattan Project; powered the 'Fat Man' bomb dropped on Nagasaki. Pu-238 has powered NASA missions since the 1960s.",
+      "bn": "ম্যানহাটান প্রকল্পের কেন্দ্রীয় উপাদান; নাগাসাকিতে নিক্ষেপিত 'ফ্যাট ম্যান' বোমাকে শক্তি দিয়েছিল। Pu-২৩৮ ১৯৬০-এর দশক থেকে NASA মিশনগুলোকে শক্তি দিচ্ছে।"
+    },
+    "famousExperiments": {
+      "en": "The Trinity test (1945) was the first detonation of a plutonium implosion device. Voyager probes still operate on Pu-238 RTGs after 45+ years.",
+      "bn": "ট্রিনিটি পরীক্ষা (১৯৪৫) ছিল প্লুটোনিয়াম ইমপ্লোশন ডিভাইসের প্রথম বিস্ফোরণ। ভয়েজার অনুসন্ধান ৪৫+ বছর পরেও Pu-২৩৮ RTGs-এ কাজ করছে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 94,
+    "neutrons": 150,
+    "electrons": 94,
+    "valenceElectrons": 6,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      24,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f⁶ 7s²",
+    "orbitalConfiguration": {
+      "5f": 6,
+      "7s": 2
+    },
+    "oxidationStates": [
+      7,
+      6,
+      5,
+      4,
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": 2,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 19.816,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 912.5,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 3505,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 159,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 187,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 243,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 6.74,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 670000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.13,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Monoclinic (α-phase, six allotropes total)",
+      "bn": "মনোক্লিনিক (α-পর্যায়, মোট ছয়টি অ্যালোট্রপ)"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.28,
+    "ionizationEnergy": {
+      "value": 584.7,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 48.33,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive; oxidizes rapidly in moist air; reacts with water and acids; pyrophoric as powder.",
+      "bn": "প্রতিক্রিয়াশীল; আর্দ্র বাতাসে দ্রুত জারিত হয়; জল ও অ্যাসিডের সাথে বিক্রিয়া করে; গুঁড়ো হিসেবে পাইরোফরিক।"
+    },
+    "commonCompounds": [
+      "PuO₂",
+      "PuF₃",
+      "PuF₄",
+      "PuF₆",
+      "PuCl₃",
+      "PuO₂²⁺"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "345.0nm",
+      "387.9nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Pu-239 used as fuel in fast breeder reactors and mixed-oxide (MOX) fuel; Pu-238 powers thermoelectric generators.",
+      "bn": "ফাস্ট ব্রিডার চুল্লি ও মিশ্রিত-অক্সাইড (MOX) জ্বালানিতে Pu-২৩৯ জ্বালানি হিসেবে ব্যবহৃত; Pu-২৩৮ থার্মোইলেকট্রিক জেনারেটরকে শক্তি দেয়।"
+    },
+    "commercialUses": {
+      "en": "No commercial market; strictly safeguarded by international treaties.",
+      "bn": "কোনো বাণিজ্যিক বাজার নেই; আন্তর্জাতিক চুক্তি দ্বারা কঠোরভাবে সুরক্ষিত।"
+    },
+    "electronicsUses": {
+      "en": "None directly.",
+      "bn": "সরাসরি কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Pu-238 RTGs power deep-space missions (Voyager, Cassini, New Horizons, Curiosity, Perseverance, Dragonfly).",
+      "bn": "Pu-২৩৮ RTGs গভীর-মহাকাশ মিশন (ভয়েজার, ক্যাসিনি, নিউ হরাইজনস, কিউরিওসিটি, পারসিভারেন্স, ড্রাগনফ্লাই) শক্তি দেয়।"
+    },
+    "batteryUses": {
+      "en": "Pu-238 thermoelectric generators provide decades of stable power without recharging.",
+      "bn": "Pu-২৩৮ থার্মোইলেকট্রিক জেনারেটর রিচার্জ ছাড়াই কয়েক দশক স্থিতিশীল শক্তি প্রদান করে।"
+    },
+    "aiHardwareUses": {
+      "en": "Conceptually proposed for ultra-long-duration autonomous AI systems in deep space.",
+      "bn": "গভীর মহাকাশে অতি-দীর্ঘ-সময়কালের স্বায়ত্তশাসিত AI সিস্টেমের জন্য ধারণাগতভাবে প্রস্তাবিত।"
+    },
+    "renewableEnergyUses": {
+      "en": "Closed-cycle fast reactors can extract ~60× more energy from uranium by breeding plutonium.",
+      "bn": "বদ্ধ-চক্র ফাস্ট চুল্লি প্লুটোনিয়াম প্রজনন করে ইউরেনিয়াম থেকে ~৬০× বেশি শক্তি বের করতে পারে।"
+    },
+    "nanotechnologyUses": {
+      "en": "PuO₂ nanoparticles studied for actinide chemistry research only.",
+      "bn": "শুধুমাত্র অ্যাক্টিনাইড রসায়ন গবেষণার জন্য PuO₂ ন্যানোকণা অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "Pu-239 is highly fissile (critical mass ~10 kg); central to nuclear weapons and fast reactors.",
+      "bn": "Pu-২৩৯ অত্যন্ত ফিসাইল (সংকটতা ভর ~১০ কেজি); পারমাণবিক অস্ত্র ও ফাস্ট চুল্লির কেন্দ্রীয়।"
+    },
+    "militaryUses": {
+      "en": "Primary fissile material in modern nuclear weapons; thousands of warheads stockpiled globally.",
+      "bn": "আধুনিক পারমাণবিক অস্ত্রের প্রাথমিক ফিসাইল উপাদান; বিশ্বব্যাপী হাজার হাজার ওয়ারহেড মজুদ।"
+    },
+    "medicalUses": {
+      "en": "Pu-238 historically used in early implantable cardiac pacemakers (1970s); now obsolete.",
+      "bn": "প্রাথমিক ইমপ্লান্টযোগ্য কার্ডিয়াক পেসমেকারে (১৯৭০) Pu-২৩৮ ঐতিহাসিকভাবে ব্যবহৃত; এখন অপ্রচলিত।"
+    },
+    "foodIndustryUses": {
+      "en": "None; absolutely excluded.",
+      "bn": "কোনো নেই; সম্পূর্ণ বাদ।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; extremely toxic; mimics iron in transport and concentrates in bones and liver.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; অত্যন্ত বিষাক্ত; পরিবহনে লোহার অনুকরণ করে এবং হাড় ও যকৃতে কেন্দ্রীভূত হয়।"
+    },
+    "humanBodyRole": {
+      "en": "None; among the most radiotoxic substances known when inhaled or ingested.",
+      "bn": "কোনো নেই; শ্বাসগ্রহণ বা গ্রহণ করলে পরিচিত সবচেয়ে তেজস্ক্রিয় বিষাক্ত পদার্থগুলোর মধ্যে।"
+    },
+    "toxicity": {
+      "en": "Highly radiotoxic; alpha emission damages internal tissues; sequesters in bones for decades.",
+      "bn": "অত্যন্ত তেজস্ক্রিয় বিষাক্ত; আলফা নির্গমন অভ্যন্তরীণ টিস্যুর ক্ষতি করে; কয়েক দশক ধরে হাড়ে আটকে থাকে।"
+    },
+    "environmentalImpact": {
+      "en": "Anthropogenic contamination from weapons tests and nuclear accidents detected globally at trace levels.",
+      "bn": "অস্ত্র পরীক্ষা ও পারমাণবিক দুর্ঘটনা থেকে নৃ-জাত দূষণ বিশ্বব্যাপী সামান্য স্তরে সনাক্ত করা হয়েছে।"
+    },
+    "pollutionRisks": {
+      "en": "Pu-239's 24,100-year half-life makes it a major multi-millennial waste hazard.",
+      "bn": "Pu-২৩৯ এর ২৪,১০০-বছরের অর্ধজীবন এটিকে একটি প্রধান বহু-সহস্রাব্দ বর্জ্য বিপদ করে তোলে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from spent fuel via PUREX process for MOX fuel fabrication.",
+      "bn": "MOX জ্বালানি উৎপাদনের জন্য PUREX প্রক্রিয়ার মাধ্যমে ব্যবহৃত জ্বালানি থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 3.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "France",
+        "bn": "ফ্রান্স"
+      },
+      {
+        "en": "United Kingdom",
+        "bn": "যুক্তরাজ্য"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined; produced exclusively in reactors via neutron capture on U-238 followed by beta decay.",
+      "bn": "খনন করা হয় না; U-২৩৮ এ নিউট্রন ক্যাপচার এবং পরবর্তী বিটা ক্ষয়ের মাধ্যমে চুল্লিতে একচেটিয়াভাবে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Effectively none",
+        "bn": "কার্যত নেই"
+      },
+      "earthCrust": {
+        "en": "~10⁻¹⁵ mg/kg",
+        "bn": "~১০⁻¹⁵ মিগ্রা/কেজি"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Weapons-grade Pu-239 valued at ~$4,000-6,000 per gram; Pu-238 ~$8 million per kg due to scarcity.",
+      "bn": "অস্ত্র-গ্রেড Pu-২৩৯ এর মূল্য ~$৪,০০০-৬,০০০ প্রতি গ্রাম; স্বল্পতার কারণে Pu-২৩৮ ~$৮ মিলিয়ন প্রতি কেজি।"
+    },
+    "futureDemand": {
+      "en": "Demand for Pu-238 growing for space exploration; civilian Pu-239 stockpiles being reduced via MOX burn-up.",
+      "bn": "মহাকাশ অনুসন্ধানের জন্য Pu-২৩৮ এর চাহিদা বাড়ছে; MOX বার্ন-আপের মাধ্যমে বেসামরিক Pu-২৩৯ মজুদ হ্রাস করা হচ্ছে।"
+    },
+    "globalImportance": {
+      "en": "Among the most strategically and politically sensitive materials on Earth; central to non-proliferation regimes.",
+      "bn": "পৃথিবীর সবচেয়ে কৌশলগত ও রাজনৈতিকভাবে সংবেদনশীল পদার্থগুলোর মধ্যে; অ-প্রসারণ ব্যবস্থার কেন্দ্রীয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Extreme alpha emitter; fissile (criticality risk); pyrophoric powder; biologically retained for decades.",
+      "bn": "চরম আলফা নির্গমনকারী; ফিসাইল (সংকটতা ঝুঁকি); পাইরোফরিক গুঁড়ো; কয়েক দশক ধরে জৈবিকভাবে ধরে রাখা।"
+    },
+    "storageRequirements": {
+      "en": "Geometry-controlled, doubly-contained storage in highly secure vaults with continuous monitoring.",
+      "bn": "ক্রমাগত পর্যবেক্ষণসহ অত্যন্ত সুরক্ষিত ভল্টে জ্যামিতি-নিয়ন্ত্রিত, দ্বিগুণ-আবদ্ধ স্টোরেজ।"
+    },
+    "handlingProcedures": {
+      "en": "Strict glovebox/hot cell handling, criticality safety, continuous bio-monitoring, multiple-person rule.",
+      "bn": "কঠোর গ্লাভবক্স/হট সেল হ্যান্ডলিং, সংকটতা সুরক্ষা, ক্রমাগত বায়ো-মনিটরিং, একাধিক-ব্যক্তি নিয়ম।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of micrograms can cause fatal lung cancer; criticality accidents have killed researchers (e.g., Demon Core).",
+      "bn": "মাইক্রোগ্রাম শ্বাসগ্রহণ মারাত্মক ফুসফুসের ক্যান্সার ঘটাতে পারে; সংকটতা দুর্ঘটনা গবেষকদের হত্যা করেছে (যেমন, ডিমন কোর)।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radioactive Fissile)",
+      "bn": "চরম ঝুঁকি (তেজস্ক্রিয় ফিসাইল)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Fissile Material",
+        "bn": "ফিসাইল পদার্থ"
+      },
+      {
+        "en": "Pyrophoric Solid",
+        "bn": "পাইরোফরিক কঠিন"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Plutonium is a man-made radioactive metal used in nuclear weapons and as fuel that powers deep-space spacecraft.",
+      "bn": "প্লুটোনিয়াম একটি মানব-নির্মিত তেজস্ক্রিয় ধাতু যা পারমাণবিক অস্ত্র ও গভীর-মহাকাশ মহাকাশযানকে শক্তি দেয় এমন জ্বালানি হিসেবে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "An actinide with six allotropic forms and extraordinarily complex 5f-electron chemistry. The α→δ phase transition involves a 25% volume change. Pu-239's fission cross-section makes it the most efficient fissile isotope known.",
+      "bn": "ছয়টি অ্যালোট্রপিক রূপ ও ব্যতিক্রমীভাবে জটিল 5f-ইলেকট্রন রসায়নসহ একটি অ্যাক্টিনাইড। α→δ পর্যায় রূপান্তর ২৫% ভলিউম পরিবর্তন জড়িত। Pu-২৩৯ এর বিভাজন ক্রস-সেকশন এটিকে পরিচিত সবচেয়ে কার্যকর ফিসাইল আইসোটোপ করে তোলে।"
+    },
+    "funFacts": [
+      {
+        "en": "Plutonium feels warm to the touch due to continuous alpha decay heating.",
+        "bn": "ক্রমাগত আলফা ক্ষয় উত্তাপের কারণে প্লুটোনিয়াম স্পর্শে উষ্ণ অনুভূত হয়।"
+      },
+      {
+        "en": "It has six different crystal structures (allotropes) at atmospheric pressure — more than any other element.",
+        "bn": "এর বায়ুমণ্ডলীয় চাপে ছয়টি ভিন্ন স্ফটিক কাঠামো (অ্যালোট্রপ) রয়েছে — অন্য যেকোনো উপাদানের চেয়ে বেশি।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 92,
+        "relation": {
+          "en": "Plutonium-239 is more fissile than Uranium-235, requiring a much smaller critical mass for nuclear chain reactions.",
+          "bn": "প্লুটোনিয়াম-২৩৯ ইউরেনিয়াম-২৩৫ এর চেয়ে বেশি ফিসাইল, পারমাণবিক শৃঙ্খল বিক্রিয়ার জন্য অনেক ছোট সংকটতা ভর প্রয়োজন।"
+        }
+      }
+    ],
+    "relatedElements": [
+      92,
+      93,
+      95,
+      96
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Plutonium?",
+          "bn": "প্লুটোনিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "92",
+            "bn": "92"
+          },
+          {
+            "en": "93",
+            "bn": "93"
+          },
+          {
+            "en": "94",
+            "bn": "94"
+          },
+          {
+            "en": "95",
+            "bn": "95"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium has atomic number 94, meaning 94 protons in its nucleus.",
+          "bn": "প্লুটোনিয়াম এর পারমাণবিক সংখ্যা 94, অর্থাৎ নিউক্লিয়াসে 94টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Plutonium?",
+          "bn": "প্লুটোনিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Pu",
+            "bn": "Pu"
+          },
+          {
+            "en": "uP",
+            "bn": "uP"
+          },
+          {
+            "en": "XP",
+            "bn": "XP"
+          },
+          {
+            "en": "Pp",
+            "bn": "Pp"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Plutonium is Pu.",
+          "bn": "প্লুটোনিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Pu।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Plutonium belong?",
+          "bn": "প্লুটোনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Plutonium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "প্লুটোনিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Plutonium?",
+          "bn": "প্লুটোনিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f⁶ 7s²",
+            "bn": "[Rn] 5f⁶ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Plutonium is [Rn] 5f⁶ 7s².",
+          "bn": "প্লুটোনিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f⁶ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Plutonium discovered or first synthesized?",
+          "bn": "কোন বছরে প্লুটোনিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1930",
+            "bn": "1930"
+          },
+          {
+            "en": "1935",
+            "bn": "1935"
+          },
+          {
+            "en": "1940",
+            "bn": "1940"
+          },
+          {
+            "en": "1950",
+            "bn": "1950"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium was discovered in 1940 by Glenn T. Seaborg et al..",
+          "bn": "প্লুটোনিয়াম 1940 সালে গ্লেন টি. সিবোর্গ ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Plutonium?",
+          "bn": "প্লুটোনিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Plutonium is +3, though Pu can show others.",
+          "bn": "প্লুটোনিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Pu অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Plutonium belong?",
+          "bn": "প্লুটোনিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium is in Period 7, the row containing the actinides.",
+          "bn": "প্লুটোনিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Plutonium?",
+          "bn": "প্লুটোনিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "234",
+            "bn": "234"
+          },
+          {
+            "en": "239",
+            "bn": "239"
+          },
+          {
+            "en": "244",
+            "bn": "244"
+          },
+          {
+            "en": "264",
+            "bn": "264"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Plutonium has mass number around 244.",
+          "bn": "প্লুটোনিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 244।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Plutonium radioactive?",
+          "bn": "প্লুটোনিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Plutonium are radioactive — none are stable.",
+          "bn": "প্লুটোনিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Plutonium have?",
+          "bn": "প্লুটোনিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Plutonium has 6 valence electrons available for chemical bonding.",
+          "bn": "প্লুটোনিয়াম এর রাসায়নিক বন্ধনের জন্য 6টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Plutonium belong to?",
+          "bn": "প্লুটোনিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium is classified as a actinide.",
+          "bn": "প্লুটোনিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Plutonium?",
+          "bn": "প্লুটোনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Glenn T. Seaborg et al.",
+            "bn": "Glenn T. Seaborg et al."
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium was discovered by Glenn T. Seaborg et al..",
+          "bn": "প্লুটোনিয়াম গ্লেন টি. সিবোর্গ ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Plutonium have?",
+          "bn": "প্লুটোনিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "93",
+            "bn": "93"
+          },
+          {
+            "en": "94",
+            "bn": "94"
+          },
+          {
+            "en": "95",
+            "bn": "95"
+          },
+          {
+            "en": "96",
+            "bn": "96"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 94 protons for Plutonium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: প্লুটোনিয়াম এর জন্য 94টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Plutonium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে প্লুটোনিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Plutonium exists as a solid.",
+          "bn": "STP-তে, প্লুটোনিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Plutonium?",
+          "bn": "প্লুটোনিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.28",
+            "bn": "1.28"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium has a Pauling electronegativity of approximately 1.28.",
+          "bn": "প্লুটোনিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.28।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Plutonium produced in limited quantities?",
+          "bn": "কেন প্লুটোনিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Plutonium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "প্লুটোনিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Plutonium?",
+          "bn": "প্লুটোনিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Plutonium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে প্লুটোনিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium sits in Group 3 of the periodic table.",
+          "bn": "প্লুটোনিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Plutonium typically obtained?",
+          "bn": "প্লুটোনিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Plutonium is primarily obtained through nuclear synthesis methods.",
+          "bn": "প্লুটোনিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Plutonium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার প্লুটোনিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Plutonium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "প্লুটোনিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Plutonium is the most toxic substance known — actually botulinum toxin is far more lethal per microgram, but plutonium's combined radiological + chemical toxicity makes it uniquely dangerous.",
+        "bn": "প্লুটোনিয়াম পরিচিত সবচেয়ে বিষাক্ত পদার্থ — আসলে বটুলিনাম টক্সিন মাইক্রোগ্রাম প্রতি অনেক বেশি মারাত্মক, কিন্তু প্লুটোনিয়ামের সম্মিলিত রেডিওলজিকাল + রাসায়নিক বিষাক্ততা এটিকে অনন্যভাবে বিপজ্জনক করে তোলে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Pu-239 is the weapons isotope (24,100-year half-life); Pu-238 is the space-power isotope (87.7-year half-life).",
+        "bn": "Pu-২৩৯ অস্ত্র আইসোটোপ (২৪,১০০-বছর অর্ধজীবন); Pu-২৩৮ মহাকাশ-শক্তি আইসোটোপ (৮৭.৭-বছর অর্ধজীবন)।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²³⁹Pu + n → fission products + 2-3n + ~210 MeV",
+        "description": {
+          "en": "Neutron-induced fission of plutonium-239 sustaining nuclear chain reactions.",
+          "bn": "পারমাণবিক শৃঙ্খল বিক্রিয়া বজায় রাখা প্লুটোনিয়াম-২৩৯ এর নিউট্রন-প্ররোচিত বিভাজন।"
+        }
+      },
+      {
+        "equation": "Pu + 2H₂O → Pu(OH)₂ + H₂",
+        "description": {
+          "en": "Reaction of plutonium metal with water forming hydroxide and hydrogen.",
+          "bn": "হাইড্রক্সাইড ও হাইড্রোজেন গঠনকারী জলের সাথে প্লুটোনিয়াম ধাতুর বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Pu → Pu⁴⁺ + 4e⁻",
+        "description": {
+          "en": "Oxidation to Pu(IV), a common state in reprocessing chemistry.",
+          "bn": "Pu(IV)-এ জারণ, পুনঃপ্রক্রিয়াকরণ রসায়নে একটি সাধারণ অবস্থা।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "PuO₂²⁺ + 2e⁻ → Pu⁴⁺ + 2H₂O (with H⁺)",
+        "description": {
+          "en": "Reduction of plutonyl(VI) to Pu(IV) in PUREX solvent extraction.",
+          "bn": "PUREX দ্রাবক নিষ্কাশনে প্লুটোনাইল(VI) এর Pu(IV)-এ বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Actinide Coordination",
+          "bn": "অ্যাক্টিনাইড সমন্বয়"
+        },
+        "molecule": "Pu(NO₃)₄",
+        "description": {
+          "en": "Plutonium(IV) nitrate forms complex coordination compounds central to nuclear fuel reprocessing.",
+          "bn": "প্লুটোনিয়াম(IV) নাইট্রেট পারমাণবিক জ্বালানি পুনঃপ্রক্রিয়াকরণের কেন্দ্রীয় জটিল সমন্বয় যৌগ গঠন করে।"
+        }
+      }
+    ]
+  }
+}

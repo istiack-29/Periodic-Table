@@ -1,0 +1,1016 @@
+{
+  "elementId": 81,
+  "basicInformation": {
+    "atomicNumber": 81,
+    "symbol": "Tl",
+    "name": {
+      "en": "Thallium",
+      "bn": "থ্যালিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈθæliəm/",
+      "bn": "থ্যা-লি-য়াম"
+    },
+    "atomicMass": 204.38,
+    "category": {
+      "en": "Post-transition metal",
+      "bn": "পরবর্তী-অবস্থান্তর ধাতু"
+    },
+    "group": 13,
+    "period": 6,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white, tarnishes to bluish-grey",
+      "bn": "রূপালী সাদা, নীলাভ ধূসর রঙে কলঙ্কিত"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "William Crookes",
+      "bn": "উইলিয়াম ক্রুকস"
+    },
+    "discoveryYear": 1861,
+    "discoveryLocation": {
+      "en": "United Kingdom",
+      "bn": "যুক্তরাজ্য"
+    },
+    "discoveryStory": {
+      "en": "Discovered spectroscopically by Crookes via its bright green emission line; named from Greek 'thallos' (green shoot).",
+      "bn": "ক্রুকস বর্ণালীবীক্ষণিকভাবে এর উজ্জ্বল সবুজ নির্গমন রেখার মাধ্যমে আবিষ্কার করেন; গ্রিক 'থ্যালোস' (সবুজ অঙ্কুর) থেকে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Historically used as rat poison and insecticide (thallium sulfate) before being banned for extreme toxicity.",
+      "bn": "অত্যন্ত বিষাক্ততার কারণে নিষিদ্ধ হওয়ার আগে ইঁদুরের বিষ এবং কীটনাশক (থ্যালিয়াম সালফেট) হিসেবে ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Crookes and Lamy independently isolated metallic thallium in 1862 via electrolysis.",
+      "bn": "ক্রুকস এবং ল্যামি ১৮৬২ সালে তড়িৎ বিশ্লেষণের মাধ্যমে স্বাধীনভাবে ধাতব থ্যালিয়াম আলাদা করেন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 81,
+    "neutrons": 124,
+    "electrons": 81,
+    "valenceElectrons": 3,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      3
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹",
+    "orbitalConfiguration": {
+      "6s": 2,
+      "6p": 1,
+      "5d": 10,
+      "4f": 14
+    },
+    "oxidationStates": [
+      1,
+      3,
+      -1,
+      -2,
+      -5
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 1,
+      "magnetic": -1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 11.85,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 577,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1746,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 170,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 145,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 196,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 46.1,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 6170000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.129,
+      "unit": "J/(g·K)"
+    },
+    "hardness": 1.2,
+    "crystalStructure": {
+      "en": "Hexagonal close-packed",
+      "bn": "ষড়ভুজাকার সংকুলিত"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.62,
+    "ionizationEnergy": {
+      "value": 589.4,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 19.2,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Tarnishes rapidly in moist air; reacts with acids; forms stable Tl(I) compounds resembling alkali metals.",
+      "bn": "আর্দ্র বাতাসে দ্রুত কলঙ্কিত হয়; অ্যাসিডের সাথে বিক্রিয়া করে; ক্ষারীয় ধাতুর মতো স্থিতিশীল Tl(I) যৌগ গঠন করে।"
+    },
+    "commonCompounds": [
+      "Tl₂SO₄",
+      "TlCl",
+      "Tl₂O₃",
+      "TlOH",
+      "TlBr"
+    ],
+    "flameTestColor": {
+      "en": "Bright green",
+      "bn": "উজ্জ্বল সবুজ"
+    },
+    "spectralLines": [
+      "377.6nm",
+      "535.0nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Production of low-melting glasses, high-density liquids for mineral separation, and infrared optical systems.",
+      "bn": "নিম্ন-গলনাঙ্ক গ্লাস, খনিজ পৃথকীকরণের উচ্চ-ঘনত্ব তরল এবং ইনফ্রারেড অপটিক্যাল সিস্টেম উৎপাদনে।"
+    },
+    "commercialUses": {
+      "en": "Specialty thermometers, photoelectric cells, and gamma radiation detectors.",
+      "bn": "বিশেষ থার্মোমিটার, ফটোইলেকট্রিক সেল এবং গামা বিকিরণ ডিটেক্টর।"
+    },
+    "electronicsUses": {
+      "en": "Thallium bromide-iodide (KRS-5) crystals used in infrared spectroscopy detectors.",
+      "bn": "থ্যালিয়াম ব্রোমাইড-আয়োডাইড (KRS-5) স্ফটিক ইনফ্রারেড ডিটেক্টরে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Thallium-based high-Tc superconductors (Tl-Ba-Ca-Cu-O) studied for quantum applications.",
+      "bn": "থ্যালিয়াম-ভিত্তিক উচ্চ-Tc সুপারকন্ডাক্টর (Tl-Ba-Ca-Cu-O) কোয়ান্টাম প্রয়োগের জন্য অধ্যয়ন করা হয়।"
+    },
+    "aerospaceUses": {
+      "en": "Specialty alloys for aerospace bearings operating at cryogenic temperatures.",
+      "bn": "ক্রায়োজেনিক তাপমাত্রায় কাজ করা মহাকাশ বিয়ারিংয়ের বিশেষ অ্যালয়।"
+    },
+    "batteryUses": {
+      "en": "Limited use in experimental high-energy-density battery research.",
+      "bn": "পরীক্ষামূলক উচ্চ-শক্তি ঘনত্ব ব্যাটারি গবেষণায় সীমিত ব্যবহার।"
+    },
+    "aiHardwareUses": {
+      "en": "Investigated in cryogenic infrared sensors for AI-driven astronomical data processing.",
+      "bn": "AI-চালিত জ্যোতির্বৈজ্ঞানিক ডেটা প্রক্রিয়াকরণের জন্য ক্রায়োজেনিক ইনফ্রারেড সেন্সরে অন্বেষণ।"
+    },
+    "renewableEnergyUses": {
+      "en": "Not significantly used in renewable energy due to toxicity.",
+      "bn": "বিষাক্ততার কারণে নবায়নযোগ্য শক্তিতে উল্লেখযোগ্য ব্যবহার নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Thallium chalcogenide nanowires explored in topological insulator research.",
+      "bn": "টপোলজিক্যাল ইনসুলেটর গবেষণায় থ্যালিয়াম চ্যালকোজেনাইড ন্যানোতার অন্বেষণ।"
+    },
+    "nuclearUses": {
+      "en": "Tl-201 isotope used in nuclear cardiology stress tests.",
+      "bn": "Tl-201 আইসোটোপ নিউক্লিয়ার কার্ডিওলজি স্ট্রেস টেস্টে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "Historically considered for chemical warfare; now strictly prohibited.",
+      "bn": "ঐতিহাসিকভাবে রাসায়নিক যুদ্ধের জন্য বিবেচিত; এখন কঠোরভাবে নিষিদ্ধ।"
+    },
+    "medicalUses": {
+      "en": "Thallium-201 chloride is a key radiopharmaceutical for myocardial perfusion imaging.",
+      "bn": "থ্যালিয়াম-২০১ ক্লোরাইড মায়োকার্ডিয়াল পারফিউশন ইমেজিংয়ের জন্য মূল রেডিওফার্মাসিউটিক্যাল।"
+    },
+    "foodIndustryUses": {
+      "en": "Strictly prohibited in food industry due to extreme toxicity.",
+      "bn": "অত্যন্ত বিষাক্ততার কারণে খাদ্য শিল্পে কঠোরভাবে নিষিদ্ধ।"
+    },
+    "constructionUses": {
+      "en": "No construction applications due to health hazards.",
+      "bn": "স্বাস্থ্যঝুঁকির কারণে নির্মাণ ক্ষেত্রে কোনো প্রয়োগ নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological role; highly toxic by mimicking potassium ions in cells.",
+      "bn": "কোনো পরিচিত জৈবিক ভূমিকা নেই; কোষে পটাশিয়াম আয়নের অনুকরণ করে অত্যন্ত বিষাক্ত।"
+    },
+    "humanBodyRole": {
+      "en": "No physiological role; ingestion disrupts potassium-dependent enzymes causing hair loss, neuropathy, and death.",
+      "bn": "কোনো শারীরবৃত্তীয় ভূমিকা নেই; গ্রহণ পটাশিয়াম-নির্ভর এনজাইম ব্যাহত করে চুল পড়া, নিউরোপ্যাথি এবং মৃত্যু ঘটায়।"
+    },
+    "toxicity": {
+      "en": "Extremely toxic; lethal dose ~1g for adults. Known as 'the poisoner's poison' due to tastelessness.",
+      "bn": "অত্যন্ত বিষাক্ত; প্রাপ্তবয়স্কদের জন্য মারাত্মক ডোজ ~১ গ্রাম। স্বাদহীনতার কারণে 'বিষদাতার বিষ' নামে পরিচিত।"
+    },
+    "environmentalImpact": {
+      "en": "Bioaccumulates in soils and aquatic ecosystems; persistent environmental contaminant.",
+      "bn": "মাটি এবং জলজ বাস্তুতন্ত্রে জৈব-সঞ্চয় হয়; স্থায়ী পরিবেশ দূষক।"
+    },
+    "pollutionRisks": {
+      "en": "Released by coal combustion and cement production; contaminates water near smelters.",
+      "bn": "কয়লা দহন এবং সিমেন্ট উৎপাদন দ্বারা নির্গত; গন্ধক কারখানার কাছে জল দূষিত করে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from flue dust at lead and zinc smelters via leaching and precipitation.",
+      "bn": "সীসা এবং দস্তা গন্ধক কারখানার ফ্লু ধুলো থেকে লিচিং ও অধঃক্ষেপণে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 3.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Kazakhstan",
+        "bn": "কাজাখস্তান"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "China",
+        "bn": "চীন"
+      }
+    ],
+    "miningMethods": {
+      "en": "Recovered as byproduct from sulfide ore smelting of copper, lead, and zinc.",
+      "bn": "তামা, সীসা এবং দস্তার সালফাইড আকরিক গন্ধকীকরণ থেকে উপজাত হিসেবে পুনরুদ্ধার।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "5×10⁻⁸ % by mass",
+        "bn": "ভর অনুযায়ী ৫×১০⁻⁸ %"
+      },
+      "earthCrust": {
+        "en": "0.85 ppm",
+        "bn": "০.৮৫ পিপিএম"
+      },
+      "oceans": {
+        "en": "1.9×10⁻⁵ ppm",
+        "bn": "১.৯×১০⁻⁵ পিপিএম"
+      }
+    },
+    "marketValue": {
+      "en": "Approximately $7,000–$9,000 per kg for high-purity metal.",
+      "bn": "উচ্চ-বিশুদ্ধতার ধাতুর জন্য প্রায় $৭,০০০–$৯,০০০ প্রতি কেজি।"
+    },
+    "futureDemand": {
+      "en": "Limited growth; specialized demand for medical imaging and infrared optics.",
+      "bn": "সীমিত বৃদ্ধি; চিকিৎসা ইমেজিং ও ইনফ্রারেড অপটিক্সের জন্য বিশেষ চাহিদা।"
+    },
+    "globalImportance": {
+      "en": "Strategic for nuclear medicine; declining industrial use due to toxicity regulations.",
+      "bn": "পারমাণবিক চিকিৎসার জন্য কৌশলগত; বিষাক্ততা বিধির কারণে শিল্প ব্যবহার হ্রাস।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly toxic by all routes of exposure; cumulative poison absorbed through skin.",
+      "bn": "সব এক্সপোজার পথে অত্যন্ত বিষাক্ত; ত্বকের মাধ্যমে শোষিত ক্রমবর্ধমান বিষ।"
+    },
+    "storageRequirements": {
+      "en": "Store sealed under inert atmosphere or oil; locked hazardous chemical cabinets.",
+      "bn": "নিষ্ক্রিয় বায়ুমণ্ডলে বা তেলের নিচে সিল করে সংরক্ষণ; লক করা বিপজ্জনক রাসায়নিক ক্যাবিনেট।"
+    },
+    "handlingProcedures": {
+      "en": "Wear chemical-resistant gloves, respirators, full PPE; handle only in fume hoods.",
+      "bn": "রাসায়নিক-প্রতিরোধী গ্লাভস, রেসপিরেটর, সম্পূর্ণ PPE পরিধান করুন; শুধুমাত্র ফিউম হুডে পরিচালনা।"
+    },
+    "exposureRisks": {
+      "en": "Causes alopecia, peripheral neuropathy, gastrointestinal distress, and potentially death.",
+      "bn": "চুল পড়া, পেরিফেরাল নিউরোপ্যাথি, পরিপাকতন্ত্রের সমস্যা এবং সম্ভাব্য মৃত্যু ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Acute Toxicity)",
+      "bn": "চরম ঝুঁকি (তীব্র বিষাক্ততা)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Acute Toxicity Category 1",
+        "bn": "তীব্র বিষাক্ততা শ্রেণী ১"
+      },
+      {
+        "en": "Environmental Hazard",
+        "bn": "পরিবেশগত বিপদ"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Thallium is a soft, silvery metal that is extremely poisonous and was once used to kill rats.",
+      "bn": "থ্যালিয়াম একটি নরম, রূপালী ধাতু যা অত্যন্ত বিষাক্ত এবং একসময় ইঁদুর মারতে ব্যবহৃত হত।"
+    },
+    "advancedExplanation": {
+      "en": "A post-transition metal exhibiting strong inert pair effect, preferring Tl(I) oxidation state. Its ionic radius matches K⁺, enabling biological mimicry.",
+      "bn": "একটি পরবর্তী-অবস্থান্তর ধাতু যা শক্তিশালী নিষ্ক্রিয় জোড়া প্রভাব প্রদর্শন করে, Tl(I) জারণ অবস্থা পছন্দ করে। এর আয়নিক ব্যাসার্ধ K⁺ এর সাথে মিলে, জৈবিক অনুকরণ সক্ষম করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Often called the 'poisoner's poison' because thallium salts are tasteless, odorless, and colorless.",
+        "bn": "থ্যালিয়াম লবণ স্বাদহীন, গন্ধহীন এবং বর্ণহীন হওয়ায় প্রায়শই 'বিষদাতার বিষ' বলা হয়।"
+      },
+      {
+        "en": "Agatha Christie used thallium poisoning as a plot device in her novel 'The Pale Horse'.",
+        "bn": "অ্যাগাথা ক্রিস্টি তার উপন্যাস 'দ্য পেল হর্স'-এ থ্যালিয়াম বিষক্রিয়া প্লট ডিভাইস হিসেবে ব্যবহার করেছিলেন।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 82,
+        "relation": {
+          "en": "Thallium and lead are both heavy post-transition metals with significant toxicity, but thallium is far more potent as it mimics potassium biologically.",
+          "bn": "থ্যালিয়াম এবং সীসা উভয়ই উল্লেখযোগ্য বিষাক্ততা সহ ভারী পরবর্তী-অবস্থান্তর ধাতু, কিন্তু থ্যালিয়াম জৈবিকভাবে পটাশিয়ামের অনুকরণ করায় অনেক বেশি শক্তিশালী।"
+        }
+      }
+    ],
+    "relatedElements": [
+      49,
+      82,
+      83,
+      80
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Thallium?",
+          "bn": "থ্যালিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "80",
+            "bn": "80"
+          },
+          {
+            "en": "81",
+            "bn": "81"
+          },
+          {
+            "en": "82",
+            "bn": "82"
+          },
+          {
+            "en": "83",
+            "bn": "83"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium (Tl) has atomic number 81.",
+          "bn": "থ্যালিয়াম (Tl) এর পারমাণবিক সংখ্যা 81।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which symbol represents Thallium?",
+          "bn": "কোন প্রতীক থ্যালিয়াম কে নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "Tl",
+            "bn": "Tl"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The chemical symbol for Thallium is Tl.",
+          "bn": "থ্যালিয়াম এর রাসায়নিক প্রতীক Tl।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Thallium belong to?",
+          "bn": "থ্যালিয়াম কোন শ্রেণীর অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          },
+          {
+            "en": "Post-transition metal",
+            "bn": "পরবর্তী-অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium is classified as a Post-transition metal.",
+          "bn": "থ্যালিয়াম পরবর্তী-অবস্থান্তর ধাতু হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Thallium located?",
+          "bn": "পর্যায় সারণির কোন পর্যায়ে থ্যালিয়াম অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium is in period 6.",
+          "bn": "থ্যালিয়াম 6 নং পর্যায়ে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which group does Thallium belong?",
+          "bn": "থ্যালিয়াম কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "12",
+            "bn": "12"
+          },
+          {
+            "en": "13",
+            "bn": "13"
+          },
+          {
+            "en": "14",
+            "bn": "14"
+          },
+          {
+            "en": "15",
+            "bn": "15"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium is in group 13.",
+          "bn": "থ্যালিয়াম 13 নং গ্রুপে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Thallium?",
+          "bn": "থ্যালিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "194.4",
+            "bn": "194.4"
+          },
+          {
+            "en": "204.38",
+            "bn": "204.38"
+          },
+          {
+            "en": "214.4",
+            "bn": "214.4"
+          },
+          {
+            "en": "224.4",
+            "bn": "224.4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The standard atomic mass of Thallium is approximately 204.38.",
+          "bn": "থ্যালিয়াম এর প্রমাণ পারমাণবিক ভর প্রায় 204.38।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Thallium?",
+          "bn": "থ্যালিয়াম এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Kr] 5s¹",
+            "bn": "[Kr] 5s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The ground state electron configuration of Thallium is [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹.",
+          "bn": "থ্যালিয়াম এর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary phase of Thallium at standard conditions?",
+          "bn": "আদর্শ অবস্থায় থ্যালিয়াম এর প্রাথমিক দশা কী?"
+        },
+        "options": [
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          },
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Bose-Einstein condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thallium exists as a Solid at STP.",
+          "bn": "থ্যালিয়াম STP-তে কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Thallium?",
+          "bn": "থ্যালিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-3",
+            "bn": "-3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The most stable oxidation state of Thallium is +1.",
+          "bn": "থ্যালিয়াম এর সবচেয়ে স্থিতিশীল জারণ অবস্থা +1।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity of Thallium on the Pauling scale?",
+          "bn": "পলিং স্কেলে থ্যালিয়াম এর তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.62",
+            "bn": "0.62"
+          },
+          {
+            "en": "1.62",
+            "bn": "1.62"
+          },
+          {
+            "en": "2.62",
+            "bn": "2.62"
+          },
+          {
+            "en": "3.62",
+            "bn": "3.62"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Pauling electronegativity of Thallium is approximately 1.62.",
+          "bn": "থ্যালিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.62।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Thallium contain?",
+          "bn": "থ্যালিয়াম এর একটি পরমাণুতে কতগুলি প্রোটন থাকে?"
+        },
+        "options": [
+          {
+            "en": "81",
+            "bn": "81"
+          },
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "76",
+            "bn": "76"
+          },
+          {
+            "en": "162",
+            "bn": "162"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By definition, Thallium has 81 protons (its atomic number).",
+          "bn": "সংজ্ঞা অনুসারে, থ্যালিয়াম এর 81 টি প্রোটন রয়েছে (এর পারমাণবিক সংখ্যা)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which block of the periodic table contains Thallium?",
+          "bn": "পর্যায় সারণির কোন ব্লক থ্যালিয়াম ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-ব্লক"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-ব্লক"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-ব্লক"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-ব্লক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium occupies the p-block.",
+          "bn": "থ্যালিয়াম p-ব্লক দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate first ionization energy of Thallium in kJ/mol?",
+          "bn": "থ্যালিয়াম এর আনুমানিক প্রথম আয়নীকরণ শক্তি kJ/mol এ কত?"
+        },
+        "options": [
+          {
+            "en": "389",
+            "bn": "389"
+          },
+          {
+            "en": "589",
+            "bn": "589"
+          },
+          {
+            "en": "789",
+            "bn": "789"
+          },
+          {
+            "en": "1089",
+            "bn": "1089"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The first ionization energy of Thallium is about 589.4 kJ/mol.",
+          "bn": "থ্যালিয়াম এর প্রথম আয়নীকরণ শক্তি প্রায় 589.4 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many electron shells does a neutral Thallium atom have?",
+          "bn": "একটি নিরপেক্ষ থ্যালিয়াম পরমাণুর কতটি ইলেকট্রন শেল রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium has 6 electron shells.",
+          "bn": "থ্যালিয়াম এর 6 টি ইলেকট্রন শেল রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Thallium naturally radioactive?",
+          "bn": "থ্যালিয়াম কি প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "Yes",
+            "bn": "হ্যাঁ"
+          },
+          {
+            "en": "No",
+            "bn": "না"
+          },
+          {
+            "en": "Only in compounds",
+            "bn": "শুধু যৌগে"
+          },
+          {
+            "en": "Only at high temperatures",
+            "bn": "শুধু উচ্চ তাপমাত্রায়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium is not naturally radioactive.",
+          "bn": "থ্যালিয়াম প্রাকৃতিকভাবে তেজস্ক্রিয় নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the melting point of Thallium in Kelvin?",
+          "bn": "থ্যালিয়াম এর গলনাঙ্ক কেলভিনে কত?"
+        },
+        "options": [
+          {
+            "en": "377",
+            "bn": "377"
+          },
+          {
+            "en": "577",
+            "bn": "577"
+          },
+          {
+            "en": "1077",
+            "bn": "1077"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The melting point of Thallium is approximately 577 K.",
+          "bn": "থ্যালিয়াম এর গলনাঙ্ক প্রায় 577 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the crystal structure of solid Thallium?",
+          "bn": "কঠিন থ্যালিয়াম এর স্ফটিক গঠন কী?"
+        },
+        "options": [
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Hexagonal close-packed",
+            "bn": "ষড়ভুজাকার সংকুলিত"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium crystallizes in a Hexagonal close-packed structure.",
+          "bn": "থ্যালিয়াম ষড়ভুজাকার সংকুলিত গঠনে স্ফটিকীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with discovering Thallium?",
+          "bn": "থ্যালিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "William Crookes",
+            "bn": "উইলিয়াম ক্রুকস"
+          },
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Antoine Lavoisier",
+            "bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium was discovered by William Crookes.",
+          "bn": "থ্যালিয়াম উইলিয়াম ক্রুকস দ্বারা আবিষ্কৃত হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the magnetic ordering of Thallium?",
+          "bn": "থ্যালিয়াম এর চৌম্বকীয় ক্রম কী?"
+        },
+        "options": [
+          {
+            "en": "Ferromagnetic",
+            "bn": "ফেরোম্যাগনেটিক"
+          },
+          {
+            "en": "Paramagnetic",
+            "bn": "প্যারাম্যাগনেটিক"
+          },
+          {
+            "en": "Diamagnetic",
+            "bn": "ডায়াম্যাগনেটিক"
+          },
+          {
+            "en": "Antiferromagnetic",
+            "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thallium exhibits Diamagnetic behavior.",
+          "bn": "থ্যালিয়াম ডায়াম্যাগনেটিক আচরণ প্রদর্শন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Thallium first discovered or isolated?",
+          "bn": "থ্যালিয়াম প্রথম কোন বছর আবিষ্কৃত বা আলাদা করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1811",
+            "bn": "1811"
+          },
+          {
+            "en": "1861",
+            "bn": "1861"
+          },
+          {
+            "en": "1911",
+            "bn": "1911"
+          },
+          {
+            "en": "1961",
+            "bn": "1961"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thallium was first identified in 1861.",
+          "bn": "থ্যালিয়াম প্রথম 1861 সালে চিহ্নিত হয়েছিল।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Thallium is safe in small amounts since it's only toxic at high doses.",
+        "bn": "থ্যালিয়াম অল্প পরিমাণে নিরাপদ যেহেতু এটি শুধু উচ্চ মাত্রায় বিষাক্ত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Tl is in Group 13 with Aluminum but behaves more like Group 1 alkali metals due to the inert pair effect.",
+        "bn": "Tl অ্যালুমিনিয়ামের সাথে গ্রুপ ১৩-এ কিন্তু নিষ্ক্রিয় জোড়া প্রভাবের কারণে গ্রুপ ১ ক্ষারীয় ধাতুর মতো আচরণ করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4Tl + O₂ → 2Tl₂O",
+        "description": {
+          "en": "Oxidation of thallium in moist air forming thallium(I) oxide.",
+          "bn": "আর্দ্র বাতাসে থ্যালিয়ামের জারণে থ্যালিয়াম(I) অক্সাইড গঠন।"
+        }
+      },
+      {
+        "equation": "2Tl + 2HCl → 2TlCl + H₂",
+        "description": {
+          "en": "Reaction with hydrochloric acid producing thallium(I) chloride.",
+          "bn": "হাইড্রোক্লোরিক অ্যাসিডের সাথে বিক্রিয়ায় থ্যালিয়াম(I) ক্লোরাইড উৎপাদন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Tl → Tl⁺ + e⁻",
+        "description": {
+          "en": "Oxidation to thallium(I) ion, the most stable oxidation state.",
+          "bn": "থ্যালিয়াম(I) আয়নে জারণ, সবচেয়ে স্থিতিশীল জারণ অবস্থা।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Tl³⁺ + 2e⁻ → Tl⁺",
+        "description": {
+          "en": "Reduction of Tl(III) to Tl(I), favored by the inert pair effect.",
+          "bn": "Tl(III) এর Tl(I) তে বিজারণ, নিষ্ক্রিয় জোড়া প্রভাবে পছন্দনীয়।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "Tl₂SO₄",
+        "description": {
+          "en": "Thallium loses one electron to form an ionic compound similar to alkali metal sulfates.",
+          "bn": "থ্যালিয়াম একটি ইলেকট্রন হারিয়ে ক্ষারীয় ধাতু সালফেটের মতো আয়নিক যৌগ গঠন করে।"
+        }
+      }
+    ]
+  }
+}

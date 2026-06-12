@@ -1,0 +1,1007 @@
+{
+  "elementId": 85,
+  "basicInformation": {
+    "atomicNumber": 85,
+    "symbol": "At",
+    "name": {
+      "en": "Astatine",
+      "bn": "অ্যাস্টাটাইন"
+    },
+    "pronunciation": {
+      "en": "/ˈæstətiːn/",
+      "bn": "অ্যাস-টা-টিন"
+    },
+    "atomicMass": 210,
+    "category": {
+      "en": "Halogen / Metalloid",
+      "bn": "হ্যালোজেন / মেটালয়েড"
+    },
+    "group": 17,
+    "period": 6,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Presumed metallic black (never seen in bulk)",
+      "bn": "ধাতব কালো অনুমিত (বাল্কে কখনও দেখা যায়নি)"
+    },
+    "color": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Corson, MacKenzie, Segrè",
+      "bn": "কর্সন, ম্যাকেঞ্জি, সেগ্রে"
+    },
+    "discoveryYear": 1940,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "Synthesized at UC Berkeley by bombarding bismuth with alpha particles; named from Greek 'astatos' (unstable).",
+      "bn": "UC বার্কলেতে আলফা কণা দিয়ে বিসমাথে বোমাবর্ষণ করে সংশ্লেষিত; গ্রিক 'অ্যাস্ট্যাটোস' (অস্থিতিশীল) থেকে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Initially studied for radiotherapy potential due to alpha decay; no commercial historical uses.",
+      "bn": "আলফা ক্ষয়ের কারণে রেডিওথেরাপি সম্ভাবনার জন্য প্রাথমিকভাবে অধ্যয়ন; কোনো বাণিজ্যিক ঐতিহাসিক ব্যবহার নেই।"
+    },
+    "famousExperiments": {
+      "en": "Berkeley cyclotron experiments confirmed astatine as the rarest naturally occurring element on Earth.",
+      "bn": "বার্কলে সাইক্লোট্রন পরীক্ষা অ্যাস্টাটাইনকে পৃথিবীর সবচেয়ে বিরল প্রাকৃতিক উপাদান হিসেবে নিশ্চিত করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 85,
+    "neutrons": 125,
+    "electrons": 85,
+    "valenceElectrons": 7,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      7
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵",
+    "orbitalConfiguration": {
+      "6s": 2,
+      "6p": 5,
+      "5d": 10,
+      "4f": 14
+    },
+    "oxidationStates": [
+      -1,
+      1,
+      3,
+      5,
+      7
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 6.35,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 575,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 610,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 150,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 150,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 202,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 1.7,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": null,
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic (predicted)",
+      "bn": "ফেস-সেন্টার্ড কিউবিক (অনুমিত)"
+    },
+    "magneticOrdering": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.2,
+    "ionizationEnergy": {
+      "value": 899,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 233,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Predicted to be less reactive than iodine; behaves more metallic than other halogens; forms astatides with metals.",
+      "bn": "আয়োডিনের চেয়ে কম প্রতিক্রিয়াশীল বলে অনুমিত; অন্যান্য হ্যালোজেনের চেয়ে বেশি ধাতব আচরণ করে; ধাতুর সাথে অ্যাস্টাটাইড গঠন করে।"
+    },
+    "commonCompounds": [
+      "HAt",
+      "NaAt",
+      "AtCl",
+      "AtI",
+      "AtO₃⁻"
+    ],
+    "flameTestColor": null,
+    "spectralLines": [
+      "216.2nm",
+      "224.4nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "No industrial applications due to extreme rarity (less than 30g exists on Earth at any time).",
+      "bn": "চরম বিরলতার কারণে কোনো শিল্প প্রয়োগ নেই (যেকোনো সময় পৃথিবীতে ৩০ গ্রামের কম বিদ্যমান)।"
+    },
+    "commercialUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "semiconductorUses": {
+      "en": "Predicted to potentially exhibit semiconducting properties in bulk form.",
+      "bn": "বাল্ক আকারে সম্ভাব্য সেমিকন্ডাক্টিং বৈশিষ্ট্য প্রদর্শন করতে অনুমিত।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Astatine-211 conjugated to nanoparticles for targeted alpha therapy research.",
+      "bn": "লক্ষ্যযুক্ত আলফা থেরাপি গবেষণার জন্য ন্যানোকণার সাথে সংযুক্ত অ্যাস্টাটাইন-২১১।"
+    },
+    "nuclearUses": {
+      "en": "At-211 emerging as promising isotope for targeted alpha-particle cancer therapy.",
+      "bn": "At-211 লক্ষ্যযুক্ত আলফা-কণা ক্যান্সার থেরাপির জন্য আশাব্যঞ্জক আইসোটোপ হিসেবে উদীয়মান।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "medicalUses": {
+      "en": "At-211 in clinical trials for targeted alpha therapy (TAT) against micrometastases.",
+      "bn": "মাইক্রোমেটাস্ট্যাসেসের বিরুদ্ধে লক্ষ্যযুক্ত আলফা থেরাপির (TAT) ক্লিনিকাল ট্রায়ালে At-211।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; would concentrate in thyroid like iodine if introduced.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; প্রবর্তিত হলে আয়োডিনের মতো থাইরয়েডে ঘনীভূত হবে।"
+    },
+    "humanBodyRole": {
+      "en": "No physiological role; theoretical thyroid uptake exploited for targeted radiotherapy.",
+      "bn": "কোনো শারীরবৃত্তীয় ভূমিকা নেই; তাত্ত্বিক থাইরয়েড গ্রহণ লক্ষ্যযুক্ত রেডিওথেরাপির জন্য কাজে লাগানো হয়।"
+    },
+    "toxicity": {
+      "en": "Extreme radiotoxicity; even nanogram amounts would be biologically destructive.",
+      "bn": "চরম রেডিওটক্সিসিটি; এমনকি ন্যানোগ্রাম পরিমাণ জৈবিকভাবে ধ্বংসাত্মক হবে।"
+    },
+    "environmentalImpact": {
+      "en": "Vanishes from environment rapidly due to short half-lives; not a persistent pollutant.",
+      "bn": "সংক্ষিপ্ত অর্ধ-জীবনের কারণে পরিবেশ থেকে দ্রুত অদৃশ্য হয়; স্থায়ী দূষক নয়।"
+    },
+    "pollutionRisks": {
+      "en": "Negligible due to extreme scarcity and short half-life of all isotopes.",
+      "bn": "সব আইসোটোপের চরম অভাব এবং সংক্ষিপ্ত অর্ধ-জীবনের কারণে নগণ্য।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; produced in cyclotrons in micro-quantities for immediate use.",
+      "bn": "প্রযোজ্য নয়; তাত্ক্ষণিক ব্যবহারের জন্য সাইক্লোট্রনে মাইক্রো-পরিমাণে উৎপাদিত।"
+    },
+    "sustainabilityScore": 1.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      },
+      {
+        "en": "Japan",
+        "bn": "জাপান"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined; produced in particle accelerators via Bi-209 + α → At-211 + 2n reaction.",
+      "bn": "খনন করা হয় না; Bi-209 + α → At-211 + 2n বিক্রিয়ার মাধ্যমে কণা ত্বরক যন্ত্রে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "ট্রেস"
+      },
+      "earthCrust": {
+        "en": "~30 g globally at any time",
+        "bn": "যেকোনো সময় বিশ্বজুড়ে ~৩০ গ্রাম"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Effectively priceless; no commercial market exists.",
+      "bn": "কার্যত অমূল্য; কোনো বাণিজ্যিক বাজার নেই।"
+    },
+    "futureDemand": {
+      "en": "Growing role in targeted alpha therapy could create demand for cyclotron-produced At-211.",
+      "bn": "লক্ষ্যযুক্ত আলফা থেরাপিতে ক্রমবর্ধমান ভূমিকা সাইক্লোট্রন-উৎপাদিত At-211 এর চাহিদা তৈরি করতে পারে।"
+    },
+    "globalImportance": {
+      "en": "Strategically vital for emerging precision oncology; production capacity is a global bottleneck.",
+      "bn": "উদীয়মান নির্ভুলতা অনকোলজির জন্য কৌশলগতভাবে অত্যাবশ্যক; উৎপাদন ক্ষমতা একটি বিশ্বব্যাপী বাধা।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Extreme alpha-radiation hazard; handled exclusively in shielded radiochemistry hot cells.",
+      "bn": "চরম আলফা-বিকিরণ বিপদ; একচেটিয়াভাবে ঢালযুক্ত রেডিওকেমিস্ট্রি হট সেলে পরিচালনা করা হয়।"
+    },
+    "storageRequirements": {
+      "en": "Used immediately upon production; cannot be stored due to short half-life (~7.2 hours for At-211).",
+      "bn": "উৎপাদনের সাথে সাথে ব্যবহৃত; সংক্ষিপ্ত অর্ধ-জীবনের কারণে সংরক্ষণ করা যায় না (At-211 এর জন্য ~৭.২ ঘন্টা)।"
+    },
+    "handlingProcedures": {
+      "en": "Cyclotron-produced and processed by remote manipulation in heavily shielded glove boxes.",
+      "bn": "সাইক্লোট্রন-উৎপাদিত এবং ভারীভাবে ঢালযুক্ত গ্লাভ বক্সে দূরবর্তী ম্যানিপুলেশন দ্বারা প্রক্রিয়াকৃত।"
+    },
+    "exposureRisks": {
+      "en": "Acute radiation toxicity; thyroid uptake amplifies internal alpha damage.",
+      "bn": "তীব্র বিকিরণ বিষাক্ততা; থাইরয়েড গ্রহণ অভ্যন্তরীণ আলফা ক্ষতি বাড়ায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radiotoxic)",
+      "bn": "চরম ঝুঁকি (রেডিওটক্সিক)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Highly Radioactive",
+        "bn": "অত্যন্ত তেজস্ক্রিয়"
+      },
+      {
+        "en": "Alpha Emitter",
+        "bn": "আলফা নির্গমনকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Astatine is the rarest natural element on Earth — there are only a few grams of it on the entire planet.",
+      "bn": "অ্যাস্টাটাইন পৃথিবীর সবচেয়ে বিরল প্রাকৃতিক উপাদান — পুরো গ্রহে এর মাত্র কয়েক গ্রাম রয়েছে।"
+    },
+    "advancedExplanation": {
+      "en": "The heaviest known halogen, exhibiting more metallic character than iodine due to relativistic effects on its outer electrons. Most stable isotope At-210 has a 8.1h half-life.",
+      "bn": "সবচেয়ে ভারী পরিচিত হ্যালোজেন, এর বাইরের ইলেকট্রনে রিলেটিভিস্টিক প্রভাবের কারণে আয়োডিনের চেয়ে বেশি ধাতব চরিত্র প্রদর্শন করে। সবচেয়ে স্থিতিশীল আইসোটোপ At-210 এর ৮.১ ঘন্টা অর্ধ-জীবন।"
+    },
+    "funFacts": [
+      {
+        "en": "Astatine has never been visually observed in macroscopic quantities — any sample would vaporize from its own radioactive heat.",
+        "bn": "অ্যাস্টাটাইন কখনই ম্যাক্রোস্কোপিক পরিমাণে দৃশ্যত পর্যবেক্ষণ করা হয়নি — যেকোনো নমুনা তার নিজের তেজস্ক্রিয় তাপ থেকে বাষ্পীভূত হয়ে যাবে।"
+      },
+      {
+        "en": "Its name means 'unstable' in Greek, perfectly capturing its fleeting existence.",
+        "bn": "এর নামের অর্থ গ্রিক ভাষায় 'অস্থিতিশীল', এর ক্ষণস্থায়ী অস্তিত্ব নিখুঁতভাবে ধরে রাখে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 53,
+        "relation": {
+          "en": "Iodine and astatine are both halogens that concentrate in the thyroid, but astatine is intensely radioactive and used for targeted radiotherapy.",
+          "bn": "আয়োডিন এবং অ্যাস্টাটাইন উভয়ই হ্যালোজেন যা থাইরয়েডে ঘনীভূত হয়, কিন্তু অ্যাস্টাটাইন তীব্রভাবে তেজস্ক্রিয় এবং লক্ষ্যযুক্ত রেডিওথেরাপির জন্য ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      53,
+      84,
+      86,
+      87
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Astatine?",
+          "bn": "অ্যাস্টাটাইন এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "84",
+            "bn": "84"
+          },
+          {
+            "en": "85",
+            "bn": "85"
+          },
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "87",
+            "bn": "87"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine (At) has atomic number 85.",
+          "bn": "অ্যাস্টাটাইন (At) এর পারমাণবিক সংখ্যা 85।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which symbol represents Astatine?",
+          "bn": "কোন প্রতীক অ্যাস্টাটাইন কে নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "At",
+            "bn": "At"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The chemical symbol for Astatine is At.",
+          "bn": "অ্যাস্টাটাইন এর রাসায়নিক প্রতীক At।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Astatine belong to?",
+          "bn": "অ্যাস্টাটাইন কোন শ্রেণীর অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          },
+          {
+            "en": "Halogen / Metalloid",
+            "bn": "হ্যালোজেন / মেটালয়েড"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine is classified as a Halogen / Metalloid.",
+          "bn": "অ্যাস্টাটাইন হ্যালোজেন / মেটালয়েড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Astatine located?",
+          "bn": "পর্যায় সারণির কোন পর্যায়ে অ্যাস্টাটাইন অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine is in period 6.",
+          "bn": "অ্যাস্টাটাইন 6 নং পর্যায়ে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which group does Astatine belong?",
+          "bn": "অ্যাস্টাটাইন কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "16",
+            "bn": "16"
+          },
+          {
+            "en": "17",
+            "bn": "17"
+          },
+          {
+            "en": "18",
+            "bn": "18"
+          },
+          {
+            "en": "19",
+            "bn": "19"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine is in group 17.",
+          "bn": "অ্যাস্টাটাইন 17 নং গ্রুপে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Astatine?",
+          "bn": "অ্যাস্টাটাইন এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "200.0",
+            "bn": "200.0"
+          },
+          {
+            "en": "210.00",
+            "bn": "210.00"
+          },
+          {
+            "en": "220.0",
+            "bn": "220.0"
+          },
+          {
+            "en": "230.0",
+            "bn": "230.0"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The standard atomic mass of Astatine is approximately 210.",
+          "bn": "অ্যাস্টাটাইন এর প্রমাণ পারমাণবিক ভর প্রায় 210।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Astatine?",
+          "bn": "অ্যাস্টাটাইন এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Kr] 5s¹",
+            "bn": "[Kr] 5s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The ground state electron configuration of Astatine is [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵.",
+          "bn": "অ্যাস্টাটাইন এর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary phase of Astatine at standard conditions?",
+          "bn": "আদর্শ অবস্থায় অ্যাস্টাটাইন এর প্রাথমিক দশা কী?"
+        },
+        "options": [
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          },
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Bose-Einstein condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Astatine exists as a Solid at STP.",
+          "bn": "অ্যাস্টাটাইন STP-তে কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Astatine?",
+          "bn": "অ্যাস্টাটাইন এর সবচেয়ে সাধারণ জারণ অবস্থা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "-1",
+            "bn": "-1"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-3",
+            "bn": "-3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The most stable oxidation state of Astatine is -1.",
+          "bn": "অ্যাস্টাটাইন এর সবচেয়ে স্থিতিশীল জারণ অবস্থা -1।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity of Astatine on the Pauling scale?",
+          "bn": "পলিং স্কেলে অ্যাস্টাটাইন এর তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.20",
+            "bn": "1.20"
+          },
+          {
+            "en": "2.20",
+            "bn": "2.20"
+          },
+          {
+            "en": "3.20",
+            "bn": "3.20"
+          },
+          {
+            "en": "4.20",
+            "bn": "4.20"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Pauling electronegativity of Astatine is approximately 2.2.",
+          "bn": "অ্যাস্টাটাইন এর পলিং তড়িৎঋণাত্মকতা প্রায় 2.2।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Astatine contain?",
+          "bn": "অ্যাস্টাটাইন এর একটি পরমাণুতে কতগুলি প্রোটন থাকে?"
+        },
+        "options": [
+          {
+            "en": "85",
+            "bn": "85"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "80",
+            "bn": "80"
+          },
+          {
+            "en": "170",
+            "bn": "170"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By definition, Astatine has 85 protons (its atomic number).",
+          "bn": "সংজ্ঞা অনুসারে, অ্যাস্টাটাইন এর 85 টি প্রোটন রয়েছে (এর পারমাণবিক সংখ্যা)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which block of the periodic table contains Astatine?",
+          "bn": "পর্যায় সারণির কোন ব্লক অ্যাস্টাটাইন ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-ব্লক"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-ব্লক"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-ব্লক"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-ব্লক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine occupies the p-block.",
+          "bn": "অ্যাস্টাটাইন p-ব্লক দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate first ionization energy of Astatine in kJ/mol?",
+          "bn": "অ্যাস্টাটাইন এর আনুমানিক প্রথম আয়নীকরণ শক্তি kJ/mol এ কত?"
+        },
+        "options": [
+          {
+            "en": "699",
+            "bn": "699"
+          },
+          {
+            "en": "899",
+            "bn": "899"
+          },
+          {
+            "en": "1099",
+            "bn": "1099"
+          },
+          {
+            "en": "1399",
+            "bn": "1399"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The first ionization energy of Astatine is about 899 kJ/mol.",
+          "bn": "অ্যাস্টাটাইন এর প্রথম আয়নীকরণ শক্তি প্রায় 899 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many electron shells does a neutral Astatine atom have?",
+          "bn": "একটি নিরপেক্ষ অ্যাস্টাটাইন পরমাণুর কতটি ইলেকট্রন শেল রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine has 6 electron shells.",
+          "bn": "অ্যাস্টাটাইন এর 6 টি ইলেকট্রন শেল রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Astatine naturally radioactive?",
+          "bn": "অ্যাস্টাটাইন কি প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "Yes",
+            "bn": "হ্যাঁ"
+          },
+          {
+            "en": "No",
+            "bn": "না"
+          },
+          {
+            "en": "Only in compounds",
+            "bn": "শুধু যৌগে"
+          },
+          {
+            "en": "Only at high temperatures",
+            "bn": "শুধু উচ্চ তাপমাত্রায়"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Astatine is naturally radioactive.",
+          "bn": "অ্যাস্টাটাইন প্রাকৃতিকভাবে তেজস্ক্রিয় হ্যাঁ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the melting point of Astatine in Kelvin?",
+          "bn": "অ্যাস্টাটাইন এর গলনাঙ্ক কেলভিনে কত?"
+        },
+        "options": [
+          {
+            "en": "375",
+            "bn": "375"
+          },
+          {
+            "en": "575",
+            "bn": "575"
+          },
+          {
+            "en": "1075",
+            "bn": "1075"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The melting point of Astatine is approximately 575 K.",
+          "bn": "অ্যাস্টাটাইন এর গলনাঙ্ক প্রায় 575 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the crystal structure of solid Astatine?",
+          "bn": "কঠিন অ্যাস্টাটাইন এর স্ফটিক গঠন কী?"
+        },
+        "options": [
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Face-centered cubic (predicted)",
+            "bn": "ফেস-সেন্টার্ড কিউবিক (অনুমিত)"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine crystallizes in a Face-centered cubic (predicted) structure.",
+          "bn": "অ্যাস্টাটাইন ফেস-সেন্টার্ড কিউবিক (অনুমিত) গঠনে স্ফটিকীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with discovering Astatine?",
+          "bn": "অ্যাস্টাটাইন আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Corson, MacKenzie, Segrè",
+            "bn": "কর্সন, ম্যাকেঞ্জি, সেগ্রে"
+          },
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Antoine Lavoisier",
+            "bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine was discovered by Corson, MacKenzie, Segrè.",
+          "bn": "অ্যাস্টাটাইন কর্সন, ম্যাকেঞ্জি, সেগ্রে দ্বারা আবিষ্কৃত হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the magnetic ordering of Astatine?",
+          "bn": "অ্যাস্টাটাইন এর চৌম্বকীয় ক্রম কী?"
+        },
+        "options": [
+          {
+            "en": "Ferromagnetic",
+            "bn": "ফেরোম্যাগনেটিক"
+          },
+          {
+            "en": "Paramagnetic",
+            "bn": "প্যারাম্যাগনেটিক"
+          },
+          {
+            "en": "Unknown",
+            "bn": "অজানা"
+          },
+          {
+            "en": "Antiferromagnetic",
+            "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Astatine exhibits Unknown behavior.",
+          "bn": "অ্যাস্টাটাইন অজানা আচরণ প্রদর্শন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Astatine first discovered or isolated?",
+          "bn": "অ্যাস্টাটাইন প্রথম কোন বছর আবিষ্কৃত বা আলাদা করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1890",
+            "bn": "1890"
+          },
+          {
+            "en": "1940",
+            "bn": "1940"
+          },
+          {
+            "en": "1990",
+            "bn": "1990"
+          },
+          {
+            "en": "2040",
+            "bn": "2040"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Astatine was first identified in 1940.",
+          "bn": "অ্যাস্টাটাইন প্রথম 1940 সালে চিহ্নিত হয়েছিল।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Astatine can be mined like other elements.",
+        "bn": "অ্যাস্টাটাইন অন্যান্য উপাদানের মতো খনন করা যেতে পারে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Astatine's name comes from Greek 'astatos' meaning unstable — remember it's the most unstable of all naturally occurring elements.",
+        "bn": "অ্যাস্টাটাইন এর নাম গ্রিক 'অ্যাস্ট্যাটোস' থেকে এসেছে যার অর্থ অস্থিতিশীল — মনে রাখবেন এটি সমস্ত প্রাকৃতিকভাবে ঘটে যাওয়া উপাদানের মধ্যে সবচেয়ে অস্থিতিশীল।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁰⁹Bi + α → ²¹¹At + 2n",
+        "description": {
+          "en": "Cyclotron synthesis of astatine-211 from bismuth-209.",
+          "bn": "বিসমাথ-২০৯ থেকে অ্যাস্টাটাইন-২১১ এর সাইক্লোট্রন সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "2At + H₂ → 2HAt",
+        "description": {
+          "en": "Theoretical reaction with hydrogen forming hydrogen astatide.",
+          "bn": "হাইড্রোজেন অ্যাস্টাটাইড গঠনকারী হাইড্রোজেনের সাথে তাত্ত্বিক বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "At⁻ → At + e⁻",
+        "description": {
+          "en": "Oxidation of astatide ion to elemental astatine.",
+          "bn": "অ্যাস্টাটাইড আয়নের মৌল অ্যাস্টাটাইনে জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "At + e⁻ → At⁻",
+        "description": {
+          "en": "Reduction of astatine to astatide, less spontaneous than for lighter halogens.",
+          "bn": "অ্যাস্টাটাইনকে অ্যাস্টাটাইডে বিজারণ, হালকা হ্যালোজেনের চেয়ে কম স্বতঃস্ফূর্ত।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar Covalent",
+          "bn": "পোলার সমযোজী"
+        },
+        "molecule": "HAt",
+        "description": {
+          "en": "Hydrogen astatide forms a weak polar bond, the weakest of the hydrogen halides.",
+          "bn": "হাইড্রোজেন অ্যাস্টাটাইড একটি দুর্বল পোলার বন্ধন গঠন করে, হাইড্রোজেন হ্যালাইডগুলির মধ্যে দুর্বলতম।"
+        }
+      }
+    ]
+  }
+}

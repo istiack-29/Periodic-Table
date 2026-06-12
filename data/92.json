@@ -1,0 +1,1027 @@
+{
+  "elementId": 92,
+  "basicInformation": {
+    "atomicNumber": 92,
+    "symbol": "U",
+    "name": {
+      "en": "Uranium",
+      "bn": "ইউরেনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/jʊˈreɪniəm/",
+      "bn": "ইউ-রে-নি-আম"
+    },
+    "atomicMass": 238.0289,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery gray metallic; tarnishes to black",
+      "bn": "রূপালী ধূসর ধাতব; কালোতে কলঙ্কিত"
+    },
+    "color": {
+      "en": "Silvery gray",
+      "bn": "রূপালী ধূসর"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Martin Heinrich Klaproth",
+      "bn": "মার্টিন হেনরিখ ক্লাপ্রথ"
+    },
+    "discoveryYear": 1789,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Klaproth identified the element in pitchblende and named it after the recently discovered planet Uranus. Pure metallic uranium first isolated by Eugène-Melchior Péligot in 1841.",
+      "bn": "ক্লাপ্রথ পিচব্লেন্ডে উপাদানটি চিহ্নিত করেন এবং সম্প্রতি আবিষ্কৃত ইউরেনাস গ্রহের নামে নামকরণ করেন। ১৮৪১ সালে ইউজিন-মেলকিওর পেলিগো প্রথম বিশুদ্ধ ধাতব ইউরেনিয়াম আলাদা করেন।"
+    },
+    "historicalUses": {
+      "en": "Used as a yellow-orange ceramic glaze pigment (Fiestaware); Becquerel discovered radioactivity using uranium salts in 1896.",
+      "bn": "হলুদ-কমলা সিরামিক গ্লেজ পিগমেন্ট হিসেবে ব্যবহৃত (ফিয়েস্টাওয়্যার); বেকেরেল ১৮৯৬ সালে ইউরেনিয়াম লবণ ব্যবহার করে তেজস্ক্রিয়তা আবিষ্কার করেন।"
+    },
+    "famousExperiments": {
+      "en": "Fermi's Chicago Pile-1 in 1942 achieved the first sustained nuclear chain reaction using natural uranium.",
+      "bn": "১৯৪২ সালে ফার্মির শিকাগো পাইল-১ প্রাকৃতিক ইউরেনিয়াম ব্যবহার করে প্রথম টেকসই পারমাণবিক শৃঙ্খল বিক্রিয়া অর্জন করেছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 92,
+    "neutrons": 146,
+    "electrons": 92,
+    "valenceElectrons": 6,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      21,
+      9,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f³ 6d¹ 7s²",
+    "orbitalConfiguration": {
+      "5f": 3,
+      "6d": 1,
+      "7s": 2
+    },
+    "oxidationStates": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 19.1,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1405.3,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 4404,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 156,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 196,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 186,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 27.5,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 3600000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.116,
+      "unit": "J/(g·K)"
+    },
+    "hardness": 6.0,
+    "crystalStructure": {
+      "en": "Orthorhombic",
+      "bn": "অর্থোরম্বিক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.38,
+    "ionizationEnergy": {
+      "value": 597.6,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 50.94,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive with water, oxygen, acids; pyrophoric as fine powder. Forms compounds in many oxidation states.",
+      "bn": "জল, অক্সিজেন, অ্যাসিডের সাথে প্রতিক্রিয়াশীল; সূক্ষ্ম গুঁড়ো হিসেবে পাইরোফরিক। অনেক জারণ অবস্থায় যৌগ গঠন করে।"
+    },
+    "commonCompounds": [
+      "UO₂",
+      "UO₃",
+      "U₃O₈",
+      "UF₆",
+      "UCl₄",
+      "UO₂(NO₃)₂"
+    ],
+    "flameTestColor": {
+      "en": "Green (uranyl)",
+      "bn": "সবুজ (ইউরেনাইল)"
+    },
+    "spectralLines": [
+      "356.66nm",
+      "385.96nm",
+      "591.54nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Primary fuel for nuclear power reactors worldwide; depleted uranium used for radiation shielding and counterweights.",
+      "bn": "বিশ্বব্যাপী পারমাণবিক বিদ্যুৎ চুল্লির জন্য প্রাথমিক জ্বালানি; বিকিরণ সুরক্ষা ও পাল্টা-ওজনের জন্য ক্ষীণ ইউরেনিয়াম ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "Historical use in yellow Vaseline glass and uranium-glazed ceramics (now restricted).",
+      "bn": "হলুদ ভ্যাসেলিন কাচ ও ইউরেনিয়াম-গ্লেজযুক্ত সিরামিকে ঐতিহাসিক ব্যবহার (এখন সীমাবদ্ধ)।"
+    },
+    "electronicsUses": {
+      "en": "Uranyl compounds explored as photoredox catalysts in synthesis; specialized X-ray applications.",
+      "bn": "সংশ্লেষণে ফোটোরেডক্স অনুঘটক হিসেবে ইউরেনাইল যৌগ অনুসন্ধান; বিশেষায়িত এক্স-রে প্রয়োগ।"
+    },
+    "semiconductorUses": {
+      "en": "None directly.",
+      "bn": "সরাসরি কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Depleted uranium used as counterweights and ballast in early commercial aircraft; trim weights in missiles.",
+      "bn": "প্রাথমিক বাণিজ্যিক বিমানে পাল্টা-ওজন ও ব্যালাস্ট হিসেবে ক্ষীণ ইউরেনিয়াম ব্যবহৃত; ক্ষেপণাস্ত্রে ট্রিম ওজন।"
+    },
+    "batteryUses": {
+      "en": "Research-stage uranium-based redox flow batteries explored.",
+      "bn": "গবেষণা-পর্যায়ের ইউরেনিয়াম-ভিত্তিক রেডক্স ফ্লো ব্যাটারি অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Nuclear power from uranium increasingly powers large-scale AI data centers seeking carbon-free baseload.",
+      "bn": "ইউরেনিয়াম থেকে পারমাণবিক শক্তি ক্রমবর্ধমানভাবে কার্বন-মুক্ত বেসলোড অনুসন্ধানকারী বড়-স্কেল AI ডেটা সেন্টারগুলোকে শক্তি দেয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Provides ~10% of global electricity carbon-free; essential for net-zero energy transition.",
+      "bn": "বিশ্বের ~১০% বিদ্যুৎ কার্বন-মুক্তভাবে সরবরাহ করে; নিট-জিরো শক্তি রূপান্তরের জন্য অপরিহার্য।"
+    },
+    "nanotechnologyUses": {
+      "en": "Uranium oxide nanoparticles studied for catalysis and radiation sensors.",
+      "bn": "অনুঘটনা ও বিকিরণ সেন্সরের জন্য ইউরেনিয়াম অক্সাইড ন্যানোকণা অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "U-235 fissile isotope is the primary fuel for thermal reactors and nuclear weapons; U-238 is fertile (breeds to Pu-239).",
+      "bn": "U-২৩৫ ফিসাইল আইসোটোপ তাপীয় চুল্লি ও পারমাণবিক অস্ত্রের প্রাথমিক জ্বালানি; U-২৩৮ উর্বর (Pu-২৩৯-এ প্রজনন করে)।"
+    },
+    "militaryUses": {
+      "en": "Highly enriched uranium (HEU) used in nuclear weapons; depleted uranium used in armor-piercing munitions and tank armor.",
+      "bn": "উচ্চ সমৃদ্ধ ইউরেনিয়াম (HEU) পারমাণবিক অস্ত্রে ব্যবহৃত; ক্ষীণ ইউরেনিয়াম বর্ম-ভেদকারী গোলাবারুদ ও ট্যাঙ্কের বর্মে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "U-235 historically used for medical isotope production (Mo-99 for technetium generators).",
+      "bn": "মেডিকেল আইসোটোপ উৎপাদনের জন্য U-২৩৫ ঐতিহাসিকভাবে ব্যবহৃত (টেকনেটিয়াম জেনারেটরের জন্য Mo-৯৯)।"
+    },
+    "foodIndustryUses": {
+      "en": "None; strictly excluded from food chain.",
+      "bn": "কোনো নেই; খাদ্য শৃঙ্খল থেকে কঠোরভাবে বাদ।"
+    },
+    "constructionUses": {
+      "en": "Depleted uranium as ballast in specialized structures; oil-well drilling collars.",
+      "bn": "বিশেষায়িত কাঠামোতে ব্যালাস্ট হিসেবে ক্ষীণ ইউরেনিয়াম; তেল-কূপ ড্রিলিং কলার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; mildly nephrotoxic chemically; radiologically hazardous.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; রাসায়নিকভাবে মৃদু নেফ্রোটক্সিক; রেডিওলজিকালভাবে বিপজ্জনক।"
+    },
+    "humanBodyRole": {
+      "en": "Trace presence from natural background; soluble compounds damage kidneys; insoluble compounds settle in bones and lungs.",
+      "bn": "প্রাকৃতিক পটভূমি থেকে সামান্য উপস্থিতি; দ্রবণীয় যৌগ কিডনির ক্ষতি করে; অদ্রবণীয় যৌগ হাড় ও ফুসফুসে জমা হয়।"
+    },
+    "toxicity": {
+      "en": "Chemically toxic (kidney damage); radiologically toxic (long-term cancer risk).",
+      "bn": "রাসায়নিকভাবে বিষাক্ত (কিডনির ক্ষতি); রেডিওলজিকালভাবে বিষাক্ত (দীর্ঘমেয়াদী ক্যান্সার ঝুঁকি)।"
+    },
+    "environmentalImpact": {
+      "en": "Naturally distributed at low levels; mining and milling tailings create localized contamination.",
+      "bn": "নিম্ন স্তরে প্রাকৃতিকভাবে বিতরণ করা হয়েছে; খনি ও মিলিং বর্জ্য স্থানীয় দূষণ তৈরি করে।"
+    },
+    "pollutionRisks": {
+      "en": "Spent fuel and weapons waste require multi-millennial isolation in geologic repositories.",
+      "bn": "ব্যবহৃত জ্বালানি ও অস্ত্র বর্জ্যের জন্য ভূতাত্ত্বিক ভাণ্ডারে বহু-সহস্রাব্দ পৃথকীকরণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Spent fuel reprocessing recovers ~95% of uranium and plutonium for reuse (e.g., MOX fuel).",
+      "bn": "ব্যবহৃত জ্বালানি পুনঃপ্রক্রিয়াকরণ পুনঃব্যবহারের জন্য ইউরেনিয়াম ও প্লুটোনিয়ামের ~৯৫% পুনরুদ্ধার করে (যেমন, MOX জ্বালানি)।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Kazakhstan",
+        "bn": "কাজাখস্তান"
+      },
+      {
+        "en": "Canada",
+        "bn": "কানাডা"
+      },
+      {
+        "en": "Namibia",
+        "bn": "নামিবিয়া"
+      },
+      {
+        "en": "Australia",
+        "bn": "অস্ট্রেলিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Open-pit, underground, and in-situ leach (ISL) mining from uraninite (UO₂) and other uranium minerals.",
+      "bn": "ইউরানিনাইট (UO₂) ও অন্যান্য ইউরেনিয়াম খনিজ থেকে খোলা-গর্ত, ভূগর্ভস্থ ও ইন-সিটু লিচ (ISL) খনন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "2×10⁻⁸ %",
+        "bn": "২×১০⁻⁸ %"
+      },
+      "earthCrust": {
+        "en": "2.7 mg/kg",
+        "bn": "২.৭ মিগ্রা/কেজি"
+      },
+      "oceans": {
+        "en": "3.3×10⁻³ mg/L",
+        "bn": "৩.৩×১০⁻³ মিগ্রা/লিটার"
+      }
+    },
+    "marketValue": {
+      "en": "Yellowcake (U₃O₈) trades at approximately $80-100 per pound; enriched uranium dramatically higher.",
+      "bn": "ইয়েলোকেক (U₃O₈) প্রায় $৮০-১০০ প্রতি পাউন্ডে বিক্রি হয়; সমৃদ্ধ ইউরেনিয়াম নাটকীয়ভাবে বেশি।"
+    },
+    "futureDemand": {
+      "en": "Demand projected to grow significantly as nations expand nuclear power for decarbonization.",
+      "bn": "জাতিগুলো ডিকার্বনাইজেশনের জন্য পারমাণবিক শক্তি সম্প্রসারিত করায় চাহিদা উল্লেখযোগ্যভাবে বাড়বে বলে অনুমান।"
+    },
+    "globalImportance": {
+      "en": "Critically strategic resource — foundational to civilian nuclear power and nuclear weapons deterrence.",
+      "bn": "অত্যন্ত কৌশলগত সম্পদ — বেসামরিক পারমাণবিক শক্তি ও পারমাণবিক অস্ত্রের প্রতিরোধের ভিত্তি।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Radioactive; chemically toxic; pyrophoric in powder form. U-235 fissile (criticality risk in concentrations).",
+      "bn": "তেজস্ক্রিয়; রাসায়নিকভাবে বিষাক্ত; গুঁড়ো আকারে পাইরোফরিক। U-২৩৫ ফিসাইল (ঘনত্বে সংকটতা ঝুঁকি)।"
+    },
+    "storageRequirements": {
+      "en": "Store metal under inert atmosphere or oil; enriched material in geometry-controlled containers to prevent criticality.",
+      "bn": "নিষ্ক্রিয় বায়ুমণ্ডল বা তেলের নিচে ধাতু সংরক্ষণ; সংকটতা রোধে জ্যামিতি-নিয়ন্ত্রিত পাত্রে সমৃদ্ধ পদার্থ।"
+    },
+    "handlingProcedures": {
+      "en": "Use respirators, gloves, contamination monitoring; criticality safety protocols for fissile material.",
+      "bn": "রেসপিরেটর, গ্লাভস, দূষণ পর্যবেক্ষণ ব্যবহার করুন; ফিসাইল পদার্থের জন্য সংকটতা সুরক্ষা প্রোটোকল।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation causes lung cancer; ingestion of soluble compounds causes kidney failure; criticality accidents are catastrophic.",
+      "bn": "শ্বাসগ্রহণ ফুসফুসের ক্যান্সার ঘটায়; দ্রবণীয় যৌগ গ্রহণ কিডনি ব্যর্থতা ঘটায়; সংকটতা দুর্ঘটনা বিপর্যয়কর।"
+    },
+    "safetyLevel": {
+      "en": "High Risk (Radioactive, Toxic)",
+      "bn": "উচ্চ ঝুঁকি (তেজস্ক্রিয়, বিষাক্ত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Fissile Material",
+        "bn": "ফিসাইল পদার্থ"
+      },
+      {
+        "en": "Toxic",
+        "bn": "বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Uranium is a heavy radioactive metal used as fuel in nuclear power plants. Its splitting atoms release enormous energy.",
+      "bn": "ইউরেনিয়াম একটি ভারী তেজস্ক্রিয় ধাতু যা পারমাণবিক বিদ্যুৎ কেন্দ্রে জ্বালানি হিসেবে ব্যবহৃত হয়। এর পরমাণু বিভাজন প্রচুর শক্তি ছাড়ে।"
+    },
+    "advancedExplanation": {
+      "en": "The heaviest naturally abundant element. U-235 (0.72% of natural U) is thermally fissile; U-238 (99.27%) is fertile. Its 5f electrons drive complex actinide chemistry including the U(VI) uranyl cation (UO₂²⁺).",
+      "bn": "সবচেয়ে ভারী প্রাকৃতিকভাবে প্রচুর উপাদান। U-২৩৫ (প্রাকৃতিক U-এর ০.৭২%) তাপীয়ভাবে ফিসাইল; U-২৩৮ (৯৯.২৭%) উর্বর। এর 5f ইলেকট্রন U(VI) ইউরেনাইল ক্যাটায়ন (UO₂²⁺) সহ জটিল অ্যাক্টিনাইড রসায়ন চালায়।"
+    },
+    "funFacts": [
+      {
+        "en": "A single uranium fuel pellet (~7g) contains the energy equivalent of about a ton of coal.",
+        "bn": "একটি একক ইউরেনিয়াম জ্বালানি পেলেট (~৭ গ্রাম) প্রায় এক টন কয়লার সমতুল্য শক্তি ধারণ করে।"
+      },
+      {
+        "en": "All naturally occurring uranium is slightly radioactive, but you can hold a piece safely if briefly.",
+        "bn": "সমস্ত প্রাকৃতিকভাবে পাওয়া ইউরেনিয়াম সামান্য তেজস্ক্রিয়, কিন্তু সংক্ষিপ্তভাবে হলে আপনি একটি টুকরা নিরাপদে ধরে রাখতে পারেন।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 94,
+        "relation": {
+          "en": "Unlike synthetic Plutonium, Uranium is naturally occurring. Pu-239 has a smaller critical mass and is more fissile, while U-235 has been used longer in reactors.",
+          "bn": "কৃত্রিম প্লুটোনিয়ামের বিপরীতে, ইউরেনিয়াম প্রাকৃতিকভাবে পাওয়া যায়। Pu-২৩৯ এর একটি ছোট সংকটতা ভর রয়েছে এবং এটি আরও ফিসাইল, যখন U-২৩৫ চুল্লিতে দীর্ঘকাল ব্যবহৃত হয়েছে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      90,
+      91,
+      93,
+      94
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Uranium?",
+          "bn": "ইউরেনিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          },
+          {
+            "en": "92",
+            "bn": "92"
+          },
+          {
+            "en": "93",
+            "bn": "93"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium has atomic number 92, meaning 92 protons in its nucleus.",
+          "bn": "ইউরেনিয়াম এর পারমাণবিক সংখ্যা 92, অর্থাৎ নিউক্লিয়াসে 92টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Uranium?",
+          "bn": "ইউরেনিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "U",
+            "bn": "U"
+          },
+          {
+            "en": "Ua",
+            "bn": "Ua"
+          },
+          {
+            "en": "XU",
+            "bn": "XU"
+          },
+          {
+            "en": "Uu",
+            "bn": "Uu"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Uranium is U.",
+          "bn": "ইউরেনিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো U।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Uranium belong?",
+          "bn": "ইউরেনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Uranium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "ইউরেনিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Uranium?",
+          "bn": "ইউরেনিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f³ 6d¹ 7s²",
+            "bn": "[Rn] 5f³ 6d¹ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Uranium is [Rn] 5f³ 6d¹ 7s².",
+          "bn": "ইউরেনিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f³ 6d¹ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Uranium discovered or first synthesized?",
+          "bn": "কোন বছরে ইউরেনিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1779",
+            "bn": "1779"
+          },
+          {
+            "en": "1784",
+            "bn": "1784"
+          },
+          {
+            "en": "1789",
+            "bn": "1789"
+          },
+          {
+            "en": "1799",
+            "bn": "1799"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium was discovered in 1789 by Martin Heinrich Klaproth.",
+          "bn": "ইউরেনিয়াম 1789 সালে মার্টিন হেনরিখ ক্লাপ্রথ আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Uranium?",
+          "bn": "ইউরেনিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Uranium is +3, though U can show others.",
+          "bn": "ইউরেনিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও U অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Uranium belong?",
+          "bn": "ইউরেনিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium is in Period 7, the row containing the actinides.",
+          "bn": "ইউরেনিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Uranium?",
+          "bn": "ইউরেনিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "228",
+            "bn": "228"
+          },
+          {
+            "en": "233",
+            "bn": "233"
+          },
+          {
+            "en": "238",
+            "bn": "238"
+          },
+          {
+            "en": "258",
+            "bn": "258"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Uranium has mass number around 238.",
+          "bn": "ইউরেনিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 238।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Uranium radioactive?",
+          "bn": "ইউরেনিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Uranium are radioactive — none are stable.",
+          "bn": "ইউরেনিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Uranium have?",
+          "bn": "ইউরেনিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Uranium has 6 valence electrons available for chemical bonding.",
+          "bn": "ইউরেনিয়াম এর রাসায়নিক বন্ধনের জন্য 6টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Uranium belong to?",
+          "bn": "ইউরেনিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium is classified as a actinide.",
+          "bn": "ইউরেনিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Uranium?",
+          "bn": "ইউরেনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Martin Heinrich Klaproth",
+            "bn": "Martin Heinrich Klaproth"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium was discovered by Martin Heinrich Klaproth.",
+          "bn": "ইউরেনিয়াম মার্টিন হেনরিখ ক্লাপ্রথ আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Uranium have?",
+          "bn": "ইউরেনিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "91",
+            "bn": "91"
+          },
+          {
+            "en": "92",
+            "bn": "92"
+          },
+          {
+            "en": "93",
+            "bn": "93"
+          },
+          {
+            "en": "94",
+            "bn": "94"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 92 protons for Uranium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: ইউরেনিয়াম এর জন্য 92টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Uranium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে ইউরেনিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Uranium exists as a solid.",
+          "bn": "STP-তে, ইউরেনিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Uranium?",
+          "bn": "ইউরেনিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.38",
+            "bn": "1.38"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium has a Pauling electronegativity of approximately 1.38.",
+          "bn": "ইউরেনিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.38।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Uranium produced in limited quantities?",
+          "bn": "কেন ইউরেনিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Uranium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "ইউরেনিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Uranium?",
+          "bn": "ইউরেনিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Uranium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে ইউরেনিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium sits in Group 3 of the periodic table.",
+          "bn": "ইউরেনিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Uranium typically obtained?",
+          "bn": "ইউরেনিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Uranium is primarily obtained through nuclear synthesis methods.",
+          "bn": "ইউরেনিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Uranium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার ইউরেনিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Uranium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "ইউরেনিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "All uranium is bomb-grade — actually natural uranium needs significant enrichment (to ~90% U-235) for weapons.",
+        "bn": "সমস্ত ইউরেনিয়াম বোমা-গ্রেড — আসলে প্রাকৃতিক ইউরেনিয়ামের অস্ত্রের জন্য উল্লেখযোগ্য সমৃদ্ধি প্রয়োজন (~৯০% U-২৩৫-এ)।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember U-235 splits (fissile) and U-238 breeds (fertile). The number tells you mass; the percentage tells you abundance.",
+        "bn": "মনে রাখুন U-২৩৫ বিভাজিত হয় (ফিসাইল) এবং U-২৩৮ প্রজনন করে (উর্বর)। সংখ্যা আপনাকে ভর বলে; শতাংশ আপনাকে প্রাচুর্য বলে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²³⁵U + n → ¹⁴¹Ba + ⁹²Kr + 3n + Energy",
+        "description": {
+          "en": "Thermal-neutron-induced fission of uranium-235 releasing ~200 MeV per event.",
+          "bn": "ইউরেনিয়াম-২৩৫ এর তাপীয়-নিউট্রন-প্ররোচিত বিভাজনে ঘটনা প্রতি ~২০০ MeV মুক্তি।"
+        }
+      },
+      {
+        "equation": "U + 3F₂ → UF₆",
+        "description": {
+          "en": "Synthesis of volatile uranium hexafluoride used in gaseous diffusion enrichment.",
+          "bn": "গ্যাসীয় বিচ্ছুরণ সমৃদ্ধিতে ব্যবহৃত উদ্বায়ী ইউরেনিয়াম হেক্সাফ্লোরাইড সংশ্লেষণ।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "U → UO₂²⁺ + 4e⁻",
+        "description": {
+          "en": "Oxidation of uranium metal to the highly stable uranyl(VI) cation in solution.",
+          "bn": "দ্রবণে অত্যন্ত স্থিতিশীল ইউরেনাইল(VI) ক্যাটায়নে ইউরেনিয়াম ধাতুর জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "UO₂²⁺ + 2e⁻ → UO₂",
+        "description": {
+          "en": "Reduction of uranyl ion to insoluble uranium dioxide (key step in nuclear fuel processing).",
+          "bn": "অদ্রবণীয় ইউরেনিয়াম ডাইঅক্সাইডে ইউরেনাইল আয়নের বিজারণ (পারমাণবিক জ্বালানি প্রক্রিয়াকরণে মূল ধাপ)।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Coordination Bond",
+          "bn": "সমন্বয় বন্ধন"
+        },
+        "molecule": "UO₂(NO₃)₂·6H₂O",
+        "description": {
+          "en": "Uranyl nitrate hexahydrate features the linear UO₂²⁺ unit coordinated by nitrate and water ligands.",
+          "bn": "ইউরেনাইল নাইট্রেট হেক্সাহাইড্রেট নাইট্রেট ও জল লিগ্যান্ড দ্বারা সমন্বিত রৈখিক UO₂²⁺ ইউনিট বৈশিষ্ট্যযুক্ত।"
+        }
+      }
+    ]
+  }
+}

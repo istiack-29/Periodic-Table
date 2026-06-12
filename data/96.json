@@ -1,0 +1,1018 @@
+{
+  "elementId": 96,
+  "basicInformation": {
+    "atomicNumber": 96,
+    "symbol": "Cm",
+    "name": {
+      "en": "Curium",
+      "bn": "কুরিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈkjʊəriəm/",
+      "bn": "কিউ-রি-আম"
+    },
+    "atomicMass": 247.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery, glows purple in the dark",
+      "bn": "রূপালী, অন্ধকারে বেগুনি আলোকিত"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Glenn T. Seaborg, Ralph A. James, Albert Ghiorso",
+      "bn": "গ্লেন টি. সিবোর্গ, র‍্যালফ এ. জেমস, অ্যালবার্ট জিওরসো"
+    },
+    "discoveryYear": 1944,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "Synthesized at Berkeley by alpha-particle bombardment of plutonium-239. Named in honor of Marie and Pierre Curie, pioneers of radioactivity research.",
+      "bn": "প্লুটোনিয়াম-২৩৯ এর আলফা-কণা বোমাবর্ষণ দ্বারা বার্কলিতে সংশ্লেষণ। তেজস্ক্রিয়তা গবেষণার অগ্রদূত মারি ও পিয়ের কুরির সম্মানে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Used in NASA's alpha-particle X-ray spectrometers (APXS) on Mars rovers (Sojourner, Spirit, Opportunity, Curiosity, Perseverance).",
+      "bn": "মঙ্গল রোভারগুলোতে (সোজার্নার, স্পিরিট, অপরচুনিটি, কিউরিওসিটি, পারসিভারেন্স) NASA এর আলফা-কণা এক্স-রে স্পেকট্রোমিটারে (APXS) ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Cm-244 powers the APXS spectrometer that performed elemental analysis of Martian rocks for over two decades.",
+      "bn": "Cm-২৪৪ APXS স্পেকট্রোমিটারকে শক্তি দেয় যা দুই দশকেরও বেশি সময় ধরে মঙ্গল গ্রহের শিলার মৌলিক বিশ্লেষণ সম্পাদন করেছে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 96,
+    "neutrons": 151,
+    "electrons": 96,
+    "valenceElectrons": 4,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      9,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f⁷ 6d¹ 7s²",
+    "orbitalConfiguration": {
+      "5f": 7,
+      "6d": 1,
+      "7s": 2
+    },
+    "oxidationStates": [
+      6,
+      5,
+      4,
+      3
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 13.51,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1613,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 3383,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 174,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 169,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 245,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 10,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 1000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.1,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Double hexagonal close-packed",
+      "bn": "দ্বৈত ষড়ভুজাকার ঘনিষ্ঠ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Antiferromagnetic",
+      "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 581,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 27.17,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly reactive due to intense self-irradiation; forms oxides, halides, and chalcogenides.",
+      "bn": "তীব্র স্ব-বিকিরণের কারণে অত্যন্ত প্রতিক্রিয়াশীল; অক্সাইড, হ্যালাইড ও চ্যালকোজেনাইড গঠন করে।"
+    },
+    "commonCompounds": [
+      "CmO₂",
+      "Cm₂O₃",
+      "CmF₃",
+      "CmF₄",
+      "CmCl₃"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "396.96nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Used in alpha-particle spectrometers and as a portable energy source for remote sensing instruments.",
+      "bn": "আলফা-কণা স্পেকট্রোমিটার ও দূরবর্তী সংবেদনশীল যন্ত্রের জন্য পোর্টেবল শক্তি উৎস হিসেবে ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "No commercial market; restricted research material only.",
+      "bn": "কোনো বাণিজ্যিক বাজার নেই; শুধুমাত্র সীমাবদ্ধ গবেষণা পদার্থ।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Cm-244 alpha sources critical for planetary rover instruments analyzing soil and rock composition.",
+      "bn": "মাটি ও শিলার গঠন বিশ্লেষণকারী গ্রহীয় রোভার যন্ত্রের জন্য Cm-২৪৪ আলফা উৎস গুরুত্বপূর্ণ।"
+    },
+    "batteryUses": {
+      "en": "Cm-244 considered as RTG fuel for high-power-density space applications; 18.1-year half-life.",
+      "bn": "উচ্চ-শক্তি-ঘনত্ব মহাকাশ প্রয়োগের জন্য RTG জ্বালানি হিসেবে Cm-২৪৪ বিবেচিত; ১৮.১-বছর অর্ধজীবন।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "Target for transmutation in advanced reactor research; not a primary energy source.",
+      "bn": "উন্নত চুল্লি গবেষণায় ট্রান্সমিউটেশন লক্ষ্য; প্রাথমিক শক্তি উৎস নয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Curium oxide nanoparticles studied for radioisotope sensor research.",
+      "bn": "রেডিওআইসোটোপ সেন্সর গবেষণার জন্য কুরিয়াম অক্সাইড ন্যানোকণা অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "Cm-242 and Cm-244 considered for compact RTGs; longer-lived Cm-247 (~16 million-year half-life) of theoretical interest.",
+      "bn": "কম্প্যাক্ট RTGs এর জন্য Cm-২৪২ ও Cm-২৪৪ বিবেচিত; দীর্ঘ-জীবিত Cm-২৪৭ (~১৬ মিলিয়ন-বছর অর্ধজীবন) তাত্ত্বিক আগ্রহের।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "No direct medical use; investigated for targeted alpha therapy research.",
+      "bn": "কোনো সরাসরি চিকিৎসা ব্যবহার নেই; লক্ষ্যবস্তু আলফা থেরাপি গবেষণার জন্য অনুসন্ধান।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; extreme radiotoxin.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; চরম তেজস্ক্রিয় বিষ।"
+    },
+    "humanBodyRole": {
+      "en": "None; accumulates in bones causing severe damage; extremely dangerous internally.",
+      "bn": "কোনো নেই; হাড়ে জমা হয়ে মারাত্মক ক্ষতি ঘটায়; অভ্যন্তরীণভাবে অত্যন্ত বিপজ্জনক।"
+    },
+    "toxicity": {
+      "en": "Among the most radiotoxic elements; intense alpha emission and decay heat.",
+      "bn": "সবচেয়ে তেজস্ক্রিয় বিষাক্ত উপাদানগুলোর মধ্যে; তীব্র আলফা নির্গমন ও ক্ষয় তাপ।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible environmental presence; only laboratory and trace fallout quantities exist.",
+      "bn": "নগণ্য পরিবেশগত উপস্থিতি; শুধুমাত্র গবেষণাগার ও সামান্য ফলআউট পরিমাণ বিদ্যমান।"
+    },
+    "pollutionRisks": {
+      "en": "Long-lived isotopes contribute to high-level nuclear waste; intense decay heat complicates storage.",
+      "bn": "দীর্ঘ-জীবিত আইসোটোপ উচ্চ-স্তরের পারমাণবিক বর্জ্যে অবদান রাখে; তীব্র ক্ষয় তাপ স্টোরেজ জটিল করে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from spent reactor fuel as minor actinide; targeted for partitioning and transmutation.",
+      "bn": "ছোট অ্যাক্টিনাইড হিসেবে ব্যবহৃত চুল্লি জ্বালানি থেকে পুনরুদ্ধার; বিভাজন ও ট্রান্সমিউটেশনের লক্ষ্য।"
+    },
+    "sustainabilityScore": 2.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined; produced in high-flux reactors through successive neutron captures starting with Pu-239.",
+      "bn": "খনন করা হয় না; Pu-২৩৯ দিয়ে শুরু করে ধারাবাহিক নিউট্রন ক্যাপচারের মাধ্যমে উচ্চ-ফ্লাক্স চুল্লিতে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Effectively none",
+        "bn": "কার্যত নেই"
+      },
+      "earthCrust": {
+        "en": "None natural",
+        "bn": "কোনো প্রাকৃতিক নেই"
+      },
+      "oceans": {
+        "en": "None natural",
+        "bn": "কোনো প্রাকৃতিক নেই"
+      }
+    },
+    "marketValue": {
+      "en": "Approximately $185,000 per gram; only available to licensed research institutions.",
+      "bn": "প্রায় $১৮৫,০০০ প্রতি গ্রাম; শুধুমাত্র লাইসেন্সপ্রাপ্ত গবেষণা প্রতিষ্ঠানের কাছে উপলব্ধ।"
+    },
+    "futureDemand": {
+      "en": "Limited future industrial demand; continued use in space exploration instruments.",
+      "bn": "সীমিত ভবিষ্যত শিল্প চাহিদা; মহাকাশ অনুসন্ধান যন্ত্রে ব্যবহার অব্যাহত।"
+    },
+    "globalImportance": {
+      "en": "Strategic for planetary exploration alpha-particle spectroscopy; symbol of nuclear research heritage.",
+      "bn": "গ্রহীয় অনুসন্ধান আলফা-কণা স্পেকট্রোস্কোপির জন্য কৌশলগত; পারমাণবিক গবেষণা ঐতিহ্যের প্রতীক।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Extreme alpha and neutron emission; intense decay heat (~3 watts/gram for Cm-244); pyrophoric.",
+      "bn": "চরম আলফা ও নিউট্রন নির্গমন; তীব্র ক্ষয় তাপ (Cm-২৪৪ এর জন্য ~৩ ওয়াট/গ্রাম); পাইরোফরিক।"
+    },
+    "storageRequirements": {
+      "en": "Heavily shielded hot cells with active cooling and neutron-absorbing materials.",
+      "bn": "সক্রিয় কুলিং ও নিউট্রন-শোষণকারী পদার্থসহ ভারী আবৃত হট সেল।"
+    },
+    "handlingProcedures": {
+      "en": "Robotic manipulators in hot cells; full radiation shielding including for neutrons; strict bio-monitoring.",
+      "bn": "হট সেলে রোবোটিক ম্যানিপুলেটর; নিউট্রনসহ সম্পূর্ণ বিকিরণ আবরণ; কঠোর বায়ো-মনিটরিং।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of even nanogram quantities causes severe lung injury; bone deposition causes leukemia.",
+      "bn": "এমনকি ন্যানোগ্রাম পরিমাণ শ্বাসগ্রহণ মারাত্মক ফুসফুসের আঘাত ঘটায়; হাড়ের সঞ্চয় লিউকেমিয়া ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Highly Radioactive)",
+      "bn": "চরম ঝুঁকি (অত্যন্ত তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Neutron Emitter",
+        "bn": "নিউট্রন নির্গমনকারী"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Curium is a man-made radioactive metal that glows purple in the dark and powers instruments on Mars rovers.",
+      "bn": "কুরিয়াম একটি মানব-নির্মিত তেজস্ক্রিয় ধাতু যা অন্ধকারে বেগুনি আলোকিত এবং মঙ্গল রোভারের যন্ত্রকে শক্তি দেয়।"
+    },
+    "advancedExplanation": {
+      "en": "A trans-plutonium actinide with stable half-filled 5f⁷ configuration. Glows in the dark due to alpha-induced ionization of surrounding air. Cm(III) dominates aqueous chemistry; antiferromagnetic ordering at low temperatures.",
+      "bn": "স্থিতিশীল অর্ধ-পূর্ণ 5f⁷ কনফিগারেশনসহ একটি ট্রান্স-প্লুটোনিয়াম অ্যাক্টিনাইড। আলফা-প্ররোচিত পার্শ্ববর্তী বায়ুর আয়নীকরণের কারণে অন্ধকারে আলোকিত। Cm(III) জলীয় রসায়নে প্রভাব বিস্তার করে; নিম্ন তাপমাত্রায় অ্যান্টিফেরোম্যাগনেটিক সাজানো।"
+    },
+    "funFacts": [
+      {
+        "en": "Curium-244 produces so much decay heat (~3 W/g) that a sample glows red-hot in the dark.",
+        "bn": "কুরিয়াম-২৪৪ এত ক্ষয় তাপ (~৩ ওয়া/গ্রাম) উৎপন্ন করে যে একটি নমুনা অন্ধকারে লাল-গরম আলোকিত হয়।"
+      },
+      {
+        "en": "It is the heaviest element with naturally occurring isotopes detected in supernova remnants.",
+        "bn": "এটি সুপারনোভা অবশিষ্টাংশে সনাক্ত প্রাকৃতিকভাবে পাওয়া আইসোটোপসহ সবচেয়ে ভারী উপাদান।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 64,
+        "relation": {
+          "en": "Curium's chemistry parallels Gadolinium (both half-filled f-shells, +3 dominant state, similar magnetic properties).",
+          "bn": "কুরিয়ামের রসায়ন গ্যাডোলিনিয়ামের সমান্তরাল (উভয় অর্ধ-পূর্ণ f-শেল, +৩ প্রভাবশালী অবস্থা, অনুরূপ চৌম্বকীয় বৈশিষ্ট্য)।"
+        }
+      }
+    ],
+    "relatedElements": [
+      64,
+      95,
+      97,
+      94
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Curium?",
+          "bn": "কুরিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "94",
+            "bn": "94"
+          },
+          {
+            "en": "95",
+            "bn": "95"
+          },
+          {
+            "en": "96",
+            "bn": "96"
+          },
+          {
+            "en": "97",
+            "bn": "97"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium has atomic number 96, meaning 96 protons in its nucleus.",
+          "bn": "কুরিয়াম এর পারমাণবিক সংখ্যা 96, অর্থাৎ নিউক্লিয়াসে 96টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Curium?",
+          "bn": "কুরিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Cm",
+            "bn": "Cm"
+          },
+          {
+            "en": "mC",
+            "bn": "mC"
+          },
+          {
+            "en": "XC",
+            "bn": "XC"
+          },
+          {
+            "en": "Cc",
+            "bn": "Cc"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Curium is Cm.",
+          "bn": "কুরিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Cm।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Curium belong?",
+          "bn": "কুরিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Curium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "কুরিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Curium?",
+          "bn": "কুরিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f⁷ 6d¹ 7s²",
+            "bn": "[Rn] 5f⁷ 6d¹ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Curium is [Rn] 5f⁷ 6d¹ 7s².",
+          "bn": "কুরিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f⁷ 6d¹ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Curium discovered or first synthesized?",
+          "bn": "কোন বছরে কুরিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1934",
+            "bn": "1934"
+          },
+          {
+            "en": "1939",
+            "bn": "1939"
+          },
+          {
+            "en": "1944",
+            "bn": "1944"
+          },
+          {
+            "en": "1954",
+            "bn": "1954"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium was discovered in 1944 by Glenn T. Seaborg, Ralph A. James, Albert Ghiorso.",
+          "bn": "কুরিয়াম 1944 সালে গ্লেন টি. সিবোর্গ, র‍্যালফ এ. জেমস, অ্যালবার্ট জিওরসো আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Curium?",
+          "bn": "কুরিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Curium is +3, though Cm can show others.",
+          "bn": "কুরিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Cm অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Curium belong?",
+          "bn": "কুরিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium is in Period 7, the row containing the actinides.",
+          "bn": "কুরিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Curium?",
+          "bn": "কুরিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "237",
+            "bn": "237"
+          },
+          {
+            "en": "242",
+            "bn": "242"
+          },
+          {
+            "en": "247",
+            "bn": "247"
+          },
+          {
+            "en": "267",
+            "bn": "267"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Curium has mass number around 247.",
+          "bn": "কুরিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 247।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Curium radioactive?",
+          "bn": "কুরিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Curium are radioactive — none are stable.",
+          "bn": "কুরিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Curium have?",
+          "bn": "কুরিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Curium has 4 valence electrons available for chemical bonding.",
+          "bn": "কুরিয়াম এর রাসায়নিক বন্ধনের জন্য 4টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Curium belong to?",
+          "bn": "কুরিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium is classified as a actinide.",
+          "bn": "কুরিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Curium?",
+          "bn": "কুরিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Glenn T. Seaborg, Ralph A. James, Albert Ghiorso",
+            "bn": "Glenn T. Seaborg, Ralph A. James, Albert Ghiorso"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium was discovered by Glenn T. Seaborg, Ralph A. James, Albert Ghiorso.",
+          "bn": "কুরিয়াম গ্লেন টি. সিবোর্গ, র‍্যালফ এ. জেমস, অ্যালবার্ট জিওরসো আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Curium have?",
+          "bn": "কুরিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "95",
+            "bn": "95"
+          },
+          {
+            "en": "96",
+            "bn": "96"
+          },
+          {
+            "en": "97",
+            "bn": "97"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 96 protons for Curium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: কুরিয়াম এর জন্য 96টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Curium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে কুরিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Curium exists as a solid.",
+          "bn": "STP-তে, কুরিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Curium?",
+          "bn": "কুরিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "কুরিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Curium produced in limited quantities?",
+          "bn": "কেন কুরিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Curium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "কুরিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Curium?",
+          "bn": "কুরিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Curium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে কুরিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium sits in Group 3 of the periodic table.",
+          "bn": "কুরিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Curium typically obtained?",
+          "bn": "কুরিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Curium is primarily obtained through nuclear synthesis methods.",
+          "bn": "কুরিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Curium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার কুরিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Curium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "কুরিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Curium is a rare metal you might encounter in nature — actually it is purely synthetic and never directly encountered outside specialized labs.",
+        "bn": "কুরিয়াম একটি বিরল ধাতু যা আপনি প্রকৃতিতে সম্মুখীন হতে পারেন — আসলে এটি সম্পূর্ণ কৃত্রিম এবং বিশেষায়িত গবেষণাগারের বাইরে কখনও সরাসরি সম্মুখীন হয় না।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Curium is named after the Curies — remember it as the actinide that honors the discovers of radium and polonium.",
+        "bn": "কুরিয়াম কুরিদের নামে নামকরণ করা হয়েছে — এটিকে রেডিয়াম ও পোলোনিয়ামের আবিষ্কারকদের সম্মানিতকারী অ্যাক্টিনাইড হিসেবে মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²³⁹Pu + α → ²⁴²Cm + n",
+        "description": {
+          "en": "Synthesis of curium-242 by alpha bombardment of plutonium-239.",
+          "bn": "প্লুটোনিয়াম-২৩৯ এর আলফা বোমাবর্ষণ দ্বারা কুরিয়াম-২৪২ সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁴⁴Cm → ²⁴⁰Pu + α",
+        "description": {
+          "en": "Alpha decay of curium-244 to plutonium-240 (half-life 18.1 years).",
+          "bn": "কুরিয়াম-২৪৪ এর প্লুটোনিয়াম-২৪০-এ আলফা ক্ষয় (অর্ধজীবন ১৮.১ বছর)।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Cm → Cm³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation to the dominant aqueous Cm(III) state.",
+          "bn": "প্রভাবশালী জলীয় Cm(III) অবস্থায় জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Cm⁴⁺ + e⁻ → Cm³⁺",
+        "description": {
+          "en": "Reduction of unusual Cm(IV) back to the more stable Cm(III).",
+          "bn": "আরও স্থিতিশীল Cm(III)-এ অস্বাভাবিক Cm(IV) এর বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "CmF₃",
+        "description": {
+          "en": "Curium trifluoride is a typical Cm(III) ionic compound used as a precursor to metallic Cm.",
+          "bn": "কুরিয়াম ট্রাইফ্লোরাইড একটি সাধারণ Cm(III) আয়নিক যৌগ যা ধাতব Cm এর পূর্বসূরী হিসেবে ব্যবহৃত হয়।"
+        }
+      }
+    ]
+  }
+}

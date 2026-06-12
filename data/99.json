@@ -1,0 +1,1005 @@
+{
+  "elementId": 99,
+  "basicInformation": {
+    "atomicNumber": 99,
+    "symbol": "Es",
+    "name": {
+      "en": "Einsteinium",
+      "bn": "আইনস্টাইনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/aɪnˈstaɪniəm/",
+      "bn": "আইন-স্টাই-নি-আম"
+    },
+    "atomicMass": 252.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white, glows blue from intense radioactivity",
+      "bn": "রূপালী সাদা, তীব্র তেজস্ক্রিয়তা থেকে নীল আলোকিত"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Albert Ghiorso et al.",
+      "bn": "অ্যালবার্ট জিওরসো ও সহযোগীরা"
+    },
+    "discoveryYear": 1952,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "Discovered in the debris of the 'Ivy Mike' thermonuclear test, the first hydrogen bomb. Identified by Ghiorso's team and named in honor of Albert Einstein shortly after his death.",
+      "bn": "'আইভি মাইক' থার্মোনিউক্লিয়ার পরীক্ষা, প্রথম হাইড্রোজেন বোমার ধ্বংসাবশেষে আবিষ্কৃত। জিওরসোর দল চিহ্নিত করে এবং অ্যালবার্ট আইনস্টাইনের মৃত্যুর কিছুদিন পরে তার সম্মানে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "No commercial uses ever; produced solely in microgram quantities for fundamental research.",
+      "bn": "কোনো বাণিজ্যিক ব্যবহার কখনও নেই; শুধুমাত্র মৌলিক গবেষণার জন্য মাইক্রোগ্রাম পরিমাণে উৎপাদিত।"
+    },
+    "famousExperiments": {
+      "en": "In 2021, scientists at LBNL performed the first X-ray characterization of einsteinium chemistry using just 200 nanograms of Es-254.",
+      "bn": "২০২১ সালে, LBNL এর বিজ্ঞানীরা Es-২৫৪ এর মাত্র ২০০ ন্যানোগ্রাম ব্যবহার করে আইনস্টাইনিয়াম রসায়নের প্রথম এক্স-রে চরিত্রায়ন সম্পাদন করেছিলেন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 99,
+    "neutrons": 153,
+    "electrons": 99,
+    "valenceElectrons": 3,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      29,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f¹¹ 7s²",
+    "orbitalConfiguration": {
+      "5f": 11,
+      "7s": 2
+    },
+    "oxidationStates": [
+      4,
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": 1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 8.84,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1133,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1269,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 186,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 165,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 245,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 10,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.1,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "পৃষ্ঠকেন্দ্রিক ঘনক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 619,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -28.6,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly reactive; intense radioactivity causes self-heating and bulk material to glow.",
+      "bn": "অত্যন্ত প্রতিক্রিয়াশীল; তীব্র তেজস্ক্রিয়তা স্ব-উষ্ণতা ঘটায় এবং বাল্ক পদার্থকে আলোকিত করে।"
+    },
+    "commonCompounds": [
+      "EsCl₃",
+      "EsBr₃",
+      "EsI₂",
+      "EsF₃",
+      "Es₂O₃"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "351.5nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "None; used solely in superheavy element synthesis research.",
+      "bn": "কোনো নেই; শুধুমাত্র সুপারহেভি উপাদান সংশ্লেষণ গবেষণায় ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Nanogram-scale samples studied in advanced spectroscopic chambers.",
+      "bn": "উন্নত স্পেকট্রোস্কোপিক চেম্বারে ন্যানোগ্রাম-স্কেল নমুনা অধ্যয়ন।"
+    },
+    "nuclearUses": {
+      "en": "Es-253 used as target material for synthesizing mendelevium (element 101) by alpha bombardment.",
+      "bn": "আলফা বোমাবর্ষণ দ্বারা মেন্ডেলেভিয়াম (উপাদান ১০১) সংশ্লেষণের জন্য Es-২৫৩ লক্ষ্যবস্তু পদার্থ হিসেবে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "None; far too rare and dangerous.",
+      "bn": "কোনো নেই; অত্যন্ত বিরল ও বিপজ্জনক।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; extreme radiotoxin.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; চরম তেজস্ক্রিয় বিষ।"
+    },
+    "humanBodyRole": {
+      "en": "None; never encountered in biological systems.",
+      "bn": "কোনো নেই; জৈবিক সিস্টেমে কখনও সম্মুখীন হয় না।"
+    },
+    "toxicity": {
+      "en": "Extreme radiotoxicity prevents any practical biological exposure studies.",
+      "bn": "চরম তেজস্ক্রিয় বিষাক্ততা কোনো ব্যবহারিক জৈবিক এক্সপোজার অধ্যয়ন প্রতিরোধ করে।"
+    },
+    "environmentalImpact": {
+      "en": "No environmental presence; only nanogram-to-microgram laboratory quantities exist worldwide.",
+      "bn": "কোনো পরিবেশগত উপস্থিতি নেই; বিশ্বব্যাপী শুধুমাত্র ন্যানোগ্রাম থেকে মাইক্রোগ্রাম গবেষণাগার পরিমাণ বিদ্যমান।"
+    },
+    "pollutionRisks": {
+      "en": "Negligible; sample inventory is far smaller than 1 milligram globally.",
+      "bn": "নগণ্য; বিশ্বব্যাপী নমুনা মজুদ ১ মিলিগ্রামের চেয়ে অনেক কম।"
+    },
+    "recyclingMethods": {
+      "en": "Sample material recovered after experiments via radiochemistry; effectively single-use.",
+      "bn": "রেডিওকেমিস্ট্রির মাধ্যমে পরীক্ষার পরে নমুনা পদার্থ পুনরুদ্ধার; কার্যত এক-ব্যবহার।"
+    },
+    "sustainabilityScore": 1.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced exclusively in nuclear reactor neutron irradiation campaigns lasting years; only Oak Ridge HFIR makes it routinely.",
+      "bn": "কয়েক বছর ধরে চলমান পারমাণবিক চুল্লি নিউট্রন বিকিরণ প্রচারণায় একচেটিয়াভাবে উৎপাদিত; শুধুমাত্র ওক রিজ HFIR নিয়মিতভাবে এটি তৈরি করে।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "earthCrust": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "oceans": {
+        "en": "None",
+        "bn": "নেই"
+      }
+    },
+    "marketValue": {
+      "en": "Effectively priceless; not commercially available at any price.",
+      "bn": "কার্যত অমূল্য; কোনো মূল্যে বাণিজ্যিকভাবে উপলব্ধ নয়।"
+    },
+    "futureDemand": {
+      "en": "Demand limited to fundamental nuclear research; production likely to remain at nanogram scale.",
+      "bn": "চাহিদা মৌলিক পারমাণবিক গবেষণায় সীমাবদ্ধ; উৎপাদন ন্যানোগ্রাম স্কেলে থাকবে।"
+    },
+    "globalImportance": {
+      "en": "Symbol of post-WWII nuclear physics achievement; named for the icon of 20th-century science.",
+      "bn": "দ্বিতীয় বিশ্বযুদ্ধ-পরবর্তী পারমাণবিক পদার্থবিজ্ঞান অর্জনের প্রতীক; ২০শ শতাব্দীর বিজ্ঞানের আইকনের নামে নামকরণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Extreme alpha, beta, and gamma emitter; intense self-irradiation; samples self-destruct rapidly.",
+      "bn": "চরম আলফা, বিটা ও গামা নির্গমনকারী; তীব্র স্ব-বিকিরণ; নমুনা দ্রুত স্ব-ধ্বংস হয়।"
+    },
+    "storageRequirements": {
+      "en": "Sealed in cryogenic conditions under inert gas inside heavily shielded hot cells.",
+      "bn": "ভারী আবৃত হট সেলের ভিতরে নিষ্ক্রিয় গ্যাসের অধীনে ক্রায়োজেনিক অবস্থায় সিল করা।"
+    },
+    "handlingProcedures": {
+      "en": "Remote handling with full gamma/beta shielding; even microgram amounts require maximum precautions.",
+      "bn": "সম্পূর্ণ গামা/বিটা আবরণসহ দূরবর্তী হ্যান্ডলিং; এমনকি মাইক্রোগ্রাম পরিমাণের সর্বোচ্চ সতর্কতা প্রয়োজন।"
+    },
+    "exposureRisks": {
+      "en": "Any exposure causes catastrophic radiation injury; researchers maintain absolute containment.",
+      "bn": "যেকোনো এক্সপোজার বিপর্যয়কর বিকিরণ আঘাত ঘটায়; গবেষকরা সম্পূর্ণ আবদ্ধতা বজায় রাখেন।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Highly Radioactive)",
+      "bn": "চরম ঝুঁকি (অত্যন্ত তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Einsteinium was discovered in the fallout of the first hydrogen bomb test in 1952, named after Albert Einstein.",
+      "bn": "আইনস্টাইনিয়াম ১৯৫২ সালে প্রথম হাইড্রোজেন বোমা পরীক্ষার ফলআউটে আবিষ্কৃত হয়েছিল, অ্যালবার্ট আইনস্টাইনের নামে নামকরণ।"
+    },
+    "advancedExplanation": {
+      "en": "A transcalifornium actinide whose bulk material self-heats from intense decay (~1000 W/g for Es-254). Its 5f¹¹ configuration enables both +3 and unusual +2 oxidation states; samples destroy their own crystal lattice via auto-radiolysis.",
+      "bn": "একটি ট্রান্সক্যালিফোর্নিয়াম অ্যাক্টিনাইড যার বাল্ক পদার্থ তীব্র ক্ষয় থেকে স্ব-উষ্ণ হয় (Es-২৫৪ এর জন্য ~১০০০ ওয়া/গ্রাম)। এর 5f¹¹ কনফিগারেশন +৩ ও অস্বাভাবিক +২ উভয় জারণ অবস্থা সক্ষম করে; নমুনা অটো-রেডিওলাইসিসের মাধ্যমে তাদের নিজস্ব স্ফটিক জালি ধ্বংস করে।"
+    },
+    "funFacts": [
+      {
+        "en": "All einsteinium ever produced worldwide totals less than 1 milligram.",
+        "bn": "বিশ্বব্যাপী কখনও উৎপাদিত সমস্ত আইনস্টাইনিয়াম মোট ১ মিলিগ্রামেরও কম।"
+      },
+      {
+        "en": "Einsteinium samples literally destroy themselves over time due to their own radiation.",
+        "bn": "আইনস্টাইনিয়াম নমুনা আক্ষরিকভাবে তাদের নিজস্ব বিকিরণের কারণে সময়ের সাথে নিজেকে ধ্বংস করে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 67,
+        "relation": {
+          "en": "Einsteinium parallels Holmium (lanthanide analog) in electronic structure but is radically different due to extreme radioactivity.",
+          "bn": "আইনস্টাইনিয়াম ইলেকট্রনিক কাঠামোতে হলমিয়ামের (ল্যান্থানাইড অ্যানালগ) সমান্তরাল কিন্তু চরম তেজস্ক্রিয়তার কারণে আমূলভাবে আলাদা।"
+        }
+      }
+    ],
+    "relatedElements": [
+      67,
+      98,
+      100,
+      96
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "97",
+            "bn": "97"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "99",
+            "bn": "99"
+          },
+          {
+            "en": "100",
+            "bn": "100"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium has atomic number 99, meaning 99 protons in its nucleus.",
+          "bn": "আইনস্টাইনিয়াম এর পারমাণবিক সংখ্যা 99, অর্থাৎ নিউক্লিয়াসে 99টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Es",
+            "bn": "Es"
+          },
+          {
+            "en": "sE",
+            "bn": "sE"
+          },
+          {
+            "en": "XE",
+            "bn": "XE"
+          },
+          {
+            "en": "Ee",
+            "bn": "Ee"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Einsteinium is Es.",
+          "bn": "আইনস্টাইনিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Es।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Einsteinium belong?",
+          "bn": "আইনস্টাইনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Einsteinium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "আইনস্টাইনিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹¹ 7s²",
+            "bn": "[Rn] 5f¹¹ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Einsteinium is [Rn] 5f¹¹ 7s².",
+          "bn": "আইনস্টাইনিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f¹¹ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Einsteinium discovered or first synthesized?",
+          "bn": "কোন বছরে আইনস্টাইনিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1942",
+            "bn": "1942"
+          },
+          {
+            "en": "1947",
+            "bn": "1947"
+          },
+          {
+            "en": "1952",
+            "bn": "1952"
+          },
+          {
+            "en": "1962",
+            "bn": "1962"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium was discovered in 1952 by Albert Ghiorso et al..",
+          "bn": "আইনস্টাইনিয়াম 1952 সালে অ্যালবার্ট জিওরসো ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Einsteinium is +3, though Es can show others.",
+          "bn": "আইনস্টাইনিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Es অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Einsteinium belong?",
+          "bn": "আইনস্টাইনিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium is in Period 7, the row containing the actinides.",
+          "bn": "আইনস্টাইনিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "242",
+            "bn": "242"
+          },
+          {
+            "en": "247",
+            "bn": "247"
+          },
+          {
+            "en": "252",
+            "bn": "252"
+          },
+          {
+            "en": "272",
+            "bn": "272"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Einsteinium has mass number around 252.",
+          "bn": "আইনস্টাইনিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 252।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Einsteinium radioactive?",
+          "bn": "আইনস্টাইনিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Einsteinium are radioactive — none are stable.",
+          "bn": "আইনস্টাইনিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Einsteinium have?",
+          "bn": "আইনস্টাইনিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Einsteinium has 3 valence electrons available for chemical bonding.",
+          "bn": "আইনস্টাইনিয়াম এর রাসায়নিক বন্ধনের জন্য 3টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Einsteinium belong to?",
+          "bn": "আইনস্টাইনিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium is classified as a actinide.",
+          "bn": "আইনস্টাইনিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Albert Ghiorso et al.",
+            "bn": "Albert Ghiorso et al."
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium was discovered by Albert Ghiorso et al..",
+          "bn": "আইনস্টাইনিয়াম অ্যালবার্ট জিওরসো ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Einsteinium have?",
+          "bn": "আইনস্টাইনিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "99",
+            "bn": "99"
+          },
+          {
+            "en": "100",
+            "bn": "100"
+          },
+          {
+            "en": "101",
+            "bn": "101"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 99 protons for Einsteinium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: আইনস্টাইনিয়াম এর জন্য 99টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Einsteinium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে আইনস্টাইনিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Einsteinium exists as a solid.",
+          "bn": "STP-তে, আইনস্টাইনিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "আইনস্টাইনিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Einsteinium produced in limited quantities?",
+          "bn": "কেন আইনস্টাইনিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Einsteinium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "আইনস্টাইনিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Einsteinium?",
+          "bn": "আইনস্টাইনিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Einsteinium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে আইনস্টাইনিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium sits in Group 3 of the periodic table.",
+          "bn": "আইনস্টাইনিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Einsteinium typically obtained?",
+          "bn": "আইনস্টাইনিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Einsteinium is primarily obtained through nuclear synthesis methods.",
+          "bn": "আইনস্টাইনিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Einsteinium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার আইনস্টাইনিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Einsteinium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "আইনস্টাইনিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Einsteinium was discovered through theoretical prediction — actually it was discovered empirically in H-bomb fallout, before its synthesis was attempted.",
+        "bn": "আইনস্টাইনিয়াম তাত্ত্বিক ভবিষ্যদ্বাণীর মাধ্যমে আবিষ্কৃত হয়েছিল — আসলে এটি সংশ্লেষণ চেষ্টার আগে H-বোমা ফলআউটে অভিজ্ঞতাগতভাবে আবিষ্কৃত হয়েছিল।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Einsteinium (Es, 99) and Fermium (Fm, 100) were both discovered in the Ivy Mike H-bomb debris in 1952.",
+        "bn": "আইনস্টাইনিয়াম (Es, ৯৯) ও ফার্মিয়াম (Fm, ১০০) উভয়ই ১৯৫২ সালে আইভি মাইক H-বোমা ধ্বংসাবশেষে আবিষ্কৃত হয়েছিল।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²³⁸U + 15n → ²⁵³Es + 7β⁻",
+        "description": {
+          "en": "Original detection in H-bomb fallout: rapid multi-neutron capture by uranium-238 followed by beta decays.",
+          "bn": "H-বোমা ফলআউটে মূল সনাক্তকরণ: ইউরেনিয়াম-২৩৮ দ্বারা দ্রুত মাল্টি-নিউট্রন ক্যাপচার এবং পরবর্তী বিটা ক্ষয়।"
+        }
+      },
+      {
+        "equation": "²⁵³Es + α → ²⁵⁶Md + n",
+        "description": {
+          "en": "Synthesis of mendelevium (element 101) using Es-253 target.",
+          "bn": "Es-২৫৩ লক্ষ্যবস্তু ব্যবহার করে মেন্ডেলেভিয়াম (উপাদান ১০১) সংশ্লেষণ।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Es → Es³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation to the dominant Es(III) state.",
+          "bn": "প্রভাবশালী Es(III) অবস্থায় জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Es³⁺ + e⁻ → Es²⁺",
+        "description": {
+          "en": "Unusually easy reduction to divalent Es(II), reflecting its lanthanide-like character.",
+          "bn": "ডাইভ্যালেন্ট Es(II)-এ অস্বাভাবিকভাবে সহজ বিজারণ, এর ল্যান্থানাইড-সদৃশ চরিত্র প্রতিফলিত করে।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "EsCl₃",
+        "description": {
+          "en": "Einsteinium trichloride exhibits typical actinide ionic bonding with covalent character from 5f participation.",
+          "bn": "আইনস্টাইনিয়াম ট্রাইক্লোরাইড 5f অংশগ্রহণ থেকে সমযোজী চরিত্রসহ সাধারণ অ্যাক্টিনাইড আয়নিক বন্ধন প্রদর্শন করে।"
+        }
+      }
+    ]
+  }
+}

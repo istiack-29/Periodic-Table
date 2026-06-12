@@ -1,0 +1,1004 @@
+{
+  "elementId": 86,
+  "basicInformation": {
+    "atomicNumber": 86,
+    "symbol": "Rn",
+    "name": {
+      "en": "Radon",
+      "bn": "রেডন"
+    },
+    "pronunciation": {
+      "en": "/ˈreɪdɒn/",
+      "bn": "রে-ডন"
+    },
+    "atomicMass": 222,
+    "category": {
+      "en": "Noble gas",
+      "bn": "নিষ্ক্রিয় গ্যাস"
+    },
+    "group": 18,
+    "period": 6,
+    "block": "p",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Colorless gas, phosphorescent yellow when solidified",
+      "bn": "বর্ণহীন গ্যাস, কঠিন হলে ফসফরসেন্ট হলুদ"
+    },
+    "color": {
+      "en": "Colorless",
+      "bn": "বর্ণহীন"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Friedrich Ernst Dorn",
+      "bn": "ফ্রেডরিখ আর্নস্ট ডর্ন"
+    },
+    "discoveryYear": 1900,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Dorn discovered radon as a radioactive gas emanating from radium; originally called 'radium emanation'.",
+      "bn": "ডর্ন রেডিয়াম থেকে নির্গত একটি তেজস্ক্রিয় গ্যাস হিসেবে রেডন আবিষ্কার করেন; মূলত 'রেডিয়াম এমেনেশন' নামে পরিচিত।"
+    },
+    "historicalUses": {
+      "en": "Early 20th century used in spa treatments and 'radon water' tonics — now known to be dangerously carcinogenic.",
+      "bn": "২০শ শতাব্দীর প্রথম দিকে স্পা চিকিত্সা এবং 'রেডন ওয়াটার' টনিকে ব্যবহৃত — এখন বিপজ্জনকভাবে কার্সিনোজেনিক হিসেবে পরিচিত।"
+    },
+    "famousExperiments": {
+      "en": "William Ramsay and Robert Whytlaw-Gray isolated radon and measured its density in 1910, confirming its noble gas character.",
+      "bn": "উইলিয়াম রামসে এবং রবার্ট হোয়াইটল-গ্রে ১৯১০ সালে রেডন আলাদা করেন এবং এর ঘনত্ব পরিমাপ করেন, এর নিষ্ক্রিয় গ্যাস চরিত্র নিশ্চিত করেন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 86,
+    "neutrons": 136,
+    "electrons": 86,
+    "valenceElectrons": 8,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶",
+    "orbitalConfiguration": {
+      "6s": 2,
+      "6p": 6,
+      "5d": 10,
+      "4f": 14
+    },
+    "oxidationStates": [
+      0,
+      2,
+      4,
+      6
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.00973,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 202,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 211.5,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 150,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 150,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 220,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.00361,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.094,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic (solid)",
+      "bn": "ফেস-সেন্টার্ড কিউবিক (কঠিন)"
+    },
+    "magneticOrdering": {
+      "en": "Nonmagnetic",
+      "bn": "অ-চৌম্বকীয়"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.2,
+    "ionizationEnergy": {
+      "value": 1037,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": null,
+    "reactivity": {
+      "en": "Mostly inert as expected of a noble gas; can form fluorides (RnF₂) under extreme conditions.",
+      "bn": "নিষ্ক্রিয় গ্যাসের প্রত্যাশা অনুযায়ী বেশিরভাগই নিষ্ক্রিয়; চরম পরিস্থিতিতে ফ্লোরাইড (RnF₂) গঠন করতে পারে।"
+    },
+    "commonCompounds": [
+      "RnF₂",
+      "RnO₃",
+      "RnF₄"
+    ],
+    "flameTestColor": null,
+    "spectralLines": [
+      "434.96nm",
+      "705.96nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Tracer gas in geological surveys and earthquake prediction research.",
+      "bn": "ভূতাত্ত্বিক জরিপ এবং ভূমিকম্প পূর্বাভাস গবেষণায় ট্রেসার গ্যাস।"
+    },
+    "commercialUses": {
+      "en": "Calibration of radiation detectors; historical use in radiotherapy (now obsolete).",
+      "bn": "বিকিরণ ডিটেক্টরের ক্যালিব্রেশন; রেডিওথেরাপিতে ঐতিহাসিক ব্যবহার (এখন অপ্রচলিত)।"
+    },
+    "electronicsUses": {
+      "en": "Not used in electronics due to radioactivity and inert chemistry.",
+      "bn": "তেজস্ক্রিয়তা এবং নিষ্ক্রিয় রসায়নের কারণে ইলেকট্রনিক্সে ব্যবহৃত হয় না।"
+    },
+    "semiconductorUses": {
+      "en": "No semiconductor applications.",
+      "bn": "কোনো সেমিকন্ডাক্টর প্রয়োগ নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Monitoring of radon levels is critical in submarines and space habitats for crew safety.",
+      "bn": "সাবমেরিন এবং মহাকাশ আবাসস্থলে ক্রু সুরক্ষার জন্য রেডন স্তর পর্যবেক্ষণ অত্যন্ত গুরুত্বপূর্ণ।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনোটি নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "AI models analyze radon distribution data to predict seismic activity and uranium ore locations.",
+      "bn": "AI মডেলগুলি ভূমিকম্প কার্যকলাপ এবং ইউরেনিয়াম আকরিক অবস্থান পূর্বাভাস দিতে রেডন বিতরণ ডেটা বিশ্লেষণ করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "Not applicable in renewable energy systems.",
+      "bn": "নবায়নযোগ্য শক্তি সিস্টেমে প্রযোজ্য নয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Studied as test gas in radiation-shielding nanocomposite materials.",
+      "bn": "বিকিরণ-ঢাল ন্যানোকম্পোজিট উপকরণে পরীক্ষা গ্যাস হিসেবে অধ্যয়ন।"
+    },
+    "nuclearUses": {
+      "en": "Important indicator of uranium decay in nuclear geology and waste monitoring.",
+      "bn": "পারমাণবিক ভূতত্ত্ব এবং বর্জ্য পর্যবেক্ষণে ইউরেনিয়াম ক্ষয়ের গুরুত্বপূর্ণ সূচক।"
+    },
+    "militaryUses": {
+      "en": "Monitored in submarines and underground bunkers as a health hazard.",
+      "bn": "সাবমেরিন এবং ভূগর্ভস্থ বাঙ্কারগুলিতে স্বাস্থ্য বিপদ হিসেবে পর্যবেক্ষণ করা হয়।"
+    },
+    "medicalUses": {
+      "en": "Formerly used in radon seed therapy for cancer; replaced by safer alternatives.",
+      "bn": "ক্যান্সারের জন্য রেডন সিড থেরাপিতে পূর্বে ব্যবহৃত; নিরাপদ বিকল্প দ্বারা প্রতিস্থাপিত।"
+    },
+    "foodIndustryUses": {
+      "en": "None; presence in groundwater is a contamination concern.",
+      "bn": "কোনোটি নেই; ভূগর্ভস্থ জলে উপস্থিতি দূষণের উদ্বেগ।"
+    },
+    "constructionUses": {
+      "en": "Building codes require radon-resistant construction and mitigation in high-risk geological areas.",
+      "bn": "ভবন কোডে উচ্চ-ঝুঁকিপূর্ণ ভূতাত্ত্বিক এলাকায় রেডন-প্রতিরোধী নির্মাণ এবং প্রশমন প্রয়োজন।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; inhalation causes lung cancer due to alpha-emitting decay products.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; আলফা-নির্গমনকারী ক্ষয় উপাদানগুলির কারণে শ্বাস নেওয়া ফুসফুসের ক্যান্সার ঘটায়।"
+    },
+    "humanBodyRole": {
+      "en": "Second leading cause of lung cancer after smoking; alpha particles damage lung epithelial DNA.",
+      "bn": "ধূমপানের পরে ফুসফুসের ক্যান্সারের দ্বিতীয় প্রধান কারণ; আলফা কণা ফুসফুসের এপিথেলিয়াল DNA ক্ষতিগ্রস্ত করে।"
+    },
+    "toxicity": {
+      "en": "Highly carcinogenic via inhalation; EPA recommends mitigation above 4 pCi/L indoor concentration.",
+      "bn": "শ্বাস নেওয়ার মাধ্যমে অত্যন্ত কার্সিনোজেনিক; EPA ৪ pCi/L এর উপরে অভ্যন্তরীণ ঘনত্বের প্রশমনের পরামর্শ দেয়।"
+    },
+    "environmentalImpact": {
+      "en": "Naturally seeps from uranium-rich rocks; accumulates in basements and poorly ventilated buildings.",
+      "bn": "ইউরেনিয়াম-সমৃদ্ধ পাথর থেকে প্রাকৃতিকভাবে বেরিয়ে আসে; বেসমেন্ট এবং খারাপভাবে বায়ুচলাচল ভবনগুলিতে জমা হয়।"
+    },
+    "pollutionRisks": {
+      "en": "Indoor accumulation is a significant public health pollutant globally; granite countertops can contribute.",
+      "bn": "অভ্যন্তরীণ সঞ্চয় বিশ্বব্যাপী একটি উল্লেখযোগ্য জনস্বাস্থ্য দূষক; গ্রানাইট কাউন্টারটপ অবদান রাখতে পারে।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; managed through ventilation and sub-slab depressurization in buildings.",
+      "bn": "প্রযোজ্য নয়; ভবনগুলিতে বায়ুচলাচল এবং সাব-স্ল্যাব ডিপ্রেসারাইজেশনের মাধ্যমে পরিচালিত।"
+    },
+    "sustainabilityScore": 2.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Naturally occurring globally",
+        "bn": "বিশ্বব্যাপী প্রাকৃতিকভাবে ঘটে"
+      },
+      {
+        "en": "USA (high in Appalachia)",
+        "bn": "যুক্তরাষ্ট্র (অ্যাপালাচিয়ায় উচ্চ)"
+      },
+      {
+        "en": "Czech Republic",
+        "bn": "চেক প্রজাতন্ত্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined; collected from radium-bearing minerals or as decay product of uranium series.",
+      "bn": "খনন করা হয় না; রেডিয়াম-বহনকারী খনিজ বা ইউরেনিয়াম সিরিজের ক্ষয় পণ্য হিসেবে সংগ্রহ করা।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "ট্রেস"
+      },
+      "earthCrust": {
+        "en": "4×10⁻¹³ ppm",
+        "bn": "৪×১০⁻¹³ পিপিএম"
+      },
+      "oceans": {
+        "en": "6×10⁻¹⁶ ppm",
+        "bn": "৬×১০⁻¹⁶ পিপিএম"
+      }
+    },
+    "marketValue": {
+      "en": "Limited commercial market; small quantities sold for calibration purposes only.",
+      "bn": "সীমিত বাণিজ্যিক বাজার; শুধুমাত্র ক্যালিব্রেশন উদ্দেশ্যে ছোট পরিমাণ বিক্রি।"
+    },
+    "futureDemand": {
+      "en": "Increasing demand for radon detection sensors and home mitigation systems globally.",
+      "bn": "বিশ্বব্যাপী রেডন সনাক্তকরণ সেন্সর এবং হোম প্রশমন সিস্টেমের ক্রমবর্ধমান চাহিদা।"
+    },
+    "globalImportance": {
+      "en": "Major public health concern; tracked by WHO and national agencies for residential safety.",
+      "bn": "প্রধান জনস্বাস্থ্য উদ্বেগ; আবাসিক সুরক্ষার জন্য WHO এবং জাতীয় সংস্থাগুলি দ্বারা ট্র্যাক করা।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Inhalation of radon and its progeny is a leading cause of lung cancer in non-smokers.",
+      "bn": "রেডন এবং এর বংশের শ্বাস গ্রহণ অধূমপায়ীদের মধ্যে ফুসফুসের ক্যান্সারের একটি প্রধান কারণ।"
+    },
+    "storageRequirements": {
+      "en": "Sealed in lead-lined containers; rarely stored due to short half-life (3.8 days for Rn-222).",
+      "bn": "সীসা-আবদ্ধ পাত্রে সিল; সংক্ষিপ্ত অর্ধ-জীবনের কারণে কদাচিৎ সংরক্ষণ (Rn-222 এর জন্য ৩.৮ দিন)।"
+    },
+    "handlingProcedures": {
+      "en": "Use radon detectors, ensure ventilation, and seal basement entry points in affected homes.",
+      "bn": "রেডন ডিটেক্টর ব্যবহার করুন, বায়ুচলাচল নিশ্চিত করুন এবং প্রভাবিত বাড়িগুলিতে বেসমেন্ট প্রবেশ পয়েন্ট সিল করুন।"
+    },
+    "exposureRisks": {
+      "en": "Long-term exposure to elevated indoor radon significantly increases lung cancer risk.",
+      "bn": "উচ্চতর অভ্যন্তরীণ রেডনের দীর্ঘমেয়াদী এক্সপোজার ফুসফুসের ক্যান্সারের ঝুঁকি উল্লেখযোগ্যভাবে বাড়ায়।"
+    },
+    "safetyLevel": {
+      "en": "High Risk (Carcinogenic Gas)",
+      "bn": "উচ্চ ঝুঁকি (কার্সিনোজেনিক গ্যাস)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Carcinogen Category 1",
+        "bn": "কার্সিনোজেন শ্রেণী ১"
+      },
+      {
+        "en": "Radioactive Gas",
+        "bn": "তেজস্ক্রিয় গ্যাস"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Radon is an invisible radioactive gas that seeps into basements and is the second-largest cause of lung cancer.",
+      "bn": "রেডন একটি অদৃশ্য তেজস্ক্রিয় গ্যাস যা বেসমেন্টে প্রবেশ করে এবং ফুসফুসের ক্যান্সারের দ্বিতীয় বৃহত্তম কারণ।"
+    },
+    "advancedExplanation": {
+      "en": "The heaviest known noble gas; Rn-222 from U-238 decay chain is the most stable isotope. Forms few compounds (RnF₂) due to relativistic stabilization of 6s electrons.",
+      "bn": "সবচেয়ে ভারী পরিচিত নিষ্ক্রিয় গ্যাস; U-238 ক্ষয় চেইন থেকে Rn-222 সবচেয়ে স্থিতিশীল আইসোটোপ। 6s ইলেকট্রনের রিলেটিভিস্টিক স্থিতিশীলতার কারণে কয়েকটি যৌগ (RnF₂) গঠন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Radon levels can vary by orders of magnitude between adjacent homes due to local geology.",
+        "bn": "স্থানীয় ভূতত্ত্বের কারণে রেডন স্তর পার্শ্ববর্তী বাড়িগুলির মধ্যে মাত্রার আদেশ দ্বারা পরিবর্তিত হতে পারে।"
+      },
+      {
+        "en": "Hot springs in Misasa, Japan are famous for their high radon content, once thought therapeutic.",
+        "bn": "জাপানের মিসাসার গরম প্রস্রবণগুলি তাদের উচ্চ রেডন সামগ্রীর জন্য বিখ্যাত, একসময় থেরাপিউটিক বলে মনে করা হত।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 54,
+        "relation": {
+          "en": "Both radon and xenon are noble gases, but radon's radioactivity makes it lethal while xenon is safe and used in lighting and anesthesia.",
+          "bn": "রেডন এবং জেনন উভয়ই নিষ্ক্রিয় গ্যাস, কিন্তু রেডনের তেজস্ক্রিয়তা এটিকে মারাত্মক করে তোলে যেখানে জেনন নিরাপদ এবং আলো ও অ্যানেস্থেসিয়াতে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      54,
+      85,
+      87,
+      88
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Radon?",
+          "bn": "রেডন এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "85",
+            "bn": "85"
+          },
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon (Rn) has atomic number 86.",
+          "bn": "রেডন (Rn) এর পারমাণবিক সংখ্যা 86।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which symbol represents Radon?",
+          "bn": "কোন প্রতীক রেডন কে নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "Rn",
+            "bn": "Rn"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The chemical symbol for Radon is Rn.",
+          "bn": "রেডন এর রাসায়নিক প্রতীক Rn।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Radon belong to?",
+          "bn": "রেডন কোন শ্রেণীর অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon is classified as a Noble gas.",
+          "bn": "রেডন নিষ্ক্রিয় গ্যাস হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Radon located?",
+          "bn": "পর্যায় সারণির কোন পর্যায়ে রেডন অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon is in period 6.",
+          "bn": "রেডন 6 নং পর্যায়ে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which group does Radon belong?",
+          "bn": "রেডন কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "17",
+            "bn": "17"
+          },
+          {
+            "en": "18",
+            "bn": "18"
+          },
+          {
+            "en": "19",
+            "bn": "19"
+          },
+          {
+            "en": "20",
+            "bn": "20"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon is in group 18.",
+          "bn": "রেডন 18 নং গ্রুপে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Radon?",
+          "bn": "রেডন এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "212.0",
+            "bn": "212.0"
+          },
+          {
+            "en": "222.00",
+            "bn": "222.00"
+          },
+          {
+            "en": "232.0",
+            "bn": "232.0"
+          },
+          {
+            "en": "242.0",
+            "bn": "242.0"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The standard atomic mass of Radon is approximately 222.",
+          "bn": "রেডন এর প্রমাণ পারমাণবিক ভর প্রায় 222।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Radon?",
+          "bn": "রেডন এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Kr] 5s¹",
+            "bn": "[Kr] 5s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The ground state electron configuration of Radon is [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶.",
+          "bn": "রেডন এর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary phase of Radon at standard conditions?",
+          "bn": "আদর্শ অবস্থায় রেডন এর প্রাথমিক দশা কী?"
+        },
+        "options": [
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Bose-Einstein condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radon exists as a Gas at STP.",
+          "bn": "রেডন STP-তে গ্যাস হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Radon?",
+          "bn": "রেডন এর সবচেয়ে সাধারণ জারণ অবস্থা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+0",
+            "bn": "+0"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-3",
+            "bn": "-3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The most stable oxidation state of Radon is +0.",
+          "bn": "রেডন এর সবচেয়ে স্থিতিশীল জারণ অবস্থা +0।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity of Radon on the Pauling scale?",
+          "bn": "পলিং স্কেলে রেডন এর তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.20",
+            "bn": "1.20"
+          },
+          {
+            "en": "2.20",
+            "bn": "2.20"
+          },
+          {
+            "en": "3.20",
+            "bn": "3.20"
+          },
+          {
+            "en": "4.20",
+            "bn": "4.20"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Pauling electronegativity of Radon is approximately 2.2.",
+          "bn": "রেডন এর পলিং তড়িৎঋণাত্মকতা প্রায় 2.2।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Radon contain?",
+          "bn": "রেডন এর একটি পরমাণুতে কতগুলি প্রোটন থাকে?"
+        },
+        "options": [
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          },
+          {
+            "en": "81",
+            "bn": "81"
+          },
+          {
+            "en": "172",
+            "bn": "172"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By definition, Radon has 86 protons (its atomic number).",
+          "bn": "সংজ্ঞা অনুসারে, রেডন এর 86 টি প্রোটন রয়েছে (এর পারমাণবিক সংখ্যা)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which block of the periodic table contains Radon?",
+          "bn": "পর্যায় সারণির কোন ব্লক রেডন ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-ব্লক"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-ব্লক"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-ব্লক"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-ব্লক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon occupies the p-block.",
+          "bn": "রেডন p-ব্লক দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate first ionization energy of Radon in kJ/mol?",
+          "bn": "রেডন এর আনুমানিক প্রথম আয়নীকরণ শক্তি kJ/mol এ কত?"
+        },
+        "options": [
+          {
+            "en": "837",
+            "bn": "837"
+          },
+          {
+            "en": "1037",
+            "bn": "1037"
+          },
+          {
+            "en": "1237",
+            "bn": "1237"
+          },
+          {
+            "en": "1537",
+            "bn": "1537"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The first ionization energy of Radon is about 1037 kJ/mol.",
+          "bn": "রেডন এর প্রথম আয়নীকরণ শক্তি প্রায় 1037 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many electron shells does a neutral Radon atom have?",
+          "bn": "একটি নিরপেক্ষ রেডন পরমাণুর কতটি ইলেকট্রন শেল রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon has 6 electron shells.",
+          "bn": "রেডন এর 6 টি ইলেকট্রন শেল রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Radon naturally radioactive?",
+          "bn": "রেডন কি প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "Yes",
+            "bn": "হ্যাঁ"
+          },
+          {
+            "en": "No",
+            "bn": "না"
+          },
+          {
+            "en": "Only in compounds",
+            "bn": "শুধু যৌগে"
+          },
+          {
+            "en": "Only at high temperatures",
+            "bn": "শুধু উচ্চ তাপমাত্রায়"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Radon is naturally radioactive.",
+          "bn": "রেডন প্রাকৃতিকভাবে তেজস্ক্রিয় হ্যাঁ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the melting point of Radon in Kelvin?",
+          "bn": "রেডন এর গলনাঙ্ক কেলভিনে কত?"
+        },
+        "options": [
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "202",
+            "bn": "202"
+          },
+          {
+            "en": "702",
+            "bn": "702"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The melting point of Radon is approximately 202 K.",
+          "bn": "রেডন এর গলনাঙ্ক প্রায় 202 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the crystal structure of solid Radon?",
+          "bn": "কঠিন রেডন এর স্ফটিক গঠন কী?"
+        },
+        "options": [
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Face-centered cubic (solid)",
+            "bn": "ফেস-সেন্টার্ড কিউবিক (কঠিন)"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon crystallizes in a Face-centered cubic (solid) structure.",
+          "bn": "রেডন ফেস-সেন্টার্ড কিউবিক (কঠিন) গঠনে স্ফটিকীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with discovering Radon?",
+          "bn": "রেডন আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Friedrich Ernst Dorn",
+            "bn": "ফ্রেডরিখ আর্নস্ট ডর্ন"
+          },
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Antoine Lavoisier",
+            "bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon was discovered by Friedrich Ernst Dorn.",
+          "bn": "রেডন ফ্রেডরিখ আর্নস্ট ডর্ন দ্বারা আবিষ্কৃত হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the magnetic ordering of Radon?",
+          "bn": "রেডন এর চৌম্বকীয় ক্রম কী?"
+        },
+        "options": [
+          {
+            "en": "Ferromagnetic",
+            "bn": "ফেরোম্যাগনেটিক"
+          },
+          {
+            "en": "Paramagnetic",
+            "bn": "প্যারাম্যাগনেটিক"
+          },
+          {
+            "en": "Nonmagnetic",
+            "bn": "অ-চৌম্বকীয়"
+          },
+          {
+            "en": "Antiferromagnetic",
+            "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radon exhibits Nonmagnetic behavior.",
+          "bn": "রেডন অ-চৌম্বকীয় আচরণ প্রদর্শন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Radon first discovered or isolated?",
+          "bn": "রেডন প্রথম কোন বছর আবিষ্কৃত বা আলাদা করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1850",
+            "bn": "1850"
+          },
+          {
+            "en": "1900",
+            "bn": "1900"
+          },
+          {
+            "en": "1950",
+            "bn": "1950"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radon was first identified in 1900.",
+          "bn": "রেডন প্রথম 1900 সালে চিহ্নিত হয়েছিল।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Radon is harmless because it's a noble gas that doesn't react.",
+        "bn": "রেডন ক্ষতিকর নয় কারণ এটি একটি নিষ্ক্রিয় গ্যাস যা প্রতিক্রিয়া করে না।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Test your home for radon with simple kits — high levels are colorless, odorless, and tasteless but deadly over years.",
+        "bn": "সহজ কিট দিয়ে আপনার বাড়িতে রেডন পরীক্ষা করুন — উচ্চ স্তরগুলি বর্ণহীন, গন্ধহীন এবং স্বাদহীন কিন্তু বছরের পর বছর ধরে মারাত্মক।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Rn + F₂ → RnF₂",
+        "description": {
+          "en": "Direct fluorination producing the rare radon difluoride.",
+          "bn": "দুর্লভ রেডন ডাইফ্লোরাইড উৎপাদনকারী সরাসরি ফ্লোরিনেশন।"
+        }
+      },
+      {
+        "equation": "²²⁶Ra → ²²²Rn + α",
+        "description": {
+          "en": "Alpha decay of radium-226 producing radon-222 (3.8 day half-life).",
+          "bn": "রেডিয়াম-২২৬ এর আলফা ক্ষয়ে রেডন-২২২ উৎপাদন (৩.৮ দিনের অর্ধ-জীবন)।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Rn → Rn²⁺ + 2e⁻",
+        "description": {
+          "en": "Theoretical oxidation in extreme conditions; observed only in exotic chemistry.",
+          "bn": "চরম পরিস্থিতিতে তাত্ত্বিক জারণ; শুধুমাত্র বিদেশী রসায়নে পর্যবেক্ষণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "RnF₂ + 2e⁻ → Rn + 2F⁻",
+        "description": {
+          "en": "Reduction of radon difluoride back to elemental noble gas.",
+          "bn": "রেডন ডাইফ্লোরাইডের মৌল নিষ্ক্রিয় গ্যাসে ফিরে বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar Covalent",
+          "bn": "পোলার সমযোজী"
+        },
+        "molecule": "RnF₂",
+        "description": {
+          "en": "Radon shares electrons with fluorine in one of few known radon compounds.",
+          "bn": "কয়েকটি পরিচিত রেডন যৌগের মধ্যে একটিতে রেডন ফ্লোরিনের সাথে ইলেকট্রন ভাগ করে।"
+        }
+      }
+    ]
+  }
+}

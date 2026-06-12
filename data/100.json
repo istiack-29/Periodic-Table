@@ -1,0 +1,994 @@
+{
+  "elementId": 100,
+  "basicInformation": {
+    "atomicNumber": 100,
+    "symbol": "Fm",
+    "name": {
+      "en": "Fermium",
+      "bn": "ফার্মিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈfɜːrmiəm/",
+      "bn": "ফার-মি-আম"
+    },
+    "atomicMass": 257.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid (presumed)",
+      "bn": "কঠিন (অনুমিত)"
+    },
+    "appearance": {
+      "en": "Unknown (presumed metallic)",
+      "bn": "অজানা (অনুমিত ধাতব)"
+    },
+    "color": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Albert Ghiorso et al.",
+      "bn": "অ্যালবার্ট জিওরসো ও সহযোগীরা"
+    },
+    "discoveryYear": 1952,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "Co-discovered with einsteinium in the 'Ivy Mike' thermonuclear test debris. Named in honor of physicist Enrico Fermi, pioneer of nuclear reactor physics.",
+      "bn": "'আইভি মাইক' থার্মোনিউক্লিয়ার পরীক্ষার ধ্বংসাবশেষে আইনস্টাইনিয়ামের সাথে সহ-আবিষ্কৃত। পারমাণবিক চুল্লি পদার্থবিজ্ঞানের অগ্রদূত পদার্থবিদ এনরিকো ফার্মির সম্মানে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Pure metallic fermium has never been produced; only studied as compounds in solution at tracer (atom-by-atom) scale.",
+      "bn": "বিশুদ্ধ ধাতব ফার্মিয়াম কখনও উৎপাদিত হয়নি; শুধুমাত্র ট্রেসার (পরমাণু-দ্বারা-পরমাণু) স্কেলে দ্রবণে যৌগ হিসেবে অধ্যয়ন করা হয়েছে।"
+    },
+    "famousExperiments": {
+      "en": "Fermium is the heaviest element produced in significant quantities by neutron capture; heavier elements require accelerators.",
+      "bn": "ফার্মিয়াম নিউট্রন ক্যাপচার দ্বারা উল্লেখযোগ্য পরিমাণে উৎপাদিত সবচেয়ে ভারী উপাদান; ভারী উপাদানের জন্য ত্বরণকারী প্রয়োজন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 100,
+    "neutrons": 157,
+    "electrons": 100,
+    "valenceElectrons": 3,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      30,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f¹² 7s²",
+    "orbitalConfiguration": {
+      "5f": 12,
+      "7s": 2
+    },
+    "oxidationStates": [
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": 2,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 9.7,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1800,
+      "unit": "K"
+    },
+    "boilingPoint": null,
+    "atomicRadius": null,
+    "covalentRadius": {
+      "value": 167,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 245,
+      "unit": "pm"
+    },
+    "thermalConductivity": null,
+    "electricalConductivity": null,
+    "specificHeat": null,
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Unknown (face-centered cubic predicted)",
+      "bn": "অজানা (পৃষ্ঠকেন্দ্রিক ঘনক পূর্বাভাসিত)"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic (predicted)",
+      "bn": "প্যারাম্যাগনেটিক (পূর্বাভাসিত)"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 627,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -33.96,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Predicted to be highly reactive; only solution chemistry studied; both Fm(III) and Fm(II) accessible.",
+      "bn": "অত্যন্ত প্রতিক্রিয়াশীল বলে পূর্বাভাসিত; শুধুমাত্র দ্রবণ রসায়ন অধ্যয়ন করা হয়েছে; Fm(III) ও Fm(II) উভয় অ্যাক্সেসযোগ্য।"
+    },
+    "commonCompounds": [
+      "Fm³⁺ (aq)",
+      "Fm²⁺ (aq)",
+      "FmCl₃ (predicted)"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "Predicted only"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "None possible; only atoms-at-a-time exist for chemistry experiments.",
+      "bn": "কোনোটি সম্ভব নয়; শুধুমাত্র রসায়ন পরীক্ষার জন্য একসাথে পরমাণু বিদ্যমান।"
+    },
+    "commercialUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nuclearUses": {
+      "en": "Marks the practical upper limit of neutron-capture isotope production; beyond Fm requires charged-particle accelerators.",
+      "bn": "নিউট্রন-ক্যাপচার আইসোটোপ উৎপাদনের ব্যবহারিক ঊর্ধ্ব সীমা চিহ্নিত করে; Fm এর বাইরে চার্জযুক্ত-কণা ত্বরণকারী প্রয়োজন।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; never encountered biologically.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; জৈবিকভাবে কখনও সম্মুখীন হয় না।"
+    },
+    "humanBodyRole": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "toxicity": {
+      "en": "Inferred extreme radiotoxicity; never tested.",
+      "bn": "অনুমিত চরম তেজস্ক্রিয় বিষাক্ততা; কখনও পরীক্ষা করা হয়নি।"
+    },
+    "environmentalImpact": {
+      "en": "No environmental presence; trace anthropogenic input only from underground nuclear tests.",
+      "bn": "কোনো পরিবেশগত উপস্থিতি নেই; শুধুমাত্র ভূগর্ভস্থ পারমাণবিক পরীক্ষা থেকে সামান্য নৃ-জাত ইনপুট।"
+    },
+    "pollutionRisks": {
+      "en": "Negligible; total inventory measured in picograms.",
+      "bn": "নগণ্য; মোট মজুদ পিকোগ্রামে পরিমাপ করা হয়।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; sample is consumed in experiments and decays rapidly.",
+      "bn": "প্রযোজ্য নয়; নমুনা পরীক্ষায় ব্যবহৃত হয় এবং দ্রুত ক্ষয় হয়।"
+    },
+    "sustainabilityScore": 1.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced atom-by-atom in HFIR and other high-flux reactors via prolonged neutron irradiation of californium targets.",
+      "bn": "ক্যালিফোর্নিয়াম লক্ষ্যবস্তুর দীর্ঘস্থায়ী নিউট্রন বিকিরণের মাধ্যমে HFIR ও অন্যান্য উচ্চ-ফ্লাক্স চুল্লিতে পরমাণু-দ্বারা-পরমাণু উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "earthCrust": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "oceans": {
+        "en": "None",
+        "bn": "নেই"
+      }
+    },
+    "marketValue": {
+      "en": "Effectively priceless; not commercially available.",
+      "bn": "কার্যত অমূল্য; বাণিজ্যিকভাবে উপলব্ধ নয়।"
+    },
+    "futureDemand": {
+      "en": "Limited to academic research; production capacity unlikely to scale.",
+      "bn": "একাডেমিক গবেষণায় সীমাবদ্ধ; উৎপাদন ক্ষমতা স্কেল হওয়ার সম্ভাবনা নেই।"
+    },
+    "globalImportance": {
+      "en": "Important boundary marker — last element accessible via neutron capture; symbolic culmination of the actinide series production.",
+      "bn": "গুরুত্বপূর্ণ সীমানা চিহ্নিতকারী — নিউট্রন ক্যাপচারের মাধ্যমে অ্যাক্সেসযোগ্য শেষ উপাদান; অ্যাক্টিনাইড সিরিজ উৎপাদনের প্রতীকী চূড়ান্ত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intensely radioactive; alpha emitter and spontaneous fission. Inferred from analog actinides.",
+      "bn": "তীব্রভাবে তেজস্ক্রিয়; আলফা নির্গমনকারী ও স্বতঃস্ফূর্ত বিভাজন। অ্যানালগ অ্যাক্টিনাইড থেকে অনুমিত।"
+    },
+    "storageRequirements": {
+      "en": "Studied directly in solution within hot cells; never isolated as bulk material.",
+      "bn": "হট সেলের মধ্যে দ্রবণে সরাসরি অধ্যয়ন করা হয়; কখনও বাল্ক পদার্থ হিসেবে আলাদা করা হয়নি।"
+    },
+    "handlingProcedures": {
+      "en": "Remote handling, full radiation shielding, specialized radiochemistry facilities.",
+      "bn": "দূরবর্তী হ্যান্ডলিং, সম্পূর্ণ বিকিরণ আবরণ, বিশেষায়িত রেডিওকেমিস্ট্রি সুবিধা।"
+    },
+    "exposureRisks": {
+      "en": "Inferred extreme radiation hazard; never experienced due to absence of bulk material.",
+      "bn": "অনুমিত চরম বিকিরণ ঝুঁকি; বাল্ক পদার্থের অনুপস্থিতির কারণে কখনও অভিজ্ঞ হয় না।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Highly Radioactive)",
+      "bn": "চরম ঝুঁকি (অত্যন্ত তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Fermium is the heaviest element that can be made in reactors by adding neutrons. Beyond it, scientists must use atom-smashers.",
+      "bn": "ফার্মিয়াম সবচেয়ে ভারী উপাদান যা চুল্লিতে নিউট্রন যোগ করে তৈরি করা যেতে পারে। এর বাইরে, বিজ্ঞানীদের অবশ্যই পরমাণু-সংঘর্ষকারী ব্যবহার করতে হবে।"
+    },
+    "advancedExplanation": {
+      "en": "A trans-einsteinium actinide marking the 'fermium barrier' — beyond Fm-257, neutron capture produces isotopes that spontaneously fission before further captures. Chemistry studied only at the single-atom level via SISAK and similar techniques.",
+      "bn": "একটি ট্রান্স-আইনস্টাইনিয়াম অ্যাক্টিনাইড 'ফার্মিয়াম বাধা' চিহ্নিত করে — Fm-২৫৭ এর বাইরে, নিউট্রন ক্যাপচার আইসোটোপ উৎপাদন করে যা আরও ক্যাপচারের আগে স্বতঃস্ফূর্তভাবে বিভাজিত হয়। SISAK ও অনুরূপ কৌশলের মাধ্যমে শুধুমাত্র একক-পরমাণু স্তরে রসায়ন অধ্যয়ন।"
+    },
+    "funFacts": [
+      {
+        "en": "Fermium's chemistry has only ever been studied with a few thousand atoms at a time.",
+        "bn": "ফার্মিয়ামের রসায়ন কখনও শুধুমাত্র একসাথে কয়েক হাজার পরমাণু দিয়ে অধ্যয়ন করা হয়েছে।"
+      },
+      {
+        "en": "It is named after Enrico Fermi, the physicist who built the world's first nuclear reactor.",
+        "bn": "এটি বিশ্বের প্রথম পারমাণবিক চুল্লি নির্মাণকারী পদার্থবিদ এনরিকো ফার্মির নামে নামকরণ করা হয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 68,
+        "relation": {
+          "en": "Fermium parallels Erbium (lanthanide analog) in electronic configuration but exists only as fleeting atoms instead of bulk metal.",
+          "bn": "ফার্মিয়াম ইলেকট্রনিক কনফিগারেশনে এরবিয়ামের (ল্যান্থানাইড অ্যানালগ) সমান্তরাল কিন্তু বাল্ক ধাতুর পরিবর্তে শুধুমাত্র ক্ষণস্থায়ী পরমাণু হিসেবে বিদ্যমান।"
+        }
+      }
+    ],
+    "relatedElements": [
+      68,
+      99,
+      101,
+      98
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Fermium?",
+          "bn": "ফার্মিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "99",
+            "bn": "99"
+          },
+          {
+            "en": "100",
+            "bn": "100"
+          },
+          {
+            "en": "101",
+            "bn": "101"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium has atomic number 100, meaning 100 protons in its nucleus.",
+          "bn": "ফার্মিয়াম এর পারমাণবিক সংখ্যা 100, অর্থাৎ নিউক্লিয়াসে 100টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Fermium?",
+          "bn": "ফার্মিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Fm",
+            "bn": "Fm"
+          },
+          {
+            "en": "mF",
+            "bn": "mF"
+          },
+          {
+            "en": "XF",
+            "bn": "XF"
+          },
+          {
+            "en": "Ff",
+            "bn": "Ff"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Fermium is Fm.",
+          "bn": "ফার্মিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Fm।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Fermium belong?",
+          "bn": "ফার্মিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Fermium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "ফার্মিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Fermium?",
+          "bn": "ফার্মিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹² 7s²",
+            "bn": "[Rn] 5f¹² 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Fermium is [Rn] 5f¹² 7s².",
+          "bn": "ফার্মিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f¹² 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Fermium discovered or first synthesized?",
+          "bn": "কোন বছরে ফার্মিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1942",
+            "bn": "1942"
+          },
+          {
+            "en": "1947",
+            "bn": "1947"
+          },
+          {
+            "en": "1952",
+            "bn": "1952"
+          },
+          {
+            "en": "1962",
+            "bn": "1962"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium was discovered in 1952 by Albert Ghiorso et al..",
+          "bn": "ফার্মিয়াম 1952 সালে অ্যালবার্ট জিওরসো ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Fermium?",
+          "bn": "ফার্মিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Fermium is +3, though Fm can show others.",
+          "bn": "ফার্মিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Fm অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Fermium belong?",
+          "bn": "ফার্মিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium is in Period 7, the row containing the actinides.",
+          "bn": "ফার্মিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Fermium?",
+          "bn": "ফার্মিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "247",
+            "bn": "247"
+          },
+          {
+            "en": "252",
+            "bn": "252"
+          },
+          {
+            "en": "257",
+            "bn": "257"
+          },
+          {
+            "en": "277",
+            "bn": "277"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Fermium has mass number around 257.",
+          "bn": "ফার্মিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 257।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Fermium radioactive?",
+          "bn": "ফার্মিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Fermium are radioactive — none are stable.",
+          "bn": "ফার্মিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Fermium have?",
+          "bn": "ফার্মিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Fermium has 3 valence electrons available for chemical bonding.",
+          "bn": "ফার্মিয়াম এর রাসায়নিক বন্ধনের জন্য 3টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Fermium belong to?",
+          "bn": "ফার্মিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium is classified as a actinide.",
+          "bn": "ফার্মিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Fermium?",
+          "bn": "ফার্মিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Albert Ghiorso et al.",
+            "bn": "Albert Ghiorso et al."
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium was discovered by Albert Ghiorso et al..",
+          "bn": "ফার্মিয়াম অ্যালবার্ট জিওরসো ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Fermium have?",
+          "bn": "ফার্মিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "99",
+            "bn": "99"
+          },
+          {
+            "en": "100",
+            "bn": "100"
+          },
+          {
+            "en": "101",
+            "bn": "101"
+          },
+          {
+            "en": "102",
+            "bn": "102"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 100 protons for Fermium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: ফার্মিয়াম এর জন্য 100টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Fermium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে ফার্মিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid (presumed)",
+            "bn": "Solid (presumed)"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Fermium exists as a solid (presumed).",
+          "bn": "STP-তে, ফার্মিয়াম একটি কঠিন (অনুমিত) হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Fermium?",
+          "bn": "ফার্মিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "ফার্মিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Fermium produced in limited quantities?",
+          "bn": "কেন ফার্মিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Fermium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "ফার্মিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Fermium?",
+          "bn": "ফার্মিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Fermium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে ফার্মিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium sits in Group 3 of the periodic table.",
+          "bn": "ফার্মিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Fermium typically obtained?",
+          "bn": "ফার্মিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Fermium is primarily obtained through nuclear synthesis methods.",
+          "bn": "ফার্মিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Fermium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার ফার্মিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Fermium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "ফার্মিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Fermium can be mined or extracted naturally — actually it must be synthesized atom-by-atom in nuclear reactors.",
+        "bn": "ফার্মিয়াম প্রাকৃতিকভাবে খনন বা নিষ্কাশন করা যেতে পারে — আসলে এটি পারমাণবিক চুল্লিতে পরমাণু-দ্বারা-পরমাণু সংশ্লেষণ করতে হবে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Fermium marks the boundary: elements 100 and below can be made by neutron capture, but 101+ require particle accelerators.",
+        "bn": "ফার্মিয়াম সীমানা চিহ্নিত করে: উপাদান ১০০ ও নিচের নিউট্রন ক্যাপচার দ্বারা তৈরি করা যেতে পারে, কিন্তু ১০১+ এর জন্য কণা ত্বরণকারী প্রয়োজন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²³⁸U + 17n → ²⁵⁵Fm + 8β⁻",
+        "description": {
+          "en": "Original detection: rapid multi-neutron capture in H-bomb fallout followed by beta decay chains.",
+          "bn": "মূল সনাক্তকরণ: H-বোমা ফলআউটে দ্রুত মাল্টি-নিউট্রন ক্যাপচার এবং পরবর্তী বিটা ক্ষয় চেইন।"
+        }
+      },
+      {
+        "equation": "²⁵⁷Fm → ²⁵³Cf + α",
+        "description": {
+          "en": "Alpha decay of fermium-257 (half-life 100.5 days), the longest-lived fermium isotope.",
+          "bn": "ফার্মিয়াম-২৫৭ এর আলফা ক্ষয় (অর্ধজীবন ১০০.৫ দিন), দীর্ঘতম-জীবিত ফার্মিয়াম আইসোটোপ।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Fm → Fm³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation to the dominant Fm(III) aqueous state observed in tracer chemistry.",
+          "bn": "ট্রেসার রসায়নে পর্যবেক্ষিত প্রভাবশালী Fm(III) জলীয় অবস্থায় জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Fm³⁺ + e⁻ → Fm²⁺",
+        "description": {
+          "en": "Reduction to Fm(II), more accessible than for most actinides — a sign of growing lanthanide-like behavior.",
+          "bn": "Fm(II)-এ বিজারণ, বেশিরভাগ অ্যাক্টিনাইডের চেয়ে আরও অ্যাক্সেসযোগ্য — ক্রমবর্ধমান ল্যান্থানাইড-সদৃশ আচরণের লক্ষণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond (predicted)",
+          "bn": "আয়নিক বন্ধন (পূর্বাভাসিত)"
+        },
+        "molecule": "FmCl₃",
+        "description": {
+          "en": "Fermium trichloride is predicted to form typical actinide ionic bonds analogous to californium and einsteinium compounds.",
+          "bn": "ফার্মিয়াম ট্রাইক্লোরাইড ক্যালিফোর্নিয়াম ও আইনস্টাইনিয়াম যৌগের অনুরূপ সাধারণ অ্যাক্টিনাইড আয়নিক বন্ধন গঠন করবে বলে পূর্বাভাসিত।"
+        }
+      }
+    ]
+  }
+}

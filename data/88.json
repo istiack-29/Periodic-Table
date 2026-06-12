@@ -1,0 +1,1011 @@
+{
+  "elementId": 88,
+  "basicInformation": {
+    "atomicNumber": 88,
+    "symbol": "Ra",
+    "name": {
+      "en": "Radium",
+      "bn": "রেডিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈreɪdiəm/",
+      "bn": "রে-ডি-আম"
+    },
+    "atomicMass": 226.0,
+    "category": {
+      "en": "Alkaline earth metal",
+      "bn": "মৃৎক্ষারীয় ধাতু"
+    },
+    "group": 2,
+    "period": 7,
+    "block": "s",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white metallic",
+      "bn": "রূপালী সাদা ধাতব"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Pierre and Marie Curie",
+      "bn": "পিয়ের ও মারি কুরি"
+    },
+    "discoveryYear": 1898,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Discovered by the Curies while extracting uranium from pitchblende; they noted a residual radioactivity not attributable to uranium and isolated radium chloride.",
+      "bn": "পিচব্লেন্ড থেকে ইউরেনিয়াম নিষ্কাশন করার সময় কুরিরা আবিষ্কার করেন; ইউরেনিয়ামকে দায়ী করা যায় না এমন অবশিষ্ট তেজস্ক্রিয়তা লক্ষ্য করে তারা রেডিয়াম ক্লোরাইড আলাদা করেন।"
+    },
+    "historicalUses": {
+      "en": "Historically used in self-luminous paints on watch dials, aircraft instruments, and as an early cancer therapy, leading to many cases of radiation poisoning (Radium Girls).",
+      "bn": "ঐতিহাসিকভাবে ঘড়ির ডায়াল, বিমান যন্ত্র ও প্রাথমিক ক্যান্সার থেরাপিতে স্ব-উজ্জ্বল পেইন্টে ব্যবহৃত, যা অনেক বিকিরণ বিষক্রিয়ার (রেডিয়াম গার্লস) ঘটনা ঘটায়।"
+    },
+    "famousExperiments": {
+      "en": "The Curies' painstaking processing of tons of pitchblende to isolate 0.1g of radium chloride, earning them the Nobel Prize.",
+      "bn": "০.১ গ্রাম রেডিয়াম ক্লোরাইড আলাদা করতে টন টন পিচব্লেন্ডের কুরিদের শ্রমসাধ্য প্রক্রিয়াকরণ, যা তাদের নোবেল পুরস্কার এনে দেয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 88,
+    "neutrons": 138,
+    "electrons": 88,
+    "valenceElectrons": 2,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 7s²",
+    "orbitalConfiguration": {
+      "7s": 2
+    },
+    "oxidationStates": [
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 7,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 5.5,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 973,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2010,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 283,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 221,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 283,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 18.6,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 1000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.094,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Body-centered cubic",
+      "bn": "দেহকেন্দ্রিক ঘনক"
+    },
+    "magneticOrdering": {
+      "en": "Non-magnetic",
+      "bn": "অ-চৌম্বকীয়"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 0.9,
+    "ionizationEnergy": {
+      "value": 509.3,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 9.6,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly reactive; reacts vigorously with water and air, forming radium hydroxide and nitride.",
+      "bn": "অত্যন্ত প্রতিক্রিয়াশীল; জল ও বাতাসের সাথে প্রবলভাবে বিক্রিয়া করে রেডিয়াম হাইড্রক্সাইড ও নাইট্রাইড গঠন করে।"
+    },
+    "commonCompounds": [
+      "RaCl₂",
+      "RaBr₂",
+      "RaSO₄",
+      "RaCO₃",
+      "Ra(OH)₂"
+    ],
+    "flameTestColor": {
+      "en": "Crimson red",
+      "bn": "গাঢ় লাল"
+    },
+    "spectralLines": [
+      "482.59nm",
+      "468.23nm",
+      "649.86nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Largely obsolete industrially; replaced by safer radioisotopes like cobalt-60 for radiography.",
+      "bn": "শিল্পক্ষেত্রে অপ্রচলিত; রেডিওগ্রাফির জন্য কোবাল্ট-৬০ এর মতো নিরাপদ রেডিওআইসোটোপ দ্বারা প্রতিস্থাপিত।"
+    },
+    "commercialUses": {
+      "en": "No modern commercial uses due to extreme radiotoxicity.",
+      "bn": "চরম তেজস্ক্রিয় বিষাক্ততার কারণে কোনো আধুনিক বাণিজ্যিক ব্যবহার নেই।"
+    },
+    "electronicsUses": {
+      "en": "Historically used in spark-gap radio transmitters; obsolete.",
+      "bn": "ঐতিহাসিকভাবে স্পার্ক-গ্যাপ রেডিও ট্রান্সমিটারে ব্যবহৃত; অপ্রচলিত।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Previously used in luminous aircraft instrument dials; phased out.",
+      "bn": "পূর্বে উজ্জ্বল বিমান যন্ত্র ডায়ালে ব্যবহৃত; পর্যায়ক্রমে বন্ধ।"
+    },
+    "batteryUses": {
+      "en": "Investigated for nuclear batteries (betavoltaic); not commercialized.",
+      "bn": "পারমাণবিক ব্যাটারির (বিটাভোল্টাইক) জন্য অনুসন্ধান করা হয়েছিল; বাণিজ্যিকীকরণ হয়নি।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nuclearUses": {
+      "en": "Used as a neutron source when mixed with beryllium; precursor for actinium-227 production.",
+      "bn": "বেরিলিয়ামের সাথে মিশ্রিত হলে নিউট্রন উৎস হিসেবে ব্যবহৃত; অ্যাক্টিনিয়াম-২২৭ উৎপাদনের জন্য পূর্বসূরী।"
+    },
+    "militaryUses": {
+      "en": "Historically used in luminous gun sights and instruments.",
+      "bn": "ঐতিহাসিকভাবে উজ্জ্বল বন্দুকের নিশানা ও যন্ত্রে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "Radium-223 dichloride (Xofigo) is FDA-approved for treating metastatic bone cancer.",
+      "bn": "রেডিয়াম-২২৩ ডাইক্লোরাইড (জোফিগো) মেটাস্ট্যাটিক হাড়ের ক্যান্সার চিকিৎসার জন্য FDA-অনুমোদিত।"
+    },
+    "foodIndustryUses": {
+      "en": "None; contamination considered hazardous.",
+      "bn": "কোনো নেই; দূষণ বিপজ্জনক বিবেচিত।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; mimics calcium and accumulates dangerously in bones.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; ক্যালসিয়ামের অনুকরণ করে এবং হাড়ে বিপজ্জনকভাবে জমা হয়।"
+    },
+    "humanBodyRole": {
+      "en": "Toxic; bone-seeking radionuclide that causes bone cancer and aplastic anemia.",
+      "bn": "বিষাক্ত; হাড়-সন্ধানী রেডিওনিউক্লাইড যা হাড়ের ক্যান্সার ও অ্যাপ্লাস্টিক অ্যানিমিয়া ঘটায়।"
+    },
+    "toxicity": {
+      "en": "Extremely toxic and carcinogenic; ingestion causes severe radiation damage.",
+      "bn": "অত্যন্ত বিষাক্ত ও কার্সিনোজেনিক; গ্রহণে মারাত্মক বিকিরণ ক্ষতি হয়।"
+    },
+    "environmentalImpact": {
+      "en": "Persistent radioactive contaminant; legacy contamination at watch-painting sites remains a concern.",
+      "bn": "স্থায়ী তেজস্ক্রিয় দূষণকারী; ঘড়ি-আঁকা স্থানে উত্তরাধিকার দূষণ উদ্বেগের বিষয়।"
+    },
+    "pollutionRisks": {
+      "en": "Releases radon gas during decay, contributing to indoor radon hazards.",
+      "bn": "ক্ষয়ের সময় রেডন গ্যাস ছাড়ে, যা অভ্যন্তরীণ রেডন বিপদে অবদান রাখে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from legacy waste under strict regulatory protocols.",
+      "bn": "কঠোর নিয়ন্ত্রক প্রোটোকলের অধীনে উত্তরাধিকার বর্জ্য থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 2.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "None (recovered from legacy stocks)",
+        "bn": "নেই (উত্তরাধিকার মজুদ থেকে পুনরুদ্ধার)"
+      },
+      {
+        "en": "Canada (historical)",
+        "bn": "কানাডা (ঐতিহাসিক)"
+      },
+      {
+        "en": "DR Congo (historical)",
+        "bn": "কঙ্গো গণতান্ত্রিক প্রজাতন্ত্র (ঐতিহাসিক)"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted from uranium ores as a byproduct; co-produced with radon and actinium decay chains.",
+      "bn": "ইউরেনিয়াম আকরিক থেকে উপজাত হিসেবে নিষ্কাশন; রেডন ও অ্যাক্টিনিয়াম ক্ষয় চেইনের সাথে সহ-উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "সামান্য"
+      },
+      "earthCrust": {
+        "en": "9×10⁻⁷ mg/kg",
+        "bn": "৯×১০⁻⁷ মিগ্রা/কেজি"
+      },
+      "oceans": {
+        "en": "~10⁻¹⁶ mg/L",
+        "bn": "~১০⁻¹⁶ মিগ্রা/লিটার"
+      }
+    },
+    "marketValue": {
+      "en": "Ra-223 medical isotope priced at tens of thousands of dollars per dose.",
+      "bn": "Ra-২২৩ চিকিৎসা আইসোটোপের মূল্য ডোজ প্রতি হাজার হাজার ডলার।"
+    },
+    "futureDemand": {
+      "en": "Demand limited to targeted alpha therapy for cancer.",
+      "bn": "চাহিদা ক্যান্সারের জন্য লক্ষ্যবস্তু আলফা থেরাপিতে সীমাবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Critical for advancing targeted alpha-particle cancer therapies.",
+      "bn": "লক্ষ্যবস্তু আলফা-কণা ক্যান্সার থেরাপি অগ্রগতির জন্য গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly radioactive; emits alpha, beta, and gamma radiation. Decays to radon gas.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়; আলফা, বিটা ও গামা বিকিরণ নির্গত করে। রেডন গ্যাসে ক্ষয় হয়।"
+    },
+    "storageRequirements": {
+      "en": "Stored in lead-shielded, sealed, ventilated containers to manage radon outgassing.",
+      "bn": "রেডন বহিঃপ্রবাহ পরিচালনার জন্য সীসা-আবৃত, সিলযুক্ত, বায়ুচলাচল করা পাত্রে সংরক্ষণ।"
+    },
+    "handlingProcedures": {
+      "en": "Use remote manipulators, lead aprons, and radiation monitoring; strict licensing required.",
+      "bn": "দূরবর্তী ম্যানিপুলেটর, সীসার অ্যাপ্রন ও বিকিরণ পর্যবেক্ষণ ব্যবহার করুন; কঠোর লাইসেন্সিং প্রয়োজন।"
+    },
+    "exposureRisks": {
+      "en": "Causes bone cancer, leukemia, aplastic anemia, and 'radium jaw' upon ingestion or inhalation.",
+      "bn": "গ্রহণ বা শ্বাসগ্রহণে হাড়ের ক্যান্সার, লিউকেমিয়া, অ্যাপ্লাস্টিক অ্যানিমিয়া ও 'রেডিয়াম জ' ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radioactive Carcinogen)",
+      "bn": "চরম ঝুঁকি (তেজস্ক্রিয় কার্সিনোজেন)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Carcinogen Cat 1A",
+        "bn": "কার্সিনোজেন বিভাগ ১এ"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Radium is a radioactive metal that glows in the dark. It was once used in watch paints before its dangers were understood.",
+      "bn": "রেডিয়াম একটি তেজস্ক্রিয় ধাতু যা অন্ধকারে জ্বলে। এর বিপদ বোঝার আগে এটি একসময় ঘড়ির পেইন্টে ব্যবহৃত হত।"
+    },
+    "advancedExplanation": {
+      "en": "A heavy alkaline earth metal with no stable isotopes. Its alpha decay produces radon-222 and a self-sustaining luminescence due to ionization of surrounding nitrogen.",
+      "bn": "কোনো স্থিতিশীল আইসোটোপবিহীন একটি ভারী মৃৎক্ষারীয় ধাতু। এর আলফা ক্ষয় রেডন-২২২ উৎপন্ন করে এবং পার্শ্ববর্তী নাইট্রোজেনের আয়নীকরণের কারণে একটি স্ব-টেকসই দীপ্তি উৎপন্ন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "One gram of radium produces about 0.1 watts of heat continuously from its decay.",
+        "bn": "এক গ্রাম রেডিয়াম এর ক্ষয় থেকে ক্রমাগত প্রায় ০.১ ওয়াট তাপ উৎপন্ন করে।"
+      },
+      {
+        "en": "Marie Curie's notebooks remain radioactive to this day and are stored in lead-lined boxes.",
+        "bn": "মারি কুরির নোটবুকগুলো আজও তেজস্ক্রিয় এবং সীসা-আস্তরণযুক্ত বাক্সে সংরক্ষিত।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 56,
+        "relation": {
+          "en": "Like Barium, Radium is a Group 2 alkaline earth metal with similar chemistry, but Radium is intensely radioactive while Barium is stable.",
+          "bn": "বেরিয়ামের মতো, রেডিয়াম একই রসায়নের গ্রুপ ২ মৃৎক্ষারীয় ধাতু, কিন্তু রেডিয়াম তীব্রভাবে তেজস্ক্রিয় যেখানে বেরিয়াম স্থিতিশীল।"
+        }
+      }
+    ],
+    "relatedElements": [
+      56,
+      87,
+      86,
+      92
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Radium?",
+          "bn": "রেডিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium has atomic number 88, meaning 88 protons in its nucleus.",
+          "bn": "রেডিয়াম এর পারমাণবিক সংখ্যা 88, অর্থাৎ নিউক্লিয়াসে 88টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Radium?",
+          "bn": "রেডিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Ra",
+            "bn": "Ra"
+          },
+          {
+            "en": "aR",
+            "bn": "aR"
+          },
+          {
+            "en": "XR",
+            "bn": "XR"
+          },
+          {
+            "en": "Rr",
+            "bn": "Rr"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Radium is Ra.",
+          "bn": "রেডিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Ra।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Radium belong?",
+          "bn": "রেডিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Radium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "রেডিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Radium?",
+          "bn": "রেডিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 7s²",
+            "bn": "[Rn] 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Radium is [Rn] 7s².",
+          "bn": "রেডিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Radium discovered or first synthesized?",
+          "bn": "কোন বছরে রেডিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1888",
+            "bn": "1888"
+          },
+          {
+            "en": "1893",
+            "bn": "1893"
+          },
+          {
+            "en": "1898",
+            "bn": "1898"
+          },
+          {
+            "en": "1908",
+            "bn": "1908"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium was discovered in 1898 by Pierre and Marie Curie.",
+          "bn": "রেডিয়াম 1898 সালে পিয়ের ও মারি কুরি আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Radium?",
+          "bn": "রেডিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Radium is +3, though Ra can show others.",
+          "bn": "রেডিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Ra অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Radium belong?",
+          "bn": "রেডিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium is in Period 7, the row containing the actinides.",
+          "bn": "রেডিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Radium?",
+          "bn": "রেডিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "216",
+            "bn": "216"
+          },
+          {
+            "en": "221",
+            "bn": "221"
+          },
+          {
+            "en": "226",
+            "bn": "226"
+          },
+          {
+            "en": "246",
+            "bn": "246"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Radium has mass number around 226.",
+          "bn": "রেডিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 226।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Radium radioactive?",
+          "bn": "রেডিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Radium are radioactive — none are stable.",
+          "bn": "রেডিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Radium have?",
+          "bn": "রেডিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "1"
+          },
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radium has 2 valence electrons available for chemical bonding.",
+          "bn": "রেডিয়াম এর রাসায়নিক বন্ধনের জন্য 2টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Radium belong to?",
+          "bn": "রেডিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Alkaline earth metal",
+            "bn": "Alkaline earth metal"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium is classified as a alkaline earth metal.",
+          "bn": "রেডিয়াম একটি মৃৎক্ষারীয় ধাতু হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Radium?",
+          "bn": "রেডিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Pierre and Marie Curie",
+            "bn": "Pierre and Marie Curie"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium was discovered by Pierre and Marie Curie.",
+          "bn": "রেডিয়াম পিয়ের ও মারি কুরি আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Radium have?",
+          "bn": "রেডিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 88 protons for Radium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: রেডিয়াম এর জন্য 88টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Radium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে রেডিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Radium exists as a solid.",
+          "bn": "STP-তে, রেডিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Radium?",
+          "bn": "রেডিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "0.9",
+            "bn": "0.9"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium has a Pauling electronegativity of approximately 0.9.",
+          "bn": "রেডিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 0.9।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Radium produced in limited quantities?",
+          "bn": "কেন রেডিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Radium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "রেডিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Radium?",
+          "bn": "রেডিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Radium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে রেডিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium sits in Group 2 of the periodic table.",
+          "bn": "রেডিয়াম পর্যায় সারণির গ্রুপ 2-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Radium typically obtained?",
+          "bn": "রেডিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Radium is primarily obtained through nuclear synthesis methods.",
+          "bn": "রেডিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Radium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার রেডিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Radium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "রেডিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Radium-dial watches are still safe to wear if intact — myth: they emit harmful radiation through the case. (Truth: external alpha is blocked, but broken dials are dangerous.)",
+        "bn": "রেডিয়াম-ডায়াল ঘড়ি অক্ষত থাকলে এখনও পরা নিরাপদ — মিথ: এগুলো কেস ভেদ করে ক্ষতিকর বিকিরণ ছাড়ে। (সত্য: বাহ্যিক আলফা ব্লক করা হয়, কিন্তু ভাঙা ডায়াল বিপজ্জনক।)"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Radium is element 88, directly below Barium in Group 2 — both react with water but radium far more violently.",
+        "bn": "রেডিয়াম হলো উপাদান ৮৮, গ্রুপ ২-এ বেরিয়ামের ঠিক নিচে — উভয়ই জলের সাথে বিক্রিয়া করে কিন্তু রেডিয়াম অনেক বেশি প্রবলভাবে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Ra + 2H₂O → Ra(OH)₂ + H₂",
+        "description": {
+          "en": "Reacts with water to form radium hydroxide and hydrogen gas.",
+          "bn": "জলের সাথে বিক্রিয়া করে রেডিয়াম হাইড্রক্সাইড ও হাইড্রোজেন গ্যাস গঠন করে।"
+        }
+      },
+      {
+        "equation": "3Ra + N₂ → Ra₃N₂",
+        "description": {
+          "en": "Reacts with nitrogen in air to form radium nitride.",
+          "bn": "বাতাসের নাইট্রোজেনের সাথে বিক্রিয়া করে রেডিয়াম নাইট্রাইড গঠন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Ra → Ra²⁺ + 2e⁻",
+        "description": {
+          "en": "Loses two 7s electrons to form Ra²⁺ cation.",
+          "bn": "দুটি 7s ইলেকট্রন হারিয়ে Ra²⁺ ক্যাটায়ন গঠন করে।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Ra²⁺ + 2e⁻ → Ra",
+        "description": {
+          "en": "Electrolytic reduction of radium ion to metal using mercury cathode.",
+          "bn": "পারদ ক্যাথোড ব্যবহার করে রেডিয়াম আয়নের ধাতুতে তড়িৎ বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "RaCl₂",
+        "description": {
+          "en": "Radium donates two electrons to two chlorine atoms forming an ionic salt.",
+          "bn": "রেডিয়াম দুটি ক্লোরিন পরমাণুকে দুটি ইলেকট্রন দান করে একটি আয়নিক লবণ গঠন করে।"
+        }
+      }
+    ]
+  }
+}

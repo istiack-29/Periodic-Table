@@ -1,0 +1,1006 @@
+{
+  "elementId": 97,
+  "basicInformation": {
+    "atomicNumber": 97,
+    "symbol": "Bk",
+    "name": {
+      "en": "Berkelium",
+      "bn": "বার্কেলিয়াম"
+    },
+    "pronunciation": {
+      "en": "/bərˈkiːliəm/",
+      "bn": "বার্-কী-লি-আম"
+    },
+    "atomicMass": 247.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white metallic",
+      "bn": "রূপালী সাদা ধাতব"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Stanley Thompson, Albert Ghiorso, Glenn Seaborg",
+      "bn": "স্ট্যানলি থম্পসন, অ্যালবার্ট জিওরসো, গ্লেন সিবোর্গ"
+    },
+    "discoveryYear": 1949,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "First synthesized at Berkeley by alpha-particle bombardment of americium-241 in the 60-inch cyclotron. Named after the city of Berkeley, California, like terbium for Ytterby.",
+      "bn": "৬০-ইঞ্চি সাইক্লোট্রনে অ্যামেরিসিয়াম-২৪১ এর আলফা-কণা বোমাবর্ষণ দ্বারা বার্কলিতে প্রথম সংশ্লেষণ। ইটারবির জন্য টার্বিয়ামের মতো, ক্যালিফোর্নিয়ার বার্কলি শহরের নামে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Critical role: 22 milligrams of Bk-249 was used as target material to synthesize element 117 (Tennessine) in 2009-2010.",
+      "bn": "গুরুত্বপূর্ণ ভূমিকা: ২০০৯-২০১০ সালে উপাদান ১১৭ (টেনেসিন) সংশ্লেষণের জন্য Bk-২৪৯ এর ২২ মিলিগ্রাম লক্ষ্যবস্তু পদার্থ হিসেবে ব্যবহৃত হয়েছিল।"
+    },
+    "famousExperiments": {
+      "en": "Production of Bk-249 at Oak Ridge's High Flux Isotope Reactor (HFIR) requires 18+ months of continuous neutron irradiation.",
+      "bn": "ওক রিজের হাই ফ্লাক্স আইসোটোপ চুল্লিতে (HFIR) Bk-২৪৯ উৎপাদনের জন্য ১৮+ মাসের ক্রমাগত নিউট্রন বিকিরণ প্রয়োজন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 97,
+    "neutrons": 150,
+    "electrons": 97,
+    "valenceElectrons": 4,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      27,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f⁹ 7s²",
+    "orbitalConfiguration": {
+      "5f": 9,
+      "7s": 2
+    },
+    "oxidationStates": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": -1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 14.78,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1259,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2900,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 170,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 168,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 244,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 10,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.1,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Double hexagonal close-packed",
+      "bn": "দ্বৈত ষড়ভুজাকার ঘনিষ্ঠ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 601,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -165.24,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive; slowly oxidizes in air; reacts with acids; exhibits both Bk(III) and Bk(IV) stability.",
+      "bn": "প্রতিক্রিয়াশীল; বাতাসে ধীরে জারিত হয়; অ্যাসিডের সাথে বিক্রিয়া করে; Bk(III) ও Bk(IV) উভয় স্থিতিশীলতা প্রদর্শন করে।"
+    },
+    "commonCompounds": [
+      "BkO₂",
+      "Bk₂O₃",
+      "BkF₃",
+      "BkF₄",
+      "BkCl₃"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "455.5nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "No industrial applications; used solely in basic research and superheavy element synthesis.",
+      "bn": "কোনো শিল্প প্রয়োগ নেই; শুধুমাত্র মৌলিক গবেষণা ও সুপারহেভি উপাদান সংশ্লেষণে ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nuclearUses": {
+      "en": "Bk-249 target material used to synthesize tennessine (Z=117) via Ca-48 fusion at JINR Dubna.",
+      "bn": "JINR ডুবনায় Ca-৪৮ ফিউশনের মাধ্যমে টেনেসিন (Z=১১৭) সংশ্লেষণে ব্যবহৃত Bk-২৪৯ লক্ষ্যবস্তু পদার্থ।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; extreme radiotoxin.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; চরম তেজস্ক্রিয় বিষ।"
+    },
+    "humanBodyRole": {
+      "en": "None; would accumulate in bones if ingested.",
+      "bn": "কোনো নেই; গ্রহণ করলে হাড়ে জমা হবে।"
+    },
+    "toxicity": {
+      "en": "Extremely radiotoxic; alpha and beta emissions cause severe tissue damage.",
+      "bn": "অত্যন্ত তেজস্ক্রিয় বিষাক্ত; আলফা ও বিটা নির্গমন মারাত্মক টিস্যু ক্ষতি ঘটায়।"
+    },
+    "environmentalImpact": {
+      "en": "No environmental presence; only laboratory-scale quantities exist worldwide.",
+      "bn": "কোনো পরিবেশগত উপস্থিতি নেই; বিশ্বব্যাপী শুধুমাত্র গবেষণাগার-স্কেল পরিমাণ বিদ্যমান।"
+    },
+    "pollutionRisks": {
+      "en": "Negligible; total global inventory under a few grams.",
+      "bn": "নগণ্য; মোট বিশ্বব্যাপী মজুদ কয়েক গ্রামের নিচে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered after experiments via radiochemical separation in hot cells.",
+      "bn": "হট সেলে রেডিওকেমিক্যাল পৃথকীকরণের মাধ্যমে পরীক্ষার পরে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 1.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced exclusively in high-flux research reactors via successive neutron captures on curium isotopes.",
+      "bn": "কুরিয়াম আইসোটোপে ধারাবাহিক নিউট্রন ক্যাপচারের মাধ্যমে উচ্চ-ফ্লাক্স গবেষণা চুল্লিতে একচেটিয়াভাবে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "earthCrust": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "oceans": {
+        "en": "None",
+        "bn": "নেই"
+      }
+    },
+    "marketValue": {
+      "en": "Estimated $185 million per gram if available — among the most expensive substances on Earth.",
+      "bn": "উপলব্ধ হলে আনুমানিক $১৮৫ মিলিয়ন প্রতি গ্রাম — পৃথিবীর সবচেয়ে দামী পদার্থগুলোর মধ্যে।"
+    },
+    "futureDemand": {
+      "en": "Demand limited to superheavy element research; not commercialized.",
+      "bn": "চাহিদা সুপারহেভি উপাদান গবেষণায় সীমাবদ্ধ; বাণিজ্যিকীকরণ হয়নি।"
+    },
+    "globalImportance": {
+      "en": "Critical strategic isotope for extending the periodic table to new superheavy elements.",
+      "bn": "পর্যায় সারণিকে নতুন সুপারহেভি উপাদানে প্রসারিত করার জন্য গুরুত্বপূর্ণ কৌশলগত আইসোটোপ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly radioactive (alpha and beta emitter); decay products include strong gamma emitters.",
+      "bn": "অত্যন্ত তেজস্ক্রিয় (আলফা ও বিটা নির্গমনকারী); ক্ষয় পণ্য শক্তিশালী গামা নির্গমনকারী অন্তর্ভুক্ত।"
+    },
+    "storageRequirements": {
+      "en": "Hot cell storage with multiple-layer containment under inert atmosphere.",
+      "bn": "নিষ্ক্রিয় বায়ুমণ্ডলের অধীনে বহু-স্তর আবদ্ধতাসহ হট সেল স্টোরেজ।"
+    },
+    "handlingProcedures": {
+      "en": "Remote manipulation only; full radiation shielding for alpha, beta, and gamma.",
+      "bn": "শুধুমাত্র দূরবর্তী ম্যানিপুলেশন; আলফা, বিটা ও গামার জন্য সম্পূর্ণ বিকিরণ আবরণ।"
+    },
+    "exposureRisks": {
+      "en": "Even microgram exposure can be lethal; sequestration in bones for decades.",
+      "bn": "এমনকি মাইক্রোগ্রাম এক্সপোজার মারাত্মক হতে পারে; কয়েক দশক ধরে হাড়ে আটকে থাকা।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Highly Radioactive)",
+      "bn": "চরম ঝুঁকি (অত্যন্ত তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Berkelium is an ultra-rare man-made metal used to create even heavier elements like tennessine.",
+      "bn": "বার্কেলিয়াম একটি অতি-বিরল মানব-নির্মিত ধাতু যা টেনেসিনের মতো আরও ভারী উপাদান তৈরি করতে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "A transcurium actinide with [Rn]5f⁹7s² configuration. Unique among heavy actinides for showing readily accessible Bk(IV) state. Its long-lived Bk-247 (1,380-year half-life) is the longest-lived isotope known.",
+      "bn": "[Rn]5f⁹7s² কনফিগারেশনসহ একটি ট্রান্সকুরিয়াম অ্যাক্টিনাইড। সহজে অ্যাক্সেসযোগ্য Bk(IV) অবস্থা দেখানোর জন্য ভারী অ্যাক্টিনাইডের মধ্যে অনন্য। এর দীর্ঘ-জীবিত Bk-২৪৭ (১,৩৮০-বছর অর্ধজীবন) পরিচিত দীর্ঘতম-জীবিত আইসোটোপ।"
+    },
+    "funFacts": [
+      {
+        "en": "All berkelium ever produced worldwide fits in a small vial — about 1 gram total.",
+        "bn": "বিশ্বব্যাপী কখনও উৎপাদিত সমস্ত বার্কেলিয়াম একটি ছোট শিশিতে আঁটে — মোট প্রায় ১ গ্রাম।"
+      },
+      {
+        "en": "22 mg of berkelium-249 was used as the target to discover element 117 in 2009.",
+        "bn": "২০০৯ সালে উপাদান ১১৭ আবিষ্কারের জন্য লক্ষ্যবস্তু হিসেবে বার্কেলিয়াম-২৪৯ এর ২২ মিগ্রা ব্যবহৃত হয়েছিল।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 65,
+        "relation": {
+          "en": "Berkelium parallels Terbium (its lanthanide analog), both showing readily accessible +4 states unusual for their series.",
+          "bn": "বার্কেলিয়াম টার্বিয়ামের (এর ল্যান্থানাইড অ্যানালগ) সমান্তরাল, উভয়ই তাদের সিরিজের জন্য অস্বাভাবিকভাবে সহজে অ্যাক্সেসযোগ্য +৪ অবস্থা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      65,
+      96,
+      98,
+      95
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Berkelium?",
+          "bn": "বার্কেলিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "95",
+            "bn": "95"
+          },
+          {
+            "en": "96",
+            "bn": "96"
+          },
+          {
+            "en": "97",
+            "bn": "97"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium has atomic number 97, meaning 97 protons in its nucleus.",
+          "bn": "বার্কেলিয়াম এর পারমাণবিক সংখ্যা 97, অর্থাৎ নিউক্লিয়াসে 97টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Berkelium?",
+          "bn": "বার্কেলিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Bk",
+            "bn": "Bk"
+          },
+          {
+            "en": "kB",
+            "bn": "kB"
+          },
+          {
+            "en": "XB",
+            "bn": "XB"
+          },
+          {
+            "en": "Bb",
+            "bn": "Bb"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Berkelium is Bk.",
+          "bn": "বার্কেলিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Bk।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Berkelium belong?",
+          "bn": "বার্কেলিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Berkelium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "বার্কেলিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Berkelium?",
+          "bn": "বার্কেলিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f⁹ 7s²",
+            "bn": "[Rn] 5f⁹ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Berkelium is [Rn] 5f⁹ 7s².",
+          "bn": "বার্কেলিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f⁹ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Berkelium discovered or first synthesized?",
+          "bn": "কোন বছরে বার্কেলিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1939",
+            "bn": "1939"
+          },
+          {
+            "en": "1944",
+            "bn": "1944"
+          },
+          {
+            "en": "1949",
+            "bn": "1949"
+          },
+          {
+            "en": "1959",
+            "bn": "1959"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium was discovered in 1949 by Stanley Thompson, Albert Ghiorso, Glenn Seaborg.",
+          "bn": "বার্কেলিয়াম 1949 সালে স্ট্যানলি থম্পসন, অ্যালবার্ট জিওরসো, গ্লেন সিবোর্গ আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Berkelium?",
+          "bn": "বার্কেলিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Berkelium is +3, though Bk can show others.",
+          "bn": "বার্কেলিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Bk অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Berkelium belong?",
+          "bn": "বার্কেলিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium is in Period 7, the row containing the actinides.",
+          "bn": "বার্কেলিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Berkelium?",
+          "bn": "বার্কেলিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "237",
+            "bn": "237"
+          },
+          {
+            "en": "242",
+            "bn": "242"
+          },
+          {
+            "en": "247",
+            "bn": "247"
+          },
+          {
+            "en": "267",
+            "bn": "267"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Berkelium has mass number around 247.",
+          "bn": "বার্কেলিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 247।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Berkelium radioactive?",
+          "bn": "বার্কেলিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Berkelium are radioactive — none are stable.",
+          "bn": "বার্কেলিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Berkelium have?",
+          "bn": "বার্কেলিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Berkelium has 4 valence electrons available for chemical bonding.",
+          "bn": "বার্কেলিয়াম এর রাসায়নিক বন্ধনের জন্য 4টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Berkelium belong to?",
+          "bn": "বার্কেলিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium is classified as a actinide.",
+          "bn": "বার্কেলিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Berkelium?",
+          "bn": "বার্কেলিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Stanley Thompson, Albert Ghiorso, Glenn Seaborg",
+            "bn": "Stanley Thompson, Albert Ghiorso, Glenn Seaborg"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium was discovered by Stanley Thompson, Albert Ghiorso, Glenn Seaborg.",
+          "bn": "বার্কেলিয়াম স্ট্যানলি থম্পসন, অ্যালবার্ট জিওরসো, গ্লেন সিবোর্গ আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Berkelium have?",
+          "bn": "বার্কেলিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "96",
+            "bn": "96"
+          },
+          {
+            "en": "97",
+            "bn": "97"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "99",
+            "bn": "99"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 97 protons for Berkelium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: বার্কেলিয়াম এর জন্য 97টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Berkelium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে বার্কেলিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Berkelium exists as a solid.",
+          "bn": "STP-তে, বার্কেলিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Berkelium?",
+          "bn": "বার্কেলিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "বার্কেলিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Berkelium produced in limited quantities?",
+          "bn": "কেন বার্কেলিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Berkelium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "বার্কেলিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Berkelium?",
+          "bn": "বার্কেলিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Berkelium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে বার্কেলিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium sits in Group 3 of the periodic table.",
+          "bn": "বার্কেলিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Berkelium typically obtained?",
+          "bn": "বার্কেলিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Berkelium is primarily obtained through nuclear synthesis methods.",
+          "bn": "বার্কেলিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Berkelium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার বার্কেলিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Berkelium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "বার্কেলিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Berkelium will someday be commercially mined — actually it can never be mined since it does not occur in nature.",
+        "bn": "বার্কেলিয়াম একদিন বাণিজ্যিকভাবে খনন করা হবে — আসলে এটি কখনও খনন করা যাবে না কারণ এটি প্রকৃতিতে ঘটে না।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Berkelium (Bk) is named after Berkeley, the same city as Californium (Cf) — both discovered just blocks apart.",
+        "bn": "বার্কেলিয়াম (Bk) বার্কলির নামে নামকরণ করা হয়েছে, ক্যালিফোর্নিয়ামের (Cf) একই শহর — উভয়ই মাত্র কয়েকটি ব্লক দূরে আবিষ্কৃত।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴¹Am + α → ²⁴³Bk + 2n",
+        "description": {
+          "en": "Original synthesis of berkelium by alpha bombardment of americium-241.",
+          "bn": "অ্যামেরিসিয়াম-২৪১ এর আলফা বোমাবর্ষণ দ্বারা বার্কেলিয়ামের মূল সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁴⁹Bk + ⁴⁸Ca → ²⁹⁴Ts + 3n",
+        "description": {
+          "en": "Fusion reaction synthesizing tennessine (element 117) using Bk-249 target.",
+          "bn": "Bk-২৪৯ লক্ষ্যবস্তু ব্যবহার করে টেনেসিন (উপাদান ১১৭) সংশ্লেষণ করার ফিউশন বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Bk³⁺ → Bk⁴⁺ + e⁻",
+        "description": {
+          "en": "Oxidation to the unusually accessible tetravalent Bk(IV) state.",
+          "bn": "অস্বাভাবিকভাবে অ্যাক্সেসযোগ্য টেট্রাভ্যালেন্ট Bk(IV) অবস্থায় জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Bk⁴⁺ + e⁻ → Bk³⁺",
+        "description": {
+          "en": "Reduction back to the most stable trivalent state under mild conditions.",
+          "bn": "মৃদু পরিস্থিতিতে সবচেয়ে স্থিতিশীল ট্রাইভ্যালেন্ট অবস্থায় বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Coordination Bond",
+          "bn": "সমন্বয় বন্ধন"
+        },
+        "molecule": "Bk(NO₃)₃",
+        "description": {
+          "en": "Berkelium(III) nitrate forms typical actinide coordination complexes with nitrate ligands.",
+          "bn": "বার্কেলিয়াম(III) নাইট্রেট নাইট্রেট লিগ্যান্ডের সাথে সাধারণ অ্যাক্টিনাইড সমন্বয় কমপ্লেক্স গঠন করে।"
+        }
+      }
+    ]
+  }
+}

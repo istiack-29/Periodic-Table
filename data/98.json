@@ -1,0 +1,1009 @@
+{
+  "elementId": 98,
+  "basicInformation": {
+    "atomicNumber": 98,
+    "symbol": "Cf",
+    "name": {
+      "en": "Californium",
+      "bn": "ক্যালিফোর্নিয়াম"
+    },
+    "pronunciation": {
+      "en": "/kæləˈfɔːrniəm/",
+      "bn": "ক্যা-লি-ফোর-নি-আম"
+    },
+    "atomicMass": 251.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Stanley Thompson, Kenneth Street Jr., Albert Ghiorso, Glenn Seaborg",
+      "bn": "স্ট্যানলি থম্পসন, কেনেথ স্ট্রিট জুনিয়র, অ্যালবার্ট জিওরসো, গ্লেন সিবোর্গ"
+    },
+    "discoveryYear": 1950,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "Synthesized at Berkeley by alpha bombardment of microgram quantities of curium-242. Named after California and the University of California.",
+      "bn": "কুরিয়াম-২৪২ এর মাইক্রোগ্রাম পরিমাণের আলফা বোমাবর্ষণ দ্বারা বার্কলিতে সংশ্লেষণ। ক্যালিফোর্নিয়া ও ক্যালিফোর্নিয়া বিশ্ববিদ্যালয়ের নামে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Cf-252 used as a portable neutron source in oil well logging, security scanners, and cancer brachytherapy.",
+      "bn": "তেল কূপ লগিং, নিরাপত্তা স্ক্যানার ও ক্যান্সার ব্র্যাকিথেরাপিতে পোর্টেবল নিউট্রন উৎস হিসেবে Cf-২৫২ ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Cf-252's spontaneous fission produces ~2.3×10¹² neutrons per second per gram, making it an unrivaled compact neutron source.",
+      "bn": "Cf-২৫২ এর স্বতঃস্ফূর্ত বিভাজন প্রতি সেকেন্ড প্রতি গ্রামে ~২.৩×১০¹² নিউট্রন উৎপন্ন করে, এটিকে একটি অপ্রতিদ্বন্দ্বী কম্প্যাক্ট নিউট্রন উৎস করে তোলে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 98,
+    "neutrons": 153,
+    "electrons": 98,
+    "valenceElectrons": 4,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      28,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f¹⁰ 7s²",
+    "orbitalConfiguration": {
+      "5f": 10,
+      "7s": 2
+    },
+    "oxidationStates": [
+      4,
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 15.1,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1173,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1743,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 186,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 168,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 245,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 10,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.1,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Double hexagonal close-packed",
+      "bn": "দ্বৈত ষড়ভুজাকার ঘনিষ্ঠ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 608,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -97.31,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly reactive; reacts with steam, oxygen, and acids; intense self-irradiation accelerates corrosion.",
+      "bn": "অত্যন্ত প্রতিক্রিয়াশীল; বাষ্প, অক্সিজেন ও অ্যাসিডের সাথে বিক্রিয়া করে; তীব্র স্ব-বিকিরণ ক্ষয় ত্বরান্বিত করে।"
+    },
+    "commonCompounds": [
+      "CfO₂",
+      "Cf₂O₃",
+      "CfF₃",
+      "CfF₄",
+      "CfCl₃"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "404.0nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Cf-252 used in neutron-activation analysis, well logging (oil/water/gas detection), and as startup source for nuclear reactors.",
+      "bn": "Cf-২৫২ নিউট্রন-অ্যাক্টিভেশন বিশ্লেষণে, ওয়েল লগিংয়ে (তেল/জল/গ্যাস সনাক্তকরণ) এবং পারমাণবিক চুল্লির জন্য সূচনা উৎস হিসেবে ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "Commercial neutron sources for industry, security (cargo scanners), and gold/silver prospecting via neutron activation.",
+      "bn": "শিল্প, নিরাপত্তা (কার্গো স্ক্যানার) ও নিউট্রন অ্যাক্টিভেশনের মাধ্যমে স্বর্ণ/রৌপ্য অনুসন্ধানের জন্য বাণিজ্যিক নিউট্রন উৎস।"
+    },
+    "electronicsUses": {
+      "en": "None directly.",
+      "bn": "সরাসরি কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "Neutron sources used to test radiation hardness of semiconductor devices.",
+      "bn": "অর্ধপরিবাহী ডিভাইসের বিকিরণ কঠোরতা পরীক্ষা করার জন্য ব্যবহৃত নিউট্রন উৎস।"
+    },
+    "aerospaceUses": {
+      "en": "Used in neutron-activation analysis of spacecraft materials and meteoritic samples.",
+      "bn": "মহাকাশযান পদার্থ ও উল্কাপিণ্ড নমুনার নিউট্রন-অ্যাক্টিভেশন বিশ্লেষণে ব্যবহৃত।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None; used as startup neutron source for nuclear reactors generating clean baseload power.",
+      "bn": "কোনো নেই; পরিষ্কার বেসলোড শক্তি উৎপাদনকারী পারমাণবিক চুল্লির জন্য সূচনা নিউট্রন উৎস হিসেবে ব্যবহৃত।"
+    },
+    "nanotechnologyUses": {
+      "en": "Cf-252 micro-sources investigated for compact portable neutron radiography devices.",
+      "bn": "কম্প্যাক্ট পোর্টেবল নিউট্রন রেডিওগ্রাফি ডিভাইসের জন্য Cf-২৫২ মাইক্রো-উৎস অনুসন্ধান।"
+    },
+    "nuclearUses": {
+      "en": "Cf-252 is the only commercially significant spontaneous-fission neutron source; used in reactor startup and research.",
+      "bn": "Cf-২৫২ একমাত্র বাণিজ্যিকভাবে উল্লেখযোগ্য স্বতঃস্ফূর্ত-বিভাজন নিউট্রন উৎস; চুল্লি সূচনা ও গবেষণায় ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "None directly; used in security applications for explosives and weapons detection.",
+      "bn": "সরাসরি কোনো নেই; বিস্ফোরক ও অস্ত্র সনাক্তকরণের জন্য নিরাপত্তা প্রয়োগে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "Cf-252 brachytherapy used for treating cervical, brain, and other tumors in specialized centers.",
+      "bn": "বিশেষায়িত কেন্দ্রে সার্ভিকাল, মস্তিষ্ক ও অন্যান্য টিউমার চিকিৎসার জন্য Cf-২৫২ ব্র্যাকিথেরাপি ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "Neutron sources used for moisture and density measurements in soil and concrete.",
+      "bn": "মাটি ও কংক্রিটে আর্দ্রতা ও ঘনত্ব পরিমাপের জন্য ব্যবহৃত নিউট্রন উৎস।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; bone- and liver-seeking radiotoxin.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; হাড়- ও যকৃত-সন্ধানী তেজস্ক্রিয় বিষ।"
+    },
+    "humanBodyRole": {
+      "en": "None; extreme alpha and neutron radiation make even tiny quantities lethal internally.",
+      "bn": "কোনো নেই; চরম আলফা ও নিউট্রন বিকিরণ এমনকি ছোট পরিমাণকে অভ্যন্তরীণভাবে মারাত্মক করে তোলে।"
+    },
+    "toxicity": {
+      "en": "Among the most radiotoxic substances known due to combined alpha and neutron emissions.",
+      "bn": "সম্মিলিত আলফা ও নিউট্রন নির্গমনের কারণে পরিচিত সবচেয়ে তেজস্ক্রিয় বিষাক্ত পদার্থগুলোর মধ্যে।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible environmental presence; only laboratory quantities exist globally.",
+      "bn": "নগণ্য পরিবেশগত উপস্থিতি; বিশ্বব্যাপী শুধুমাত্র গবেষণাগার পরিমাণ বিদ্যমান।"
+    },
+    "pollutionRisks": {
+      "en": "Industrial Cf-252 sources require special end-of-life handling and disposal protocols.",
+      "bn": "শিল্প Cf-২৫২ উৎসের বিশেষ জীবন-শেষ হ্যান্ডলিং ও নিষ্পত্তি প্রোটোকল প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Spent neutron sources returned to producing facilities for radiochemical recovery.",
+      "bn": "রেডিওকেমিক্যাল পুনরুদ্ধারের জন্য ব্যবহৃত নিউট্রন উৎস উৎপাদনকারী সুবিধায় ফেরত পাঠানো হয়।"
+    },
+    "sustainabilityScore": 2.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced exclusively at Oak Ridge National Laboratory's HFIR via long-term neutron irradiation of curium targets.",
+      "bn": "কুরিয়াম লক্ষ্যবস্তুর দীর্ঘমেয়াদী নিউট্রন বিকিরণের মাধ্যমে ওক রিজ ন্যাশনাল ল্যাবরেটরির HFIR-এ একচেটিয়াভাবে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "earthCrust": {
+        "en": "None",
+        "bn": "নেই"
+      },
+      "oceans": {
+        "en": "None",
+        "bn": "নেই"
+      }
+    },
+    "marketValue": {
+      "en": "Cf-252 sells for approximately $27 million per gram; world inventory totals around 8 grams.",
+      "bn": "Cf-২৫২ প্রায় $২৭ মিলিয়ন প্রতি গ্রামে বিক্রি হয়; বিশ্ব মজুদ প্রায় ৮ গ্রাম।"
+    },
+    "futureDemand": {
+      "en": "Steady demand from industrial neutron radiography and cancer treatment; supply constrained by limited reactors.",
+      "bn": "শিল্প নিউট্রন রেডিওগ্রাফি ও ক্যান্সার চিকিৎসা থেকে স্থিতিশীল চাহিদা; সীমিত চুল্লি দ্বারা সরবরাহ সীমাবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic isotope for industry, medicine, and nuclear research; one of the few practically useful transcurium elements.",
+      "bn": "শিল্প, চিকিৎসা ও পারমাণবিক গবেষণার জন্য কৌশলগত আইসোটোপ; কয়েকটি কার্যত উপযোগী ট্রান্সকুরিয়াম উপাদানের একটি।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intense alpha and neutron emitter; requires specialized neutron shielding (water, polyethylene, boron).",
+      "bn": "তীব্র আলফা ও নিউট্রন নির্গমনকারী; বিশেষায়িত নিউট্রন আবরণ প্রয়োজন (জল, পলিইথিলিন, বোরন)।"
+    },
+    "storageRequirements": {
+      "en": "Doubly-encapsulated sources stored in water-filled or polyethylene shielded casks.",
+      "bn": "জল-ভর্তি বা পলিইথিলিন আবৃত ক্যাস্কে দ্বৈত-আবদ্ধ উৎস সংরক্ষিত।"
+    },
+    "handlingProcedures": {
+      "en": "Remote handling exclusively; full neutron and gamma shielding; strict licensing for all uses.",
+      "bn": "একচেটিয়াভাবে দূরবর্তী হ্যান্ডলিং; সম্পূর্ণ নিউট্রন ও গামা আবরণ; সমস্ত ব্যবহারের জন্য কঠোর লাইসেন্সিং।"
+    },
+    "exposureRisks": {
+      "en": "Even brief unshielded contact causes severe radiation injury; internal exposure invariably lethal.",
+      "bn": "এমনকি সংক্ষিপ্ত আবরণহীন যোগাযোগ মারাত্মক বিকিরণ আঘাত ঘটায়; অভ্যন্তরীণ এক্সপোজার সর্বদা মারাত্মক।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Intense Neutron Emitter)",
+      "bn": "চরম ঝুঁকি (তীব্র নিউট্রন নির্গমনকারী)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Neutron Emitter",
+        "bn": "নিউট্রন নির্গমনকারী"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Californium is a rare man-made element used as a powerful neutron source for industry, medicine, and security.",
+      "bn": "ক্যালিফোর্নিয়াম একটি বিরল মানব-নির্মিত উপাদান যা শিল্প, চিকিৎসা ও নিরাপত্তার জন্য একটি শক্তিশালী নিউট্রন উৎস হিসেবে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "A transcurium actinide whose Cf-252 isotope undergoes prolific spontaneous fission, producing intense neutron flux that has revolutionized neutron-activation analysis and brachytherapy.",
+      "bn": "একটি ট্রান্সকুরিয়াম অ্যাক্টিনাইড যার Cf-২৫২ আইসোটোপ প্রচুর স্বতঃস্ফূর্ত বিভাজন ঘটায়, তীব্র নিউট্রন ফ্লাক্স উৎপন্ন করে যা নিউট্রন-অ্যাক্টিভেশন বিশ্লেষণ ও ব্র্যাকিথেরাপিতে বিপ্লব ঘটিয়েছে।"
+    },
+    "funFacts": [
+      {
+        "en": "A single microgram of Cf-252 emits about 2.3 million neutrons per second — enough to scan an entire shipping container.",
+        "bn": "Cf-২৫২ এর একক মাইক্রোগ্রাম প্রতি সেকেন্ডে প্রায় ২.৩ মিলিয়ন নিউট্রন নির্গত করে — সম্পূর্ণ শিপিং কন্টেইনার স্ক্যান করার জন্য যথেষ্ট।"
+      },
+      {
+        "en": "Per gram, californium-252 is one of the most expensive substances ever made, costing more than 1000× the price of gold.",
+        "bn": "গ্রাম প্রতি, ক্যালিফোর্নিয়াম-২৫২ কখনও তৈরি সবচেয়ে দামী পদার্থগুলোর একটি, সোনার দামের ১০০০× এর বেশি।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 66,
+        "relation": {
+          "en": "Californium parallels Dysprosium (lanthanide analog) in electronic structure but its intense radioactivity and neutron emission set it dramatically apart.",
+          "bn": "ক্যালিফোর্নিয়াম ইলেকট্রনিক কাঠামোতে ডিসপ্রোসিয়ামের (ল্যান্থানাইড অ্যানালগ) সমান্তরাল কিন্তু এর তীব্র তেজস্ক্রিয়তা ও নিউট্রন নির্গমন এটিকে নাটকীয়ভাবে আলাদা করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      66,
+      97,
+      99,
+      96
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "96",
+            "bn": "96"
+          },
+          {
+            "en": "97",
+            "bn": "97"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "99",
+            "bn": "99"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium has atomic number 98, meaning 98 protons in its nucleus.",
+          "bn": "ক্যালিফোর্নিয়াম এর পারমাণবিক সংখ্যা 98, অর্থাৎ নিউক্লিয়াসে 98টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Cf",
+            "bn": "Cf"
+          },
+          {
+            "en": "fC",
+            "bn": "fC"
+          },
+          {
+            "en": "XC",
+            "bn": "XC"
+          },
+          {
+            "en": "Cc",
+            "bn": "Cc"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Californium is Cf.",
+          "bn": "ক্যালিফোর্নিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Cf।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Californium belong?",
+          "bn": "ক্যালিফোর্নিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Californium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "ক্যালিফোর্নিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹⁰ 7s²",
+            "bn": "[Rn] 5f¹⁰ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Californium is [Rn] 5f¹⁰ 7s².",
+          "bn": "ক্যালিফোর্নিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f¹⁰ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Californium discovered or first synthesized?",
+          "bn": "কোন বছরে ক্যালিফোর্নিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1940",
+            "bn": "1940"
+          },
+          {
+            "en": "1945",
+            "bn": "1945"
+          },
+          {
+            "en": "1950",
+            "bn": "1950"
+          },
+          {
+            "en": "1960",
+            "bn": "1960"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium was discovered in 1950 by Stanley Thompson, Kenneth Street Jr., Albert Ghiorso, Glenn Seaborg.",
+          "bn": "ক্যালিফোর্নিয়াম 1950 সালে স্ট্যানলি থম্পসন, কেনেথ স্ট্রিট জুনিয়র, অ্যালবার্ট জিওরসো, গ্লেন সিবোর্গ আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Californium is +3, though Cf can show others.",
+          "bn": "ক্যালিফোর্নিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Cf অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Californium belong?",
+          "bn": "ক্যালিফোর্নিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium is in Period 7, the row containing the actinides.",
+          "bn": "ক্যালিফোর্নিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "241",
+            "bn": "241"
+          },
+          {
+            "en": "246",
+            "bn": "246"
+          },
+          {
+            "en": "251",
+            "bn": "251"
+          },
+          {
+            "en": "271",
+            "bn": "271"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Californium has mass number around 251.",
+          "bn": "ক্যালিফোর্নিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 251।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Californium radioactive?",
+          "bn": "ক্যালিফোর্নিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Californium are radioactive — none are stable.",
+          "bn": "ক্যালিফোর্নিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Californium have?",
+          "bn": "ক্যালিফোর্নিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Californium has 4 valence electrons available for chemical bonding.",
+          "bn": "ক্যালিফোর্নিয়াম এর রাসায়নিক বন্ধনের জন্য 4টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Californium belong to?",
+          "bn": "ক্যালিফোর্নিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium is classified as a actinide.",
+          "bn": "ক্যালিফোর্নিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Stanley Thompson, Kenneth Street Jr., Albert Ghiorso, Glenn Seaborg",
+            "bn": "Stanley Thompson, Kenneth Street Jr., Albert Ghiorso, Glenn Seaborg"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium was discovered by Stanley Thompson, Kenneth Street Jr., Albert Ghiorso, Glenn Seaborg.",
+          "bn": "ক্যালিফোর্নিয়াম স্ট্যানলি থম্পসন, কেনেথ স্ট্রিট জুনিয়র, অ্যালবার্ট জিওরসো, গ্লেন সিবোর্গ আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Californium have?",
+          "bn": "ক্যালিফোর্নিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "97",
+            "bn": "97"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "99",
+            "bn": "99"
+          },
+          {
+            "en": "100",
+            "bn": "100"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 98 protons for Californium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: ক্যালিফোর্নিয়াম এর জন্য 98টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Californium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে ক্যালিফোর্নিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Californium exists as a solid.",
+          "bn": "STP-তে, ক্যালিফোর্নিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "ক্যালিফোর্নিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Californium produced in limited quantities?",
+          "bn": "কেন ক্যালিফোর্নিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Californium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "ক্যালিফোর্নিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Californium?",
+          "bn": "ক্যালিফোর্নিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Californium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে ক্যালিফোর্নিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium sits in Group 3 of the periodic table.",
+          "bn": "ক্যালিফোর্নিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Californium typically obtained?",
+          "bn": "ক্যালিফোর্নিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Californium is primarily obtained through nuclear synthesis methods.",
+          "bn": "ক্যালিফোর্নিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Californium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার ক্যালিফোর্নিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Californium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "ক্যালিফোর্নিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Californium can be used to power cars — actually it produces no usable thermal power per gram in the way RTG fuels do, and is far too dangerous and rare.",
+        "bn": "ক্যালিফোর্নিয়াম গাড়িকে শক্তি দিতে ব্যবহার করা যেতে পারে — আসলে এটি RTG জ্বালানির মতো প্রতি গ্রামে কোনো ব্যবহারযোগ্য তাপ শক্তি উৎপন্ন করে না, এবং অত্যন্ত বিপজ্জনক ও বিরল।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember Cf-252 = compact neutron source. Its rarity and high cost reflect the difficulty of synthesizing trans-curium elements.",
+        "bn": "মনে রাখুন Cf-২৫২ = কম্প্যাক্ট নিউট্রন উৎস। এর বিরলতা ও উচ্চ মূল্য ট্রান্স-কুরিয়াম উপাদান সংশ্লেষণের অসুবিধা প্রতিফলিত করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴²Cm + α → ²⁴⁵Cf + n",
+        "description": {
+          "en": "Original synthesis of californium by alpha bombardment of curium-242.",
+          "bn": "কুরিয়াম-২৪২ এর আলফা বোমাবর্ষণ দ্বারা ক্যালিফোর্নিয়ামের মূল সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁵²Cf → spontaneous fission → 2-3 fragments + ~3.8n + ~200 MeV",
+        "description": {
+          "en": "Spontaneous fission of Cf-252 producing the high neutron yields used in industry.",
+          "bn": "Cf-২৫২ এর স্বতঃস্ফূর্ত বিভাজনে শিল্পে ব্যবহৃত উচ্চ নিউট্রন ফলন উৎপন্ন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Cf → Cf³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation to the dominant Cf(III) aqueous state.",
+          "bn": "প্রভাবশালী Cf(III) জলীয় অবস্থায় জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Cf³⁺ + e⁻ → Cf²⁺",
+        "description": {
+          "en": "Reduction to the rare Cf(II) divalent state, stabilized only in solid matrices.",
+          "bn": "বিরল Cf(II) ডাইভ্যালেন্ট অবস্থায় বিজারণ, শুধুমাত্র কঠিন ম্যাট্রিক্সে স্থিতিশীল।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "CfCl₃",
+        "description": {
+          "en": "Californium trichloride is a typical ionic Cf(III) salt analogous to lanthanide trichlorides.",
+          "bn": "ক্যালিফোর্নিয়াম ট্রাইক্লোরাইড ল্যান্থানাইড ট্রাইক্লোরাইডের অনুরূপ একটি সাধারণ আয়নিক Cf(III) লবণ।"
+        }
+      }
+    ]
+  }
+}

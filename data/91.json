@@ -1,0 +1,1006 @@
+{
+  "elementId": 91,
+  "basicInformation": {
+    "atomicNumber": 91,
+    "symbol": "Pa",
+    "name": {
+      "en": "Protactinium",
+      "bn": "প্রোট্যাক্টিনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˌproʊtækˈtɪniəm/",
+      "bn": "প্রো-ট্যাক-টি-নি-আম"
+    },
+    "atomicMass": 231.0359,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Bright silvery metallic luster",
+      "bn": "উজ্জ্বল রূপালী ধাতব দীপ্তি"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Kasimir Fajans and Oswald Helmuth Göhring",
+      "bn": "কাজিমির ফাজান্স ও অসওয়াল্ড হেলমুথ গোরিং"
+    },
+    "discoveryYear": 1913,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Initially identified as Pa-234m (brevium); the longer-lived Pa-231 was isolated in 1917-1918 by Otto Hahn and Lise Meitner. Named 'protactinium' meaning 'before actinium'.",
+      "bn": "প্রাথমিকভাবে Pa-২৩৪m (ব্রেভিয়াম) হিসেবে চিহ্নিত; দীর্ঘতর-জীবিত Pa-২৩১ ১৯১৭-১৯১৮ সালে অটো হান ও লিজে মাইটনার আলাদা করেন। 'প্রোট্যাক্টিনিয়াম' নামের অর্থ 'অ্যাক্টিনিয়ামের পূর্বে'।"
+    },
+    "historicalUses": {
+      "en": "No historical commercial uses; primarily a research material due to extreme rarity and toxicity.",
+      "bn": "কোনো ঐতিহাসিক বাণিজ্যিক ব্যবহার নেই; চরম বিরলতা ও বিষাক্ততার কারণে প্রাথমিকভাবে একটি গবেষণা উপাদান।"
+    },
+    "famousExperiments": {
+      "en": "In 1961, UK Atomic Energy Authority extracted 127g of Pa-231 from 60 tons of uranium ore — the only significant bulk sample ever produced.",
+      "bn": "১৯৬১ সালে, যুক্তরাজ্য পারমাণবিক শক্তি কর্তৃপক্ষ ৬০ টন ইউরেনিয়াম আকরিক থেকে ১২৭ গ্রাম Pa-২৩১ নিষ্কাশন করেছিল — কখনও উৎপাদিত একমাত্র উল্লেখযোগ্য বাল্ক নমুনা।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 91,
+    "neutrons": 140,
+    "electrons": 91,
+    "valenceElectrons": 5,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      20,
+      9,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f² 6d¹ 7s²",
+    "orbitalConfiguration": {
+      "5f": 2,
+      "6d": 1,
+      "7s": 2
+    },
+    "oxidationStates": [
+      5,
+      4,
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": -1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 15.37,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1841,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 4300,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 163,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 200,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 243,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 47,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 5500000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.0996,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Body-centered tetragonal",
+      "bn": "দেহকেন্দ্রিক টেট্রাগোনাল"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.5,
+    "ionizationEnergy": {
+      "value": 568,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 53.03,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reacts slowly with oxygen, water vapor, and acids; forms multiple oxidation states.",
+      "bn": "অক্সিজেন, জলীয় বাষ্প ও অ্যাসিডের সাথে ধীরে বিক্রিয়া করে; একাধিক জারণ অবস্থা গঠন করে।"
+    },
+    "commonCompounds": [
+      "Pa₂O₅",
+      "PaCl₅",
+      "PaF₅",
+      "PaO₂",
+      "PaH₃"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "337.7nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "No industrial uses due to extreme scarcity and high cost (~$280,000 per gram).",
+      "bn": "চরম স্বল্পতা ও উচ্চ মূল্যের (~$২৮০,০০০ প্রতি গ্রাম) কারণে কোনো শিল্প ব্যবহার নেই।"
+    },
+    "commercialUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "electronicsUses": {
+      "en": "Studied as a potential superconductor below 1.4 K.",
+      "bn": "১.৪ K এর নিচে সম্ভাব্য সুপারকন্ডাক্টর হিসেবে অধ্যয়ন করা হয়।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None directly; thorium fuel cycle intermediate.",
+      "bn": "সরাসরি কোনো নেই; থোরিয়াম জ্বালানি চক্রের মধ্যবর্তী।"
+    },
+    "nanotechnologyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nuclearUses": {
+      "en": "Intermediate isotope in the thorium-uranium fuel cycle (²³²Th → ²³³Pa → ²³³U).",
+      "bn": "থোরিয়াম-ইউরেনিয়াম জ্বালানি চক্রের মধ্যবর্তী আইসোটোপ (²³²Th → ²³³Pa → ²³³U)।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "None; far too toxic and rare for medical use.",
+      "bn": "কোনো নেই; চিকিৎসা ব্যবহারের জন্য অত্যন্ত বিষাক্ত ও বিরল।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; bone-seeking radiotoxin.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; হাড়-সন্ধানী তেজস্ক্রিয় বিষ।"
+    },
+    "humanBodyRole": {
+      "en": "None; comparable to plutonium in radiotoxicity.",
+      "bn": "কোনো নেই; তেজস্ক্রিয় বিষাক্ততায় প্লুটোনিয়ামের সমতুল্য।"
+    },
+    "toxicity": {
+      "en": "Among the most toxic naturally occurring elements; both chemically and radiologically dangerous.",
+      "bn": "প্রাকৃতিকভাবে পাওয়া বিষাক্ততম উপাদানগুলোর মধ্যে; রাসায়নিক ও রেডিওলজিকাল উভয়ভাবে বিপজ্জনক।"
+    },
+    "environmentalImpact": {
+      "en": "Pa-231/Th-230 ratios used in paleoceanography to study past ocean circulation.",
+      "bn": "অতীত মহাসাগরের সঞ্চালন অধ্যয়নের জন্য প্যালিওসিনোগ্রাফিতে Pa-২৩১/Th-২৩০ অনুপাত ব্যবহৃত।"
+    },
+    "pollutionRisks": {
+      "en": "Negligible due to extreme scarcity; concentrates in uranium mining tailings.",
+      "bn": "চরম স্বল্পতার কারণে নগণ্য; ইউরেনিয়াম খনন বর্জ্যে কেন্দ্রীভূত হয়।"
+    },
+    "recyclingMethods": {
+      "en": "Theoretically recoverable from spent thorium reactor fuel reprocessing.",
+      "bn": "ব্যবহৃত থোরিয়াম চুল্লি জ্বালানি পুনঃপ্রক্রিয়াকরণ থেকে তাত্ত্বিকভাবে পুনরুদ্ধারযোগ্য।"
+    },
+    "sustainabilityScore": 2.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "None (research-only production)",
+        "bn": "নেই (শুধুমাত্র গবেষণা-উৎপাদন)"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted in trace amounts from uranium ore residues; produced by neutron irradiation of Th-232.",
+      "bn": "ইউরেনিয়াম আকরিক অবশিষ্টাংশ থেকে সামান্য পরিমাণে নিষ্কাশন; Th-২৩২ এর নিউট্রন বিকিরণ দ্বারা উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "সামান্য"
+      },
+      "earthCrust": {
+        "en": "1.4×10⁻⁶ mg/kg",
+        "bn": "১.৪×১০⁻⁶ মিগ্রা/কেজি"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Approximately $280,000 per gram — one of the most expensive naturally occurring elements.",
+      "bn": "প্রায় $২৮০,০০০ প্রতি গ্রাম — প্রাকৃতিকভাবে পাওয়া সবচেয়ে দামী উপাদানগুলোর একটি।"
+    },
+    "futureDemand": {
+      "en": "Demand limited to scientific research; no projected industrial applications.",
+      "bn": "চাহিদা বৈজ্ঞানিক গবেষণায় সীমাবদ্ধ; কোনো অভিক্ষিপ্ত শিল্প প্রয়োগ নেই।"
+    },
+    "globalImportance": {
+      "en": "Important tracer for understanding past climate and ocean dynamics via Pa/Th dating.",
+      "bn": "Pa/Th ডেটিংয়ের মাধ্যমে অতীত জলবায়ু ও মহাসাগরের গতিশীলতা বোঝার জন্য গুরুত্বপূর্ণ ট্রেসার।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly radioactive (Pa-231 has 32,760-year half-life); intensely alpha-emitting.",
+      "bn": "অত্যন্ত তেজস্ক্রিয় (Pa-২৩১ এর ৩২,৭৬০-বছর অর্ধজীবন); তীব্রভাবে আলফা নির্গমনকারী।"
+    },
+    "storageRequirements": {
+      "en": "Heavily shielded glovebox with strict radiation safety; quartz containers for chemistry.",
+      "bn": "কঠোর বিকিরণ সুরক্ষাসহ ভারী আবৃত গ্লাভবক্স; রসায়নের জন্য কোয়ার্টজ পাত্র।"
+    },
+    "handlingProcedures": {
+      "en": "Remote handling, sealed gloveboxes, respirators, and continuous radiation monitoring required.",
+      "bn": "দূরবর্তী হ্যান্ডলিং, সিলযুক্ত গ্লাভবক্স, রেসপিরেটর ও ক্রমাগত বিকিরণ পর্যবেক্ষণ প্রয়োজন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation or ingestion of even microgram quantities causes severe radiation injury.",
+      "bn": "এমনকি মাইক্রোগ্রাম পরিমাণ শ্বাসগ্রহণ বা গ্রহণ মারাত্মক বিকিরণ আঘাত ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Highly Radiotoxic)",
+      "bn": "চরম ঝুঁকি (অত্যন্ত তেজস্ক্রিয় বিষাক্ত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Protactinium is one of the rarest, most expensive, and most toxic natural elements known.",
+      "bn": "প্রোট্যাক্টিনিয়াম পরিচিত বিরলতম, সবচেয়ে দামী ও সবচেয়ে বিষাক্ত প্রাকৃতিক উপাদানগুলোর একটি।"
+    },
+    "advancedExplanation": {
+      "en": "An actinide with [Rn]5f²6d¹7s² configuration that bridges thorium and uranium chemistry. Its Pa(V) state dominates aqueous chemistry, hydrolyzing aggressively.",
+      "bn": "[Rn]5f²6d¹7s² কনফিগারেশনসহ একটি অ্যাক্টিনাইড যা থোরিয়াম ও ইউরেনিয়াম রসায়নের সেতু তৈরি করে। এর Pa(V) অবস্থা জলীয় রসায়নে প্রাধান্য বিস্তার করে, আক্রমণাত্মকভাবে হাইড্রোলাইজ করে।"
+    },
+    "funFacts": [
+      {
+        "en": "The largest ever pure sample of protactinium was just 127 grams, extracted at enormous cost in 1961.",
+        "bn": "কখনও প্রোট্যাক্টিনিয়ামের বৃহত্তম বিশুদ্ধ নমুনা ছিল মাত্র ১২৭ গ্রাম, ১৯৬১ সালে প্রচুর খরচে নিষ্কাশন করা হয়েছিল।"
+      },
+      {
+        "en": "Its name means 'before actinium' because it decays into actinium via alpha emission.",
+        "bn": "এর নামের অর্থ 'অ্যাক্টিনিয়ামের পূর্বে' কারণ এটি আলফা নির্গমনের মাধ্যমে অ্যাক্টিনিয়ামে ক্ষয় হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 92,
+        "relation": {
+          "en": "Sitting just before Uranium, Protactinium shares actinide chemistry but with Pa(V) being more readily formed and less reducible than U(VI).",
+          "bn": "ইউরেনিয়ামের ঠিক আগে অবস্থিত, প্রোট্যাক্টিনিয়াম অ্যাক্টিনাইড রসায়ন ভাগ করে কিন্তু Pa(V) U(VI) এর চেয়ে আরও সহজে গঠিত ও কম বিজারণযোগ্য।"
+        }
+      }
+    ],
+    "relatedElements": [
+      90,
+      92,
+      89,
+      93
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          },
+          {
+            "en": "92",
+            "bn": "92"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium has atomic number 91, meaning 91 protons in its nucleus.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর পারমাণবিক সংখ্যা 91, অর্থাৎ নিউক্লিয়াসে 91টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Pa",
+            "bn": "Pa"
+          },
+          {
+            "en": "aP",
+            "bn": "aP"
+          },
+          {
+            "en": "XP",
+            "bn": "XP"
+          },
+          {
+            "en": "Pp",
+            "bn": "Pp"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Protactinium is Pa.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Pa।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Protactinium belong?",
+          "bn": "প্রোট্যাক্টিনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Protactinium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "প্রোট্যাক্টিনিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f² 6d¹ 7s²",
+            "bn": "[Rn] 5f² 6d¹ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Protactinium is [Rn] 5f² 6d¹ 7s².",
+          "bn": "প্রোট্যাক্টিনিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f² 6d¹ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Protactinium discovered or first synthesized?",
+          "bn": "কোন বছরে প্রোট্যাক্টিনিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1903",
+            "bn": "1903"
+          },
+          {
+            "en": "1908",
+            "bn": "1908"
+          },
+          {
+            "en": "1913",
+            "bn": "1913"
+          },
+          {
+            "en": "1923",
+            "bn": "1923"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium was discovered in 1913 by Kasimir Fajans and Oswald Helmuth Göhring.",
+          "bn": "প্রোট্যাক্টিনিয়াম 1913 সালে কাজিমির ফাজান্স ও অসওয়াল্ড হেলমুথ গোরিং আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Protactinium is +3, though Pa can show others.",
+          "bn": "প্রোট্যাক্টিনিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Pa অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Protactinium belong?",
+          "bn": "প্রোট্যাক্টিনিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium is in Period 7, the row containing the actinides.",
+          "bn": "প্রোট্যাক্টিনিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "221",
+            "bn": "221"
+          },
+          {
+            "en": "226",
+            "bn": "226"
+          },
+          {
+            "en": "231",
+            "bn": "231"
+          },
+          {
+            "en": "251",
+            "bn": "251"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Protactinium has mass number around 231.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 231।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Protactinium radioactive?",
+          "bn": "প্রোট্যাক্টিনিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Protactinium are radioactive — none are stable.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Protactinium have?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Protactinium has 5 valence electrons available for chemical bonding.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর রাসায়নিক বন্ধনের জন্য 5টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Protactinium belong to?",
+          "bn": "প্রোট্যাক্টিনিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium is classified as a actinide.",
+          "bn": "প্রোট্যাক্টিনিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Kasimir Fajans and Oswald Helmuth Göhring",
+            "bn": "Kasimir Fajans and Oswald Helmuth Göhring"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium was discovered by Kasimir Fajans and Oswald Helmuth Göhring.",
+          "bn": "প্রোট্যাক্টিনিয়াম কাজিমির ফাজান্স ও অসওয়াল্ড হেলমুথ গোরিং আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Protactinium have?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          },
+          {
+            "en": "92",
+            "bn": "92"
+          },
+          {
+            "en": "93",
+            "bn": "93"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 91 protons for Protactinium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: প্রোট্যাক্টিনিয়াম এর জন্য 91টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Protactinium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে প্রোট্যাক্টিনিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Protactinium exists as a solid.",
+          "bn": "STP-তে, প্রোট্যাক্টিনিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.5",
+            "bn": "1.5"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium has a Pauling electronegativity of approximately 1.5.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.5।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Protactinium produced in limited quantities?",
+          "bn": "কেন প্রোট্যাক্টিনিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Protactinium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "প্রোট্যাক্টিনিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Protactinium?",
+          "bn": "প্রোট্যাক্টিনিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Protactinium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে প্রোট্যাক্টিনিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium sits in Group 3 of the periodic table.",
+          "bn": "প্রোট্যাক্টিনিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Protactinium typically obtained?",
+          "bn": "প্রোট্যাক্টিনিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Protactinium is primarily obtained through nuclear synthesis methods.",
+          "bn": "প্রোট্যাক্টিনিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Protactinium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার প্রোট্যাক্টিনিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Protactinium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "প্রোট্যাক্টিনিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Protactinium is just a 'heavier uranium' — actually its chemistry differs significantly, especially in its preference for the +5 state.",
+        "bn": "প্রোট্যাক্টিনিয়াম শুধু একটি 'ভারী ইউরেনিয়াম' — আসলে এর রসায়ন উল্লেখযোগ্যভাবে আলাদা, বিশেষত +৫ অবস্থার পছন্দে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "'Proto' means 'before' in Greek — Protactinium precedes Actinium in the decay chain (Pa-231 → Ac-227).",
+        "bn": "গ্রিকে 'প্রোটো' মানে 'পূর্বে' — প্রোট্যাক্টিনিয়াম ক্ষয় চেইনে অ্যাক্টিনিয়ামের পূর্বে থাকে (Pa-২৩১ → Ac-২২৭)।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4Pa + 5O₂ → 2Pa₂O₅",
+        "description": {
+          "en": "Slow oxidation in air producing protactinium pentoxide.",
+          "bn": "বাতাসে ধীর জারণে প্রোট্যাক্টিনিয়াম পেন্টোক্সাইড উৎপন্ন।"
+        }
+      },
+      {
+        "equation": "²³¹Pa → ²²⁷Ac + α",
+        "description": {
+          "en": "Alpha decay of Pa-231 to actinium-227 (half-life 32,760 years).",
+          "bn": "Pa-২৩১ এর অ্যাক্টিনিয়াম-২২৭-এ আলফা ক্ষয় (অর্ধজীবন ৩২,৭৬০ বছর)।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Pa → Pa⁵⁺ + 5e⁻",
+        "description": {
+          "en": "Loses all five valence electrons (5f²6d¹7s²) to form the dominant Pa(V) state.",
+          "bn": "প্রভাবশালী Pa(V) অবস্থা গঠনের জন্য সমস্ত পাঁচটি যোজ্যতা ইলেকট্রন (5f²6d¹7s²) হারায়।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "PaCl₅ + 5K → Pa + 5KCl",
+        "description": {
+          "en": "Reduction of protactinium pentachloride by potassium metal at high temperature.",
+          "bn": "উচ্চ তাপমাত্রায় পটাসিয়াম ধাতু দ্বারা প্রোট্যাক্টিনিয়াম পেন্টাক্লোরাইডের বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent Bond",
+          "bn": "সমযোজী বন্ধন"
+        },
+        "molecule": "PaCl₅",
+        "description": {
+          "en": "Protactinium pentachloride forms covalent molecular structures with chlorine bridges.",
+          "bn": "প্রোট্যাক্টিনিয়াম পেন্টাক্লোরাইড ক্লোরিন সেতুসহ সমযোজী আণবিক কাঠামো গঠন করে।"
+        }
+      }
+    ]
+  }
+}

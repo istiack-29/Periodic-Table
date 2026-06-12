@@ -1,0 +1,1018 @@
+{
+  "elementId": 82,
+  "basicInformation": {
+    "atomicNumber": 82,
+    "symbol": "Pb",
+    "name": {
+      "en": "Lead",
+      "bn": "সীসা"
+    },
+    "pronunciation": {
+      "en": "/lɛd/",
+      "bn": "লেড"
+    },
+    "atomicMass": 207.2,
+    "category": {
+      "en": "Post-transition metal",
+      "bn": "পরবর্তী-অবস্থান্তর ধাতু"
+    },
+    "group": 14,
+    "period": 6,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Dull silvery grey with bluish tinge",
+      "bn": "নীলাভ আভা সহ নিস্তেজ রূপালী ধূসর"
+    },
+    "color": {
+      "en": "Grey",
+      "bn": "ধূসর"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Ancient civilizations",
+      "bn": "প্রাচীন সভ্যতা"
+    },
+    "discoveryYear": -7000,
+    "discoveryLocation": {
+      "en": "Middle East",
+      "bn": "মধ্যপ্রাচ্য"
+    },
+    "discoveryStory": {
+      "en": "Known since antiquity; the Romans used it extensively for plumbing (Latin 'plumbum'), cosmetics, and wine sweetening.",
+      "bn": "প্রাচীনকাল থেকে পরিচিত; রোমানরা প্লাম্বিং (ল্যাটিন 'প্লাম্বাম'), প্রসাধনী এবং ওয়াইন মিষ্টি করার জন্য ব্যাপক ব্যবহার করত।"
+    },
+    "historicalUses": {
+      "en": "Used in Roman water pipes, paint pigments, leaded gasoline (tetraethyl lead), bullets, and printing type.",
+      "bn": "রোমান জল পাইপ, পেইন্ট রঞ্জক, সীসাযুক্ত গ্যাসোলিন (টেট্রাইথিল সীসা), বুলেট এবং মুদ্রণ টাইপে ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Benjamin Franklin documented lead poisoning among typesetters in 1786 — an early study in occupational toxicology.",
+      "bn": "বেঞ্জামিন ফ্রাঙ্কলিন ১৭৮৬ সালে টাইপসেটারদের মধ্যে সীসা বিষক্রিয়া নথিভুক্ত করেন — পেশাগত বিষবিদ্যার প্রাথমিক অধ্যয়ন।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 82,
+    "neutrons": 125,
+    "electrons": 82,
+    "valenceElectrons": 4,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      4
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²",
+    "orbitalConfiguration": {
+      "6s": 2,
+      "6p": 2,
+      "5d": 10,
+      "4f": 14
+    },
+    "oxidationStates": [
+      2,
+      4,
+      -4,
+      -2,
+      -1,
+      1,
+      3
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 11.34,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 600.61,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2022,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 175,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 146,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 202,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 35.3,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 4810000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.129,
+      "unit": "J/(g·K)"
+    },
+    "hardness": 1.5,
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "ফেস-সেন্টার্ড কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.87,
+    "ionizationEnergy": {
+      "value": 715.6,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 35.1,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Resists corrosion via protective oxide layer; soluble in nitric acid; amphoteric in strong bases.",
+      "bn": "প্রতিরক্ষামূলক অক্সাইড স্তরের মাধ্যমে ক্ষয় প্রতিরোধ করে; নাইট্রিক অ্যাসিডে দ্রবণীয়; শক্ত ক্ষারে অ্যামফোটেরিক।"
+    },
+    "commonCompounds": [
+      "PbO",
+      "PbO₂",
+      "PbS",
+      "Pb(NO₃)₂",
+      "PbSO₄"
+    ],
+    "flameTestColor": {
+      "en": "Bluish white",
+      "bn": "নীলাভ সাদা"
+    },
+    "spectralLines": [
+      "405.8nm",
+      "363.9nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Lead-acid batteries, radiation shielding, solder, ammunition, and weights/ballast.",
+      "bn": "সীসা-অ্যাসিড ব্যাটারি, বিকিরণ ঢাল, সোল্ডার, গোলাবারুদ এবং ওজন/ব্যালাস্ট।"
+    },
+    "commercialUses": {
+      "en": "Roofing sheets, sound-damping panels, and fishing weights.",
+      "bn": "ছাদের শীট, শব্দ-ড্যাম্পিং প্যানেল এবং মাছ ধরার ওজন।"
+    },
+    "electronicsUses": {
+      "en": "Lead solder (now restricted by RoHS); CRT glass for X-ray shielding.",
+      "bn": "সীসা সোল্ডার (এখন RoHS দ্বারা সীমাবদ্ধ); X-রে ঢালের জন্য CRT গ্লাস।"
+    },
+    "semiconductorUses": {
+      "en": "Lead zirconate titanate (PZT) used in piezoelectric MEMS sensors and actuators.",
+      "bn": "সীসা জিরকোনেট টাইটানেট (PZT) পাইজোইলেকট্রিক MEMS সেন্সর এবং অ্যাকচুয়েটরে ব্যবহৃত।"
+    },
+    "aerospaceUses": {
+      "en": "Limited use due to weight; PbTe thermoelectrics used in deep-space RTG power systems.",
+      "bn": "ওজনের কারণে সীমিত ব্যবহার; PbTe থার্মোইলেকট্রিক গভীর-মহাকাশ RTG পাওয়ার সিস্টেমে।"
+    },
+    "batteryUses": {
+      "en": "Backbone of lead-acid batteries dominating automotive and UPS markets.",
+      "bn": "অটোমোটিভ এবং UPS বাজার আধিপত্য করা সীসা-অ্যাসিড ব্যাটারির মেরুদণ্ড।"
+    },
+    "aiHardwareUses": {
+      "en": "Lead-based radiation shielding for AI-managed nuclear and medical imaging facilities.",
+      "bn": "AI-পরিচালিত পারমাণবিক এবং চিকিৎসা ইমেজিং সুবিধার জন্য সীসা-ভিত্তিক বিকিরণ ঢাল।"
+    },
+    "renewableEnergyUses": {
+      "en": "Lead-acid batteries provide low-cost grid storage for renewable energy integration.",
+      "bn": "সীসা-অ্যাসিড ব্যাটারি নবায়নযোগ্য শক্তি একীকরণের জন্য কম-খরচের গ্রিড স্টোরেজ প্রদান করে।"
+    },
+    "nanotechnologyUses": {
+      "en": "Lead halide perovskite nanocrystals revolutionizing next-gen solar cells and LEDs.",
+      "bn": "সীসা হ্যালাইড পেরোভস্কাইট ন্যানোস্ফটিক পরবর্তী প্রজন্মের সোলার সেল এবং LED-তে বিপ্লব ঘটাচ্ছে।"
+    },
+    "nuclearUses": {
+      "en": "Primary shielding material for gamma radiation and X-ray sources.",
+      "bn": "গামা বিকিরণ এবং X-রে উৎসের প্রাথমিক ঢালক উপাদান।"
+    },
+    "militaryUses": {
+      "en": "Used in bullets, shrapnel, shot, and armor-piercing projectile cores.",
+      "bn": "বুলেট, শ্র্যাপনেল, গুলি এবং বর্ম-ভেদনকারী প্রজেক্টাইল কোরে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "Lead aprons shield patients and staff during X-ray and CT imaging procedures.",
+      "bn": "সীসা অ্যাপ্রন X-রে এবং CT ইমেজিং পদ্ধতির সময় রোগী এবং কর্মীদের রক্ষা করে।"
+    },
+    "foodIndustryUses": {
+      "en": "Banned from all food-contact materials due to severe toxicity risks.",
+      "bn": "তীব্র বিষাক্ততার ঝুঁকির কারণে সমস্ত খাদ্য-সংস্পর্শ উপাদান থেকে নিষিদ্ধ।"
+    },
+    "constructionUses": {
+      "en": "Historical roofing and flashing; now restricted to specialized waterproofing applications.",
+      "bn": "ঐতিহাসিক ছাদ এবং ফ্ল্যাশিং; এখন বিশেষায়িত জলরোধী প্রয়োগে সীমাবদ্ধ।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological function; cumulative neurotoxin affecting development and cognition.",
+      "bn": "কোনো জৈবিক কাজ নেই; ক্রমবর্ধমান নিউরোটক্সিন যা বিকাশ এবং জ্ঞানকে প্রভাবিত করে।"
+    },
+    "humanBodyRole": {
+      "en": "No physiological role; even low-level chronic exposure impairs cognitive development in children.",
+      "bn": "কোনো শারীরবৃত্তীয় ভূমিকা নেই; এমনকি নিম্ন-স্তরের দীর্ঘস্থায়ী এক্সপোজার শিশুদের জ্ঞানীয় বিকাশকে ব্যাহত করে।"
+    },
+    "toxicity": {
+      "en": "Highly toxic neurotoxin; causes anemia, kidney damage, and developmental disorders.",
+      "bn": "অত্যন্ত বিষাক্ত নিউরোটক্সিন; রক্তাল্পতা, কিডনি ক্ষতি এবং বিকাশগত ব্যাধি ঘটায়।"
+    },
+    "environmentalImpact": {
+      "en": "Persistent contaminant in soils from historic gasoline and paint use; bioaccumulates in food chains.",
+      "bn": "ঐতিহাসিক গ্যাসোলিন এবং পেইন্ট ব্যবহার থেকে মাটিতে স্থায়ী দূষক; খাদ্য শৃঙ্খলে জৈব-সঞ্চয় হয়।"
+    },
+    "pollutionRisks": {
+      "en": "Major sources include mining, smelting, lead-acid battery recycling, and legacy paint chips.",
+      "bn": "প্রধান উৎসের মধ্যে রয়েছে খনন, গন্ধকীকরণ, সীসা-অ্যাসিড ব্যাটারি পুনর্ব্যবহার এবং পুরানো পেইন্ট চিপস।"
+    },
+    "recyclingMethods": {
+      "en": "99% of lead-acid batteries recycled in developed countries — one of the most recycled metals.",
+      "bn": "উন্নত দেশগুলিতে ৯৯% সীসা-অ্যাসিড ব্যাটারি পুনর্ব্যবহৃত — সবচেয়ে বেশি পুনর্ব্যবহৃত ধাতুগুলির একটি।"
+    },
+    "sustainabilityScore": 5.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Australia",
+        "bn": "অস্ট্রেলিয়া"
+      },
+      {
+        "en": "Peru",
+        "bn": "পেরু"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted from galena (PbS) ore via froth flotation, roasting, and smelting.",
+      "bn": "গ্যালেনা (PbS) আকরিক থেকে ফ্রথ ফ্লোটেশন, রোস্টিং এবং গন্ধকীকরণের মাধ্যমে নিষ্কাশন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "1×10⁻⁶ % by mass",
+        "bn": "ভর অনুযায়ী ১×১০⁻⁶ %"
+      },
+      "earthCrust": {
+        "en": "14 ppm",
+        "bn": "১৪ পিপিএম"
+      },
+      "oceans": {
+        "en": "3×10⁻⁵ ppm",
+        "bn": "৩×১০⁻⁵ পিপিএম"
+      }
+    },
+    "marketValue": {
+      "en": "Approximately $2.00–$2.50 per kg on LME markets.",
+      "bn": "LME বাজারে প্রায় $২.০০–$২.৫০ প্রতি কেজি।"
+    },
+    "futureDemand": {
+      "en": "Steady demand for batteries and shielding despite environmental restrictions.",
+      "bn": "পরিবেশগত নিষেধাজ্ঞা সত্ত্বেও ব্যাটারি এবং ঢালের জন্য স্থিতিশীল চাহিদা।"
+    },
+    "globalImportance": {
+      "en": "Critical for energy storage and radiation protection; tightly regulated due to toxicity.",
+      "bn": "শক্তি সঞ্চয় এবং বিকিরণ সুরক্ষার জন্য গুরুত্বপূর্ণ; বিষাক্ততার কারণে কঠোরভাবে নিয়ন্ত্রিত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Cumulative poison; affects nervous system, kidneys, and reproductive health.",
+      "bn": "ক্রমবর্ধমান বিষ; স্নায়ুতন্ত্র, কিডনি এবং প্রজনন স্বাস্থ্যকে প্রভাবিত করে।"
+    },
+    "storageRequirements": {
+      "en": "Store in dry sealed containers away from acids; secondary containment recommended.",
+      "bn": "অ্যাসিড থেকে দূরে শুকনো সিল করা পাত্রে সংরক্ষণ; গৌণ ধারণ সুপারিশকৃত।"
+    },
+    "handlingProcedures": {
+      "en": "Use gloves, dust masks, and proper ventilation; wash hands thoroughly after handling.",
+      "bn": "গ্লাভস, ধুলো মাস্ক এবং সঠিক বায়ুচলাচল ব্যবহার করুন; পরিচালনার পরে হাত ভালভাবে ধুয়ে ফেলুন।"
+    },
+    "exposureRisks": {
+      "en": "Causes neurological damage, anemia, hypertension, and developmental delays in children.",
+      "bn": "স্নায়বিক ক্ষতি, রক্তাল্পতা, উচ্চ রক্তচাপ এবং শিশুদের বিকাশগত বিলম্ব ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "High Risk (Chronic Toxicity)",
+      "bn": "উচ্চ ঝুঁকি (দীর্ঘস্থায়ী বিষাক্ততা)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Reproductive Toxin",
+        "bn": "প্রজনন বিষ"
+      },
+      {
+        "en": "Environmental Hazard",
+        "bn": "পরিবেশগত বিপদ"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Lead is a heavy, soft, grey metal used in batteries and for blocking X-rays, but it is poisonous.",
+      "bn": "সীসা একটি ভারী, নরম, ধূসর ধাতু যা ব্যাটারি ও X-রে আটকাতে ব্যবহৃত হয়, কিন্তু এটি বিষাক্ত।"
+    },
+    "advancedExplanation": {
+      "en": "A dense post-transition metal exhibiting strong inert pair effect favoring Pb(II); its high atomic number makes it ideal for gamma attenuation.",
+      "bn": "একটি ঘন পরবর্তী-অবস্থান্তর ধাতু যা শক্তিশালী নিষ্ক্রিয় জোড়া প্রভাব প্রদর্শন করে Pb(II) পছন্দ করে; এর উচ্চ পারমাণবিক সংখ্যা এটিকে গামা ক্ষীণতার জন্য আদর্শ করে তোলে।"
+    },
+    "funFacts": [
+      {
+        "en": "Pb-208 is the heaviest stable isotope of any element.",
+        "bn": "Pb-208 যেকোনো উপাদানের সবচেয়ে ভারী স্থিতিশীল আইসোটোপ।"
+      },
+      {
+        "en": "All long-lived radioactive decay chains terminate at a stable isotope of lead.",
+        "bn": "সমস্ত দীর্ঘজীবী তেজস্ক্রিয় ক্ষয় চেইন সীসার একটি স্থিতিশীল আইসোটোপে শেষ হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 50,
+        "relation": {
+          "en": "Both lead and tin are Group 14 metals, but lead is far denser, more toxic, and prefers +2 state due to inert pair effect.",
+          "bn": "সীসা এবং টিন উভয়ই গ্রুপ ১৪ ধাতু, কিন্তু সীসা অনেক বেশি ঘন, বেশি বিষাক্ত এবং নিষ্ক্রিয় জোড়া প্রভাবের কারণে +২ অবস্থা পছন্দ করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      81,
+      83,
+      50,
+      32
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Lead?",
+          "bn": "সীসা এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "81",
+            "bn": "81"
+          },
+          {
+            "en": "82",
+            "bn": "82"
+          },
+          {
+            "en": "83",
+            "bn": "83"
+          },
+          {
+            "en": "84",
+            "bn": "84"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead (Pb) has atomic number 82.",
+          "bn": "সীসা (Pb) এর পারমাণবিক সংখ্যা 82।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which symbol represents Lead?",
+          "bn": "কোন প্রতীক সীসা কে নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "Pb",
+            "bn": "Pb"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The chemical symbol for Lead is Pb.",
+          "bn": "সীসা এর রাসায়নিক প্রতীক Pb।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Lead belong to?",
+          "bn": "সীসা কোন শ্রেণীর অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          },
+          {
+            "en": "Post-transition metal",
+            "bn": "পরবর্তী-অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead is classified as a Post-transition metal.",
+          "bn": "সীসা পরবর্তী-অবস্থান্তর ধাতু হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Lead located?",
+          "bn": "পর্যায় সারণির কোন পর্যায়ে সীসা অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead is in period 6.",
+          "bn": "সীসা 6 নং পর্যায়ে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which group does Lead belong?",
+          "bn": "সীসা কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "13",
+            "bn": "13"
+          },
+          {
+            "en": "14",
+            "bn": "14"
+          },
+          {
+            "en": "15",
+            "bn": "15"
+          },
+          {
+            "en": "16",
+            "bn": "16"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead is in group 14.",
+          "bn": "সীসা 14 নং গ্রুপে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Lead?",
+          "bn": "সীসা এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "197.2",
+            "bn": "197.2"
+          },
+          {
+            "en": "207.20",
+            "bn": "207.20"
+          },
+          {
+            "en": "217.2",
+            "bn": "217.2"
+          },
+          {
+            "en": "227.2",
+            "bn": "227.2"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The standard atomic mass of Lead is approximately 207.2.",
+          "bn": "সীসা এর প্রমাণ পারমাণবিক ভর প্রায় 207.2।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Lead?",
+          "bn": "সীসা এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Kr] 5s¹",
+            "bn": "[Kr] 5s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The ground state electron configuration of Lead is [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p².",
+          "bn": "সীসা এর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary phase of Lead at standard conditions?",
+          "bn": "আদর্শ অবস্থায় সীসা এর প্রাথমিক দশা কী?"
+        },
+        "options": [
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          },
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Bose-Einstein condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Lead exists as a Solid at STP.",
+          "bn": "সীসা STP-তে কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Lead?",
+          "bn": "সীসা এর সবচেয়ে সাধারণ জারণ অবস্থা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-3",
+            "bn": "-3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The most stable oxidation state of Lead is +2.",
+          "bn": "সীসা এর সবচেয়ে স্থিতিশীল জারণ অবস্থা +2।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity of Lead on the Pauling scale?",
+          "bn": "পলিং স্কেলে সীসা এর তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.87",
+            "bn": "0.87"
+          },
+          {
+            "en": "1.87",
+            "bn": "1.87"
+          },
+          {
+            "en": "2.87",
+            "bn": "2.87"
+          },
+          {
+            "en": "3.87",
+            "bn": "3.87"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Pauling electronegativity of Lead is approximately 1.87.",
+          "bn": "সীসা এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.87।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Lead contain?",
+          "bn": "সীসা এর একটি পরমাণুতে কতগুলি প্রোটন থাকে?"
+        },
+        "options": [
+          {
+            "en": "82",
+            "bn": "82"
+          },
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "77",
+            "bn": "77"
+          },
+          {
+            "en": "164",
+            "bn": "164"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By definition, Lead has 82 protons (its atomic number).",
+          "bn": "সংজ্ঞা অনুসারে, সীসা এর 82 টি প্রোটন রয়েছে (এর পারমাণবিক সংখ্যা)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which block of the periodic table contains Lead?",
+          "bn": "পর্যায় সারণির কোন ব্লক সীসা ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-ব্লক"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-ব্লক"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-ব্লক"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-ব্লক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead occupies the p-block.",
+          "bn": "সীসা p-ব্লক দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate first ionization energy of Lead in kJ/mol?",
+          "bn": "সীসা এর আনুমানিক প্রথম আয়নীকরণ শক্তি kJ/mol এ কত?"
+        },
+        "options": [
+          {
+            "en": "515",
+            "bn": "515"
+          },
+          {
+            "en": "715",
+            "bn": "715"
+          },
+          {
+            "en": "915",
+            "bn": "915"
+          },
+          {
+            "en": "1215",
+            "bn": "1215"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The first ionization energy of Lead is about 715.6 kJ/mol.",
+          "bn": "সীসা এর প্রথম আয়নীকরণ শক্তি প্রায় 715.6 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many electron shells does a neutral Lead atom have?",
+          "bn": "একটি নিরপেক্ষ সীসা পরমাণুর কতটি ইলেকট্রন শেল রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead has 6 electron shells.",
+          "bn": "সীসা এর 6 টি ইলেকট্রন শেল রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Lead naturally radioactive?",
+          "bn": "সীসা কি প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "Yes",
+            "bn": "হ্যাঁ"
+          },
+          {
+            "en": "No",
+            "bn": "না"
+          },
+          {
+            "en": "Only in compounds",
+            "bn": "শুধু যৌগে"
+          },
+          {
+            "en": "Only at high temperatures",
+            "bn": "শুধু উচ্চ তাপমাত্রায়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead is not naturally radioactive.",
+          "bn": "সীসা প্রাকৃতিকভাবে তেজস্ক্রিয় নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the melting point of Lead in Kelvin?",
+          "bn": "সীসা এর গলনাঙ্ক কেলভিনে কত?"
+        },
+        "options": [
+          {
+            "en": "400",
+            "bn": "400"
+          },
+          {
+            "en": "600",
+            "bn": "600"
+          },
+          {
+            "en": "1100",
+            "bn": "1100"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The melting point of Lead is approximately 600.61 K.",
+          "bn": "সীসা এর গলনাঙ্ক প্রায় 600.61 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the crystal structure of solid Lead?",
+          "bn": "কঠিন সীসা এর স্ফটিক গঠন কী?"
+        },
+        "options": [
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Face-centered cubic",
+            "bn": "ফেস-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead crystallizes in a Face-centered cubic structure.",
+          "bn": "সীসা ফেস-সেন্টার্ড কিউবিক গঠনে স্ফটিকীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with discovering Lead?",
+          "bn": "সীসা আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Ancient civilizations",
+            "bn": "প্রাচীন সভ্যতা"
+          },
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Antoine Lavoisier",
+            "bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead was discovered by Ancient civilizations.",
+          "bn": "সীসা প্রাচীন সভ্যতা দ্বারা আবিষ্কৃত হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the magnetic ordering of Lead?",
+          "bn": "সীসা এর চৌম্বকীয় ক্রম কী?"
+        },
+        "options": [
+          {
+            "en": "Ferromagnetic",
+            "bn": "ফেরোম্যাগনেটিক"
+          },
+          {
+            "en": "Paramagnetic",
+            "bn": "প্যারাম্যাগনেটিক"
+          },
+          {
+            "en": "Diamagnetic",
+            "bn": "ডায়াম্যাগনেটিক"
+          },
+          {
+            "en": "Antiferromagnetic",
+            "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Lead exhibits Diamagnetic behavior.",
+          "bn": "সীসা ডায়াম্যাগনেটিক আচরণ প্রদর্শন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Lead first discovered or isolated?",
+          "bn": "সীসা প্রথম কোন বছর আবিষ্কৃত বা আলাদা করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "-7050",
+            "bn": "-7050"
+          },
+          {
+            "en": "-7000",
+            "bn": "-7000"
+          },
+          {
+            "en": "-6950",
+            "bn": "-6950"
+          },
+          {
+            "en": "-6900",
+            "bn": "-6900"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Lead was first identified in -7000.",
+          "bn": "সীসা প্রথম -7000 সালে চিহ্নিত হয়েছিল।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Lead pencils contain no lead — they use graphite.",
+        "bn": "সীসা পেন্সিলে কোনো সীসা নেই — তারা গ্রাফাইট ব্যবহার করে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Pb comes from Latin 'plumbum' — the same root as 'plumbing' because Romans made water pipes from lead.",
+        "bn": "Pb ল্যাটিন 'প্লাম্বাম' থেকে আসে — 'প্লাম্বিং' এর মতো একই মূল কারণ রোমানরা সীসা থেকে জল পাইপ তৈরি করেছিল।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "2Pb + O₂ → 2PbO",
+        "description": {
+          "en": "Oxidation of lead in air forming yellow litharge.",
+          "bn": "বাতাসে সীসার জারণে হলুদ লিথার্জ গঠন।"
+        }
+      },
+      {
+        "equation": "Pb + 2HNO₃ → Pb(NO₃)₂ + H₂",
+        "description": {
+          "en": "Reaction with dilute nitric acid producing lead(II) nitrate.",
+          "bn": "পাতলা নাইট্রিক অ্যাসিডের সাথে বিক্রিয়ায় সীসা(II) নাইট্রেট উৎপাদন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Pb → Pb²⁺ + 2e⁻",
+        "description": {
+          "en": "Anode reaction in a discharging lead-acid battery.",
+          "bn": "ডিসচার্জিং সীসা-অ্যাসিড ব্যাটারিতে অ্যানোড বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "PbO₂ + 4H⁺ + 2e⁻ → Pb²⁺ + 2H₂O",
+        "description": {
+          "en": "Cathode reaction in a discharging lead-acid battery.",
+          "bn": "ডিসচার্জিং সীসা-অ্যাসিড ব্যাটারিতে ক্যাথোড বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "PbS",
+        "description": {
+          "en": "Lead and sulfur form an ionic crystalline compound (galena), the primary lead ore.",
+          "bn": "সীসা এবং সালফার একটি আয়নিক স্ফটিক যৌগ (গ্যালেনা) গঠন করে, প্রাথমিক সীসা আকরিক।"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1019 @@
+{
+  "elementId": 95,
+  "basicInformation": {
+    "atomicNumber": 95,
+    "symbol": "Am",
+    "name": {
+      "en": "Americium",
+      "bn": "অ্যামেরিসিয়াম"
+    },
+    "pronunciation": {
+      "en": "/æməˈrɪsiəm/",
+      "bn": "অ্যা-মে-রি-সি-আম"
+    },
+    "atomicMass": 243.0,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Glenn T. Seaborg et al.",
+      "bn": "গ্লেন টি. সিবোর্গ ও সহযোগীরা"
+    },
+    "discoveryYear": 1944,
+    "discoveryLocation": {
+      "en": "United States",
+      "bn": "যুক্তরাষ্ট্র"
+    },
+    "discoveryStory": {
+      "en": "Synthesized at the University of Chicago Metallurgical Laboratory by Seaborg, James, Morgan, and Ghiorso. Named after the Americas, analogous to europium named after Europe.",
+      "bn": "সিবোর্গ, জেমস, মরগান ও জিওরসো শিকাগো বিশ্ববিদ্যালয় ধাতুবিদ্যা গবেষণাগারে সংশ্লেষণ করেন। ইউরোপের নামে নামকরণ করা ইউরোপিয়ামের অনুরূপ আমেরিকার নামে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Most successful commercial actinide application: Am-241 in residential smoke detectors saving countless lives globally.",
+      "bn": "সবচেয়ে সফল বাণিজ্যিক অ্যাক্টিনাইড প্রয়োগ: আবাসিক ধোঁয়া সনাক্তকারীতে Am-২৪১ বিশ্বব্যাপী অগণিত জীবন রক্ষা করেছে।"
+    },
+    "famousExperiments": {
+      "en": "First isolated and identified by Seaborg's group during World War II as part of the Manhattan Project research program.",
+      "bn": "ম্যানহাটান প্রকল্প গবেষণা কর্মসূচির অংশ হিসেবে দ্বিতীয় বিশ্বযুদ্ধের সময় সিবোর্গের দল দ্বারা প্রথম আলাদা ও চিহ্নিত।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 95,
+    "neutrons": 148,
+    "electrons": 95,
+    "valenceElectrons": 6,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      25,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Rn] 5f⁷ 7s²",
+    "orbitalConfiguration": {
+      "5f": 7,
+      "7s": 2
+    },
+    "oxidationStates": [
+      7,
+      6,
+      5,
+      4,
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 3,
+      "magnetic": 3,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 12.0,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1449,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2880,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 173,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 180,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 244,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 10,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 2000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.11,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Double hexagonal close-packed",
+      "bn": "দ্বৈত ষড়ভুজাকার ঘনিষ্ঠ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 578,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 9.93,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive; tarnishes in air; reacts with water vapor and acids; relatively stable in dry conditions.",
+      "bn": "প্রতিক্রিয়াশীল; বাতাসে কলঙ্কিত হয়; জলীয় বাষ্প ও অ্যাসিডের সাথে বিক্রিয়া করে; শুষ্ক অবস্থায় তুলনামূলকভাবে স্থিতিশীল।"
+    },
+    "commonCompounds": [
+      "AmO₂",
+      "AmF₃",
+      "AmF₄",
+      "AmCl₃",
+      "AmO₂²⁺"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized",
+      "bn": "চরিত্রায়িত নয়"
+    },
+    "spectralLines": [
+      "503.7nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Am-241 ionization sources in smoke detectors; portable gamma radiography sources; neutron sources when alloyed with beryllium.",
+      "bn": "ধোঁয়া সনাক্তকারীতে Am-২৪১ আয়নীকরণ উৎস; পোর্টেবল গামা রেডিওগ্রাফি উৎস; বেরিলিয়ামের সাথে অ্যালয় হলে নিউট্রন উৎস।"
+    },
+    "commercialUses": {
+      "en": "Smoke detector ionization chambers — the most ubiquitous commercial use of any transuranium element.",
+      "bn": "ধোঁয়া সনাক্তকারী আয়নীকরণ চেম্বার — যেকোনো ট্রান্সইউরেনিয়াম উপাদানের সবচেয়ে সর্বব্যাপী বাণিজ্যিক ব্যবহার।"
+    },
+    "electronicsUses": {
+      "en": "Used in industrial moisture gauges and fluid density measurements.",
+      "bn": "শিল্প আর্দ্রতা গেজ ও তরল ঘনত্ব পরিমাপে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "Proposed as long-duration RTG fuel for deep-space missions where Pu-238 supply is limited.",
+      "bn": "Pu-২৩৮ সরবরাহ সীমিত যেখানে গভীর-মহাকাশ মিশনের জন্য দীর্ঘ-সময়কালের RTG জ্বালানি হিসেবে প্রস্তাবিত।"
+    },
+    "batteryUses": {
+      "en": "Am-241 RTGs being developed by European Space Agency as Pu-238 alternative for spacecraft.",
+      "bn": "মহাকাশযানের জন্য Pu-২৩৮ বিকল্প হিসেবে ইউরোপীয় মহাকাশ সংস্থা দ্বারা Am-২৪১ RTGs বিকশিত হচ্ছে।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "Targeted for transmutation in advanced reactors to reduce long-term nuclear waste burden.",
+      "bn": "দীর্ঘমেয়াদী পারমাণবিক বর্জ্য বোঝা হ্রাস করতে উন্নত চুল্লিতে ট্রান্সমিউটেশনের লক্ষ্য।"
+    },
+    "nanotechnologyUses": {
+      "en": "AmO₂ nanostructures studied for advanced fuel forms.",
+      "bn": "উন্নত জ্বালানি ফর্মের জন্য AmO₂ ন্যানোস্ট্রাকচার অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "Am-242m has the highest neutron-induced fission cross-section of any actinide; potential future reactor fuel.",
+      "bn": "Am-২৪২m যেকোনো অ্যাক্টিনাইডের সর্বোচ্চ নিউট্রন-প্ররোচিত বিভাজন ক্রস-সেকশন আছে; সম্ভাব্য ভবিষ্যত চুল্লি জ্বালানি।"
+    },
+    "militaryUses": {
+      "en": "Limited direct military use; managed under strict non-proliferation safeguards.",
+      "bn": "সীমিত সরাসরি সামরিক ব্যবহার; কঠোর অ-প্রসারণ সুরক্ষার অধীনে পরিচালিত।"
+    },
+    "medicalUses": {
+      "en": "Am-241 sources used in some specialized medical instruments and bone densitometers (historical).",
+      "bn": "Am-২৪১ উৎস কিছু বিশেষায়িত চিকিৎসা যন্ত্র ও হাড়ের ঘনত্বমাপক যন্ত্রে ব্যবহৃত (ঐতিহাসিক)।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; bone- and liver-seeking radiotoxin.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; হাড়- ও যকৃত-সন্ধানী তেজস্ক্রিয় বিষ।"
+    },
+    "humanBodyRole": {
+      "en": "None; toxicity comparable to plutonium.",
+      "bn": "কোনো নেই; প্লুটোনিয়ামের সাথে তুলনীয় বিষাক্ততা।"
+    },
+    "toxicity": {
+      "en": "Highly radiotoxic; chronic alpha exposure causes bone cancer and leukemia.",
+      "bn": "অত্যন্ত তেজস্ক্রিয় বিষাক্ত; দীর্ঘস্থায়ী আলফা এক্সপোজার হাড়ের ক্যান্সার ও লিউকেমিয়া ঘটায়।"
+    },
+    "environmentalImpact": {
+      "en": "Anthropogenic contamination from nuclear weapons fallout and Chernobyl-class accidents.",
+      "bn": "পারমাণবিক অস্ত্র ফলআউট ও চেরনোবিল-শ্রেণীর দুর্ঘটনা থেকে নৃ-জাত দূষণ।"
+    },
+    "pollutionRisks": {
+      "en": "Am-243 (7,370-year half-life) is a significant long-term radioactive waste contributor.",
+      "bn": "Am-২৪৩ (৭,৩৭০-বছর অর্ধজীবন) একটি উল্লেখযোগ্য দীর্ঘমেয়াদী তেজস্ক্রিয় বর্জ্য অবদানকারী।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from aged plutonium stockpiles (in-growth from Pu-241 decay) and spent reactor fuel.",
+      "bn": "বয়স্ক প্লুটোনিয়াম মজুদ (Pu-২৪১ ক্ষয় থেকে অভ্যন্তরীণ-বৃদ্ধি) ও ব্যবহৃত চুল্লি জ্বালানি থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 4.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "France",
+        "bn": "ফ্রান্স"
+      },
+      {
+        "en": "United Kingdom",
+        "bn": "যুক্তরাজ্য"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined; produced in reactors via neutron capture on Pu-239 and successive captures.",
+      "bn": "খনন করা হয় না; Pu-২৩৯ এ নিউট্রন ক্যাপচার ও ধারাবাহিক ক্যাপচারের মাধ্যমে চুল্লিতে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Effectively none",
+        "bn": "কার্যত নেই"
+      },
+      "earthCrust": {
+        "en": "None natural",
+        "bn": "কোনো প্রাকৃতিক নেই"
+      },
+      "oceans": {
+        "en": "None natural",
+        "bn": "কোনো প্রাকৃতিক নেই"
+      }
+    },
+    "marketValue": {
+      "en": "Am-241 sells for approximately $1,500 per gram for industrial smoke detector applications.",
+      "bn": "শিল্প ধোঁয়া সনাক্তকারী প্রয়োগের জন্য Am-২৪১ প্রায় $১,৫০০ প্রতি গ্রামে বিক্রি হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand growing for space RTGs and as transmutation target in waste management.",
+      "bn": "মহাকাশ RTGs ও বর্জ্য ব্যবস্থাপনায় ট্রান্সমিউটেশন লক্ষ্য হিসেবে চাহিদা বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Strategic for space exploration sovereignty (Europe's Pu-238 alternative) and nuclear waste management.",
+      "bn": "মহাকাশ অনুসন্ধান সার্বভৌমত্ব (ইউরোপের Pu-২৩৮ বিকল্প) ও পারমাণবিক বর্জ্য ব্যবস্থাপনার জন্য কৌশলগত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Strong alpha and gamma emitter; chemically toxic; pyrophoric in finely divided form.",
+      "bn": "শক্তিশালী আলফা ও গামা নির্গমনকারী; রাসায়নিকভাবে বিষাক্ত; সূক্ষ্মভাবে বিভক্ত আকারে পাইরোফরিক।"
+    },
+    "storageRequirements": {
+      "en": "Sealed double-encapsulated sources in shielded containers within licensed facilities.",
+      "bn": "লাইসেন্সপ্রাপ্ত সুবিধার মধ্যে আবৃত পাত্রে সিলযুক্ত দ্বৈত-আবদ্ধ উৎস।"
+    },
+    "handlingProcedures": {
+      "en": "Glovebox handling, gamma shielding, dosimetry, criticality monitoring for accumulated quantities.",
+      "bn": "গ্লাভবক্স হ্যান্ডলিং, গামা আবরণ, ডোসিমেট্রি, জমাকৃত পরিমাণের জন্য সংকটতা পর্যবেক্ষণ।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation extremely hazardous; ingestion damages bones; ionizing radiation causes long-term cancers.",
+      "bn": "শ্বাসগ্রহণ অত্যন্ত বিপজ্জনক; গ্রহণ হাড়ের ক্ষতি করে; আয়নাইজিং বিকিরণ দীর্ঘমেয়াদী ক্যান্সার ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radioactive)",
+      "bn": "চরম ঝুঁকি (তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Highly Toxic",
+        "bn": "অত্যন্ত বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Americium is a man-made metal famous for one common use: the radioactive source inside household smoke detectors.",
+      "bn": "অ্যামেরিসিয়াম একটি মানব-নির্মিত ধাতু যা একটি সাধারণ ব্যবহারের জন্য বিখ্যাত: ঘরোয়া ধোঁয়া সনাক্তকারীর ভিতরে তেজস্ক্রিয় উৎস।"
+    },
+    "advancedExplanation": {
+      "en": "A transuranic actinide with half-filled 5f⁷ shell giving moderate stability. Am-241's 432.7-year half-life and 5.5 MeV alpha emission make it ideal for ionization-chamber smoke detectors at microgram doses.",
+      "bn": "অর্ধ-পূর্ণ 5f⁷ শেলসহ একটি ট্রান্সইউরেনিক অ্যাক্টিনাইড যা মাঝারি স্থিতিশীলতা দেয়। Am-২৪১ এর ৪৩২.৭-বছর অর্ধজীবন ও ৫.৫ MeV আলফা নির্গমন এটিকে মাইক্রোগ্রাম ডোজে আয়নীকরণ-চেম্বার ধোঁয়া সনাক্তকারীর জন্য আদর্শ করে তোলে।"
+    },
+    "funFacts": [
+      {
+        "en": "A typical household smoke detector contains about 0.3 micrograms of americium — totally safe inside the device.",
+        "bn": "একটি সাধারণ গৃহস্থালী ধোঁয়া সনাক্তকারীতে প্রায় ০.৩ মাইক্রোগ্রাম অ্যামেরিসিয়াম থাকে — যন্ত্রের ভিতরে সম্পূর্ণ নিরাপদ।"
+      },
+      {
+        "en": "Boy Scout David Hahn famously tried to build a breeder reactor in his shed using americium from smoke detectors.",
+        "bn": "বয় স্কাউট ডেভিড হান বিখ্যাতভাবে তার শেডে ধোঁয়া সনাক্তকারী থেকে অ্যামেরিসিয়াম ব্যবহার করে একটি ব্রিডার চুল্লি তৈরি করার চেষ্টা করেছিলেন।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 63,
+        "relation": {
+          "en": "Americium's chemistry parallels its lanthanide analog Europium (both in their respective +3 dominant states with half-filled f⁷ shells).",
+          "bn": "অ্যামেরিসিয়ামের রসায়ন এর ল্যান্থানাইড অ্যানালগ ইউরোপিয়ামের সমান্তরাল (অর্ধ-পূর্ণ f⁷ শেলসহ যথাযথ +৩ প্রভাবশালী অবস্থায় উভয়)।"
+        }
+      }
+    ],
+    "relatedElements": [
+      63,
+      94,
+      96,
+      93
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Americium?",
+          "bn": "অ্যামেরিসিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "93",
+            "bn": "93"
+          },
+          {
+            "en": "94",
+            "bn": "94"
+          },
+          {
+            "en": "95",
+            "bn": "95"
+          },
+          {
+            "en": "96",
+            "bn": "96"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium has atomic number 95, meaning 95 protons in its nucleus.",
+          "bn": "অ্যামেরিসিয়াম এর পারমাণবিক সংখ্যা 95, অর্থাৎ নিউক্লিয়াসে 95টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Americium?",
+          "bn": "অ্যামেরিসিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Am",
+            "bn": "Am"
+          },
+          {
+            "en": "mA",
+            "bn": "mA"
+          },
+          {
+            "en": "XA",
+            "bn": "XA"
+          },
+          {
+            "en": "Aa",
+            "bn": "Aa"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Americium is Am.",
+          "bn": "অ্যামেরিসিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Am।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Americium belong?",
+          "bn": "অ্যামেরিসিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Americium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "অ্যামেরিসিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Americium?",
+          "bn": "অ্যামেরিসিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f⁷ 7s²",
+            "bn": "[Rn] 5f⁷ 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Americium is [Rn] 5f⁷ 7s².",
+          "bn": "অ্যামেরিসিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 5f⁷ 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Americium discovered or first synthesized?",
+          "bn": "কোন বছরে অ্যামেরিসিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1934",
+            "bn": "1934"
+          },
+          {
+            "en": "1939",
+            "bn": "1939"
+          },
+          {
+            "en": "1944",
+            "bn": "1944"
+          },
+          {
+            "en": "1954",
+            "bn": "1954"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium was discovered in 1944 by Glenn T. Seaborg et al..",
+          "bn": "অ্যামেরিসিয়াম 1944 সালে গ্লেন টি. সিবোর্গ ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Americium?",
+          "bn": "অ্যামেরিসিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Americium is +3, though Am can show others.",
+          "bn": "অ্যামেরিসিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Am অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Americium belong?",
+          "bn": "অ্যামেরিসিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium is in Period 7, the row containing the actinides.",
+          "bn": "অ্যামেরিসিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Americium?",
+          "bn": "অ্যামেরিসিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "233",
+            "bn": "233"
+          },
+          {
+            "en": "238",
+            "bn": "238"
+          },
+          {
+            "en": "243",
+            "bn": "243"
+          },
+          {
+            "en": "263",
+            "bn": "263"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Americium has mass number around 243.",
+          "bn": "অ্যামেরিসিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 243।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Americium radioactive?",
+          "bn": "অ্যামেরিসিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Americium are radioactive — none are stable.",
+          "bn": "অ্যামেরিসিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Americium have?",
+          "bn": "অ্যামেরিসিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Americium has 6 valence electrons available for chemical bonding.",
+          "bn": "অ্যামেরিসিয়াম এর রাসায়নিক বন্ধনের জন্য 6টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Americium belong to?",
+          "bn": "অ্যামেরিসিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium is classified as a actinide.",
+          "bn": "অ্যামেরিসিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Americium?",
+          "bn": "অ্যামেরিসিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Glenn T. Seaborg et al.",
+            "bn": "Glenn T. Seaborg et al."
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium was discovered by Glenn T. Seaborg et al..",
+          "bn": "অ্যামেরিসিয়াম গ্লেন টি. সিবোর্গ ও সহযোগীরা আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Americium have?",
+          "bn": "অ্যামেরিসিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "94",
+            "bn": "94"
+          },
+          {
+            "en": "95",
+            "bn": "95"
+          },
+          {
+            "en": "96",
+            "bn": "96"
+          },
+          {
+            "en": "97",
+            "bn": "97"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 95 protons for Americium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: অ্যামেরিসিয়াম এর জন্য 95টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Americium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে অ্যামেরিসিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Americium exists as a solid.",
+          "bn": "STP-তে, অ্যামেরিসিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Americium?",
+          "bn": "অ্যামেরিসিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "অ্যামেরিসিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Americium produced in limited quantities?",
+          "bn": "কেন অ্যামেরিসিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Americium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "অ্যামেরিসিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Americium?",
+          "bn": "অ্যামেরিসিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Americium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে অ্যামেরিসিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium sits in Group 3 of the periodic table.",
+          "bn": "অ্যামেরিসিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Americium typically obtained?",
+          "bn": "অ্যামেরিসিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Americium is primarily obtained through nuclear synthesis methods.",
+          "bn": "অ্যামেরিসিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Americium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার অ্যামেরিসিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Americium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "অ্যামেরিসিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Smoke detectors are dangerous because of americium — actually the radiation cannot escape the housing and exposure is negligible during normal use.",
+        "bn": "অ্যামেরিসিয়ামের কারণে ধোঁয়া সনাক্তকারী বিপজ্জনক — আসলে বিকিরণ আবাসন থেকে পালাতে পারে না এবং স্বাভাবিক ব্যবহারের সময় এক্সপোজার নগণ্য।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Americium was named after America, just as Europium was named after Europe — both are f-block elements at the same row position.",
+        "bn": "অ্যামেরিসিয়াম আমেরিকার নামে নামকরণ করা হয়েছিল, ঠিক যেমন ইউরোপিয়াম ইউরোপের নামে নামকরণ করা হয়েছিল — উভয়ই একই সারি অবস্থানে f-ব্লক উপাদান।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴¹Am → ²³⁷Np + α",
+        "description": {
+          "en": "Alpha decay of americium-241 to neptunium-237 (half-life 432.7 years).",
+          "bn": "অ্যামেরিসিয়াম-২৪১ এর নেপটুনিয়াম-২৩৭-এ আলফা ক্ষয় (অর্ধজীবন ৪৩২.৭ বছর)।"
+        }
+      },
+      {
+        "equation": "4Am + 3O₂ → 2Am₂O₃",
+        "description": {
+          "en": "Oxidation of americium metal in air forming americium sesquioxide.",
+          "bn": "বাতাসে অ্যামেরিসিয়াম ধাতুর জারণে অ্যামেরিসিয়াম সেসকুইঅক্সাইড গঠন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Am → Am³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation to the most stable Am(III) state in aqueous solution.",
+          "bn": "জলীয় দ্রবণে সবচেয়ে স্থিতিশীল Am(III) অবস্থায় জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "AmO₂²⁺ + 3e⁻ + 4H⁺ → Am³⁺ + 2H₂O",
+        "description": {
+          "en": "Reduction of americyl(VI) to Am(III) in acid solution.",
+          "bn": "অ্যাসিড দ্রবণে অ্যামেরিসাইল(VI) এর Am(III)-এ বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "AmCl₃",
+        "description": {
+          "en": "Americium trichloride is a typical Am(III) ionic compound similar to lanthanide trichlorides.",
+          "bn": "অ্যামেরিসিয়াম ট্রাইক্লোরাইড ল্যান্থানাইড ট্রাইক্লোরাইডের অনুরূপ একটি সাধারণ Am(III) আয়নিক যৌগ।"
+        }
+      }
+    ]
+  }
+}

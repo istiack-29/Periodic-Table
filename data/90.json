@@ -1,0 +1,1018 @@
+{
+  "elementId": 90,
+  "basicInformation": {
+    "atomicNumber": 90,
+    "symbol": "Th",
+    "name": {
+      "en": "Thorium",
+      "bn": "থোরিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈθɔːriəm/",
+      "bn": "থো-রি-আম"
+    },
+    "atomicMass": 232.0377,
+    "category": {
+      "en": "Actinide",
+      "bn": "অ্যাক্টিনাইড"
+    },
+    "group": 3,
+    "period": 7,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery, often with black tarnish",
+      "bn": "রূপালী, প্রায়শই কালো কলঙ্কসহ"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালী"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Jöns Jakob Berzelius",
+      "bn": "ইয়োন্স ইয়াকব বার্জেলিয়াস"
+    },
+    "discoveryYear": 1828,
+    "discoveryLocation": {
+      "en": "Sweden",
+      "bn": "সুইডেন"
+    },
+    "discoveryStory": {
+      "en": "Isolated by Berzelius from a mineral sample sent by Reverend Hans Esmark; named after Thor, the Norse god of thunder.",
+      "bn": "রেভারেন্ড হ্যান্স এসমার্ক প্রেরিত খনিজ নমুনা থেকে বার্জেলিয়াস আলাদা করেন; নর্স বজ্রের দেবতা থরের নামে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Used in gas mantles for lanterns from the late 19th century; in tungsten welding electrodes for stable arcs.",
+      "bn": "১৯শ শতকের শেষ থেকে লণ্ঠনের গ্যাস ম্যান্টলে ব্যবহৃত; স্থিতিশীল আর্কের জন্য টাংস্টেন ওয়েল্ডিং ইলেক্ট্রোডে।"
+    },
+    "famousExperiments": {
+      "en": "The Shippingport Atomic Power Station demonstrated thorium-uranium fuel cycle operation in the 1970s.",
+      "bn": "১৯৭০-এর দশকে শিপিংপোর্ট পারমাণবিক বিদ্যুৎ কেন্দ্র থোরিয়াম-ইউরেনিয়াম জ্বালানি চক্রের কার্যক্রম প্রদর্শন করেছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 90,
+    "neutrons": 142,
+    "electrons": 90,
+    "valenceElectrons": 4,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      10,
+      2
+    ],
+    "electronConfiguration": "[Rn] 6d² 7s²",
+    "orbitalConfiguration": {
+      "6d": 2,
+      "7s": 2
+    },
+    "oxidationStates": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 2,
+      "magnetic": 1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 11.724,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 2023,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 5061,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 180,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 206,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 237,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 54,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 6700000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.113,
+      "unit": "J/(g·K)"
+    },
+    "hardness": 3.0,
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "পৃষ্ঠকেন্দ্রিক ঘনক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 587,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 112.72,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Slowly tarnishes in air; reacts with water and acids. Pyrophoric as a powder.",
+      "bn": "বাতাসে ধীরে কলঙ্কিত হয়; জল ও অ্যাসিডের সাথে বিক্রিয়া করে। গুঁড়ো হিসেবে পাইরোফরিক।"
+    },
+    "commonCompounds": [
+      "ThO₂",
+      "ThF₄",
+      "ThCl₄",
+      "Th(NO₃)₄",
+      "ThSi₂"
+    ],
+    "flameTestColor": {
+      "en": "Not characterized (white sparks when oxidized)",
+      "bn": "চরিত্রায়িত নয় (জারিত হলে সাদা স্ফুলিঙ্গ)"
+    },
+    "spectralLines": [
+      "401.9nm",
+      "491.9nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Used in high-temperature ceramics (ThO₂ has the highest melting point of any oxide at 3300°C), magnesium alloys for aerospace, and welding electrodes.",
+      "bn": "উচ্চ-তাপমাত্রার সিরামিকে ব্যবহৃত (ThO₂ এর যেকোনো অক্সাইডের সর্বোচ্চ গলনাঙ্ক ৩৩০০°সে), মহাকাশের জন্য ম্যাগনেসিয়াম অ্যালয়ে, ও ঢালাই ইলেক্ট্রোডে।"
+    },
+    "commercialUses": {
+      "en": "Camera lenses (high refractive index ThO₂ glass); largely phased out for radiological reasons.",
+      "bn": "ক্যামেরার লেন্স (উচ্চ প্রতিসরণ সূচক ThO₂ কাচ); রেডিওলজিকাল কারণে মূলত পর্যায়ক্রমে বন্ধ।"
+    },
+    "electronicsUses": {
+      "en": "Thoriated tungsten cathodes in vacuum tubes and magnetrons for enhanced electron emission.",
+      "bn": "বর্ধিত ইলেকট্রন নির্গমনের জন্য ভ্যাকুয়াম টিউব ও ম্যাগনেট্রনে থোরিয়েটেড টাংস্টেন ক্যাথোড।"
+    },
+    "semiconductorUses": {
+      "en": "None directly; some research into thoria for high-k dielectric materials.",
+      "bn": "সরাসরি কোনো নেই; উচ্চ-k ডাইলেক্ট্রিক উপাদানের জন্য থোরিয়ার কিছু গবেষণা।"
+    },
+    "aerospaceUses": {
+      "en": "Magnesium-thorium alloys (Mag-Thor) used in jet engines and rocket parts for high temperature strength.",
+      "bn": "উচ্চ তাপমাত্রার শক্তির জন্য জেট ইঞ্জিন ও রকেট অংশে ম্যাগনেসিয়াম-থোরিয়াম অ্যালয় (ম্যাগ-থর) ব্যবহৃত।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "Investigated for ultra-stable nuclear-powered remote AI sensors via thorium decay heat.",
+      "bn": "থোরিয়াম ক্ষয় তাপের মাধ্যমে অতি-স্থিতিশীল পারমাণবিক চালিত দূরবর্তী AI সেন্সরের জন্য অনুসন্ধান।"
+    },
+    "renewableEnergyUses": {
+      "en": "Major proposed fuel for Molten Salt Reactors (MSRs) as a safer, more abundant nuclear option.",
+      "bn": "একটি নিরাপদ, আরও প্রচুর পারমাণবিক বিকল্প হিসেবে গলিত লবণ চুল্লির (MSR) জন্য প্রস্তাবিত প্রধান জ্বালানি।"
+    },
+    "nanotechnologyUses": {
+      "en": "ThO₂ nanoparticles studied for high-temperature catalytic applications.",
+      "bn": "উচ্চ-তাপমাত্রার অনুঘটক প্রয়োগের জন্য ThO₂ ন্যানোকণা অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "Fertile material: absorbs neutrons to become fissile uranium-233 in breeder reactors.",
+      "bn": "উর্বর উপাদান: প্রজনন চুল্লিতে নিউট্রন শোষণ করে ফিসাইল ইউরেনিয়াম-২৩৩-এ পরিণত হয়।"
+    },
+    "militaryUses": {
+      "en": "Historically considered for thorium-uranium fuel cycles in naval reactors; not deployed.",
+      "bn": "ঐতিহাসিকভাবে নৌ চুল্লিতে থোরিয়াম-ইউরেনিয়াম জ্বালানি চক্রের জন্য বিবেচিত; মোতায়েন করা হয়নি।"
+    },
+    "medicalUses": {
+      "en": "Th-227 used in targeted alpha therapy research; ThO₂ historically used in Thorotrast contrast agent (discontinued due to cancer risk).",
+      "bn": "লক্ষ্যবস্তু আলফা থেরাপি গবেষণায় Th-২২৭ ব্যবহৃত; ক্যান্সারের ঝুঁকির কারণে বন্ধ হওয়া থোরোট্রাস্ট কন্ট্রাস্ট এজেন্টে ThO₂ ঐতিহাসিকভাবে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "Trace presence in monazite sands in beach sands and concretes (low-level natural background).",
+      "bn": "সৈকত বালি ও কংক্রিটে মোনাজাইট বালিতে সামান্য উপস্থিতি (নিম্ন-স্তরের প্রাকৃতিক পটভূমি)।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological role; trace exposure ubiquitous from natural sources.",
+      "bn": "কোনো পরিচিত জৈবিক ভূমিকা নেই; প্রাকৃতিক উৎস থেকে সামান্য এক্সপোজার সর্বব্যাপী।"
+    },
+    "humanBodyRole": {
+      "en": "None; accumulates in bones and liver if ingested; long-term radiation hazard.",
+      "bn": "কোনো নেই; গ্রহণ করলে হাড় ও যকৃতে জমা হয়; দীর্ঘমেয়াদী বিকিরণ ঝুঁকি।"
+    },
+    "toxicity": {
+      "en": "Mildly radiotoxic (long half-life of 14 billion years means low specific activity); chemical toxicity moderate.",
+      "bn": "মৃদু তেজস্ক্রিয় বিষাক্ত (১৪ বিলিয়ন বছরের দীর্ঘ অর্ধজীবন মানে নিম্ন নির্দিষ্ট কার্যকলাপ); রাসায়নিক বিষাক্ততা মাঝারি।"
+    },
+    "environmentalImpact": {
+      "en": "Naturally widespread in soil at ppm levels; mining tailings concentrate it problematically.",
+      "bn": "প্রাকৃতিকভাবে মাটিতে ppm স্তরে ব্যাপক; খনির বর্জ্য সমস্যাজনকভাবে এটিকে কেন্দ্রীভূত করে।"
+    },
+    "pollutionRisks": {
+      "en": "Decay product radon-220 (thoron) contributes to indoor air radiation; mining produces radioactive tailings.",
+      "bn": "ক্ষয় পণ্য রেডন-২২০ (থোরন) অভ্যন্তরীণ বায়ু বিকিরণে অবদান রাখে; খনিকাজে তেজস্ক্রিয় বর্জ্য উৎপন্ন হয়।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from rare-earth mining tailings; potentially recyclable from spent thorium fuel.",
+      "bn": "বিরল-মৃত্তিকা খনন বর্জ্য থেকে পুনরুদ্ধার; ব্যবহৃত থোরিয়াম জ্বালানি থেকে সম্ভাব্য পুনর্ব্যবহারযোগ্য।"
+    },
+    "sustainabilityScore": 7.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "India",
+        "bn": "ভারত"
+      },
+      {
+        "en": "Brazil",
+        "bn": "ব্রাজিল"
+      },
+      {
+        "en": "Australia",
+        "bn": "অস্ট্রেলিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted primarily as a byproduct of rare-earth element mining from monazite sands.",
+      "bn": "মূলত মোনাজাইট বালি থেকে বিরল-মৃত্তিকা উপাদান খননের উপজাত হিসেবে নিষ্কাশন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "4×10⁻⁸ %",
+        "bn": "৪×১০⁻⁸ %"
+      },
+      "earthCrust": {
+        "en": "9.6 mg/kg",
+        "bn": "৯.৬ মিগ্রা/কেজি"
+      },
+      "oceans": {
+        "en": "1×10⁻⁶ mg/L",
+        "bn": "১×১০⁻⁶ মিগ্রা/লিটার"
+      }
+    },
+    "marketValue": {
+      "en": "Currently ~$70-200 per kg as oxide; potential value rises with MSR commercialization.",
+      "bn": "বর্তমানে অক্সাইড হিসেবে ~$৭০-২০০ প্রতি কেজি; MSR বাণিজ্যিকীকরণের সাথে সম্ভাব্য মূল্য বাড়ে।"
+    },
+    "futureDemand": {
+      "en": "High potential as a sustainable nuclear fuel given 3-4× greater abundance than uranium.",
+      "bn": "ইউরেনিয়ামের চেয়ে ৩-৪× বেশি প্রাচুর্যের কারণে টেকসই পারমাণবিক জ্বালানি হিসেবে উচ্চ সম্ভাবনা।"
+    },
+    "globalImportance": {
+      "en": "Strategic resource for next-generation reactors; India holds the world's largest reserves.",
+      "bn": "পরবর্তী প্রজন্মের চুল্লির জন্য কৌশলগত সম্পদ; ভারত বিশ্বের বৃহত্তম মজুদ ধারণ করে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Mildly radioactive (alpha emitter); pyrophoric in powdered form. Decay produces radon-220.",
+      "bn": "মৃদুভাবে তেজস্ক্রিয় (আলফা নির্গমনকারী); গুঁড়ো আকারে পাইরোফরিক। ক্ষয়ে রেডন-২২০ উৎপন্ন।"
+    },
+    "storageRequirements": {
+      "en": "Store metal under inert gas or oil to prevent oxidation; powder requires special precautions.",
+      "bn": "জারণ রোধে নিষ্ক্রিয় গ্যাস বা তেলের নিচে ধাতু সংরক্ষণ করুন; গুঁড়োর জন্য বিশেষ সতর্কতা প্রয়োজন।"
+    },
+    "handlingProcedures": {
+      "en": "Use respirators when handling fine powders; standard radiation protection for bulk metal.",
+      "bn": "সূক্ষ্ম গুঁড়ো হ্যান্ডলিং করার সময় রেসপিরেটর ব্যবহার করুন; বাল্ক ধাতুর জন্য মান বিকিরণ সুরক্ষা।"
+    },
+    "exposureRisks": {
+      "en": "Chronic inhalation increases lung cancer risk; ingestion can damage liver and bones.",
+      "bn": "দীর্ঘস্থায়ী শ্বাসগ্রহণ ফুসফুসের ক্যান্সারের ঝুঁকি বাড়ায়; গ্রহণ যকৃৎ ও হাড়ের ক্ষতি করতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Moderate Risk (Radioactive)",
+      "bn": "মাঝারি ঝুঁকি (তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material Class 7",
+        "bn": "তেজস্ক্রিয় পদার্থ শ্রেণী ৭"
+      },
+      {
+        "en": "Pyrophoric Solid (powder)",
+        "bn": "পাইরোফরিক কঠিন (গুঁড়ো)"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Thorium is a slightly radioactive metal abundant in Earth's crust and proposed as a safer nuclear fuel alternative to uranium.",
+      "bn": "থোরিয়াম পৃথিবীর ভূত্বকে প্রচুর সামান্য তেজস্ক্রিয় ধাতু এবং ইউরেনিয়ামের নিরাপদ পারমাণবিক জ্বালানি বিকল্প হিসেবে প্রস্তাবিত।"
+    },
+    "advancedExplanation": {
+      "en": "A fertile (not fissile) actinide that breeds into fissile U-233 via neutron capture. Its 14-billion-year half-life makes it primordial despite radioactivity.",
+      "bn": "একটি উর্বর (ফিসাইল নয়) অ্যাক্টিনাইড যা নিউট্রন ক্যাপচারের মাধ্যমে ফিসাইল U-২৩৩-এ প্রজনন করে। এর ১৪-বিলিয়ন-বছরের অর্ধজীবন তেজস্ক্রিয়তা সত্ত্বেও এটিকে আদিম করে তোলে।"
+    },
+    "funFacts": [
+      {
+        "en": "Earth contains about 3-4 times more thorium than uranium.",
+        "bn": "পৃথিবীতে ইউরেনিয়ামের চেয়ে প্রায় ৩-৪ গুণ বেশি থোরিয়াম রয়েছে।"
+      },
+      {
+        "en": "India's nuclear power program is built around thorium due to its huge domestic reserves.",
+        "bn": "ভারতের পারমাণবিক বিদ্যুৎ কর্মসূচি বিশাল অভ্যন্তরীণ মজুদের কারণে থোরিয়ামকে কেন্দ্র করে গড়ে উঠেছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 92,
+        "relation": {
+          "en": "Unlike fissile Uranium, Thorium is fertile — it must absorb a neutron to become fissile U-233, making reactor proliferation harder.",
+          "bn": "ফিসাইল ইউরেনিয়ামের বিপরীতে, থোরিয়াম উর্বর — ফিসাইল U-২৩৩ হতে অবশ্যই একটি নিউট্রন শোষণ করতে হবে, যা চুল্লি প্রসারণ কঠিন করে তোলে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      89,
+      91,
+      92,
+      58
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Thorium?",
+          "bn": "থোরিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium has atomic number 90, meaning 90 protons in its nucleus.",
+          "bn": "থোরিয়াম এর পারমাণবিক সংখ্যা 90, অর্থাৎ নিউক্লিয়াসে 90টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Thorium?",
+          "bn": "থোরিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Th",
+            "bn": "Th"
+          },
+          {
+            "en": "hT",
+            "bn": "hT"
+          },
+          {
+            "en": "XT",
+            "bn": "XT"
+          },
+          {
+            "en": "Tt",
+            "bn": "Tt"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Thorium is Th.",
+          "bn": "থোরিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Th।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Thorium belong?",
+          "bn": "থোরিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Thorium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "থোরিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Thorium?",
+          "bn": "থোরিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 6d² 7s²",
+            "bn": "[Rn] 6d² 7s²"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Thorium is [Rn] 6d² 7s².",
+          "bn": "থোরিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 6d² 7s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Thorium discovered or first synthesized?",
+          "bn": "কোন বছরে থোরিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1818",
+            "bn": "1818"
+          },
+          {
+            "en": "1823",
+            "bn": "1823"
+          },
+          {
+            "en": "1828",
+            "bn": "1828"
+          },
+          {
+            "en": "1838",
+            "bn": "1838"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium was discovered in 1828 by Jöns Jakob Berzelius.",
+          "bn": "থোরিয়াম 1828 সালে ইয়োন্স ইয়াকব বার্জেলিয়াস আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Thorium?",
+          "bn": "থোরিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Thorium is +3, though Th can show others.",
+          "bn": "থোরিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Th অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Thorium belong?",
+          "bn": "থোরিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium is in Period 7, the row containing the actinides.",
+          "bn": "থোরিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Thorium?",
+          "bn": "থোরিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "222",
+            "bn": "222"
+          },
+          {
+            "en": "227",
+            "bn": "227"
+          },
+          {
+            "en": "232",
+            "bn": "232"
+          },
+          {
+            "en": "252",
+            "bn": "252"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Thorium has mass number around 232.",
+          "bn": "থোরিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 232।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Thorium radioactive?",
+          "bn": "থোরিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Thorium are radioactive — none are stable.",
+          "bn": "থোরিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Thorium have?",
+          "bn": "থোরিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thorium has 4 valence electrons available for chemical bonding.",
+          "bn": "থোরিয়াম এর রাসায়নিক বন্ধনের জন্য 4টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Thorium belong to?",
+          "bn": "থোরিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Actinide",
+            "bn": "Actinide"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium is classified as a actinide.",
+          "bn": "থোরিয়াম একটি অ্যাক্টিনাইড হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Thorium?",
+          "bn": "থোরিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Jöns Jakob Berzelius",
+            "bn": "Jöns Jakob Berzelius"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium was discovered by Jöns Jakob Berzelius.",
+          "bn": "থোরিয়াম ইয়োন্স ইয়াকব বার্জেলিয়াস আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Thorium have?",
+          "bn": "থোরিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "89",
+            "bn": "89"
+          },
+          {
+            "en": "90",
+            "bn": "90"
+          },
+          {
+            "en": "91",
+            "bn": "91"
+          },
+          {
+            "en": "92",
+            "bn": "92"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 90 protons for Thorium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: থোরিয়াম এর জন্য 90টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Thorium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে থোরিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Thorium exists as a solid.",
+          "bn": "STP-তে, থোরিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Thorium?",
+          "bn": "থোরিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "1.3",
+            "bn": "1.3"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium has a Pauling electronegativity of approximately 1.3.",
+          "bn": "থোরিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 1.3।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Thorium produced in limited quantities?",
+          "bn": "কেন থোরিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thorium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "থোরিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Thorium?",
+          "bn": "থোরিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Thorium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে থোরিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 3",
+            "bn": "Group 3"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium sits in Group 3 of the periodic table.",
+          "bn": "থোরিয়াম পর্যায় সারণির গ্রুপ 3-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Thorium typically obtained?",
+          "bn": "থোরিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thorium is primarily obtained through nuclear synthesis methods.",
+          "bn": "থোরিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Thorium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার থোরিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Thorium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "থোরিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Thorium reactors are completely meltdown-proof — reality: they are inherently safer but not immune to all failure modes.",
+        "bn": "থোরিয়াম চুল্লি সম্পূর্ণ গলন-প্রমাণ — বাস্তব: এগুলো সহজাতভাবে নিরাপদ কিন্তু সমস্ত ব্যর্থতার মোড থেকে অনাক্রম্য নয়।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Thorium (Th, 90) sits at the start of the actinide block proper — remember it as 'Thor's hammer of the actinides.'",
+        "bn": "থোরিয়াম (Th, ৯০) যথাযথ অ্যাক্টিনাইড ব্লকের শুরুতে অবস্থিত — এটিকে 'অ্যাক্টিনাইডের থরের হাতুড়ি' হিসেবে মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Th + O₂ → ThO₂",
+        "description": {
+          "en": "Combustion of thorium powder producing thoria with brilliant white sparks.",
+          "bn": "উজ্জ্বল সাদা স্ফুলিঙ্গসহ থোরিয়াম গুঁড়োর দহনে থোরিয়া উৎপন্ন।"
+        }
+      },
+      {
+        "equation": "²³²Th + n → ²³³Th → ²³³Pa → ²³³U",
+        "description": {
+          "en": "Neutron-induced breeding of fertile thorium into fissile uranium-233.",
+          "bn": "উর্বর থোরিয়ামের নিউট্রন-প্ররোচিত প্রজননে ফিসাইল ইউরেনিয়াম-২৩৩।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Th → Th⁴⁺ + 4e⁻",
+        "description": {
+          "en": "Loses all four valence electrons (6d²7s²) to achieve Th⁴⁺ closed-shell stability.",
+          "bn": "Th⁴⁺ বন্ধ-শেল স্থিতিশীলতা অর্জনের জন্য সমস্ত চারটি যোজ্যতা ইলেকট্রন (6d²7s²) হারায়।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "ThCl₄ + 4Na → Th + 4NaCl",
+        "description": {
+          "en": "Industrial reduction of thorium tetrachloride by sodium (Ames process).",
+          "bn": "সোডিয়াম দ্বারা থোরিয়াম টেট্রাক্লোরাইডের শিল্প বিজারণ (অ্যামেস প্রক্রিয়া)।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic-Covalent Bond",
+          "bn": "আয়নিক-সমযোজী বন্ধন"
+        },
+        "molecule": "ThO₂",
+        "description": {
+          "en": "Thorium forms thoria, with predominantly ionic bonds modified by significant covalent character.",
+          "bn": "থোরিয়াম থোরিয়া গঠন করে, প্রধানত আয়নিক বন্ধনসহ উল্লেখযোগ্য সমযোজী চরিত্র দ্বারা পরিবর্তিত।"
+        }
+      }
+    ]
+  }
+}

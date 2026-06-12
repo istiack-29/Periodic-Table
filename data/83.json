@@ -1,0 +1,1019 @@
+{
+  "elementId": 83,
+  "basicInformation": {
+    "atomicNumber": 83,
+    "symbol": "Bi",
+    "name": {
+      "en": "Bismuth",
+      "bn": "বিসমাথ"
+    },
+    "pronunciation": {
+      "en": "/ˈbɪzməθ/",
+      "bn": "বিজ-মাথ"
+    },
+    "atomicMass": 208.98,
+    "category": {
+      "en": "Post-transition metal",
+      "bn": "পরবর্তী-অবস্থান্তর ধাতু"
+    },
+    "group": 15,
+    "period": 6,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Lustrous silvery-pink with iridescent oxide layer",
+      "bn": "ইরিডিসেন্ট অক্সাইড স্তর সহ চকচকে রূপালী-গোলাপী"
+    },
+    "color": {
+      "en": "Silvery pink",
+      "bn": "রূপালী গোলাপী"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Claude François Geoffroy",
+      "bn": "ক্লদ ফ্রঁসোয়া জিওফ্রয়"
+    },
+    "discoveryYear": 1753,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Geoffroy distinguished bismuth as a unique element separate from lead and tin, with which it had been confused for centuries.",
+      "bn": "জিওফ্রয় বিসমাথকে সীসা এবং টিন থেকে আলাদা একটি অনন্য উপাদান হিসেবে চিহ্নিত করেন, যার সাথে এটি শতাব্দীর জন্য বিভ্রান্ত ছিল।"
+    },
+    "historicalUses": {
+      "en": "Used as cosmetic 'Spanish white' in 16th century, and in low-melting alloys for fire sprinkler systems.",
+      "bn": "১৬শ শতাব্দীতে প্রসাধনী 'স্প্যানিশ হোয়াইট' হিসেবে এবং ফায়ার স্প্রিংকলার সিস্টেমের নিম্ন-গলনাঙ্কের অ্যালয়ে ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Demonstrations of bismuth's iridescent hopper crystals showcase rainbow-colored oxide interference in chemistry education.",
+      "bn": "বিসমাথের ইরিডিসেন্ট হপার স্ফটিকের প্রদর্শন রসায়ন শিক্ষায় রংধনু-রঙের অক্সাইড ব্যতিচার প্রদর্শন করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 83,
+    "neutrons": 126,
+    "electrons": 83,
+    "valenceElectrons": 5,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      5
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³",
+    "orbitalConfiguration": {
+      "6s": 2,
+      "6p": 3,
+      "5d": 10,
+      "4f": 14
+    },
+    "oxidationStates": [
+      3,
+      5,
+      -3,
+      -2,
+      -1,
+      1,
+      2,
+      4
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 9.78,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 544.7,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1837,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 156,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 148,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 207,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 7.97,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 870000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.122,
+      "unit": "J/(g·K)"
+    },
+    "hardness": 2.25,
+    "crystalStructure": {
+      "en": "Rhombohedral",
+      "bn": "রম্বোহেড্রাল"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic (strongest of any metal)",
+      "bn": "ডায়াম্যাগনেটিক (যেকোনো ধাতুর মধ্যে সবচেয়ে শক্তিশালী)"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.02,
+    "ionizationEnergy": {
+      "value": 703,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 91.2,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Stable in dry air; tarnishes in moist air forming iridescent oxide; soluble in oxidizing acids; non-toxic heavy metal.",
+      "bn": "শুষ্ক বাতাসে স্থিতিশীল; আর্দ্র বাতাসে ইরিডিসেন্ট অক্সাইড গঠন করে কলঙ্কিত হয়; জারণকারী অ্যাসিডে দ্রবণীয়; অ-বিষাক্ত ভারী ধাতু।"
+    },
+    "commonCompounds": [
+      "Bi₂O₃",
+      "BiCl₃",
+      "Bi(NO₃)₃",
+      "Bi₂S₃",
+      "BiOCl"
+    ],
+    "flameTestColor": {
+      "en": "Azure blue",
+      "bn": "আকাশী নীল"
+    },
+    "spectralLines": [
+      "472.2nm",
+      "298.9nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Low-melting alloys for fire safety devices, pharmaceuticals, cosmetics, and lead-free solders.",
+      "bn": "ফায়ার সেফটি ডিভাইস, ফার্মাসিউটিক্যালস, প্রসাধনী এবং সীসা-মুক্ত সোল্ডারের নিম্ন-গলনাঙ্কের অ্যালয়।"
+    },
+    "commercialUses": {
+      "en": "Bismuth subsalicylate (Pepto-Bismol) for stomach disorders; cosmetic pearlescent pigments.",
+      "bn": "পেটের ব্যাধির জন্য বিসমাথ সাবস্যালিসিলেট (পেপ্টো-বিসমল); প্রসাধনী মুক্তা-জাত রঞ্জক।"
+    },
+    "electronicsUses": {
+      "en": "Lead-free solder alternative (Bi-Sn) for electronics manufacturing meeting RoHS standards.",
+      "bn": "RoHS স্ট্যান্ডার্ড পূরণকারী ইলেকট্রনিক্স উৎপাদনের জন্য সীসা-মুক্ত সোল্ডার বিকল্প (Bi-Sn)।"
+    },
+    "semiconductorUses": {
+      "en": "Bismuth telluride (Bi₂Te₃) is the leading thermoelectric material for Peltier coolers and topological insulators.",
+      "bn": "বিসমাথ টেলুরাইড (Bi₂Te₃) পেল্টিয়ার কুলার এবং টপোলজিক্যাল ইনসুলেটরের জন্য শীর্ষস্থানীয় থার্মোইলেকট্রিক উপাদান।"
+    },
+    "aerospaceUses": {
+      "en": "Bismuth-based thermoelectric generators for spacecraft waste heat recovery.",
+      "bn": "মহাকাশযান বর্জ্য তাপ পুনরুদ্ধারের জন্য বিসমাথ-ভিত্তিক থার্মোইলেকট্রিক জেনারেটর।"
+    },
+    "batteryUses": {
+      "en": "Bismuth oxide cathodes researched for next-generation aqueous batteries.",
+      "bn": "পরবর্তী প্রজন্মের জলীয় ব্যাটারির জন্য বিসমাথ অক্সাইড ক্যাথোড গবেষণা।"
+    },
+    "aiHardwareUses": {
+      "en": "Topological insulator properties of Bi₂Se₃ explored for fault-tolerant quantum computing.",
+      "bn": "ত্রুটি-সহনশীল কোয়ান্টাম কম্পিউটিংয়ের জন্য Bi₂Se₃-এর টপোলজিক্যাল ইনসুলেটর বৈশিষ্ট্য অন্বেষণ।"
+    },
+    "renewableEnergyUses": {
+      "en": "Thermoelectric devices recover waste heat from solar and industrial systems.",
+      "bn": "থার্মোইলেকট্রিক ডিভাইসগুলি সৌর এবং শিল্প সিস্টেম থেকে বর্জ্য তাপ পুনরুদ্ধার করে।"
+    },
+    "nanotechnologyUses": {
+      "en": "Bismuth nanoparticles studied for radiosensitization in cancer radiotherapy.",
+      "bn": "ক্যান্সার রেডিওথেরাপিতে রেডিওসংবেদনশীলতার জন্য বিসমাথ ন্যানোকণা অধ্যয়ন।"
+    },
+    "nuclearUses": {
+      "en": "Replacement for lead in radiation shielding due to lower toxicity; nuclear coolant in lead-bismuth eutectic reactors.",
+      "bn": "কম বিষাক্ততার কারণে বিকিরণ ঢালে সীসার প্রতিস্থাপন; সীসা-বিসমাথ ইউটেকটিক চুল্লিতে পারমাণবিক কুল্যান্ট।"
+    },
+    "militaryUses": {
+      "en": "Used in lead-free ammunition and shotgun pellets for environmental compliance.",
+      "bn": "পরিবেশগত সম্মতির জন্য সীসা-মুক্ত গোলাবারুদ এবং শটগান গুলিতে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "Bismuth compounds treat peptic ulcers, H. pylori infections, and diarrhea.",
+      "bn": "বিসমাথ যৌগ পেপটিক আলসার, এইচ. পাইলোরি সংক্রমণ এবং ডায়রিয়ার চিকিৎসা করে।"
+    },
+    "foodIndustryUses": {
+      "en": "Not directly used in food; bismuth subsalicylate is approved as an OTC digestive aid.",
+      "bn": "সরাসরি খাবারে ব্যবহৃত নয়; বিসমাথ সাবস্যালিসিলেট OTC হজম সহায়ক হিসেবে অনুমোদিত।"
+    },
+    "constructionUses": {
+      "en": "Used in fusible alloys for fire sprinkler triggers and safety plugs.",
+      "bn": "ফায়ার স্প্রিংকলার ট্রিগার এবং সেফটি প্লাগের জন্য ফিউসিবল অ্যালয়ে ব্যবহৃত।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No essential biological role; uniquely non-toxic among heavy metals due to poor absorption.",
+      "bn": "কোনো অপরিহার্য জৈবিক ভূমিকা নেই; দুর্বল শোষণের কারণে ভারী ধাতুগুলির মধ্যে অনন্যভাবে অ-বিষাক্ত।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts pass through unabsorbed; therapeutic doses coat the stomach lining.",
+      "bn": "অশোষিত হয়ে ট্রেস পরিমাণ পার হয়; থেরাপিউটিক ডোজ পেটের আস্তরণ আবৃত করে।"
+    },
+    "toxicity": {
+      "en": "Among the least toxic heavy metals; rare cases of nephrotoxicity at extremely high doses.",
+      "bn": "সবচেয়ে কম বিষাক্ত ভারী ধাতুগুলির মধ্যে; অত্যন্ত উচ্চ মাত্রায় নেফ্রোটক্সিসিটির বিরল ক্ষেত্রে।"
+    },
+    "environmentalImpact": {
+      "en": "Considered 'green metal' alternative to lead due to low toxicity and recyclability.",
+      "bn": "কম বিষাক্ততা এবং পুনর্ব্যবহারযোগ্যতার কারণে সীসার 'সবুজ ধাতু' বিকল্প হিসেবে বিবেচিত।"
+    },
+    "pollutionRisks": {
+      "en": "Minimal pollution impact; widely promoted as a sustainable replacement for lead.",
+      "bn": "ন্যূনতম দূষণ প্রভাব; সীসার টেকসই প্রতিস্থাপন হিসেবে ব্যাপকভাবে প্রচারিত।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from electronic scrap and used pharmaceuticals via hydrometallurgical processes.",
+      "bn": "হাইড্রোমেটালার্জিক্যাল প্রক্রিয়ার মাধ্যমে ইলেকট্রনিক স্ক্র্যাপ এবং ব্যবহৃত ফার্মাসিউটিক্যালস থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 8.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Vietnam",
+        "bn": "ভিয়েতনাম"
+      },
+      {
+        "en": "Mexico",
+        "bn": "মেক্সিকো"
+      }
+    ],
+    "miningMethods": {
+      "en": "Recovered as byproduct of lead, copper, tin, and tungsten ore refining.",
+      "bn": "সীসা, তামা, টিন এবং টাংস্টেন আকরিক পরিশোধনের উপজাত হিসেবে পুনরুদ্ধার।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "7×10⁻⁸ % by mass",
+        "bn": "ভর অনুযায়ী ৭×১০⁻⁸ %"
+      },
+      "earthCrust": {
+        "en": "0.025 ppm",
+        "bn": "০.০২৫ পিপিএম"
+      },
+      "oceans": {
+        "en": "2×10⁻⁵ ppm",
+        "bn": "২×১০⁻⁵ পিপিএম"
+      }
+    },
+    "marketValue": {
+      "en": "Approximately $5–$8 per kg; price varies with byproduct availability.",
+      "bn": "প্রায় $৫–$৮ প্রতি কেজি; উপজাত প্রাপ্যতার সাথে দাম পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Strong growth as eco-friendly replacement for lead in solder, shot, and pigments.",
+      "bn": "সোল্ডার, গুলি এবং রঞ্জকে সীসার পরিবেশ-বান্ধব প্রতিস্থাপন হিসেবে শক্তিশালী বৃদ্ধি।"
+    },
+    "globalImportance": {
+      "en": "Strategic for green electronics manufacturing and advanced thermoelectric devices.",
+      "bn": "সবুজ ইলেকট্রনিক্স উৎপাদন এবং উন্নত থার্মোইলেকট্রিক ডিভাইসের জন্য কৌশলগত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Generally non-hazardous; some compounds (BiCl₃) are corrosive and release HCl on contact with water.",
+      "bn": "সাধারণত অ-বিপজ্জনক; কিছু যৌগ (BiCl₃) ক্ষয়কারী এবং জলের সংস্পর্শে HCl নির্গত করে।"
+    },
+    "storageRequirements": {
+      "en": "Store in dry containers at room temperature; protect from moisture for halide salts.",
+      "bn": "ঘরের তাপমাত্রায় শুকনো পাত্রে সংরক্ষণ; হ্যালাইড লবণের জন্য আর্দ্রতা থেকে রক্ষা করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Standard laboratory PPE sufficient; avoid inhalation of fine powder.",
+      "bn": "স্ট্যান্ডার্ড ল্যাবরেটরি PPE যথেষ্ট; সূক্ষ্ম পাউডার নিঃশ্বাসে নেওয়া এড়িয়ে চলুন।"
+    },
+    "exposureRisks": {
+      "en": "Low risk; chronic high exposure may cause black gum line and minor neurological effects.",
+      "bn": "কম ঝুঁকি; দীর্ঘস্থায়ী উচ্চ এক্সপোজার কালো মাড়ির রেখা এবং সামান্য স্নায়বিক প্রভাব ঘটাতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Low Risk",
+      "bn": "কম ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Mild Irritant",
+        "bn": "হালকা জ্বালাকর"
+      },
+      {
+        "en": "Heavy Metal",
+        "bn": "ভারী ধাতু"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Bismuth is a heavy metal that forms beautiful rainbow-colored crystals and is used in stomach medicine.",
+      "bn": "বিসমাথ একটি ভারী ধাতু যা সুন্দর রংধনু-রঙের স্ফটিক গঠন করে এবং পেটের ওষুধে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "Long thought stable, Bi-209 is actually radioactive with a half-life of 2×10¹⁹ years — vastly longer than the universe's age. Exhibits strongest diamagnetism among metals.",
+      "bn": "দীর্ঘকাল স্থিতিশীল মনে করা হলেও, Bi-209 আসলে ২×১০¹⁹ বছরের অর্ধ-জীবন সহ তেজস্ক্রিয় — মহাবিশ্বের বয়সের চেয়ে অনেক বেশি। ধাতুগুলির মধ্যে সবচেয়ে শক্তিশালী ডায়াম্যাগনেটিজম প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Bismuth expands when it freezes, a property shared with only a few substances like water.",
+        "bn": "জলের মতো অল্প কিছু পদার্থের সাথে ভাগ করা একটি বৈশিষ্ট্য — বিসমাথ জমার সময় প্রসারিত হয়।"
+      },
+      {
+        "en": "Bismuth-209 was confirmed radioactive in 2003, ending its status as the heaviest stable nuclide.",
+        "bn": "বিসমাথ-২০৯ ২০০৩ সালে তেজস্ক্রিয় হিসেবে নিশ্চিত হয়েছিল, সবচেয়ে ভারী স্থিতিশীল নিউক্লাইড হিসেবে এর মর্যাদা শেষ করে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 82,
+        "relation": {
+          "en": "Bismuth and lead are neighbors but bismuth is non-toxic, increasingly used as lead's green substitute in solder and ammunition.",
+          "bn": "বিসমাথ এবং সীসা প্রতিবেশী কিন্তু বিসমাথ অ-বিষাক্ত, সোল্ডার এবং গোলাবারুদে সীসার সবুজ বিকল্প হিসেবে ক্রমবর্ধমান ব্যবহৃত।"
+        }
+      }
+    ],
+    "relatedElements": [
+      82,
+      84,
+      51,
+      33
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Bismuth?",
+          "bn": "বিসমাথ এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "82",
+            "bn": "82"
+          },
+          {
+            "en": "83",
+            "bn": "83"
+          },
+          {
+            "en": "84",
+            "bn": "84"
+          },
+          {
+            "en": "85",
+            "bn": "85"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth (Bi) has atomic number 83.",
+          "bn": "বিসমাথ (Bi) এর পারমাণবিক সংখ্যা 83।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which symbol represents Bismuth?",
+          "bn": "কোন প্রতীক বিসমাথ কে নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "Bi",
+            "bn": "Bi"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The chemical symbol for Bismuth is Bi.",
+          "bn": "বিসমাথ এর রাসায়নিক প্রতীক Bi।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Bismuth belong to?",
+          "bn": "বিসমাথ কোন শ্রেণীর অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          },
+          {
+            "en": "Post-transition metal",
+            "bn": "পরবর্তী-অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth is classified as a Post-transition metal.",
+          "bn": "বিসমাথ পরবর্তী-অবস্থান্তর ধাতু হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Bismuth located?",
+          "bn": "পর্যায় সারণির কোন পর্যায়ে বিসমাথ অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth is in period 6.",
+          "bn": "বিসমাথ 6 নং পর্যায়ে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which group does Bismuth belong?",
+          "bn": "বিসমাথ কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "14",
+            "bn": "14"
+          },
+          {
+            "en": "15",
+            "bn": "15"
+          },
+          {
+            "en": "16",
+            "bn": "16"
+          },
+          {
+            "en": "17",
+            "bn": "17"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth is in group 15.",
+          "bn": "বিসমাথ 15 নং গ্রুপে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Bismuth?",
+          "bn": "বিসমাথ এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "199.0",
+            "bn": "199.0"
+          },
+          {
+            "en": "208.98",
+            "bn": "208.98"
+          },
+          {
+            "en": "219.0",
+            "bn": "219.0"
+          },
+          {
+            "en": "229.0",
+            "bn": "229.0"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The standard atomic mass of Bismuth is approximately 208.98.",
+          "bn": "বিসমাথ এর প্রমাণ পারমাণবিক ভর প্রায় 208.98।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Bismuth?",
+          "bn": "বিসমাথ এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Kr] 5s¹",
+            "bn": "[Kr] 5s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The ground state electron configuration of Bismuth is [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³.",
+          "bn": "বিসমাথ এর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary phase of Bismuth at standard conditions?",
+          "bn": "আদর্শ অবস্থায় বিসমাথ এর প্রাথমিক দশা কী?"
+        },
+        "options": [
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          },
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Bose-Einstein condensate",
+            "bn": "বোস-আইনস্টাইন কনডেনসেট"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Bismuth exists as a Solid at STP.",
+          "bn": "বিসমাথ STP-তে কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Bismuth?",
+          "bn": "বিসমাথ এর সবচেয়ে সাধারণ জারণ অবস্থা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-3",
+            "bn": "-3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The most stable oxidation state of Bismuth is +3.",
+          "bn": "বিসমাথ এর সবচেয়ে স্থিতিশীল জারণ অবস্থা +3।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity of Bismuth on the Pauling scale?",
+          "bn": "পলিং স্কেলে বিসমাথ এর তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.02",
+            "bn": "1.02"
+          },
+          {
+            "en": "2.02",
+            "bn": "2.02"
+          },
+          {
+            "en": "3.02",
+            "bn": "3.02"
+          },
+          {
+            "en": "4.02",
+            "bn": "4.02"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Pauling electronegativity of Bismuth is approximately 2.02.",
+          "bn": "বিসমাথ এর পলিং তড়িৎঋণাত্মকতা প্রায় 2.02।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Bismuth contain?",
+          "bn": "বিসমাথ এর একটি পরমাণুতে কতগুলি প্রোটন থাকে?"
+        },
+        "options": [
+          {
+            "en": "83",
+            "bn": "83"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "78",
+            "bn": "78"
+          },
+          {
+            "en": "166",
+            "bn": "166"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By definition, Bismuth has 83 protons (its atomic number).",
+          "bn": "সংজ্ঞা অনুসারে, বিসমাথ এর 83 টি প্রোটন রয়েছে (এর পারমাণবিক সংখ্যা)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which block of the periodic table contains Bismuth?",
+          "bn": "পর্যায় সারণির কোন ব্লক বিসমাথ ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-ব্লক"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-ব্লক"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-ব্লক"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-ব্লক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth occupies the p-block.",
+          "bn": "বিসমাথ p-ব্লক দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate first ionization energy of Bismuth in kJ/mol?",
+          "bn": "বিসমাথ এর আনুমানিক প্রথম আয়নীকরণ শক্তি kJ/mol এ কত?"
+        },
+        "options": [
+          {
+            "en": "503",
+            "bn": "503"
+          },
+          {
+            "en": "703",
+            "bn": "703"
+          },
+          {
+            "en": "903",
+            "bn": "903"
+          },
+          {
+            "en": "1203",
+            "bn": "1203"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The first ionization energy of Bismuth is about 703 kJ/mol.",
+          "bn": "বিসমাথ এর প্রথম আয়নীকরণ শক্তি প্রায় 703 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many electron shells does a neutral Bismuth atom have?",
+          "bn": "একটি নিরপেক্ষ বিসমাথ পরমাণুর কতটি ইলেকট্রন শেল রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth has 6 electron shells.",
+          "bn": "বিসমাথ এর 6 টি ইলেকট্রন শেল রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Bismuth naturally radioactive?",
+          "bn": "বিসমাথ কি প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "Yes",
+            "bn": "হ্যাঁ"
+          },
+          {
+            "en": "No",
+            "bn": "না"
+          },
+          {
+            "en": "Only in compounds",
+            "bn": "শুধু যৌগে"
+          },
+          {
+            "en": "Only at high temperatures",
+            "bn": "শুধু উচ্চ তাপমাত্রায়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth is not naturally radioactive.",
+          "bn": "বিসমাথ প্রাকৃতিকভাবে তেজস্ক্রিয় নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the melting point of Bismuth in Kelvin?",
+          "bn": "বিসমাথ এর গলনাঙ্ক কেলভিনে কত?"
+        },
+        "options": [
+          {
+            "en": "344",
+            "bn": "344"
+          },
+          {
+            "en": "544",
+            "bn": "544"
+          },
+          {
+            "en": "1044",
+            "bn": "1044"
+          },
+          {
+            "en": "2000",
+            "bn": "2000"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The melting point of Bismuth is approximately 544.7 K.",
+          "bn": "বিসমাথ এর গলনাঙ্ক প্রায় 544.7 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the crystal structure of solid Bismuth?",
+          "bn": "কঠিন বিসমাথ এর স্ফটিক গঠন কী?"
+        },
+        "options": [
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টার্ড কিউবিক"
+          },
+          {
+            "en": "Rhombohedral",
+            "bn": "রম্বোহেড্রাল"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth crystallizes in a Rhombohedral structure.",
+          "bn": "বিসমাথ রম্বোহেড্রাল গঠনে স্ফটিকীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with discovering Bismuth?",
+          "bn": "বিসমাথ আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Claude François Geoffroy",
+            "bn": "ক্লদ ফ্রঁসোয়া জিওফ্রয়"
+          },
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Antoine Lavoisier",
+            "bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth was discovered by Claude François Geoffroy.",
+          "bn": "বিসমাথ ক্লদ ফ্রঁসোয়া জিওফ্রয় দ্বারা আবিষ্কৃত হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the magnetic ordering of Bismuth?",
+          "bn": "বিসমাথ এর চৌম্বকীয় ক্রম কী?"
+        },
+        "options": [
+          {
+            "en": "Ferromagnetic",
+            "bn": "ফেরোম্যাগনেটিক"
+          },
+          {
+            "en": "Paramagnetic",
+            "bn": "প্যারাম্যাগনেটিক"
+          },
+          {
+            "en": "Diamagnetic (strongest of any metal)",
+            "bn": "ডায়াম্যাগনেটিক (যেকোনো ধাতুর মধ্যে সবচেয়ে শক্তিশালী)"
+          },
+          {
+            "en": "Antiferromagnetic",
+            "bn": "অ্যান্টিফেরোম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Bismuth exhibits Diamagnetic (strongest of any metal) behavior.",
+          "bn": "বিসমাথ ডায়াম্যাগনেটিক (যেকোনো ধাতুর মধ্যে সবচেয়ে শক্তিশালী) আচরণ প্রদর্শন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Bismuth first discovered or isolated?",
+          "bn": "বিসমাথ প্রথম কোন বছর আবিষ্কৃত বা আলাদা করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1703",
+            "bn": "1703"
+          },
+          {
+            "en": "1753",
+            "bn": "1753"
+          },
+          {
+            "en": "1803",
+            "bn": "1803"
+          },
+          {
+            "en": "1853",
+            "bn": "1853"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Bismuth was first identified in 1753.",
+          "bn": "বিসমাথ প্রথম 1753 সালে চিহ্নিত হয়েছিল।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Bismuth is highly radioactive and dangerous like other heavy metals.",
+        "bn": "অন্যান্য ভারী ধাতুর মতো বিসমাথ অত্যন্ত তেজস্ক্রিয় এবং বিপজ্জনক।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Bismuth crystals' rainbow colors come from thin-film interference, not the metal itself.",
+        "bn": "বিসমাথ স্ফটিকের রংধনু রং পাতলা-ফিল্ম ব্যতিচার থেকে আসে, ধাতু থেকে নয়।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4Bi + 3O₂ → 2Bi₂O₃",
+        "description": {
+          "en": "Combustion of bismuth in oxygen producing bismuth(III) oxide.",
+          "bn": "অক্সিজেনে বিসমাথের দহনে বিসমাথ(III) অক্সাইড উৎপাদন।"
+        }
+      },
+      {
+        "equation": "2Bi + 3Cl₂ → 2BiCl₃",
+        "description": {
+          "en": "Direct combination with chlorine forming bismuth(III) chloride.",
+          "bn": "ক্লোরিনের সাথে সরাসরি সংমিশ্রণে বিসমাথ(III) ক্লোরাইড গঠন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Bi → Bi³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation to bismuth(III), the most common oxidation state.",
+          "bn": "বিসমাথ(III) তে জারণ, সবচেয়ে সাধারণ জারণ অবস্থা।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Bi₂O₃ + 3H₂ → 2Bi + 3H₂O",
+        "description": {
+          "en": "Reduction of bismuth oxide by hydrogen to recover the pure metal.",
+          "bn": "বিশুদ্ধ ধাতু পুনরুদ্ধার করতে হাইড্রোজেন দ্বারা বিসমাথ অক্সাইডের বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent-Ionic Hybrid",
+          "bn": "সমযোজী-আয়নিক হাইব্রিড"
+        },
+        "molecule": "Bi₂Te₃",
+        "description": {
+          "en": "Bismuth and tellurium share electrons in layered structure enabling thermoelectric properties.",
+          "bn": "বিসমাথ এবং টেলুরিয়াম স্তরযুক্ত গঠনে ইলেকট্রন ভাগ করে থার্মোইলেকট্রিক বৈশিষ্ট্য সক্ষম করে।"
+        }
+      }
+    ]
+  }
+}

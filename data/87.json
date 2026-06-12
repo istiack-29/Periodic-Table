@@ -1,0 +1,1001 @@
+{
+  "elementId": 87,
+  "basicInformation": {
+    "atomicNumber": 87,
+    "symbol": "Fr",
+    "name": {
+      "en": "Francium",
+      "bn": "ফ্র্যান্সিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈfrænsiəm/",
+      "bn": "ফ্র্যান্-সি-আম"
+    },
+    "atomicMass": 223.0,
+    "category": {
+      "en": "Alkali metal",
+      "bn": "ক্ষারীয় ধাতু"
+    },
+    "group": 1,
+    "period": 7,
+    "block": "s",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Metallic (presumed)",
+      "bn": "ধাতব (অনুমিত)"
+    },
+    "color": {
+      "en": "Silvery (presumed)",
+      "bn": "রূপালী (অনুমিত)"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "From decay",
+      "bn": "ক্ষয় থেকে"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Marguerite Perey",
+      "bn": "মার্গারিট পেরে"
+    },
+    "discoveryYear": 1939,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Discovered by Marguerite Perey at the Curie Institute as a decay product of actinium-227. It was the last element to be discovered in nature rather than by synthesis.",
+      "bn": "মার্গারিট পেরে কুরি ইনস্টিটিউটে অ্যাক্টিনিয়াম-২২৭-এর ক্ষয়জাত পণ্য হিসেবে আবিষ্কার করেন। এটিই সর্বশেষ উপাদান যা প্রকৃতিতে আবিষ্কৃত হয়েছিল।"
+    },
+    "historicalUses": {
+      "en": "Has had no commercial uses due to extreme rarity and short half-life; used only in research.",
+      "bn": "অত্যন্ত বিরলতা ও স্বল্প অর্ধজীবনের কারণে কোনো বাণিজ্যিক ব্যবহার নেই; শুধুমাত্র গবেষণায় ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Magneto-optical trapping of francium atoms at Stony Brook to test atomic parity violation.",
+      "bn": "পারমাণবিক প্যারিটি লঙ্ঘন পরীক্ষার জন্য স্টোনি ব্রুকে ফ্র্যান্সিয়াম পরমাণুর ম্যাগনেটো-অপটিক্যাল ফাঁদে আটকানো।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 87,
+    "neutrons": 136,
+    "electrons": 87,
+    "valenceElectrons": 1,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      18,
+      8,
+      1
+    ],
+    "electronConfiguration": "[Rn] 7s¹",
+    "orbitalConfiguration": {
+      "7s": 1
+    },
+    "oxidationStates": [
+      1
+    ],
+    "quantumNumbers": {
+      "principal": 7,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 2.48,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 300,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 950,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 348,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 260,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 348,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 15,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 3000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.14,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Body-centered cubic (predicted)",
+      "bn": "দেহকেন্দ্রিক ঘনক (পূর্বাভাসিত)"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 0.7,
+    "ionizationEnergy": {
+      "value": 380,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 46.9,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Most reactive alkali metal; reacts explosively with water and air.",
+      "bn": "সর্বাধিক প্রতিক্রিয়াশীল ক্ষারীয় ধাতু; জল ও বাতাসের সাথে বিস্ফোরকভাবে বিক্রিয়া করে।"
+    },
+    "commonCompounds": [
+      "FrCl",
+      "FrOH",
+      "Fr₂O",
+      "FrF",
+      "Fr₂CO₃"
+    ],
+    "flameTestColor": {
+      "en": "Not observed (presumed red)",
+      "bn": "পর্যবেক্ষিত নয় (অনুমিত লাল)"
+    },
+    "spectralLines": [
+      "718nm (predicted)"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "No industrial use due to extreme scarcity (less than 30g exists on Earth at any time).",
+      "bn": "চরম স্বল্পতার কারণে কোনো শিল্প ব্যবহার নেই (পৃথিবীতে যেকোনো সময়ে ৩০ গ্রামেরও কম থাকে)।"
+    },
+    "commercialUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "electronicsUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "nuclearUses": {
+      "en": "Studied for testing fundamental symmetries due to heavy nucleus and simple atomic structure.",
+      "bn": "ভারী নিউক্লিয়াস ও সরল পারমাণবিক গঠনের কারণে মৌলিক প্রতিসাম্য পরীক্ষায় অধ্যয়ন করা হয়।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "medicalUses": {
+      "en": "Historically investigated for cancer diagnostics; abandoned due to short half-life.",
+      "bn": "ক্যান্সার নির্ণয়ের জন্য ঐতিহাসিকভাবে অনুসন্ধান করা হয়েছিল; স্বল্প অর্ধজীবনের কারণে পরিত্যক্ত।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "কোনো নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No biological role; highly radioactive and rare.",
+      "bn": "কোনো জৈবিক ভূমিকা নেই; অত্যন্ত তেজস্ক্রিয় ও বিরল।"
+    },
+    "humanBodyRole": {
+      "en": "None; would be radiotoxic if introduced.",
+      "bn": "কোনো নেই; প্রবেশ করালে তেজস্ক্রিয় বিষাক্ত হবে।"
+    },
+    "toxicity": {
+      "en": "Extremely radiotoxic. Decays rapidly emitting alpha and beta particles.",
+      "bn": "অত্যন্ত তেজস্ক্রিয় বিষাক্ত। দ্রুত ক্ষয় হয়ে আলফা ও বিটা কণা নির্গত করে।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible environmental presence due to ultra-short half-life (22 minutes for Fr-223).",
+      "bn": "অতি-স্বল্প অর্ধজীবনের (Fr-223 এর জন্য ২২ মিনিট) কারণে পরিবেশে নগণ্য উপস্থিতি।"
+    },
+    "pollutionRisks": {
+      "en": "Effectively none due to immediate decay.",
+      "bn": "তাৎক্ষণিক ক্ষয়ের কারণে কার্যত নেই।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; cannot be stockpiled.",
+      "bn": "প্রযোজ্য নয়; মজুত করা যায় না।"
+    },
+    "sustainabilityScore": 1.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "None (synthesized in labs)",
+        "bn": "নেই (গবেষণাগারে সংশ্লেষিত)"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced by bombarding gold-197 with oxygen-18 ions in cyclotrons.",
+      "bn": "সাইক্লোট্রনে গোল্ড-১৯৭-কে অক্সিজেন-১৮ আয়ন দ্বারা আঘাত করে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "সামান্য"
+      },
+      "earthCrust": {
+        "en": "~1×10⁻¹⁸ %",
+        "bn": "~১×১০⁻¹⁸ %"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Not commercially traded; estimated billions of dollars per gram if synthesized.",
+      "bn": "বাণিজ্যিকভাবে বিক্রি হয় না; সংশ্লেষিত হলে গ্রাম প্রতি বিলিয়ন ডলার অনুমিত।"
+    },
+    "futureDemand": {
+      "en": "Continued use in fundamental physics research; no industrial demand expected.",
+      "bn": "মৌলিক পদার্থবিজ্ঞান গবেষণায় ব্যবহার অব্যাহত; কোনো শিল্প চাহিদা প্রত্যাশিত নয়।"
+    },
+    "globalImportance": {
+      "en": "Important for atomic parity violation experiments testing the Standard Model.",
+      "bn": "স্ট্যান্ডার্ড মডেল পরীক্ষাকারী পারমাণবিক প্যারিটি লঙ্ঘন পরীক্ষায় গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly radioactive; emits ionizing radiation. Extreme chemical reactivity with moisture.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়; আয়নাইজিং বিকিরণ নির্গত করে। আর্দ্রতার সাথে চরম রাসায়নিক প্রতিক্রিয়াশীলতা।"
+    },
+    "storageRequirements": {
+      "en": "Stored only momentarily in magneto-optical traps under ultra-high vacuum.",
+      "bn": "অতি-উচ্চ ভ্যাকুয়ামে ম্যাগনেটো-অপটিক্যাল ট্র্যাপে শুধুমাত্র ক্ষণিকের জন্য সংরক্ষণ।"
+    },
+    "handlingProcedures": {
+      "en": "Remote handling with full radiation shielding and inert atmosphere required.",
+      "bn": "সম্পূর্ণ বিকিরণ ঢাল ও নিষ্ক্রিয় বায়ুমণ্ডলসহ দূরবর্তী হ্যান্ডলিং প্রয়োজন।"
+    },
+    "exposureRisks": {
+      "en": "Severe radiation poisoning risk; never encountered outside specialized labs.",
+      "bn": "মারাত্মক বিকিরণ বিষক্রিয়ার ঝুঁকি; বিশেষায়িত গবেষণাগারের বাইরে কখনো সম্মুখীন হয় না।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Risk (Radioactive)",
+      "bn": "চরম ঝুঁকি (তেজস্ক্রিয়)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Radioactive Material",
+        "bn": "তেজস্ক্রিয় পদার্থ"
+      },
+      {
+        "en": "Highly Reactive",
+        "bn": "অত্যন্ত প্রতিক্রিয়াশীল"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Francium is the rarest naturally occurring metal. Only a few atoms exist at any moment.",
+      "bn": "ফ্র্যান্সিয়াম প্রাকৃতিকভাবে পাওয়া বিরলতম ধাতু। যেকোনো মুহূর্তে মাত্র কয়েকটি পরমাণু থাকে।"
+    },
+    "advancedExplanation": {
+      "en": "A highly unstable alkali metal with extreme electropositivity. Its longest-lived isotope, Fr-223, has a half-life of only 22 minutes, making bulk study impossible.",
+      "bn": "চরম তড়িৎ-ধনাত্মকতাসহ একটি অত্যন্ত অস্থিতিশীল ক্ষারীয় ধাতু। এর দীর্ঘতম-জীবিত আইসোটোপ, Fr-223, এর অর্ধজীবন মাত্র ২২ মিনিট।"
+    },
+    "funFacts": [
+      {
+        "en": "At any moment, less than 30 grams of francium exists in Earth's entire crust.",
+        "bn": "যেকোনো মুহূর্তে পৃথিবীর সমগ্র ভূত্বকে ৩০ গ্রামেরও কম ফ্র্যান্সিয়াম থাকে।"
+      },
+      {
+        "en": "Named after France, the homeland of its discoverer Marguerite Perey.",
+        "bn": "এর আবিষ্কারক মার্গারিট পেরের জন্মভূমি ফ্রান্সের নামে নামকরণ করা হয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 55,
+        "relation": {
+          "en": "Like Cesium, Francium is a Group 1 alkali metal, but Francium is even more reactive and intensely radioactive.",
+          "bn": "সিজিয়ামের মতো, ফ্র্যান্সিয়াম গ্রুপ ১ ক্ষারীয় ধাতু, তবে ফ্র্যান্সিয়াম আরও বেশি প্রতিক্রিয়াশীল ও তীব্রভাবে তেজস্ক্রিয়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      55,
+      88,
+      89,
+      86
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "85",
+            "bn": "85"
+          },
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium has atomic number 87, meaning 87 protons in its nucleus.",
+          "bn": "ফ্র্যান্সিয়াম এর পারমাণবিক সংখ্যা 87, অর্থাৎ নিউক্লিয়াসে 87টি প্রোটন রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Fr",
+            "bn": "Fr"
+          },
+          {
+            "en": "rF",
+            "bn": "rF"
+          },
+          {
+            "en": "XF",
+            "bn": "XF"
+          },
+          {
+            "en": "Ff",
+            "bn": "Ff"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The official IUPAC symbol for Francium is Fr.",
+          "bn": "ফ্র্যান্সিয়াম এর অফিসিয়াল IUPAC প্রতীক হলো Fr।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which block of the periodic table does Francium belong?",
+          "bn": "ফ্র্যান্সিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "s-block",
+            "bn": "s-block"
+          },
+          {
+            "en": "p-block",
+            "bn": "p-block"
+          },
+          {
+            "en": "d-block",
+            "bn": "d-block"
+          },
+          {
+            "en": "f-block",
+            "bn": "f-block"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Francium is an actinide with valence electrons in the 5f orbital, placing it in the f-block.",
+          "bn": "ফ্র্যান্সিয়াম একটি অ্যাক্টিনাইড যার 5f অরবিটালে যোজ্যতা ইলেকট্রন রয়েছে, এটি f-ব্লকে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 7s¹",
+            "bn": "[Rn] 7s¹"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s²"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s²",
+            "bn": "[Ar] 3d¹⁰ 4s²"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground-state electron configuration of Francium is [Rn] 7s¹.",
+          "bn": "ফ্র্যান্সিয়াম এর গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন হলো [Rn] 7s¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Francium discovered or first synthesized?",
+          "bn": "কোন বছরে ফ্র্যান্সিয়াম আবিষ্কৃত বা প্রথম সংশ্লেষণ করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "1929",
+            "bn": "1929"
+          },
+          {
+            "en": "1934",
+            "bn": "1934"
+          },
+          {
+            "en": "1939",
+            "bn": "1939"
+          },
+          {
+            "en": "1949",
+            "bn": "1949"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium was discovered in 1939 by Marguerite Perey.",
+          "bn": "ফ্র্যান্সিয়াম 1939 সালে মার্গারিট পেরে আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+1"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "+4",
+            "bn": "+4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The dominant oxidation state for most actinides including Francium is +3, though Fr can show others.",
+          "bn": "ফ্র্যান্সিয়াম সহ বেশিরভাগ অ্যাক্টিনাইডের প্রভাবশালী জারণ অবস্থা +৩, যদিও Fr অন্যান্য দেখাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which period of the periodic table does Francium belong?",
+          "bn": "ফ্র্যান্সিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Period 5",
+            "bn": "Period 5"
+          },
+          {
+            "en": "Period 6",
+            "bn": "Period 6"
+          },
+          {
+            "en": "Period 7",
+            "bn": "Period 7"
+          },
+          {
+            "en": "Period 8",
+            "bn": "Period 8"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium is in Period 7, the row containing the actinides.",
+          "bn": "ফ্র্যান্সিয়াম পর্যায় ৭-এ রয়েছে, যে সারিতে অ্যাক্টিনাইডগুলো থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate atomic mass of Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর আনুমানিক পারমাণবিক ভর কত?"
+        },
+        "options": [
+          {
+            "en": "213",
+            "bn": "213"
+          },
+          {
+            "en": "218",
+            "bn": "218"
+          },
+          {
+            "en": "223",
+            "bn": "223"
+          },
+          {
+            "en": "243",
+            "bn": "243"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The most stable or commonly studied isotope of Francium has mass number around 223.",
+          "bn": "ফ্র্যান্সিয়াম এর সবচেয়ে স্থিতিশীল বা সাধারণভাবে অধ্যয়নকৃত আইসোটোপের ভর সংখ্যা প্রায় 223।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is Francium radioactive?",
+          "bn": "ফ্র্যান্সিয়াম কি তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "No",
+            "bn": "No"
+          },
+          {
+            "en": "Yes",
+            "bn": "Yes"
+          },
+          {
+            "en": "Only some isotopes",
+            "bn": "Only some isotopes"
+          },
+          {
+            "en": "Unknown",
+            "bn": "Unknown"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "All known isotopes of Francium are radioactive — none are stable.",
+          "bn": "ফ্র্যান্সিয়াম এর সমস্ত পরিচিত আইসোটোপ তেজস্ক্রিয় — কোনোটি স্থিতিশীল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Francium have?",
+          "bn": "ফ্র্যান্সিয়াম এর কতটি যোজ্যতা ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "0",
+            "bn": "0"
+          },
+          {
+            "en": "1",
+            "bn": "1"
+          },
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Francium has 1 valence electrons available for chemical bonding.",
+          "bn": "ফ্র্যান্সিয়াম এর রাসায়নিক বন্ধনের জন্য 1টি যোজ্যতা ইলেকট্রন উপলব্ধ রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What category does Francium belong to?",
+          "bn": "ফ্র্যান্সিয়াম কোন বিভাগের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "Noble gas"
+          },
+          {
+            "en": "Alkali metal",
+            "bn": "Alkali metal"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "Transition metal"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium is classified as a alkali metal.",
+          "bn": "ফ্র্যান্সিয়াম একটি ক্ষারীয় ধাতু হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Francium?",
+          "bn": "ফ্র্যান্সিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Marie Curie",
+            "bn": "Marie Curie"
+          },
+          {
+            "en": "Niels Bohr",
+            "bn": "Niels Bohr"
+          },
+          {
+            "en": "Marguerite Perey",
+            "bn": "Marguerite Perey"
+          },
+          {
+            "en": "Ernest Rutherford",
+            "bn": "Ernest Rutherford"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium was discovered by Marguerite Perey.",
+          "bn": "ফ্র্যান্সিয়াম মার্গারিট পেরে আবিষ্কার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many protons does an atom of Francium have?",
+          "bn": "ফ্র্যান্সিয়াম এর একটি পরমাণুর কতটি প্রোটন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "86",
+            "bn": "86"
+          },
+          {
+            "en": "87",
+            "bn": "87"
+          },
+          {
+            "en": "88",
+            "bn": "88"
+          },
+          {
+            "en": "89",
+            "bn": "89"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The atomic number equals the proton count: 87 protons for Francium.",
+          "bn": "পারমাণবিক সংখ্যা প্রোটন সংখ্যার সমান: ফ্র্যান্সিয়াম এর জন্য 87টি প্রোটন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Francium in at standard temperature and pressure?",
+          "bn": "আদর্শ তাপমাত্রা ও চাপে ফ্র্যান্সিয়াম কোন অবস্থায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Gas",
+            "bn": "Gas"
+          },
+          {
+            "en": "Liquid",
+            "bn": "Liquid"
+          },
+          {
+            "en": "Solid",
+            "bn": "Solid"
+          },
+          {
+            "en": "Plasma",
+            "bn": "Plasma"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "At STP, Francium exists as a solid.",
+          "bn": "STP-তে, ফ্র্যান্সিয়াম একটি কঠিন হিসেবে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electronegativity (Pauling) of Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর তড়িৎঋণাত্মকতা (পলিং) কত?"
+        },
+        "options": [
+          {
+            "en": "0.5",
+            "bn": "0.5"
+          },
+          {
+            "en": "1.0",
+            "bn": "1.0"
+          },
+          {
+            "en": "0.7",
+            "bn": "0.7"
+          },
+          {
+            "en": "2.5",
+            "bn": "2.5"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium has a Pauling electronegativity of approximately 0.7.",
+          "bn": "ফ্র্যান্সিয়াম এর পলিং তড়িৎঋণাত্মকতা প্রায় 0.7।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Francium produced in limited quantities?",
+          "bn": "কেন ফ্র্যান্সিয়াম সীমিত পরিমাণে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "It is too cheap",
+            "bn": "It is too cheap"
+          },
+          {
+            "en": "It is highly radioactive and rare",
+            "bn": "It is highly radioactive and rare"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "It is a noble gas"
+          },
+          {
+            "en": "It is too abundant",
+            "bn": "It is too abundant"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Francium's extreme radioactivity and synthetic nature limit production to research scales.",
+          "bn": "ফ্র্যান্সিয়াম এর চরম তেজস্ক্রিয়তা ও কৃত্রিম প্রকৃতি উৎপাদনকে গবেষণা স্কেলে সীমাবদ্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What primary safety hazard is associated with Francium?",
+          "bn": "ফ্র্যান্সিয়াম এর সাথে কোন প্রাথমিক নিরাপত্তা ঝুঁকি জড়িত?"
+        },
+        "options": [
+          {
+            "en": "Sweet taste",
+            "bn": "Sweet taste"
+          },
+          {
+            "en": "Ionizing radiation",
+            "bn": "Ionizing radiation"
+          },
+          {
+            "en": "Pleasant odor",
+            "bn": "Pleasant odor"
+          },
+          {
+            "en": "Cooling effect",
+            "bn": "Cooling effect"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The primary hazard is ionizing radiation from its radioactive decay.",
+          "bn": "প্রাথমিক ঝুঁকি হলো এর তেজস্ক্রিয় ক্ষয় থেকে আয়নাইজিং বিকিরণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table is Francium placed?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে ফ্র্যান্সিয়াম স্থাপন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 2",
+            "bn": "Group 2"
+          },
+          {
+            "en": "Group 1",
+            "bn": "Group 1"
+          },
+          {
+            "en": "Group 18",
+            "bn": "Group 18"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium sits in Group 1 of the periodic table.",
+          "bn": "ফ্র্যান্সিয়াম পর্যায় সারণির গ্রুপ 1-এ অবস্থান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is Francium typically obtained?",
+          "bn": "ফ্র্যান্সিয়াম সাধারণত কীভাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Mined from ore",
+            "bn": "Mined from ore"
+          },
+          {
+            "en": "Synthesized in nuclear reactors or accelerators",
+            "bn": "Synthesized in nuclear reactors or accelerators"
+          },
+          {
+            "en": "Extracted from seawater",
+            "bn": "Extracted from seawater"
+          },
+          {
+            "en": "Found in air",
+            "bn": "Found in air"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Francium is primarily obtained through nuclear synthesis methods.",
+          "bn": "ফ্র্যান্সিয়াম প্রাথমিকভাবে পারমাণবিক সংশ্লেষণ পদ্ধতির মাধ্যমে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientific or industrial use is most associated with Francium?",
+          "bn": "কোন বৈজ্ঞানিক বা শিল্প ব্যবহার ফ্র্যান্সিয়াম এর সাথে সবচেয়ে বেশি যুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Cooking",
+            "bn": "Cooking"
+          },
+          {
+            "en": "Construction",
+            "bn": "Construction"
+          },
+          {
+            "en": "Nuclear and research applications",
+            "bn": "Nuclear and research applications"
+          },
+          {
+            "en": "Agricultural fertilizer",
+            "bn": "Agricultural fertilizer"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Francium is primarily used in nuclear research and specialized scientific applications.",
+          "bn": "ফ্র্যান্সিয়াম প্রাথমিকভাবে পারমাণবিক গবেষণা ও বিশেষায়িত বৈজ্ঞানিক প্রয়োগে ব্যবহৃত হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Francium explodes in water like in cartoons — actually no one has ever observed enough francium to test this directly.",
+        "bn": "কার্টুনের মতো ফ্র্যান্সিয়াম জলে বিস্ফোরিত হয় — আসলে কেউ কখনো এটি সরাসরি পরীক্ষা করার মতো যথেষ্ট ফ্র্যান্সিয়াম দেখেনি।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Francium sits below Cesium in Group 1 — it follows the trend of increasing reactivity down the alkali metals.",
+        "bn": "ফ্র্যান্সিয়াম গ্রুপ ১-এ সিজিয়ামের নিচে অবস্থিত — এটি ক্ষারীয় ধাতুগুলোর নিচে যাওয়ার সাথে বর্ধমান প্রতিক্রিয়াশীলতার প্রবণতা অনুসরণ করে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "2Fr + 2H₂O → 2FrOH + H₂",
+        "description": {
+          "en": "Violent reaction with water producing francium hydroxide and hydrogen gas.",
+          "bn": "জলের সাথে প্রবল বিক্রিয়ায় ফ্র্যান্সিয়াম হাইড্রক্সাইড ও হাইড্রোজেন গ্যাস উৎপন্ন।"
+        }
+      },
+      {
+        "equation": "4Fr + O₂ → 2Fr₂O",
+        "description": {
+          "en": "Rapid oxidation in air forming francium oxide.",
+          "bn": "বাতাসে দ্রুত জারণে ফ্র্যান্সিয়াম অক্সাইড গঠন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Fr → Fr⁺ + e⁻",
+        "description": {
+          "en": "Loses single 7s electron to form Fr⁺ cation.",
+          "bn": "একক 7s ইলেকট্রন হারিয়ে Fr⁺ ক্যাটায়ন গঠন করে।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Fr⁺ + e⁻ → Fr",
+        "description": {
+          "en": "Reduction of francium cation back to metal (requires extreme conditions).",
+          "bn": "ফ্র্যান্সিয়াম ক্যাটায়নের ধাতুতে বিজারণ (চরম পরিস্থিতি প্রয়োজন)।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "FrCl",
+        "description": {
+          "en": "Francium donates its lone valence electron to chlorine to form a highly ionic salt.",
+          "bn": "ফ্র্যান্সিয়াম তার একমাত্র যোজ্যতা ইলেকট্রন ক্লোরিনকে দান করে একটি উচ্চ আয়নিক লবণ গঠন করে।"
+        }
+      }
+    ]
+  }
+}
