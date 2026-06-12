@@ -1,0 +1,1018 @@
+{
+  "elementId": 63,
+  "basicInformation": {
+    "atomicNumber": 63,
+    "symbol": "Eu",
+    "name": {
+      "en": "Europium",
+      "bn": "ইউরোপিয়াম"
+    },
+    "pronunciation": {
+      "en": "/jʊˈroʊpiəm/",
+      "bn": "ইউ-রো-পি-আম"
+    },
+    "atomicMass": 151.964,
+    "category": {
+      "en": "Lanthanide",
+      "bn": "ল্যান্থানাইড"
+    },
+    "group": 3,
+    "period": 6,
+    "block": "f",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery white, tarnishes in air",
+      "bn": "রূপালি সাদা, বাতাসে মলিন"
+    },
+    "color": {
+      "en": "Silvery",
+      "bn": "রূপালি"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Eugène-Anatole Demarçay",
+      "bn": "ইউজিন-আনাতোল দেমার্সে"
+    },
+    "discoveryYear": 1901,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Most reactive lanthanide. Named after the continent of Europe. Forms +2 ions, unusual for lanthanides.",
+      "bn": "সবচেয়ে প্রতিক্রিয়াশীল ল্যান্থানাইড। ইউরোপ মহাদেশের নামে নামকরণ। +২ আয়ন গঠন করে যা ল্যান্থানাইডের জন্য অস্বাভাবিক।"
+    },
+    "historicalUses": {
+      "en": "Early uses of Europium included specialized scientific and industrial applications tied to its unique chemistry.",
+      "bn": "ইউরোপিয়াম এর প্রাথমিক ব্যবহার এর অনন্য রসায়নের সাথে সম্পর্কিত বিশেষ বৈজ্ঞানিক এবং শিল্প প্রয়োগে অন্তর্ভুক্ত ছিল।"
+    },
+    "famousExperiments": {
+      "en": "Classical isolation experiments separated Europium from its mineral or ore matrix using reduction or electrolysis.",
+      "bn": "ক্লাসিক্যাল বিচ্ছিন্নকরণ পরীক্ষাগুলি ইউরোপিয়ামকে এর খনিজ বা আকরিক ম্যাট্রিক্স থেকে বিজারণ বা তড়িৎ বিশ্লেষণ ব্যবহার করে পৃথক করেছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 63,
+    "neutrons": 89,
+    "electrons": 63,
+    "valenceElectrons": 10,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      25,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Xe] 4f⁷ 6s²",
+    "orbitalConfiguration": {
+      "valence_summary": "4f⁷ 6s²"
+    },
+    "oxidationStates": [
+      3,
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 3,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 5.264,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1099,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1802,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 231,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 198,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": null,
+    "thermalConductivity": {
+      "value": 51.5,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 1630000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.193,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Hexagonal",
+      "bn": "ষড়ভুজাকার ঘন-প্যাক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.2,
+    "ionizationEnergy": {
+      "value": 547.1,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 11.2,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reacts vigorously with water; low toxicity.",
+      "bn": "পানির সাথে তীব্র বিক্রিয়া করে; নিম্ন বিষাক্ততা।"
+    },
+    "commonCompounds": [
+      "Eu₂O₃",
+      "EuCl₃",
+      "EuF₃",
+      "Eu₂O₃:Y"
+    ],
+    "flameTestColor": {
+      "en": "None distinctive",
+      "bn": "স্বতন্ত্র কোনোটি নেই"
+    },
+    "spectralLines": []
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Red and blue phosphors in OLED/LED displays and euro banknote anti-counterfeit marks.",
+      "bn": "OLED/LED ডিসপ্লে এবং ইউরো নোটের জাল-প্রতিরোধী চিহ্নে লাল এবং নীল ফসফর।"
+    },
+    "commercialUses": {
+      "en": "Europium appears in specialty alloys, catalysts, and high-performance consumer technologies.",
+      "bn": "ইউরোপিয়াম বিশেষ অ্যালয়, অনুঘটক এবং উচ্চ-কর্মক্ষমতার ভোক্তা প্রযুক্তিতে ব্যবহৃত হয়।"
+    },
+    "electronicsUses": {
+      "en": "Used in capacitors, magnets, dopants or contacts depending on its electronic properties.",
+      "bn": "এর ইলেকট্রনিক বৈশিষ্ট্যের উপর নির্ভর করে ক্যাপাসিটর, চুম্বক, ডোপ্যান্ট বা যোগাযোগে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or niche semiconductor relevance.",
+      "bn": "বিশেষ অর্ধপরিবাহী প্রক্রিয়ায় ডোপ্যান্ট, ডাইইলেকট্রিক বা ব্যারিয়ার-স্তর উপাদান হিসেবে কাজ করে।"
+    },
+    "aerospaceUses": {
+      "en": "Limited aerospace footprint, mainly through alloy additives.",
+      "bn": "উচ্চ-তাপমাত্রার সুপারঅ্যালয়, টারবাইন ব্লেড এবং রকেট নজলে গুরুত্বপূর্ণ যেখানে চরম শক্তি প্রয়োজন।"
+    },
+    "batteryUses": {
+      "en": "Limited direct role in batteries.",
+      "bn": "NiMH ব্যাটারি ক্যাথোডে (বিরল মৃত্তিকা) বা বিশেষ সেলে ব্যবহৃত।"
+    },
+    "aiHardwareUses": {
+      "en": "Plays a role in magnets and dielectrics that underpin storage, motors, and high-density chips powering AI compute.",
+      "bn": "AI গণনা চালানো স্টোরেজ, মোটর এবং উচ্চ-ঘনত্বের চিপের ভিত্তি চুম্বক ও ডাইইলেকট্রিকে ভূমিকা পালন করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "Indirect role through alloys and catalysts in clean-energy infrastructure.",
+      "bn": "বায়ু টারবাইন জেনারেটর, EV মোটর এবং গ্রিড-স্কেল শক্তি ব্যবস্থায় অপরিহার্য উপাদান।"
+    },
+    "nanotechnologyUses": {
+      "en": "Nanoparticles and thin films of Europium enable advanced sensing, catalysis, and biomedical platforms.",
+      "bn": "ইউরোপিয়াম এর ন্যানোকণা ও পাতলা ফিল্ম উন্নত সেন্সিং, অনুঘটন ও বায়োমেডিকেল প্ল্যাটফর্ম সক্ষম করে।"
+    },
+    "nuclearUses": {
+      "en": "Limited direct nuclear application.",
+      "bn": "পারমাণবিক চুল্লিতে নিউট্রন শোষক, নিয়ন্ত্রণ উপাদান বা বিকিরণ উৎস হিসেবে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "Specialized defense applications via alloys.",
+      "bn": "বর্ম-ভেদকারী রাউন্ড, সোনার সিস্টেম এবং উচ্চ-শক্তি লেজার উপাদানে পাওয়া যায়।"
+    },
+    "medicalUses": {
+      "en": "Limited direct medical role; mainly through implants or diagnostics.",
+      "bn": "বৈশিষ্ট্যের উপর নির্ভর করে MRI কনট্রাস্ট, সার্জিকাল লেজার, ক্যান্সার থেরাপি বা রেডিওফার্মাসিউটিক্যালসে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "No significant direct role in the food industry.",
+      "bn": "খাদ্য শিল্পে কোনো উল্লেখযোগ্য সরাসরি ভূমিকা নেই।"
+    },
+    "constructionUses": {
+      "en": "Specialty alloy components and corrosion-resistant coatings used in advanced construction.",
+      "bn": "উন্নত নির্মাণে বিশেষ অ্যালয় উপাদান ও ক্ষয়-প্রতিরোধী আবরণ ব্যবহৃত হয়।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known essential biological role in humans.",
+      "bn": "মানুষের মধ্যে কোনো পরিচিত অপরিহার্য জৈবিক ভূমিকা নেই।"
+    },
+    "humanBodyRole": {
+      "en": "Not required by the human body; only trace exposure typical.",
+      "bn": "মানব দেহের প্রয়োজন নেই; সাধারণত শুধুমাত্র ট্রেস এক্সপোজার।"
+    },
+    "toxicity": {
+      "en": "Reacts vigorously with water; low toxicity.",
+      "bn": "পানির সাথে তীব্র বিক্রিয়া করে; নিম্ন বিষাক্ততা।"
+    },
+    "environmentalImpact": {
+      "en": "Mining and refining Europium can release tailings and rare-earth waste streams requiring careful management.",
+      "bn": "ইউরোপিয়াম খনন ও পরিশোধন টেইলিং ও বিরল-মৃত্তিকা বর্জ্য প্রবাহ মুক্ত করতে পারে যা সতর্ক ব্যবস্থাপনা প্রয়োজন।"
+    },
+    "pollutionRisks": {
+      "en": "Tailings, radioactive byproducts (for rare earths), or heavy-metal leaching are key pollution concerns.",
+      "bn": "টেইলিং, তেজস্ক্রিয় উপজাত (বিরল মৃত্তিকার জন্য) বা ভারী-ধাতু লিচিং প্রধান দূষণ উদ্বেগ।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from e-waste, spent catalysts, magnets, and industrial residues via hydrometallurgy.",
+      "bn": "হাইড্রোমেটালার্জির মাধ্যমে ই-বর্জ্য, ব্যবহৃত অনুঘটক, চুম্বক এবং শিল্প অবশিষ্টাংশ থেকে পুনরুদ্ধার করা হয়।"
+    },
+    "sustainabilityScore": 6.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Australia",
+        "bn": "অস্ট্রেলিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted from monazite, bastnäsite, or platinum-group ores via solvent extraction and ion exchange.",
+      "bn": "মোনাজাইট, বাস্টনাসাইট বা প্ল্যাটিনাম-গ্রুপ আকরিক থেকে দ্রাবক নিষ্কাশন এবং আয়ন বিনিময়ের মাধ্যমে নিষ্কাশিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "ট্রেস"
+      },
+      "earthCrust": {
+        "en": "~0.00037% by mass",
+        "bn": "ভর অনুযায়ী ক্ষুদ্র শতাংশ"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies significantly based on purity and form; rare metals can reach hundreds to thousands of USD per kg.",
+      "bn": "বাজার মূল্য বিশুদ্ধতা ও ফর্মের উপর উল্লেখযোগ্যভাবে নির্ভর করে; বিরল ধাতু প্রতি কেজি শত থেকে হাজার USD পর্যন্ত পৌঁছাতে পারে।"
+    },
+    "futureDemand": {
+      "en": "Demand projected to rise due to clean energy, EVs, and advanced electronics.",
+      "bn": "পরিচ্ছন্ন শক্তি, EV ও উন্নত ইলেকট্রনিক্সের কারণে চাহিদা বৃদ্ধির পূর্বাভাস।"
+    },
+    "globalImportance": {
+      "en": "Europium is considered strategically critical for high-tech manufacturing and energy transition.",
+      "bn": "ইউরোপিয়াম হাই-টেক উৎপাদন ও শক্তি পরিবর্তনের জন্য কৌশলগতভাবে গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Reacts vigorously with water; low toxicity.",
+      "bn": "পানির সাথে তীব্র বিক্রিয়া করে; নিম্ন বিষাক্ততা।"
+    },
+    "storageRequirements": {
+      "en": "Store in dry, inert atmosphere away from incompatible chemicals; reactive metals under mineral oil or argon.",
+      "bn": "শুকনো, নিষ্ক্রিয় বায়ুমণ্ডলে অসামঞ্জস্যপূর্ণ রাসায়নিকের থেকে দূরে সংরক্ষণ করুন; প্রতিক্রিয়াশীল ধাতু খনিজ তেল বা আর্গনের নিচে।"
+    },
+    "handlingProcedures": {
+      "en": "Use PPE, fume hoods, and avoid generating fine dust during machining.",
+      "bn": "PPE, ফিউম হুড ব্যবহার করুন এবং মেশিনিংয়ের সময় সূক্ষ্ম ধুলা তৈরি এড়িয়ে চলুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of dust, fumes, or soluble salts can cause respiratory and systemic effects.",
+      "bn": "ধুলা, ধোঁয়া বা দ্রবণীয় লবণ শ্বাসের ফলে শ্বাসযন্ত্র ও সিস্টেমিক প্রভাব হতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Moderate",
+      "bn": "মাঝারি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Irritant",
+        "bn": "জ্বালাকর"
+      },
+      {
+        "en": "Flammable solid (powder)",
+        "bn": "দাহ্য কঠিন (পাউডার)"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Europium (symbol Eu, atomic number 63) is a lanthanide known for its distinctive position and unique chemistry in the periodic table.",
+      "bn": "ইউরোপিয়াম (প্রতীক Eu, পারমাণবিক সংখ্যা 63) একটি ল্যান্থানাইড যা পর্যায় সারণিতে তার স্বতন্ত্র অবস্থান ও অনন্য রসায়নের জন্য পরিচিত।"
+    },
+    "advancedExplanation": {
+      "en": "With electron configuration [Xe] 4f⁷ 6s² and oxidation states [3, 2], Europium demonstrates chemistry shaped by its f/d-orbital occupation, relativistic effects, and lanthanide contraction in heavier elements.",
+      "bn": "ইলেকট্রন বিন্যাস [Xe] 4f⁷ 6s² এবং জারণ অবস্থা [3, 2] সহ, ইউরোপিয়াম এর f/d-অরবিটাল অধিগ্রহণ, আপেক্ষিক প্রভাব ও ভারী উপাদানে ল্যান্থানাইড সংকোচনের দ্বারা গঠিত রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Most reactive lanthanide.",
+        "bn": "সবচেয়ে প্রতিক্রিয়াশীল ল্যান্থানাইড।"
+      },
+      {
+        "en": "Europium has an atomic mass of about 151.964 u.",
+        "bn": "ইউরোপিয়াম এর পারমাণবিক ভর প্রায় 151.964 u।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 62,
+        "relation": {
+          "en": "Compared to its neighbor (Z=62), Europium differs in electron configuration and chemical reactivity.",
+          "bn": "এর প্রতিবেশীর (Z=62) তুলনায়, ইউরোপিয়াম ইলেকট্রন বিন্যাস ও রাসায়নিক প্রতিক্রিয়াশীলতায় ভিন্ন।"
+        }
+      },
+      {
+        "compareWithId": 64,
+        "relation": {
+          "en": "Versus Z=64, the trend in atomic radius and ionization energy follows periodic patterns.",
+          "bn": "Z=64 এর তুলনায়, পারমাণবিক ব্যাসার্ধ ও আয়নীকরণ শক্তির প্রবণতা পর্যায়ক্রমিক নকশা অনুসরণ করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      62,
+      64,
+      61,
+      65
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Europium?",
+          "bn": "ইউরোপিয়াম এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "62",
+            "bn": "62"
+          },
+          {
+            "en": "63",
+            "bn": "63"
+          },
+          {
+            "en": "64",
+            "bn": "64"
+          },
+          {
+            "en": "65",
+            "bn": "65"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Europium has atomic number 63.",
+          "bn": "ইউরোপিয়াম এর পারমাণবিক সংখ্যা 63।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol for Europium?",
+          "bn": "ইউরোপিয়াম এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "Eu",
+            "bn": "Eu"
+          },
+          {
+            "en": "eu",
+            "bn": "eu"
+          },
+          {
+            "en": "E",
+            "bn": "E"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The symbol is Eu.",
+          "bn": "প্রতীক Eu।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Europium belong?",
+          "bn": "ইউরোপিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Halogen",
+            "bn": "হ্যালোজেন"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          },
+          {
+            "en": "Metalloid",
+            "bn": "ধাতুকল্প"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Europium is classified as a lanthanide.",
+          "bn": "ইউরোপিয়াম Lanthanide হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Europium?",
+          "bn": "ইউরোপিয়াম এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Xe] 4f⁷ 6s²",
+            "bn": "[Xe] 4f⁷ 6s²"
+          },
+          {
+            "en": "[Ar] 4s²",
+            "bn": "[Ar] 4s²"
+          },
+          {
+            "en": "[Kr] 5s²",
+            "bn": "[Kr] 5s²"
+          },
+          {
+            "en": "[Rn] 7s²",
+            "bn": "[Rn] 7s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground state configuration is [Xe] 4f⁷ 6s².",
+          "bn": "মৌলিক অবস্থা বিন্যাস [Xe] 4f⁷ 6s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Europium?",
+          "bn": "ইউরোপিয়াম পর্যায় সারণির কোন পর্যায়ে অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "৪"
+          },
+          {
+            "en": "5",
+            "bn": "৫"
+          },
+          {
+            "en": "6",
+            "bn": "৬"
+          },
+          {
+            "en": "7",
+            "bn": "৭"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Europium resides in period 6.",
+          "bn": "ইউরোপিয়াম 6 নম্বর পর্যায়ে অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Europium?",
+          "bn": "ইউরোপিয়াম এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+3",
+            "bn": "+৩"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "The dominant oxidation state is +3.",
+          "bn": "প্রধান জারণ অবস্থা +3।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Europium?",
+          "bn": "ইউরোপিয়াম এর আনুমানিক গলনাঙ্ক কত?"
+        },
+        "options": [
+          {
+            "en": "1099 K",
+            "bn": "1099 K"
+          },
+          {
+            "en": "549 K",
+            "bn": "549 K"
+          },
+          {
+            "en": "1978 K",
+            "bn": "1978 K"
+          },
+          {
+            "en": "273 K",
+            "bn": "২৭৩ K"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Europium melts near 1099 K.",
+          "bn": "ইউরোপিয়াম প্রায় 1099 K তাপমাত্রায় গলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Europium?",
+          "bn": "ইউরোপিয়াম এর প্রথম আয়নীকরণ শক্তি কত?"
+        },
+        "options": [
+          {
+            "en": "547.1 kJ/mol",
+            "bn": "547.1 kJ/mol"
+          },
+          {
+            "en": "100 kJ/mol",
+            "bn": "১০০ kJ/mol"
+          },
+          {
+            "en": "2500 kJ/mol",
+            "bn": "২৫০০ kJ/mol"
+          },
+          {
+            "en": "50 kJ/mol",
+            "bn": "৫০ kJ/mol"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "First ionization energy is about 547.1 kJ/mol.",
+          "bn": "প্রথম আয়নীকরণ শক্তি প্রায় 547.1 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Europium?",
+          "bn": "ইউরোপিয়াম এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.2",
+            "bn": "1.2"
+          },
+          {
+            "en": "4.0",
+            "bn": "৪.০"
+          },
+          {
+            "en": "0.7",
+            "bn": "০.৭"
+          },
+          {
+            "en": "3.5",
+            "bn": "৩.৫"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Electronegativity is approximately 1.2.",
+          "bn": "তড়িৎঋণাত্মকতা প্রায় 1.2।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a common compound of Europium?",
+          "bn": "ইউরোপিয়াম এর একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "Eu₂O₃",
+            "bn": "Eu₂O₃"
+          },
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Eu₂O₃ is a well-known compound of Europium.",
+          "bn": "Eu₂O₃ হলো ইউরোপিয়াম এর একটি সুপরিচিত যৌগ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Europium-doped yttrium oxide produces what phosphor color?",
+          "bn": "ইউরোপিয়াম-ডোপড ইট্রিয়াম অক্সাইড কোন রঙের ফসফর তৈরি করে?"
+        },
+        "options": [
+          {
+            "en": "Red",
+            "bn": "লাল"
+          },
+          {
+            "en": "Green",
+            "bn": "সবুজ"
+          },
+          {
+            "en": "Blue",
+            "bn": "নীল"
+          },
+          {
+            "en": "Yellow",
+            "bn": "হলুদ"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Red",
+          "bn": "লাল"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons influence Europium's chemistry?",
+          "bn": "কতগুলি যোজ্যতা ইলেকট্রন ইউরোপিয়াম এর রসায়নকে প্রভাবিত করে?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "১"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          },
+          {
+            "en": "3",
+            "bn": "৩"
+          },
+          {
+            "en": "Varies by configuration",
+            "bn": "বিন্যাস অনুযায়ী পরিবর্তিত"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "For Europium, the outer electron contribution depends on its block.",
+          "bn": "ইউরোপিয়াম এর জন্য বাইরের ইলেকট্রন অবদান এর ব্লকের উপর নির্ভর করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the block of Europium in the periodic table?",
+          "bn": "পর্যায় সারণিতে ইউরোপিয়াম এর ব্লক কী?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Europium belongs to the f-block.",
+          "bn": "ইউরোপিয়াম f-ব্লকের অন্তর্ভুক্ত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the boiling point of Europium?",
+          "bn": "ইউরোপিয়াম এর স্ফুটনাঙ্ক কত?"
+        },
+        "options": [
+          {
+            "en": "1802 K",
+            "bn": "1802 K"
+          },
+          {
+            "en": "100 K",
+            "bn": "১০০ K"
+          },
+          {
+            "en": "10000 K",
+            "bn": "১০০০০ K"
+          },
+          {
+            "en": "540 K",
+            "bn": "540 K"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Europium boils at approximately 1802 K.",
+          "bn": "ইউরোপিয়াম প্রায় 1802 K-তে ফুটে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is NOT a real compound of Europium?",
+          "bn": "কোনটি ইউরোপিয়াম এর প্রকৃত যৌগ নয়?"
+        },
+        "options": [
+          {
+            "en": "Eu₂O₃",
+            "bn": "Eu₂O₃"
+          },
+          {
+            "en": "EuCl₃",
+            "bn": "EuCl₃"
+          },
+          {
+            "en": "EuHe₃",
+            "bn": "EuHe₃"
+          },
+          {
+            "en": "Eu₂O₃:Y",
+            "bn": "Eu₂O₃:Y"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Noble gas helium does not form stable compounds with this element.",
+          "bn": "নিষ্ক্রিয় গ্যাস হিলিয়াম এই উপাদানের সাথে স্থিতিশীল যৌগ গঠন করে না।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what group is Europium (use 3 for lanthanides)?",
+          "bn": "ইউরোপিয়াম কোন গ্রুপে (ল্যান্থানাইডের জন্য ৩ ব্যবহার করুন)?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "১"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "18",
+            "bn": "১৮"
+          },
+          {
+            "en": "17",
+            "bn": "১৭"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Europium is in group 3.",
+          "bn": "ইউরোপিয়াম গ্রুপ 3-এ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientist is credited with discovering Europium?",
+          "bn": "কোন বিজ্ঞানী ইউরোপিয়াম আবিষ্কারের জন্য কৃতিত্ব পান?"
+        },
+        "options": [
+          {
+            "en": "Eugène-Anatole Demarçay",
+            "bn": "ইউজিন-আনাতোল দেমার্সে"
+          },
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Isaac Newton",
+            "bn": "আইজ্যাক নিউটন"
+          },
+          {
+            "en": "Albert Einstein",
+            "bn": "আলবার্ট আইনস্টাইন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Eugène-Anatole Demarçay is credited.",
+          "bn": "ইউজিন-আনাতোল দেমার্সে কৃতিত্ব পান।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Europium discovered/recognized?",
+          "bn": "ইউরোপিয়াম কত সালে আবিষ্কৃত/স্বীকৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1901",
+            "bn": "1901"
+          },
+          {
+            "en": "2000",
+            "bn": "২০০০"
+          },
+          {
+            "en": "1500",
+            "bn": "১৫০০"
+          },
+          {
+            "en": "1900",
+            "bn": "১৯০০"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Recognized in 1901.",
+          "bn": "1901 সালে স্বীকৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Europium at standard conditions?",
+          "bn": "আদর্শ অবস্থায় ইউরোপিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "At STP, Europium is a solid.",
+          "bn": "STP-তে ইউরোপিয়াম কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Lanthanide contraction affects which property of Europium?",
+          "bn": "ল্যান্থানাইড সংকোচন ইউরোপিয়াম এর কোন বৈশিষ্ট্যকে প্রভাবিত করে?"
+        },
+        "options": [
+          {
+            "en": "Atomic and ionic radii",
+            "bn": "পারমাণবিক ও আয়নিক ব্যাসার্ধ"
+          },
+          {
+            "en": "Color only",
+            "bn": "শুধু রং"
+          },
+          {
+            "en": "Spin",
+            "bn": "স্পিন"
+          },
+          {
+            "en": "Nothing",
+            "bn": "কিছুই না"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Poor 4f shielding causes a gradual decrease in atomic and ionic radii across the lanthanide series, also affecting post-lanthanide elements.",
+          "bn": "দুর্বল 4f শিল্ডিং ল্যান্থানাইড সিরিজ জুড়ে পারমাণবিক ও আয়নিক ব্যাসার্ধে ক্রমান্বয়ে হ্রাস ঘটায়, পরবর্তী উপাদানগুলোকেও প্রভাবিত করে।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "All rare earths are radioactive — actually only promethium is, the rest are stable.",
+        "bn": "সব বিরল মৃত্তিকা তেজস্ক্রিয় — আসলে শুধু প্রোমিথিয়াম, বাকিগুলি স্থিতিশীল।"
+      },
+      {
+        "en": "Europium is found in pure metallic form in nature — usually only as oxides or sulfides.",
+        "bn": "ইউরোপিয়াম প্রকৃতিতে বিশুদ্ধ ধাতব আকারে পাওয়া যায় — সাধারণত শুধু অক্সাইড বা সালফাইড হিসেবে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember Europium: symbol Eu, atomic number 63, group 3, period 6.",
+        "bn": "মনে রাখুন ইউরোপিয়াম: প্রতীক Eu, পারমাণবিক সংখ্যা 63, গ্রুপ 3, পর্যায় 6।"
+      },
+      {
+        "en": "Use the electron configuration [Xe] 4f⁷ 6s² to predict bonding behavior.",
+        "bn": "বন্ধন আচরণ পূর্বাভাস দিতে ইলেকট্রন বিন্যাস [Xe] 4f⁷ 6s² ব্যবহার করুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "2Eu + 6H₂O → 2Eu(OH)₃ + 3H₂",
+        "description": {
+          "en": "Vigorous water reaction",
+          "bn": "পানির সাথে তীব্র বিক্রিয়া"
+        }
+      },
+      {
+        "equation": "4Eu + 3O₂ → 2Eu₂O₃",
+        "description": {
+          "en": "Rapid oxidation",
+          "bn": "দ্রুত জারণ"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Eu → Eu^3+ + 3e⁻",
+        "description": {
+          "en": "Loss of 3 electron(s) to form the 3+ cation.",
+          "bn": "3+ ক্যাটায়ন গঠনে 3টি ইলেকট্রন হারানো।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Eu^3+ + 3e⁻ → Eu",
+        "description": {
+          "en": "Gain of 3 electron(s) to return to neutral metal.",
+          "bn": "নিরপেক্ষ ধাতুতে ফিরতে 3টি ইলেকট্রন গ্রহণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic Bond",
+          "bn": "ধাতব বন্ধন"
+        },
+        "molecule": "Eu₂O₃",
+        "description": {
+          "en": "In Eu₂O₃, Europium engages with its partner through characteristic bonding consistent with its position in the periodic table.",
+          "bn": "Eu₂O₃-এ, ইউরোপিয়াম পর্যায় সারণিতে এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ বৈশিষ্ট্যগত বন্ধনের মাধ্যমে এর সঙ্গীর সাথে যুক্ত হয়।"
+        }
+      }
+    ]
+  }
+}

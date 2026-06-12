@@ -1,0 +1,1025 @@
+{
+  "elementId": 74,
+  "basicInformation": {
+    "atomicNumber": 74,
+    "symbol": "W",
+    "name": {
+      "en": "Tungsten",
+      "bn": "টাংস্টেন"
+    },
+    "pronunciation": {
+      "en": "/ˈtʌŋstən/",
+      "bn": "টাং-স্টেন"
+    },
+    "atomicMass": 183.84,
+    "category": {
+      "en": "Transition metal",
+      "bn": "অবস্থান্তর ধাতু"
+    },
+    "group": 6,
+    "period": 6,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Grayish white, lustrous",
+      "bn": "ধূসর সাদা, চকচকে"
+    },
+    "color": {
+      "en": "Steel gray",
+      "bn": "ইস্পাত ধূসর"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Juan José and Fausto Elhuyar",
+      "bn": "হুয়ান হোসে ও ফাউস্তো এলহুয়ার"
+    },
+    "discoveryYear": 1783,
+    "discoveryLocation": {
+      "en": "Spain",
+      "bn": "স্পেন"
+    },
+    "discoveryStory": {
+      "en": "Highest melting point of all elements. Symbol W from German 'Wolfram'. Essential for incandescent lamp filaments.",
+      "bn": "সব উপাদানের মধ্যে সর্বোচ্চ গলনাঙ্ক। প্রতীক W জার্মান 'ভলফ্রাম' থেকে। ইনক্যান্ডেসেন্ট ল্যাম্প ফিলামেন্টের জন্য অপরিহার্য।"
+    },
+    "historicalUses": {
+      "en": "Early uses of Tungsten included specialized scientific and industrial applications tied to its unique chemistry.",
+      "bn": "টাংস্টেন এর প্রাথমিক ব্যবহার এর অনন্য রসায়নের সাথে সম্পর্কিত বিশেষ বৈজ্ঞানিক এবং শিল্প প্রয়োগে অন্তর্ভুক্ত ছিল।"
+    },
+    "famousExperiments": {
+      "en": "Classical isolation experiments separated Tungsten from its mineral or ore matrix using reduction or electrolysis.",
+      "bn": "ক্লাসিক্যাল বিচ্ছিন্নকরণ পরীক্ষাগুলি টাংস্টেনকে এর খনিজ বা আকরিক ম্যাট্রিক্স থেকে বিজারণ বা তড়িৎ বিশ্লেষণ ব্যবহার করে পৃথক করেছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 74,
+    "neutrons": 110,
+    "electrons": 74,
+    "valenceElectrons": 6,
+    "shells": 6,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      12,
+      2
+    ],
+    "electronConfiguration": "[Xe] 4f¹⁴ 5d⁴ 6s²",
+    "orbitalConfiguration": {
+      "valence_summary": "4f¹⁴ 5d⁴ 6s²"
+    },
+    "oxidationStates": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      -1,
+      -2
+    ],
+    "quantumNumbers": {
+      "principal": 6,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 19.25,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 3695,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 6203,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 193,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 162,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": null,
+    "thermalConductivity": {
+      "value": 57.0,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 1740000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.204,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Body-centered cubic",
+      "bn": "ষড়ভুজাকার ঘন-প্যাক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.36,
+    "ionizationEnergy": {
+      "value": 770,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 78.6,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Generally low toxicity; soluble salts may be mildly toxic.",
+      "bn": "সাধারণত নিম্ন বিষাক্ততা; দ্রবণীয় লবণ হালকা বিষাক্ত হতে পারে।"
+    },
+    "commonCompounds": [
+      "WO₃",
+      "WC",
+      "WCl₆",
+      "WS₂"
+    ],
+    "flameTestColor": {
+      "en": "None distinctive",
+      "bn": "স্বতন্ত্র কোনোটি নেই"
+    },
+    "spectralLines": []
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Light bulb filaments, cutting tools (tungsten carbide), armor-piercing kinetic projectiles, X-ray targets.",
+      "bn": "আলোক বাল্ব ফিলামেন্ট, কাটার সরঞ্জাম (টাংস্টেন কার্বাইড), বর্ম-ভেদকারী গতিজ প্রক্ষেপণাস্ত্র, এক্স-রে লক্ষ্য।"
+    },
+    "commercialUses": {
+      "en": "Tungsten appears in specialty alloys, catalysts, and high-performance consumer technologies.",
+      "bn": "টাংস্টেন বিশেষ অ্যালয়, অনুঘটক এবং উচ্চ-কর্মক্ষমতার ভোক্তা প্রযুক্তিতে ব্যবহৃত হয়।"
+    },
+    "electronicsUses": {
+      "en": "Used in capacitors, magnets, dopants or contacts depending on its electronic properties.",
+      "bn": "এর ইলেকট্রনিক বৈশিষ্ট্যের উপর নির্ভর করে ক্যাপাসিটর, চুম্বক, ডোপ্যান্ট বা যোগাযোগে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Acts as dopant, dielectric, or barrier-layer material in specialized semiconductor processes.",
+      "bn": "বিশেষ অর্ধপরিবাহী প্রক্রিয়ায় ডোপ্যান্ট, ডাইইলেকট্রিক বা ব্যারিয়ার-স্তর উপাদান হিসেবে কাজ করে।"
+    },
+    "aerospaceUses": {
+      "en": "Critical in high-temperature superalloys, turbine blades, and rocket nozzles where extreme strength is required.",
+      "bn": "উচ্চ-তাপমাত্রার সুপারঅ্যালয়, টারবাইন ব্লেড এবং রকেট নজলে গুরুত্বপূর্ণ যেখানে চরম শক্তি প্রয়োজন।"
+    },
+    "batteryUses": {
+      "en": "Limited direct role in batteries.",
+      "bn": "NiMH ব্যাটারি ক্যাথোডে (বিরল মৃত্তিকা) বা বিশেষ সেলে ব্যবহৃত।"
+    },
+    "aiHardwareUses": {
+      "en": "Plays a role in magnets and dielectrics that underpin storage, motors, and high-density chips powering AI compute.",
+      "bn": "AI গণনা চালানো স্টোরেজ, মোটর এবং উচ্চ-ঘনত্বের চিপের ভিত্তি চুম্বক ও ডাইইলেকট্রিকে ভূমিকা পালন করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "Indirect role through alloys and catalysts in clean-energy infrastructure.",
+      "bn": "বায়ু টারবাইন জেনারেটর, EV মোটর এবং গ্রিড-স্কেল শক্তি ব্যবস্থায় অপরিহার্য উপাদান।"
+    },
+    "nanotechnologyUses": {
+      "en": "Nanoparticles and thin films of Tungsten enable advanced sensing, catalysis, and biomedical platforms.",
+      "bn": "টাংস্টেন এর ন্যানোকণা ও পাতলা ফিল্ম উন্নত সেন্সিং, অনুঘটন ও বায়োমেডিকেল প্ল্যাটফর্ম সক্ষম করে।"
+    },
+    "nuclearUses": {
+      "en": "Limited direct nuclear application.",
+      "bn": "পারমাণবিক চুল্লিতে নিউট্রন শোষক, নিয়ন্ত্রণ উপাদান বা বিকিরণ উৎস হিসেবে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "Found in armor-piercing rounds, sonar systems, and high-energy laser components.",
+      "bn": "বর্ম-ভেদকারী রাউন্ড, সোনার সিস্টেম এবং উচ্চ-শক্তি লেজার উপাদানে পাওয়া যায়।"
+    },
+    "medicalUses": {
+      "en": "Limited direct medical role; mainly through implants or diagnostics.",
+      "bn": "বৈশিষ্ট্যের উপর নির্ভর করে MRI কনট্রাস্ট, সার্জিকাল লেজার, ক্যান্সার থেরাপি বা রেডিওফার্মাসিউটিক্যালসে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "No significant direct role in the food industry.",
+      "bn": "খাদ্য শিল্পে কোনো উল্লেখযোগ্য সরাসরি ভূমিকা নেই।"
+    },
+    "constructionUses": {
+      "en": "Specialty alloy components and corrosion-resistant coatings used in advanced construction.",
+      "bn": "উন্নত নির্মাণে বিশেষ অ্যালয় উপাদান ও ক্ষয়-প্রতিরোধী আবরণ ব্যবহৃত হয়।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known essential biological role in humans.",
+      "bn": "মানুষের মধ্যে কোনো পরিচিত অপরিহার্য জৈবিক ভূমিকা নেই।"
+    },
+    "humanBodyRole": {
+      "en": "Not required by the human body; only trace exposure typical.",
+      "bn": "মানব দেহের প্রয়োজন নেই; সাধারণত শুধুমাত্র ট্রেস এক্সপোজার।"
+    },
+    "toxicity": {
+      "en": "Generally low toxicity; soluble salts may be mildly toxic.",
+      "bn": "সাধারণত নিম্ন বিষাক্ততা; দ্রবণীয় লবণ হালকা বিষাক্ত হতে পারে।"
+    },
+    "environmentalImpact": {
+      "en": "Mining and refining Tungsten can release tailings and rare-earth waste streams requiring careful management.",
+      "bn": "টাংস্টেন খনন ও পরিশোধন টেইলিং ও বিরল-মৃত্তিকা বর্জ্য প্রবাহ মুক্ত করতে পারে যা সতর্ক ব্যবস্থাপনা প্রয়োজন।"
+    },
+    "pollutionRisks": {
+      "en": "Tailings, radioactive byproducts (for rare earths), or heavy-metal leaching are key pollution concerns.",
+      "bn": "টেইলিং, তেজস্ক্রিয় উপজাত (বিরল মৃত্তিকার জন্য) বা ভারী-ধাতু লিচিং প্রধান দূষণ উদ্বেগ।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from e-waste, spent catalysts, magnets, and industrial residues via hydrometallurgy.",
+      "bn": "হাইড্রোমেটালার্জির মাধ্যমে ই-বর্জ্য, ব্যবহৃত অনুঘটক, চুম্বক এবং শিল্প অবশিষ্টাংশ থেকে পুনরুদ্ধার করা হয়।"
+    },
+    "sustainabilityScore": 7.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "South Africa",
+        "bn": "দক্ষিণ আফ্রিকা"
+      }
+    ],
+    "miningMethods": {
+      "en": "Mined from sulfide or oxide ores and refined via pyrometallurgical and electrolytic routes.",
+      "bn": "মোনাজাইট, বাস্টনাসাইট বা প্ল্যাটিনাম-গ্রুপ আকরিক থেকে দ্রাবক নিষ্কাশন এবং আয়ন বিনিময়ের মাধ্যমে নিষ্কাশিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "ট্রেস"
+      },
+      "earthCrust": {
+        "en": "~0.00026% by mass",
+        "bn": "ভর অনুযায়ী ক্ষুদ্র শতাংশ"
+      },
+      "oceans": {
+        "en": "Negligible",
+        "bn": "নগণ্য"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies significantly based on purity and form; rare metals can reach hundreds to thousands of USD per kg.",
+      "bn": "বাজার মূল্য বিশুদ্ধতা ও ফর্মের উপর উল্লেখযোগ্যভাবে নির্ভর করে; বিরল ধাতু প্রতি কেজি শত থেকে হাজার USD পর্যন্ত পৌঁছাতে পারে।"
+    },
+    "futureDemand": {
+      "en": "Demand projected to rise due to clean energy, EVs, and advanced electronics.",
+      "bn": "পরিচ্ছন্ন শক্তি, EV ও উন্নত ইলেকট্রনিক্সের কারণে চাহিদা বৃদ্ধির পূর্বাভাস।"
+    },
+    "globalImportance": {
+      "en": "Tungsten is considered strategically critical for high-tech manufacturing and energy transition.",
+      "bn": "টাংস্টেন হাই-টেক উৎপাদন ও শক্তি পরিবর্তনের জন্য কৌশলগতভাবে গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Generally low toxicity; soluble salts may be mildly toxic.",
+      "bn": "সাধারণত নিম্ন বিষাক্ততা; দ্রবণীয় লবণ হালকা বিষাক্ত হতে পারে।"
+    },
+    "storageRequirements": {
+      "en": "Store in dry, inert atmosphere away from incompatible chemicals; reactive metals under mineral oil or argon.",
+      "bn": "শুকনো, নিষ্ক্রিয় বায়ুমণ্ডলে অসামঞ্জস্যপূর্ণ রাসায়নিকের থেকে দূরে সংরক্ষণ করুন; প্রতিক্রিয়াশীল ধাতু খনিজ তেল বা আর্গনের নিচে।"
+    },
+    "handlingProcedures": {
+      "en": "Use PPE, fume hoods, and avoid generating fine dust during machining.",
+      "bn": "PPE, ফিউম হুড ব্যবহার করুন এবং মেশিনিংয়ের সময় সূক্ষ্ম ধুলা তৈরি এড়িয়ে চলুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of dust, fumes, or soluble salts can cause respiratory and systemic effects.",
+      "bn": "ধুলা, ধোঁয়া বা দ্রবণীয় লবণ শ্বাসের ফলে শ্বাসযন্ত্র ও সিস্টেমিক প্রভাব হতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Moderate",
+      "bn": "মাঝারি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Irritant",
+        "bn": "জ্বালাকর"
+      },
+      {
+        "en": "Flammable solid (powder)",
+        "bn": "দাহ্য কঠিন (পাউডার)"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Tungsten (symbol W, atomic number 74) is a transition metal known for its distinctive position and unique chemistry in the periodic table.",
+      "bn": "টাংস্টেন (প্রতীক W, পারমাণবিক সংখ্যা 74) একটি অবস্থান্তর ধাতু যা পর্যায় সারণিতে তার স্বতন্ত্র অবস্থান ও অনন্য রসায়নের জন্য পরিচিত।"
+    },
+    "advancedExplanation": {
+      "en": "With electron configuration [Xe] 4f¹⁴ 5d⁴ 6s² and oxidation states [6, 5, 4, 3, 2, 1, 0, -1, -2], Tungsten demonstrates chemistry shaped by its f/d-orbital occupation, relativistic effects, and lanthanide contraction in heavier elements.",
+      "bn": "ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d⁴ 6s² এবং জারণ অবস্থা [6, 5, 4, 3, 2, 1, 0, -1, -2] সহ, টাংস্টেন এর f/d-অরবিটাল অধিগ্রহণ, আপেক্ষিক প্রভাব ও ভারী উপাদানে ল্যান্থানাইড সংকোচনের দ্বারা গঠিত রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Highest melting point of all elements.",
+        "bn": "সব উপাদানের মধ্যে সর্বোচ্চ গলনাঙ্ক।"
+      },
+      {
+        "en": "Tungsten has an atomic mass of about 183.84 u.",
+        "bn": "টাংস্টেন এর পারমাণবিক ভর প্রায় 183.84 u।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 73,
+        "relation": {
+          "en": "Compared to its neighbor (Z=73), Tungsten differs in electron configuration and chemical reactivity.",
+          "bn": "এর প্রতিবেশীর (Z=73) তুলনায়, টাংস্টেন ইলেকট্রন বিন্যাস ও রাসায়নিক প্রতিক্রিয়াশীলতায় ভিন্ন।"
+        }
+      },
+      {
+        "compareWithId": 75,
+        "relation": {
+          "en": "Versus Z=75, the trend in atomic radius and ionization energy follows periodic patterns.",
+          "bn": "Z=75 এর তুলনায়, পারমাণবিক ব্যাসার্ধ ও আয়নীকরণ শক্তির প্রবণতা পর্যায়ক্রমিক নকশা অনুসরণ করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      73,
+      75,
+      72,
+      76
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Tungsten?",
+          "bn": "টাংস্টেন এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "73",
+            "bn": "73"
+          },
+          {
+            "en": "74",
+            "bn": "74"
+          },
+          {
+            "en": "75",
+            "bn": "75"
+          },
+          {
+            "en": "76",
+            "bn": "76"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Tungsten has atomic number 74.",
+          "bn": "টাংস্টেন এর পারমাণবিক সংখ্যা 74।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol for Tungsten?",
+          "bn": "টাংস্টেন এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "W",
+            "bn": "W"
+          },
+          {
+            "en": "w",
+            "bn": "w"
+          },
+          {
+            "en": "W",
+            "bn": "W"
+          },
+          {
+            "en": "X",
+            "bn": "X"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The symbol is W.",
+          "bn": "প্রতীক W।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Tungsten belong?",
+          "bn": "টাংস্টেন কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Halogen",
+            "bn": "হ্যালোজেন"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "অবস্থান্তর ধাতু"
+          },
+          {
+            "en": "Metalloid",
+            "bn": "ধাতুকল্প"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Tungsten is classified as a transition metal.",
+          "bn": "টাংস্টেন Transition metal হিসেবে শ্রেণীবদ্ধ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Tungsten?",
+          "bn": "টাংস্টেন এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Xe] 4f¹⁴ 5d⁴ 6s²",
+            "bn": "[Xe] 4f¹⁴ 5d⁴ 6s²"
+          },
+          {
+            "en": "[Ar] 4s²",
+            "bn": "[Ar] 4s²"
+          },
+          {
+            "en": "[Kr] 5s²",
+            "bn": "[Kr] 5s²"
+          },
+          {
+            "en": "[Rn] 7s²",
+            "bn": "[Rn] 7s²"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The ground state configuration is [Xe] 4f¹⁴ 5d⁴ 6s².",
+          "bn": "মৌলিক অবস্থা বিন্যাস [Xe] 4f¹⁴ 5d⁴ 6s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table is Tungsten?",
+          "bn": "টাংস্টেন পর্যায় সারণির কোন পর্যায়ে অবস্থিত?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "৪"
+          },
+          {
+            "en": "5",
+            "bn": "৫"
+          },
+          {
+            "en": "6",
+            "bn": "৬"
+          },
+          {
+            "en": "7",
+            "bn": "৭"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Tungsten resides in period 6.",
+          "bn": "টাংস্টেন 6 নম্বর পর্যায়ে অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Tungsten?",
+          "bn": "টাংস্টেন এর সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+3",
+            "bn": "+৩"
+          },
+          {
+            "en": "+6",
+            "bn": "+6"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "The dominant oxidation state is +6.",
+          "bn": "প্রধান জারণ অবস্থা +6।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Tungsten?",
+          "bn": "টাংস্টেন এর আনুমানিক গলনাঙ্ক কত?"
+        },
+        "options": [
+          {
+            "en": "3695 K",
+            "bn": "3695 K"
+          },
+          {
+            "en": "1847 K",
+            "bn": "1847 K"
+          },
+          {
+            "en": "6651 K",
+            "bn": "6651 K"
+          },
+          {
+            "en": "273 K",
+            "bn": "২৭৩ K"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Tungsten melts near 3695 K.",
+          "bn": "টাংস্টেন প্রায় 3695 K তাপমাত্রায় গলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Tungsten?",
+          "bn": "টাংস্টেন এর প্রথম আয়নীকরণ শক্তি কত?"
+        },
+        "options": [
+          {
+            "en": "770 kJ/mol",
+            "bn": "770 kJ/mol"
+          },
+          {
+            "en": "100 kJ/mol",
+            "bn": "১০০ kJ/mol"
+          },
+          {
+            "en": "2500 kJ/mol",
+            "bn": "২৫০০ kJ/mol"
+          },
+          {
+            "en": "50 kJ/mol",
+            "bn": "৫০ kJ/mol"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "First ionization energy is about 770 kJ/mol.",
+          "bn": "প্রথম আয়নীকরণ শক্তি প্রায় 770 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Tungsten?",
+          "bn": "টাংস্টেন এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "2.36",
+            "bn": "2.36"
+          },
+          {
+            "en": "4.0",
+            "bn": "৪.০"
+          },
+          {
+            "en": "0.7",
+            "bn": "০.৭"
+          },
+          {
+            "en": "3.5",
+            "bn": "৩.৫"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Electronegativity is approximately 2.36.",
+          "bn": "তড়িৎঋণাত্মকতা প্রায় 2.36।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a common compound of Tungsten?",
+          "bn": "টাংস্টেন এর একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "WO₃",
+            "bn": "WO₃"
+          },
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "WO₃ is a well-known compound of Tungsten.",
+          "bn": "WO₃ হলো টাংস্টেন এর একটি সুপরিচিত যৌগ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Tungsten holds which record among elements?",
+          "bn": "টাংস্টেন উপাদানের মধ্যে কোন রেকর্ড ধারণ করে?"
+        },
+        "options": [
+          {
+            "en": "Highest melting point (3695 K)",
+            "bn": "সর্বোচ্চ গলনাঙ্ক (৩৬৯৫ K)"
+          },
+          {
+            "en": "Highest density",
+            "bn": "সর্বোচ্চ ঘনত্ব"
+          },
+          {
+            "en": "Lowest electronegativity",
+            "bn": "সর্বনিম্ন তড়িৎঋণাত্মকতা"
+          },
+          {
+            "en": "Largest atomic radius",
+            "bn": "বৃহত্তম পারমাণবিক ব্যাসার্ধ"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Highest melting point (3695 K)",
+          "bn": "সর্বোচ্চ গলনাঙ্ক (৩৬৯৫ K)"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons influence Tungsten's chemistry?",
+          "bn": "কতগুলি যোজ্যতা ইলেকট্রন টাংস্টেন এর রসায়নকে প্রভাবিত করে?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "১"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          },
+          {
+            "en": "3",
+            "bn": "৩"
+          },
+          {
+            "en": "Varies by configuration",
+            "bn": "বিন্যাস অনুযায়ী পরিবর্তিত"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "For Tungsten, the outer electron contribution depends on its block.",
+          "bn": "টাংস্টেন এর জন্য বাইরের ইলেকট্রন অবদান এর ব্লকের উপর নির্ভর করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the block of Tungsten in the periodic table?",
+          "bn": "পর্যায় সারণিতে টাংস্টেন এর ব্লক কী?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Tungsten belongs to the d-block.",
+          "bn": "টাংস্টেন d-ব্লকের অন্তর্ভুক্ত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the boiling point of Tungsten?",
+          "bn": "টাংস্টেন এর স্ফুটনাঙ্ক কত?"
+        },
+        "options": [
+          {
+            "en": "6203 K",
+            "bn": "6203 K"
+          },
+          {
+            "en": "100 K",
+            "bn": "১০০ K"
+          },
+          {
+            "en": "10000 K",
+            "bn": "১০০০০ K"
+          },
+          {
+            "en": "1860 K",
+            "bn": "1860 K"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Tungsten boils at approximately 6203 K.",
+          "bn": "টাংস্টেন প্রায় 6203 K-তে ফুটে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is NOT a real compound of Tungsten?",
+          "bn": "কোনটি টাংস্টেন এর প্রকৃত যৌগ নয়?"
+        },
+        "options": [
+          {
+            "en": "WO₃",
+            "bn": "WO₃"
+          },
+          {
+            "en": "WC",
+            "bn": "WC"
+          },
+          {
+            "en": "WHe₃",
+            "bn": "WHe₃"
+          },
+          {
+            "en": "WS₂",
+            "bn": "WS₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Noble gas helium does not form stable compounds with this element.",
+          "bn": "নিষ্ক্রিয় গ্যাস হিলিয়াম এই উপাদানের সাথে স্থিতিশীল যৌগ গঠন করে না।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what group is Tungsten (use 3 for lanthanides)?",
+          "bn": "টাংস্টেন কোন গ্রুপে (ল্যান্থানাইডের জন্য ৩ ব্যবহার করুন)?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "১"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "18",
+            "bn": "১৮"
+          },
+          {
+            "en": "17",
+            "bn": "১৭"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Tungsten is in group 6.",
+          "bn": "টাংস্টেন গ্রুপ 6-এ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scientist is credited with discovering Tungsten?",
+          "bn": "কোন বিজ্ঞানী টাংস্টেন আবিষ্কারের জন্য কৃতিত্ব পান?"
+        },
+        "options": [
+          {
+            "en": "Juan José and Fausto Elhuyar",
+            "bn": "হুয়ান হোসে ও ফাউস্তো এলহুয়ার"
+          },
+          {
+            "en": "Marie Curie",
+            "bn": "মেরি কুরি"
+          },
+          {
+            "en": "Isaac Newton",
+            "bn": "আইজ্যাক নিউটন"
+          },
+          {
+            "en": "Albert Einstein",
+            "bn": "আলবার্ট আইনস্টাইন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Juan José and Fausto Elhuyar is credited.",
+          "bn": "হুয়ান হোসে ও ফাউস্তো এলহুয়ার কৃতিত্ব পান।"
+        }
+      },
+      {
+        "question": {
+          "en": "In what year was Tungsten discovered/recognized?",
+          "bn": "টাংস্টেন কত সালে আবিষ্কৃত/স্বীকৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1783",
+            "bn": "1783"
+          },
+          {
+            "en": "2000",
+            "bn": "২০০০"
+          },
+          {
+            "en": "1500",
+            "bn": "১৫০০"
+          },
+          {
+            "en": "1900",
+            "bn": "১৯০০"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Recognized in 1783.",
+          "bn": "1783 সালে স্বীকৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What phase is Tungsten at standard conditions?",
+          "bn": "আদর্শ অবস্থায় টাংস্টেন কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "At STP, Tungsten is a solid.",
+          "bn": "STP-তে টাংস্টেন কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Lanthanide contraction affects which property of Tungsten?",
+          "bn": "ল্যান্থানাইড সংকোচন টাংস্টেন এর কোন বৈশিষ্ট্যকে প্রভাবিত করে?"
+        },
+        "options": [
+          {
+            "en": "Atomic and ionic radii",
+            "bn": "পারমাণবিক ও আয়নিক ব্যাসার্ধ"
+          },
+          {
+            "en": "Color only",
+            "bn": "শুধু রং"
+          },
+          {
+            "en": "Spin",
+            "bn": "স্পিন"
+          },
+          {
+            "en": "Nothing",
+            "bn": "কিছুই না"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Poor 4f shielding causes a gradual decrease in atomic and ionic radii across the lanthanide series, also affecting post-lanthanide elements.",
+          "bn": "দুর্বল 4f শিল্ডিং ল্যান্থানাইড সিরিজ জুড়ে পারমাণবিক ও আয়নিক ব্যাসার্ধে ক্রমান্বয়ে হ্রাস ঘটায়, পরবর্তী উপাদানগুলোকেও প্রভাবিত করে।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "All rare earths are radioactive — actually only promethium is, the rest are stable.",
+        "bn": "সব বিরল মৃত্তিকা তেজস্ক্রিয় — আসলে শুধু প্রোমিথিয়াম, বাকিগুলি স্থিতিশীল।"
+      },
+      {
+        "en": "Tungsten is found in pure metallic form in nature — usually only as oxides or sulfides.",
+        "bn": "টাংস্টেন প্রকৃতিতে বিশুদ্ধ ধাতব আকারে পাওয়া যায় — সাধারণত শুধু অক্সাইড বা সালফাইড হিসেবে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember Tungsten: symbol W, atomic number 74, group 6, period 6.",
+        "bn": "মনে রাখুন টাংস্টেন: প্রতীক W, পারমাণবিক সংখ্যা 74, গ্রুপ 6, পর্যায় 6।"
+      },
+      {
+        "en": "Use the electron configuration [Xe] 4f¹⁴ 5d⁴ 6s² to predict bonding behavior.",
+        "bn": "বন্ধন আচরণ পূর্বাভাস দিতে ইলেকট্রন বিন্যাস [Xe] 4f¹⁴ 5d⁴ 6s² ব্যবহার করুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "2W + 3O₂ → 2WO₃",
+        "description": {
+          "en": "High-temp oxidation",
+          "bn": "উচ্চ-তাপ জারণ"
+        }
+      },
+      {
+        "equation": "W + 3F₂ → WF₆",
+        "description": {
+          "en": "Reacts with fluorine",
+          "bn": "ফ্লোরিনের সাথে বিক্রিয়া"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "W → W^6+ + 6e⁻",
+        "description": {
+          "en": "Loss of 6 electron(s) to form the 6+ cation.",
+          "bn": "6+ ক্যাটায়ন গঠনে 6টি ইলেকট্রন হারানো।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "W^6+ + 6e⁻ → W",
+        "description": {
+          "en": "Gain of 6 electron(s) to return to neutral metal.",
+          "bn": "নিরপেক্ষ ধাতুতে ফিরতে 6টি ইলেকট্রন গ্রহণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic Bond",
+          "bn": "ধাতব বন্ধন"
+        },
+        "molecule": "WO₃",
+        "description": {
+          "en": "In WO₃, Tungsten engages with its partner through characteristic bonding consistent with its position in the periodic table.",
+          "bn": "WO₃-এ, টাংস্টেন পর্যায় সারণিতে এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ বৈশিষ্ট্যগত বন্ধনের মাধ্যমে এর সঙ্গীর সাথে যুক্ত হয়।"
+        }
+      }
+    ]
+  }
+}
