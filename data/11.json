@@ -1,0 +1,1011 @@
+{
+"elementId": 11,
+"basicInformation": {
+"atomicNumber": 11,
+"symbol": "Na",
+"name": {
+"en": "Sodium",
+"bn": "সোডিয়াম"
+},
+"pronunciation": {
+"en": "/ˈsoʊdiəm/",
+"bn": "সো-ডি-য়াম"
+},
+"atomicMass": 22.989769,
+"category": {
+"en": "Alkali metal",
+"bn": "ক্ষার ধাতু"
+},
+"group": 1,
+"period": 3,
+"block": "s",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Silvery white metallic",
+"bn": "রূপালী সাদা ধাতব"
+},
+"color": {
+"en": "Silvery white",
+"bn": "রূপালী সাদা"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Humphry Davy",
+"bn": "হামফ্রি ডেভি"
+},
+"discoveryYear": 1807,
+"discoveryLocation": {
+"en": "United Kingdom",
+"bn": "যুক্তরাজ্য"
+},
+"discoveryStory": {
+"en": "Sir Humphry Davy first isolated sodium by the electrolysis of very dry molten sodium hydroxide. Shortly after isolating potassium, he applied the same technique to caustic soda.",
+"bn": "স্যার হামফ্রি ডেভি সর্বপ্রথম অত্যন্ত শুষ্ক গলিত সোডিয়াম হাইড্রোক্সাইডের তড়িৎ বিশ্লেষণের মাধ্যমে সোডিয়াম আলাদা করেন। পটাশিয়াম আলাদা করার পরপরই, তিনি কস্টিক সোডায় একই কৌশল প্রয়োগ করেন।"
+},
+"historicalUses": {
+"en": "While the metal was discovered in 1807, its compounds, especially sodium chloride (salt) and sodium carbonate (natron), have been critical to human civilization for food preservation, seasoning, and mummification since antiquity.",
+"bn": "যদিও বস্তুটি ১৮০৭ সালে আবিষ্কৃত হয়েছিল, তবে এর যৌগগুলি, বিশেষ করে সোডিয়াম ক্লোরাইড (লবণ) এবং সোডিয়াম কার্বনেট (ন্যাট্রন), প্রাচীনকাল থেকেই খাদ্য সংরক্ষণ, মশলা এবং মমি তৈরির জন্য মানব সভ্যতার জন্য গুরুত্বপূর্ণ।"
+},
+"famousExperiments": {
+"en": "Davy's electrolytic isolation from caustic soda, where he noted the formation of silvery, highly reactive globules at the cathode.",
+"bn": "কস্টিক সোডা থেকে ডেভির ইলেক্ট্রোলাইটিক পৃথকীকরণ, যেখানে তিনি ক্যাথোডের উপর রূপালী, অত্যন্ত প্রতিক্রিয়াশীল গ্লোবিউল তৈরি হতে দেখেছিলেন।"
+}
+},
+"atomicStructure": {
+"protons": 11,
+"neutrons": 12,
+"electrons": 11,
+"valenceElectrons": 1,
+"shells": 3,
+"shellDistribution": [2, 8, 1],
+"electronConfiguration": "1s² 2s² 2p⁶ 3s¹",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 1
+},
+"oxidationStates": [1, -1],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 0.968,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 370.944,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 1156.09,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 227,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 166,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 227,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 142.0,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 21000000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 1.228,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 0.5,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টার্ড কিউবিক"
+},
+"magneticOrdering": {
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 0.93,
+"ionizationEnergy": {
+"value": 495.8,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 52.8,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Highly reactive. Reacts violently with water to form sodium hydroxide and flammable hydrogen gas. Oxidizes rapidly in air.",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল। জলের সাথে হিংস্রভাবে বিক্রিয়া করে সোডিয়াম হাইড্রোক্সাইড এবং দাহ্য হাইড্রোজেন গ্যাস তৈরি করে। বাতাসে দ্রুত জারিত হয়।"
+},
+"commonCompounds": ["NaCl", "NaOH", "Na₂CO₃", "NaHCO₃", "NaNO₃", "Na₂SO₄"],
+"flameTestColor": {
+"en": "Bright yellow",
+"bn": "উজ্জ্বল হলুদ"
+},
+"spectralLines": ["589.0nm", "589.6nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Manufacture of sodium borohydride, sodium azide, indigo dye, and as a reducing agent for producing metals like titanium.",
+"bn": "সোডিয়াম বোরোহাইড্রাইড, সোডিয়াম অ্যাজাইড, নীল রঙ তৈরি এবং টাইটানিয়ামের মতো ধাতু তৈরির জন্য বিজারক হিসেবে।"
+},
+"commercialUses": {
+"en": "Sodium vapor street lamps (provides bright yellow light), table salt (NaCl), baking soda (NaHCO3), and soap making (NaOH).",
+"bn": "সোডিয়াম বাষ্পযুক্ত রাস্তার বাতি (উজ্জ্বল হলুদ আলো দেয়), টেবিল লবণ (NaCl), বেকিং সোডা (NaHCO3) এবং সাবান তৈরি (NaOH)।"
+},
+"electronicsUses": {
+"en": "Development of solid-state sodium-ion electrolytes for next-generation electronics.",
+"bn": "পরবর্তী প্রজন্মের ইলেকট্রনিক্সের জন্য সলিড-স্টেট সোডিয়াম-আয়ন ইলেক্ট্রোলাইট তৈরি।"
+},
+"semiconductorUses": {
+"en": "Used occasionally as a dopant or in the synthesis of specific semiconductor nanomaterials.",
+"bn": "কখনও কখনও ডোপান্ট হিসাবে বা নির্দিষ্ট সেমিকন্ডাক্টর ন্যানোম্যাটেরিয়ালগুলির সংশ্লেষণে ব্যবহৃত হয়।"
+},
+"aerospaceUses": {
+"en": "NaK (sodium-potassium alloy) is used as a liquid metal coolant in compact nuclear reactors for spacecraft.",
+"bn": "NaK (সোডিয়াম-পটাশিয়াম সংকর ধাতু) মহাকাশযানের জন্য কম্প্যাক্ট পারমাণবিক চুল্লিতে তরল ধাতব কুল্যান্ট হিসাবে ব্যবহৃত হয়।"
+},
+"batteryUses": {
+"en": "Sodium-sulfur (NaS) batteries for large-scale grid storage; emerging sodium-ion batteries as a cheaper alternative to lithium-ion.",
+"bn": "বৃহৎ পরিসরে গ্রিড সংরক্ষণের জন্য সোডিয়াম-সালফার (NaS) ব্যাটারি; লিথিয়াম-ায়নের সস্তা বিকল্প হিসাবে উদীয়মান সোডিয়াম-আয়ন ব্যাটারি।"
+},
+"aiHardwareUses": {
+"en": "Potential future applications in extreme-performance liquid metal cooling loops for AI supercomputers.",
+"bn": "এআই সুপার কম্পিউটারের জন্য এক্সট্রিম-পারফরম্যান্স লিকুইড মেটাল কুলিং লুপগুলিতে সম্ভাব্য ভবিষ্যতের প্রয়োগ।"
+},
+"renewableEnergyUses": {
+"en": "Molten salt (sodium nitrate mixed with potassium nitrate) is used to store thermal energy in concentrated solar power (CSP) plants.",
+"bn": "গলিত লবণ (পটাশিয়াম নাইট্রেটের সাথে সোডিয়াম নাইট্রেট মিশ্রিত) ঘনীভূত সৌরবিদ্যুৎ (CSP) কেন্দ্রে তাপ শক্তি সঞ্চয় করতে ব্যবহৃত হয়।"
+},
+"nanotechnologyUses": {
+"en": "Used as a powerful reducing agent in the bottom-up synthesis of metal and metal-oxide nanoparticles.",
+"bn": "ধাতু এবং মেটাল-অক্সাইড ন্যানো পার্টিকেলগুলির বটম-আপ সংশ্লেষণে একটি শক্তিশালী বিজারক হিসাবে ব্যবহৃত হয়।"
+},
+"nuclearUses": {
+"en": "Liquid sodium is the primary coolant used in liquid metal fast breeder reactors (LMFBR) due to its high thermal conductivity.",
+"bn": "উচ্চ তাপ পরিবাহকতার কারণে তরল ধাতু ফাস্ট ব্রিডার রিঅ্যাক্টরে (LMFBR) প্রাথমিক কুল্যান্ট হিসাবে তরল সোডিয়াম ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Historically used in the production of sodium azide for explosives and airbag initiators in military vehicles.",
+"bn": "ঐতিহাসিকভাবে সামরিক যানবাহনে বিস্ফোরক এবং এয়ারব্যাগ সূচনাকারীর জন্য সোডিয়াম অ্যাজাইড উৎপাদনে ব্যবহৃত হয়।"
+},
+"medicalUses": {
+"en": "Intravenous saline (0.9% NaCl) is globally critical for hydration and drug delivery. Sodium-24 is used as a radiotracer.",
+"bn": "ইন্ট্রাভেনাস স্যালাইন (০.৯% NaCl) হাইড্রেশন এবং ওষুধ সরবরাহের জন্য বিশ্বব্যাপী গুরুত্বপূর্ণ। সোডিয়াম-২৪ রেডিওট্রেসার হিসেবে ব্যবহৃত হয়।"
+},
+"foodIndustryUses": {
+"en": "Sodium chloride is the primary universal seasoning and preservative; sodium bicarbonate is essential in baking.",
+"bn": "সোডিয়াম ক্লোরাইড হল প্রাথমিক সার্বজনীন মশলা এবং সংরক্ষক; বেকিংয়ে সোডিয়াম বাইকার্বোনেট অপরিহার্য।"
+},
+"constructionUses": {
+"en": "Sodium silicate (waterglass) is used in cement formulations to accelerate setting and act as a concrete sealer.",
+"bn": "সিমেন্ট সেটিং ত্বরান্বিত করতে এবং কংক্রিট সিলার হিসাবে কাজ করতে সিমেন্ট ফর্মুলেশনে সোডিয়াম সিলিকেট (ওয়াটারগ্লাস) ব্যবহৃত হয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Vital for all animals. Maintains osmotic pressure, fluid balance, and action potentials across cell membranes.",
+"bn": "সব প্রাণীর জন্য অত্যাবশ্যক। অসমোটিক চাপ, তরল ভারসাম্য এবং কোষের ঝিল্লি জুড়ে অ্যাকশন পটেনশিয়াল বজায় রাখে।"
+},
+"humanBodyRole": {
+"en": "The primary extracellular cation. Drives the sodium-potassium pump, making nerve impulse transmission and muscle contraction possible.",
+"bn": "প্রাথমিক এক্সট্রাসেলুলার ক্যাটায়ন। সোডিয়াম-পটাশিয়াম পাম্প চালায়, যা স্নায়ু আবেগ সঞ্চালন এবং পেশী সংকোচন সম্ভব করে।"
+},
+"toxicity": {
+"en": "Pure metal causes severe chemical and thermal burns. Excess dietary sodium leads to hypertension and cardiovascular disease.",
+"bn": "বিশুদ্ধ ধাতু মারাত্মক রাসায়নিক এবং তাপীয় পোড়ার সৃষ্টি করে। অতিরিক্ত খাদ্যতালিকাগত সোডিয়াম উচ্চ রক্তচাপ এবং কার্ডিওভাসকুলার রোগের দিকে পরিচালিত করে।"
+},
+"environmentalImpact": {
+"en": "Generally benign in compound form, but widespread use of road salt (NaCl) causes freshwater salinization.",
+"bn": "যৌগিক রূপে সাধারণত সৌম্য, কিন্তু রাস্তার লবণের (NaCl) ব্যাপক ব্যবহার মিঠা জলের লবণাক্ততা সৃষ্টি করে।"
+},
+"pollutionRisks": {
+"en": "Soil salinization from agricultural irrigation heavily degrades crop yields and damages soil biomes.",
+"bn": "কৃষি সেচ থেকে মাটির লবণাক্ততা ফসলের ফলন ব্যাপকভাবে হ্রাস করে এবং মাটির বায়োমের ক্ষতি করে।"
+},
+"recyclingMethods": {
+"en": "Sodium batteries can be dismantled and chemically processed to recover sodium; salt is continuously naturally recycled via the water cycle.",
+"bn": "সোডিয়াম পুনরুদ্ধার করার জন্য সোডিয়াম ব্যাটারিগুলি ভেঙে রাসায়নিকভাবে প্রক্রিয়া করা যেতে পারে; লবণ জলচক্রের মাধ্যমে অবিচ্ছিন্নভাবে প্রাকৃতিকভাবে পুনর্ব্যবহৃত হয়।"
+},
+"sustainabilityScore": 8.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "India",
+"bn": "ভারত"
+}
+],
+"miningMethods": {
+"en": "Solution mining, solar evaporation of seawater, and deep-shaft mining for halite (rock salt). Metal is obtained via Downs cell electrolysis.",
+"bn": "সলিউশন মাইনিং, সমুদ্রের জলের সৌর বাষ্পীভবন, এবং হ্যালাইটের (রক সল্ট) জন্য ডিপ-শ্যাফট খনি। ধাতু ডাউন্স সেল তড়িৎ বিশ্লেষণের মাধ্যমে পাওয়া যায়।"
+},
+"abundance": {
+"universe": {
+"en": "0.002% by mass",
+"bn": "ভর অনুযায়ী ০.০০২%"
+},
+"earthCrust": {
+"en": "2.36% by mass (6th most abundant)",
+"bn": "ভর অনুযায়ী ২.৩৬% (৬ষ্ঠ সর্বাধিক প্রচুর)"
+},
+"oceans": {
+"en": "1.08% by mass",
+"bn": "ভর অনুযায়ী ১.০৮%"
+}
+},
+"marketValue": {
+"en": "Bulk metallic sodium trades at ~$3.00 - $5.00/kg; sodium chloride is pennies per kg.",
+"bn": "বাল্ক ধাতব সোডিয়াম প্রায় $৩.০০ - $৫.০০/কেজিতে ট্রেড হয়; সোডিয়াম ক্লোরাইড প্রতি কেজি কয়েক সেন্ট।"
+},
+"futureDemand": {
+"en": "Industrial demand is stable, but battery-grade sodium demand is expected to surge with the commercialization of sodium-ion EVs.",
+"bn": "শিল্প চাহিদা স্থিতিশীল, তবে সোডিয়াম-আয়ন ইভি বাণিজ্যিকীকরণের সাথে ব্যাটারি-গ্রেড সোডিয়ামের চাহিদা বাড়বে বলে আশা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "A foundational chemical pillar. The chlor-alkali process (using NaCl) produces chlorine and sodium hydroxide, vital to global manufacturing.",
+"bn": "একটি মৌলিক রাসায়নিক ভিত্তি। ক্লোর-অ্যালকালি প্রক্রিয়া (NaCl ব্যবহার করে) ক্লোরিন এবং সোডিয়াম হাইড্রোক্সাইড উৎপন্ন করে, যা বৈশ্বিক উৎপাদনের জন্য অত্যাবশ্যক।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Pure sodium reacts violently with water, generating explosive hydrogen gas and corrosive sodium hydroxide. It can auto-ignite in damp air.",
+"bn": "বিশুদ্ধ সোডিয়াম জলের সাথে হিংস্রভাবে প্রতিক্রিয়া করে, বিস্ফোরক হাইড্রোজেন গ্যাস এবং ক্ষয়কারী সোডিয়াম হাইড্রোক্সাইড তৈরি করে। এটি স্যাঁতসেঁতে বাতাসে স্বয়ংক্রিয়ভাবে জ্বলতে পারে।"
+},
+"storageRequirements": {
+"en": "Must be stored completely submerged in anhydrous mineral oil, kerosene, or under an inert atmosphere like argon.",
+"bn": "অবশ্যই সম্পূর্ণভাবে অ্যানহাইড্রাস খনিজ তেল, কেরোসিন বা আর্গনের মতো একটি নিষ্ক্রিয় বায়ুমণ্ডলের নীচে ডুবিয়ে সংরক্ষণ করতে হবে।"
+},
+"handlingProcedures": {
+"en": "Use specialized heavy-duty dry gloves and eye protection. Have a Class D (dry powder) fire extinguisher readily available.",
+"bn": "বিশেষায়িত ভারী-শুল্ক শুকনো গ্লাভস এবং চোখের সুরক্ষা ব্যবহার করুন। একটি ক্লাস ডি (শুকনো পাউডার) ফায়ার এক্সটিংগুইশার হাতের কাছে রাখুন।"
+},
+"exposureRisks": {
+"en": "Tissue contact with the metal causes deep thermal and alkali burns. Inhalation of combustion smoke causes severe pulmonary edema.",
+"bn": "ধাতুর সাথে টিস্যুর সংস্পর্শ গভীর তাপীয় এবং ক্ষারীয় পোড়ার সৃষ্টি করে। দহন ধোঁয়া শ্বাস নিলে মারাত্মক পালমোনারি এডিমা হয়।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Water-Reactive / Corrosive)",
+"bn": "চরম ঝুঁকি (জল-প্রতিক্রিয়াশীল / ক্ষয়কারী)"
+},
+"hazardClassifications": [
+{
+"en": "Water-Reactive",
+"bn": "জল-প্রতিক্রিয়াশীল"
+},
+{
+"en": "Flammable Solid",
+"bn": "দাহ্য কঠিন পদার্থ"
+},
+{
+"en": "Corrosive",
+"bn": "ক্ষয়কারী"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Sodium is a soft, silvery metal that explodes if you throw it in water. However, when it bonds with chlorine, it forms common table salt, which you eat every day.",
+"bn": "সোডিয়াম একটি নরম, রূপালী ধাতু যা জলে ফেললে বিস্ফোরিত হয়। যাইহোক, যখন এটি ক্লোরিনের সাথে আবদ্ধ হয়, তখন এটি সাধারণ টেবিল লবণ তৈরি করে, যা আপনি প্রতিদিন খান।"
+},
+"advancedExplanation": {
+"en": "Sodium's extreme reactivity stems from its solitary 3s¹ valence electron, which is heavily shielded from the nucleus. This low ionization energy causes it to readily surrender the electron, forming strong ionic bonds and violently reducing water molecules.",
+"bn": "সোডিয়ামের চরম প্রতিক্রিয়াশীলতা তার একাকী 3s¹ যোজ্যতা ইলেকট্রন থেকে উদ্ভূত হয়, যা নিউক্লিয়াস থেকে ব্যাপকভাবে রক্ষিত। এই কম আয়নীকরণ শক্তির কারণে এটি সহজেই ইলেকট্রন ত্যাগ করে, শক্তিশালী আয়নিক বন্ধন তৈরি করে এবং জলের অণুগুলিকে হিংস্রভাবে হ্রাস করে।"
+},
+"funFacts": [
+{
+"en": "Pure sodium metal is so soft you can easily cut it with a butter knife.",
+"bn": "বিশুদ্ধ সোডিয়াম ধাতু এত নরম যে আপনি এটি একটি মাখনের ছুরি দিয়ে সহজেই কাটতে পারেন।"
+},
+{
+"en": "The yellow color of many streetlights comes from vaporized sodium atoms emitting light at exactly 589 nanometers.",
+"bn": "অনেক রাস্তার আলোর হলুদ রঙ বাষ্পীভূত সোডিয়াম পরমাণু থেকে আসে যা ঠিক ৫৮৯ ন্যানোমিটারে আলো নির্গত করে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 19,
+"relation": {
+"en": "Potassium (directly below Sodium) is even more reactive with water and has a lower melting point due to a weaker metallic bond from its larger atomic radius.",
+"bn": "পটাসিয়াম (সোডিয়ামের ঠিক নীচে) জলের সাথে আরও বেশি প্রতিক্রিয়াশীল এবং এর বৃহত্তর পারমাণবিক ব্যাসার্ধ থেকে দুর্বল ধাতব বন্ধনের কারণে এর গলনাঙ্ক কম।"
+}
+},
+{
+"compareWithId": 3,
+"relation": {
+"en": "Lithium is less dense and less reactive than Sodium, but forms stronger covalent character in its bonds due to its high charge density.",
+"bn": "লিথিয়াম সোডিয়ামের তুলনায় কম ঘন এবং কম প্রতিক্রিয়াশীল, তবে এর উচ্চ চার্জ ঘনত্বের কারণে এর বন্ধনে শক্তিশালী সমযোজী চরিত্র তৈরি করে।"
+}
+}
+],
+"relatedElements": [3, 12, 19, 17],
+"quizQuestions": [
+{
+"question": {
+"en": "Which chemical family does sodium belong to on the periodic table?",
+"bn": "পর্যায় সারণিতে সোডিয়াম কোন রাসায়নিক পরিবারের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Alkaline earth metals",
+"bn": "ক্ষারীয় মৃত্তিকা ধাতু"
+},
+{
+"en": "Halogens",
+"bn": "হ্যালোজেন"
+},
+{
+"en": "Alkali metals",
+"bn": "ক্ষার ধাতু"
+},
+{
+"en": "Transition metals",
+"bn": "অবস্থান্তর ধাতু"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Sodium is in Group 1, known as the alkali metals, characterized by having a single valence electron.",
+"bn": "সোডিয়াম গ্রুপ ১ এ রয়েছে, যা ক্ষারীয় ধাতু হিসাবে পরিচিত, যার বৈশিষ্ট্য হলো একটি একক যোজ্যতা ইলেকট্রন থাকা।"
+}
+},
+{
+"question": {
+"en": "What happens when pure sodium metal is dropped into room-temperature water?",
+"bn": "বিশুদ্ধ সোডিয়াম ধাতু ঘরের তাপমাত্রার জলে ফেলা হলে কী ঘটে?"
+},
+"options": [
+{
+"en": "It sinks and dissolves harmlessly.",
+"bn": "এটি ডুবে যায় এবং ক্ষতিহীনভাবে দ্রবীভূত হয়।"
+},
+{
+"en": "It freezes the water.",
+"bn": "এটি জলকে হিমায়িত করে।"
+},
+{
+"en": "It turns into sodium chloride.",
+"bn": "এটি সোডিয়াম ক্লোরাইডে পরিণত হয়।"
+},
+{
+"en": "It reacts violently, releasing hydrogen gas and heat.",
+"bn": "এটি হিংস্রভাবে বিক্রিয়া করে, হাইড্রোজেন গ্যাস এবং তাপ নির্গত করে।"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The reaction is highly exothermic, producing sodium hydroxide and hydrogen gas, which often ignites due to the heat generated.",
+"bn": "বিক্রিয়াটি অত্যন্ত তাপোৎপাদী, সোডিয়াম হাইড্রোক্সাইড এবং হাইড্রোজেন গ্যাস উৎপন্ন করে, যা প্রায়শই উৎপন্ন তাপের কারণে জ্বলে ওঠে।"
+}
+},
+{
+"question": {
+"en": "What is the ground-state electron configuration of a neutral sodium atom?",
+"bn": "একটি নিরপেক্ষ সোডিয়াম পরমাণুর গ্রাউন্ড-স্টেট ইলেক্ট্রন বিন্যাস কী?"
+},
+"options": [
+{
+"en": "[Ne] 3s¹",
+"bn": "[Ne] 3s¹"
+},
+{
+"en": "[He] 2s¹",
+"bn": "[He] 2s¹"
+},
+{
+"en": "[Ar] 4s¹",
+"bn": "[Ar] 4s¹"
+},
+{
+"en": "1s² 2s² 2p⁶ 3s²",
+"bn": "1s² 2s² 2p⁶ 3s²"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Sodium has 11 electrons. The first 10 match Neon's configuration, leaving one electron in the 3s orbital.",
+"bn": "সোডিয়ামের ১১টি ইলেকট্রন রয়েছে। প্রথম ১০টি নিয়নের কনফিগারেশনের সাথে মেলে, একটি ইলেকট্রনকে 3s অরবিটালে রেখে যায়।"
+}
+},
+{
+"question": {
+"en": "Why must pure metallic sodium be stored under mineral oil?",
+"bn": "কেন বিশুদ্ধ ধাতব সোডিয়াম খনিজ তেলের নিচে সংরক্ষণ করতে হবে?"
+},
+"options": [
+{
+"en": "To keep it lubricated for cutting",
+"bn": "কাটার জন্য এটি লুব্রিকেটেড রাখতে"
+},
+{
+"en": "To prevent it from reacting with oxygen and moisture in the air",
+"bn": "বাতাসে অক্সিজেন এবং আর্দ্রতার সাথে এর বিক্রিয়া রোধ করতে"
+},
+{
+"en": "Because it dissolves in water",
+"bn": "কারণ এটি জলে দ্রবীভূত হয়"
+},
+{
+"en": "To increase its density",
+"bn": "এর ঘনত্ব বাড়াতে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Sodium readily oxidizes and reacts with humidity, so an inert liquid like oil acts as a protective barrier.",
+"bn": "সোডিয়াম সহজেই জারিত হয় এবং আর্দ্রতার সাথে বিক্রিয়া করে, তাই তেলের মতো একটি নিষ্ক্রিয় তরল একটি প্রতিরক্ষামূলক বাধা হিসাবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "What color does a sodium salt typically impart to a Bunsen burner flame?",
+"bn": "বুনসেন বার্নার শিখায় সোডিয়াম লবণ সাধারণত কোন রঙ প্রদান করে?"
+},
+"options": [
+{
+"en": "Crimson red",
+"bn": "ক্রিমসন লাল"
+},
+{
+"en": "Pale green",
+"bn": "ফ্যাকাশে সবুজ"
+},
+{
+"en": "Bright yellow",
+"bn": "উজ্জ্বল হলুদ"
+},
+{
+"en": "Lilac purple",
+"bn": "লিলাক বেগুনি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The excitation of sodium's valence electron produces strong emission lines at 589 nm, corresponding to bright yellow light.",
+"bn": "সোডিয়ামের যোজ্যতা ইলেকট্রনের উত্তেজনা ৫৮৯ ন্যানোমিটারে শক্তিশালী নির্গমন লাইন তৈরি করে, যা উজ্জ্বল হলুদ আলোর সাথে সামঞ্জস্যপূর্ণ।"
+}
+},
+{
+"question": {
+"en": "Which primary industrial process is used to isolate pure metallic sodium from sodium chloride?",
+"bn": "সোডিয়াম ক্লোরাইড থেকে বিশুদ্ধ ধাতব সোডিয়াম আলাদা করতে কোন প্রাথমিক শিল্প প্রক্রিয়াটি ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Haber-Bosch Process",
+"bn": "হ্যাবার-বশ প্রক্রিয়া"
+},
+{
+"en": "Downs Cell Electrolysis",
+"bn": "ডাউন্স সেল তড়িৎ বিশ্লেষণ"
+},
+{
+"en": "Hall-Héroult Process",
+"bn": "হল-হেরোল্ট প্রক্রিয়া"
+},
+{
+"en": "Contact Process",
+"bn": "যোগাযোগ প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The Downs cell utilizes the electrolysis of molten NaCl mixed with CaCl2 to produce liquid sodium metal.",
+"bn": "ডাউন্স সেল তরল সোডিয়াম ধাতু তৈরি করতে CaCl2 এর সাথে মিশ্রিত গলিত NaCl এর তড়িৎ বিশ্লেষণ ব্যবহার করে।"
+}
+},
+{
+"question": {
+"en": "In biological systems, which fundamental mechanism heavily relies on sodium ions (Na+) exchanging with potassium ions (K+)?",
+"bn": "জৈবিক সিস্টেমে, কোন মৌলিক প্রক্রিয়াটি পটাশিয়াম আয়নের (K+) সাথে সোডিয়াম আয়নের (Na+) বিনিময়ের উপর ব্যাপকভাবে নির্ভর করে?"
+},
+"options": [
+{
+"en": "Photosynthesis",
+"bn": "সালোকসংশ্লেষণ"
+},
+{
+"en": "Bone mineralization",
+"bn": "হাড়ের খনিজকরণ"
+},
+{
+"en": "Oxygen transport",
+"bn": "অক্সিজেন পরিবহন"
+},
+{
+"en": "Nerve impulse transmission (Action potentials)",
+"bn": "স্নায়ু আবেগ সঞ্চালন (অ্যাকশন পটেনশিয়াল)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The sodium-potassium pump maintains an electrochemical gradient across cell membranes, essential for firing neurons.",
+"bn": "সোডিয়াম-পটাশিয়াম পাম্প কোষের ঝিল্লি জুড়ে একটি ইলেক্ট্রোকেমিক্যাল গ্রেডিয়েন্ট বজায় রাখে, যা নিউরন ফায়ার করার জন্য অপরিহার্য।"
+}
+},
+{
+"question": {
+"en": "What is the common chemical name for sodium bicarbonate (NaHCO₃)?",
+"bn": "সোডিয়াম বাইকার্বনেটের (NaHCO₃) সাধারণ রাসায়নিক নাম কী?"
+},
+"options": [
+{
+"en": "Table salt",
+"bn": "টেবিল লবণ"
+},
+{
+"en": "Baking soda",
+"bn": "বেকিং সোডা"
+},
+{
+"en": "Caustic soda",
+"bn": "কস্টিক সোডা"
+},
+{
+"en": "Bleach",
+"bn": "ব্লিচ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Sodium bicarbonate is commonly known as baking soda and acts as a leavening agent in baking.",
+"bn": "সোডিয়াম বাইকার্বোনেট সাধারণত বেকিং সোডা নামে পরিচিত এবং বেকিংয়ে লিভনিং এজেন্ট হিসেবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "From which Latin word does sodium derive its chemical symbol 'Na'?",
+"bn": "কোন ল্যাটিন শব্দ থেকে সোডিয়াম এর রাসায়নিক প্রতীক 'Na' উদ্ভূত হয়েছে?"
+},
+"options": [
+{
+"en": "Natium",
+"bn": "ন্যাটিয়াম"
+},
+{
+"en": "Natrium",
+"bn": "ন্যাট্রিয়াম"
+},
+{
+"en": "Neon",
+"bn": "নিয়ন"
+},
+{
+"en": "Niter",
+"bn": "নিটার"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The symbol 'Na' comes from 'natrium', the Latin term for a naturally occurring sodium carbonate compound.",
+"bn": "'Na' প্রতীকটি 'ন্যাট্রিয়াম' থেকে এসেছে, যা প্রাকৃতিকভাবে প্রাপ্ত সোডিয়াম কার্বনেট যৌগের ল্যাটিন শব্দ।"
+}
+},
+{
+"question": {
+"en": "Which property of liquid sodium makes it particularly useful as a coolant in certain fast-breeder nuclear reactors?",
+"bn": "তরল সোডিয়ামের কোন বৈশিষ্ট্য এটিকে নির্দিষ্ট ফাস্ট-ব্রিডার পারমাণবিক চুল্লিতে কুল্যান্ট হিসাবে বিশেষভাবে দরকারী করে তোলে?"
+},
+"options": [
+{
+"en": "High thermal conductivity",
+"bn": "উচ্চ তাপ পরিবাহিতা"
+},
+{
+"en": "High density",
+"bn": "উচ্চ ঘনত্ব"
+},
+{
+"en": "Transparency to visible light",
+"bn": "দৃশ্যমান আলোর স্বচ্ছতা"
+},
+{
+"en": "Total lack of chemical reactivity",
+"bn": "রাসায়নিক প্রতিক্রিয়াশীলতার সম্পূর্ণ অভাব"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Liquid sodium efficiently transfers immense amounts of heat away from the reactor core without boiling.",
+"bn": "তরল সোডিয়াম না ফুটিয়েই চুল্লির মূল থেকে প্রচুর পরিমাণে তাপ দক্ষতার সাথে স্থানান্তর করে।"
+}
+},
+{
+"question": {
+"en": "What kind of chemical bond is predominantly formed between sodium and chlorine in NaCl?",
+"bn": "NaCl-এ সোডিয়াম এবং ক্লোরিনের মধ্যে প্রধানত কোন ধরনের রাসায়নিক বন্ধন তৈরি হয়?"
+},
+"options": [
+{
+"en": "Covalent bond",
+"bn": "সমযোজী বন্ধন"
+},
+{
+"en": "Metallic bond",
+"bn": "ধাতব বন্ধন"
+},
+{
+"en": "Hydrogen bond",
+"bn": "হাইড্রোজেন বন্ধন"
+},
+{
+"en": "Ionic bond",
+"bn": "আয়নিক বন্ধন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Sodium completely transfers its one valence electron to chlorine, resulting in an electrostatic ionic attraction.",
+"bn": "সোডিয়াম তার একটি যোজ্যতা ইলেকট্রন সম্পূর্ণরূপে ক্লোরিনে স্থানান্তর করে, যার ফলে একটি ইলেক্ট্রোস্ট্যাটিক আয়নিক আকর্ষণ তৈরি হয়।"
+}
+},
+{
+"question": {
+"en": "In terms of abundance, where does sodium rank in the Earth's crust?",
+"bn": "প্রচুর পরিমাণের দিক থেকে, পৃথিবীর ভূত্বকে সোডিয়ামের অবস্থান কততম?"
+},
+"options": [
+{
+"en": "1st",
+"bn": "১ম"
+},
+{
+"en": "3rd",
+"bn": "৩য়"
+},
+{
+"en": "6th",
+"bn": "৬ষ্ঠ"
+},
+{
+"en": "20th",
+"bn": "২০তম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Sodium constitutes about 2.36% of the Earth's crust by mass, making it the sixth most abundant element.",
+"bn": "সোডিয়াম পৃথিবীর ভূত্বকের ভরের প্রায় ২.৩৬% গঠন করে, যা এটিকে ষষ্ঠ সর্বাধিক প্রচুর উপাদানে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "How does the atomic radius of sodium compare to the atomic radius of magnesium (Mg), the element immediately to its right?",
+"bn": "সোডিয়ামের পারমাণবিক ব্যাসার্ধ এর ঠিক ডানদিকের উপাদান ম্যাগনেসিয়ামের (Mg) পারমাণবিক ব্যাসার্ধের সাথে কীভাবে তুলনা করা হয়?"
+},
+"options": [
+{
+"en": "Sodium is larger",
+"bn": "সোডিয়াম বড়"
+},
+{
+"en": "Sodium is smaller",
+"bn": "সোডিয়াম ছোট"
+},
+{
+"en": "They are exactly equal",
+"bn": "তারা অবিকল সমান"
+},
+{
+"en": "It changes based on temperature",
+"bn": "এটি তাপমাত্রার উপর ভিত্তি করে পরিবর্তিত হয়"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Atomic radius decreases across a period from left to right due to increasing effective nuclear charge pulling electrons closer.",
+"bn": "বাম থেকে ডানে একটি পিরিয়ড জুড়ে পারমাণবিক ব্যাসার্ধ হ্রাস পায় কারণ বর্ধিত কার্যকরী পারমাণবিক চার্জ ইলেকট্রনগুলিকে কাছাকাছি টেনে নেয়।"
+}
+},
+{
+"question": {
+"en": "Which major chronic health condition in humans is directly exacerbated by chronically high dietary intake of sodium?",
+"bn": "মানুষের কোন বড় দীর্ঘস্থায়ী স্বাস্থ্যগত অবস্থা দীর্ঘস্থায়ীভাবে উচ্চ খাদ্যতালিকাগত সোডিয়াম গ্রহণের কারণে সরাসরি বৃদ্ধি পায়?"
+},
+"options": [
+{
+"en": "Diabetes",
+"bn": "ডায়াবেটিস"
+},
+{
+"en": "Hypertension (High blood pressure)",
+"bn": "উচ্চ রক্তচাপ (হাইপারটেনশন)"
+},
+{
+"en": "Scurvy",
+"bn": "স্কার্ভি"
+},
+{
+"en": "Osteoporosis",
+"bn": "অস্টিওপোরোসিস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "High sodium intake forces the body to retain excess water, increasing blood volume and raising blood pressure against blood vessel walls.",
+"bn": "উচ্চ সোডিয়াম গ্রহণ শরীরকে অতিরিক্ত জল ধরে রাখতে বাধ্য করে, রক্তের পরিমাণ বাড়ায় এবং রক্তনালীর দেয়ালের বিরুদ্ধে রক্তচাপ বাড়ায়।"
+}
+},
+{
+"question": {
+"en": "Sodium rapidly tarnishes when exposed to air. What is primarily formed during this surface oxidation?",
+"bn": "বাতাসের সংস্পর্শে এলে সোডিয়াম দ্রুত কলঙ্কিত হয়। এই পৃষ্ঠের জারণের সময় প্রাথমিকভাবে কী গঠিত হয়?"
+},
+"options": [
+{
+"en": "Sodium oxide (Na₂O)",
+"bn": "সোডিয়াম অক্সাইড (Na₂O)"
+},
+{
+"en": "Sodium nitride",
+"bn": "সোডিয়াম নাইট্রাইড"
+},
+{
+"en": "Sodium chloride",
+"bn": "সোডিয়াম ক্লোরাইড"
+},
+{
+"en": "Sodium hydride",
+"bn": "সোডিয়াম হাইড্রাইড"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Oxygen in the air reacts with the pure metal to form a dull coating of sodium oxide.",
+"bn": "বাতাসে থাকা অক্সিজেন বিশুদ্ধ ধাতুর সাথে বিক্রিয়া করে সোডিয়াম অক্সাইডের একটি নিস্তেজ আবরণ তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "What is the standard oxidation state of sodium in all of its naturally occurring compounds?",
+"bn": "এর প্রাকৃতিকভাবে প্রাপ্ত সমস্ত যৌগে সোডিয়ামের আদর্শ জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "-1",
+"bn": "-১"
+},
+{
+"en": "0",
+"bn": "০"
+},
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Sodium easily loses its single valence electron to achieve a stable noble gas configuration, resulting in a +1 oxidation state.",
+"bn": "একটি স্থিতিশীল নোবেল গ্যাস কনফিগারেশন অর্জনের জন্য সোডিয়াম সহজেই তার একক যোজ্যতা ইলেকট্রন হারায়, যার ফলে +১ জারণ অবস্থা হয়।"
+}
+},
+{
+"question": {
+"en": "Why is sodium considered a highly promising material for next-generation, large-scale battery storage grids?",
+"bn": "কেন সোডিয়ামকে পরবর্তী প্রজন্মের, বৃহৎ আকারের ব্যাটারি স্টোরেজ গ্রিডের জন্য একটি অত্যন্ত প্রতিশ্রুতিশীল উপাদান হিসাবে বিবেচনা করা হয়?"
+},
+"options": [
+{
+"en": "It has a higher energy density than lithium",
+"bn": "এটির লিথিয়ামের চেয়ে উচ্চ শক্তির ঘনত্ব রয়েছে"
+},
+{
+"en": "It is vastly more abundant and cheaper than lithium",
+"bn": "এটি লিথিয়ামের চেয়ে অনেক বেশি প্রচুর এবং সস্তা"
+},
+{
+"en": "It never degrades or catches fire",
+"bn": "এটি কখনও ক্ষয় হয় না বা আগুন ধরে না"
+},
+{
+"en": "It can be mined directly from the atmosphere",
+"bn": "এটি সরাসরি বায়ুমণ্ডল থেকে খনি করা যেতে পারে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "While lithium-ion batteries are lighter, sodium is orders of magnitude more abundant and cheaper, making it ideal for stationary grid storage.",
+"bn": "যদিও লিথিয়াম-আয়ন ব্যাটারিগুলি হালকা, সোডিয়াম অনেক বেশি প্রচুর এবং সস্তা, যা এটিকে স্থির গ্রিড সংরক্ষণের জন্য আদর্শ করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What crystalline structure does solid sodium metal form at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় কঠিন সোডিয়াম ধাতু কী স্ফটিক কাঠামো তৈরি করে?"
+},
+"options": [
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টার্ড কিউবিক (FCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+},
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টার্ড কিউবিক (BCC)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like most alkali metals, sodium crystallizes in a body-centered cubic arrangement, which contributes to its softness.",
+"bn": "বেশিরভাগ ক্ষারীয় ধাতুর মতো, সোডিয়াম একটি বডি-সেন্টার্ড কিউবিক ব্যবস্থায় স্ফটিক হয়, যা এর কোমলতায় অবদান রাখে।"
+}
+},
+{
+"question": {
+"en": "Sir Humphry Davy discovered sodium in 1807. What compound did he electrolyze to isolate it?",
+"bn": "স্যার হামফ্রি ডেভি ১৮০৭ সালে সোডিয়াম আবিষ্কার করেন। এটি আলাদা করার জন্য তিনি কোন যৌগকে তড়িৎ বিশ্লেষণ করেছিলেন?"
+},
+"options": [
+{
+"en": "Sodium chloride",
+"bn": "সোডিয়াম ক্লোরাইড"
+},
+{
+"en": "Sodium hydroxide (Caustic soda)",
+"bn": "সোডিয়াম হাইড্রোক্সাইড (কস্টিক সোডা)"
+},
+{
+"en": "Sodium carbonate",
+"bn": "সোডিয়াম কার্বনেট"
+},
+{
+"en": "Sodium sulfate",
+"bn": "সোডিয়াম সালফেট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Davy applied an electrical current to molten caustic soda (NaOH) to separate out pure elemental sodium for the first time.",
+"bn": "ডেভি প্রথমবারের মতো খাঁটি মৌলিক সোডিয়াম আলাদা করতে গলিত কস্টিক সোডায় (NaOH) বৈদ্যুতিক প্রবাহ প্রয়োগ করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "In the chemical industry, the Solvay process is primarily used to manufacture which important sodium compound?",
+"bn": "রাসায়নিক শিল্পে, সলভে প্রক্রিয়াটি প্রাথমিকভাবে কোন গুরুত্বপূর্ণ সোডিয়াম যৌগ তৈরি করতে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Sodium carbonate (Na₂CO₃)",
+"bn": "সোডিয়াম কার্বনেট (Na₂CO₃)"
+},
+{
+"en": "Sodium hydroxide (NaOH)",
+"bn": "সোডিয়াম হাইড্রোক্সাইড (NaOH)"
+},
+{
+"en": "Sodium nitrate (NaNO₃)",
+"bn": "সোডিয়াম নাইট্রেট (NaNO₃)"
+},
+{
+"en": "Sodium azide (NaN₃)",
+"bn": "সোডিয়াম অ্যাজাইড (NaN₃)"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "The Solvay process converts sodium chloride and calcium carbonate into sodium carbonate, a crucial ingredient in glass manufacturing.",
+"bn": "সলভে প্রক্রিয়া সোডিয়াম ক্লোরাইড এবং ক্যালসিয়াম কার্বনেটকে সোডিয়াম কার্বনেটে রূপান্তর করে, যা কাচ তৈরির একটি গুরুত্বপূর্ণ উপাদান।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Many people confuse dietary 'sodium' with the explosive pure metal. In food, you are consuming stable sodium ions (Na+), not metallic sodium.",
+"bn": "অনেকে খাদ্যের 'সোডিয়াম' কে বিস্ফোরক খাঁটি ধাতুর সাথে বিভ্রান্ত করে। খাবারে, আপনি স্থিতিশীল সোডিয়াম আয়ন (Na+) গ্রহণ করছেন, ধাতব সোডিয়াম নয়।"
+},
+{
+"en": "Salt (NaCl) and sodium are not exactly the same thing; table salt is only about 40% sodium by weight.",
+"bn": "লবণ (NaCl) এবং সোডিয়াম ঠিক একই জিনিস নয়; টেবিল লবণে ওজনের দিক থেকে মাত্র ৪০% সোডিয়াম থাকে।"
+}
+],
+"learningTips": [
+{
+"en": "To remember the symbol 'Na', think of its Latin name 'Natrium', or 'NAturally salty'.",
+"bn": "'Na' প্রতীকটি মনে রাখার জন্য, এর ল্যাটিন নাম 'ন্যাট্রিয়াম' বা 'ন্যাচারালি সল্টি' (স্বভাবতই লবণাক্ত) এর কথা ভাবুন।"
+},
+{
+"en": "Sodium's atomic number is 11, meaning it has one valence electron past the noble gas Neon (atomic number 10).",
+"bn": "সোডিয়ামের পারমাণবিক সংখ্যা ১১, যার অর্থ নোবেল গ্যাস নিয়নের (পারমাণবিক সংখ্যা ১০) অতীত এর একটি যোজ্যতা ইলেকট্রন রয়েছে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Na + 2H₂O → 2NaOH + H₂",
+"description": {
+"en": "Violent reaction of metallic sodium with water producing sodium hydroxide and hydrogen gas.",
+"bn": "জলের সাথে ধাতব সোডিয়ামের হিংস্র বিক্রিয়া সোডিয়াম হাইড্রোক্সাইড এবং হাইড্রোজেন গ্যাস উৎপন্ন করে।"
+}
+},
+{
+"equation": "2Na + Cl₂ → 2NaCl",
+"description": {
+"en": "Direct combination reaction burning sodium in chlorine gas to yield sodium chloride.",
+"bn": "সোডিয়াম ক্লোরাইড উৎপাদনের জন্য ক্লোরিন গ্যাসে সোডিয়াম পুড়িয়ে সরাসরি সংমিশ্রণ বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Na → Na⁺ + e⁻",
+"description": {
+"en": "Oxidation of a sodium atom, losing its single valence electron to form a stable cation.",
+"bn": "সোডিয়াম পরমাণুর জারণ, স্থিতিশীল ক্যাটায়ন তৈরি করতে তার একক যোজ্যতা ইলেকট্রন হারায়।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Na⁺ + e⁻ → Na",
+"description": {
+"en": "Reduction of a sodium ion at the cathode during Downs cell electrolysis.",
+"bn": "ডাউন্স সেল তড়িৎ বিশ্লেষণের সময় ক্যাথোডে একটি সোডিয়াম আয়নের বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic Bond",
+"bn": "আয়নিক বন্ধন"
+},
+"molecule": "NaCl",
+"description": {
+"en": "Sodium transfers its single valence electron entirely to Chlorine, creating an electrostatic attraction between the Na⁺ and Cl⁻ ions.",
+"bn": "সোডিয়াম তার একক যোজ্যতা ইলেকট্রন সম্পূর্ণভাবে ক্লোরিনের কাছে স্থানান্তর করে, যা Na⁺ এবং Cl⁻ আয়নগুলির মধ্যে একটি ইলেক্ট্রোস্ট্যাটিক আকর্ষণ তৈরি করে।"
+}
+}
+]
+}
+}

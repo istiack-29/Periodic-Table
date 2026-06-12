@@ -1,0 +1,1019 @@
+{
+  "elementId": 38,
+  "basicInformation": {
+    "atomicNumber": 38,
+    "symbol": "Sr",
+    "name": {
+      "en": "Strontium",
+      "bn": "স্ট্রনশিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈstrɒntiəm/",
+      "bn": "স্ট্রন-শি-য়াম"
+    },
+    "atomicMass": 87.62,
+    "category": {
+      "en": "Alkaline earth metal",
+      "bn": "ক্ষারীয় মৃত্তিকা ধাতু"
+    },
+    "group": 2,
+    "period": 5,
+    "block": "s",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery-yellow metal",
+      "bn": "রূপালী-হলুদ ধাতু"
+    },
+    "color": {
+      "en": "Silvery yellow",
+      "bn": "রূপালী হলুদ"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "William Cruickshank",
+      "bn": "উইলিয়াম ক্রুকশ্যাঙ্ক"
+    },
+    "discoveryYear": 1787,
+    "discoveryLocation": {
+      "en": "Scotland",
+      "bn": "স্কটল্যান্ড"
+    },
+    "discoveryStory": {
+      "en": "Identified in strontianite mineral; isolated by Humphry Davy via electrolysis in 1808.",
+      "bn": "স্ট্রন্টিয়ানাইট খনিজে চিহ্নিত; ১৮০৮ সালে হামফ্রি ডেভি তড়িৎ বিশ্লেষণের মাধ্যমে আলাদা করেন।"
+    },
+    "historicalUses": {
+      "en": "Used in cathode-ray tube glass to block X-rays from old televisions.",
+      "bn": "পুরনো টেলিভিশন থেকে এক্স-রে ব্লক করতে ক্যাথোড-রে টিউব গ্লাসে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Davy's molten salt electrolysis isolating Sr metal.",
+      "bn": "ডেভির গলিত লবণ তড়িৎ বিশ্লেষণ Sr ধাতু আলাদা করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 38,
+    "neutrons": 50,
+    "electrons": 38,
+    "valenceElectrons": 2,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Kr] 5s²",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      2,
+      1
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 2.64,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1050,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1655,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 219,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 195,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 249,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 35.4,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 7620000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.301,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 1.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "ফেস-সেন্টারড কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 0.95,
+    "ionizationEnergy": {
+      "value": 549.5,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 5.03,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reacts vigorously with water and oxygen; ignites if finely divided.",
+      "bn": "জল ও অক্সিজেনের সাথে প্রবলভাবে বিক্রিয়া করে; সূক্ষ্মভাবে বিভক্ত হলে জ্বলে।"
+    },
+    "commonCompounds": [
+      "SrCO₃",
+      "SrO",
+      "SrSO₄",
+      "SrCl₂"
+    ],
+    "flameTestColor": {
+      "en": "Crimson red",
+      "bn": "টকটকে লাল"
+    },
+    "spectralLines": [
+      "407.77nm",
+      "421.55nm",
+      "460.73nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Strontium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "স্ট্রনশিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Strontium or its compounds.",
+      "bn": "স্ট্রনশিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Strontium-bearing alloys may be used in aerospace components.",
+      "bn": "স্ট্রনশিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Strontium (symbol Sr) is element 38 in the periodic table.",
+      "bn": "স্ট্রনশিয়াম (প্রতীক Sr) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Strontium exhibits chemistry consistent with its position in group 2, period 5.",
+      "bn": "স্ট্রনশিয়াম গ্রুপ 2, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Strontium has fascinating properties tied to its electronic structure.",
+        "bn": "স্ট্রনশিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 37,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Strontium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, স্ট্রনশিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Strontium?",
+          "bn": "স্ট্রনশিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "37",
+            "bn": "37"
+          },
+          {
+            "en": "38",
+            "bn": "38"
+          },
+          {
+            "en": "39",
+            "bn": "39"
+          },
+          {
+            "en": "40",
+            "bn": "40"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Strontium has 38 protons in its nucleus.",
+          "bn": "স্ট্রনশিয়াম-এর নিউক্লিয়াসে 38 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Strontium?",
+          "bn": "স্ট্রনশিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Sr",
+            "bn": "Sr"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Sr.",
+          "bn": "প্রতীকটি হল Sr।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Strontium belong?",
+          "bn": "স্ট্রনশিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Alkaline earth metal",
+            "bn": "ক্ষারীয় মৃত্তিকা ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Strontium is classified as a alkaline earth metal.",
+          "bn": "স্ট্রনশিয়াম-কে ক্ষারীয় মৃত্তিকা ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Strontium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে স্ট্রনশিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "1"
+          },
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Strontium sits in group 2.",
+          "bn": "স্ট্রনশিয়াম গ্রুপ 2-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Strontium reside?",
+          "bn": "স্ট্রনশিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Strontium sits in period 5.",
+          "bn": "স্ট্রনশিয়াম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Strontium?",
+          "bn": "স্ট্রনশিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 5s²",
+            "bn": "[Kr] 5s²"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 5s².",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 5s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Strontium?",
+          "bn": "স্ট্রনশিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "William Cruickshank",
+            "bn": "উইলিয়াম ক্রুকশ্যাঙ্ক"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "William Cruickshank is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় উইলিয়াম ক্রুকশ্যাঙ্ক-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Strontium discovered?",
+          "bn": "স্ট্রনশিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1737",
+            "bn": "1737"
+          },
+          {
+            "en": "1787",
+            "bn": "1787"
+          },
+          {
+            "en": "1837",
+            "bn": "1837"
+          },
+          {
+            "en": "1887",
+            "bn": "1887"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1787.",
+          "bn": "1787 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Strontium?",
+          "bn": "স্ট্রনশিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +2.",
+          "bn": "প্রধান জারণ অবস্থা +2।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Strontium?",
+          "bn": "স্ট্রনশিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "1.32 g/cm³",
+            "bn": "1.32 গ্রা/সেমি³"
+          },
+          {
+            "en": "2.640 g/cm³",
+            "bn": "2.640 গ্রা/সেমি³"
+          },
+          {
+            "en": "5.28 g/cm³",
+            "bn": "5.28 গ্রা/সেমি³"
+          },
+          {
+            "en": "10.56 g/cm³",
+            "bn": "10.56 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 2.640 g/cm³.",
+          "bn": "ঘনত্ব ≈ 2.640 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Strontium (K)?",
+          "bn": "স্ট্রনশিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "525 K",
+            "bn": "525 K"
+          },
+          {
+            "en": "1050 K",
+            "bn": "1050 K"
+          },
+          {
+            "en": "2100 K",
+            "bn": "2100 K"
+          },
+          {
+            "en": "4200 K",
+            "bn": "4200 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 1050 K.",
+          "bn": "গলনাঙ্ক ≈ 1050 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Strontium (K)?",
+          "bn": "স্ট্রনশিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "413 K",
+            "bn": "413 K"
+          },
+          {
+            "en": "827 K",
+            "bn": "827 K"
+          },
+          {
+            "en": "1655 K",
+            "bn": "1655 K"
+          },
+          {
+            "en": "3310 K",
+            "bn": "3310 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 1655 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 1655 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Strontium?",
+          "bn": "স্ট্রনশিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.47",
+            "bn": "0.47"
+          },
+          {
+            "en": "0.95",
+            "bn": "0.95"
+          },
+          {
+            "en": "1.42",
+            "bn": "1.42"
+          },
+          {
+            "en": "1.90",
+            "bn": "1.90"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 0.95.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 0.95।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Strontium (kJ/mol)?",
+          "bn": "স্ট্রনশিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "274",
+            "bn": "274"
+          },
+          {
+            "en": "549",
+            "bn": "549"
+          },
+          {
+            "en": "1099",
+            "bn": "1099"
+          },
+          {
+            "en": "1648",
+            "bn": "1648"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 549.5 kJ/mol.",
+          "bn": "প্রথম IE ≈ 549.5 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Strontium belong to?",
+          "bn": "স্ট্রনশিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Strontium is in the s-block.",
+          "bn": "স্ট্রনশিয়াম s-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Strontium have?",
+          "bn": "স্ট্রনশিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "1"
+          },
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "2 valence electrons.",
+          "bn": "2 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Strontium's atomic mass (u)?",
+          "bn": "স্ট্রনশিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "43.81",
+            "bn": "43.81"
+          },
+          {
+            "en": "87.62",
+            "bn": "87.62"
+          },
+          {
+            "en": "131.43",
+            "bn": "131.43"
+          },
+          {
+            "en": "175.24",
+            "bn": "175.24"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 87.62.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 87.62।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Strontium have?",
+          "bn": "স্ট্রনশিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "48",
+            "bn": "48"
+          },
+          {
+            "en": "50",
+            "bn": "50"
+          },
+          {
+            "en": "52",
+            "bn": "52"
+          },
+          {
+            "en": "54",
+            "bn": "54"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 50 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 50 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Strontium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন স্ট্রনশিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Face-centered cubic",
+            "bn": "ফেস-সেন্টারড কিউবিক"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Face-centered cubic lattice.",
+          "bn": "এটি ফেস-সেন্টারড কিউবিক জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Strontium?",
+          "bn": "কক্ষ তাপমাত্রায়, স্ট্রনশিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Strontium is a solid at STP.",
+          "bn": "STP-তে স্ট্রনশিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Strontium?",
+          "bn": "স্ট্রনশিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "SrCO₃",
+            "bn": "SrCO₃"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "SrCO₃ is a common compound.",
+          "bn": "SrCO₃ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Strontium addressed by modern chemistry.",
+        "bn": "স্ট্রনশিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Sr and atomic number, and its group/period.",
+        "bn": "প্রতীক Sr এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

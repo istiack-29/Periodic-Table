@@ -1,0 +1,1007 @@
+{
+"elementId": 12,
+"basicInformation": {
+"atomicNumber": 12,
+"symbol": "Mg",
+"name": {
+"en": "Magnesium",
+"bn": "ম্যাগনেসিয়াম"
+},
+"pronunciation": {
+"en": "/mæɡˈniːziəm/",
+"bn": "ম্যা-গ-নে-সি-য়াম"
+},
+"atomicMass": 24.305,
+"category": {
+"en": "Alkaline earth metal",
+"bn": "ক্ষারীয় মৃত্তিকা ধাতু"
+},
+"group": 2,
+"period": 3,
+"block": "s",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Shiny grey solid",
+"bn": "চকচকে ধূসর কঠিন"
+},
+"color": {
+"en": "Silvery-white",
+"bn": "রূপালী-সাদা"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Joseph Black (recognized) / Humphry Davy (isolated)",
+"bn": "জোসেফ ব্ল্যাক (শনাক্তকারী) / হামফ্রি ডেভি (বিচ্ছিন্নকারী)"
+},
+"discoveryYear": 1755,
+"discoveryLocation": {
+"en": "United Kingdom",
+"bn": "যুক্তরাজ্য"
+},
+"discoveryStory": {
+"en": "Joseph Black recognized magnesium as an element in 1755. It was first isolated by Sir Humphry Davy in 1808 via the electrolysis of a mixture of magnesia and mercuric oxide.",
+"bn": "১৭৫৫ সালে জোসেফ ব্ল্যাক ম্যাগনেসিয়ামকে একটি উপাদান হিসাবে স্বীকৃতি দেন। ১৮০৮ সালে স্যার হামফ্রি ডেভি ম্যাগনেসিয়া এবং মারকিউরিক অক্সাইডের মিশ্রণের তড়িৎ বিশ্লেষণের মাধ্যমে এটি প্রথম আলাদা করেন।"
+},
+"historicalUses": {
+"en": "Epsom salts (magnesium sulfate) have been used medically since the 17th century. Magnesium powder was essential in early photography as flash powder.",
+"bn": "এপসম সল্ট (ম্যাগনেসিয়াম সালফেট) ১৭শ শতাব্দী থেকে চিকিৎসায় ব্যবহৃত হয়ে আসছে। প্রাথমিক ফটোগ্রাফিতে ফ্ল্যাশ পাউডার হিসেবে ম্যাগনেসিয়াম পাউডার অপরিহার্য ছিল।"
+},
+"famousExperiments": {
+"en": "Davy's electrolysis using a mercury cathode to form a magnesium amalgam, followed by heating to remove the mercury and leave pure magnesium.",
+"bn": "পারদ ক্যাথোড ব্যবহার করে ডেভির তড়িৎ বিশ্লেষণ, যা একটি ম্যাগনেসিয়াম অ্যামালগাম তৈরি করে, এবং পরে পারদ অপসারণ এবং খাঁটি ম্যাগনেসিয়াম পাওয়ার জন্য তাপ প্রয়োগ করা হয়।"
+}
+},
+"atomicStructure": {
+"protons": 12,
+"neutrons": 12,
+"electrons": 12,
+"valenceElectrons": 2,
+"shells": 3,
+"shellDistribution": [2, 8, 2],
+"electronConfiguration": "1s² 2s² 2p⁶ 3s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2
+},
+"oxidationStates": [2, 1],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 1.738,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 923,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 1363,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 173,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 141,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 173,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 156.0,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 22600000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 1.02,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 2.5,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+},
+"magneticOrdering": {
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.31,
+"ionizationEnergy": {
+"value": 737.7,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": -40.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Tarnishes slightly in air. Reacts slowly with cold water, but rapidly with steam. Burns in air with a brilliant white light.",
+"bn": "বাতাসে সামান্য কালচে হয়। ঠাণ্ডা জলের সাথে ধীর গতিতে, কিন্তু বাষ্পের সাথে দ্রুত বিক্রিয়া করে। বাতাসে উজ্জ্বল সাদা আলো সহ জ্বলে।"
+},
+"commonCompounds": ["MgO", "MgCl₂", "MgSO₄", "Mg(OH)₂", "MgCO₃"],
+"flameTestColor": {
+"en": "Brilliant white",
+"bn": "উজ্জ্বল সাদা"
+},
+"spectralLines": ["285.2nm", "383.8nm", "516.7nm", "517.2nm", "518.3nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Used to desulfurize iron and steel, and in the production of titanium via the Kroll process.",
+"bn": "লোহা এবং ইস্পাতকে ডিসালফারাইজ করতে এবং ক্রোল প্রক্রিয়ার মাধ্যমে টাইটানিয়াম উৎপাদনে ব্যবহৃত হয়।"
+},
+"commercialUses": {
+"en": "Alloyed with aluminum to create lightweight, strong beverage cans, car engines, and electronics casings.",
+"bn": "অ্যালুমিনিয়ামের সাথে মিশ্রিত করে হালকা, শক্তিশালী পানীয়ের ক্যান, গাড়ির ইঞ্জিন এবং ইলেকট্রনিক্স কেসিং তৈরি করা হয়।"
+},
+"electronicsUses": {
+"en": "Die-cast magnesium is used in high-end laptop chassis, cameras, and mobile phones for its low weight and electromagnetic shielding.",
+"bn": "ডাই-কাস্ট ম্যাগনেসিয়াম এর কম ওজন এবং ইলেক্ট্রোম্যাগনেটিক শিল্ডিংয়ের কারণে হাই-এন্ড ল্যাপটপ চ্যাসিস, ক্যামেরা এবং মোবাইল ফোনে ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "Used as a p-type dopant in gallium nitride (GaN) for light-emitting diodes (LEDs).",
+"bn": "লাইট-এমিটিং ডায়োডের (LEDs) জন্য গ্যালিয়াম নাইট্রাইডে (GaN) পি-টাইপ ডোপান্ট হিসাবে ব্যবহৃত হয়।"
+},
+"aerospaceUses": {
+"en": "Crucial for aerospace components, gearboxes, and helicopter rotor fittings due to its exceptional strength-to-weight ratio.",
+"bn": "এর ব্যতিক্রমী শক্তি-থেকে-ওজন অনুপাতের কারণে মহাকাশের উপাদান, গিয়ারবক্স এবং হেলিকপ্টার রোটর ফিটিংয়ের জন্য গুরুত্বপূর্ণ।"
+},
+"batteryUses": {
+"en": "Magnesium-ion batteries are heavily researched as a safe, high-capacity alternative to lithium-ion technology.",
+"bn": "ম্যাগনেসিয়াম-আয়ন ব্যাটারি লিথিয়াম-আয়ন প্রযুক্তির একটি নিরাপদ, উচ্চ-ক্ষমতাসম্পন্ন বিকল্প হিসাবে ব্যাপকভাবে গবেষণা করা হচ্ছে।"
+},
+"aiHardwareUses": {
+"en": "Lightweight heat sinks and structural components in robotics and automated hardware.",
+"bn": "রোবোটিক্স এবং স্বয়ংক্রিয় হার্ডওয়্যারে লাইটওয়েট হিট সিঙ্ক এবং কাঠামোগত উপাদান।"
+},
+"renewableEnergyUses": {
+"en": "Magnesium hydride (MgH2) is considered a highly promising solid-state storage medium for green hydrogen.",
+"bn": "ম্যাগনেসিয়াম হাইড্রাইডকে (MgH2) সবুজ হাইড্রোজেনের জন্য একটি অত্যন্ত প্রতিশ্রুতিশীল সলিড-স্টেট স্টোরেজ মাধ্যম হিসেবে বিবেচনা করা হয়।"
+},
+"nanotechnologyUses": {
+"en": "Magnesium nanoparticles are used in advanced hydrogen storage and biomedical implants.",
+"bn": "ম্যাগনেসিয়াম ন্যানো পার্টিকেল উন্নত হাইড্রোজেন স্টোরেজ এবং বায়োমেডিকেল ইমপ্লান্টে ব্যবহৃত হয়।"
+},
+"nuclearUses": {
+"en": "Magnox (magnesium non-oxidizing) alloy was used to clad uranium fuel elements in early UK nuclear reactors.",
+"bn": "ম্যাগনক্স (ম্যাগনেসিয়াম নন-অক্সিডাইজিং) সংকর ধাতু যুক্তরাজ্যের প্রথম দিকের পারমাণবিক চুল্লিগুলোতে ইউরেনিয়াম জ্বালানী উপাদান আবৃত করতে ব্যবহৃত হয়েছিল।"
+},
+"militaryUses": {
+"en": "Used in incendiary bombs, flares, and tracer bullets due to its intensely bright, high-temperature combustion.",
+"bn": "অত্যন্ত উজ্জ্বল, উচ্চ-তাপমাত্রার দহনের কারণে দাহ্য বোমা, ফ্লেয়ার এবং ট্রেসার বুলেটে ব্যবহৃত হয়।"
+},
+"medicalUses": {
+"en": "Magnesium hydroxide (Milk of Magnesia) as an antacid/laxative; emerging biodegradable stents and bone implants.",
+"bn": "অ্যান্টাসিড/ল্যাক্সেটিভ হিসাবে ম্যাগনেসিয়াম হাইড্রোক্সাইড (মিল্ক অফ ম্যাগনেসিয়া); উদীয়মান বায়োডিগ্রেডেবল স্টেন্ট এবং হাড়ের ইমপ্লান্ট।"
+},
+"foodIndustryUses": {
+"en": "Magnesium salts are used as coagulants in tofu production (nigari) and as anti-caking agents.",
+"bn": "ম্যাগনেসিয়াম লবণ টোফু উৎপাদনে (নিগারি) জমাট বাঁধা এজেন্ট এবং অ্যান্টি-কেকিং এজেন্ট হিসেবে ব্যবহৃত হয়।"
+},
+"constructionUses": {
+"en": "Magnesium oxide (magnesia) is a major component of high-performance refractory bricks and specialized cement.",
+"bn": "ম্যাগনেসিয়াম অক্সাইড (ম্যাগনেসিয়া) উচ্চ-কর্মক্ষমতাসম্পন্ন অবাধ্য ইট এবং বিশেষ সিমেন্টের একটি প্রধান উপাদান।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Absolutely essential. It is the central atom in the chlorophyll molecule, making it critical for photosynthesis.",
+"bn": "একেবারে অপরিহার্য। এটি ক্লোরোফিল অণুর কেন্দ্রীয় পরমাণু, যা একে সালোকসংশ্লেষণের জন্য অত্যন্ত গুরুত্বপূর্ণ করে তোলে।"
+},
+"humanBodyRole": {
+"en": "Required as a cofactor for over 300 enzyme systems, particularly those utilizing ATP for energy. Crucial for bone structure.",
+"bn": "৩০০ টিরও বেশি এনজাইম সিস্টেমের কোফ্যাক্টর হিসাবে প্রয়োজনীয়, বিশেষ করে যেগুলি শক্তির জন্য ATP ব্যবহার করে। হাড়ের গঠনের জন্য গুরুত্বপূর্ণ।"
+},
+"toxicity": {
+"en": "Low toxicity. However, excessive inhalation of fresh magnesium oxide fumes can cause metal fume fever.",
+"bn": "নিম্ন বিষাক্ততা। তবে তাজা ম্যাগনেসিয়াম অক্সাইড ধোঁয়ার অতিরিক্ত শ্বাস গ্রহণে মেটাল ফিউম ফিভার হতে পারে।"
+},
+"environmentalImpact": {
+"en": "Highly eco-friendly and fully biodegradable in its metallic state, leaving behind harmless oxides or hydroxides.",
+"bn": "অত্যন্ত পরিবেশবান্ধব এবং এর ধাতব অবস্থায় সম্পূর্ণ বায়োডিগ্রেডেবল, ক্ষতিকারক অক্সাইড বা হাইড্রোক্সাইড রেখে যায়।"
+},
+"pollutionRisks": {
+"en": "Mining operations for magnesite can cause local particulate pollution, but the element itself is non-polluting.",
+"bn": "ম্যাগনেসাইটের খনি খনন কাজে স্থানীয় কণা দূষণ হতে পারে, কিন্তু উপাদানটি নিজে দূষণকারী নয়।"
+},
+"recyclingMethods": {
+"en": "Easily recyclable from alloy scrap. Takes only 5% of the energy required to produce primary magnesium.",
+"bn": "অ্যালয় স্ক্র্যাপ থেকে সহজেই পুনর্ব্যবহারযোগ্য। প্রাথমিক ম্যাগনেসিয়াম তৈরি করতে যে শক্তির প্রয়োজন তার মাত্র ৫% লাগে।"
+},
+"sustainabilityScore": 9.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "Turkey",
+"bn": "তুরস্ক"
+}
+],
+"miningMethods": {
+"en": "Electrolysis of brine/seawater, and thermal reduction of magnesite or dolomite ores (the Pidgeon process).",
+"bn": "ব্রাইন/সমুদ্রের জলের তড়িৎ বিশ্লেষণ এবং ম্যাগনেসাইট বা ডলোমাইট আকরিকগুলোর তাপীয় বিজারণ (পিজিয়ন প্রক্রিয়া)।"
+},
+"abundance": {
+"universe": {
+"en": "0.06% by mass",
+"bn": "ভর অনুযায়ী ০.০৬%"
+},
+"earthCrust": {
+"en": "2.33% by mass (8th most abundant)",
+"bn": "ভর অনুযায়ী ২.৩৩% (৮ম সর্বাধিক প্রচুর)"
+},
+"oceans": {
+"en": "0.13% by mass (3rd most abundant in seawater)",
+"bn": "ভর অনুযায়ী ০.১৩% (সমুদ্রের জলে ৩য় সর্বাধিক প্রচুর)"
+}
+},
+"marketValue": {
+"en": "Historically trades around $3.00 - $6.00 per kg for high-purity ingots.",
+"bn": "ঐতিহাসিকভাবে উচ্চ-বিশুদ্ধতা যুক্ত ইনগটের জন্য প্রতি কেজি প্রায় $৩.০০ - $৬.০০ এ ট্রেড করা হয়।"
+},
+"futureDemand": {
+"en": "Expected to rise significantly as the automotive industry seeks lighter materials for electric vehicle (EV) weight offset.",
+"bn": "বৈদ্যুতিক গাড়ির (EV) ওজন কমানোর জন্য স্বয়ংচালিত শিল্প হালকা উপকরণের সন্ধান করায় উল্লেখযোগ্যভাবে বৃদ্ধি পাবে বলে আশা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "Strategic metal for lightweight engineering, aerospace structural integrity, and global steel production.",
+"bn": "হালকা ওজনের প্রকৌশল, মহাকাশ কাঠামোগত অখণ্ডতা এবং বৈশ্বিক ইস্পাত উৎপাদনের জন্য কৌশলগত ধাতু।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Flammable in powder, ribbon, or shaving form. Burns incredibly hot (3,100 °C) and emits blinding ultraviolet light.",
+"bn": "গুঁড়ো, ফিতা, বা শেভিং আকারে দাহ্য। অবিশ্বাস্যভাবে গরম (৩,১০০ °C) জ্বলে এবং অন্ধকারী অতিবেগুনী আলো নির্গত করে।"
+},
+"storageRequirements": {
+"en": "Store away from water, moisture, and oxidizers. Solid blocks are safe, but finely divided magnesium must be kept dry and sealed.",
+"bn": "জল, আর্দ্রতা এবং জারক থেকে দূরে সংরক্ষণ করুন। কঠিন ব্লকগুলো নিরাপদ, কিন্তু মিহি ম্যাগনেসিয়াম পাউডার শুকনো এবং সিল করা রাখতে হবে।"
+},
+"handlingProcedures": {
+"en": "Wear dark UV-protective safety glasses when burning. Never attempt to extinguish a magnesium fire with water.",
+"bn": "জ্বলন্ত অবস্থায় গাঢ় ইউভি-প্রতিরক্ষামূলক সুরক্ষা চশমা পরিধান করুন। ম্যাগনেসিয়ামের আগুন জলে নেভানোর চেষ্টা করবেন না।"
+},
+"exposureRisks": {
+"en": "Staring at burning magnesium without protection causes 'welder's flash' (temporary or permanent retina damage).",
+"bn": "সুরক্ষা ছাড়া জ্বলন্ত ম্যাগনেসিয়ামের দিকে তাকালে 'ওয়েল্ডারস ফ্ল্যাশ' (অস্থায়ী বা স্থায়ী রেটিনার ক্ষতি) হয়।"
+},
+"safetyLevel": {
+"en": "Moderate to High Risk (Fire Hazard)",
+"bn": "মাঝারি থেকে উচ্চ ঝুঁকি (অগ্নি ঝুঁকি)"
+},
+"hazardClassifications": [
+{
+"en": "Flammable Solid",
+"bn": "দাহ্য কঠিন পদার্থ"
+},
+{
+"en": "Self-Heating",
+"bn": "স্ব-উত্তপ্তকারী"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Magnesium is a lightweight, strong metal. It is famous for burning with a blinding white light. It's also the secret ingredient inside plant leaves (chlorophyll) that makes them green.",
+"bn": "ম্যাগনেসিয়াম একটি হালকা, শক্তিশালী ধাতু। এটি অন্ধকারী সাদা আলো দিয়ে জ্বলার জন্য বিখ্যাত। এটি গাছের পাতার (ক্লোরোফিল) ভেতরের গোপন উপাদান যা তাদের সবুজ করে তোলে।"
+},
+"advancedExplanation": {
+"en": "As an alkaline earth metal, magnesium readily donates its two 3s electrons. Despite its reactivity, the bulk metal naturally coats itself with a passivating layer of impermeable magnesium oxide, arresting further corrosion.",
+"bn": "ক্ষারীয় মৃত্তিকা ধাতু হিসেবে, ম্যাগনেসিয়াম সহজেই তার দুটি 3s ইলেকট্রন দান করে। এর প্রতিক্রিয়াশীলতা সত্ত্বেও, বাল্ক ধাতুটি প্রাকৃতিকভাবে নিজেকে অভেদ্য ম্যাগনেসিয়াম অক্সাইডের একটি নিষ্ক্রিয় স্তর দিয়ে আবরণ করে, যা আরও ক্ষয় রোধ করে।"
+},
+"funFacts": [
+{
+"en": "When magnesium burns, it's so reactive it can literally rip oxygen right out of water (H2O) and carbon dioxide (CO2), keeping the fire going.",
+"bn": "যখন ম্যাগনেসিয়াম পুড়ে যায়, এটি এতটা প্রতিক্রিয়াশীল হয় যে এটি আক্ষরিক অর্থেই জল (H2O) এবং কার্বন ডাই অক্সাইড (CO2) থেকে অক্সিজেন ছিনিয়ে নিতে পারে, যার ফলে আগুন জ্বলতে থাকে।"
+},
+{
+"en": "Every molecule of ATP—the energy currency of your body—must be bound to a magnesium ion to be biologically active.",
+"bn": "আপনার শরীরের শক্তির উৎস ATP-এর প্রতিটি অণুকে জৈবিকভাবে সক্রিয় হতে একটি ম্যাগনেসিয়াম আয়নের সাথে আবদ্ধ হতে হবে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 13,
+"relation": {
+"en": "Aluminum is heavier but more corrosion-resistant. The two are often alloyed together to combine magnesium's lightness with aluminum's strength.",
+"bn": "অ্যালুমিনিয়াম ভারী তবে বেশি ক্ষয়-প্রতিরোধী। অ্যালুমিনিয়ামের শক্তির সাথে ম্যাগনেসিয়ামের হালকা ওজনের সমন্বয় করতে এই দুটিকে প্রায়শই সংকর করা হয়।"
+}
+},
+{
+"compareWithId": 20,
+"relation": {
+"en": "Calcium is directly below Magnesium. Calcium is larger, softer, and more reactive with water compared to Magnesium.",
+"bn": "ক্যালসিয়াম সরাসরি ম্যাগনেসিয়ামের নিচে অবস্থিত। ম্যাগনেসিয়ামের তুলনায় ক্যালসিয়াম বড়, নরম এবং জলের সাথে বেশি প্রতিক্রিয়াশীল।"
+}
+}
+],
+"relatedElements": [4, 11, 13, 20],
+"quizQuestions": [
+{
+"question": {
+"en": "To which chemical group does magnesium belong?",
+"bn": "ম্যাগনেসিয়াম কোন রাসায়নিক গ্রুপের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Alkali metals",
+"bn": "ক্ষার ধাতু"
+},
+{
+"en": "Alkaline earth metals",
+"bn": "ক্ষারীয় মৃত্তিকা ধাতু"
+},
+{
+"en": "Transition metals",
+"bn": "অবস্থান্তর ধাতু"
+},
+{
+"en": "Noble gases",
+"bn": "নিষ্ক্রিয় গ্যাস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Magnesium is in Group 2 of the periodic table, known as the alkaline earth metals.",
+"bn": "ম্যাগনেসিয়াম পর্যায় সারণির ২য় গ্রুপে অবস্থিত, যা ক্ষারীয় মৃত্তিকা ধাতু নামে পরিচিত।"
+}
+},
+{
+"question": {
+"en": "Which essential biological molecule contains a magnesium ion at its exact center?",
+"bn": "কোন প্রয়োজনীয় জৈবিক অণুর ঠিক কেন্দ্রে একটি ম্যাগনেসিয়াম আয়ন থাকে?"
+},
+"options": [
+{
+"en": "Hemoglobin",
+"bn": "হিমোগ্লোবিন"
+},
+{
+"en": "Melanin",
+"bn": "মেলানিন"
+},
+{
+"en": "Chlorophyll",
+"bn": "ক্লোরোফিল"
+},
+{
+"en": "Insulin",
+"bn": "ইনসুলিন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Chlorophyll, the pigment responsible for photosynthesis in plants, features a porphyrin ring with a central magnesium atom.",
+"bn": "উদ্ভিদের সালোকসংশ্লেষণের জন্য দায়ী রঙ্গক ক্লোরোফিলে একটি কেন্দ্রীয় ম্যাগনেসিয়াম পরমাণু সহ একটি পোরফাইরিন রিং থাকে।"
+}
+},
+{
+"question": {
+"en": "Why should you never use water or CO₂ extinguishers to put out a magnesium fire?",
+"bn": "ম্যাগনেসিয়ামের আগুন নেভানোর জন্য আপনার কেন কখনও জল বা CO₂ নির্বাপক যন্ত্র ব্যবহার করা উচিত নয়?"
+},
+"options": [
+{
+"en": "It produces toxic cyanide gas",
+"bn": "এটি বিষাক্ত সায়ানাইড গ্যাস তৈরি করে"
+},
+{
+"en": "Magnesium reacts with them to rip away oxygen, accelerating the fire",
+"bn": "ম্যাগনেসিয়াম তাদের সাথে বিক্রিয়া করে অক্সিজেন ছিনিয়ে নেয়, যা আগুনকে বাড়িয়ে দেয়"
+},
+{
+"en": "It freezes the magnesium instantly",
+"bn": "এটি ম্যাগনেসিয়ামকে তাৎক্ষণিকভাবে হিমায়িত করে"
+},
+{
+"en": "The magnesium becomes radioactive",
+"bn": "ম্যাগনেসিয়াম তেজস্ক্রিয় হয়ে ওঠে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Burning magnesium is so hot and reactive it breaks down H2O into explosive hydrogen gas and strips oxygen from CO2.",
+"bn": "জ্বলন্ত ম্যাগনেসিয়াম এত গরম এবং প্রতিক্রিয়াশীল যে এটি H2O-কে বিস্ফোরক হাইড্রোজেন গ্যাসে ভেঙে দেয় এবং CO2 থেকে অক্সিজেন ছিনিয়ে নেয়।"
+}
+},
+{
+"question": {
+"en": "What type of fire extinguisher is specifically required for burning magnesium?",
+"bn": "জ্বলন্ত ম্যাগনেসিয়ামের জন্য নির্দিষ্টভাবে কোন ধরনের অগ্নিনির্বাপক যন্ত্র প্রয়োজন?"
+},
+"options": [
+{
+"en": "Class A (Water)",
+"bn": "ক্লাস এ (জল)"
+},
+{
+"en": "Class B (Foam)",
+"bn": "ক্লাস বি (ফেনা)"
+},
+{
+"en": "Class D (Dry Powder)",
+"bn": "ক্লাস ডি (শুকনো পাউডার)"
+},
+{
+"en": "Class C (Electrical)",
+"bn": "ক্লাস সি (বৈদ্যুতিক)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Class D extinguishers contain dry powder (like sodium chloride or sand) that smothers combustible metal fires without reacting.",
+"bn": "ক্লাস ডি এক্সটিংগুইশারে শুকনো পাউডার (যেমন সোডিয়াম ক্লোরাইড বা বালি) থাকে যা প্রতিক্রিয়া ছাড়াই দাহ্য ধাতুর আগুন নিভিয়ে দেয়।"
+}
+},
+{
+"question": {
+"en": "What is the common name for an aqueous suspension of magnesium hydroxide, widely used as an antacid?",
+"bn": "ম্যাগনেসিয়াম হাইড্রোক্সাইডের জলীয় সাসপেনশনের সাধারণ নাম কী, যা ব্যাপকভাবে অ্যান্টাসিড হিসাবে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Epsom Salt",
+"bn": "এপসম লবণ"
+},
+{
+"en": "Milk of Magnesia",
+"bn": "মিল্ক অফ ম্যাগনেসিয়া"
+},
+{
+"en": "Plaster of Paris",
+"bn": "প্লাস্টার অফ প্যারিস"
+},
+{
+"en": "Baking Soda",
+"bn": "বেকিং সোডা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Magnesium hydroxide in water has a milk-like appearance and neutralizes stomach acid.",
+"bn": "জলে ম্যাগনেসিয়াম হাইড্রোক্সাইড দুধের মতো দেখায় এবং পাকস্থলীর অ্যাসিডকে নিরপেক্ষ করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial method for extracting magnesium from seawater?",
+"bn": "সমুদ্রের জল থেকে ম্যাগনেসিয়াম আহরণের প্রাথমিক শিল্প পদ্ধতি কী?"
+},
+"options": [
+{
+"en": "The Dow Process",
+"bn": "ডাউ প্রক্রিয়া"
+},
+{
+"en": "The Haber Process",
+"bn": "হ্যাবার প্রক্রিয়া"
+},
+{
+"en": "The Contact Process",
+"bn": "যোগাযোগ প্রক্রিয়া"
+},
+{
+"en": "The Solvay Process",
+"bn": "সলভে প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "The Dow process isolates magnesium from seawater by precipitation as magnesium hydroxide, conversion to magnesium chloride, and subsequent electrolysis.",
+"bn": "ডাউ প্রক্রিয়ায় সমুদ্রের জল থেকে ম্যাগনেসিয়াম হাইড্রোক্সাইড হিসাবে বৃষ্টিপাত, ম্যাগনেসিয়াম ক্লোরাইডে রূপান্তর এবং পরবর্তী তড়িৎ বিশ্লেষণের মাধ্যমে ম্যাগনেসিয়াম আলাদা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What highly reactive class of organometallic compounds, vital for organic synthesis, contains a carbon-magnesium-halogen bond?",
+"bn": "জৈব সংশ্লেষণের জন্য অত্যাবশ্যকীয় কোন উচ্চ প্রতিক্রিয়াশীল জৈব-ধাতব যৌগগুলোর ক্লাসে কার্বন-ম্যাগনেসিয়াম-হ্যালোজেন বন্ধন থাকে?"
+},
+"options": [
+{
+"en": "Ziegler-Natta catalysts",
+"bn": "জিগলার-নাট্টা অনুঘটক"
+},
+{
+"en": "Grignard reagents",
+"bn": "গ্রিগনার্ড বিকারক"
+},
+{
+"en": "Gilman reagents",
+"bn": "গিলম্যান বিকারক"
+},
+{
+"en": "Schiff bases",
+"bn": "শিফ বেস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Grignard reagents (R-Mg-X) are heavily used in organic chemistry to form carbon-carbon bonds.",
+"bn": "গ্রিগনার্ড বিকারকগুলো (R-Mg-X) কার্বন-কার্বন বন্ধন গঠনের জন্য জৈব রসায়নে ব্যাপকভাবে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "What is the ground-state electron configuration of the Mg²⁺ ion?",
+"bn": "Mg²⁺ আয়নের গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশন কী?"
+},
+"options": [
+{
+"en": "1s² 2s² 2p⁶ 3s²",
+"bn": "1s² 2s² 2p⁶ 3s²"
+},
+{
+"en": "1s² 2s² 2p⁶ 3s¹",
+"bn": "1s² 2s² 2p⁶ 3s¹"
+},
+{
+"en": "1s² 2s² 2p⁶",
+"bn": "1s² 2s² 2p⁶"
+},
+{
+"en": "1s² 2s² 2p⁵",
+"bn": "1s² 2s² 2p⁵"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "A neutral Mg atom has 12 electrons. Mg²⁺ has lost its two 3s valence electrons, leaving it isoelectronic with Neon (10 electrons).",
+"bn": "একটি নিরপেক্ষ Mg পরমাণুর ১২টি ইলেকট্রন থাকে। Mg²⁺ তার দুটি 3s যোজ্যতা ইলেকট্রন হারিয়েছে, যা একে নিয়নের (১০ ইলেকট্রন) সাথে আইসোইলেক্ট্রনিক করে তোলে।"
+}
+},
+{
+"question": {
+"en": "When magnesium burns in air, it reacts with both oxygen and nitrogen. What compound is formed from the nitrogen?",
+"bn": "ম্যাগনেসিয়াম যখন বাতাসে পুড়ে যায়, তখন এটি অক্সিজেন এবং নাইট্রোজেন উভয়ের সাথেই বিক্রিয়া করে। নাইট্রোজেন থেকে কোন যৌগ তৈরি হয়?"
+},
+"options": [
+{
+"en": "Magnesium nitrate",
+"bn": "ম্যাগনেসিয়াম নাইট্রেট"
+},
+{
+"en": "Magnesium nitrite",
+"bn": "ম্যাগনেসিয়াম নাইট্রাইট"
+},
+{
+"en": "Magnesium nitride (Mg₃N₂)",
+"bn": "ম্যাগনেসিয়াম নাইট্রাইড (Mg₃N₂)"
+},
+{
+"en": "Magnesium azide",
+"bn": "ম্যাগনেসিয়াম অ্যাজাইড"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Due to the extreme heat, magnesium forces stable N2 gas to react, forming magnesium nitride (Mg3N2).",
+"bn": "চরম উত্তাপের কারণে, ম্যাগনেসিয়াম স্থিতিশীল N2 গ্যাসকে বিক্রিয়া করতে বাধ্য করে, যা ম্যাগনেসিয়াম নাইট্রাইড (Mg3N2) তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Why is magnesium frequently attached as 'sacrificial anodes' to underground steel pipelines and ships?",
+"bn": "কেন ম্যাগনেসিয়াম প্রায়শই মাটির নিচের ইস্পাত পাইপলাইন এবং জাহাজে 'স্যাক্রিফিসিয়াল অ্যানোড' হিসাবে যুক্ত করা হয়?"
+},
+"options": [
+{
+"en": "To make the structures lighter",
+"bn": "কাঠামোকে হালকা করার জন্য"
+},
+{
+"en": "To provide electrical conductivity to the ground",
+"bn": "ভূমিতে বৈদ্যুতিক পরিবাহিতা প্রদান করতে"
+},
+{
+"en": "To prevent rust by corroding preferentially instead of the steel",
+"bn": "ইস্পাতের পরিবর্তে এটি নিজে ক্ষয় হয়ে মরিচা প্রতিরোধ করতে"
+},
+{
+"en": "To repel marine life",
+"bn": "সামুদ্রিক জীবনকে প্রতিহত করতে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Magnesium has a lower reduction potential (more active) than iron, so it undergoes galvanic corrosion first, protecting the steel.",
+"bn": "লোহার তুলনায় ম্যাগনেসিয়ামের বিজারণ পটেনশিয়াল কম (অধিক সক্রিয়), তাই এটি প্রথমে গ্যালভানিক ক্ষয়প্রাপ্ত হয় এবং ইস্পাতকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "What is the common name for hydrated magnesium sulfate (MgSO₄·7H₂O), often used in bathwater to soothe muscles?",
+"bn": "হাইড্রেটেড ম্যাগনেসিয়াম সালফেটের (MgSO₄·7H₂O) সাধারণ নাম কী, যা পেশী প্রশমিত করতে প্রায়শই স্নানের জলে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Table salt",
+"bn": "টেবিল লবণ"
+},
+{
+"en": "Epsom salt",
+"bn": "এপসম লবণ"
+},
+{
+"en": "Alum",
+"bn": "অ্যালাম (ফিটকিরি)"
+},
+{
+"en": "Glauber's salt",
+"bn": "গ্লবারের লবণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Named after a bitter saline spring in Epsom, England, Epsom salt is widely used for health and agricultural purposes.",
+"bn": "ইংল্যান্ডের এপসমের একটি তেতো লবণের ঝরনার নামানুসারে, এপসম লবণ স্বাস্থ্য এবং কৃষিকাজে ব্যাপকভাবে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "Why is solid magnesium metal safe to handle despite being highly reactive?",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল হওয়া সত্ত্বেও কঠিন ম্যাগনেসিয়াম ধাতু পরিচালনা করা কেন নিরাপদ?"
+},
+"options": [
+{
+"en": "It does not react with oxygen",
+"bn": "এটি অক্সিজেনের সাথে বিক্রিয়া করে না"
+},
+{
+"en": "It forms a thin, tough layer of magnesium oxide that prevents further reaction",
+"bn": "এটি ম্যাগনেসিয়াম অক্সাইডের একটি পাতলা, শক্ত স্তর তৈরি করে যা আরও বিক্রিয়া প্রতিরোধ করে"
+},
+{
+"en": "It is completely inert at room temperature",
+"bn": "কক্ষ তাপমাত্রায় এটি সম্পূর্ণ নিষ্ক্রিয়"
+},
+{
+"en": "It requires electricity to react",
+"bn": "প্রতিক্রিয়া করার জন্য এর বিদ্যুৎ প্রয়োজন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "This is called passivation. The surface oxide layer is impermeable to air, protecting the metal underneath.",
+"bn": "একে প্যাসিভেশন বলা হয়। পৃষ্ঠের অক্সাইড স্তরটি বাতাসের জন্য অভেদ্য, যা ভেতরের ধাতুকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "Which physical property makes magnesium alloys highly desirable in the aerospace and automotive industries?",
+"bn": "কোন ভৌত বৈশিষ্ট্যের কারণে ম্যাগনেসিয়াম অ্যালয় মহাকাশ এবং স্বয়ংচালিত শিল্পে অত্যন্ত কাঙ্ক্ষিত?"
+},
+"options": [
+{
+"en": "Extreme hardness (like diamond)",
+"bn": "চরম কঠোরতা (হীরার মতো)"
+},
+{
+"en": "High density for radiation shielding",
+"bn": "বিকিরণ রক্ষার জন্য উচ্চ ঘনত্ব"
+},
+{
+"en": "High strength-to-weight ratio (very lightweight)",
+"bn": "উচ্চ শক্তি-থেকে-ওজন অনুপাত (খুব হালকা)"
+},
+{
+"en": "Complete transparency",
+"bn": "সম্পূর্ণ স্বচ্ছতা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Magnesium is 33% lighter than aluminum and 75% lighter than steel, allowing vehicles to save significant fuel and weight.",
+"bn": "ম্যাগনেসিয়াম অ্যালুমিনিয়ামের চেয়ে ৩৩% হালকা এবং স্টিলের চেয়ে ৭৫% হালকা, যার ফলে যানবাহনগুলো উল্লেখযোগ্য জ্বালানী এবং ওজন বাঁচাতে পারে।"
+}
+},
+{
+"question": {
+"en": "What thermal reduction process utilizes ferrosilicon to extract magnesium from dolomite ore under high temperature and vacuum?",
+"bn": "কোন তাপীয় বিজারণ প্রক্রিয়া উচ্চ তাপমাত্রা এবং ভ্যাকুয়ামের অধীনে ডলোমাইট আকরিক থেকে ম্যাগনেসিয়াম আহরণের জন্য ফেরোসিলিকন ব্যবহার করে?"
+},
+"options": [
+{
+"en": "The Kroll Process",
+"bn": "ক্রোল প্রক্রিয়া"
+},
+{
+"en": "The Pidgeon Process",
+"bn": "পিজিয়ন প্রক্রিয়া"
+},
+{
+"en": "The Bayer Process",
+"bn": "বেয়ার প্রক্রিয়া"
+},
+{
+"en": "The Ostwald Process",
+"bn": "অসওয়াল্ড প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Invented by Lloyd Pidgeon, this process accounts for the majority of global magnesium production, primarily in China.",
+"bn": "লয়েড পিজিয়ন দ্বারা উদ্ভাবিত এই প্রক্রিয়ায় বৈশ্বিক ম্যাগনেসিয়াম উৎপাদনের বেশিরভাগ অংশই সম্পন্ন হয়, প্রাথমিকভাবে চীনে।"
+}
+},
+{
+"question": {
+"en": "In terms of cellular biology, magnesium acts as an essential counter-ion to neutralize the negative charges on the phosphate groups of which crucial molecules?",
+"bn": "সেলুলার বায়োলজির ক্ষেত্রে, ম্যাগনেসিয়াম কোন গুরুত্বপূর্ণ অণুগুলোর ফসফেট গ্রুপের নেতিবাচক চার্জকে নিরপেক্ষ করতে একটি অপরিহার্য কাউন্টার-আয়ন হিসেবে কাজ করে?"
+},
+"options": [
+{
+"en": "Lipids only",
+"bn": "শুধুমাত্র লিপিড"
+},
+{
+"en": "ATP, DNA, and RNA",
+"bn": "ATP, DNA এবং RNA"
+},
+{
+"en": "Simple sugars",
+"bn": "সাধারণ শর্করা"
+},
+{
+"en": "Cholesterol",
+"bn": "কোলেস্টেরল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nucleic acids and ATP are highly negatively charged due to phosphates. Mg²⁺ binds to them to stabilize their structures.",
+"bn": "নিউক্লিক অ্যাসিড এবং ATP ফসফেটের কারণে উচ্চ নেতিবাচক চার্জযুক্ত। Mg²⁺ তাদের কাঠামো স্থিতিশীল করতে তাদের সাথে আবদ্ধ হয়।"
+}
+},
+{
+"question": {
+"en": "What hazardous light is emitted by burning magnesium, requiring the use of protective eyewear?",
+"bn": "জ্বলন্ত ম্যাগনেসিয়াম দ্বারা কোন বিপজ্জনক আলো নির্গত হয়, যার জন্য প্রতিরক্ষামূলক চশমা ব্যবহার করা প্রয়োজন?"
+},
+"options": [
+{
+"en": "Infrared light",
+"bn": "ইনফ্রারেড আলো"
+},
+{
+"en": "Intense Ultraviolet (UV) light",
+"bn": "তীব্র অতিবেগুনী (UV) আলো"
+},
+{
+"en": "Microwaves",
+"bn": "মাইক্রোওয়েভ"
+},
+{
+"en": "Gamma rays",
+"bn": "গামা রশ্মি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Magnesium combustion produces significant amounts of UV radiation, which can easily cause photokeratitis (welder's flash).",
+"bn": "ম্যাগনেসিয়ামের দহন উল্লেখযোগ্য পরিমাণে UV বিকিরণ তৈরি করে, যা সহজেই ফটোকেরাটাইটিস (ওয়েল্ডারস ফ্ল্যাশ) ঘটাতে পারে।"
+}
+},
+{
+"question": {
+"en": "How does the first ionization energy of Magnesium compare to that of Aluminum (the element immediately to its right)?",
+"bn": "ম্যাগনেসিয়ামের প্রথম আয়নীকরণ শক্তি কীভাবে অ্যালুমিনিয়ামের (এর ঠিক ডানদিকের উপাদান) সাথে তুলনীয়?"
+},
+"options": [
+{
+"en": "Magnesium is much lower",
+"bn": "ম্যাগনেসিয়াম অনেক কম"
+},
+{
+"en": "Magnesium is slightly higher",
+"bn": "ম্যাগনেসিয়াম সামান্য বেশি"
+},
+{
+"en": "They are exactly equal",
+"bn": "এরা অবিকল সমান"
+},
+{
+"en": "It cannot be measured",
+"bn": "এটি পরিমাপ করা যায় না"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Mg has a full 3s subshell (3s²), providing extra stability, making it harder to remove an electron than Al's single 3p electron (3s² 3p¹).",
+"bn": "Mg-এ একটি পূর্ণ 3s সাবশেল (3s²) আছে, যা অতিরিক্ত স্থিতিশীলতা প্রদান করে, তাই Al এর একক 3p ইলেকট্রনের (3s² 3p¹) চেয়ে এটি থেকে ইলেকট্রন অপসারণ করা কঠিন।"
+}
+},
+{
+"question": {
+"en": "What is the primary role of the Kroll process where magnesium is utilized?",
+"bn": "ক্রোল প্রক্রিয়ায় ম্যাগনেসিয়ামের প্রাথমিক ভূমিকা কী?"
+},
+"options": [
+{
+"en": "To synthesize ammonia",
+"bn": "অ্যামোনিয়া সংশ্লেষণে"
+},
+{
+"en": "To act as a reducing agent to produce pure Titanium from titanium tetrachloride",
+"bn": "টাইটানিয়াম টেট্রাক্লোরাইড থেকে খাঁটি টাইটানিয়াম তৈরি করতে বিজারক হিসাবে কাজ করা"
+},
+{
+"en": "To galvanize steel",
+"bn": "ইস্পাতকে গ্যালভানাইজ করতে"
+},
+{
+"en": "To produce pure silicon for microchips",
+"bn": "মাইক্রোচিপের জন্য বিশুদ্ধ সিলিকন তৈরি করতে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Liquid magnesium is reacted with TiCl4 to strip the chlorine atoms, leaving behind pure titanium sponge and magnesium chloride.",
+"bn": "তরল ম্যাগনেসিয়াম TiCl4 এর সাথে বিক্রিয়া করে ক্লোরিন পরমাণুগুলোকে ছিনিয়ে নেয়, যার ফলে খাঁটি টাইটানিয়াম স্পঞ্জ এবং ম্যাগনেসিয়াম ক্লোরাইড তৈরি হয়।"
+}
+},
+{
+"question": {
+"en": "Which common dietary issue is associated with low magnesium levels (hypomagnesemia) in humans?",
+"bn": "মানুষের শরীরে কম ম্যাগনেসিয়ামের মাত্রার (হাইপোম্যাগনেসেমিয়া) সাথে কোন সাধারণ খাদ্যতালিকাগত সমস্যা যুক্ত?"
+},
+"options": [
+{
+"en": "Muscle cramps and arrhythmias",
+"bn": "পেশী ক্র্যাম্প এবং অ্যারিথমিয়া"
+},
+{
+"en": "Scurvy",
+"bn": "স্কার্ভি"
+},
+{
+"en": "Goiter",
+"bn": "গলগণ্ড"
+},
+{
+"en": "Anemia",
+"bn": "অ্যানিমিয়া (রক্তাল্পতা)"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Magnesium is vital for muscle relaxation and electrical stability in the heart, so a deficiency leads to spasms, cramps, and irregular heartbeats.",
+"bn": "পেশী শিথিলকরণ এবং হৃদযন্ত্রের বৈদ্যুতিক স্থিতিশীলতার জন্য ম্যাগনেসিয়াম অত্যাবশ্যক, তাই এর ঘাটতির ফলে খিঁচুনি, ক্র্যাম্প এবং অনিয়মিত হৃদস্পন্দন হয়।"
+}
+},
+{
+"question": {
+"en": "What name is given to the class of rocks (like dolomite and magnesite) from which magnesium is commonly mined?",
+"bn": "যে শিলাগুলি (যেমন ডলোমাইট এবং ম্যাগনেসাইট) থেকে সাধারণত ম্যাগনেসিয়াম খনি করা হয় তাদের শ্রেণীকে কী নাম দেওয়া হয়?"
+},
+"options": [
+{
+"en": "Silicates",
+"bn": "সিলিকেট"
+},
+{
+"en": "Carbonates",
+"bn": "কার্বনেট"
+},
+{
+"en": "Sulfides",
+"bn": "সালফাইড"
+},
+{
+"en": "Halides",
+"bn": "হ্যালাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Magnesite is magnesium carbonate (MgCO3), and dolomite is a calcium magnesium carbonate (CaMg(CO3)2).",
+"bn": "ম্যাগনেসাইট হল ম্যাগনেসিয়াম কার্বনেট (MgCO3), এবং ডলোমাইট হল একটি ক্যালসিয়াম ম্যাগনেসিয়াম কার্বনেট (CaMg(CO3)2)।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "People think you can put out a magnesium fire with a standard CO2 or water extinguisher; doing so will cause an explosion.",
+"bn": "লোকেরা মনে করে যে একটি স্ট্যান্ডার্ড CO2 বা জল নির্বাপক যন্ত্র দিয়ে ম্যাগনেসিয়ামের আগুন নেভানো যায়; এটি করলে উল্টো বিস্ফোরণ ঘটবে।"
+},
+{
+"en": "Magnesium and Manganese are often confused due to their similar names, but they are entirely different elements.",
+"bn": "একই রকম নামের কারণে ম্যাগনেসিয়াম এবং ম্যাঙ্গানিজ প্রায়শই গুলিয়ে ফেলা হয়, কিন্তু এগুলি সম্পূর্ণ ভিন্ন উপাদান।"
+}
+],
+"learningTips": [
+{
+"en": "To remember its biological role, remember: Mg stands for 'Makes Green' (Chlorophyll).",
+"bn": "এর জৈবিক ভূমিকা মনে রাখতে, মনে রাখুন: Mg মানে 'Makes Green' বা 'সবুজ করে' (ক্লোরোফিল)।"
+},
+{
+"en": "Manganese and Magnesium start similarly. Magnesium (Mg) is lighter and used in alloys, while Manganese (Mn) is a heavy transition metal.",
+"bn": "ম্যাঙ্গানিজ এবং ম্যাগনেসিয়ামের শুরুটা একই রকম। ম্যাগনেসিয়াম (Mg) হালকা এবং অ্যালয়ে ব্যবহৃত হয়, যেখানে ম্যাঙ্গানিজ (Mn) একটি ভারী অবস্থান্তর ধাতু।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Mg + O₂ → 2MgO",
+"description": {
+"en": "Combustion of magnesium in oxygen, producing immense heat, bright white light, and magnesium oxide powder.",
+"bn": "অক্সিজেনে ম্যাগনেসিয়ামের দহন, যার ফলে প্রচুর তাপ, উজ্জ্বল সাদা আলো এবং ম্যাগনেসিয়াম অক্সাইড পাউডার তৈরি হয়।"
+}
+},
+{
+"equation": "Mg + 2H₂O(g) → Mg(OH)₂ + H₂",
+"description": {
+"en": "Reaction of hot magnesium with steam, generating hydrogen gas.",
+"bn": "বাষ্পের সাথে গরম ম্যাগনেসিয়ামের বিক্রিয়া, যা হাইড্রোজেন গ্যাস তৈরি করে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Mg → Mg²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation of magnesium, shedding its two valence electrons to form a stable cation.",
+"bn": "ম্যাগনেসিয়ামের জারণ, একটি স্থিতিশীল ক্যাটায়ন তৈরি করতে তার দুটি যোজ্যতা ইলেকট্রন ত্যাগ করে।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Mg²⁺ + 2e⁻ → Mg",
+"description": {
+"en": "Reduction of magnesium ions to pure metal during the electrolytic extraction from seawater.",
+"bn": "সমুদ্রের জল থেকে ইলেক্ট্রোলাইটিক নিষ্কাশনের সময় বিশুদ্ধ ধাতুতে ম্যাগনেসিয়াম আয়নের বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic Bond",
+"bn": "আয়নিক বন্ধন"
+},
+"molecule": "MgCl₂",
+"description": {
+"en": "Magnesium donates one electron to each of two Chlorine atoms, forming an ionic crystal lattice.",
+"bn": "ম্যাগনেসিয়াম দুটি ক্লোরিন পরমাণুর প্রত্যেকটিকে একটি করে ইলেকট্রন দান করে একটি আয়নিক স্ফটিক জালিকা তৈরি করে।"
+}
+}
+]
+}
+}

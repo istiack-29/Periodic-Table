@@ -1,0 +1,271 @@
+{
+  "elementId": 53,
+  "basicInformation": {
+    "atomicNumber": 53,
+    "symbol": "I",
+    "name": { "en": "Iodine", "bn": "আয়োডিন" },
+    "pronunciation": { "en": "/ˈaɪədaɪn/", "bn": "আই-ও-ডিন" },
+    "atomicMass": 126.904,
+    "category": { "en": "Reactive nonmetal (Halogen)", "bn": "সক্রিয় অধাতু (হ্যালোজেন)" },
+    "group": 17,
+    "period": 5,
+    "block": "p",
+    "phase": { "en": "Solid", "bn": "কঠিন" },
+    "appearance": { "en": "Lustrous purple-black solid; violet vapor", "bn": "চকচকে বেগুনি-কালো কঠিন; বেগুনি বাষ্প" },
+    "color": { "en": "Purple-black", "bn": "বেগুনি-কালো" },
+    "radioactive": false,
+    "naturalOccurrence": { "en": "Primordial", "bn": "আদিম" }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": { "en": "Bernard Courtois", "bn": "বার্নার্ড কুর্তোয়া" },
+    "discoveryYear": 1811,
+    "discoveryLocation": { "en": "France", "bn": "ফ্রান্স" },
+    "discoveryStory": {
+      "en": "Courtois accidentally discovered iodine when treating seaweed ash with sulfuric acid produced violet vapor. Joseph Louis Gay-Lussac named it 'iode' (Greek for violet) in 1813.",
+      "bn": "কুর্তোয়া সমুদ্রের শৈবালের ছাইকে সালফিউরিক অ্যাসিড দিয়ে চিকিৎসা করার সময় দুর্ঘটনাক্রমে আয়োডিন আবিষ্কার করেন যা বেগুনি বাষ্প উৎপন্ন করে। ১৮১৩ সালে জোসেফ লুই গে-লুসাক এটিকে 'আইওড' (গ্রীক ভাষায় বেগুনি) নাম দেন।"
+    },
+    "historicalUses": {
+      "en": "Used as an antiseptic from the 1820s and as the first effective treatment for goiter.",
+      "bn": "১৮২০ সাল থেকে অ্যান্টিসেপটিক হিসাবে এবং গলগণ্ডের প্রথম কার্যকর চিকিৎসা হিসাবে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Jean Baptiste Boussingault's 1831 link between iodine deficiency and goiter; Eugen Baumann's 1895 isolation of iodine in the thyroid.",
+      "bn": "জিন ব্যাপ্টিস্ট বুসিনগল্টের ১৮৩১ সালে আয়োডিন ঘাটতি এবং গলগণ্ডের মধ্যে সম্পর্ক; ইউজেন বাউম্যানের ১৮৯৫ সালে থাইরয়েডে আয়োডিন বিচ্ছিন্নকরণ।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 53,
+    "neutrons": 74,
+    "electrons": 53,
+    "valenceElectrons": 7,
+    "shells": 5,
+    "shellDistribution": [2, 8, 18, 18, 7],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁵",
+    "orbitalConfiguration": { "1s": 2, "2s": 2, "2p": 6, "3s": 2, "3p": 6, "3d": 10, "4s": 2, "4p": 6, "4d": 10, "5s": 2, "5p": 5 },
+    "oxidationStates": [-1, 1, 3, 5, 7],
+    "quantumNumbers": { "principal": 5, "azimuthal": 1, "magnetic": 0, "spin": -0.5 }
+  },
+  "physicalProperties": {
+    "density": { "value": 4.933, "unit": "g/cm³" },
+    "meltingPoint": { "value": 386.85, "unit": "K" },
+    "boilingPoint": { "value": 457.4, "unit": "K" },
+    "atomicRadius": { "value": 140, "unit": "pm" },
+    "covalentRadius": { "value": 139, "unit": "pm" },
+    "vanDerWaalsRadius": { "value": 198, "unit": "pm" },
+    "thermalConductivity": { "value": 0.449, "unit": "W/(m·K)" },
+    "electricalConductivity": { "value": 1.0e-7, "unit": "S/m" },
+    "specificHeat": { "value": 0.214, "unit": "J/(g·K)" },
+    "hardness": null,
+    "crystalStructure": { "en": "Orthorhombic", "bn": "অর্থোরম্বিক" },
+    "magneticOrdering": { "en": "Diamagnetic", "bn": "ডায়াম্যাগনেটিক" }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.66,
+    "ionizationEnergy": { "value": 1008.4, "unit": "kJ/mol" },
+    "electronAffinity": { "value": 295.2, "unit": "kJ/mol" },
+    "reactivity": {
+      "en": "Least reactive stable halogen; reacts with metals, hydrogen, and organic compounds. Sublimes readily.",
+      "bn": "সবচেয়ে কম প্রতিক্রিয়াশীল স্থিতিশীল হ্যালোজেন; ধাতু, হাইড্রোজেন এবং জৈব যৌগের সাথে বিক্রিয়া করে। সহজেই সাবলাইম হয়।"
+    },
+    "commonCompounds": ["KI", "HI", "NaI", "I₂", "AgI"],
+    "flameTestColor": { "en": "Violet vapor (not a true flame test)", "bn": "বেগুনি বাষ্প (প্রকৃত শিখা পরীক্ষা নয়)" },
+    "spectralLines": ["183.04nm", "206.16nm", "511.93nm", "546.46nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Catalyst in acetic acid production (Cativa/Monsanto process) and herbicide manufacture.",
+      "bn": "অ্যাসিটিক অ্যাসিড উৎপাদনে (ক্যাটিভা/মনসান্টো প্রক্রিয়া) এবং হার্বিসাইড উৎপাদনে অনুঘটক।"
+    },
+    "commercialUses": {
+      "en": "Iodized table salt, water disinfection tablets, and animal feed supplements.",
+      "bn": "আয়োডিনযুক্ত টেবিল লবণ, জল জীবাণুনাশক ট্যাবলেট এবং পশু খাদ্য পরিপূরক।"
+    },
+    "electronicsUses": {
+      "en": "Used in polarizing films for LCDs and in iodine-vapor halogen lamps.",
+      "bn": "এলসিডির জন্য পোলারাইজিং ফিল্মে এবং আয়োডিন-বাষ্প হ্যালোজেন বাতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Iodine etchants used in patterning copper interconnects and III-V compound semiconductors.",
+      "bn": "তামার আন্তঃসংযোগ এবং III-V যৌগিক অর্ধপরিবাহীগুলির প্যাটার্নিংয়ে আয়োডিন ইচ্যান্ট ব্যবহৃত।"
+    },
+    "aerospaceUses": {
+      "en": "Solid iodine is an emerging propellant for next-generation electric ion thrusters in small satellites.",
+      "bn": "কঠিন আয়োডিন ছোট স্যাটেলাইটগুলিতে পরবর্তী প্রজন্মের বৈদ্যুতিক আয়ন থ্রাস্টারগুলির জন্য একটি উদীয়মান চালক।"
+    },
+    "batteryUses": {
+      "en": "Lithium-iodine batteries provide ultra-reliable long-life power for cardiac pacemakers.",
+      "bn": "লিথিয়াম-আয়োডিন ব্যাটারি কার্ডিয়াক পেসমেকারের জন্য অতি-নির্ভরযোগ্য দীর্ঘ-জীবনের শক্তি প্রদান করে।"
+    },
+    "aiHardwareUses": {
+      "en": "Iodide-based perovskite materials studied for low-power optoelectronic AI photonic memory devices.", 
+      "bn": "আয়োডাইড-ভিত্তিক পেরোভস্কাইট উপকরণ কম-শক্তির অপ্টোইলেক্ট্রনিক এআই ফোটোনিক মেমরি ডিভাইসের জন্য অধ্যয়ন করা হয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Methylammonium lead iodide (MAPbI₃) perovskites enable >25% efficient next-gen solar cells.",
+      "bn": "মিথাইলঅ্যামোনিয়াম লেড আয়োডাইড (MAPbI₃) পেরোভস্কাইট >২৫% দক্ষ পরবর্তী-প্রজন্মের সৌর কোষ সক্ষম করে।"
+    },
+    "nanotechnologyUses": {
+      "en": "Iodine-doped graphene and carbon nanotubes for transparent flexible electrodes.",
+      "bn": "স্বচ্ছ নমনীয় ইলেক্ট্রোডের জন্য আয়োডিন-ডোপড গ্রাফিন এবং কার্বন ন্যানোটিউব।"
+    },
+    "nuclearUses": {
+      "en": "I-131 (radioactive) used in radiotherapy of thyroid cancer; I-129 monitored as long-lived fission product.",
+      "bn": "I-131 (তেজস্ক্রিয়) থাইরয়েড ক্যান্সারের রেডিওথেরাপিতে ব্যবহৃত; I-129 দীর্ঘ-জীবিত ফিশন উৎপাদ হিসাবে পর্যবেক্ষণ করা হয়।"
+    },
+    "militaryUses": {
+      "en": "Potassium iodide tablets stockpiled to block radioactive iodine uptake after nuclear incidents.",
+      "bn": "পরমাণু ঘটনার পরে তেজস্ক্রিয় আয়োডিন গ্রহণ বন্ধ করার জন্য পটাসিয়াম আয়োডাইড ট্যাবলেট মজুদ করা হয়।"
+    },
+    "medicalUses": {
+      "en": "Povidone-iodine antiseptic, iodinated CT contrast agents, and Lugol's solution for thyroid imaging.",
+      "bn": "পোভিডোন-আয়োডিন অ্যান্টিসেপটিক, আয়োডিনেটেড সিটি কনট্রাস্ট এজেন্ট এবং থাইরয়েড ইমেজিংয়ের জন্য লুগলের দ্রবণ।"
+    },
+    "foodIndustryUses": {
+      "en": "Universal salt iodization (USI) program prevents iodine deficiency disorders globally.",
+      "bn": "ইউনিভার্সাল সল্ট আয়োডাইজেশন (USI) প্রোগ্রাম বিশ্বব্যাপী আয়োডিন ঘাটতিজনিত ব্যাধি প্রতিরোধ করে।"
+    },
+    "constructionUses": {
+      "en": "Iodine-based biocides used in cooling tower water treatment and wood preservatives.",
+      "bn": "আয়োডিন-ভিত্তিক জীবাণুনাশক কুলিং টাওয়ার জল চিকিৎসা এবং কাঠ সংরক্ষণে ব্যবহৃত।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Essential trace element for vertebrates; component of thyroid hormones thyroxine (T4) and triiodothyronine (T3).",
+      "bn": "মেরুদণ্ডী প্রাণীদের জন্য অপরিহার্য ট্রেস উপাদান; থাইরয়েড হরমোন থাইরক্সিন (T4) এবং ট্রাইওডোথাইরোনিন (T3) এর উপাদান।"
+    },
+    "humanBodyRole": {
+      "en": "Required for thyroid hormone synthesis regulating metabolism, growth, and brain development. RDA: 150 μg/day.",
+      "bn": "বিপাক, বৃদ্ধি এবং মস্তিষ্কের বিকাশ নিয়ন্ত্রণকারী থাইরয়েড হরমোন সংশ্লেষণের জন্য প্রয়োজনীয়। RDA: ১৫০ μg/দিন।"
+    },
+    "toxicity": {
+      "en": "Elemental I₂ is corrosive; excess intake causes iodism (metallic taste, headaches). Acute high doses are toxic.",
+      "bn": "মৌলিক I₂ ক্ষয়কারী; অতিরিক্ত গ্রহণ আয়োডিজম (ধাতব স্বাদ, মাথাব্যথা) ঘটায়। তীব্র উচ্চ ডোজ বিষাক্ত।"
+    },
+    "environmentalImpact": {
+      "en": "Cycles through atmosphere, oceans, and biosphere; volatile species influence marine cloud formation.",
+      "bn": "বায়ুমণ্ডল, মহাসাগর এবং জীবজগতের মধ্য দিয়ে চক্রাকারে চলে; উদ্বায়ী প্রজাতি সামুদ্রিক মেঘ গঠনকে প্রভাবিত করে।"
+    },
+    "pollutionRisks": {
+      "en": "Radioactive I-131 from nuclear accidents (Chernobyl, Fukushima) poses thyroid cancer risks.",
+      "bn": "পারমাণবিক দুর্ঘটনা (চেরনোবিল, ফুকুশিমা) থেকে তেজস্ক্রিয় I-131 থাইরয়েড ক্যান্সারের ঝুঁকি তৈরি করে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from natural brines and recycled from spent industrial catalysts and X-ray contrast media.",
+      "bn": "প্রাকৃতিক ব্রাইন থেকে পুনরুদ্ধার করা হয় এবং ব্যবহৃত শিল্প অনুঘটক এবং এক্স-রে কনট্রাস্ট মিডিয়া থেকে পুনর্ব্যবহার করা হয়।"
+    },
+    "sustainabilityScore": 7.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      { "en": "Chile", "bn": "চিলি" },
+      { "en": "Japan", "bn": "জাপান" },
+      { "en": "United States", "bn": "যুক্তরাষ্ট্র" }
+    ],
+    "miningMethods": {
+      "en": "Extracted from caliche ore (sodium iodate) in Chile and from natural gas-associated brines in Japan.",
+      "bn": "চিলিতে ক্যালিচে আকরিক (সোডিয়াম আয়োডেট) থেকে এবং জাপানে প্রাকৃতিক গ্যাস-সংশ্লিষ্ট ব্রাইন থেকে নিষ্কাশিত।"
+    },
+    "abundance": {
+      "universe": { "en": "0.0000001% by mass", "bn": "ভর অনুযায়ী ০.০০০০০০১%" },
+      "earthCrust": { "en": "0.000045% by mass", "bn": "ভর অনুযায়ী ০.০০০০৪৫%" },
+      "oceans": { "en": "0.06 mg/L", "bn": "০.০৬ মিগ্রা/লিটার" }
+    },
+    "marketValue": {
+      "en": "Approximately $35 - $55 per kg (2024).",
+      "bn": "আনুমানিক প্রতি কেজি $৩৫ - $৫৫ (২০২৪)।"
+    },
+    "futureDemand": {
+      "en": "Growing demand from X-ray contrast media, perovskite solar cells, and electric satellite propulsion.",
+      "bn": "এক্স-রে কনট্রাস্ট মিডিয়া, পেরোভস্কাইট সৌর কোষ এবং বৈদ্যুতিক স্যাটেলাইট প্রপালশন থেকে চাহিদা বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Strategic for public health (goiter prevention) and emerging energy technologies.",
+      "bn": "জনস্বাস্থ্য (গলগণ্ড প্রতিরোধ) এবং উদীয়মান শক্তি প্রযুক্তির জন্য কৌশলগত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Elemental iodine vapor is a strong irritant to eyes and respiratory tract; stains skin brown.",
+      "bn": "মৌলিক আয়োডিন বাষ্প চোখ এবং শ্বাসযন্ত্রের পথে একটি শক্তিশালী বিরক্তিকর; ত্বককে বাদামী করে।"
+    },
+    "storageRequirements": {
+      "en": "Store in tightly sealed glass containers away from light, heat, and metals (corrodes most metals).",
+      "bn": "আলো, তাপ এবং ধাতু থেকে দূরে শক্তভাবে সিল করা কাচের পাত্রে সংরক্ষণ করুন (বেশিরভাগ ধাতুকে ক্ষয় করে)।"
+    },
+    "handlingProcedures": {
+      "en": "Use fume hoods, nitrile gloves, and goggles; iodine vapor permeates many polymers.",
+      "bn": "ধোঁয়া হুড, নাইট্রাইল গ্লাভস এবং চশমা ব্যবহার করুন; আয়োডিন বাষ্প অনেক পলিমার ভেদ করে।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation causes coughing and pulmonary edema; ingestion of >2 g elemental iodine is potentially fatal.",
+      "bn": "শ্বাস গ্রহণ কাশি এবং পালমোনারি এডিমা ঘটায়; >২ গ্রাম মৌলিক আয়োডিন গ্রহণ সম্ভাব্য মারাত্মক।"
+    },
+    "safetyLevel": { "en": "Moderate Risk", "bn": "মাঝারি ঝুঁকি" },
+    "hazardClassifications": [
+      { "en": "Acute Toxicity (Inhalation)", "bn": "তীব্র বিষাক্ততা (শ্বাস)" },
+      { "en": "Skin/Eye Irritant", "bn": "ত্বক/চোখ বিরক্তিকর" }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Iodine is a purple-black halogen essential for healthy thyroid function and widely used as an antiseptic.",
+      "bn": "আয়োডিন একটি বেগুনি-কালো হ্যালোজেন যা সুস্থ থাইরয়েড ফাংশনের জন্য অপরিহার্য এবং অ্যান্টিসেপটিক হিসাবে ব্যাপকভাবে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "Heaviest stable halogen with the lowest electronegativity of its group. Forms diatomic I₂ via covalent bonds and exhibits oxidation states from -1 to +7. Its large polarizable electron cloud enables unique charge-transfer chemistry.",
+      "bn": "তার গ্রুপের সর্বনিম্ন তড়িৎঋণাত্মকতা সহ ভারীতম স্থিতিশীল হ্যালোজেন। সমযোজী বন্ধনের মাধ্যমে দ্বি-পরমাণু I₂ গঠন করে এবং -১ থেকে +৭ পর্যন্ত জারণ অবস্থা প্রদর্শন করে। এর বৃহৎ পোলারাইজযোগ্য ইলেক্ট্রন মেঘ অনন্য চার্জ-ট্রান্সফার রসায়ন সক্ষম করে।"
+    },
+    "funFacts": [
+      { "en": "Solid iodine sublimes directly to vibrant violet vapor without melting at standard pressure.", "bn": "কঠিন আয়োডিন প্রমিত চাপে গলে না গিয়ে সরাসরি প্রাণবন্ত বেগুনি বাষ্পে সাবলাইম হয়।" },
+      { "en": "Iodine clock reactions are classic chemistry demonstrations of reaction kinetics.", "bn": "আয়োডিন ঘড়ি বিক্রিয়া বিক্রিয়া গতিবিদ্যার ক্লাসিক রসায়ন প্রদর্শনী।" }
+    ],
+    "comparisons": [
+      { "compareWithId": 35, "relation": { "en": "Like bromine above, iodine is a halogen, but iodine is solid at room temperature whereas bromine is liquid.", "bn": "উপরের ব্রোমিনের মতো, আয়োডিন একটি হ্যালোজেন, তবে আয়োডিন কক্ষ তাপমাত্রায় কঠিন যেখানে ব্রোমিন তরল।" } }
+    ],
+    "relatedElements": [17, 35, 52, 54],
+    "quizQuestions": [
+      { "question": { "en": "What is the chemical symbol for iodine?", "bn": "আয়োডিনের রাসায়নিক প্রতীক কী?" }, "options": [{ "en": "Id", "bn": "Id" }, { "en": "I", "bn": "I" }, { "en": "Io", "bn": "Io" }, { "en": "In", "bn": "In" }], "correctOptionIndex": 1, "explanation": { "en": "Iodine uses the single letter symbol I.", "bn": "আয়োডিন একক অক্ষর প্রতীক I ব্যবহার করে।" } },
+      { "question": { "en": "Iodine belongs to which group of the periodic table?", "bn": "আয়োডিন পর্যায় সারণির কোন গ্রুপের অন্তর্ভুক্ত?" }, "options": [{ "en": "Group 1", "bn": "গ্রুপ ১" }, { "en": "Group 16", "bn": "গ্রুপ ১৬" }, { "en": "Group 17 (Halogens)", "bn": "গ্রুপ ১৭ (হ্যালোজেন)" }, { "en": "Group 18", "bn": "গ্রুপ ১৮" }], "correctOptionIndex": 2, "explanation": { "en": "Iodine is the heaviest stable halogen in group 17.", "bn": "আয়োডিন গ্রুপ ১৭ এর ভারীতম স্থিতিশীল হ্যালোজেন।" } },
+      { "question": { "en": "Solid iodine sublimes producing vapor of what color?", "bn": "কঠিন আয়োডিন সাবলাইম হলে কোন রঙের বাষ্প উৎপন্ন করে?" }, "options": [{ "en": "Yellow", "bn": "হলুদ" }, { "en": "Green", "bn": "সবুজ" }, { "en": "Violet", "bn": "বেগুনি" }, { "en": "Orange", "bn": "কমলা" }], "correctOptionIndex": 2, "explanation": { "en": "Iodine vapor is characteristically violet, giving the element its Greek-derived name.", "bn": "আয়োডিন বাষ্প বৈশিষ্ট্যগতভাবে বেগুনি, যা উপাদানটির গ্রীক-উদ্ভূত নাম দেয়।" } },
+      { "question": { "en": "Iodine is essential for the synthesis of which human hormones?", "bn": "আয়োডিন কোন মানব হরমোন সংশ্লেষণের জন্য অপরিহার্য?" }, "options": [{ "en": "Insulin and glucagon", "bn": "ইনসুলিন এবং গ্লুকাগন" }, { "en": "Thyroxine (T4) and Triiodothyronine (T3)", "bn": "থাইরক্সিন (T4) এবং ট্রাইওডোথাইরোনিন (T3)" }, { "en": "Cortisol", "bn": "করটিসল" }, { "en": "Adrenaline", "bn": "অ্যাড্রিনালিন" }], "correctOptionIndex": 1, "explanation": { "en": "T3 and T4 thyroid hormones contain 3 and 4 iodine atoms respectively.", "bn": "T3 এবং T4 থাইরয়েড হরমোনে যথাক্রমে ৩ এবং ৪টি আয়োডিন পরমাণু রয়েছে।" } },
+      { "question": { "en": "What classic test uses iodine to detect starch?", "bn": "কোন ক্লাসিক পরীক্ষা স্টার্চ সনাক্ত করতে আয়োডিন ব্যবহার করে?" }, "options": [{ "en": "Biuret test", "bn": "বিইউরেট পরীক্ষা" }, { "en": "Iodine-starch blue-black color test", "bn": "আয়োডিন-স্টার্চ নীল-কালো রঙ পরীক্ষা" }, { "en": "Benedict's test", "bn": "বেনেডিক্ট পরীক্ষা" }, { "en": "Fehling's test", "bn": "ফেলিং পরীক্ষা" }], "correctOptionIndex": 1, "explanation": { "en": "Iodine forms an intense blue-black inclusion complex with amylose helices in starch.", "bn": "আয়োডিন স্টার্চের অ্যামাইলোজ হেলিক্সের সাথে একটি তীব্র নীল-কালো অন্তর্ভুক্তি জটিল গঠন করে।" } },
+      { "question": { "en": "Which radioactive iodine isotope is used in thyroid cancer therapy?", "bn": "কোন তেজস্ক্রিয় আয়োডিন আইসোটোপ থাইরয়েড ক্যান্সার থেরাপিতে ব্যবহৃত হয়?" }, "options": [{ "en": "I-125", "bn": "I-125" }, { "en": "I-127", "bn": "I-127" }, { "en": "I-129", "bn": "I-129" }, { "en": "I-131", "bn": "I-131" }], "correctOptionIndex": 3, "explanation": { "en": "I-131 emits beta particles that destroy thyroid tissue with high specificity.", "bn": "I-131 বিটা কণা নির্গত করে যা উচ্চ নির্দিষ্টতার সাথে থাইরয়েড টিস্যু ধ্বংস করে।" } },
+      { "question": { "en": "Why is potassium iodide (KI) distributed after nuclear accidents?", "bn": "পারমাণবিক দুর্ঘটনার পরে পটাসিয়াম আয়োডাইড (KI) কেন বিতরণ করা হয়?" }, "options": [{ "en": "To kill radiation directly", "bn": "সরাসরি বিকিরণ মারতে" }, { "en": "To saturate the thyroid and block radioactive iodine uptake", "bn": "থাইরয়েডকে পরিপূর্ণ করতে এবং তেজস্ক্রিয় আয়োডিন গ্রহণ বন্ধ করতে" }, { "en": "To boost the immune system", "bn": "ইমিউন সিস্টেম বাড়াতে" }, { "en": "To detoxify uranium", "bn": "ইউরেনিয়াম ডিটক্সিফাই করতে" }], "correctOptionIndex": 1, "explanation": { "en": "Saturating the thyroid with stable iodine prevents absorption of radioactive I-131.", "bn": "স্থিতিশীল আয়োডিন দিয়ে থাইরয়েড পরিপূর্ণ করা তেজস্ক্রিয় I-131 শোষণ প্রতিরোধ করে।" } },
+      { "question": { "en": "In the Cativa industrial process, iodine catalyzes the production of:", "bn": "ক্যাটিভা শিল্প প্রক্রিয়ায়, আয়োডিন কী উৎপাদনে অনুঘটক হয়:" }, "options": [{ "en": "Sulfuric acid", "bn": "সালফিউরিক অ্যাসিড" }, { "en": "Acetic acid", "bn": "অ্যাসিটিক অ্যাসিড" }, { "en": "Ammonia", "bn": "অ্যামোনিয়া" }, { "en": "Methanol", "bn": "মিথানল" }], "correctOptionIndex": 1, "explanation": { "en": "Methyl iodide is a key intermediate in iridium-catalyzed methanol carbonylation to acetic acid.", "bn": "মিথাইল আয়োডাইড ইরিডিয়াম-অনুঘটকযুক্ত মিথানল কার্বনাইলেশনে অ্যাসিটিক অ্যাসিডে একটি গুরুত্বপূর্ণ মধ্যবর্তী।" } },
+      { "question": { "en": "Lithium-iodine batteries are most commonly used in:", "bn": "লিথিয়াম-আয়োডিন ব্যাটারি সবচেয়ে সাধারণভাবে ব্যবহৃত হয়:" }, "options": [{ "en": "Smartphones", "bn": "স্মার্টফোন" }, { "en": "Implantable cardiac pacemakers", "bn": "ইমপ্ল্যান্টযোগ্য কার্ডিয়াক পেসমেকার" }, { "en": "Electric cars", "bn": "বৈদ্যুতিক গাড়ি" }, { "en": "Solar storage", "bn": "সৌর সঞ্চয়স্থান" }], "correctOptionIndex": 1, "explanation": { "en": "Their solid electrolyte and >10 year lifespan make Li-I₂ ideal for pacemakers.", "bn": "তাদের কঠিন ইলেক্ট্রোলাইট এবং >১০ বছর জীবনকাল Li-I₂ কে পেসমেকারের জন্য আদর্শ করে তোলে।" } },
+      { "question": { "en": "Perovskite solar cells frequently use which iodide compound?", "bn": "পেরোভস্কাইট সৌর কোষ ঘন ঘন কোন আয়োডাইড যৌগ ব্যবহার করে?" }, "options": [{ "en": "Sodium iodide", "bn": "সোডিয়াম আয়োডাইড" }, { "en": "Methylammonium lead iodide (MAPbI₃)", "bn": "মিথাইলঅ্যামোনিয়াম লেড আয়োডাইড (MAPbI₃)" }, { "en": "Silver iodide", "bn": "সিলভার আয়োডাইড" }, { "en": "Copper iodide", "bn": "তামা আয়োডাইড" }], "correctOptionIndex": 1, "explanation": { "en": "MAPbI₃ is the prototypical hybrid halide perovskite for efficient PV cells.", "bn": "MAPbI₃ দক্ষ PV কোষের জন্য প্রোটোটাইপিক্যাল হাইব্রিড হ্যালাইড পেরোভস্কাইট।" } },
+      { "question": { "en": "Iodine has how many naturally occurring stable isotopes?", "bn": "আয়োডিনের কতগুলি প্রাকৃতিকভাবে স্থিতিশীল আইসোটোপ রয়েছে?" }, "options": [{ "en": "One (I-127)", "bn": "একটি (I-127)" }, { "en": "Two", "bn": "দুটি" }, { "en": "Three", "bn": "তিনটি" }, { "en": "Four", "bn": "চারটি" }], "correctOptionIndex": 0, "explanation": { "en": "I-127 is the sole stable isotope; all others are radioactive.", "bn": "I-127 একমাত্র স্থিতিশীল আইসোটোপ; অন্য সবগুলো তেজস্ক্রিয়।" } },
+      { "question": { "en": "Iodine is least reactive among the stable halogens because:", "bn": "স্থিতিশীল হ্যালোজেনের মধ্যে আয়োডিন সবচেয়ে কম প্রতিক্রিয়াশীল কারণ:" }, "options": [{ "en": "Its electronegativity is lowest in the group", "bn": "এর তড়িৎঋণাত্মকতা গ্রুপে সর্বনিম্ন" }, { "en": "It has no valence electrons", "bn": "এর কোন ভ্যালেন্স ইলেকট্রন নেই" }, { "en": "It is radioactive", "bn": "এটি তেজস্ক্রিয়" }, { "en": "It is a noble gas", "bn": "এটি একটি নিষ্ক্রিয় গ্যাস" }], "correctOptionIndex": 0, "explanation": { "en": "Lower electronegativity and larger atomic radius weaken iodine's attraction for electrons.", "bn": "কম তড়িৎঋণাত্মকতা এবং বৃহত্তর পারমাণবিক ব্যাসার্ধ আয়োডিনের ইলেকট্রনের আকর্ষণকে দুর্বল করে।" } },
+      { "question": { "en": "Tincture of iodine is iodine dissolved primarily in:", "bn": "আয়োডিন টিংচার মূলত আয়োডিন দ্রবীভূত:" }, "options": [{ "en": "Water", "bn": "জল" }, { "en": "Ethanol with potassium iodide", "bn": "পটাসিয়াম আয়োডাইড সহ ইথানল" }, { "en": "Glycerin", "bn": "গ্লিসারিন" }, { "en": "Hydrochloric acid", "bn": "হাইড্রোক্লোরিক অ্যাসিড" }], "correctOptionIndex": 1, "explanation": { "en": "Iodine has low water solubility but dissolves readily in alcohol with KI as solubilizer.", "bn": "আয়োডিনের কম জল দ্রাব্যতা রয়েছে কিন্তু KI দ্রাব্যকারী হিসাবে অ্যালকোহলে সহজেই দ্রবীভূত হয়।" } },
+      { "question": { "en": "How many electrons does an iodine atom need to complete its octet?", "bn": "একটি আয়োডিন পরমাণুর অষ্টক সম্পূর্ণ করতে কতগুলি ইলেকট্রন প্রয়োজন?" }, "options": [{ "en": "One", "bn": "একটি" }, { "en": "Two", "bn": "দুটি" }, { "en": "Three", "bn": "তিনটি" }, { "en": "Seven", "bn": "সাতটি" }], "correctOptionIndex": 0, "explanation": { "en": "With 7 valence electrons, iodine needs only one more to complete the octet, forming I⁻.", "bn": "৭টি ভ্যালেন্স ইলেকট্রন সহ, আয়োডিনের অষ্টক সম্পূর্ণ করতে আরও একটি প্রয়োজন, I⁻ গঠন করে।" } },
+      { "question": { "en": "Iodine is commercially extracted in Chile primarily from:", "bn": "চিলিতে বাণিজ্যিকভাবে আয়োডিন প্রাথমিকভাবে নিষ্কাশন করা হয়:" }, "options": [{ "en": "Seawater", "bn": "সমুদ্রের জল" }, { "en": "Caliche (sodium iodate) deposits", "bn": "ক্যালিচে (সোডিয়াম আয়োডেট) আমানত" }, { "en": "Volcanic ash", "bn": "আগ্নেয়গিরির ছাই" }, { "en": "Coal mines", "bn": "কয়লা খনি" }], "correctOptionIndex": 1, "explanation": { "en": "Caliche ore in the Atacama Desert is the world's largest iodine source.", "bn": "আতাকামা মরুভূমিতে ক্যালিচে আকরিক বিশ্বের বৃহত্তম আয়োডিন উৎস।" } },
+      { "question": { "en": "Silver iodide (AgI) is famously used in:", "bn": "সিলভার আয়োডাইড (AgI) বিখ্যাতভাবে ব্যবহৃত হয়:" }, "options": [{ "en": "Cloud seeding for rain", "bn": "বৃষ্টির জন্য মেঘ বীজ বপন" }, { "en": "Magnets", "bn": "চুম্বক" }, { "en": "Lubricants", "bn": "তৈলাক্তকারী" }, { "en": "Sweeteners", "bn": "মিষ্টিকারক" }], "correctOptionIndex": 0, "explanation": { "en": "AgI crystals nucleate ice formation, used in weather modification.", "bn": "AgI স্ফটিক বরফ গঠনকে নিউক্লিয়েট করে, আবহাওয়া পরিবর্তনে ব্যবহৃত হয়।" } },
+      { "question": { "en": "The iodine clock reaction is used to demonstrate:", "bn": "আয়োডিন ঘড়ি বিক্রিয়া প্রদর্শন করতে ব্যবহৃত হয়:" }, "options": [{ "en": "Acid-base titration", "bn": "অ্যাসিড-বেস টাইট্রেশন" }, { "en": "Reaction kinetics and rate laws", "bn": "বিক্রিয়া গতিবিদ্যা এবং হার সূত্র" }, { "en": "Phase transitions", "bn": "ফেজ ট্রান্সিশন" }, { "en": "Nuclear decay", "bn": "পারমাণবিক ক্ষয়" }], "correctOptionIndex": 1, "explanation": { "en": "The sudden color change after a measurable induction period teaches reaction kinetics.", "bn": "একটি পরিমাপযোগ্য ইনডাকশন সময়ের পরে আকস্মিক রঙ পরিবর্তন বিক্রিয়া গতিবিদ্যা শেখায়।" } },
+      { "question": { "en": "Hypothyroidism caused by lack of iodine in children is called:", "bn": "শিশুদের মধ্যে আয়োডিনের অভাবে সৃষ্ট হাইপোথাইরয়েডিজমকে বলা হয়:" }, "options": [{ "en": "Cretinism (now: congenital iodine deficiency syndrome)", "bn": "ক্রেটিনিজম (এখন: জন্মগত আয়োডিন ঘাটতি সিনড্রোম)" }, { "en": "Rickets", "bn": "রিকেট" }, { "en": "Scurvy", "bn": "স্কার্ভি" }, { "en": "Pellagra", "bn": "পেলাগ্রা" }], "correctOptionIndex": 0, "explanation": { "en": "Severe early-life iodine deficiency causes irreversible cognitive and growth impairments.", "bn": "প্রাথমিক জীবনে গুরুতর আয়োডিন ঘাটতি অপরিবর্তনীয় জ্ঞানীয় এবং বৃদ্ধির অক্ষমতা ঘটায়।" } },
+      { "question": { "en": "Iodine ion thrusters for satellites work by:", "bn": "স্যাটেলাইটের জন্য আয়োডিন আয়ন থ্রাস্টার কাজ করে:" }, "options": [{ "en": "Combustion of iodine with oxygen", "bn": "অক্সিজেনের সাথে আয়োডিনের দহন" }, { "en": "Subliming solid iodine, ionizing it, and accelerating ions electrically", "bn": "কঠিন আয়োডিনকে সাবলাইম করে, এটিকে আয়নাইজ করে এবং বৈদ্যুতিকভাবে আয়নকে ত্বরান্বিত করে" }, { "en": "Nuclear fission of iodine", "bn": "আয়োডিনের পারমাণবিক বিভাজন" }, { "en": "Magnetic levitation", "bn": "চৌম্বকীয় উত্তোলন" }], "correctOptionIndex": 1, "explanation": { "en": "Iodine's high storage density and easy ionization make it an attractive xenon alternative.", "bn": "আয়োডিনের উচ্চ সঞ্চয় ঘনত্ব এবং সহজ আয়নীকরণ এটিকে একটি আকর্ষণীয় জেনন বিকল্প করে তোলে।" } },
+      { "question": { "en": "Which oxoacid of iodine has the highest oxidation state?", "bn": "আয়োডিনের কোন অক্সোঅ্যাসিডের সর্বোচ্চ জারণ অবস্থা রয়েছে?" }, "options": [{ "en": "HIO (hypoiodous acid)", "bn": "HIO (হাইপোআয়োডাস অ্যাসিড)" }, { "en": "HIO₂ (iodous acid)", "bn": "HIO₂ (আয়োডাস অ্যাসিড)" }, { "en": "HIO₃ (iodic acid)", "bn": "HIO₃ (আয়োডিক অ্যাসিড)" }, { "en": "HIO₄ (periodic acid)", "bn": "HIO₄ (পেরিওডিক অ্যাসিড)" }], "correctOptionIndex": 3, "explanation": { "en": "In HIO₄, iodine is in the +7 oxidation state, its highest.", "bn": "HIO₄ এ, আয়োডিন +৭ জারণ অবস্থায় থাকে, এর সর্বোচ্চ।" } }
+    ],
+    "misconceptions": [
+      { "en": "All iodine is radioactive — only certain isotopes like I-131 are; natural I-127 is stable and essential.", "bn": "সমস্ত আয়োডিন তেজস্ক্রিয় — শুধুমাত্র I-131 এর মতো নির্দিষ্ট আইসোটোপ; প্রাকৃতিক I-127 স্থিতিশীল এবং অপরিহার্য।" }
+    ],
+    "learningTips": [
+      { "en": "I = halogen, group 17, purple sublimer, found in iodized salt, builds thyroid hormones T3/T4.", "bn": "I = হ্যালোজেন, গ্রুপ ১৭, বেগুনি সাবলাইমার, আয়োডিনযুক্ত লবণে পাওয়া যায়, থাইরয়েড হরমোন T3/T4 তৈরি করে।" }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      { "equation": "H₂ + I₂ → 2HI", "description": { "en": "Reversible synthesis of hydrogen iodide from elements.", "bn": "উপাদান থেকে হাইড্রোজেন আয়োডাইডের বিপরীতমুখী সংশ্লেষণ।" } },
+      { "equation": "2Na + I₂ → 2NaI", "description": { "en": "Sodium reacts vigorously with iodine to form sodium iodide.", "bn": "সোডিয়াম আয়োডিনের সাথে জোরালোভাবে বিক্রিয়া করে সোডিয়াম আয়োডাইড গঠন করে।" } }
+    ],
+    "oxidationExamples": [
+      { "equation": "2I⁻ → I₂ + 2e⁻", "description": { "en": "Iodide oxidized to iodine, the basis of iodometric titrations.", "bn": "আয়োডাইড আয়োডিনে জারিত হয়, আয়োডোমেট্রিক টাইট্রেশনের ভিত্তি।" } }
+    ],
+    "reductionExamples": [
+      { "equation": "I₂ + 2e⁻ → 2I⁻", "description": { "en": "Iodine reduced to iodide; standard reduction potential +0.54 V.", "bn": "আয়োডিন আয়োডাইডে বিজারিত হয়; প্রমিত বিজারণ বিভব +০.৫৪ V।" } }
+    ],
+    "bondingExamples": [
+      { "bondType": { "en": "Covalent Single Bond", "bn": "সমযোজী একক বন্ধন" }, "molecule": "I₂", "description": { "en": "Two iodine atoms share an electron pair forming a diatomic molecule held by van der Waals forces in the solid.", "bn": "দুটি আয়োডিন পরমাণু একটি ইলেকট্রন জোড়া ভাগ করে দ্বি-পরমাণু অণু গঠন করে যা কঠিনে ভ্যান ডার ওয়ালস বল দ্বারা ধরে রাখা হয়।" } }
+    ]
+  }
+}

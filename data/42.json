@@ -1,0 +1,1026 @@
+{
+  "elementId": 42,
+  "basicInformation": {
+    "atomicNumber": 42,
+    "symbol": "Mo",
+    "name": {
+      "en": "Molybdenum",
+      "bn": "মলিবডেনাম"
+    },
+    "pronunciation": {
+      "en": "/məˈlɪbdənəm/",
+      "bn": "মো-লিব-ডে-নাম"
+    },
+    "atomicMass": 95.95,
+    "category": {
+      "en": "Transition metal",
+      "bn": "ট্রানজিশন ধাতু"
+    },
+    "group": 6,
+    "period": 5,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery-gray refractory metal",
+      "bn": "রূপালী-ধূসর অগ্নিসহ ধাতু"
+    },
+    "color": {
+      "en": "Silvery gray",
+      "bn": "রূপালী ধূসর"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Carl Wilhelm Scheele",
+      "bn": "কার্ল উইলহেলম শেলে"
+    },
+    "discoveryYear": 1778,
+    "discoveryLocation": {
+      "en": "Sweden",
+      "bn": "সুইডেন"
+    },
+    "discoveryStory": {
+      "en": "Scheele identified molybdenum as a distinct element in molybdenite; Hjelm isolated the metal in 1781.",
+      "bn": "শেলে মলিবডেনাইটে মলিবডেনামকে একটি স্বতন্ত্র উপাদান হিসেবে চিহ্নিত করেন; হেল্ম ১৭৮১ সালে ধাতুটি আলাদা করেন।"
+    },
+    "historicalUses": {
+      "en": "Used in German WWI armor-piercing artillery for its high-temperature strength.",
+      "bn": "উচ্চ-তাপমাত্রার শক্তির জন্য জার্মান প্রথম বিশ্বযুদ্ধের আর্মার-পিয়ারসিং কামানে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Nitrogenase enzyme studies showing the Mo cofactor's role in biological N₂ fixation.",
+      "bn": "নাইট্রোজেনেস এনজাইম গবেষণা জৈবিক N₂ ফিক্সেশনে Mo কোফ্যাক্টরের ভূমিকা প্রদর্শন করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 42,
+    "neutrons": 54,
+    "electrons": 42,
+    "valenceElectrons": 6,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      13,
+      1
+    ],
+    "electronConfiguration": "[Kr] 4d⁵ 5s¹",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      -1,
+      -2,
+      -4
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 10.28,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 2896,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 4912,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 139,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 154,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 209,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 138,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 18700000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.251,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 5.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Body-centered cubic",
+      "bn": "বডি-সেন্টারড কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.16,
+    "ionizationEnergy": {
+      "value": 684.3,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 72,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Stable in air at room temperature; oxidizes above 500°C.",
+      "bn": "কক্ষ তাপমাত্রায় বাতাসে স্থিতিশীল; ৫০০°সে এর উপরে জারিত হয়।"
+    },
+    "commonCompounds": [
+      "MoS₂",
+      "MoO₃",
+      "Mo(CO)₆",
+      "MoC"
+    ],
+    "flameTestColor": {
+      "en": "Yellow-green",
+      "bn": "হলুদ-সবুজ"
+    },
+    "spectralLines": [
+      "379.83nm",
+      "386.41nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Molybdenum has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "মলিবডেনাম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Molybdenum or its compounds.",
+      "bn": "মলিবডেনাম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Molybdenum-bearing alloys may be used in aerospace components.",
+      "bn": "মলিবডেনাম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Molybdenum (symbol Mo) is element 42 in the periodic table.",
+      "bn": "মলিবডেনাম (প্রতীক Mo) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Molybdenum exhibits chemistry consistent with its position in group 6, period 5.",
+      "bn": "মলিবডেনাম গ্রুপ 6, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Molybdenum has fascinating properties tied to its electronic structure.",
+        "bn": "মলিবডেনাম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 41,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Molybdenum shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, মলিবডেনাম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Molybdenum?",
+          "bn": "মলিবডেনাম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "41",
+            "bn": "41"
+          },
+          {
+            "en": "42",
+            "bn": "42"
+          },
+          {
+            "en": "43",
+            "bn": "43"
+          },
+          {
+            "en": "44",
+            "bn": "44"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Molybdenum has 42 protons in its nucleus.",
+          "bn": "মলিবডেনাম-এর নিউক্লিয়াসে 42 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Molybdenum?",
+          "bn": "মলিবডেনাম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Mo",
+            "bn": "Mo"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Mo.",
+          "bn": "প্রতীকটি হল Mo।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Molybdenum belong?",
+          "bn": "মলিবডেনাম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Molybdenum is classified as a transition metal.",
+          "bn": "মলিবডেনাম-কে ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Molybdenum reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে মলিবডেনাম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Molybdenum sits in group 6.",
+          "bn": "মলিবডেনাম গ্রুপ 6-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Molybdenum reside?",
+          "bn": "মলিবডেনাম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Molybdenum sits in period 5.",
+          "bn": "মলিবডেনাম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Molybdenum?",
+          "bn": "মলিবডেনাম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d⁵ 5s¹",
+            "bn": "[Kr] 4d⁵ 5s¹"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d⁵ 5s¹.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d⁵ 5s¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Molybdenum?",
+          "bn": "মলিবডেনাম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Carl Wilhelm Scheele",
+            "bn": "কার্ল উইলহেলম শেলে"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Carl Wilhelm Scheele is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় কার্ল উইলহেলম শেলে-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Molybdenum discovered?",
+          "bn": "মলিবডেনাম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1728",
+            "bn": "1728"
+          },
+          {
+            "en": "1778",
+            "bn": "1778"
+          },
+          {
+            "en": "1828",
+            "bn": "1828"
+          },
+          {
+            "en": "1878",
+            "bn": "1878"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1778.",
+          "bn": "1778 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Molybdenum?",
+          "bn": "মলিবডেনাম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+6",
+            "bn": "+6"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +6.",
+          "bn": "প্রধান জারণ অবস্থা +6।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Molybdenum?",
+          "bn": "মলিবডেনাম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "5.14 g/cm³",
+            "bn": "5.14 গ্রা/সেমি³"
+          },
+          {
+            "en": "10.280 g/cm³",
+            "bn": "10.280 গ্রা/সেমি³"
+          },
+          {
+            "en": "20.56 g/cm³",
+            "bn": "20.56 গ্রা/সেমি³"
+          },
+          {
+            "en": "41.12 g/cm³",
+            "bn": "41.12 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 10.280 g/cm³.",
+          "bn": "ঘনত্ব ≈ 10.280 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Molybdenum (K)?",
+          "bn": "মলিবডেনাম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1448 K",
+            "bn": "1448 K"
+          },
+          {
+            "en": "2896 K",
+            "bn": "2896 K"
+          },
+          {
+            "en": "5792 K",
+            "bn": "5792 K"
+          },
+          {
+            "en": "11584 K",
+            "bn": "11584 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 2896 K.",
+          "bn": "গলনাঙ্ক ≈ 2896 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Molybdenum (K)?",
+          "bn": "মলিবডেনাম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1228 K",
+            "bn": "1228 K"
+          },
+          {
+            "en": "2456 K",
+            "bn": "2456 K"
+          },
+          {
+            "en": "4912 K",
+            "bn": "4912 K"
+          },
+          {
+            "en": "9824 K",
+            "bn": "9824 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 4912 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 4912 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Molybdenum?",
+          "bn": "মলিবডেনাম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.08",
+            "bn": "1.08"
+          },
+          {
+            "en": "2.16",
+            "bn": "2.16"
+          },
+          {
+            "en": "3.24",
+            "bn": "3.24"
+          },
+          {
+            "en": "4.32",
+            "bn": "4.32"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 2.16.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 2.16।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Molybdenum (kJ/mol)?",
+          "bn": "মলিবডেনাম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "342",
+            "bn": "342"
+          },
+          {
+            "en": "684",
+            "bn": "684"
+          },
+          {
+            "en": "1368",
+            "bn": "1368"
+          },
+          {
+            "en": "2052",
+            "bn": "2052"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 684.3 kJ/mol.",
+          "bn": "প্রথম IE ≈ 684.3 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Molybdenum belong to?",
+          "bn": "মলিবডেনাম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Molybdenum is in the d-block.",
+          "bn": "মলিবডেনাম d-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Molybdenum have?",
+          "bn": "মলিবডেনাম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "6 valence electrons.",
+          "bn": "6 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Molybdenum's atomic mass (u)?",
+          "bn": "মলিবডেনাম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "47.98",
+            "bn": "47.98"
+          },
+          {
+            "en": "95.95",
+            "bn": "95.95"
+          },
+          {
+            "en": "143.93",
+            "bn": "143.93"
+          },
+          {
+            "en": "191.90",
+            "bn": "191.90"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 95.95.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 95.95।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Molybdenum have?",
+          "bn": "মলিবডেনাম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "52",
+            "bn": "52"
+          },
+          {
+            "en": "54",
+            "bn": "54"
+          },
+          {
+            "en": "56",
+            "bn": "56"
+          },
+          {
+            "en": "58",
+            "bn": "58"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 54 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 54 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Molybdenum adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন মলিবডেনাম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Body-centered cubic",
+            "bn": "বডি-সেন্টারড কিউবিক"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Body-centered cubic lattice.",
+          "bn": "এটি বডি-সেন্টারড কিউবিক জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Molybdenum?",
+          "bn": "কক্ষ তাপমাত্রায়, মলিবডেনাম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Molybdenum is a solid at STP.",
+          "bn": "STP-তে মলিবডেনাম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Molybdenum?",
+          "bn": "মলিবডেনাম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "MoS₂",
+            "bn": "MoS₂"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "MoS₂ is a common compound.",
+          "bn": "MoS₂ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Molybdenum addressed by modern chemistry.",
+        "bn": "মলিবডেনাম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Mo and atomic number, and its group/period.",
+        "bn": "প্রতীক Mo এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

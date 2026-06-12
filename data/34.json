@@ -1,0 +1,1016 @@
+{
+  "elementId": 34,
+  "basicInformation": {
+    "atomicNumber": 34,
+    "symbol": "Se",
+    "name": {
+      "en": "Selenium",
+      "bn": "সেলেনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/səˈliːniəm/",
+      "bn": "সে-লে-নি-য়াম"
+    },
+    "atomicMass": 78.971,
+    "category": {
+      "en": "Nonmetal",
+      "bn": "অধাতু"
+    },
+    "group": 16,
+    "period": 4,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Gray metallic luster (gray allotrope)",
+      "bn": "ধূসর ধাতব দীপ্তি (ধূসর অ্যালোট্রোপ)"
+    },
+    "color": {
+      "en": "Gray / red",
+      "bn": "ধূসর / লাল"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Jöns Jakob Berzelius",
+      "bn": "ইয়োন্স ইয়াকব বের্জেলিউস"
+    },
+    "discoveryYear": 1817,
+    "discoveryLocation": {
+      "en": "Sweden",
+      "bn": "সুইডেন"
+    },
+    "discoveryStory": {
+      "en": "Berzelius isolated selenium from residues of sulfuric-acid manufacture, naming it after the Moon (Selene).",
+      "bn": "বের্জেলিউস সালফিউরিক-অ্যাসিড উৎপাদনের অবশিষ্টাংশ থেকে সেলেনিয়াম আলাদা করেন, চাঁদের (সেলেনি) নামে নামকরণ করেন।"
+    },
+    "historicalUses": {
+      "en": "Used in early photoelectric cells and xerography drums.",
+      "bn": "প্রাথমিক ফটোইলেকট্রিক কোষ এবং জেরোগ্রাফি ড্রামে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Discovery of photoconductivity by Willoughby Smith (1873).",
+      "bn": "উইলবি স্মিথ (১৮৭৩) দ্বারা ফটোকন্ডাক্টিভিটি আবিষ্কার।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 34,
+    "neutrons": 45,
+    "electrons": 34,
+    "valenceElectrons": 6,
+    "shells": 4,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      6
+    ],
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p⁴",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      6,
+      4,
+      2,
+      -2
+    ],
+    "quantumNumbers": {
+      "principal": 4,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 4.819,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 494,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 958,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 120,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 120,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 190,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.519,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.321,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 2.0,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Hexagonal",
+      "bn": "ষড়ভুজাকার"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.55,
+    "ionizationEnergy": {
+      "value": 941,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 195,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Burns in air to SeO₂; reacts with most metals and many nonmetals.",
+      "bn": "বাতাসে জ্বলে SeO₂; বেশিরভাগ ধাতু এবং অনেক অধাতুর সাথে বিক্রিয়া করে।"
+    },
+    "commonCompounds": [
+      "SeO₂",
+      "H₂Se",
+      "SeF₆",
+      "CdSe"
+    ],
+    "flameTestColor": {
+      "en": "Blue",
+      "bn": "নীল"
+    },
+    "spectralLines": [
+      "196.09nm",
+      "203.99nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Selenium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "সেলেনিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Selenium or its compounds.",
+      "bn": "সেলেনিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Selenium-bearing alloys may be used in aerospace components.",
+      "bn": "সেলেনিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Selenium (symbol Se) is element 34 in the periodic table.",
+      "bn": "সেলেনিয়াম (প্রতীক Se) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Selenium exhibits chemistry consistent with its position in group 16, period 4.",
+      "bn": "সেলেনিয়াম গ্রুপ 16, পর্যায় 4-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Selenium has fascinating properties tied to its electronic structure.",
+        "bn": "সেলেনিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 33,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Selenium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, সেলেনিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Selenium?",
+          "bn": "সেলেনিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "33",
+            "bn": "33"
+          },
+          {
+            "en": "34",
+            "bn": "34"
+          },
+          {
+            "en": "35",
+            "bn": "35"
+          },
+          {
+            "en": "36",
+            "bn": "36"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Selenium has 34 protons in its nucleus.",
+          "bn": "সেলেনিয়াম-এর নিউক্লিয়াসে 34 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Selenium?",
+          "bn": "সেলেনিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Se",
+            "bn": "Se"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Se.",
+          "bn": "প্রতীকটি হল Se।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Selenium belong?",
+          "bn": "সেলেনিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Nonmetal",
+            "bn": "অধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Selenium is classified as a nonmetal.",
+          "bn": "সেলেনিয়াম-কে অধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Selenium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে সেলেনিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "15",
+            "bn": "15"
+          },
+          {
+            "en": "16",
+            "bn": "16"
+          },
+          {
+            "en": "17",
+            "bn": "17"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Selenium sits in group 16.",
+          "bn": "সেলেনিয়াম গ্রুপ 16-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Selenium reside?",
+          "bn": "সেলেনিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Selenium sits in period 4.",
+          "bn": "সেলেনিয়াম পর্যায় 4-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Selenium?",
+          "bn": "সেলেনিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s² 4p⁴",
+            "bn": "[Ar] 3d¹⁰ 4s² 4p⁴"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Ar] 3d¹⁰ 4s² 4p⁴.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Ar] 3d¹⁰ 4s² 4p⁴।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Selenium?",
+          "bn": "সেলেনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Jöns Jakob Berzelius",
+            "bn": "ইয়োন্স ইয়াকব বের্জেলিউস"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Jöns Jakob Berzelius is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় ইয়োন্স ইয়াকব বের্জেলিউস-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Selenium discovered?",
+          "bn": "সেলেনিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1767",
+            "bn": "1767"
+          },
+          {
+            "en": "1817",
+            "bn": "1817"
+          },
+          {
+            "en": "1867",
+            "bn": "1867"
+          },
+          {
+            "en": "1917",
+            "bn": "1917"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1817.",
+          "bn": "1817 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Selenium?",
+          "bn": "সেলেনিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+6",
+            "bn": "+6"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +6.",
+          "bn": "প্রধান জারণ অবস্থা +6।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Selenium?",
+          "bn": "সেলেনিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "2.41 g/cm³",
+            "bn": "2.41 গ্রা/সেমি³"
+          },
+          {
+            "en": "4.819 g/cm³",
+            "bn": "4.819 গ্রা/সেমি³"
+          },
+          {
+            "en": "9.64 g/cm³",
+            "bn": "9.64 গ্রা/সেমি³"
+          },
+          {
+            "en": "19.28 g/cm³",
+            "bn": "19.28 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 4.819 g/cm³.",
+          "bn": "ঘনত্ব ≈ 4.819 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Selenium (K)?",
+          "bn": "সেলেনিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "247 K",
+            "bn": "247 K"
+          },
+          {
+            "en": "494 K",
+            "bn": "494 K"
+          },
+          {
+            "en": "988 K",
+            "bn": "988 K"
+          },
+          {
+            "en": "1976 K",
+            "bn": "1976 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 494 K.",
+          "bn": "গলনাঙ্ক ≈ 494 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Selenium (K)?",
+          "bn": "সেলেনিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "239 K",
+            "bn": "239 K"
+          },
+          {
+            "en": "479 K",
+            "bn": "479 K"
+          },
+          {
+            "en": "958 K",
+            "bn": "958 K"
+          },
+          {
+            "en": "1916 K",
+            "bn": "1916 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 958 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 958 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Selenium?",
+          "bn": "সেলেনিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.27",
+            "bn": "1.27"
+          },
+          {
+            "en": "2.55",
+            "bn": "2.55"
+          },
+          {
+            "en": "3.82",
+            "bn": "3.82"
+          },
+          {
+            "en": "5.10",
+            "bn": "5.10"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 2.55.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 2.55।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Selenium (kJ/mol)?",
+          "bn": "সেলেনিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "470",
+            "bn": "470"
+          },
+          {
+            "en": "941",
+            "bn": "941"
+          },
+          {
+            "en": "1882",
+            "bn": "1882"
+          },
+          {
+            "en": "2823",
+            "bn": "2823"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 941 kJ/mol.",
+          "bn": "প্রথম IE ≈ 941 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Selenium belong to?",
+          "bn": "সেলেনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Selenium is in the p-block.",
+          "bn": "সেলেনিয়াম p-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Selenium have?",
+          "bn": "সেলেনিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "6 valence electrons.",
+          "bn": "6 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Selenium's atomic mass (u)?",
+          "bn": "সেলেনিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "39.49",
+            "bn": "39.49"
+          },
+          {
+            "en": "78.971",
+            "bn": "78.971"
+          },
+          {
+            "en": "118.46",
+            "bn": "118.46"
+          },
+          {
+            "en": "157.94",
+            "bn": "157.94"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 78.971.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 78.971।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Selenium have?",
+          "bn": "সেলেনিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "43",
+            "bn": "43"
+          },
+          {
+            "en": "45",
+            "bn": "45"
+          },
+          {
+            "en": "47",
+            "bn": "47"
+          },
+          {
+            "en": "49",
+            "bn": "49"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 45 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 45 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Selenium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন সেলেনিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Hexagonal lattice.",
+          "bn": "এটি ষড়ভুজাকার জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Selenium?",
+          "bn": "কক্ষ তাপমাত্রায়, সেলেনিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Selenium is a solid at STP.",
+          "bn": "STP-তে সেলেনিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Selenium?",
+          "bn": "সেলেনিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "SeO₂",
+            "bn": "SeO₂"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "SeO₂ is a common compound.",
+          "bn": "SeO₂ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Selenium addressed by modern chemistry.",
+        "bn": "সেলেনিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Se and atomic number, and its group/period.",
+        "bn": "প্রতীক Se এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

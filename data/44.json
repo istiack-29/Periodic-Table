@@ -1,0 +1,1027 @@
+{
+  "elementId": 44,
+  "basicInformation": {
+    "atomicNumber": 44,
+    "symbol": "Ru",
+    "name": {
+      "en": "Ruthenium",
+      "bn": "রুথেনিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ruːˈθiːniəm/",
+      "bn": "রু-থি-নি-য়াম"
+    },
+    "atomicMass": 101.07,
+    "category": {
+      "en": "Transition metal",
+      "bn": "ট্রানজিশন ধাতু"
+    },
+    "group": 8,
+    "period": 5,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery-white lustrous metal",
+      "bn": "রূপালী-সাদা চকচকে ধাতু"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Karl Ernst Claus",
+      "bn": "কার্ল আর্নস্ট ক্লাউস"
+    },
+    "discoveryYear": 1844,
+    "discoveryLocation": {
+      "en": "Russia",
+      "bn": "রাশিয়া"
+    },
+    "discoveryStory": {
+      "en": "Claus extracted ruthenium from Ural platinum ores; named after Ruthenia, the Latin name for Russia.",
+      "bn": "ক্লাউস উরাল প্ল্যাটিনাম আকরিক থেকে রুথেনিয়াম নিষ্কাশন করেন; রাশিয়ার ল্যাটিন নাম রুথেনিয়ার নামে নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Pioneering use in electrical contacts and as a hardener for platinum alloys.",
+      "bn": "বৈদ্যুতিক যোগাযোগে এবং প্ল্যাটিনাম সংকর ধাতুর শক্তিশালীকারক হিসাবে অগ্রণী ব্যবহার।"
+    },
+    "famousExperiments": {
+      "en": "Grubbs catalyst (Ru-carbene) revolutionized olefin metathesis (Nobel Prize 2005).",
+      "bn": "গ্রাবস ক্যাটালিস্ট (Ru-কারবিন) অলেফিন মেটাথেসিসে বিপ্লব আনে (নোবেল পুরস্কার ২০০৫)।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 44,
+    "neutrons": 57,
+    "electrons": 44,
+    "valenceElectrons": 8,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      15,
+      1
+    ],
+    "electronConfiguration": "[Kr] 4d⁷ 5s¹",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      -2,
+      -4
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 12.45,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 2607,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 4423,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 134,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 146,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 207,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 117,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 14100000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.238,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 6.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Hexagonal close-packed",
+      "bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.2,
+    "ionizationEnergy": {
+      "value": 710.2,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 101.3,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Extremely corrosion-resistant; attacked only by molten alkali and hot oxidizing acids.",
+      "bn": "অত্যন্ত ক্ষয়-প্রতিরোধী; শুধুমাত্র গলিত ক্ষার এবং গরম জারক অ্যাসিড দ্বারা আক্রান্ত।"
+    },
+    "commonCompounds": [
+      "RuO₄",
+      "RuO₂",
+      "RuCl₃",
+      "Ru(bpy)₃²⁺"
+    ],
+    "flameTestColor": {
+      "en": "None",
+      "bn": "নেই"
+    },
+    "spectralLines": [
+      "349.89nm",
+      "372.80nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Ruthenium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "রুথেনিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Ruthenium or its compounds.",
+      "bn": "রুথেনিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Ruthenium-bearing alloys may be used in aerospace components.",
+      "bn": "রুথেনিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Ruthenium (symbol Ru) is element 44 in the periodic table.",
+      "bn": "রুথেনিয়াম (প্রতীক Ru) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Ruthenium exhibits chemistry consistent with its position in group 8, period 5.",
+      "bn": "রুথেনিয়াম গ্রুপ 8, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Ruthenium has fascinating properties tied to its electronic structure.",
+        "bn": "রুথেনিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 43,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Ruthenium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, রুথেনিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Ruthenium?",
+          "bn": "রুথেনিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "43",
+            "bn": "43"
+          },
+          {
+            "en": "44",
+            "bn": "44"
+          },
+          {
+            "en": "45",
+            "bn": "45"
+          },
+          {
+            "en": "46",
+            "bn": "46"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ruthenium has 44 protons in its nucleus.",
+          "bn": "রুথেনিয়াম-এর নিউক্লিয়াসে 44 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Ruthenium?",
+          "bn": "রুথেনিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Ru",
+            "bn": "Ru"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Ru.",
+          "bn": "প্রতীকটি হল Ru।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Ruthenium belong?",
+          "bn": "রুথেনিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Ruthenium is classified as a transition metal.",
+          "bn": "রুথেনিয়াম-কে ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Ruthenium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে রুথেনিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          },
+          {
+            "en": "9",
+            "bn": "9"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ruthenium sits in group 8.",
+          "bn": "রুথেনিয়াম গ্রুপ 8-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Ruthenium reside?",
+          "bn": "রুথেনিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ruthenium sits in period 5.",
+          "bn": "রুথেনিয়াম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Ruthenium?",
+          "bn": "রুথেনিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d⁷ 5s¹",
+            "bn": "[Kr] 4d⁷ 5s¹"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d⁷ 5s¹.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d⁷ 5s¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Ruthenium?",
+          "bn": "রুথেনিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Karl Ernst Claus",
+            "bn": "কার্ল আর্নস্ট ক্লাউস"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Karl Ernst Claus is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় কার্ল আর্নস্ট ক্লাউস-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Ruthenium discovered?",
+          "bn": "রুথেনিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1794",
+            "bn": "1794"
+          },
+          {
+            "en": "1844",
+            "bn": "1844"
+          },
+          {
+            "en": "1894",
+            "bn": "1894"
+          },
+          {
+            "en": "1944",
+            "bn": "1944"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1844.",
+          "bn": "1844 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Ruthenium?",
+          "bn": "রুথেনিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+8",
+            "bn": "+8"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +8.",
+          "bn": "প্রধান জারণ অবস্থা +8।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Ruthenium?",
+          "bn": "রুথেনিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "6.22 g/cm³",
+            "bn": "6.22 গ্রা/সেমি³"
+          },
+          {
+            "en": "12.450 g/cm³",
+            "bn": "12.450 গ্রা/সেমি³"
+          },
+          {
+            "en": "24.90 g/cm³",
+            "bn": "24.90 গ্রা/সেমি³"
+          },
+          {
+            "en": "49.80 g/cm³",
+            "bn": "49.80 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 12.450 g/cm³.",
+          "bn": "ঘনত্ব ≈ 12.450 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Ruthenium (K)?",
+          "bn": "রুথেনিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1303 K",
+            "bn": "1303 K"
+          },
+          {
+            "en": "2607 K",
+            "bn": "2607 K"
+          },
+          {
+            "en": "5214 K",
+            "bn": "5214 K"
+          },
+          {
+            "en": "10428 K",
+            "bn": "10428 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 2607 K.",
+          "bn": "গলনাঙ্ক ≈ 2607 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Ruthenium (K)?",
+          "bn": "রুথেনিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1105 K",
+            "bn": "1105 K"
+          },
+          {
+            "en": "2211 K",
+            "bn": "2211 K"
+          },
+          {
+            "en": "4423 K",
+            "bn": "4423 K"
+          },
+          {
+            "en": "8846 K",
+            "bn": "8846 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 4423 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 4423 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Ruthenium?",
+          "bn": "রুথেনিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.10",
+            "bn": "1.10"
+          },
+          {
+            "en": "2.20",
+            "bn": "2.20"
+          },
+          {
+            "en": "3.30",
+            "bn": "3.30"
+          },
+          {
+            "en": "4.40",
+            "bn": "4.40"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 2.2.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 2.2।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Ruthenium (kJ/mol)?",
+          "bn": "রুথেনিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "355",
+            "bn": "355"
+          },
+          {
+            "en": "710",
+            "bn": "710"
+          },
+          {
+            "en": "1420",
+            "bn": "1420"
+          },
+          {
+            "en": "2130",
+            "bn": "2130"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 710.2 kJ/mol.",
+          "bn": "প্রথম IE ≈ 710.2 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Ruthenium belong to?",
+          "bn": "রুথেনিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Ruthenium is in the d-block.",
+          "bn": "রুথেনিয়াম d-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Ruthenium have?",
+          "bn": "রুথেনিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          },
+          {
+            "en": "9",
+            "bn": "9"
+          },
+          {
+            "en": "10",
+            "bn": "10"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "8 valence electrons.",
+          "bn": "8 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Ruthenium's atomic mass (u)?",
+          "bn": "রুথেনিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "50.53",
+            "bn": "50.53"
+          },
+          {
+            "en": "101.07",
+            "bn": "101.07"
+          },
+          {
+            "en": "151.60",
+            "bn": "151.60"
+          },
+          {
+            "en": "202.14",
+            "bn": "202.14"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 101.07.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 101.07।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Ruthenium have?",
+          "bn": "রুথেনিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "55",
+            "bn": "55"
+          },
+          {
+            "en": "57",
+            "bn": "57"
+          },
+          {
+            "en": "59",
+            "bn": "59"
+          },
+          {
+            "en": "61",
+            "bn": "61"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 57 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 57 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Ruthenium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন রুথেনিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Hexagonal close-packed",
+            "bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Hexagonal close-packed lattice.",
+          "bn": "এটি ষড়ভুজাকার ক্লোজ-প্যাকড জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Ruthenium?",
+          "bn": "কক্ষ তাপমাত্রায়, রুথেনিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Ruthenium is a solid at STP.",
+          "bn": "STP-তে রুথেনিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Ruthenium?",
+          "bn": "রুথেনিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "RuO₄",
+            "bn": "RuO₄"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "RuO₄ is a common compound.",
+          "bn": "RuO₄ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Ruthenium addressed by modern chemistry.",
+        "bn": "রুথেনিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Ru and atomic number, and its group/period.",
+        "bn": "প্রতীক Ru এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

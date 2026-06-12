@@ -1,0 +1,1019 @@
+{
+  "elementId": 48,
+  "basicInformation": {
+    "atomicNumber": 48,
+    "symbol": "Cd",
+    "name": {
+      "en": "Cadmium",
+      "bn": "ক্যাডমিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈkædmiəm/",
+      "bn": "ক্যাড-মি-য়াম"
+    },
+    "atomicMass": 112.414,
+    "category": {
+      "en": "Transition metal",
+      "bn": "ট্রানজিশন ধাতু"
+    },
+    "group": 12,
+    "period": 5,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery bluish-gray metal",
+      "bn": "রূপালী নীলাভ-ধূসর ধাতু"
+    },
+    "color": {
+      "en": "Silvery bluish gray",
+      "bn": "রূপালী নীলাভ ধূসর"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Friedrich Stromeyer",
+      "bn": "ফ্রিডরিখ স্ট্রোমেয়ার"
+    },
+    "discoveryYear": 1817,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Stromeyer noticed a yellow impurity in zinc carbonate samples, isolating cadmium as a distinct metal.",
+      "bn": "স্ট্রোমেয়ার জিঙ্ক কার্বনেট নমুনায় একটি হলুদ অপদ্রব্য লক্ষ্য করেন, ক্যাডমিয়ামকে একটি স্বতন্ত্র ধাতু হিসাবে আলাদা করেন।"
+    },
+    "historicalUses": {
+      "en": "Used in vivid yellow/orange artist pigments and electroplating from the 19th century.",
+      "bn": "১৯ শতক থেকে উজ্জ্বল হলুদ/কমলা শিল্পীর রঙ্গক এবং ইলেক্ট্রোপ্লেটিংয়ে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Weston cell — a Cd-Hg amalgam standard for voltage measurement (1893).",
+      "bn": "ওয়েস্টন কোষ — ভোল্টেজ পরিমাপের জন্য একটি Cd-Hg অ্যামালগাম মান (১৮৯৩)।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 48,
+    "neutrons": 64,
+    "electrons": 48,
+    "valenceElectrons": 2,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      18,
+      2
+    ],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s²",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      2,
+      1,
+      -2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 8.65,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 594.22,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1040,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 155,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 144,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 158,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 96.6,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 13800000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.232,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 2.0,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Hexagonal close-packed",
+      "bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.69,
+    "ionizationEnergy": {
+      "value": 867.8,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -68,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Tarnishes in moist air; soluble in dilute acids.",
+      "bn": "আর্দ্র বাতাসে কালচে হয়; লঘু অ্যাসিডে দ্রবণীয়।"
+    },
+    "commonCompounds": [
+      "CdS",
+      "CdSe",
+      "CdTe",
+      "CdCl₂"
+    ],
+    "flameTestColor": {
+      "en": "Brick red",
+      "bn": "ইটের লাল"
+    },
+    "spectralLines": [
+      "228.80nm",
+      "326.11nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Cadmium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "ক্যাডমিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Cadmium or its compounds.",
+      "bn": "ক্যাডমিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Cadmium-bearing alloys may be used in aerospace components.",
+      "bn": "ক্যাডমিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Cadmium (symbol Cd) is element 48 in the periodic table.",
+      "bn": "ক্যাডমিয়াম (প্রতীক Cd) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Cadmium exhibits chemistry consistent with its position in group 12, period 5.",
+      "bn": "ক্যাডমিয়াম গ্রুপ 12, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Cadmium has fascinating properties tied to its electronic structure.",
+        "bn": "ক্যাডমিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 47,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Cadmium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, ক্যাডমিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Cadmium?",
+          "bn": "ক্যাডমিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "47",
+            "bn": "47"
+          },
+          {
+            "en": "48",
+            "bn": "48"
+          },
+          {
+            "en": "49",
+            "bn": "49"
+          },
+          {
+            "en": "50",
+            "bn": "50"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cadmium has 48 protons in its nucleus.",
+          "bn": "ক্যাডমিয়াম-এর নিউক্লিয়াসে 48 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Cadmium?",
+          "bn": "ক্যাডমিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Cd",
+            "bn": "Cd"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Cd.",
+          "bn": "প্রতীকটি হল Cd।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Cadmium belong?",
+          "bn": "ক্যাডমিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Cadmium is classified as a transition metal.",
+          "bn": "ক্যাডমিয়াম-কে ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Cadmium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে ক্যাডমিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "11",
+            "bn": "11"
+          },
+          {
+            "en": "12",
+            "bn": "12"
+          },
+          {
+            "en": "13",
+            "bn": "13"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cadmium sits in group 12.",
+          "bn": "ক্যাডমিয়াম গ্রুপ 12-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Cadmium reside?",
+          "bn": "ক্যাডমিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cadmium sits in period 5.",
+          "bn": "ক্যাডমিয়াম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Cadmium?",
+          "bn": "ক্যাডমিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s²",
+            "bn": "[Kr] 4d¹⁰ 5s²"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d¹⁰ 5s².",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d¹⁰ 5s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Cadmium?",
+          "bn": "ক্যাডমিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Friedrich Stromeyer",
+            "bn": "ফ্রিডরিখ স্ট্রোমেয়ার"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Friedrich Stromeyer is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় ফ্রিডরিখ স্ট্রোমেয়ার-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Cadmium discovered?",
+          "bn": "ক্যাডমিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1767",
+            "bn": "1767"
+          },
+          {
+            "en": "1817",
+            "bn": "1817"
+          },
+          {
+            "en": "1867",
+            "bn": "1867"
+          },
+          {
+            "en": "1917",
+            "bn": "1917"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1817.",
+          "bn": "1817 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Cadmium?",
+          "bn": "ক্যাডমিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+2",
+            "bn": "+2"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +2.",
+          "bn": "প্রধান জারণ অবস্থা +2।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Cadmium?",
+          "bn": "ক্যাডমিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "4.33 g/cm³",
+            "bn": "4.33 গ্রা/সেমি³"
+          },
+          {
+            "en": "8.650 g/cm³",
+            "bn": "8.650 গ্রা/সেমি³"
+          },
+          {
+            "en": "17.30 g/cm³",
+            "bn": "17.30 গ্রা/সেমি³"
+          },
+          {
+            "en": "34.60 g/cm³",
+            "bn": "34.60 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 8.650 g/cm³.",
+          "bn": "ঘনত্ব ≈ 8.650 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Cadmium (K)?",
+          "bn": "ক্যাডমিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "297 K",
+            "bn": "297 K"
+          },
+          {
+            "en": "594 K",
+            "bn": "594 K"
+          },
+          {
+            "en": "1188 K",
+            "bn": "1188 K"
+          },
+          {
+            "en": "2376 K",
+            "bn": "2376 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 594.22 K.",
+          "bn": "গলনাঙ্ক ≈ 594.22 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Cadmium (K)?",
+          "bn": "ক্যাডমিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "260 K",
+            "bn": "260 K"
+          },
+          {
+            "en": "520 K",
+            "bn": "520 K"
+          },
+          {
+            "en": "1040 K",
+            "bn": "1040 K"
+          },
+          {
+            "en": "2080 K",
+            "bn": "2080 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 1040 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 1040 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Cadmium?",
+          "bn": "ক্যাডমিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.84",
+            "bn": "0.84"
+          },
+          {
+            "en": "1.69",
+            "bn": "1.69"
+          },
+          {
+            "en": "2.54",
+            "bn": "2.54"
+          },
+          {
+            "en": "3.38",
+            "bn": "3.38"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 1.69.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 1.69।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Cadmium (kJ/mol)?",
+          "bn": "ক্যাডমিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "433",
+            "bn": "433"
+          },
+          {
+            "en": "867",
+            "bn": "867"
+          },
+          {
+            "en": "1735",
+            "bn": "1735"
+          },
+          {
+            "en": "2603",
+            "bn": "2603"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 867.8 kJ/mol.",
+          "bn": "প্রথম IE ≈ 867.8 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Cadmium belong to?",
+          "bn": "ক্যাডমিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Cadmium is in the d-block.",
+          "bn": "ক্যাডমিয়াম d-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Cadmium have?",
+          "bn": "ক্যাডমিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "1",
+            "bn": "1"
+          },
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "2 valence electrons.",
+          "bn": "2 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Cadmium's atomic mass (u)?",
+          "bn": "ক্যাডমিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "56.21",
+            "bn": "56.21"
+          },
+          {
+            "en": "112.414",
+            "bn": "112.414"
+          },
+          {
+            "en": "168.62",
+            "bn": "168.62"
+          },
+          {
+            "en": "224.83",
+            "bn": "224.83"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 112.414.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 112.414।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Cadmium have?",
+          "bn": "ক্যাডমিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "62",
+            "bn": "62"
+          },
+          {
+            "en": "64",
+            "bn": "64"
+          },
+          {
+            "en": "66",
+            "bn": "66"
+          },
+          {
+            "en": "68",
+            "bn": "68"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 64 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 64 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Cadmium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন ক্যাডমিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Hexagonal close-packed",
+            "bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Hexagonal close-packed lattice.",
+          "bn": "এটি ষড়ভুজাকার ক্লোজ-প্যাকড জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Cadmium?",
+          "bn": "কক্ষ তাপমাত্রায়, ক্যাডমিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Cadmium is a solid at STP.",
+          "bn": "STP-তে ক্যাডমিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Cadmium?",
+          "bn": "ক্যাডমিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "CdS",
+            "bn": "CdS"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "CdS is a common compound.",
+          "bn": "CdS একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Cadmium addressed by modern chemistry.",
+        "bn": "ক্যাডমিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Cd and atomic number, and its group/period.",
+        "bn": "প্রতীক Cd এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "elementId": 51,
+  "basicInformation": {
+    "atomicNumber": 51,
+    "symbol": "Sb",
+    "name": { "en": "Antimony", "bn": "অ্যান্টিমনি" },
+    "pronunciation": { "en": "/ˈæntɪmoʊni/", "bn": "অ্যান-টি-মো-নি" },
+    "atomicMass": 121.760,
+    "category": { "en": "Metalloid", "bn": "ধাতুকল্প" },
+    "group": 15,
+    "period": 5,
+    "block": "p",
+    "phase": { "en": "Solid", "bn": "কঠিন" },
+    "appearance": { "en": "Silvery lustrous gray solid", "bn": "রূপালী চকচকে ধূসর কঠিন" },
+    "color": { "en": "Silvery gray", "bn": "রূপালী ধূসর" },
+    "radioactive": false,
+    "naturalOccurrence": { "en": "Primordial", "bn": "আদিম" }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": { "en": "Known since antiquity", "bn": "প্রাচীনকাল থেকেই পরিচিত" },
+    "discoveryYear": -3000,
+    "discoveryLocation": { "en": "Ancient Egypt / Mesopotamia", "bn": "প্রাচীন মিশর / মেসোপটেমিয়া" },
+    "discoveryStory": {
+      "en": "Antimony compounds (stibnite) were used as cosmetics (kohl) for eye makeup in ancient Egypt. The pure metal was first described by Vannoccio Biringuccio in 1540.",
+      "bn": "অ্যান্টিমনি যৌগ (স্টিবনাইট) প্রাচীন মিশরে চোখের প্রসাধনী (কোহল) হিসেবে ব্যবহৃত হত। বিশুদ্ধ ধাতুটি প্রথম ১৫৪০ সালে ভ্যানোসিও বিরিঙ্গুচ্চিও কর্তৃক বর্ণিত হয়।"
+    },
+    "historicalUses": {
+      "en": "Used in alloys for type-metal printing and in medicines (often toxic) during the alchemical era.",
+      "bn": "মুদ্রণের জন্য টাইপ-মেটাল সংকর ধাতুতে এবং রসায়নবিদ্যার যুগে ওষুধে (প্রায়ই বিষাক্ত) ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Nicolas Lémery's 1707 'Treatise on Antimony' systematically documented its chemistry.",
+      "bn": "নিকোলাস লেমেরির ১৭০৭ সালের 'অ্যান্টিমনির উপর গ্রন্থ' পদ্ধতিগতভাবে এর রসায়ন নথিভুক্ত করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 51,
+    "neutrons": 71,
+    "electrons": 51,
+    "valenceElectrons": 5,
+    "shells": 5,
+    "shellDistribution": [2, 8, 18, 18, 5],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p³",
+    "orbitalConfiguration": { "1s": 2, "2s": 2, "2p": 6, "3s": 2, "3p": 6, "3d": 10, "4s": 2, "4p": 6, "4d": 10, "5s": 2, "5p": 3 },
+    "oxidationStates": [-3, 3, 5],
+    "quantumNumbers": { "principal": 5, "azimuthal": 1, "magnetic": 1, "spin": 0.5 }
+  },
+  "physicalProperties": {
+    "density": { "value": 6.697, "unit": "g/cm³" },
+    "meltingPoint": { "value": 903.78, "unit": "K" },
+    "boilingPoint": { "value": 1908, "unit": "K" },
+    "atomicRadius": { "value": 140, "unit": "pm" },
+    "covalentRadius": { "value": 139, "unit": "pm" },
+    "vanDerWaalsRadius": { "value": 206, "unit": "pm" },
+    "thermalConductivity": { "value": 24.4, "unit": "W/(m·K)" },
+    "electricalConductivity": { "value": 2.5e6, "unit": "S/m" },
+    "specificHeat": { "value": 0.207, "unit": "J/(g·K)" },
+    "hardness": { "value": 3.0, "unit": "Mohs" },
+    "crystalStructure": { "en": "Rhombohedral", "bn": "রম্বোহেড্রাল" },
+    "magneticOrdering": { "en": "Diamagnetic", "bn": "ডায়াম্যাগনেটিক" }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.05,
+    "ionizationEnergy": { "value": 834, "unit": "kJ/mol" },
+    "electronAffinity": { "value": 101.0, "unit": "kJ/mol" },
+    "reactivity": {
+      "en": "Stable in dry air, reacts with halogens and hot oxidizing acids. Does not react with dilute acids.",
+      "bn": "শুষ্ক বাতাসে স্থিতিশীল, হ্যালোজেন এবং গরম জারক অ্যাসিডের সাথে বিক্রিয়া করে। লঘু অ্যাসিডের সাথে বিক্রিয়া করে না।"
+    },
+    "commonCompounds": ["Sb₂O₃", "Sb₂S₃", "SbCl₃", "SbH₃", "InSb"],
+    "flameTestColor": { "en": "Pale green / bluish", "bn": "ফ্যাকাশে সবুজ / নীলাভ" },
+    "spectralLines": ["217.58nm", "231.15nm", "259.81nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Primary use as flame retardant (antimony trioxide) in plastics, textiles, and rubber.",
+      "bn": "প্লাস্টিক, টেক্সটাইল এবং রাবারে অগ্নি প্রতিরোধক (অ্যান্টিমনি ট্রাইঅক্সাইড) হিসেবে প্রাথমিক ব্যবহার।"
+    },
+    "commercialUses": {
+      "en": "Alloyed with lead to harden bullets, bearings, and lead-acid battery grids.",
+      "bn": "বুলেট, বিয়ারিং এবং লেড-অ্যাসিড ব্যাটারির গ্রিড শক্ত করতে সীসার সাথে সংকরিত।"
+    },
+    "electronicsUses": {
+      "en": "Used in infrared detectors, diodes, and Hall-effect devices as an n-type dopant.",
+      "bn": "ইনফ্রারেড ডিটেক্টর, ডায়োড এবং হল-ইফেক্ট ডিভাইসে এন-টাইপ ডোপ্যান্ট হিসেবে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Indium antimonide (InSb) is a key III-V semiconductor for thermal imaging and high-speed electronics.",
+      "bn": "ইন্ডিয়াম অ্যান্টিমনাইড (InSb) তাপীয় চিত্রায়ন এবং উচ্চ-গতির ইলেকট্রনিক্সের জন্য একটি গুরুত্বপূর্ণ III-V অর্ধপরিবাহী।"
+    },
+    "aerospaceUses": {
+      "en": "InSb-based focal plane arrays in missile seekers and satellite-borne IR sensors.",
+      "bn": "ক্ষেপণাস্ত্র সিকার এবং স্যাটেলাইট-বাহিত আইআর সেন্সরে InSb-ভিত্তিক ফোকাল প্লেন অ্যারে।"
+    },
+    "batteryUses": {
+      "en": "Hardens lead plates in lead-acid car batteries, improving mechanical strength and lifespan.",
+      "bn": "লেড-অ্যাসিড গাড়ির ব্যাটারিতে সীসা প্লেট শক্ত করে, যান্ত্রিক শক্তি এবং আয়ুষ্কাল বৃদ্ধি করে।"
+    },
+    "aiHardwareUses": {
+      "en": "Antimony-based phase-change memory (PCM) materials enable neuromorphic computing for AI accelerators.",
+      "bn": "অ্যান্টিমনি-ভিত্তিক ফেজ-চেঞ্জ মেমরি (PCM) উপকরণ এআই অ্যাক্সিলারেটরের জন্য নিউরোমর্ফিক কম্পিউটিং সক্ষম করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "Liquid-metal antimony batteries (Sb-Ca, Sb-Pb) developed for grid-scale energy storage.",
+      "bn": "তরল-ধাতু অ্যান্টিমনি ব্যাটারি (Sb-Ca, Sb-Pb) গ্রিড-স্কেল শক্তি সঞ্চয়ের জন্য উন্নত।"
+    },
+    "nanotechnologyUses": {
+      "en": "Antimonene, a 2D allotrope, shows promise in flexible electronics and photodetectors.",
+      "bn": "অ্যান্টিমোনিন, একটি ২ডি অ্যালোট্রপ, নমনীয় ইলেকট্রনিক্স এবং ফটোডিটেক্টরে প্রতিশ্রুতি দেখায়।"
+    },
+    "nuclearUses": {
+      "en": "Sb-Be sources serve as neutron initiators in some reactor designs.",
+      "bn": "Sb-Be উৎস কিছু চুল্লির নকশায় নিউট্রন সূচনাকারী হিসেবে কাজ করে।"
+    },
+    "militaryUses": {
+      "en": "Hardens lead in armor-piercing ammunition; flame retardant in military uniforms and tents.",
+      "bn": "বর্ম-ভেদকারী গোলাবারুদের সীসা শক্ত করে; সামরিক ইউনিফর্ম এবং তাঁবুতে অগ্নি প্রতিরোধক।"
+    },
+    "medicalUses": {
+      "en": "Pentavalent antimonials (sodium stibogluconate) treat leishmaniasis in tropical medicine.",
+      "bn": "পঞ্চযোজী অ্যান্টিমনিয়াল (সোডিয়াম স্টিবোগ্লুকোনেট) ক্রান্তীয় চিকিৎসায় লেইশম্যানিয়াসিস চিকিৎসা করে।"
+    },
+    "foodIndustryUses": {
+      "en": "Catalyst (antimony trioxide) used in producing PET plastic bottles for beverages.",
+      "bn": "পানীয়ের জন্য PET প্লাস্টিকের বোতল তৈরিতে অনুঘটক (অ্যান্টিমনি ট্রাইঅক্সাইড) ব্যবহৃত হয়।"
+    },
+    "constructionUses": {
+      "en": "Fire-resistant additive in cables, insulation, and architectural plastics.",
+      "bn": "তার, নিরোধক এবং স্থাপত্য প্লাস্টিকে অগ্নি-প্রতিরোধী সংযোজন।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological role; considered non-essential and potentially toxic to most organisms.",
+      "bn": "কোন জৈবিক ভূমিকা জানা নেই; বেশিরভাগ জীবের জন্য অ-অপরিহার্য এবং সম্ভাব্য বিষাক্ত হিসেবে বিবেচিত।"
+    },
+    "humanBodyRole": {
+      "en": "Not required by the human body; trace amounts may interfere with enzyme function.",
+      "bn": "মানবদেহের প্রয়োজন নেই; ট্রেস পরিমাণ এনজাইম ফাংশনে হস্তক্ষেপ করতে পারে।"
+    },
+    "toxicity": {
+      "en": "Toxic; symptoms similar to arsenic poisoning. Stibine gas (SbH₃) is extremely hazardous.",
+      "bn": "বিষাক্ত; লক্ষণগুলি আর্সেনিক বিষক্রিয়ার অনুরূপ। স্টিবিন গ্যাস (SbH₃) অত্যন্ত বিপজ্জনক।"
+    },
+    "environmentalImpact": {
+      "en": "Industrial emissions can contaminate soil and water; persistent in sediments.",
+      "bn": "শিল্প নির্গমন মাটি এবং জল দূষিত করতে পারে; পলিতে স্থায়ী।"
+    },
+    "pollutionRisks": {
+      "en": "Leaching from PET bottles and mining tailings poses chronic exposure risks.",
+      "bn": "PET বোতল এবং খনির বর্জ্য থেকে নিঃসরণ দীর্ঘস্থায়ী এক্সপোজার ঝুঁকি তৈরি করে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered primarily from spent lead-acid batteries through pyrometallurgical processing.",
+      "bn": "মূলত পাইরোমেটালার্জিক্যাল প্রক্রিয়াকরণের মাধ্যমে ব্যবহৃত লেড-অ্যাসিড ব্যাটারি থেকে পুনরুদ্ধার করা হয়।"
+    },
+    "sustainabilityScore": 4.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      { "en": "China", "bn": "চীন" },
+      { "en": "Russia", "bn": "রাশিয়া" },
+      { "en": "Tajikistan", "bn": "তাজিকিস্তান" }
+    ],
+    "miningMethods": {
+      "en": "Mined primarily from stibnite (Sb₂S₃) ore via roasting followed by carbothermic reduction.",
+      "bn": "মূলত স্টিবনাইট (Sb₂S₃) আকরিক থেকে রোস্টিং এবং তারপর কার্বোথার্মিক হ্রাসের মাধ্যমে খনন করা হয়।"
+    },
+    "abundance": {
+      "universe": { "en": "0.00000004% by mass", "bn": "ভর অনুযায়ী ০.০০০০০০০৪%" },
+      "earthCrust": { "en": "0.00002% by mass", "bn": "ভর অনুযায়ী ০.০০০০২%" },
+      "oceans": { "en": "0.0000002 mg/L", "bn": "০.০০০০০০২ মিগ্রা/লিটার" }
+    },
+    "marketValue": {
+      "en": "Approximately $12,000 - $15,000 per metric ton (2024).",
+      "bn": "আনুমানিক প্রতি মেট্রিক টন $১২,০০০ - $১৫,০০০ (২০২৪)।"
+    },
+    "futureDemand": {
+      "en": "Critical mineral status due to military and flame-retardant demand; supply concentrated in China.",
+      "bn": "সামরিক এবং অগ্নি-প্রতিরোধক চাহিদার কারণে গুরুত্বপূর্ণ খনিজ মর্যাদা; সরবরাহ চীনে কেন্দ্রীভূত।"
+    },
+    "globalImportance": {
+      "en": "Designated a strategic and critical material by the US, EU, and several other nations.",
+      "bn": "মার্কিন যুক্তরাষ্ট্র, ইইউ এবং অন্যান্য বেশ কয়েকটি দেশ কর্তৃক একটি কৌশলগত এবং গুরুত্বপূর্ণ উপাদান হিসেবে মনোনীত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Dust and fumes are irritants; chronic exposure causes 'antimony spots' on skin and lung damage.",
+      "bn": "ধুলো এবং ধোঁয়া বিরক্তিকর; দীর্ঘস্থায়ী এক্সপোজার ত্বকে 'অ্যান্টিমনি স্পট' এবং ফুসফুসের ক্ষতি ঘটায়।"
+    },
+    "storageRequirements": {
+      "en": "Store in dry, sealed containers away from strong oxidizers and acids.",
+      "bn": "শক্তিশালী জারক এবং অ্যাসিড থেকে দূরে শুষ্ক, সিল করা পাত্রে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use respirators, gloves, and local exhaust ventilation when handling powders.",
+      "bn": "পাউডার পরিচালনা করার সময় শ্বাসযন্ত্র, গ্লাভস এবং স্থানীয় এক্সহস্ট ভেন্টিলেশন ব্যবহার করুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of stibine (SbH₃) can cause hemolysis, kidney failure, and death.",
+      "bn": "স্টিবিন (SbH₃) শ্বাস নেওয়ার ফলে হিমোলাইসিস, কিডনি ব্যর্থতা এবং মৃত্যু ঘটতে পারে।"
+    },
+    "safetyLevel": { "en": "Moderate to High Risk", "bn": "মাঝারি থেকে উচ্চ ঝুঁকি" },
+    "hazardClassifications": [
+      { "en": "Suspected Carcinogen", "bn": "সন্দেহভাজন কার্সিনোজেন" },
+      { "en": "Acute Toxicity (Oral)", "bn": "তীব্র বিষাক্ততা (মৌখিক)" }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Antimony is a brittle silvery metalloid used to make plastics fire-resistant and to harden lead in batteries.",
+      "bn": "অ্যান্টিমনি একটি ভঙ্গুর রূপালী ধাতুকল্প যা প্লাস্টিককে অগ্নি-প্রতিরোধী করতে এবং ব্যাটারিতে সীসা শক্ত করতে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "A group 15 metalloid with both metallic and non-metallic allotropes. Its electron configuration ends in 5p³, giving it amphoteric tendencies and a rich redox chemistry between +3 and +5 oxidation states.",
+      "bn": "ধাতব এবং অধাতব উভয় অ্যালোট্রপ সহ একটি গ্রুপ ১৫ ধাতুকল্প। এর ইলেকট্রন কনফিগারেশন 5p³ এ শেষ হয়, যা এটিকে উভধর্মী প্রবণতা এবং +৩ ও +৫ জারণ অবস্থার মধ্যে একটি সমৃদ্ধ রেডক্স রসায়ন প্রদান করে।"
+    },
+    "funFacts": [
+      { "en": "Antimony is one of the few substances that expands when it freezes, like water.", "bn": "অ্যান্টিমনি কয়েকটি পদার্থের মধ্যে একটি যা জলের মতো জমাট বাঁধার সময় প্রসারিত হয়।" },
+      { "en": "The symbol 'Sb' comes from the Latin 'stibium', the ancient name for stibnite.", "bn": "'Sb' প্রতীকটি ল্যাটিন 'স্টিবিয়াম' থেকে এসেছে, যা স্টিবনাইটের প্রাচীন নাম।" }
+    ],
+    "comparisons": [
+      { "compareWithId": 33, "relation": { "en": "Both antimony and arsenic are group 15 metalloids with similar toxicity, but antimony is heavier and more metallic.", "bn": "অ্যান্টিমনি এবং আর্সেনিক উভয়ই অনুরূপ বিষাক্ততা সহ গ্রুপ ১৫ ধাতুকল্প, তবে অ্যান্টিমনি ভারী এবং বেশি ধাতব।" } }
+    ],
+    "relatedElements": [33, 50, 52, 83],
+    "quizQuestions": [
+      { "question": { "en": "What is the chemical symbol for antimony?", "bn": "অ্যান্টিমনির রাসায়নিক প্রতীক কী?" }, "options": [{ "en": "An", "bn": "An" }, { "en": "At", "bn": "At" }, { "en": "Sb", "bn": "Sb" }, { "en": "Am", "bn": "Am" }], "correctOptionIndex": 2, "explanation": { "en": "Sb derives from the Latin word 'stibium'.", "bn": "Sb ল্যাটিন শব্দ 'স্টিবিয়াম' থেকে এসেছে।" } },
+      { "question": { "en": "Which group of the periodic table does antimony belong to?", "bn": "অ্যান্টিমনি পর্যায় সারণির কোন গ্রুপে অন্তর্ভুক্ত?" }, "options": [{ "en": "Group 13", "bn": "গ্রুপ ১৩" }, { "en": "Group 14", "bn": "গ্রুপ ১৪" }, { "en": "Group 15 (Pnictogens)", "bn": "গ্রুপ ১৫ (নিকটোজেন)" }, { "en": "Group 16", "bn": "গ্রুপ ১৬" }], "correctOptionIndex": 2, "explanation": { "en": "Antimony is a pnictogen with five valence electrons in 5s²5p³.", "bn": "অ্যান্টিমনি 5s²5p³ এ পাঁচটি ভ্যালেন্স ইলেকট্রনযুক্ত একটি নিকটোজেন।" } },
+      { "question": { "en": "What is the primary industrial use of antimony trioxide (Sb₂O₃)?", "bn": "অ্যান্টিমনি ট্রাইঅক্সাইডের (Sb₂O₃) প্রাথমিক শিল্প ব্যবহার কী?" }, "options": [{ "en": "Pigment in paints", "bn": "রঙে রঙ্গক" }, { "en": "Flame retardant synergist", "bn": "অগ্নি প্রতিরোধক সিনার্জিস্ট" }, { "en": "Fertilizer", "bn": "সার" }, { "en": "Food additive", "bn": "খাদ্য সংযোজন" }], "correctOptionIndex": 1, "explanation": { "en": "Sb₂O₃ synergizes with halogenated compounds to suppress flames in plastics and textiles.", "bn": "Sb₂O₃ প্লাস্টিক এবং টেক্সটাইলে শিখা দমন করতে হ্যালোজেনযুক্ত যৌগের সাথে সিনার্জাইজ করে।" } },
+      { "question": { "en": "Which compound semiconductor combining antimony is widely used in infrared detection?", "bn": "অ্যান্টিমনিযুক্ত কোন যৌগিক অর্ধপরিবাহী ইনফ্রারেড সনাক্তকরণে ব্যাপকভাবে ব্যবহৃত হয়?" }, "options": [{ "en": "GaAs", "bn": "GaAs" }, { "en": "InSb", "bn": "InSb" }, { "en": "SiC", "bn": "SiC" }, { "en": "GaN", "bn": "GaN" }], "correctOptionIndex": 1, "explanation": { "en": "Indium antimonide has a narrow bandgap (~0.17 eV) ideal for mid-wave IR sensors.", "bn": "ইন্ডিয়াম অ্যান্টিমনাইডের সংকীর্ণ ব্যান্ডগ্যাপ (~০.১৭ eV) মধ্য-তরঙ্গ আইআর সেন্সরের জন্য আদর্শ।" } },
+      { "question": { "en": "The principal ore of antimony is:", "bn": "অ্যান্টিমনির প্রধান আকরিক হল:" }, "options": [{ "en": "Bauxite", "bn": "বক্সাইট" }, { "en": "Stibnite (Sb₂S₃)", "bn": "স্টিবনাইট (Sb₂S₃)" }, { "en": "Galena", "bn": "গ্যালেনা" }, { "en": "Cinnabar", "bn": "সিনাবার" }], "correctOptionIndex": 1, "explanation": { "en": "Stibnite, antimony trisulfide, is the dominant commercial source.", "bn": "স্টিবনাইট, অ্যান্টিমনি ট্রাইসালফাইড, প্রধান বাণিজ্যিক উৎস।" } },
+      { "question": { "en": "What unusual physical property does antimony share with water?", "bn": "অ্যান্টিমনি জলের সাথে কোন অস্বাভাবিক ভৌত বৈশিষ্ট্য ভাগ করে?" }, "options": [{ "en": "It boils at 100°C", "bn": "এটি ১০০°C এ ফুটে" }, { "en": "It expands upon solidification", "bn": "এটি জমাট বাঁধার সময় প্রসারিত হয়" }, { "en": "It is transparent", "bn": "এটি স্বচ্ছ" }, { "en": "It is liquid at room temperature", "bn": "এটি কক্ষ তাপমাত্রায় তরল" }], "correctOptionIndex": 1, "explanation": { "en": "Like water and bismuth, solid antimony has lower density than its melt.", "bn": "জল এবং বিসমাথের মতো, কঠিন অ্যান্টিমনির ঘনত্ব তরলের চেয়ে কম।" } },
+      { "question": { "en": "Stibine (SbH₃) is best described as:", "bn": "স্টিবিন (SbH₃) সর্বোত্তমভাবে বর্ণনা করা হয়:" }, "options": [{ "en": "A stable, inert liquid", "bn": "একটি স্থিতিশীল, নিষ্ক্রিয় তরল" }, { "en": "A highly toxic, unstable gas", "bn": "একটি অত্যন্ত বিষাক্ত, অস্থিতিশীল গ্যাস" }, { "en": "A common fertilizer", "bn": "একটি সাধারণ সার" }, { "en": "A solid pigment", "bn": "একটি কঠিন রঙ্গক" }], "correctOptionIndex": 1, "explanation": { "en": "Analogous to arsine, stibine is a pyrophoric, hemolytic gas.", "bn": "আর্সিনের অনুরূপ, স্টিবিন একটি স্বতঃদাহ্য, হিমোলাইটিক গ্যাস।" } },
+      { "question": { "en": "Why is antimony added to lead in automobile batteries?", "bn": "অটোমোবাইল ব্যাটারিতে সীসায় অ্যান্টিমনি কেন যোগ করা হয়?" }, "options": [{ "en": "To increase voltage", "bn": "ভোল্টেজ বাড়াতে" }, { "en": "To harden the lead plates", "bn": "সীসা প্লেট শক্ত করতে" }, { "en": "To reduce weight", "bn": "ওজন কমাতে" }, { "en": "To prevent corrosion only", "bn": "শুধুমাত্র জারণ প্রতিরোধ করতে" }], "correctOptionIndex": 1, "explanation": { "en": "Sb improves mechanical strength and castability of the lead grid structure.", "bn": "Sb সীসার গ্রিড কাঠামোর যান্ত্রিক শক্তি এবং ঢালাইযোগ্যতা উন্নত করে।" } },
+      { "question": { "en": "Which oxidation states are most common for antimony?", "bn": "অ্যান্টিমনির জন্য কোন জারণ অবস্থা সবচেয়ে সাধারণ?" }, "options": [{ "en": "+1 and +2", "bn": "+১ এবং +২" }, { "en": "+3 and +5", "bn": "+৩ এবং +৫" }, { "en": "+4 and +6", "bn": "+৪ এবং +৬" }, { "en": "Only +7", "bn": "শুধুমাত্র +৭" }], "correctOptionIndex": 1, "explanation": { "en": "Like other pnictogens below nitrogen, Sb exhibits +3 and +5 due to inert pair effect.", "bn": "নাইট্রোজেনের নিচের অন্যান্য নিকটোজেনের মতো, নিষ্ক্রিয় জোড় প্রভাবের কারণে Sb +৩ এবং +৫ প্রদর্শন করে।" } },
+      { "question": { "en": "The 2D allotrope of antimony is called:", "bn": "অ্যান্টিমনির ২ডি অ্যালোট্রপকে বলা হয়:" }, "options": [{ "en": "Graphene", "bn": "গ্রাফিন" }, { "en": "Antimonene", "bn": "অ্যান্টিমোনিন" }, { "en": "Stibene", "bn": "স্টিবিন" }, { "en": "Phosphorene", "bn": "ফসফোরিন" }], "correctOptionIndex": 1, "explanation": { "en": "Antimonene is a buckled single-layer 2D material analogous to phosphorene.", "bn": "অ্যান্টিমোনিন ফসফোরিনের অনুরূপ একটি বাঁকানো একক-স্তর ২ডি উপাদান।" } },
+      { "question": { "en": "Sodium stibogluconate is medically used to treat:", "bn": "সোডিয়াম স্টিবোগ্লুকোনেট চিকিৎসাগতভাবে চিকিৎসায় ব্যবহৃত হয়:" }, "options": [{ "en": "Malaria", "bn": "ম্যালেরিয়া" }, { "en": "Tuberculosis", "bn": "যক্ষ্মা" }, { "en": "Leishmaniasis", "bn": "লেইশম্যানিয়াসিস" }, { "en": "HIV", "bn": "এইচআইভি" }], "correctOptionIndex": 2, "explanation": { "en": "Pentavalent antimonials remain frontline therapy for visceral leishmaniasis.", "bn": "পঞ্চযোজী অ্যান্টিমনিয়াল ভিসারাল লেইশম্যানিয়াসিসের প্রাথমিক চিকিৎসা।" } },
+      { "question": { "en": "Which country is the largest global producer of antimony?", "bn": "কোন দেশ অ্যান্টিমনির বৃহত্তম বৈশ্বিক উৎপাদক?" }, "options": [{ "en": "USA", "bn": "মার্কিন যুক্তরাষ্ট্র" }, { "en": "China", "bn": "চীন" }, { "en": "Australia", "bn": "অস্ট্রেলিয়া" }, { "en": "Brazil", "bn": "ব্রাজিল" }], "correctOptionIndex": 1, "explanation": { "en": "China accounts for over half of global mine output and refining capacity.", "bn": "চীন বৈশ্বিক খনি উৎপাদন এবং পরিশোধন ক্ষমতার অর্ধেকেরও বেশি দখল করে।" } },
+      { "question": { "en": "Why is antimony classified as a metalloid rather than a metal?", "bn": "অ্যান্টিমনিকে ধাতুর পরিবর্তে ধাতুকল্প হিসেবে শ্রেণীবদ্ধ করা হয় কেন?" }, "options": [{ "en": "It is a gas at room temperature", "bn": "এটি কক্ষ তাপমাত্রায় গ্যাস" }, { "en": "It shows intermediate electrical conductivity and brittle non-metallic behavior", "bn": "এটি মধ্যবর্তী বৈদ্যুতিক পরিবাহিতা এবং ভঙ্গুর অধাতব আচরণ প্রদর্শন করে" }, { "en": "It has no metallic luster", "bn": "এর কোন ধাতব ঔজ্জ্বল্য নেই" }, { "en": "It cannot form alloys", "bn": "এটি সংকর ধাতু গঠন করতে পারে না" }], "correctOptionIndex": 1, "explanation": { "en": "Antimony conducts poorly and is brittle, blending metallic and non-metallic traits.", "bn": "অ্যান্টিমনি দুর্বলভাবে পরিবাহী এবং ভঙ্গুর, ধাতব এবং অধাতব বৈশিষ্ট্য মিশ্রিত করে।" } },
+      { "question": { "en": "In a Marsh test, antimony can be distinguished from arsenic because:", "bn": "মার্শ পরীক্ষায়, অ্যান্টিমনিকে আর্সেনিক থেকে আলাদা করা যায় কারণ:" }, "options": [{ "en": "Sb mirror is insoluble in sodium hypochlorite", "bn": "Sb আয়না সোডিয়াম হাইপোক্লোরাইটে অদ্রবণীয়" }, { "en": "Sb mirror is more volatile", "bn": "Sb আয়না বেশি উদ্বায়ী" }, { "en": "Sb produces a red color", "bn": "Sb লাল রঙ উৎপন্ন করে" }, { "en": "Sb is non-toxic", "bn": "Sb অ-বিষাক্ত" }], "correctOptionIndex": 0, "explanation": { "en": "Arsenic mirrors dissolve in NaOCl; antimony mirrors do not.", "bn": "আর্সেনিক আয়না NaOCl এ দ্রবীভূত হয়; অ্যান্টিমনি আয়না হয় না।" } },
+      { "question": { "en": "Antimony trichloride (SbCl₃) historically was called:", "bn": "অ্যান্টিমনি ট্রাইক্লোরাইড (SbCl₃) ঐতিহাসিকভাবে বলা হত:" }, "options": [{ "en": "Butter of antimony", "bn": "অ্যান্টিমনির মাখন" }, { "en": "Spirit of antimony", "bn": "অ্যান্টিমনির আত্মা" }, { "en": "Oil of antimony", "bn": "অ্যান্টিমনির তেল" }, { "en": "Salt of antimony", "bn": "অ্যান্টিমনির লবণ" }], "correctOptionIndex": 0, "explanation": { "en": "Its soft waxy appearance led alchemists to name it 'butter of antimony'.", "bn": "এর নরম মোমের মতো চেহারা আলকেমিস্টদের একে 'অ্যান্টিমনির মাখন' নামকরণ করতে পরিচালিত করেছিল।" } },
+      { "question": { "en": "Liquid metal batteries using antimony are designed mainly for:", "bn": "অ্যান্টিমনি ব্যবহার করে তরল ধাতু ব্যাটারি মূলত ডিজাইন করা হয়েছে:" }, "options": [{ "en": "Smartphones", "bn": "স্মার্টফোন" }, { "en": "Electric vehicles", "bn": "বৈদ্যুতিক যানবাহন" }, { "en": "Grid-scale stationary storage", "bn": "গ্রিড-স্কেল স্থির সঞ্চয়স্থান" }, { "en": "Pacemakers", "bn": "পেসমেকার" }], "correctOptionIndex": 2, "explanation": { "en": "High-temperature liquid-metal cells excel in long-duration grid storage.", "bn": "উচ্চ-তাপমাত্রার তরল-ধাতু কোষ দীর্ঘ-সময়ের গ্রিড স্টোরেজে উৎকৃষ্ট।" } },
+      { "question": { "en": "Phase-change memory chips use antimony alloyed mainly with:", "bn": "ফেজ-চেঞ্জ মেমরি চিপগুলি মূলত অ্যান্টিমনি সংকরিত করে:" }, "options": [{ "en": "Iron and nickel", "bn": "লোহা এবং নিকেল" }, { "en": "Germanium and tellurium (GST)", "bn": "জার্মেনিয়াম এবং টেলুরিয়াম (GST)" }, { "en": "Silicon and oxygen", "bn": "সিলিকন এবং অক্সিজেন" }, { "en": "Carbon and hydrogen", "bn": "কার্বন এবং হাইড্রোজেন" }], "correctOptionIndex": 1, "explanation": { "en": "Ge₂Sb₂Te₅ (GST) is the canonical PCM alloy switching between amorphous and crystalline states.", "bn": "Ge₂Sb₂Te₅ (GST) আকার-পরিবর্তনযোগ্য PCM সংকর যা নিরাকার এবং স্ফটিক অবস্থার মধ্যে স্যুইচ করে।" } },
+      { "question": { "en": "The most stable allotrope of antimony at standard conditions is:", "bn": "প্রমিত শর্তে অ্যান্টিমনির সবচেয়ে স্থিতিশীল অ্যালোট্রপ হল:" }, "options": [{ "en": "Yellow antimony", "bn": "হলুদ অ্যান্টিমনি" }, { "en": "Black antimony", "bn": "কালো অ্যান্টিমনি" }, { "en": "Metallic gray antimony", "bn": "ধাতব ধূসর অ্যান্টিমনি" }, { "en": "Explosive antimony", "bn": "বিস্ফোরক অ্যান্টিমনি" }], "correctOptionIndex": 2, "explanation": { "en": "Gray rhombohedral antimony is the thermodynamically stable form.", "bn": "ধূসর রম্বোহেড্রাল অ্যান্টিমনি তাপগতিগতভাবে স্থিতিশীল রূপ।" } },
+      { "question": { "en": "Which ancient cosmetic was based on antimony sulfide?", "bn": "কোন প্রাচীন প্রসাধনী অ্যান্টিমনি সালফাইড ভিত্তিক ছিল?" }, "options": [{ "en": "Henna", "bn": "মেহেদি" }, { "en": "Kohl", "bn": "কোহল" }, { "en": "Rouge", "bn": "রুজ" }, { "en": "Talc", "bn": "ট্যালক" }], "correctOptionIndex": 1, "explanation": { "en": "Egyptian kohl eyeliner contained stibnite (Sb₂S₃).", "bn": "মিশরীয় কোহল আইলাইনারে স্টিবনাইট (Sb₂S₃) ছিল।" } },
+      { "question": { "en": "Antimony pentafluoride (SbF₅) is famous in chemistry because it is:", "bn": "অ্যান্টিমনি পেন্টাফ্লুরাইড (SbF₅) রসায়নে বিখ্যাত কারণ এটি:" }, "options": [{ "en": "An inert solvent", "bn": "একটি নিষ্ক্রিয় দ্রাবক" }, { "en": "Component of the strongest known superacid (fluoroantimonic acid)", "bn": "সবচেয়ে শক্তিশালী পরিচিত সুপারঅ্যাসিডের (ফ্লুরোঅ্যান্টিমনিক অ্যাসিড) উপাদান" }, { "en": "A common fertilizer", "bn": "একটি সাধারণ সার" }, { "en": "A food preservative", "bn": "একটি খাদ্য সংরক্ষক" }], "correctOptionIndex": 1, "explanation": { "en": "HF·SbF₅ is ~10¹⁹ times stronger than 100% sulfuric acid.", "bn": "HF·SbF₅ ১০০% সালফিউরিক অ্যাসিডের চেয়ে ~১০¹⁹ গুণ শক্তিশালী।" } }
+    ],
+    "misconceptions": [
+      { "en": "Antimony is the same as arsenic — it is chemically similar but distinct and less acutely toxic.", "bn": "অ্যান্টিমনি আর্সেনিকের মতোই — এটি রাসায়নিকভাবে একই রকম কিন্তু স্বতন্ত্র এবং কম তীব্রভাবে বিষাক্ত।" }
+    ],
+    "learningTips": [
+      { "en": "Remember Sb = stibium; group 15 metalloid below arsenic; +3 and +5 oxidation states.", "bn": "মনে রাখুন Sb = স্টিবিয়াম; আর্সেনিকের নিচে গ্রুপ ১৫ ধাতুকল্প; +৩ এবং +৫ জারণ অবস্থা।" }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      { "equation": "4Sb + 3O₂ → 2Sb₂O₃", "description": { "en": "Combustion of antimony in air produces antimony trioxide.", "bn": "বাতাসে অ্যান্টিমনির দহনে অ্যান্টিমনি ট্রাইঅক্সাইড উৎপন্ন হয়।" } },
+      { "equation": "2Sb + 3Cl₂ → 2SbCl₃", "description": { "en": "Direct chlorination yields antimony trichloride.", "bn": "সরাসরি ক্লোরিনেশন অ্যান্টিমনি ট্রাইক্লোরাইড উৎপন্ন করে।" } }
+    ],
+    "oxidationExamples": [
+      { "equation": "Sb → Sb³⁺ + 3e⁻", "description": { "en": "Antimony losing three electrons to form the trivalent cation.", "bn": "অ্যান্টিমনি তিনটি ইলেকট্রন হারিয়ে ত্রিযোজী ক্যাটায়ন গঠন করে।" } }
+    ],
+    "reductionExamples": [
+      { "equation": "Sb₂O₃ + 3C → 2Sb + 3CO", "description": { "en": "Carbothermic reduction of antimony oxide to metal.", "bn": "অ্যান্টিমনি অক্সাইডের কার্বোথার্মিক হ্রাস ধাতুতে।" } }
+    ],
+    "bondingExamples": [
+      { "bondType": { "en": "Covalent Bond", "bn": "সমযোজী বন্ধন" }, "molecule": "SbH₃", "description": { "en": "Antimony shares electrons with three hydrogen atoms forming pyramidal stibine.", "bn": "অ্যান্টিমনি তিনটি হাইড্রোজেন পরমাণুর সাথে ইলেকট্রন ভাগ করে পিরামিডাল স্টিবিন গঠন করে।" } }
+    ]
+  }
+}

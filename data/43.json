@@ -1,0 +1,1022 @@
+{
+  "elementId": 43,
+  "basicInformation": {
+    "atomicNumber": 43,
+    "symbol": "Tc",
+    "name": {
+      "en": "Technetium",
+      "bn": "টেকনিশিয়াম"
+    },
+    "pronunciation": {
+      "en": "/tɛkˈniːʃiəm/",
+      "bn": "টেক-নি-শি-য়াম"
+    },
+    "atomicMass": 98,
+    "category": {
+      "en": "Transition metal",
+      "bn": "ট্রানজিশন ধাতু"
+    },
+    "group": 7,
+    "period": 5,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Shiny gray metal",
+      "bn": "চকচকে ধূসর ধাতু"
+    },
+    "color": {
+      "en": "Silvery gray",
+      "bn": "রূপালী ধূসর"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Emilio Segrè & Carlo Perrier",
+      "bn": "এমিলিও সেগ্রে ও কার্লো পেরিয়ার"
+    },
+    "discoveryYear": 1937,
+    "discoveryLocation": {
+      "en": "Italy",
+      "bn": "ইতালি"
+    },
+    "discoveryStory": {
+      "en": "First artificially produced element, obtained by bombarding molybdenum with deuterons in a cyclotron.",
+      "bn": "সাইক্লোট্রনে ডিউটেরন দিয়ে মলিবডেনাম বোমাবর্ষণ করে কৃত্রিমভাবে উৎপন্ন প্রথম উপাদান।"
+    },
+    "historicalUses": {
+      "en": "Filled Mendeleev's missing 'eka-manganese' slot, validating periodicity of synthetic isotopes.",
+      "bn": "মেন্ডেলিভের অনুপস্থিত 'একা-ম্যাঙ্গানিজ' স্লট পূরণ করে, কৃত্রিম আইসোটোপের পর্যায়ক্রমিকতা যাচাই করে।"
+    },
+    "famousExperiments": {
+      "en": "Tc-99m generator (1958) revolutionized nuclear medicine imaging.",
+      "bn": "Tc-৯৯m জেনারেটর (১৯৫৮) নিউক্লিয়ার মেডিসিন ইমেজিং-এ বিপ্লব আনে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 43,
+    "neutrons": 55,
+    "electrons": 43,
+    "valenceElectrons": 7,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      13,
+      2
+    ],
+    "electronConfiguration": "[Kr] 4d⁵ 5s²",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      -1,
+      -3
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 11.0,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 2430,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 4538,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 136,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 147,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 209,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 50.6,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 5000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.21,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Hexagonal close-packed",
+      "bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.9,
+    "ionizationEnergy": {
+      "value": 702,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 53,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Tarnishes slowly in moist air; reacts with HNO₃ and aqua regia.",
+      "bn": "আর্দ্র বাতাসে ধীরে ধীরে কালচে হয়; HNO₃ এবং অ্যাকোয়া রেজিয়ার সাথে বিক্রিয়া করে।"
+    },
+    "commonCompounds": [
+      "TcO₄⁻",
+      "Tc₂O₇",
+      "TcF₆"
+    ],
+    "flameTestColor": {
+      "en": "None",
+      "bn": "নেই"
+    },
+    "spectralLines": [
+      "363.64nm",
+      "403.16nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Technetium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "টেকনিশিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Technetium or its compounds.",
+      "bn": "টেকনিশিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Technetium-bearing alloys may be used in aerospace components.",
+      "bn": "টেকনিশিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Technetium (symbol Tc) is element 43 in the periodic table.",
+      "bn": "টেকনিশিয়াম (প্রতীক Tc) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Technetium exhibits chemistry consistent with its position in group 7, period 5.",
+      "bn": "টেকনিশিয়াম গ্রুপ 7, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Technetium has fascinating properties tied to its electronic structure.",
+        "bn": "টেকনিশিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 42,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Technetium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, টেকনিশিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Technetium?",
+          "bn": "টেকনিশিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "42",
+            "bn": "42"
+          },
+          {
+            "en": "43",
+            "bn": "43"
+          },
+          {
+            "en": "44",
+            "bn": "44"
+          },
+          {
+            "en": "45",
+            "bn": "45"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Technetium has 43 protons in its nucleus.",
+          "bn": "টেকনিশিয়াম-এর নিউক্লিয়াসে 43 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Technetium?",
+          "bn": "টেকনিশিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Tc",
+            "bn": "Tc"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Tc.",
+          "bn": "প্রতীকটি হল Tc।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Technetium belong?",
+          "bn": "টেকনিশিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Technetium is classified as a transition metal.",
+          "bn": "টেকনিশিয়াম-কে ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Technetium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে টেকনিশিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Technetium sits in group 7.",
+          "bn": "টেকনিশিয়াম গ্রুপ 7-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Technetium reside?",
+          "bn": "টেকনিশিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Technetium sits in period 5.",
+          "bn": "টেকনিশিয়াম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Technetium?",
+          "bn": "টেকনিশিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d⁵ 5s²",
+            "bn": "[Kr] 4d⁵ 5s²"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d⁵ 5s².",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d⁵ 5s²।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Technetium?",
+          "bn": "টেকনিশিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Emilio Segrè & Carlo Perrier",
+            "bn": "এমিলিও সেগ্রে ও কার্লো পেরিয়ার"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Emilio Segrè & Carlo Perrier is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় এমিলিও সেগ্রে ও কার্লো পেরিয়ার-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Technetium discovered?",
+          "bn": "টেকনিশিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1887",
+            "bn": "1887"
+          },
+          {
+            "en": "1937",
+            "bn": "1937"
+          },
+          {
+            "en": "1987",
+            "bn": "1987"
+          },
+          {
+            "en": "2037",
+            "bn": "2037"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1937.",
+          "bn": "1937 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Technetium?",
+          "bn": "টেকনিশিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+7",
+            "bn": "+7"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +7.",
+          "bn": "প্রধান জারণ অবস্থা +7।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Technetium?",
+          "bn": "টেকনিশিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "5.50 g/cm³",
+            "bn": "5.50 গ্রা/সেমি³"
+          },
+          {
+            "en": "11.000 g/cm³",
+            "bn": "11.000 গ্রা/সেমি³"
+          },
+          {
+            "en": "22.00 g/cm³",
+            "bn": "22.00 গ্রা/সেমি³"
+          },
+          {
+            "en": "44.00 g/cm³",
+            "bn": "44.00 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 11.000 g/cm³.",
+          "bn": "ঘনত্ব ≈ 11.000 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Technetium (K)?",
+          "bn": "টেকনিশিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1215 K",
+            "bn": "1215 K"
+          },
+          {
+            "en": "2430 K",
+            "bn": "2430 K"
+          },
+          {
+            "en": "4860 K",
+            "bn": "4860 K"
+          },
+          {
+            "en": "9720 K",
+            "bn": "9720 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 2430 K.",
+          "bn": "গলনাঙ্ক ≈ 2430 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Technetium (K)?",
+          "bn": "টেকনিশিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1134 K",
+            "bn": "1134 K"
+          },
+          {
+            "en": "2269 K",
+            "bn": "2269 K"
+          },
+          {
+            "en": "4538 K",
+            "bn": "4538 K"
+          },
+          {
+            "en": "9076 K",
+            "bn": "9076 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 4538 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 4538 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Technetium?",
+          "bn": "টেকনিশিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.95",
+            "bn": "0.95"
+          },
+          {
+            "en": "1.90",
+            "bn": "1.90"
+          },
+          {
+            "en": "2.85",
+            "bn": "2.85"
+          },
+          {
+            "en": "3.80",
+            "bn": "3.80"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 1.9.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 1.9।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Technetium (kJ/mol)?",
+          "bn": "টেকনিশিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "351",
+            "bn": "351"
+          },
+          {
+            "en": "702",
+            "bn": "702"
+          },
+          {
+            "en": "1404",
+            "bn": "1404"
+          },
+          {
+            "en": "2106",
+            "bn": "2106"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 702 kJ/mol.",
+          "bn": "প্রথম IE ≈ 702 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Technetium belong to?",
+          "bn": "টেকনিশিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Technetium is in the d-block.",
+          "bn": "টেকনিশিয়াম d-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Technetium have?",
+          "bn": "টেকনিশিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          },
+          {
+            "en": "8",
+            "bn": "8"
+          },
+          {
+            "en": "9",
+            "bn": "9"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "7 valence electrons.",
+          "bn": "7 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Technetium's atomic mass (u)?",
+          "bn": "টেকনিশিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "49.00",
+            "bn": "49.00"
+          },
+          {
+            "en": "98",
+            "bn": "98"
+          },
+          {
+            "en": "147.00",
+            "bn": "147.00"
+          },
+          {
+            "en": "196.00",
+            "bn": "196.00"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 98.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 98।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Technetium have?",
+          "bn": "টেকনিশিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "53",
+            "bn": "53"
+          },
+          {
+            "en": "55",
+            "bn": "55"
+          },
+          {
+            "en": "57",
+            "bn": "57"
+          },
+          {
+            "en": "59",
+            "bn": "59"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 55 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 55 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Technetium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন টেকনিশিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Hexagonal close-packed",
+            "bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Hexagonal close-packed lattice.",
+          "bn": "এটি ষড়ভুজাকার ক্লোজ-প্যাকড জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Technetium?",
+          "bn": "কক্ষ তাপমাত্রায়, টেকনিশিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Technetium is a solid at STP.",
+          "bn": "STP-তে টেকনিশিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Technetium?",
+          "bn": "টেকনিশিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "TcO₄⁻",
+            "bn": "TcO₄⁻"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "TcO₄⁻ is a common compound.",
+          "bn": "TcO₄⁻ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Technetium addressed by modern chemistry.",
+        "bn": "টেকনিশিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Tc and atomic number, and its group/period.",
+        "bn": "প্রতীক Tc এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

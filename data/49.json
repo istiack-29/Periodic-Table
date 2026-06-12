@@ -1,0 +1,1022 @@
+{
+  "elementId": 49,
+  "basicInformation": {
+    "atomicNumber": 49,
+    "symbol": "In",
+    "name": {
+      "en": "Indium",
+      "bn": "ইন্ডিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈɪndiəm/",
+      "bn": "ইন-ডি-য়াম"
+    },
+    "atomicMass": 114.818,
+    "category": {
+      "en": "Post-transition metal",
+      "bn": "পোস্ট-ট্রানজিশন ধাতু"
+    },
+    "group": 13,
+    "period": 5,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery lustrous gray metal",
+      "bn": "রূপালী চকচকে ধূসর ধাতু"
+    },
+    "color": {
+      "en": "Silvery gray",
+      "bn": "রূপালী ধূসর"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Ferdinand Reich & Theodor Richter",
+      "bn": "ফার্ডিনান্ড রাইখ ও থিওডোর রিখটার"
+    },
+    "discoveryYear": 1863,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Discovered by its bright indigo-blue spectral line in sphalerite ore residues.",
+      "bn": "স্ফেলেরাইট আকরিক অবশিষ্টাংশে এর উজ্জ্বল নীল বর্ণালী রেখা দ্বারা আবিষ্কৃত।"
+    },
+    "historicalUses": {
+      "en": "Limited use until WWII when employed in aircraft bearings to prevent corrosion.",
+      "bn": "দ্বিতীয় বিশ্বযুদ্ধ পর্যন্ত সীমিত ব্যবহার; বিমানের বিয়ারিংয়ে ক্ষয় প্রতিরোধে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Indium tin oxide (ITO) enables transparent conductive films for touchscreens and LCDs.",
+      "bn": "ইন্ডিয়াম টিন অক্সাইড (ITO) টাচস্ক্রিন এবং LCD-এর জন্য স্বচ্ছ পরিবাহী ফিল্ম সক্ষম করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 49,
+    "neutrons": 66,
+    "electrons": 49,
+    "valenceElectrons": 3,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      18,
+      3
+    ],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p¹",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      3,
+      2,
+      1,
+      -1,
+      -2,
+      -5
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 7.31,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 429.7485,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2345,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 155,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 142,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 193,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 81.8,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 11600000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.233,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 1.2,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Tetragonal",
+      "bn": "টেট্রাগোনাল"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.78,
+    "ionizationEnergy": {
+      "value": 558.3,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 28.9,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Stable in air; reacts with halogens and acids on heating.",
+      "bn": "বাতাসে স্থিতিশীল; গরম করলে হ্যালোজেন এবং অ্যাসিডের সাথে বিক্রিয়া করে।"
+    },
+    "commonCompounds": [
+      "In₂O₃",
+      "InAs",
+      "InP",
+      "ITO"
+    ],
+    "flameTestColor": {
+      "en": "Indigo blue",
+      "bn": "নীল"
+    },
+    "spectralLines": [
+      "410.18nm",
+      "451.13nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Indium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "ইন্ডিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Indium or its compounds.",
+      "bn": "ইন্ডিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Indium-bearing alloys may be used in aerospace components.",
+      "bn": "ইন্ডিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Indium (symbol In) is element 49 in the periodic table.",
+      "bn": "ইন্ডিয়াম (প্রতীক In) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Indium exhibits chemistry consistent with its position in group 13, period 5.",
+      "bn": "ইন্ডিয়াম গ্রুপ 13, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Indium has fascinating properties tied to its electronic structure.",
+        "bn": "ইন্ডিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 48,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Indium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, ইন্ডিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Indium?",
+          "bn": "ইন্ডিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "48",
+            "bn": "48"
+          },
+          {
+            "en": "49",
+            "bn": "49"
+          },
+          {
+            "en": "50",
+            "bn": "50"
+          },
+          {
+            "en": "51",
+            "bn": "51"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Indium has 49 protons in its nucleus.",
+          "bn": "ইন্ডিয়াম-এর নিউক্লিয়াসে 49 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Indium?",
+          "bn": "ইন্ডিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "In",
+            "bn": "In"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is In.",
+          "bn": "প্রতীকটি হল In।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Indium belong?",
+          "bn": "ইন্ডিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Post-transition metal",
+            "bn": "পোস্ট-ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Indium is classified as a post-transition metal.",
+          "bn": "ইন্ডিয়াম-কে পোস্ট-ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Indium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে ইন্ডিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "12",
+            "bn": "12"
+          },
+          {
+            "en": "13",
+            "bn": "13"
+          },
+          {
+            "en": "14",
+            "bn": "14"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Indium sits in group 13.",
+          "bn": "ইন্ডিয়াম গ্রুপ 13-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Indium reside?",
+          "bn": "ইন্ডিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Indium sits in period 5.",
+          "bn": "ইন্ডিয়াম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Indium?",
+          "bn": "ইন্ডিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s² 5p¹",
+            "bn": "[Kr] 4d¹⁰ 5s² 5p¹"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d¹⁰ 5s² 5p¹.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d¹⁰ 5s² 5p¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Indium?",
+          "bn": "ইন্ডিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Ferdinand Reich & Theodor Richter",
+            "bn": "ফার্ডিনান্ড রাইখ ও থিওডোর রিখটার"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Ferdinand Reich & Theodor Richter is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় ফার্ডিনান্ড রাইখ ও থিওডোর রিখটার-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Indium discovered?",
+          "bn": "ইন্ডিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1813",
+            "bn": "1813"
+          },
+          {
+            "en": "1863",
+            "bn": "1863"
+          },
+          {
+            "en": "1913",
+            "bn": "1913"
+          },
+          {
+            "en": "1963",
+            "bn": "1963"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1863.",
+          "bn": "1863 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Indium?",
+          "bn": "ইন্ডিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +3.",
+          "bn": "প্রধান জারণ অবস্থা +3।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Indium?",
+          "bn": "ইন্ডিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "3.65 g/cm³",
+            "bn": "3.65 গ্রা/সেমি³"
+          },
+          {
+            "en": "7.310 g/cm³",
+            "bn": "7.310 গ্রা/সেমি³"
+          },
+          {
+            "en": "14.62 g/cm³",
+            "bn": "14.62 গ্রা/সেমি³"
+          },
+          {
+            "en": "29.24 g/cm³",
+            "bn": "29.24 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 7.310 g/cm³.",
+          "bn": "ঘনত্ব ≈ 7.310 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Indium (K)?",
+          "bn": "ইন্ডিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "214 K",
+            "bn": "214 K"
+          },
+          {
+            "en": "429 K",
+            "bn": "429 K"
+          },
+          {
+            "en": "859 K",
+            "bn": "859 K"
+          },
+          {
+            "en": "1718 K",
+            "bn": "1718 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 429.7485 K.",
+          "bn": "গলনাঙ্ক ≈ 429.7485 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Indium (K)?",
+          "bn": "ইন্ডিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "586 K",
+            "bn": "586 K"
+          },
+          {
+            "en": "1172 K",
+            "bn": "1172 K"
+          },
+          {
+            "en": "2345 K",
+            "bn": "2345 K"
+          },
+          {
+            "en": "4690 K",
+            "bn": "4690 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 2345 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 2345 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Indium?",
+          "bn": "ইন্ডিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.89",
+            "bn": "0.89"
+          },
+          {
+            "en": "1.78",
+            "bn": "1.78"
+          },
+          {
+            "en": "2.67",
+            "bn": "2.67"
+          },
+          {
+            "en": "3.56",
+            "bn": "3.56"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 1.78.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 1.78।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Indium (kJ/mol)?",
+          "bn": "ইন্ডিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "279",
+            "bn": "279"
+          },
+          {
+            "en": "558",
+            "bn": "558"
+          },
+          {
+            "en": "1116",
+            "bn": "1116"
+          },
+          {
+            "en": "1674",
+            "bn": "1674"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 558.3 kJ/mol.",
+          "bn": "প্রথম IE ≈ 558.3 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Indium belong to?",
+          "bn": "ইন্ডিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Indium is in the p-block.",
+          "bn": "ইন্ডিয়াম p-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Indium have?",
+          "bn": "ইন্ডিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "3 valence electrons.",
+          "bn": "3 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Indium's atomic mass (u)?",
+          "bn": "ইন্ডিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "57.41",
+            "bn": "57.41"
+          },
+          {
+            "en": "114.818",
+            "bn": "114.818"
+          },
+          {
+            "en": "172.23",
+            "bn": "172.23"
+          },
+          {
+            "en": "229.64",
+            "bn": "229.64"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 114.818.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 114.818।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Indium have?",
+          "bn": "ইন্ডিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "64",
+            "bn": "64"
+          },
+          {
+            "en": "66",
+            "bn": "66"
+          },
+          {
+            "en": "68",
+            "bn": "68"
+          },
+          {
+            "en": "70",
+            "bn": "70"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 66 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 66 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Indium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন ইন্ডিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Tetragonal",
+            "bn": "টেট্রাগোনাল"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Tetragonal lattice.",
+          "bn": "এটি টেট্রাগোনাল জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Indium?",
+          "bn": "কক্ষ তাপমাত্রায়, ইন্ডিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Indium is a solid at STP.",
+          "bn": "STP-তে ইন্ডিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Indium?",
+          "bn": "ইন্ডিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "In₂O₃",
+            "bn": "In₂O₃"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "In₂O₃ is a common compound.",
+          "bn": "In₂O₃ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Indium addressed by modern chemistry.",
+        "bn": "ইন্ডিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol In and atomic number, and its group/period.",
+        "bn": "প্রতীক In এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

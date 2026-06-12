@@ -1,0 +1,1038 @@
+{
+  "elementId": 33,
+  "basicInformation": {
+    "atomicNumber": 33,
+    "symbol": "As",
+    "name": {
+      "en": "Arsenic",
+      "bn": "আর্সেনিক"
+    },
+    "pronunciation": {
+      "en": "/ˈɑːrsənɪk/",
+      "bn": "আর-সে-নিক"
+    },
+    "atomicMass": 74.921595,
+    "category": {
+      "en": "Metalloid",
+      "bn": "মেটালয়েড"
+    },
+    "group": 15,
+    "period": 4,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Metallic gray (gray allotrope)",
+      "bn": "ধাতব ধূসর (ধূসর অ্যালোট্রোপ)"
+    },
+    "color": {
+      "en": "Gray",
+      "bn": "ধূসর"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Albertus Magnus",
+      "bn": "আলবার্টাস ম্যাগনাস"
+    },
+    "discoveryYear": 1250,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Albertus Magnus is credited with isolating elemental arsenic by heating arsenic sulfide with soap.",
+      "bn": "আলবার্টাস ম্যাগনাস সাবানের সাথে আর্সেনিক সালফাইড গরম করে মৌলিক আর্সেনিক আলাদা করার কৃতিত্ব পান।"
+    },
+    "historicalUses": {
+      "en": "Used historically as a poison, pigment (Paris green), and bronze hardener.",
+      "bn": "ঐতিহাসিকভাবে বিষ, রঞ্জক (প্যারিস সবুজ) এবং ব্রোঞ্জ শক্তিশালীকারী হিসাবে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Marsh test (1836) — sensitive forensic detection of arsenic in poisoning cases.",
+      "bn": "মার্শ পরীক্ষা (১৮৩৬) — বিষাক্ত মামলায় আর্সেনিকের সংবেদনশীল ফরেনসিক সনাক্তকরণ।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 33,
+    "neutrons": 42,
+    "electrons": 33,
+    "valenceElectrons": 5,
+    "shells": 4,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      5
+    ],
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p³",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      5,
+      3,
+      -3
+    ],
+    "quantumNumbers": {
+      "principal": 4,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 5.727,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1090,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 887,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 114,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 119,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 185,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 50.2,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 3450000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.329,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 3.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Rhombohedral",
+      "bn": "রম্বোহেড্রাল"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.18,
+    "ionizationEnergy": {
+      "value": 947,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 78,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Burns in air to form As₂O₃; reacts with halogens and oxidizing acids.",
+      "bn": "বাতাসে জ্বলে As₂O₃ গঠন করে; হ্যালোজেন এবং জারক অ্যাসিডের সাথে বিক্রিয়া করে।"
+    },
+    "commonCompounds": [
+      "As₂O₃",
+      "AsH₃",
+      "GaAs",
+      "H₃AsO₄"
+    ],
+    "flameTestColor": {
+      "en": "Blue (with garlic odor)",
+      "bn": "নীল (রসুনের গন্ধ সহ)"
+    },
+    "spectralLines": [
+      "189.04nm",
+      "193.76nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Production of GaAs/InGaAs semiconductors, wood preservatives (historical), lead-acid battery grids, and herbicides.",
+      "bn": "GaAs/InGaAs অর্ধপরিবাহী, কাঠের সংরক্ষক (ঐতিহাসিক), সীসা-অ্যাসিড ব্যাটারি গ্রিড এবং হার্বিসাইডের উৎপাদন।"
+    },
+    "commercialUses": {
+      "en": "Used in some pigments, glass clarifiers, and III-V semiconductors.",
+      "bn": "কিছু রঞ্জক, গ্লাস পরিষ্কারক এবং III-V অর্ধপরিবাহীতে ব্যবহৃত।"
+    },
+    "electronicsUses": {
+      "en": "Doping agent for high-mobility n-type silicon and III-V compound semiconductors.",
+      "bn": "উচ্চ-গতিশীলতা এন-টাইপ সিলিকন এবং III-V যৌগিক অর্ধপরিবাহীর জন্য ডোপিং এজেন্ট।"
+    },
+    "semiconductorUses": {
+      "en": "Forms direct-bandgap GaAs and InAs vital for IR detectors and high-speed RF.",
+      "bn": "IR ডিটেক্টর এবং উচ্চ-গতির RF-এর জন্য গুরুত্বপূর্ণ সরাসরি-ব্যান্ডগ্যাপ GaAs এবং InAs গঠন করে।"
+    },
+    "aerospaceUses": {
+      "en": "Used in GaAs solar cells on spacecraft due to radiation tolerance.",
+      "bn": "বিকিরণ সহনশীলতার কারণে মহাকাশযানে GaAs সৌর কোষে ব্যবহৃত।"
+    },
+    "batteryUses": {
+      "en": "Lead-acid battery grids alloyed with arsenic for hardening.",
+      "bn": "শক্তিবর্ধনের জন্য আর্সেনিকের সাথে সংকরিত সীসা-অ্যাসিড ব্যাটারি গ্রিড।"
+    },
+    "aiHardwareUses": {
+      "en": "Indirect role via GaAs/InGaAs photonic chips for AI optical interconnects.",
+      "bn": "এআই অপটিক্যাল ইন্টারকানেক্টের জন্য GaAs/InGaAs ফোটোনিক চিপের মাধ্যমে পরোক্ষ ভূমিকা।"
+    },
+    "renewableEnergyUses": {
+      "en": "Multi-junction GaAs solar cells exceed 30% efficiency.",
+      "bn": "মাল্টি-জাংশন GaAs সৌর কোষ ৩০% দক্ষতা অতিক্রম করে।"
+    },
+    "nanotechnologyUses": {
+      "en": "Arsenide nanowires (GaAs, InAs) explored for next-gen transistors.",
+      "bn": "পরবর্তী প্রজন্মের ট্রানজিস্টরের জন্য আর্সেনাইড ন্যানোতার (GaAs, InAs) অন্বেষণ করা হয়েছে।"
+    },
+    "nuclearUses": {
+      "en": "Limited; some research on As-based dosimeters.",
+      "bn": "সীমিত; As-ভিত্তিক ডোসিমিটারের উপর কিছু গবেষণা।"
+    },
+    "militaryUses": {
+      "en": "Historical use in chemical warfare agents (Lewisite); modern military uses in optoelectronics.",
+      "bn": "রাসায়নিক যুদ্ধ এজেন্ট (লুইসাইট) এ ঐতিহাসিক ব্যবহার; অপটোইলেকট্রনিক্সে আধুনিক সামরিক ব্যবহার।"
+    },
+    "medicalUses": {
+      "en": "Arsenic trioxide (Trisenox) is an approved chemotherapy for acute promyelocytic leukemia.",
+      "bn": "আর্সেনিক ট্রাইঅক্সাইড (ট্রাইসেনক্স) তীব্র প্রোমাইলোসাইটিক লিউকেমিয়ার জন্য অনুমোদিত কেমোথেরাপি।"
+    },
+    "foodIndustryUses": {
+      "en": "Banned in food contact; trace levels regulated in rice and seafood.",
+      "bn": "খাদ্য সংস্পর্শে নিষিদ্ধ; ভাত এবং সামুদ্রিক খাবারে ট্রেস মাত্রা নিয়ন্ত্রিত।"
+    },
+    "constructionUses": {
+      "en": "Chromated copper arsenate (CCA) historically preserved outdoor wood; mostly phased out.",
+      "bn": "ক্রোমেটেড কপার আর্সেনেট (CCA) ঐতিহাসিকভাবে বহির্দ্বার কাঠ সংরক্ষণ করেছে; বেশিরভাগ পর্যায়ক্রমে অপসারিত।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Highly toxic; not essential to humans but used by some bacteria in arsenate respiration.",
+      "bn": "অত্যন্ত বিষাক্ত; মানুষের জন্য অপরিহার্য নয় কিন্তু আর্সেনেট শ্বসনে কিছু ব্যাকটেরিয়া দ্বারা ব্যবহৃত।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts (~0.1 mg); no proven essential role in humans.",
+      "bn": "ট্রেস পরিমাণ (~০.১ মিগ্রা); মানুষের মধ্যে কোনো প্রমাণিত অপরিহার্য ভূমিকা নেই।"
+    },
+    "toxicity": {
+      "en": "Highly toxic; chronic exposure causes skin lesions, cancer, and cardiovascular disease.",
+      "bn": "অত্যন্ত বিষাক্ত; দীর্ঘস্থায়ী এক্সপোজার ত্বকের ক্ষত, ক্যান্সার এবং কার্ডিওভাসকুলার রোগ ঘটায়।"
+    },
+    "environmentalImpact": {
+      "en": "Major contaminant of groundwater in Bangladesh, West Bengal, and Vietnam — affects millions.",
+      "bn": "বাংলাদেশ, পশ্চিমবঙ্গ এবং ভিয়েতনামে ভূগর্ভস্থ জলের প্রধান দূষক — লক্ষ লক্ষ মানুষকে প্রভাবিত করে।"
+    },
+    "pollutionRisks": {
+      "en": "Coal combustion, mining tailings, and pesticides historically released large quantities.",
+      "bn": "কয়লা দহন, খনির লেজে এবং কীটনাশক ঐতিহাসিকভাবে বড় পরিমাণে নির্গত করেছে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from copper smelter flue dust and CCA-treated wood disposal.",
+      "bn": "কপার গলানোর ধোঁয়া ধূলিকণা এবং CCA-চিকিৎসা করা কাঠ নিষ্পত্তি থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 3.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Morocco",
+        "bn": "মরক্কো"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Extracted as a by-product of copper, lead, and gold smelting.",
+      "bn": "কপার, সীসা এবং স্বর্ণ গলানোর উপজাত হিসাবে নিষ্কাশন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "1.8 ppm",
+        "bn": "১.৮ পিপিএম"
+      },
+      "oceans": {
+        "en": "3.7 µg/L",
+        "bn": "৩.৭ µg/L"
+      }
+    },
+    "marketValue": {
+      "en": "Around $1–$2 per kg for technical grade; high-purity grade much higher.",
+      "bn": "প্রযুক্তিগত গ্রেডের জন্য প্রায় $১-$২ প্রতি কেজি; উচ্চ-বিশুদ্ধতা গ্রেড অনেক বেশি।"
+    },
+    "futureDemand": {
+      "en": "Demand modest but stable; semiconductor grade growing.",
+      "bn": "চাহিদা মাঝারি কিন্তু স্থিতিশীল; অর্ধপরিবাহী গ্রেড বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Strategically important for III-V semiconductors and global water-safety policy.",
+      "bn": "III-V অর্ধপরিবাহী এবং বৈশ্বিক জল-সুরক্ষা নীতির জন্য কৌশলগতভাবে গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly toxic; carcinogenic; arsine gas (AsH₃) is acutely lethal.",
+      "bn": "অত্যন্ত বিষাক্ত; কার্সিনোজেনিক; আর্সিন গ্যাস (AsH₃) তীব্রভাবে মারাত্মক।"
+    },
+    "storageRequirements": {
+      "en": "Store in sealed containers, away from acids; arsine in approved gas cabinets.",
+      "bn": "অ্যাসিড থেকে দূরে সিল করা পাত্রে সংরক্ষণ করুন; অনুমোদিত গ্যাস ক্যাবিনেটে আর্সিন।"
+    },
+    "handlingProcedures": {
+      "en": "Full PPE, fume hood; never inhale dust or vapors.",
+      "bn": "সম্পূর্ণ PPE, ফিউম হুড; কখনো ধূলিকণা বা বাষ্প শ্বাস নেবেন না।"
+    },
+    "exposureRisks": {
+      "en": "OSHA PEL 10 µg/m³; chronic exposure causes 'arsenicosis'.",
+      "bn": "OSHA PEL ১০ µg/m³; দীর্ঘস্থায়ী এক্সপোজার 'আর্সেনিকোসিস' ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "High risk",
+      "bn": "উচ্চ ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Carcinogen (IARC Group 1)",
+        "bn": "কার্সিনোজেন (IARC গ্রুপ ১)"
+      },
+      {
+        "en": "Acutely toxic",
+        "bn": "তীব্রভাবে বিষাক্ত"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Arsenic is a notorious poison and a key semiconductor dopant.",
+      "bn": "আর্সেনিক একটি কুখ্যাত বিষ এবং একটি মূল অর্ধপরিবাহী ডোপ্যান্ট।"
+    },
+    "advancedExplanation": {
+      "en": "A pnictogen metalloid with rhombohedral gray allotrope; toxic As(III) and less-toxic As(V) oxidation states dominate aqueous chemistry.",
+      "bn": "রম্বোহেড্রাল ধূসর অ্যালোট্রোপ সহ একটি প্নিকটোজেন মেটালয়েড; বিষাক্ত As(III) এবং কম-বিষাক্ত As(V) জারণ অবস্থা জলীয় রসায়নে প্রভাবশালী।"
+    },
+    "funFacts": [
+      {
+        "en": "Napoleon's death has been linked to chronic arsenic exposure from wallpaper pigments.",
+        "bn": "নেপোলিয়নের মৃত্যু ওয়ালপেপারের রঞ্জক থেকে দীর্ঘস্থায়ী আর্সেনিক এক্সপোজারের সাথে যুক্ত হয়েছে।"
+      },
+      {
+        "en": "Marie Curie used the Marsh test to detect arsenic in her crime-fiction reading.",
+        "bn": "মারি কিউরি তার অপরাধ-কথাসাহিত্য পড়ার জন্য আর্সেনিক সনাক্ত করতে মার্শ পরীক্ষা ব্যবহার করেছিলেন।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 15,
+        "relation": {
+          "en": "Both group 15, but As is metalloid and far more toxic than essential phosphorus.",
+          "bn": "উভয় গ্রুপ ১৫, কিন্তু As হল মেটালয়েড এবং অপরিহার্য ফসফরাসের চেয়ে অনেক বেশি বিষাক্ত।"
+        }
+      }
+    ],
+    "relatedElements": [
+      15,
+      31,
+      32,
+      51
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Arsenic?",
+          "bn": "আর্সেনিক-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "32",
+            "bn": "32"
+          },
+          {
+            "en": "33",
+            "bn": "33"
+          },
+          {
+            "en": "34",
+            "bn": "34"
+          },
+          {
+            "en": "35",
+            "bn": "35"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Arsenic has 33 protons in its nucleus.",
+          "bn": "আর্সেনিক-এর নিউক্লিয়াসে 33 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Arsenic?",
+          "bn": "আর্সেনিক-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "As",
+            "bn": "As"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is As.",
+          "bn": "প্রতীকটি হল As।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Arsenic belong?",
+          "bn": "আর্সেনিক কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Metalloid",
+            "bn": "মেটালয়েড"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Arsenic is classified as a metalloid.",
+          "bn": "আর্সেনিক-কে মেটালয়েড হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Arsenic reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে আর্সেনিক রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "14",
+            "bn": "14"
+          },
+          {
+            "en": "15",
+            "bn": "15"
+          },
+          {
+            "en": "16",
+            "bn": "16"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Arsenic sits in group 15.",
+          "bn": "আর্সেনিক গ্রুপ 15-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Arsenic reside?",
+          "bn": "আর্সেনিক পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "3",
+            "bn": "3"
+          },
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Arsenic sits in period 4.",
+          "bn": "আর্সেনিক পর্যায় 4-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Arsenic?",
+          "bn": "আর্সেনিক-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s² 4p³",
+            "bn": "[Ar] 3d¹⁰ 4s² 4p³"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Ar] 3d¹⁰ 4s² 4p³.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Ar] 3d¹⁰ 4s² 4p³।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Arsenic?",
+          "bn": "আর্সেনিক আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Albertus Magnus",
+            "bn": "আলবার্টাস ম্যাগনাস"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Albertus Magnus is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় আলবার্টাস ম্যাগনাস-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Arsenic discovered?",
+          "bn": "আর্সেনিক কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1200",
+            "bn": "1200"
+          },
+          {
+            "en": "1250",
+            "bn": "1250"
+          },
+          {
+            "en": "1300",
+            "bn": "1300"
+          },
+          {
+            "en": "1350",
+            "bn": "1350"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1250.",
+          "bn": "1250 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Arsenic?",
+          "bn": "আর্সেনিক-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+5",
+            "bn": "+5"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +5.",
+          "bn": "প্রধান জারণ অবস্থা +5।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Arsenic?",
+          "bn": "আর্সেনিক-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "2.86 g/cm³",
+            "bn": "2.86 গ্রা/সেমি³"
+          },
+          {
+            "en": "5.727 g/cm³",
+            "bn": "5.727 গ্রা/সেমি³"
+          },
+          {
+            "en": "11.45 g/cm³",
+            "bn": "11.45 গ্রা/সেমি³"
+          },
+          {
+            "en": "22.91 g/cm³",
+            "bn": "22.91 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 5.727 g/cm³.",
+          "bn": "ঘনত্ব ≈ 5.727 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Arsenic (K)?",
+          "bn": "আর্সেনিক-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "545 K",
+            "bn": "545 K"
+          },
+          {
+            "en": "1090 K",
+            "bn": "1090 K"
+          },
+          {
+            "en": "2180 K",
+            "bn": "2180 K"
+          },
+          {
+            "en": "4360 K",
+            "bn": "4360 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 1090 K.",
+          "bn": "গলনাঙ্ক ≈ 1090 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Arsenic (K)?",
+          "bn": "আর্সেনিক-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "221 K",
+            "bn": "221 K"
+          },
+          {
+            "en": "443 K",
+            "bn": "443 K"
+          },
+          {
+            "en": "887 K",
+            "bn": "887 K"
+          },
+          {
+            "en": "1774 K",
+            "bn": "1774 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 887 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 887 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Arsenic?",
+          "bn": "আর্সেনিক-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.09",
+            "bn": "1.09"
+          },
+          {
+            "en": "2.18",
+            "bn": "2.18"
+          },
+          {
+            "en": "3.27",
+            "bn": "3.27"
+          },
+          {
+            "en": "4.36",
+            "bn": "4.36"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 2.18.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 2.18।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Arsenic (kJ/mol)?",
+          "bn": "আর্সেনিক-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "473",
+            "bn": "473"
+          },
+          {
+            "en": "947",
+            "bn": "947"
+          },
+          {
+            "en": "1894",
+            "bn": "1894"
+          },
+          {
+            "en": "2841",
+            "bn": "2841"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 947 kJ/mol.",
+          "bn": "প্রথম IE ≈ 947 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Arsenic belong to?",
+          "bn": "আর্সেনিক পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Arsenic is in the p-block.",
+          "bn": "আর্সেনিক p-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Arsenic have?",
+          "bn": "আর্সেনিক-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "7",
+            "bn": "7"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "5 valence electrons.",
+          "bn": "5 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Arsenic's atomic mass (u)?",
+          "bn": "আর্সেনিক-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "37.46",
+            "bn": "37.46"
+          },
+          {
+            "en": "74.921595",
+            "bn": "74.921595"
+          },
+          {
+            "en": "112.38",
+            "bn": "112.38"
+          },
+          {
+            "en": "149.84",
+            "bn": "149.84"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 74.921595.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 74.921595।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Arsenic have?",
+          "bn": "আর্সেনিক-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "40",
+            "bn": "40"
+          },
+          {
+            "en": "42",
+            "bn": "42"
+          },
+          {
+            "en": "44",
+            "bn": "44"
+          },
+          {
+            "en": "46",
+            "bn": "46"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 42 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 42 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Arsenic adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন আর্সেনিক কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Rhombohedral",
+            "bn": "রম্বোহেড্রাল"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Rhombohedral lattice.",
+          "bn": "এটি রম্বোহেড্রাল জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Arsenic?",
+          "bn": "কক্ষ তাপমাত্রায়, আর্সেনিক কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Arsenic is a solid at STP.",
+          "bn": "STP-তে আর্সেনিক একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Arsenic?",
+          "bn": "আর্সেনিক ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "As₂O₃",
+            "bn": "As₂O₃"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "As₂O₃ is a common compound.",
+          "bn": "As₂O₃ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "All arsenic is equally toxic — actually arsenobetaine in seafood is virtually nontoxic.",
+        "bn": "সমস্ত আর্সেনিক সমানভাবে বিষাক্ত — আসলে সামুদ্রিক খাবারের আর্সেনোবেটেইন কার্যত অ-বিষাক্ত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember: As is element 33, Group 15 (pnictogens), notorious in Bangladesh groundwater crisis.",
+        "bn": "মনে রাখবেন: As হল উপাদান ৩৩, গ্রুপ ১৫ (প্নিকটোজেন), বাংলাদেশের ভূগর্ভস্থ জলের সংকটে কুখ্যাত।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4As + 3O₂ → 2As₂O₃",
+        "description": {
+          "en": "Combustion of arsenic producing white arsenic trioxide.",
+          "bn": "আর্সেনিকের দহনে সাদা আর্সেনিক ট্রাইঅক্সাইড উৎপন্ন।"
+        }
+      },
+      {
+        "equation": "2As + 5Cl₂ → 2AsCl₅",
+        "description": {
+          "en": "Reaction with excess chlorine produces arsenic pentachloride.",
+          "bn": "অতিরিক্ত ক্লোরিনের সাথে বিক্রিয়ায় আর্সেনিক পেন্টাক্লোরাইড উৎপন্ন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "As → As³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation of elemental arsenic to As(III).",
+          "bn": "মৌলিক আর্সেনিকের As(III)-এ জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "As³⁺ + 3e⁻ → As",
+        "description": {
+          "en": "Reduction at cathode during electrowinning.",
+          "bn": "ইলেকট্রোউইনিংয়ের সময় ক্যাথোডে বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar covalent",
+          "bn": "Polar covalent"
+        },
+        "molecule": "GaAs",
+        "description": {
+          "en": "Arsenic and gallium form a zincblende lattice essential to RF and IR electronics.",
+          "bn": "আর্সেনিক এবং গ্যালিয়াম RF এবং IR ইলেকট্রনিক্সের জন্য অপরিহার্য একটি জিঙ্কব্লেন্ড জালি তৈরি করে।"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1048 @@
+{
+  "elementId": 31,
+  "basicInformation": {
+    "atomicNumber": 31,
+    "symbol": "Ga",
+    "name": {
+      "en": "Gallium",
+      "bn": "গ্যালিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈɡæliəm/",
+      "bn": "গ্যা-লি-য়াম"
+    },
+    "atomicMass": 69.723,
+    "category": {
+      "en": "Post-transition metal",
+      "bn": "পোস্ট-ট্রানজিশন ধাতু"
+    },
+    "group": 13,
+    "period": 4,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery blue, soft metal",
+      "bn": "রূপালী নীল, নরম ধাতু"
+    },
+    "color": {
+      "en": "Silvery blue",
+      "bn": "রূপালী নীল"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Paul-Émile Lecoq de Boisbaudran",
+      "bn": "পল-এমিল লেকক দ্য বোইসবউদ্রন"
+    },
+    "discoveryYear": 1875,
+    "discoveryLocation": {
+      "en": "France",
+      "bn": "ফ্রান্স"
+    },
+    "discoveryStory": {
+      "en": "Predicted by Mendeleev as 'eka-aluminium', discovered spectroscopically in zinc blende by Boisbaudran.",
+      "bn": "মেন্ডেলিভ 'একা-অ্যালুমিনিয়াম' হিসাবে এর ভবিষ্যদ্বাণী করেছিলেন; বোইসবউদ্রন জিঙ্ক ব্লেন্ডে বর্ণালীবীক্ষণিকভাবে আবিষ্কার করেন।"
+    },
+    "historicalUses": {
+      "en": "Originally used in low-melting alloys and thermometers replacing mercury.",
+      "bn": "মূলত পারদের পরিবর্তে নিম্ন-গলনাঙ্ক সংকর ধাতু এবং থার্মোমিটারে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Boisbaudran's spectroscopic identification of two violet lines confirming a new element.",
+      "bn": "নতুন উপাদান নিশ্চিত করে এমন দুটি বেগুনি বর্ণালী রেখার বোইসবউদ্রনের বর্ণালীবীক্ষণিক সনাক্তকরণ।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 31,
+    "neutrons": 39,
+    "electrons": 31,
+    "valenceElectrons": 3,
+    "shells": 4,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      3
+    ],
+    "electronConfiguration": "[Ar] 3d¹⁰ 4s² 4p¹",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 6,
+      "3d": 10,
+      "4s": 2,
+      "4p": 1
+    },
+    "oxidationStates": [
+      3,
+      2,
+      1,
+      -5
+    ],
+    "quantumNumbers": {
+      "principal": 4,
+      "azimuthal": 1,
+      "magnetic": -1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 5.91,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 302.9146,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2673,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 135,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 122,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 187,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 40.6,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 7100000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.373,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 1.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Orthorhombic",
+      "bn": "অর্থোরম্বিক"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.81,
+    "ionizationEnergy": {
+      "value": 578.8,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 28.9,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reacts slowly with water; dissolves in acids and alkalis.",
+      "bn": "জলের সাথে ধীরে ধীরে বিক্রিয়া করে; অ্যাসিড ও ক্ষারে দ্রবীভূত হয়।"
+    },
+    "commonCompounds": [
+      "GaAs",
+      "GaN",
+      "Ga₂O₃",
+      "GaCl₃"
+    ],
+    "flameTestColor": {
+      "en": "Violet",
+      "bn": "বেগুনি"
+    },
+    "spectralLines": [
+      "403.30nm",
+      "417.20nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Manufacture of semiconductor compounds GaAs and GaN for LEDs, lasers, and high-frequency electronics.",
+      "bn": "এলইডি, লেজার এবং উচ্চ-ফ্রিকোয়েন্সি ইলেকট্রনিক্সের জন্য সেমিকন্ডাক্টর যৌগ GaAs এবং GaN এর উৎপাদন।"
+    },
+    "commercialUses": {
+      "en": "Liquid metal thermometers, low-melting alloys (Galinstan).",
+      "bn": "তরল ধাতু থার্মোমিটার, নিম্ন-গলনাঙ্ক সংকর ধাতু (গ্যালিন্সটান)।"
+    },
+    "electronicsUses": {
+      "en": "GaAs and GaN are critical compound semiconductors for RF amplifiers, 5G, and power electronics.",
+      "bn": "GaAs এবং GaN হল RF অ্যামপ্লিফায়ার, ৫জি এবং পাওয়ার ইলেকট্রনিক্সের জন্য গুরুত্বপূর্ণ যৌগিক অর্ধপরিবাহী।"
+    },
+    "semiconductorUses": {
+      "en": "Direct bandgap semiconductor enabling efficient blue/UV LEDs and high-electron-mobility transistors.",
+      "bn": "নীল/UV LED এবং উচ্চ-ইলেকট্রন-গতিশীলতা ট্রানজিস্টরের জন্য সরাসরি ব্যান্ডগ্যাপ অর্ধপরিবাহী।"
+    },
+    "aerospaceUses": {
+      "en": "GaN power amplifiers in satellite communications and radar systems.",
+      "bn": "স্যাটেলাইট যোগাযোগ এবং রাডার সিস্টেমে GaN পাওয়ার অ্যামপ্লিফায়ার।"
+    },
+    "batteryUses": {
+      "en": "Used as additive in some experimental liquid-metal batteries.",
+      "bn": "কিছু পরীক্ষামূলক তরল-ধাতু ব্যাটারিতে সংযোজক হিসাবে ব্যবহৃত হয়।"
+    },
+    "aiHardwareUses": {
+      "en": "GaN-based power delivery enables compact, efficient AI server PSUs and edge inference chips.",
+      "bn": "GaN-ভিত্তিক পাওয়ার ডেলিভারি কম্প্যাক্ট, দক্ষ এআই সার্ভার PSU এবং এজ ইনফারেন্স চিপ সক্ষম করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "GaN power electronics improve efficiency of solar inverters and EV chargers.",
+      "bn": "GaN পাওয়ার ইলেকট্রনিক্স সোলার ইনভার্টার এবং ইভি চার্জারের কার্যকারিতা উন্নত করে।"
+    },
+    "nanotechnologyUses": {
+      "en": "Liquid gallium used in nanofabrication via focused ion beam (FIB) milling.",
+      "bn": "ফোকাসড আয়ন বিম (FIB) মিলিংয়ের মাধ্যমে ন্যানোফ্যাব্রিকেশনে তরল গ্যালিয়াম ব্যবহৃত হয়।"
+    },
+    "nuclearUses": {
+      "en": "Plutonium-gallium alloys stabilize the δ-phase in nuclear weapon pits.",
+      "bn": "প্লুটোনিয়াম-গ্যালিয়াম সংকর ধাতু পারমাণবিক অস্ত্রের পিটে δ-ফেজ স্থিতিশীল করে।"
+    },
+    "militaryUses": {
+      "en": "GaN radar transmitters and plutonium core stabilizer.",
+      "bn": "GaN রাডার ট্রান্সমিটার এবং প্লুটোনিয়াম কোর স্থিতিশীলক।"
+    },
+    "medicalUses": {
+      "en": "Gallium-67 and Gallium-68 used in PET/SPECT imaging for tumor detection.",
+      "bn": "গ্যালিয়াম-৬৭ এবং গ্যালিয়াম-৬৮ টিউমার সনাক্তকরণের জন্য PET/SPECT ইমেজিংয়ে ব্যবহৃত হয়।"
+    },
+    "foodIndustryUses": {
+      "en": "Not used in food industry.",
+      "bn": "খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited use; sometimes in specialty low-melt solders.",
+      "bn": "সীমিত ব্যবহার; কখনও কখনও বিশেষ নিম্ন-গলনাঙ্ক সোল্ডারে।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known essential biological role.",
+      "bn": "কোন পরিচিত অপরিহার্য জৈবিক ভূমিকা নেই।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts only; gallium ions can mimic iron in some biological pathways.",
+      "bn": "শুধুমাত্র ট্রেস পরিমাণ; গ্যালিয়াম আয়ন কিছু জৈবিক পথে আয়রনকে অনুকরণ করতে পারে।"
+    },
+    "toxicity": {
+      "en": "Low toxicity; gallium salts can cause skin irritation and dermatitis with prolonged exposure.",
+      "bn": "কম বিষাক্ততা; দীর্ঘস্থায়ী এক্সপোজারের সাথে গ্যালিয়াম লবণ ত্বকের জ্বালা এবং ডার্মাটাইটিস ঘটাতে পারে।"
+    },
+    "environmentalImpact": {
+      "en": "Low environmental impact; not bioaccumulative.",
+      "bn": "কম পরিবেশগত প্রভাব; জৈব-সঞ্চয়শীল নয়।"
+    },
+    "pollutionRisks": {
+      "en": "Mining and processing of bauxite (primary source) carries significant red-mud waste concerns.",
+      "bn": "বক্সাইট খনন এবং প্রক্রিয়াকরণ (প্রাথমিক উৎস) উল্লেখযোগ্য লাল-কাদা বর্জ্য উদ্বেগ বহন করে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from manufacturing scrap of GaAs wafers via acid leaching.",
+      "bn": "অ্যাসিড লিচিংয়ের মাধ্যমে GaAs ওয়েফারের প্রস্তুতকরণ স্ক্র্যাপ থেকে পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 6.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Japan",
+        "bn": "জাপান"
+      }
+    ],
+    "miningMethods": {
+      "en": "Recovered as a by-product of bauxite (aluminium) and zinc processing.",
+      "bn": "বক্সাইট (অ্যালুমিনিয়াম) এবং জিঙ্ক প্রক্রিয়াকরণের উপজাত হিসাবে পুনরুদ্ধার করা হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "ট্রেস"
+      },
+      "earthCrust": {
+        "en": "19 ppm",
+        "bn": "১৯ পিপিএম"
+      },
+      "oceans": {
+        "en": "0.00003 mg/L",
+        "bn": "০.০০০০৩ মিগ্রা/লি"
+      }
+    },
+    "marketValue": {
+      "en": "High-purity gallium typically $300-$500 per kg, volatile due to Chinese export controls.",
+      "bn": "উচ্চ-বিশুদ্ধতা গ্যালিয়াম সাধারণত প্রতি কেজি $৩০০-$৫০০; চীনা রপ্তানি নিয়ন্ত্রণের কারণে অস্থিতিশীল।"
+    },
+    "futureDemand": {
+      "en": "Demand projected to surge with the expansion of 5G/6G, EV power electronics, and AI hardware.",
+      "bn": "৫জি/৬জি, ইভি পাওয়ার ইলেকট্রনিক্স এবং এআই হার্ডওয়্যারের সম্প্রসারণের সাথে চাহিদা বাড়বে বলে অনুমান করা হচ্ছে।"
+    },
+    "globalImportance": {
+      "en": "Classified as a strategic critical mineral by the US, EU, and Japan.",
+      "bn": "মার্কিন যুক্তরাষ্ট্র, ইইউ এবং জাপান কর্তৃক একটি কৌশলগত গুরুত্বপূর্ণ খনিজ হিসাবে শ্রেণীবদ্ধ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Low hazard; molten gallium can wet and embrittle aluminium structures.",
+      "bn": "কম ঝুঁকি; গলিত গ্যালিয়াম অ্যালুমিনিয়াম কাঠামোকে ভিজিয়ে এবং ভঙ্গুর করে দিতে পারে।"
+    },
+    "storageRequirements": {
+      "en": "Store in polyethylene containers; avoid contact with aluminium.",
+      "bn": "পলিথিন পাত্রে সংরক্ষণ করুন; অ্যালুমিনিয়ামের সাথে সংস্পর্শ এড়িয়ে চলুন।"
+    },
+    "handlingProcedures": {
+      "en": "Wear gloves to prevent skin staining; handle gently as it melts in the hand.",
+      "bn": "ত্বকে দাগ এড়াতে গ্লাভস পরুন; এটি হাতে গলে যায় তাই সাবধানে পরিচালনা করুন।"
+    },
+    "exposureRisks": {
+      "en": "Prolonged contact may cause irritation; inhalation of dust possible only when heated.",
+      "bn": "দীর্ঘমেয়াদী যোগাযোগ জ্বালা হতে পারে; ধূলিকণা শ্বাস নেওয়া শুধুমাত্র উত্তপ্ত হলে সম্ভব।"
+    },
+    "safetyLevel": {
+      "en": "Low risk",
+      "bn": "নিম্ন ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Low toxicity metal",
+        "bn": "নিম্ন বিষাক্ত ধাতু"
+      },
+      {
+        "en": "Embrittles aluminium",
+        "bn": "অ্যালুমিনিয়ামকে ভঙ্গুর করে"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Gallium is a silver metal so soft it melts in your hand at 30°C, but boils only at 2400°C — a unique liquid range.",
+      "bn": "গ্যালিয়াম এমন একটি রূপালী ধাতু যা এত নরম যে এটি ৩০°সে তাপমাত্রায় হাতে গলে যায়, কিন্তু ফুটে ২৪০০°সে তাপমাত্রায় — একটি অনন্য তরল পরিসর।"
+    },
+    "advancedExplanation": {
+      "en": "A post-transition p-block metal with anomalous low melting point due to its unusual Ga₂ dimer crystal structure. Its compounds form the backbone of compound semiconductor technology.",
+      "bn": "একটি পোস্ট-ট্রানজিশন পি-ব্লক ধাতু যার অস্বাভাবিক Ga₂ ডাইমার স্ফটিক কাঠামোর কারণে অস্বাভাবিকভাবে কম গলনাঙ্ক রয়েছে। এর যৌগগুলি যৌগিক অর্ধপরিবাহী প্রযুক্তির মেরুদণ্ড গঠন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Gallium has one of the largest liquid ranges of any element (~2400 K wide).",
+        "bn": "যেকোনো উপাদানের মধ্যে গ্যালিয়ামের সবচেয়ে বড় তরল পরিসর (~২৪০০ K প্রশস্ত) রয়েছে।"
+      },
+      {
+        "en": "It expands ~3.1% on solidification, like water and bismuth.",
+        "bn": "এটি জল এবং বিসমাথের মতো জমাট বাঁধার সময় প্রায় ৩.১% প্রসারিত হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 30,
+        "relation": {
+          "en": "Unlike its neighbour zinc, gallium is far softer and melts near body temperature.",
+          "bn": "এর প্রতিবেশী জিঙ্কের বিপরীতে, গ্যালিয়াম অনেক বেশি নরম এবং শরীরের তাপমাত্রার কাছাকাছি গলে যায়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      13,
+      32,
+      49,
+      33
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "Who predicted gallium's existence before its discovery?",
+          "bn": "গ্যালিয়াম আবিষ্কারের আগে কে এর অস্তিত্বের ভবিষ্যদ্বাণী করেছিলেন?"
+        },
+        "options": [
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Dalton",
+            "bn": "ডাল্টন"
+          },
+          {
+            "en": "Bohr",
+            "bn": "বোর"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Mendeleev called it 'eka-aluminium' based on periodic trends.",
+          "bn": "মেন্ডেলিভ পর্যায় প্রবণতার উপর ভিত্তি করে এটিকে 'একা-অ্যালুমিনিয়াম' বলেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "At what approximate temperature does gallium melt?",
+          "bn": "গ্যালিয়াম আনুমানিক কত তাপমাত্রায় গলে?"
+        },
+        "options": [
+          {
+            "en": "0°C",
+            "bn": "০°সে"
+          },
+          {
+            "en": "29.76°C",
+            "bn": "২৯.৭৬°সে"
+          },
+          {
+            "en": "100°C",
+            "bn": "১০০°সে"
+          },
+          {
+            "en": "420°C",
+            "bn": "৪২০°সে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "It melts just below body temperature.",
+          "bn": "এটি শরীরের তাপমাত্রার ঠিক নিচে গলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which compound is the workhorse semiconductor for blue LEDs?",
+          "bn": "নীল LED-এর জন্য কোন যৌগটি প্রধান অর্ধপরিবাহী?"
+        },
+        "options": [
+          {
+            "en": "GaAs",
+            "bn": "GaAs"
+          },
+          {
+            "en": "GaN",
+            "bn": "GaN"
+          },
+          {
+            "en": "GaP",
+            "bn": "GaP"
+          },
+          {
+            "en": "Ga₂O₃",
+            "bn": "Ga₂O₃"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "GaN's wide bandgap enables efficient blue and UV emission.",
+          "bn": "GaN-এর প্রশস্ত ব্যান্ডগ্যাপ দক্ষ নীল এবং UV নির্গমন সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Gallium is most commonly obtained as a by-product of which ore?",
+          "bn": "গ্যালিয়াম সাধারণত কোন আকরিকের উপজাত হিসাবে পাওয়া যায়?"
+        },
+        "options": [
+          {
+            "en": "Hematite",
+            "bn": "হেমাটাইট"
+          },
+          {
+            "en": "Bauxite",
+            "bn": "বক্সাইট"
+          },
+          {
+            "en": "Galena",
+            "bn": "গ্যালেনা"
+          },
+          {
+            "en": "Cinnabar",
+            "bn": "সিনাবার"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "It is recovered from the Bayer process for aluminium.",
+          "bn": "এটি অ্যালুমিনিয়ামের জন্য বেয়ার প্রক্রিয়া থেকে পুনরুদ্ধার করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of gallium?",
+          "bn": "গ্যালিয়ামের সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+3",
+            "bn": "+৩"
+          },
+          {
+            "en": "+5",
+            "bn": "+৫"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Ga³⁺ dominates due to loss of 4s² 4p¹ electrons.",
+          "bn": "Ga³⁺ প্রভাবশালী কারণ 4s² 4p¹ ইলেকট্রন হারায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does gallium expand on freezing?",
+          "bn": "গ্যালিয়াম জমাট বাঁধার সময় কেন প্রসারিত হয়?"
+        },
+        "options": [
+          {
+            "en": "Cubic lattice",
+            "bn": "ঘনক জালি"
+          },
+          {
+            "en": "Open orthorhombic Ga₂ dimer structure",
+            "bn": "খোলা অর্থোরম্বিক Ga₂ ডাইমার কাঠামো"
+          },
+          {
+            "en": "Hydrogen bonding",
+            "bn": "হাইড্রোজেন বন্ধন"
+          },
+          {
+            "en": "Metallic delocalization",
+            "bn": "ধাতব ডিলোক্যালাইজেশন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Ga₂ dimer-based solid lattice is less dense than the liquid.",
+          "bn": "Ga₂ ডাইমার-ভিত্তিক কঠিন জালি তরলের চেয়ে কম ঘন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Galinstan is a eutectic alloy of which elements?",
+          "bn": "গ্যালিন্সটান কোন উপাদানগুলির একটি ইউটেকটিক সংকর ধাতু?"
+        },
+        "options": [
+          {
+            "en": "Ga, In, Sn",
+            "bn": "Ga, In, Sn"
+          },
+          {
+            "en": "Ga, Al, Sn",
+            "bn": "Ga, Al, Sn"
+          },
+          {
+            "en": "Ga, In, Zn",
+            "bn": "Ga, In, Zn"
+          },
+          {
+            "en": "Ga, Hg, Sn",
+            "bn": "Ga, Hg, Sn"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Gallium-Indium-Tin liquid metal used as a mercury substitute.",
+          "bn": "গ্যালিয়াম-ইন্ডিয়াম-টিন তরল ধাতু পারদের বিকল্প হিসাবে ব্যবহৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which gallium isotope is used in PET imaging?",
+          "bn": "কোন গ্যালিয়াম আইসোটোপ PET ইমেজিংয়ে ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "Ga-67",
+            "bn": "Ga-৬৭"
+          },
+          {
+            "en": "Ga-68",
+            "bn": "Ga-৬৮"
+          },
+          {
+            "en": "Ga-71",
+            "bn": "Ga-৭১"
+          },
+          {
+            "en": "Ga-72",
+            "bn": "Ga-৭২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ga-68 is a positron emitter widely used with DOTATATE for tumors.",
+          "bn": "Ga-৬৮ একটি পজিট্রন নির্গমনকারী যা টিউমারের জন্য DOTATATE-এর সাথে ব্যাপকভাবে ব্যবহৃত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why must gallium not contact structural aluminium parts?",
+          "bn": "গ্যালিয়াম কাঠামোগত অ্যালুমিনিয়াম অংশের সংস্পর্শে আসা উচিত নয় কেন?"
+        },
+        "options": [
+          {
+            "en": "It causes corrosion",
+            "bn": "এটি ক্ষয় ঘটায়"
+          },
+          {
+            "en": "Liquid-metal embrittlement weakens Al",
+            "bn": "তরল-ধাতু ভঙ্গুরতা Al দুর্বল করে"
+          },
+          {
+            "en": "It absorbs Al",
+            "bn": "এটি Al শোষণ করে"
+          },
+          {
+            "en": "It catches fire",
+            "bn": "এটি আগুন ধরে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Gallium diffuses along grain boundaries, drastically weakening aluminium.",
+          "bn": "গ্যালিয়াম শস্য সীমানা বরাবর ছড়িয়ে পড়ে, অ্যালুমিনিয়ামকে নাটকীয়ভাবে দুর্বল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "GaN HEMTs are valued in 5G base stations primarily because of:",
+          "bn": "৫জি বেস স্টেশনে GaN HEMT-গুলি প্রাথমিকভাবে কী কারণে মূল্যবান?"
+        },
+        "options": [
+          {
+            "en": "Low cost",
+            "bn": "কম খরচ"
+          },
+          {
+            "en": "High electron mobility and breakdown voltage",
+            "bn": "উচ্চ ইলেকট্রন গতিশীলতা এবং ব্রেকডাউন ভোল্টেজ"
+          },
+          {
+            "en": "Low thermal conductivity",
+            "bn": "কম তাপ পরিবাহিতা"
+          },
+          {
+            "en": "Magnetic properties",
+            "bn": "চৌম্বকীয় বৈশিষ্ট্য"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "GaN handles high frequencies and voltages with low loss.",
+          "bn": "GaN কম ক্ষতির সাথে উচ্চ ফ্রিকোয়েন্সি এবং ভোল্টেজ পরিচালনা করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In plutonium pits, gallium is alloyed to stabilize which phase?",
+          "bn": "প্লুটোনিয়াম পিটে, গ্যালিয়াম কোন ফেজ স্থিতিশীল করতে সংকরিত হয়?"
+        },
+        "options": [
+          {
+            "en": "α-phase",
+            "bn": "α-ফেজ"
+          },
+          {
+            "en": "δ-phase",
+            "bn": "δ-ফেজ"
+          },
+          {
+            "en": "γ-phase",
+            "bn": "γ-ফেজ"
+          },
+          {
+            "en": "ε-phase",
+            "bn": "ε-ফেজ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "~1% Ga keeps Pu in the machinable δ-phase at room temperature.",
+          "bn": "~১% Ga কক্ষ তাপমাত্রায় Pu-কে যন্ত্রযোগ্য δ-ফেজে রাখে।"
+        }
+      },
+      {
+        "question": {
+          "en": "The bandgap of GaAs is approximately:",
+          "bn": "GaAs-এর ব্যান্ডগ্যাপ আনুমানিক:"
+        },
+        "options": [
+          {
+            "en": "1.12 eV",
+            "bn": "১.১২ eV"
+          },
+          {
+            "en": "1.42 eV",
+            "bn": "১.৪২ eV"
+          },
+          {
+            "en": "3.4 eV",
+            "bn": "৩.৪ eV"
+          },
+          {
+            "en": "0.66 eV",
+            "bn": "০.৬৬ eV"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "1.42 eV direct bandgap makes it ideal for IR/optoelectronics.",
+          "bn": "১.৪২ eV সরাসরি ব্যান্ডগ্যাপ এটিকে IR/অপটোইলেকট্রনিক্সের জন্য আদর্শ করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Gallium's two stable isotopes are:",
+          "bn": "গ্যালিয়ামের দুটি স্থিতিশীল আইসোটোপ হল:"
+        },
+        "options": [
+          {
+            "en": "Ga-67, Ga-68",
+            "bn": "Ga-৬৭, Ga-৬৮"
+          },
+          {
+            "en": "Ga-69, Ga-71",
+            "bn": "Ga-৬৯, Ga-৭১"
+          },
+          {
+            "en": "Ga-70, Ga-72",
+            "bn": "Ga-৭০, Ga-৭২"
+          },
+          {
+            "en": "Ga-65, Ga-67",
+            "bn": "Ga-৬৫, Ga-৬৭"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Natural Ga is 60% Ga-69 and 40% Ga-71.",
+          "bn": "প্রাকৃতিক Ga ৬০% Ga-৬৯ এবং ৪০% Ga-৭১।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which property of gallium makes it suitable for high-temperature thermometers?",
+          "bn": "কোন বৈশিষ্ট্যটি গ্যালিয়ামকে উচ্চ-তাপমাত্রা থার্মোমিটারের জন্য উপযুক্ত করে তোলে?"
+        },
+        "options": [
+          {
+            "en": "High boiling point and low vapor pressure",
+            "bn": "উচ্চ স্ফুটনাঙ্ক এবং কম বাষ্প চাপ"
+          },
+          {
+            "en": "High density",
+            "bn": "উচ্চ ঘনত্ব"
+          },
+          {
+            "en": "Magnetic ordering",
+            "bn": "চৌম্বকীয় শৃঙ্খলা"
+          },
+          {
+            "en": "Radioactivity",
+            "bn": "তেজস্ক্রিয়তা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Its 2400 K liquid range allows use far above mercury's limit.",
+          "bn": "এর ২৪০০ K তরল পরিসর পারদের সীমার চেয়ে অনেক উপরে ব্যবহারের অনুমতি দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the Bayer process, gallium accumulates in:",
+          "bn": "বেয়ার প্রক্রিয়ায়, গ্যালিয়াম জমা হয়:"
+        },
+        "options": [
+          {
+            "en": "Red mud residue",
+            "bn": "লাল কাদা অবশিষ্টাংশ"
+          },
+          {
+            "en": "Sodium aluminate liquor",
+            "bn": "সোডিয়াম অ্যালুমিনেট তরল"
+          },
+          {
+            "en": "Coke ash",
+            "bn": "কোক ছাই"
+          },
+          {
+            "en": "Anode mud",
+            "bn": "অ্যানোড কাদা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "It concentrates in the Bayer liquor and is extracted later.",
+          "bn": "এটি বেয়ার তরলে ঘনীভূত হয় এবং পরে নিষ্কাশিত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Gallium nitride's bandgap is approximately:",
+          "bn": "গ্যালিয়াম নাইট্রাইডের ব্যান্ডগ্যাপ আনুমানিক:"
+        },
+        "options": [
+          {
+            "en": "1.12 eV",
+            "bn": "১.১২ eV"
+          },
+          {
+            "en": "2.2 eV",
+            "bn": "২.২ eV"
+          },
+          {
+            "en": "3.4 eV",
+            "bn": "৩.৪ eV"
+          },
+          {
+            "en": "5.5 eV",
+            "bn": "৫.৫ eV"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "GaN has a wide ~3.4 eV direct bandgap enabling UV/blue emitters.",
+          "bn": "GaN-এর প্রশস্ত ~৩.৪ eV সরাসরি ব্যান্ডগ্যাপ UV/নীল নির্গমন সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In 2023, which country imposed export controls on gallium?",
+          "bn": "২০২৩ সালে, কোন দেশ গ্যালিয়ামের উপর রপ্তানি নিয়ন্ত্রণ আরোপ করে?"
+        },
+        "options": [
+          {
+            "en": "USA",
+            "bn": "মার্কিন যুক্তরাষ্ট্র"
+          },
+          {
+            "en": "Germany",
+            "bn": "জার্মানি"
+          },
+          {
+            "en": "China",
+            "bn": "চীন"
+          },
+          {
+            "en": "Russia",
+            "bn": "রাশিয়া"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "China dominates ~95% of global primary gallium output.",
+          "bn": "চীন বিশ্বব্যাপী প্রাথমিক গ্যালিয়াম উৎপাদনের ~৯৫% নিয়ন্ত্রণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "The electron configuration of Ga is:",
+          "bn": "Ga-এর ইলেকট্রন বিন্যাস হল:"
+        },
+        "options": [
+          {
+            "en": "[Ar] 4s² 4p¹",
+            "bn": "[Ar] 4s² 4p¹"
+          },
+          {
+            "en": "[Ar] 3d¹⁰ 4s² 4p¹",
+            "bn": "[Ar] 3d¹⁰ 4s² 4p¹"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s² 5p¹",
+            "bn": "[Kr] 4d¹⁰ 5s² 5p¹"
+          },
+          {
+            "en": "[Ne] 3s² 3p¹",
+            "bn": "[Ne] 3s² 3p¹"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The filled 3d¹⁰ subshell sits below the valence shell.",
+          "bn": "পূর্ণ 3d¹⁰ সাবশেল ভ্যালেন্স শেলের নীচে অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Gallium melts in the hand because:",
+          "bn": "গ্যালিয়াম হাতে গলে কারণ:"
+        },
+        "options": [
+          {
+            "en": "Body heat exceeds 29.76°C melting point",
+            "bn": "শরীরের তাপ ২৯.৭৬°সে গলনাঙ্ক অতিক্রম করে"
+          },
+          {
+            "en": "It is radioactive",
+            "bn": "এটি তেজস্ক্রিয়"
+          },
+          {
+            "en": "It absorbs sweat",
+            "bn": "এটি ঘাম শোষণ করে"
+          },
+          {
+            "en": "Skin reacts chemically",
+            "bn": "ত্বক রাসায়নিকভাবে বিক্রিয়া করে"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Skin temperature (~33°C) is above gallium's melting point.",
+          "bn": "ত্বকের তাপমাত্রা (~৩৩°সে) গ্যালিয়ামের গলনাঙ্কের উপরে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is NOT a typical gallium application?",
+          "bn": "কোনটি একটি সাধারণ গ্যালিয়াম প্রয়োগ নয়?"
+        },
+        "options": [
+          {
+            "en": "LED manufacturing",
+            "bn": "LED উৎপাদন"
+          },
+          {
+            "en": "RF power amplifiers",
+            "bn": "RF পাওয়ার অ্যামপ্লিফায়ার"
+          },
+          {
+            "en": "Structural building beams",
+            "bn": "কাঠামোগত বিল্ডিং বিম"
+          },
+          {
+            "en": "Solar cells",
+            "bn": "সৌর কোষ"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Gallium is far too soft and rare to be used as a structural metal.",
+          "bn": "গ্যালিয়াম কাঠামোগত ধাতু হিসাবে ব্যবহার করার জন্য অনেক নরম এবং বিরল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which gallium oxide phase has emerging power-electronics applications?",
+          "bn": "কোন গ্যালিয়াম অক্সাইড ফেজের পাওয়ার-ইলেকট্রনিক্সে উদীয়মান প্রয়োগ রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "α-Ga₂O₃",
+            "bn": "α-Ga₂O₃"
+          },
+          {
+            "en": "β-Ga₂O₃",
+            "bn": "β-Ga₂O₃"
+          },
+          {
+            "en": "γ-Ga₂O₃",
+            "bn": "γ-Ga₂O₃"
+          },
+          {
+            "en": "ε-Ga₂O₃",
+            "bn": "ε-Ga₂O₃"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "β-Ga₂O₃ has an ultrawide ~4.8 eV bandgap for high-voltage devices.",
+          "bn": "β-Ga₂O₃-এর উচ্চ-ভোল্টেজ ডিভাইসের জন্য অতি প্রশস্ত ~৪.৮ eV ব্যান্ডগ্যাপ রয়েছে।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Gallium is rare and exotic — actually it is more abundant than lead in the crust.",
+        "bn": "গ্যালিয়াম বিরল এবং বহিরাগত — আসলে এটি ভূত্বকে সীসার চেয়ে বেশি প্রচুর।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember: Ga melts in the hand (~30°C); Mendeleev predicted it before its discovery.",
+        "bn": "মনে রাখবেন: Ga হাতে গলে (~৩০°সে); মেন্ডেলিভ এর আবিষ্কারের আগেই এটির ভবিষ্যদ্বাণী করেছিলেন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4Ga + 3O₂ → 2Ga₂O₃",
+        "description": {
+          "en": "Combustion of gallium to gallium(III) oxide.",
+          "bn": "গ্যালিয়াম জ্বলে গ্যালিয়াম(III) অক্সাইডে পরিণত হয়।"
+        }
+      },
+      {
+        "equation": "2Ga + 6HCl → 2GaCl₃ + 3H₂",
+        "description": {
+          "en": "Reaction with hydrochloric acid producing gallium chloride and hydrogen.",
+          "bn": "হাইড্রোক্লোরিক অ্যাসিডের সাথে বিক্রিয়ায় গ্যালিয়াম ক্লোরাইড এবং হাইড্রোজেন উৎপন্ন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Ga → Ga³⁺ + 3e⁻",
+        "description": {
+          "en": "Oxidation of gallium metal to its trivalent ion.",
+          "bn": "গ্যালিয়াম ধাতুর জারণ এর ত্রিযোজী আয়নে।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Ga³⁺ + 3e⁻ → Ga",
+        "description": {
+          "en": "Reduction at the cathode during electrolytic refining.",
+          "bn": "তড়িৎ পরিশোধন চলাকালীন ক্যাথোডে বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent (compound semiconductor)",
+          "bn": "সমযোজী যৌগিক অর্ধপরিবাহী"
+        },
+        "molecule": "GaAs",
+        "description": {
+          "en": "Gallium and arsenic form a polar covalent zincblende lattice critical for high-speed electronics.",
+          "bn": "গ্যালিয়াম ও আর্সেনিক উচ্চ-গতির ইলেকট্রনিক্সের জন্য গুরুত্বপূর্ণ একটি মেরু সমযোজী জিঙ্কব্লেন্ড জালি তৈরি করে।"
+        }
+      }
+    ]
+  }
+}

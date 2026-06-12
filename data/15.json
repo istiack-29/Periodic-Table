@@ -1,0 +1,1008 @@
+{
+  "elementId": 15,
+  "basicInformation": {
+    "atomicNumber": 15,
+    "symbol": "P",
+    "name": {
+      "en": "Phosphorus",
+      "bn": "ফসফরাস"
+    },
+    "pronunciation": {
+      "en": "/ˈfɒsfərəs/",
+      "bn": "ফস-ফ-রাস"
+    },
+    "atomicMass": 30.974,
+    "category": {
+      "en": "Reactive nonmetal",
+      "bn": "সক্রিয় অধাতু"
+    },
+    "group": 15,
+    "period": 3,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Colorless, waxy white, yellow, scarlet, red, violet, or black",
+      "bn": "বর্ণহীন, মোমের মতো সাদা, হলুদ, গাঢ় লাল, লাল, বেগুনি বা কালো"
+    },
+    "color": {
+      "en": "Varies by allotrope (White, Red, Black)",
+      "bn": "রূপভেদ অনুযায়ী পরিবর্তিত হয় (সাদা, লাল, কালো)"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Hennig Brand",
+      "bn": "হেনিগ ব্র্যান্ড"
+    },
+    "discoveryYear": 1669,
+    "discoveryLocation": {
+      "en": "Germany",
+      "bn": "জার্মানি"
+    },
+    "discoveryStory": {
+      "en": "Hennig Brand, an alchemist, discovered phosphorus while searching for the Philosopher's Stone. He boiled down large quantities of urine and heated the residue, which produced a vapor that condensed into a remarkable material that glowed in the dark.",
+      "bn": "অ্যালকেমিস্ট হেনিগ ব্র্যান্ড পরশপাথরের সন্ধানে ফসফরাস আবিষ্কার করেছিলেন। তিনি বিপুল পরিমাণ প্রস্রাব সিদ্ধ করে অবশিষ্ট অংশকে উত্তপ্ত করেছিলেন, যা এমন একটি বাষ্প তৈরি করেছিল যা ঘনীভূত হয়ে অন্ধকারে জ্বলজ্বল করা একটি অসাধারণ উপাদানে পরিণত হয়েছিল।"
+    },
+    "historicalUses": {
+      "en": "Initially used as a novelty and in early, dangerous matches (lucifers). Later, bone ash became a crucial agricultural fertilizer.",
+      "bn": "প্রাথমিকভাবে একটি অভিনব বস্তু হিসেবে এবং শুরুর দিকের বিপজ্জনক দেশলাই (লুসিফার)-এ ব্যবহৃত হত। পরবর্তীতে, হাড়ের ছাই একটি অত্যন্ত গুরুত্বপূর্ণ কৃষি সারে পরিণত হয়।"
+    },
+    "famousExperiments": {
+      "en": "Robert Boyle's experiments in the 1680s refining Brand's process, leading to the creation of the first primitive matches using phosphorus and sulfur.",
+      "bn": "১৬৮০-এর দশকে রবার্ট বয়েলের পরীক্ষাগুলো ব্র্যান্ডের প্রক্রিয়াকে পরিমার্জিত করেছিল, যার ফলে ফসফরাস এবং সালফার ব্যবহার করে প্রথম আদিম দেশলাই তৈরি হয়েছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 15,
+    "neutrons": 16,
+    "electrons": 15,
+    "valenceElectrons": 5,
+    "shells": 3,
+    "shellDistribution": [2, 8, 5],
+    "electronConfiguration": "1s² 2s² 2p⁶ 3s² 3p³",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 3
+    },
+    "oxidationStates": [5, 4, 3, 2, 1, -1, -2, -3],
+    "quantumNumbers": {
+      "principal": 3,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 1.823,
+      "unit": "g/cm³ (white)"
+    },
+    "meltingPoint": {
+      "value": 317.3,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 553.7,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 98,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 107,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 180,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.236,
+      "unit": "W/(m·K) (white)"
+    },
+    "electricalConductivity": {
+      "value": 1.0e-11,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.769,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 0.0,
+      "unit": "Mohs (White is waxy soft)"
+    },
+    "crystalStructure": {
+      "en": "Body-centered cubic (white); Amorphous (red); Orthorhombic (black)",
+      "bn": "বডি-সেন্টারড কিউবিক (সাদা); নিরাকার (লাল); অর্থোরম্বিক (কালো)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.19,
+    "ionizationEnergy": {
+      "value": 1011.8,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 72.0,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "White phosphorus is highly reactive and spontaneously ignites in air. Red phosphorus is moderately reactive. Black phosphorus is the least reactive.",
+      "bn": "সাদা ফসফরাস অত্যন্ত সক্রিয় এবং বাতাসে স্বতঃস্ফূর্তভাবে জ্বলে ওঠে। লাল ফসফরাস মাঝারিভাবে সক্রিয়। কালো ফসফরাস সবচেয়ে কম সক্রিয়।"
+    },
+    "commonCompounds": ["P₂O₅", "H₃PO₄", "PH₃", "Ca₃(PO₄)₂", "ATP"],
+    "flameTestColor": {
+      "en": "Pale green",
+      "bn": "হালকা সবুজ"
+    },
+    "spectralLines": ["253.56nm", "255.33nm", "259.99nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Primarily converted to phosphoric acid for making agricultural fertilizers (superphosphates).",
+      "bn": "প্রাথমিকভাবে কৃষি সার (সুপারফসফেট) তৈরির জন্য ফসফরিক অ্যাসিডে রূপান্তরিত করা হয়।"
+    },
+    "commercialUses": {
+      "en": "Red phosphorus is used on the striking surface of safety matches. Phosphorus compounds are used in baking powder and flame retardants.",
+      "bn": "নিরাপত্তা দেশলাইয়ের ঘর্ষণ পৃষ্ঠে লাল ফসফরাস ব্যবহৃত হয়। বেকিং পাউডার এবং শিখা প্রতিরোধকগুলোতে ফসফরাস যৌগ ব্যবহৃত হয়।"
+    },
+    "electronicsUses": {
+      "en": "Used as an n-type dopant in silicon semiconductors.",
+      "bn": "সিলিকন সেমিকন্ডাক্টরে এন-টাইপ ডোপান্ট হিসেবে ব্যবহৃত হয়।"
+    },
+    "semiconductorUses": {
+      "en": "Injected into silicon wafers to add an extra electron to the crystal lattice, creating negatively charged (n-type) silicon.",
+      "bn": "স্ফটিক ল্যাটিসে একটি অতিরিক্ত ইলেকট্রন যোগ করতে সিলিকন ওয়েফারে ইনজেকশন দেওয়া হয়, যা নেতিবাচকভাবে চার্জযুক্ত (এন-টাইপ) সিলিকন তৈরি করে।"
+    },
+    "aerospaceUses": {
+      "en": "Phosphoric acid anodizing is used for corrosion protection of aluminum components in aircraft.",
+      "bn": "বিমানের অ্যালুমিনিয়াম উপাদানগুলোর জারা সুরক্ষার জন্য ফসফরিক অ্যাসিড অ্যানোডাইজিং ব্যবহৃত হয়।"
+    },
+    "batteryUses": {
+      "en": "Lithium iron phosphate (LiFePO4) batteries are widely used in electric vehicles and power tools due to their safety and long lifespan.",
+      "bn": "লিথিয়াম আয়রন ফসফেট (LiFePO4) ব্যাটারিগুলো তাদের নিরাপত্তা এবং দীর্ঘস্থায়ী হওয়ার কারণে বৈদ্যুতিক যান এবং পাওয়ার টুলগুলোতে ব্যাপকভাবে ব্যবহৃত হয়।"
+    },
+    "aiHardwareUses": {
+      "en": "Indirectly crucial as a dopant in manufacturing the complex silicon microchips that power AI computations.",
+      "bn": "এআই কম্পিউটেশন চালানো জটিল সিলিকন মাইক্রোচিপ তৈরির ক্ষেত্রে ডোপান্ট হিসেবে পরোক্ষভাবে অত্যন্ত গুরুত্বপূর্ণ।"
+    },
+    "renewableEnergyUses": {
+      "en": "Used as an n-type dopant in traditional silicon solar panels.",
+      "bn": "ঐতিহ্যবাহী সিলিকন সোলার প্যানেলে এন-টাইপ ডোপান্ট হিসেবে ব্যবহৃত হয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Black phosphorus is studied as a 2D nanomaterial (phosphorene) for advanced nanoelectronics and optoelectronics.",
+      "bn": "উন্নত ন্যানোইলেকট্রনিক্স এবং অপটোইলেকট্রনিক্সের জন্য কালো ফসফরাসকে একটি 2D ন্যানোম্যাটেরিয়াল (ফসফোরিন) হিসেবে অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "None major.",
+      "bn": "উল্লেখযোগ্য কিছু নেই।"
+    },
+    "militaryUses": {
+      "en": "White phosphorus is used in smoke grenades, tracer bullets, and incendiary munitions (highly controversial due to severe burns).",
+      "bn": "সাদা ফসফরাস ধোঁয়ার গ্রেনেড, ট্রেসার বুলেট এবং আগ্নেয়াস্ত্র (গুরুতর পোড়ার কারণে অত্যন্ত বিতর্কিত)-এ ব্যবহৃত হয়।"
+    },
+    "medicalUses": {
+      "en": "Radioactive isotope P-32 is used in biological research and to treat some bone diseases and polycythemia vera.",
+      "bn": "তেজস্ক্রিয় আইসোটোপ P-32 জৈবিক গবেষণায় এবং কিছু হাড়ের রোগ এবং পলিসাইথেমিয়া ভেরা চিকিৎসায় ব্যবহৃত হয়।"
+    },
+    "foodIndustryUses": {
+      "en": "Phosphoric acid is used to acidify colas and other sodas, providing a tangy flavor and acting as a preservative.",
+      "bn": "কোলা এবং অন্যান্য সোডা অ্যাসিডিফাই করতে ফসফরিক অ্যাসিড ব্যবহৃত হয়, যা একটি টক স্বাদ প্রদান করে এবং সংরক্ষণকারী হিসেবে কাজ করে।"
+    },
+    "constructionUses": {
+      "en": "Phosphate coatings are applied to steel to protect against rust before painting.",
+      "bn": "রং করার আগে মরিচা থেকে রক্ষা করতে স্টিলের ওপর ফসফেট আবরণ প্রয়োগ করা হয়।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Absolutely essential for all known forms of life. It forms the sugar-phosphate backbone of DNA and RNA and is the key component of ATP (cellular energy).",
+      "bn": "সমস্ত পরিচিত জীবনের জন্য একেবারেই অপরিহার্য। এটি ডিএনএ এবং আরএনএ-এর সুগার-ফসফেট মেরুদণ্ড গঠন করে এবং এটি এটিপি (কোষীয় শক্তি)-এর মূল উপাদান।"
+    },
+    "humanBodyRole": {
+      "en": "About 85% of the body's phosphorus is in bones and teeth (as hydroxyapatite). It also maintains acid-base balance and aids in muscle contraction.",
+      "bn": "শরীরের ফসফরাসের প্রায় ৮৫% হাড় এবং দাঁতে (হাইড্রক্সিঅ্যাপাটাইট হিসেবে) থাকে। এটি অ্যাসিড-বেস ভারসাম্য বজায় রাখে এবং পেশী সংকোচনে সহায়তা করে।"
+    },
+    "toxicity": {
+      "en": "White phosphorus is acutely toxic and causes severe burns; ingestion causes liver damage and 'phossy jaw'. Red and black allotropes are non-toxic.",
+      "bn": "সাদা ফসফরাস তীব্রভাবে বিষাক্ত এবং গুরুতর পোড়া সৃষ্টি করে; এটি গ্রহণে লিভারের ক্ষতি এবং 'ফসি জ (phossy jaw)' হয়। লাল এবং কালো রূপভেদগুলো অ-বিষাক্ত।"
+    },
+    "environmentalImpact": {
+      "en": "Excessive agricultural runoff of phosphate fertilizers causes eutrophication in lakes and oceans, leading to massive algae blooms and dead zones.",
+      "bn": "ফসফেট সারের অত্যধিক কৃষি প্রবাহ হ্রদ এবং মহাসাগরে ইউট্রোফিকেশন ঘটায়, যার ফলে বিশাল শৈবালের প্রস্ফুটন (algae blooms) এবং মৃত অঞ্চল (dead zones) তৈরি হয়।"
+    },
+    "pollutionRisks": {
+      "en": "Phosphate mining disrupts local ecosystems, and runoff degrades water quality globally.",
+      "bn": "ফসফেট খনি স্থানীয় বাস্তুতন্ত্রকে ব্যাহত করে, এবং ফসফেটের প্রবাহ বিশ্বব্যাপী জলের গুণমানকে হ্রাস করে।"
+    },
+    "recyclingMethods": {
+      "en": "Struvite recovery from wastewater treatment plants is an emerging technology to recycle phosphorus and prevent water pollution.",
+      "bn": "বর্জ্য জল শোধনাগার থেকে স্ট্রুভাইট পুনরুদ্ধার ফসফরাস পুনর্ব্যবহার এবং জল দূষণ রোধ করার জন্য একটি উদীয়মান প্রযুক্তি।"
+    },
+    "sustainabilityScore": 4.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Morocco",
+        "bn": "মরক্কো"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      }
+    ],
+    "miningMethods": {
+      "en": "Mined primarily from phosphate rock (fluorapatite) through massive open-pit mining operations.",
+      "bn": "মূলত বিশাল ওপেন-পিট খনির ক্রিয়াকলাপের মাধ্যমে ফসফেট শিলা (ফ্লুরোঅ্যাপাটাইট) থেকে নিষ্কাশিত হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "0.0007% by mass",
+        "bn": "ভর অনুযায়ী ০.০০০৭%"
+      },
+      "earthCrust": {
+        "en": "0.099% by mass",
+        "bn": "ভর অনুযায়ী ০.০৯৯%"
+      },
+      "oceans": {
+        "en": "0.000006% by mass",
+        "bn": "ভর অনুযায়ী ০.০০০০০৬%"
+      }
+    },
+    "marketValue": {
+      "en": "Phosphate rock costs ~$100-$300 per metric ton, highly dependent on global agricultural demand.",
+      "bn": "ফসফেট শিলার দাম মেট্রিক টন প্রতি প্রায় $১০০-$৩০০, যা বিশ্বব্যাপী কৃষির চাহিদার ওপর অত্যন্ত নির্ভরশীল।"
+    },
+    "futureDemand": {
+      "en": "Demand is steadily rising with population growth needing more food (fertilizer) and the EV boom needing LiFePO4 batteries.",
+      "bn": "জনসংখ্যা বৃদ্ধির ফলে আরও খাদ্যের (সার) প্রয়োজনীয়তা এবং ইভি (EV) বুমের কারণে LiFePO4 ব্যাটারির প্রয়োজনে এর চাহিদা ক্রমাগত বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Strategically vital. Humanity literally cannot feed itself without mined phosphorus fertilizers, raising concerns about 'peak phosphorus'.",
+      "bn": "কৌশলগতভাবে অত্যন্ত গুরুত্বপূর্ণ। খননকৃত ফসফরাস সার ছাড়া মানবজাতি আক্ষরিক অর্থেই নিজেকে খাওয়াতে পারে না, যা 'পিক ফসফরাস (peak phosphorus)'-এর উদ্বেগ বাড়িয়ে তুলেছে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "White P ignites at 30°C in air and causes horrific thermal and chemical burns. Chronic exposure to vapor causes bone necrosis.",
+      "bn": "সাদা ফসফরাস বাতাসে ৩০ ডিগ্রি সেলসিয়াস তাপমাত্রায় জ্বলে ওঠে এবং ভয়াবহ তাপীয় ও রাসায়নিক পোড়া সৃষ্টি করে। বাষ্পের দীর্ঘস্থায়ী সংস্পর্শে হাড়ের নেক্রোসিস হয়।"
+    },
+    "storageRequirements": {
+      "en": "White phosphorus must be stored constantly submerged in water. Red phosphorus should be kept away from heat and strong oxidizers.",
+      "bn": "সাদা ফসফরাসকে অবশ্যই ক্রমাগত জলে ডুবিয়ে সংরক্ষণ করতে হবে। লাল ফসফরাসকে তাপ এবং শক্তিশালী জারক থেকে দূরে রাখা উচিত।"
+    },
+    "handlingProcedures": {
+      "en": "Only handle white phosphorus with tongs under water. Use extreme caution, proper ventilation, and flame-retardant PPE.",
+      "bn": "সাদা ফসফরাস শুধুমাত্র চিমটি দিয়ে জলের নিচে পরিচালনা করুন। চরম সতর্কতা, সঠিক বায়ুচলাচল এবং শিখা-প্রতিরোধী পিপিই ব্যবহার করুন।"
+    },
+    "exposureRisks": {
+      "en": "Historically caused 'Phossy jaw' in matchstick workers, a painful necrosis of the jawbone.",
+      "bn": "ঐতিহাসিকভাবে দেশলাই কর্মীদের মধ্যে 'ফসি জ (Phossy jaw)' সৃষ্টি করেছিল, যা চোয়ালের হাড়ের একটি বেদনাদায়ক নেক্রোসিস।"
+    },
+    "safetyLevel": {
+      "en": "Extreme Hazard (White), Low Hazard (Red/Black)",
+      "bn": "চরম বিপত্তি (সাদা), নিম্ন বিপত্তি (লাল/কালো)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Pyrophoric Solid (White)",
+        "bn": "পাইরোফোরিক কঠিন (সাদা)"
+      },
+      {
+        "en": "Acute Toxicity (White)",
+        "bn": "তীব্র বিষাক্ততা (সাদা)"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Phosphorus is the element of light and life. It exists in different colors—white phosphorus glows and catches fire easily, while red phosphorus is safe enough to strike a match. It is also the hidden ingredient in your DNA and bones that keeps you alive.",
+      "bn": "ফসফরাস হলো আলো এবং জীবনের উপাদান। এটি বিভিন্ন রঙে বিদ্যমান - সাদা ফসফরাস জ্বলে এবং সহজেই আগুন ধরে যায়, অন্যদিকে লাল ফসফরাস দেশলাই জ্বালানোর জন্য যথেষ্ট নিরাপদ। এটি আপনার ডিএনএ এবং হাড়ের একটি লুকানো উপাদান যা আপনাকে বাঁচিয়ে রাখে।"
+    },
+    "advancedExplanation": {
+      "en": "As a Group 15 pnictogen, phosphorus exhibits complex allotropy due to the different ways its P4 tetrahedra can polymerize. The extreme bond strain in the discrete P4 tetrahedra of white phosphorus makes it violently reactive. Heating it transforms it into amorphous red phosphorus networks, relieving strain and reducing reactivity.",
+      "bn": "একটি গ্রুপ ১৫ নিকটোজেন হিসেবে, ফসফরাস এর P4 চতুস্তলকের পলিমারাইজ করার বিভিন্ন উপায়ের কারণে জটিল রূপভেদ প্রদর্শন করে। সাদা ফসফরাসের বিচ্ছিন্ন P4 চতুস্তলকের চরম বন্ধন স্ট্রেন এটিকে মারাত্মকভাবে সক্রিয় করে তোলে। একে উত্তপ্ত করলে তা নিরাকার লাল ফসফরাস নেটওয়ার্কে রূপান্তরিত হয়, যা স্ট্রেন উপশম করে এবং সক্রিয়তা কমায়।"
+    },
+    "funFacts": [
+      {
+        "en": "The name Phosphorus comes from Greek mythology, meaning 'Light-Bringer' (Phōsphoros), referring to the planet Venus when it appeared as the Morning Star.",
+        "bn": "ফসফরাস নামটি গ্রীক পুরাণ থেকে এসেছে, যার অর্থ 'আলোক-বাহক' (Phōsphoros), যা শুক্র গ্রহকে বোঝায় যখন এটি ভোরের তারা হিসেবে আবির্ভূত হত।"
+      },
+      {
+        "en": "When Hennig Brand first discovered it, he kept his method a secret, but eventually sold the recipe for 200 thalers to Daniel Kraft, who toured Europe demonstrating the glowing substance to royalty.",
+        "bn": "হেনিগ ব্র্যান্ড যখন প্রথম এটি আবিষ্কার করেন, তখন তিনি তার পদ্ধতিটি গোপন রেখেছিলেন, কিন্তু শেষ পর্যন্ত ২০০ থ্যালারের বিনিময়ে ড্যানিয়েল ক্রাফটের কাছে রেসিপিটি বিক্রি করেন, যিনি রাজপরিবারের কাছে এই জ্বলজ্বলে পদার্থটি প্রদর্শন করতে ইউরোপ সফর করেছিলেন।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 7,
+        "relation": {
+          "en": "Directly below Nitrogen. While Nitrogen is a highly stable triple-bonded diatomic gas (N2), Phosphorus atoms are too large for stable triple bonds, so they form single-bonded solid P4 molecules instead.",
+          "bn": "নাইট্রোজেনের সরাসরি নিচে। যেখানে নাইট্রোজেন একটি অত্যন্ত স্থিতিশীল ত্রি-বন্ধনীযুক্ত দ্বি-পরমাণুক গ্যাস (N2), সেখানে ফসফরাস পরমাণুগুলো স্থিতিশীল ত্রি-বন্ধনের জন্য খুব বড়, তাই এর পরিবর্তে তারা একক-বন্ধনীযুক্ত কঠিন P4 অণু গঠন করে।"
+        }
+      },
+      {
+        "compareWithId": 16,
+        "relation": {
+          "en": "Next to Sulfur. Both share a history with matches and alchemy, and both exist as polyatomic solid molecules (P4 and S8) at room temperature.",
+          "bn": "সালফারের পাশে। উভয়েরই দেশলাই এবং অ্যালকেমির সাথে ইতিহাস রয়েছে, এবং উভয়ই কক্ষ তাপমাত্রায় বহুপারমাণবিক কঠিন অণু (P4 এবং S8) হিসেবে বিদ্যমান।"
+        }
+      }
+    ],
+    "relatedElements": [7, 16, 33, 20],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "Which allotrope of phosphorus is used on the striking surface of a safety matchbox?",
+          "bn": "নিরাপত্তা দেশলাই বাক্সের ঘর্ষণ পৃষ্ঠে ফসফরাসের কোন রূপভেদ ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "White Phosphorus",
+            "bn": "সাদা ফসফরাস"
+          },
+          {
+            "en": "Red Phosphorus",
+            "bn": "লাল ফসফরাস"
+          },
+          {
+            "en": "Black Phosphorus",
+            "bn": "কালো ফসফরাস"
+          },
+          {
+            "en": "Violet Phosphorus",
+            "bn": "বেগুনি ফসফরাস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Red phosphorus is moderately reactive. Friction from striking the match converts a tiny amount to white phosphorus, which immediately ignites and lights the match head.",
+          "bn": "লাল ফসফরাস মাঝারিভাবে সক্রিয়। দেশলাই ঘষার ঘর্ষণ একটি ক্ষুদ্র অংশকে সাদা ফসফরাসে রূপান্তর করে, যা অবিলম্বে জ্বলে ওঠে এবং দেশলাইয়ের মাথায় আগুন ধরায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the human body, phosphorus is primarily stored where?",
+          "bn": "মানুষের শরীরে ফসফরাস প্রাথমিকভাবে কোথায় জমা থাকে?"
+        },
+        "options": [
+          {
+            "en": "In the blood",
+            "bn": "রক্তে"
+          },
+          {
+            "en": "In the liver",
+            "bn": "যকৃতে"
+          },
+          {
+            "en": "In the brain",
+            "bn": "মস্তিষ্কে"
+          },
+          {
+            "en": "In bones and teeth",
+            "bn": "হাড় এবং দাঁতে"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "About 85% of human phosphorus is bound with calcium in bones and teeth as a mineral called hydroxyapatite.",
+          "bn": "মানুষের ফসফরাসের প্রায় ৮৫% হাড় এবং দাঁতে ক্যালসিয়ামের সাথে হাইড্রক্সিঅ্যাপাটাইট নামক খনিজ হিসেবে আবদ্ধ থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What unusual source material did Hennig Brand use to first discover and isolate elemental phosphorus?",
+          "bn": "মৌলিক ফসফরাস প্রথম আবিষ্কার এবং আলাদা করার জন্য হেনিগ ব্র্যান্ড কোন অস্বাভাবিক উৎস উপাদান ব্যবহার করেছিলেন?"
+        },
+        "options": [
+          {
+            "en": "Human urine",
+            "bn": "মানুষের প্রস্রাব"
+          },
+          {
+            "en": "Volcanic ash",
+            "bn": "আগ্নেয়গিরির ছাই"
+          },
+          {
+            "en": "Seawater",
+            "bn": "সমুদ্রের জল"
+          },
+          {
+            "en": "Crushed beetles",
+            "bn": "পিষ্ট গুবরে পোকা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Brand boiled down hundreds of liters of human urine, searching for the philosopher's stone, but ended up isolating glowing phosphorus instead.",
+          "bn": "ব্র্যান্ড পরশপাথরের সন্ধানে শত শত লিটার মানুষের প্রস্রাব ফুটিয়েছিলেন, কিন্তু শেষ পর্যন্ত জ্বলজ্বলে ফসফরাস আলাদা করে ফেলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Because it spontaneously ignites in air, how must white phosphorus be safely stored?",
+          "bn": "যেহেতু এটি বাতাসে স্বতঃস্ফূর্তভাবে জ্বলে ওঠে, তাই সাদা ফসফরাসকে কীভাবে নিরাপদে সংরক্ষণ করতে হবে?"
+        },
+        "options": [
+          {
+            "en": "In a vacuum chamber",
+            "bn": "ভ্যাকুয়াম চেম্বারে"
+          },
+          {
+            "en": "Submerged under water",
+            "bn": "জলের নিচে ডুবিয়ে"
+          },
+          {
+            "en": "Wrapped in lead foil",
+            "bn": "সীসার ফয়েলে মুড়িয়ে"
+          },
+          {
+            "en": "Suspended in pure oxygen",
+            "bn": "বিশুদ্ধ অক্সিজেনে ভাসিয়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Water blocks oxygen from reaching the white phosphorus, preventing it from spontaneously combusting at room temperature.",
+          "bn": "জল অক্সিজেনকে সাদা ফসফরাসে পৌঁছাতে বাধা দেয়, যা এটিকে কক্ষ তাপমাত্রায় স্বতঃস্ফূর্তভাবে জ্বলতে বাধা দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "The crucial biological molecule ATP acts as the energy currency of the cell. What does the 'P' in ATP stand for?",
+          "bn": "গুরুত্বপূর্ণ জৈবিক অণু এটিপি (ATP) কোষের শক্তির মুদ্রা হিসেবে কাজ করে। ATP-তে 'P' কী বোঝায়?"
+        },
+        "options": [
+          {
+            "en": "Protein",
+            "bn": "প্রোটিন"
+          },
+          {
+            "en": "Potassium",
+            "bn": "পটাশিয়াম"
+          },
+          {
+            "en": "Phosphate",
+            "bn": "ফসফেট"
+          },
+          {
+            "en": "Photon",
+            "bn": "ফোটন"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "ATP stands for Adenosine Triphosphate. Breaking the bonds between its three phosphate groups releases the energy needed for cellular processes.",
+          "bn": "ATP-এর পূর্ণরূপ হলো অ্যাডেনোসিন ট্রাইফসফেট। এর তিনটি ফসফেট গ্রুপের মধ্যে বন্ধন ভাঙলে কোষীয় প্রক্রিয়ার জন্য প্রয়োজনীয় শক্তি নির্গত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which major global environmental issue is directly linked to the excessive use of phosphate fertilizers?",
+          "bn": "ফসফেট সারের অত্যধিক ব্যবহারের সাথে সরাসরি যুক্ত প্রধান বিশ্বব্যাপী পরিবেশগত সমস্যা কোনটি?"
+        },
+        "options": [
+          {
+            "en": "Ozone depletion",
+            "bn": "ওজোন স্তর ক্ষয়"
+          },
+          {
+            "en": "Acid rain",
+            "bn": "অ্যাসিড বৃষ্টি"
+          },
+          {
+            "en": "Ocean acidification",
+            "bn": "মহাসাগরের অম্লীকরণ"
+          },
+          {
+            "en": "Eutrophication",
+            "bn": "ইউট্রোফিকেশন"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Runoff washes phosphates into water bodies, causing explosive algae growth (eutrophication), which then dies and decomposes, depleting oxygen and creating dead zones.",
+          "bn": "প্রবাহ ফসফেটকে জলাশয়ে ধুয়ে নিয়ে যায়, যা শৈবালের বিস্ফোরক বৃদ্ধি (ইউট্রোফিকেশন) ঘটায়। এই শৈবালগুলো পরে মারা যায় এবং পচে যায়, যা অক্সিজেন নিঃশেষ করে এবং মৃত অঞ্চল তৈরি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which allotrope of phosphorus is thermodynamically the most stable but hardest to manufacture?",
+          "bn": "ফসফরাসের কোন রূপভেদটি তাপগতিগতভাবে সবচেয়ে স্থিতিশীল কিন্তু তৈরি করা সবচেয়ে কঠিন?"
+        },
+        "options": [
+          {
+            "en": "White Phosphorus",
+            "bn": "সাদা ফসফরাস"
+          },
+          {
+            "en": "Red Phosphorus",
+            "bn": "লাল ফসফরাস"
+          },
+          {
+            "en": "Black Phosphorus",
+            "bn": "কালো ফসফরাস"
+          },
+          {
+            "en": "Yellow Phosphorus",
+            "bn": "হলুদ ফসফরাস"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Black phosphorus has a highly organized, flaky 2D crystal structure similar to graphite, making it extremely stable, non-reactive, and a good electrical conductor.",
+          "bn": "কালো ফসফরাসের গ্রাফাইটের মতো একটি অত্যন্ত সংগঠিত, ফ্ল্যাকি 2D স্ফটিক কাঠামো রয়েছে, যা এটিকে অত্যন্ত স্থিতিশীল, অ-প্রতিক্রিয়াশীল এবং একটি ভাল বৈদ্যুতিক পরিবাহী করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What terrifying occupational disease afflicted 19th-century matchstick workers exposed to white phosphorus vapor?",
+          "bn": "১৯ শতকের দেশলাই কর্মীদের সাদা ফসফরাস বাষ্পের সংস্পর্শে আসার কারণে কোন ভয়ানক পেশাগত রোগ হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "Black Lung",
+            "bn": "কালো ফুসফুস (Black Lung)"
+          },
+          {
+            "en": "Phossy Jaw",
+            "bn": "ফসি জ (Phossy Jaw)"
+          },
+          {
+            "en": "Mad Hatter Disease",
+            "bn": "ম্যাড হ্যাটার রোগ"
+          },
+          {
+            "en": "Radium Jaw",
+            "bn": "রেডিয়াম জ (Radium Jaw)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Phossy jaw involved the painful swelling, glowing, and eventual rotting away of the jawbone due to chronic white phosphorus toxicity.",
+          "bn": "সাদা ফসফরাসের দীর্ঘস্থায়ী বিষাক্ততার কারণে ফসি জ-তে চোয়ালের হাড়ের বেদনাদায়ক ফোলাভাব, জ্বলজ্বল করা এবং শেষ পর্যন্ত পচে যাওয়ার ঘটনা ঘটেছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "In modern electric vehicles, what type of phosphorus-containing battery is becoming increasingly popular for its safety and longevity?",
+          "bn": "আধুনিক বৈদ্যুতিক যানগুলোতে, ফসফরাস-যুক্ত কোন ধরনের ব্যাটারি এর নিরাপত্তা এবং দীর্ঘায়ুর জন্য ক্রমশ জনপ্রিয় হচ্ছে?"
+        },
+        "options": [
+          {
+            "en": "Lead-acid",
+            "bn": "লিড-অ্যাসিড"
+          },
+          {
+            "en": "Lithium Iron Phosphate (LFP)",
+            "bn": "লিথিয়াম আয়রন ফসফেট (LFP)"
+          },
+          {
+            "en": "Nickel-Cadmium (NiCd)",
+            "bn": "নিকেল-ক্যাডমিয়াম (NiCd)"
+          },
+          {
+            "en": "Solid-state sulfur",
+            "bn": "সলিড-স্টেট সালফার"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "LFP (Lithium Iron Phosphate) batteries use LiFePO4 as the cathode, offering high cycle life and excellent thermal stability (they do not easily catch fire) compared to standard lithium-ion chemistries.",
+          "bn": "LFP (লিথিয়াম আয়রন ফসফেট) ব্যাটারিগুলো ক্যাথোড হিসেবে LiFePO4 ব্যবহার করে, যা স্ট্যান্ডার্ড লিথিয়াম-আয়ন রসায়নের তুলনায় উচ্চ চক্র জীবন এবং দুর্দান্ত তাপীয় স্থিতিশীলতা (তারা সহজে আগুন ধরে না) প্রদান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which country possesses over 70% of the world's known rock phosphate reserves, giving it immense geopolitical power over global food security?",
+          "bn": "কোন দেশের কাছে বিশ্বের পরিচিত রক ফসফেট মজুদের ৭০%-এরও বেশি রয়েছে, যা তাকে বিশ্বব্যাপী খাদ্য নিরাপত্তার ওপর অপরিসীম ভূ-রাজনৈতিক ক্ষমতা দেয়?"
+        },
+        "options": [
+          {
+            "en": "United States",
+            "bn": "যুক্তরাষ্ট্র"
+          },
+          {
+            "en": "Russia",
+            "bn": "রাশিয়া"
+          },
+          {
+            "en": "China",
+            "bn": "চীন"
+          },
+          {
+            "en": "Morocco",
+            "bn": "মরক্কো"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Morocco (and the territory of Western Sahara it controls) holds the vast majority of the world's phosphate rock reserves, effectively holding the keys to future global agriculture.",
+          "bn": "মরক্কো (এবং এর নিয়ন্ত্রিত পশ্চিম সাহারা অঞ্চল) বিশ্বের ফসফেট শিলা মজুদের বিশাল সংখ্যাগরিষ্ঠ অংশ ধারণ করে, যা কার্যকরভাবে ভবিষ্যতের বিশ্বব্যাপী কৃষির চাবিকাঠি ধরে রেখেছে।"
+        }
+      },
+        {
+      "question": {
+        "en": "What is the primary role of phosphorus in the structure of DNA and RNA molecules?",
+        "bn": "ডিএনএ এবং আরএনএ অণুর গঠনে ফসফরাসের প্রধান ভূমিকা কী?"
+      },
+      "options": [
+        {
+          "en": "It forms the nitrogenous base pairs",
+          "bn": "এটি নাইট্রোজেনাস বেস পেয়ার গঠন করে"
+        },
+        {
+          "en": "It forms the sugar-phosphate backbone",
+          "bn": "এটি সুগার-ফসফেট মেরুদণ্ড গঠন করে"
+        },
+        {
+          "en": "It acts as a catalyst for replication",
+          "bn": "এটি প্রতিলিপিকরণের জন্য অনুঘটক হিসেবে কাজ করে"
+        },
+        {
+          "en": "It prevents mutations",
+          "bn": "এটি মিউটেশন প্রতিরোধ করে"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "explanation": {
+        "en": "Phosphorus, in the form of phosphate groups, links the deoxyribose or ribose sugars to create the structural backbone of nucleic acids.",
+        "bn": "ফসফেট গ্রুপ হিসেবে ফসফরাস ডিঅক্সিরাইবোস বা রাইবোস সুগারকে যুক্ত করে নিউক্লিক অ্যাসিডের কাঠামোগত মেরুদণ্ড তৈরি করে।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why is black phosphorus considered a promising material for next-generation nanoelectronics?",
+        "bn": "কালো ফসফরাসকে কেন পরবর্তী প্রজন্মের ন্যানোইলেকট্রনিক্সের জন্য একটি সম্ভাবনাময় উপাদান হিসেবে বিবেচনা করা হয়?"
+      },
+      "options": [
+        {
+          "en": "Because it is highly flammable",
+          "bn": "কারণ এটি অত্যন্ত দাহ্য"
+        },
+        {
+          "en": "Because it is a gas at room temperature",
+          "bn": "কারণ এটি কক্ষ তাপমাত্রায় গ্যাসীয়"
+        },
+        {
+          "en": "Because of its flaky 2D crystal structure and tunable electrical properties",
+          "bn": "এর ফ্ল্যাকি 2D স্ফটিক গঠন এবং পরিবর্তনযোগ্য বৈদ্যুতিক বৈশিষ্ট্যের কারণে"
+        },
+        {
+          "en": "Because it is the cheapest form of phosphorus",
+          "bn": "কারণ এটি ফসফরাসের সবচেয়ে সস্তা রূপভেদ"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "explanation": {
+        "en": "Black phosphorus, or phosphorene, has a layered 2D structure similar to graphene, allowing for excellent electron mobility and bandgap control.",
+        "bn": "কালো ফসফরাস বা ফসফোরিনের গ্রাফিনের মতো স্তরযুক্ত 2D গঠন রয়েছে, যা চমৎকার ইলেকট্রন গতিশীলতা এবং ব্যান্ডগ্যাপ নিয়ন্ত্রণ নিশ্চিত করে।"
+      }
+    },
+    {
+      "question": {
+        "en": "What does the 'phossy' in 'phossy jaw' refer to in a historical context?",
+        "bn": "ঐতিহাসিক প্রেক্ষাপটে 'ফসি জ (phossy jaw)'-এর 'ফসি' বলতে কী বোঝায়?"
+      },
+      "options": [
+        {
+          "en": "A type of ancient bacterial infection",
+          "bn": "এক ধরনের প্রাচীন ব্যাকটেরিয়া সংক্রমণ"
+        },
+        {
+          "en": "The glow or luminescence emitted by white phosphorus",
+          "bn": "সাদা ফসফরাস থেকে নির্গত আলো বা আভা"
+        },
+        {
+          "en": "The person who discovered the disease",
+          "bn": "যিনি এই রোগটি আবিষ্কার করেছিলেন"
+        },
+        {
+          "en": "The sound of the chemical reaction",
+          "bn": "রাসায়নিক বিক্রিয়ার শব্দ"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "explanation": {
+        "en": "Matchstick workers developed the condition due to inhaling white phosphorus fumes, which famously caused their jawbones to glow with a faint greenish light in the dark.",
+        "bn": "দেশলাই কর্মীরা সাদা ফসফরাসের ধোঁয়া শ্বাস নেওয়ার কারণে এই রোগে আক্রান্ত হতো, যা অন্ধকারে তাদের চোয়ালের হাড়কে হালকা সবুজ আলোয় উজ্জ্বল করে তুলত।"
+      }
+    },
+    {
+      "question": {
+        "en": "Phosphorus is a 'pnictogen'. What does this term generally refer to in the periodic table?",
+        "bn": "ফসফরাস একটি 'নিকটোজেন (pnictogen)'। পর্যায় সারণীতে এই শব্দটি সাধারণত কী বোঝায়?"
+      },
+      "options": [
+        {
+          "en": "Elements in Group 15",
+          "bn": "গ্রুপ ১৫-এর মৌলসমূহ"
+        },
+        {
+          "en": "Elements that are all noble gases",
+          "bn": "সমস্ত নিষ্ক্রিয় গ্যাসসমূহ"
+        },
+        {
+          "en": "Elements that are all alkali metals",
+          "bn": "সমস্ত ক্ষার ধাতুসমূহ"
+        },
+        {
+          "en": "Elements that are all radioactive",
+          "bn": "সমস্ত তেজস্ক্রিয় মৌলসমূহ"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "explanation": {
+        "en": "Pnictogens are the elements found in Group 15 of the periodic table, including nitrogen, phosphorus, arsenic, antimony, and bismuth.",
+        "bn": "নিকটোজেন হলো পর্যায় সারণীর গ্রুপ ১৫-এর মৌলসমূহ, যার মধ্যে রয়েছে নাইট্রোজেন, ফসফরাস, আর্সেনিক, অ্যান্টিমনি এবং বিসমাথ।"
+      }
+    },
+    {
+      "question": {
+        "en": "How does phosphorus contribute to the acidity of cola drinks?",
+        "bn": "কোলা জাতীয় পানীয়ের অম্লতায় ফসফরাস কীভাবে অবদান রাখে?"
+      },
+      "options": [
+        {
+          "en": "Through the presence of phosphoric acid",
+          "bn": "ফসফরিক অ্যাসিডের উপস্থিতির মাধ্যমে"
+        },
+        {
+          "en": "By reacting with sugar to form acid",
+          "bn": "চিনির সাথে বিক্রিয়া করে অ্যাসিড তৈরির মাধ্যমে"
+        },
+        {
+          "en": "It provides a base, not an acid",
+          "bn": "এটি ক্ষার প্রদান করে, অ্যাসিড নয়"
+        },
+        {
+          "en": "By acting as a natural buffer",
+          "bn": "প্রাকৃতিক বাফার হিসেবে কাজ করার মাধ্যমে"
+        }
+      ],
+      "correctOptionIndex": 0,
+      "explanation": {
+        "en": "Phosphoric acid ($H_3PO_4$) is a key ingredient in many sodas, used to give a tart, tangy flavor and inhibit the growth of bacteria and mold.",
+        "bn": "ফসফরিক অ্যাসিড ($H_3PO_4$) অনেক সোডার একটি মূল উপাদান, যা একটি টক, ঝাঁঝালো স্বাদ দিতে এবং ব্যাকটেরিয়া ও ছত্রাকের বৃদ্ধি রোধ করতে ব্যবহৃত হয়।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the result of 'eutrophication' in a body of water?",
+        "bn": "জলাশয়ে 'ইউট্রোফিকেশন'-এর ফলাফল কী?"
+      },
+      "options": [
+        {
+          "en": "Increased biodiversity",
+          "bn": "জীববৈচিত্র্য বৃদ্ধি"
+        },
+        {
+          "en": "Cleaner water for drinking",
+          "bn": "পানের জন্য আরও পরিষ্কার জল"
+        },
+        {
+          "en": "Rapid growth of algae and subsequent oxygen depletion",
+          "bn": "শৈবালের দ্রুত বৃদ্ধি এবং পরবর্তীকালে অক্সিজেনের ঘাটতি"
+        },
+        {
+          "en": "A decrease in water temperature",
+          "bn": "জলের তাপমাত্রা হ্রাস"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "explanation": {
+        "en": "Excess phosphates act as fertilizer in water, causing massive algae growth. When algae die and decompose, the process consumes nearly all dissolved oxygen, killing fish and other aquatic life.",
+        "bn": "অতিরিক্ত ফসফেট জলে সার হিসেবে কাজ করে, যার ফলে বিশাল শৈবাল জন্মায়। যখন শৈবাল মারা যায় এবং পচে যায়, তখন এই প্রক্রিয়াটি প্রায় সমস্ত দ্রবীভূত অক্সিজেন খরচ করে ফেলে, ফলে মাছ এবং অন্যান্য জলজ প্রাণীর মৃত্যু ঘটে।"
+      }
+    },
+    {
+      "question": {
+        "en": "Which form of phosphorus is effectively used as a fertilizer supplement in agriculture?",
+        "bn": "কৃষিতে ফসফরাসের কোন রূপটি কার্যকরভাবে সারের পরিপূরক হিসেবে ব্যবহৃত হয়?"
+      },
+      "options": [
+        {
+          "en": "Pure white phosphorus",
+          "bn": "বিশুদ্ধ সাদা ফসফরাস"
+        },
+        {
+          "en": "Phosphates (e.g., superphosphates)",
+          "bn": "ফসফেট (যেমন: সুপারফসফেট)"
+        },
+        {
+          "en": "Phosphine gas",
+          "bn": "ফসফিন গ্যাস"
+        },
+        {
+          "en": "Pure black phosphorus",
+          "bn": "বিশুদ্ধ কালো ফসফরাস"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "explanation": {
+        "en": "Plants cannot absorb elemental phosphorus; they require it in the form of phosphate salts (like superphosphates derived from phosphate rock) which are water-soluble.",
+        "bn": "উদ্ভিদ মৌলিক ফসফরাস শোষণ করতে পারে না; তাদের এটি ফসফেট লবণের (যেমন ফসফেট শিলা থেকে প্রাপ্ত সুপারফসফেট) আকারে প্রয়োজন যা জলে দ্রবণীয়।"
+      }
+    },
+    {
+      "question": {
+        "en": "Why is white phosphorus considered a 'pyrophoric' material?",
+        "bn": "সাদা ফসফরাসকে কেন একটি 'পাইরোফোরিক (pyrophoric)' উপাদান হিসেবে বিবেচনা করা হয়?"
+      },
+      "options": [
+        {
+          "en": "Because it explodes on contact with water",
+          "bn": "কারণ এটি জলের সংস্পর্শে বিস্ফোরিত হয়"
+        },
+        {
+          "en": "Because it spontaneously ignites when exposed to air",
+          "bn": "কারণ এটি বাতাসের সংস্পর্শে এলে স্বতঃস্ফূর্তভাবে জ্বলে ওঠে"
+        },
+        {
+          "en": "Because it is a strong acid",
+          "bn": "কারণ এটি একটি শক্তিশালী অ্যাসিড"
+        },
+        {
+          "en": "Because it only burns in pure oxygen",
+          "bn": "কারণ এটি শুধুমাত্র বিশুদ্ধ অক্সিজেনে জ্বলে"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "explanation": {
+        "en": "Pyrophoric materials are those that ignite automatically at or below 55°C (130°F) when exposed to air. White phosphorus ignites at around 30°C.",
+        "bn": "পাইরোফোরিক উপাদানগুলো হলো সেগুলো যা বাতাসের সংস্পর্শে এলে ৫৫° সে. (১৩০° ফা.) বা তার নিচে স্বয়ংক্রিয়ভাবে জ্বলে ওঠে। সাদা ফসফরাস প্রায় ৩০° সে. তাপমাত্রায় জ্বলে।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the primary role of the isotope P-32 in a medical or research setting?",
+        "bn": "চিকিৎসা বা গবেষণার ক্ষেত্রে P-32 আইসোটোপের প্রাথমিক ভূমিকা কী?"
+      },
+      "options": [
+        {
+          "en": "To treat skin cancer via external radiation",
+          "bn": "বাহ্যিক বিকিরণের মাধ্যমে ত্বকের ক্যান্সারের চিকিৎসা"
+        },
+        {
+          "en": "As a radioactive tracer in biological and biochemical studies",
+          "bn": "জৈবিক এবং জৈব রাসায়নিক গবেষণায় একটি তেজস্ক্রিয় ট্রেসার হিসেবে"
+        },
+        {
+          "en": "To power cardiac pacemakers",
+          "bn": "কার্ডিয়াক পেসমেকারকে শক্তি জোগাতে"
+        },
+        {
+          "en": "To disinfect medical instruments",
+          "bn": "চিকিৎসা সরঞ্জাম জীবাণুমুক্ত করতে"
+        }
+      ],
+      "correctOptionIndex": 1,
+      "explanation": {
+        "en": "P-32 is a beta-emitter used widely in molecular biology to label DNA and RNA, allowing researchers to track these molecules in biological systems.",
+        "bn": "P-32 হলো একটি বিটা-নিঃসারক যা আণবিক জীববিজ্ঞানে ডিএনএ এবং আরএনএ লেবেল করতে ব্যাপকভাবে ব্যবহৃত হয়, যা গবেষকদের জৈবিক ব্যবস্থায় এই অণুগুলোকে ট্র্যাক করতে দেয়।"
+      }
+    },
+    {
+      "question": {
+        "en": "What is the chemical formula for the most common form of phosphorus found in nature, which also forms the basis of phosphorus tetrahedra?",
+        "bn": "প্রকৃতিতে পাওয়া ফসফরাসের সবচেয়ে সাধারণ রূপের রাসায়নিক সংকেত কী, যা ফসফরাস চতুস্তলকের ভিত্তিও তৈরি করে?"
+      },
+      "options": [
+        {
+          "en": "P",
+          "bn": "P"
+        },
+        {
+          "en": "P2",
+          "bn": "P2"
+        },
+        {
+          "en": "P4",
+          "bn": "P4"
+        },
+        {
+          "en": "P8",
+          "bn": "P8"
+        }
+      ],
+      "correctOptionIndex": 2,
+      "explanation": {
+        "en": "Elemental white phosphorus exists as discrete $P_4$ tetrahedral molecules, where each phosphorus atom is covalently bonded to the other three in the tetrahedron.",
+        "bn": "মৌলিক সাদা ফসফরাস স্বতন্ত্র $P_4$ চতুস্তলকীয় অণু হিসেবে বিদ্যমান, যেখানে প্রতিটি ফসফরাস পরমাণু চতুস্তলকের অন্য তিনটির সাথে সমযোজীভাবে আবদ্ধ থাকে।"
+      }
+    }
+  ],
+    "misconceptions": [
+      {
+        "en": "Phosphorus is a metal. (It is clearly a non-metal, though black phosphorus has some metallic conductive properties).",
+        "bn": "ফসফরাস একটি ধাতু। (এটি স্পষ্টতই একটি অধাতু, যদিও কালো ফসফরাসের কিছু ধাতব পরিবাহী বৈশিষ্ট্য রয়েছে)।"
+      },
+      {
+        "en": "Things that 'phosphoresce' (glow in the dark like toys) always contain phosphorus. (Modern glow-in-the-dark items usually use safe photoluminescent materials like strontium aluminate, not toxic phosphorus).",
+        "bn": "যে জিনিসগুলো 'ফসফরেস' করে (খেলনার মতো অন্ধকারে জ্বলে) সেগুলোতে সবসময় ফসফরাস থাকে। (আধুনিক অন্ধকারে জ্বলা জিনিসগুলোতে সাধারণত স্ট্রন্টিয়াম অ্যালুমিনেটের মতো নিরাপদ ফটোলুমিনেসেন্ট উপাদান ব্যবহার করা হয়, বিষাক্ত ফসফরাস নয়)।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the 'Three P's': Phosphorus = Plants, Phosphates, and Power (ATP). It is literally the fuel for cellular life and agriculture.",
+        "bn": "'তিনটি পি (Three P)' মনে রাখুন: Phosphorus = Plants (উদ্ভিদ), Phosphates (ফসফেট) এবং Power (শক্তি - ATP)। এটি আক্ষরিক অর্থেই কোষীয় জীবন এবং কৃষির জ্বালানী।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Ca₃(PO₄)₂ + 3H₂SO₄ → 2H₃PO₄ + 3CaSO₄",
+        "description": {
+          "en": "The wet process: reacting phosphate rock with sulfuric acid to produce phosphoric acid, the precursor to most fertilizers.",
+          "bn": "ভেজা প্রক্রিয়া: বেশিরভাগ সারের পূর্বসূরি ফসফরিক অ্যাসিড তৈরি করতে সালফিউরিক অ্যাসিডের সাথে ফসফেট শিলার বিক্রিয়া।"
+        }
+      },
+      {
+        "equation": "P₄ + 3O₂ → P₄O₆",
+        "description": {
+          "en": "The limited oxidation of white phosphorus to form phosphorus trioxide.",
+          "bn": "ফসফরাস ট্রাইঅক্সাইড গঠনের জন্য সাদা ফসফরাসের সীমিত জারণ।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "P₄ + 5O₂ → P₄O₁₀",
+        "description": {
+          "en": "The violent combustion of white phosphorus in abundant air to form phosphorus pentoxide, which appears as dense white smoke.",
+          "bn": "ফসফরাস পেন্টক্সাইড তৈরি করতে প্রচুর বাতাসে সাদা ফসফরাসের মারাত্মক দহন, যা ঘন সাদা ধোঁয়া হিসেবে দেখা দেয়।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "2Ca₃(PO₄)₂ + 6SiO₂ + 10C → 6CaSiO₃ + 10CO + P₄",
+        "description": {
+          "en": "The historic carbothermic reduction method (Wöhler process) in an electric furnace to produce elemental white phosphorus vapor from bone ash or phosphate rock.",
+          "bn": "হাড়ের ছাই বা ফসফেট শিলা থেকে মৌলিক সাদা ফসফরাস বাষ্প তৈরি করার জন্য একটি বৈদ্যুতিক চুল্লিতে ঐতিহাসিক কার্বোথার্মিক বিজারণ পদ্ধতি (উলার প্রক্রিয়া)।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent",
+          "bn": "সমযোজী"
+        },
+        "molecule": "P₄",
+        "description": {
+          "en": "In white phosphorus, four P atoms form a tetrahedron with single covalent bonds. The sharp 60° angles cause immense ring strain, making it violently reactive.",
+          "bn": "সাদা ফসফরাসে, চারটি P পরমাণু একক সমযোজী বন্ধনসহ একটি চতুস্তলক তৈরি করে। তীক্ষ্ণ ৬০° কোণগুলো প্রচণ্ড রিং স্ট্রেন সৃষ্টি করে, যা এটিকে মারাত্মকভাবে সক্রিয় করে তোলে।"
+        }
+      }
+    ]
+  }
+}

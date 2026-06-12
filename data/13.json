@@ -1,0 +1,1008 @@
+{
+"elementId": 13,
+"basicInformation": {
+"atomicNumber": 13,
+"symbol": "Al",
+"name": {
+"en": "Aluminum",
+"bn": "অ্যালুমিনিয়াম"
+},
+"pronunciation": {
+"en": "/əˈluːmɪnəm/ or /ˌæl.jəˈmɪn.i.əm/",
+"bn": "অ্যা-লু-মি-নি-য়াম"
+},
+"atomicMass": 26.982,
+"category": {
+"en": "Post-transition metal",
+"bn": "পোস্ট-ট্রানজিশন ধাতু"
+},
+"group": 13,
+"period": 3,
+"block": "p",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Silvery-gray metallic",
+"bn": "রূপালী-ধূসর ধাতব"
+},
+"color": {
+"en": "Silvery-gray",
+"bn": "রূপালী-ধূসর"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Hans Christian Ørsted",
+"bn": "হ্যান্স ক্রিশ্চিয়ান ওরস্টেড"
+},
+"discoveryYear": 1825,
+"discoveryLocation": {
+"en": "Denmark",
+"bn": "ডেনমার্ক"
+},
+"discoveryStory": {
+"en": "Humphry Davy first suspected its existence in alum, but Hans Christian Ørsted was the first to isolate an impure form using potassium amalgam. Friedrich Wöhler later produced a pure sample in 1827.",
+"bn": "হামফ্রি ডেভি প্রথম অ্যালামে এর অস্তিত্ব সন্দেহ করেছিলেন, কিন্তু হ্যান্স ক্রিশ্চিয়ান ওরস্টেড পটাশিয়াম অ্যামালগাম ব্যবহার করে প্রথম এর একটি অশুদ্ধ রূপ আলাদা করেন। পরে ১৮২৭ সালে ফ্রিডরিখ ভোলার একটি বিশুদ্ধ নমুনা তৈরি করেন।"
+},
+"historicalUses": {
+"en": "Before the Hall-Héroult process was invented, aluminum was more expensive than gold and was used for prestigious cutlery and the capstone of the Washington Monument.",
+"bn": "হল-হেরোল্ট প্রক্রিয়া আবিষ্কারের আগে, অ্যালুমিনিয়াম সোনার চেয়েও বেশি ব্যয়বহুল ছিল এবং এটি মর্যাদাপূর্ণ কাটলারি এবং ওয়াশিংটন মনুমেন্টের ক্যাপস্টোন তৈরিতে ব্যবহৃত হতো।"
+},
+"famousExperiments": {
+"en": "Charles Martin Hall and Paul Héroult independently discovering the electrolytic process for extracting aluminum from alumina in 1886.",
+"bn": "চার্লস মার্টিন হল এবং পল হেরোল্ট ১৮৮৬ সালে স্বাধীনভাবে অ্যালুমিনা থেকে অ্যালুমিনিয়াম নিষ্কাশনের তড়িৎ বিশ্লেষ্য প্রক্রিয়া আবিষ্কার করেন।"
+}
+},
+"atomicStructure": {
+"protons": 13,
+"neutrons": 14,
+"electrons": 13,
+"valenceElectrons": 3,
+"shells": 3,
+"shellDistribution": [2, 8, 3],
+"electronConfiguration": "1s² 2s² 2p⁶ 3s² 3p¹",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 1
+},
+"oxidationStates": [3, 2, 1],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 1,
+"magnetic": -1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 2.70,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 933.47,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 2743,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 143,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 121,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 184,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 237,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 37700000,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.897,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 2.75,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টারড কিউবিক (পৃষ্ঠকেন্দ্রিক ঘনকাকার)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.61,
+"ionizationEnergy": {
+"value": 577.5,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 42.5,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Highly reactive, but instantly forms a tough, transparent oxide layer (passivation) that protects it from further corrosion. Reacts strongly with both acids and bases (amphoteric).",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল, তবে তাৎক্ষণিকভাবে একটি শক্ত, স্বচ্ছ অক্সাইড স্তর (প্যাসিভেশন) তৈরি করে যা এটিকে আরও ক্ষয় থেকে রক্ষা করে। অ্যাসিড এবং ক্ষার উভয়ের সাথেই দৃঢ়ভাবে প্রতিক্রিয়া দেখায় (উপধর্মী)।"
+},
+"commonCompounds": ["Al₂O₃", "AlCl₃", "Al₂(SO₄)₃", "NaAlO₂", "LiAlH₄"],
+"flameTestColor": {
+"en": "Silvery-white sparks",
+"bn": "রূপালী-সাদা স্ফুলিঙ্গ"
+},
+"spectralLines": ["394.40nm", "396.15nm", "308.21nm", "309.27nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Extruded structural components, high-voltage electrical transmission lines, thermite welding, catalyst in petrochemical industries.",
+"bn": "এক্সট্রুডেড কাঠামোগত উপাদান, উচ্চ-ভোল্টেজের বৈদ্যুতিক ট্রান্সমিশন লাইন, থার্মাইট ওয়েল্ডিং, পেট্রোকেমিক্যাল শিল্পে অনুঘটক।"
+},
+"commercialUses": {
+"en": "Beverage cans, foil packaging, household utensils, window frames, consumer electronics casings.",
+"bn": "পানীয়ের ক্যান, ফয়েল প্যাকেজিং, গৃহস্থালির পাত্র, জানালার ফ্রেম, ভোক্তা ইলেকট্রনিক্সের আবরণ।"
+},
+"electronicsUses": {
+"en": "Heat sinks for CPUs and GPUs, casing for laptops and smartphones, PCB traces in some applications.",
+"bn": "সিপিইউ এবং জিপিইউ-এর জন্য হিট সিঙ্ক, ল্যাপটপ এবং স্মার্টফোনের আবরণ, কিছু অ্যাপ্লিকেশনে পিসিবি ট্রেস।"
+},
+"semiconductorUses": {
+"en": "Interconnects in integrated circuits, though largely replaced by copper at the nanoscale; still used in specific chip architecture layers.",
+"bn": "ইন্টিগ্রেটেড সার্কিটগুলিতে ইন্টারকানেক্ট, যদিও ন্যানোস্কেলে মূলত তামা দ্বারা প্রতিস্থাপিত; এখনও নির্দিষ্ট চিপ আর্কিটেকচার স্তরগুলিতে ব্যবহৃত হয়।"
+},
+"aerospaceUses": {
+"en": "Primary material for aircraft fuselages and spacecraft frames due to its high strength-to-weight ratio (often alloyed as Duralumin).",
+"bn": "এর উচ্চ শক্তি-ওজন অনুপাতের কারণে বিমানের ফিউজলেজ এবং মহাকাশযানের ফ্রেমের প্রাথমিক উপাদান (প্রায়শই ডুরালুমিন হিসাবে খাদ করা হয়)।"
+},
+"batteryUses": {
+"en": "Research and development in Aluminum-ion batteries as a safer, higher-capacity alternative to lithium-ion.",
+"bn": "লিথিয়াম-আয়নের একটি নিরাপদ, উচ্চ-ক্ষমতার বিকল্প হিসাবে অ্যালুমিনিয়াম-আয়ন ব্যাটারির গবেষণা এবং উন্নয়ন।"
+},
+"aiHardwareUses": {
+"en": "Custom machined chassis for supercomputing nodes and massive passive heat dissipation arrays in AI data centers.",
+"bn": "এআই ডেটা সেন্টারে সুপারকম্পিউটিং নোড এবং বৃহৎ প্যাসিভ তাপ অপচয়কারী অ্যারেইগুলির জন্য কাস্টম মেশিনযুক্ত চ্যাসিস।"
+},
+"renewableEnergyUses": {
+"en": "Frames for solar photovoltaic panels, components for wind turbine nacelles.",
+"bn": "সৌর ফটোভোলটাইক প্যানেলের ফ্রেম, উইন্ড টারবাইন ন্যাসেলের উপাদান।"
+},
+"nanotechnologyUses": {
+"en": "Anodized Aluminum Oxide (AAO) templates for synthesizing nanowires and carbon nanotubes.",
+"bn": "ন্যানোয়ার এবং কার্বন ন্যানোটিউব সংশ্লেষণের জন্য অ্যানোডাইজড অ্যালুমিনিয়াম অক্সাইড (AAO) টেমপ্লেট।"
+},
+"nuclearUses": {
+"en": "Cladding material for uranium fuel elements in certain types of nuclear research reactors.",
+"bn": "নির্দিষ্ট ধরণের পারমাণবিক গবেষণা চুল্লিতে ইউরেনিয়াম জ্বালানী উপাদানগুলির জন্য ক্ল্যাডিং উপাদান।"
+},
+"militaryUses": {
+"en": "Armor plating for light transport vehicles, component in powerful explosives (Torpex, Tritonal), solid rocket propellants.",
+"bn": "হালকা পরিবহন যানের আর্মার প্লেটিং, শক্তিশালী বিস্ফোরক উপাদান (টরপেক্স, ট্রিটোনাল), কঠিন রকেট প্রপেলান্ট।"
+},
+"medicalUses": {
+"en": "Aluminum hydroxide used as an antacid; aluminum compounds act as adjuvants in human vaccines to boost immune response.",
+"bn": "অ্যালুমিনিয়াম হাইড্রক্সাইড অ্যান্টাসিড হিসাবে ব্যবহৃত হয়; ইমিউন প্রতিক্রিয়া বাড়ানোর জন্য মানুষের টিকাতে অ্যালুমিনিয়াম যৌগগুলি সহায়ক হিসাবে কাজ করে।"
+},
+"foodIndustryUses": {
+"en": "Food-grade packaging (Tetra Pak), anti-caking agents, and food coloring lakes (alumina).",
+"bn": "ফুড-গ্রেড প্যাকেজিং (টেট্রা প্যাক), অ্যান্টি-কেকিং এজেন্ট এবং ফুড কালারিং লেক (অ্যালুমিনা)।"
+},
+"constructionUses": {
+"en": "Roofing, siding, structural framing, and decorative facades due to corrosion resistance and lightweight nature.",
+"bn": "ক্ষয় প্রতিরোধ এবং হালকা ওজনের কারণে ছাদ, সাইডিং, কাঠামোগত ফ্রেমিং এবং আলংকারিক সম্মুখভাগে।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No known biological role in any living organism, despite its abundance in the Earth's crust.",
+"bn": "পৃথিবীর ভূত্বকে এর প্রচুরতা সত্ত্বেও কোনো জীবিত প্রাণীতে এর কোনো পরিচিত জৈবিক ভূমিকা নেই।"
+},
+"humanBodyRole": {
+"en": "Trace amounts are absorbed through food and water, but it is effectively excreted by healthy kidneys. Excessive accumulation can be neurotoxic.",
+"bn": "খাদ্য এবং জলের মাধ্যমে সামান্য পরিমাণ শোষিত হয়, তবে সুস্থ কিডনি দ্বারা এটি কার্যকরভাবে নির্গত হয়। অত্যধিক সঞ্চয় নিউরোটক্সিক হতে পারে।"
+},
+"toxicity": {
+"en": "Low systemic toxicity, but inhalation of bauxite dust or high systemic absorption (in dialysis patients) can cause bone disorders and encephalopathy.",
+"bn": "নিম্ন সিস্টেমিক বিষাক্ততা, তবে বক্সাইট ধূলিকণা শ্বাস নেওয়া বা উচ্চ সিস্টেমিক শোষণ (ডায়ালাইসিস রোগীদের ক্ষেত্রে) হাড়ের ব্যাধি এবং এনসেফালোপ্যাথি সৃষ্টি করতে পারে।"
+},
+"environmentalImpact": {
+"en": "Mining of bauxite can lead to deforestation and habitat destruction. Processing produces caustic red mud waste. However, the metal itself is inert in standard environments.",
+"bn": "বক্সাইট খনির ফলে বন উজাড় এবং বাসস্থান ধ্বংস হতে পারে। প্রক্রিয়াজাতকরণে ক্ষয়কারী লাল কাদা বর্জ্য উৎপন্ন হয়। তবে, ধাতু নিজেই মানক পরিবেশে নিষ্ক্রিয়।"
+},
+"pollutionRisks": {
+"en": "Acid rain can leach aluminum from soil into waterways, where it becomes highly toxic to fish by clogging their gills.",
+"bn": "অ্যাসিড বৃষ্টি মাটি থেকে অ্যালুমিনিয়ামকে জলপথে নিয়ে যেতে পারে, যেখানে এটি মাছের ফুলকা আটকে দিয়ে তাদের জন্য অত্যন্ত বিষাক্ত হয়ে ওঠে।"
+},
+"recyclingMethods": {
+"en": "Melting scrap aluminum requires only 5% of the energy needed to produce new metal from ore, making it one of the most highly recycled metals globally.",
+"bn": "স্ক্র্যাপ অ্যালুমিনিয়াম গলাতে আকরিক থেকে নতুন ধাতু উৎপাদনের জন্য প্রয়োজনীয় শক্তির মাত্র ৫% প্রয়োজন, যা এটিকে বিশ্বব্যাপী সর্বাধিক পুনর্ব্যবহৃত ধাতুগুলির মধ্যে একটি করে তুলেছে।"
+},
+"sustainabilityScore": 8.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+},
+{
+"en": "Brazil",
+"bn": "ব্রাজিল"
+},
+{
+"en": "India",
+"bn": "ভারত"
+}
+],
+"miningMethods": {
+"en": "Open-pit mining of bauxite ore, followed by the Bayer process (refining into alumina) and the Hall-Héroult process (electrolytic smelting).",
+"bn": "বক্সাইট আকরিকের ওপেন-পিট মাইনিং, তারপরে বায়ার প্রক্রিয়া (অ্যালুমিনায় পরিশোধন) এবং হল-হেরোল্ট প্রক্রিয়া (তড়িৎ বিশ্লেষ্য গলন)।"
+},
+"abundance": {
+"universe": {
+"en": "0.005% by mass",
+"bn": "ভর অনুযায়ী ০.০০৫%"
+},
+"earthCrust": {
+"en": "8.1% by mass (Most abundant metal)",
+"bn": "ভর অনুযায়ী ৮.১% (সবচেয়ে প্রচুর ধাতু)"
+},
+"oceans": {
+"en": "0.0000002% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০২%"
+}
+},
+"marketValue": {
+"en": "Generally ranges from $2,000 to $3,500 per metric ton, highly dependent on global energy prices.",
+"bn": "সাধারণত প্রতি মেট্রিক টন $২,০০০ থেকে $৩,৫০০ এর মধ্যে থাকে, যা বিশ্বব্যাপী শক্তির দামের উপর অত্যন্ত নির্ভরশীল।"
+},
+"futureDemand": {
+"en": "Expected to rise significantly due to lightweighting in electric vehicles (EVs) and green energy infrastructure expansion.",
+"bn": "বৈদ্যুতিক যানবাহনে (EVs) ওজন হ্রাস এবং সবুজ শক্তি অবকাঠামো সম্প্রসারণের কারণে উল্লেখযোগ্যভাবে বৃদ্ধি পাবে বলে আশা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "A fundamental pillar of modern industrial manufacturing, packaging, and transportation sectors.",
+"bn": "আধুনিক শিল্প উত্পাদন, প্যাকেজিং এবং পরিবহন খাতের একটি মৌলিক স্তম্ভ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Bulk solid is safe. Fine aluminum dust is extremely combustible and can cause severe dust explosions.",
+"bn": "কঠিন খণ্ড নিরাপদ। সূক্ষ্ম অ্যালুমিনিয়াম ধূলিকণা অত্যন্ত দাহ্য এবং মারাত্মক ধূলিকণা বিস্ফোরণ ঘটাতে পারে।"
+},
+"storageRequirements": {
+"en": "Store powder in cool, dry, well-ventilated areas away from halogens, strong oxidizers, acids, and bases.",
+"bn": "গুঁড়ো হ্যালোজেন, শক্তিশালী অক্সিডাইজার, অ্যাসিড এবং ক্ষার থেকে দূরে শীতল, শুষ্ক, ভাল বায়ুচলাচল স্থানে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Avoid generating dust. When handling powder, use non-sparking tools and intrinsically safe electrical equipment.",
+"bn": "ধুলো তৈরি হওয়া এড়িয়ে চলুন। গুঁড়ো নাড়াচাড়া করার সময়, স্ফুলিঙ্গহীন সরঞ্জাম এবং অভ্যন্তরীণভাবে নিরাপদ বৈদ্যুতিক সরঞ্জাম ব্যবহার করুন।"
+},
+"exposureRisks": {
+"en": "Long-term inhalation of fine dust can cause pulmonary fibrosis (aluminosis).",
+"bn": "সূক্ষ্ম ধূলিকণা দীর্ঘমেয়াদী শ্বাস গ্রহণের ফলে ফুসফুসীয় ফাইব্রোসিস (অ্যালুমিনোসিস) হতে পারে।"
+},
+"safetyLevel": {
+"en": "Low Risk (Solid), High Risk (Powder)",
+"bn": "নিম্ন ঝুঁকি (কঠিন), উচ্চ ঝুঁকি (গুঁড়ো)"
+},
+"hazardClassifications": [
+{
+"en": "Flammable Solid (Powder)",
+"bn": "দাহ্য কঠিন (গুঁড়ো)"
+},
+{
+"en": "Water-Reactive (Fine powder)",
+"bn": "জল-প্রতিক্রিয়াশীল (সূক্ষ্ম গুঁড়ো)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Aluminum is a very light, shiny metal. It doesn't rust easily, which is why we use it for soda cans, airplanes, and wrapping foil.",
+"bn": "অ্যালুমিনিয়াম একটি খুব হালকা, চকচকে ধাতু। এটি সহজে মরিচা ধরে না, যে কারণে আমরা এটি সোডার ক্যান, উড়োজাহাজ এবং মোড়কের ফয়েল তৈরিতে ব্যবহার করি।"
+},
+"advancedExplanation": {
+"en": "Aluminum is a reactive p-block metal that spontaneously passivates by forming a 4 nm-thick layer of aluminum oxide. This amphoteric nature allows it to resist ambient oxidation while being highly reactive in specific thermochemical and electrolytic conditions.",
+"bn": "অ্যালুমিনিয়াম একটি প্রতিক্রিয়াশীল পি-ব্লক ধাতু যা স্বতঃস্ফূর্তভাবে ৪ ন্যানোমিটার-পুরু অ্যালুমিনিয়াম অক্সাইডের একটি স্তর তৈরি করে প্যাসিভেট হয়। এই উপধর্মী প্রকৃতি এটিকে পরিবেষ্টনকারী জারণ প্রতিরোধ করতে দেয় যখন নির্দিষ্ট থার্মোকেমিক্যাল এবং ইলেক্ট্রোলাইটিক পরিস্থিতিতে অত্যন্ত প্রতিক্রিয়াশীল থাকে।"
+},
+"funFacts": [
+{
+"en": "In the mid-19th century, Napoleon III served his most honored guests with aluminum cutlery, while regular guests got gold and silver.",
+"bn": "১৯ শতকের মাঝামাঝি সময়ে, নেপোলিয়ন তৃতীয় তার সবচেয়ে সম্মানিত অতিথিদের অ্যালুমিনিয়াম কাটলারি দিয়ে খাবার পরিবেশন করেছিলেন, যেখানে সাধারণ অতিথিরা সোনা এবং রৌপ্য পেয়েছিলেন।"
+},
+{
+"en": "Sapphires and rubies are actually just aluminum oxide (corundum) with traces of titanium, iron, or chromium.",
+"bn": "নীলা এবং চুনি আসলে টাইটানিয়াম, লোহা বা ক্রোমিয়ামের সামান্য মিশ্রণ সহ অ্যালুমিনিয়াম অক্সাইড (কোরান্ডাম)।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 26,
+"relation": {
+"en": "Unlike Iron, which forms porous rust that flakes away, Aluminum forms a tight, non-flaking oxide seal that prevents further corrosion.",
+"bn": "লোহার বিপরীতে, যা ছিদ্রযুক্ত মরিচা তৈরি করে খসে পড়ে, অ্যালুমিনিয়াম একটি শক্ত, না-খসে-পড়া অক্সাইড সিল তৈরি করে যা আরও ক্ষয় রোধ করে।"
+}
+},
+{
+"compareWithId": 29,
+"relation": {
+"en": "Copper conducts electricity better, but Aluminum is much lighter, making it the preferred choice for overhead high-voltage lines.",
+"bn": "তামা বিদ্যুৎ ভালো পরিবহন করে, কিন্তু অ্যালুমিনিয়াম অনেক হালকা হওয়ায়, ওভারহেড হাই-ভোল্টেজ লাইনের জন্য এটিই পছন্দের।"
+}
+}
+],
+"relatedElements": [5, 14, 26, 29],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the most abundant metal in the Earth's crust?",
+"bn": "পৃথিবীর ভূত্বকের সবচেয়ে প্রচুর ধাতু কোনটি?"
+},
+"options": [
+{
+"en": "Iron",
+"bn": "লোহা"
+},
+{
+"en": "Aluminum",
+"bn": "অ্যালুমিনিয়াম"
+},
+{
+"en": "Copper",
+"bn": "তামা"
+},
+{
+"en": "Silicon",
+"bn": "সিলিকন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Aluminum makes up about 8.1% of the Earth's crust by mass, making it the most abundant metal (though Silicon is more abundant, it is a metalloid).",
+"bn": "অ্যালুমিনিয়াম ভর অনুসারে পৃথিবীর ভূত্বকের প্রায় ৮.১% তৈরি করে, যা এটিকে সর্বাধিক প্রচুর ধাতুতে পরিণত করে (যদিও সিলিকন বেশি প্রচুর, এটি একটি মেটালয়েড)।"
+}
+},
+{
+"question": {
+"en": "What is the primary ore from which commercial aluminum is extracted?",
+"bn": "প্রাথমিক আকরিক কোনটি যা থেকে বাণিজ্যিক অ্যালুমিনিয়াম নিষ্কাশন করা হয়?"
+},
+"options": [
+{
+"en": "Magnetite",
+"bn": "ম্যাগনেটাইট"
+},
+{
+"en": "Galena",
+"bn": "গ্যালেনা"
+},
+{
+"en": "Bauxite",
+"bn": "বক্সাইট"
+},
+{
+"en": "Rutile",
+"bn": "রুটাইল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Bauxite is a sedimentary rock with a relatively high aluminum content, making it the world's main source of aluminum.",
+"bn": "বক্সাইট একটি পাললিক শিলা যার তুলনামূলকভাবে উচ্চ অ্যালুমিনিয়াম সামগ্রী রয়েছে, যা এটিকে বিশ্বের প্রধান অ্যালুমিনিয়াম উৎস করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Which revolutionary process made the mass production of aluminum economically feasible?",
+"bn": "কোন যুগান্তকারী প্রক্রিয়া অ্যালুমিনিয়ামের ব্যাপক উৎপাদনকে অর্থনৈতিকভাবে সম্ভবপর করে তুলেছিল?"
+},
+"options": [
+{
+"en": "Haber-Bosch Process",
+"bn": "হ্যাবার-বোশ প্রক্রিয়া"
+},
+{
+"en": "Bessemer Process",
+"bn": "বেসিমার প্রক্রিয়া"
+},
+{
+"en": "Hall-Héroult Process",
+"bn": "হল-হেরোল্ট প্রক্রিয়া"
+},
+{
+"en": "Contact Process",
+"bn": "কন্টাক্ট প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Hall-Héroult process uses electrolysis to extract pure aluminum from alumina dissolved in molten cryolite.",
+"bn": "হল-হেরোল্ট প্রক্রিয়া গলিত ক্রায়োলাইটে দ্রবীভূত অ্যালুমিনা থেকে বিশুদ্ধ অ্যালুমিনিয়াম নিষ্কাশনের জন্য তড়িৎ বিশ্লেষণ ব্যবহার করে।"
+}
+},
+{
+"question": {
+"en": "Why does aluminum not rust like iron, despite being a highly reactive metal?",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল ধাতু হওয়া সত্ত্বেও, লোহার মতো অ্যালুমিনিয়ামে মরিচা ধরে না কেন?"
+},
+"options": [
+{
+"en": "It does not react with oxygen",
+"bn": "এটি অক্সিজেনের সাথে প্রতিক্রিয়া করে না"
+},
+{
+"en": "It forms a protective passivation layer of oxide",
+"bn": "এটি অক্সাইডের একটি প্রতিরক্ষামূলক প্যাসিভেশন স্তর গঠন করে"
+},
+{
+"en": "It is a noble metal",
+"bn": "এটি একটি নোবেল ধাতু"
+},
+{
+"en": "It constantly evaporates its outer layer",
+"bn": "এটি ক্রমাগত এর বাইরের স্তর বাষ্পীভূত করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Aluminum reacts instantly with air to form a tough, microscopic layer of Aluminum Oxide (Al2O3) that protects the interior metal.",
+"bn": "অ্যালুমিনিয়াম বাতাসের সাথে সাথে সাথে প্রতিক্রিয়া করে অ্যালুমিনিয়াম অক্সাইডের (Al2O3) একটি শক্ত, মাইক্রোস্কোপিক স্তর তৈরি করে যা অভ্যন্তরীণ ধাতুকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "Aluminum oxide (Al2O3) reacts with both acids and bases. What chemical term describes this property?",
+"bn": "অ্যালুমিনিয়াম অক্সাইড (Al2O3) অ্যাসিড এবং ক্ষার উভয়ের সাথেই বিক্রিয়া করে। কোন রাসায়নিক পরিভাষা এই বৈশিষ্ট্যকে বর্ণনা করে?"
+},
+"options": [
+{
+"en": "Allotropic",
+"bn": "অ্যালোট্রপিক"
+},
+{
+"en": "Isomeric",
+"bn": "আইসোমারিক"
+},
+{
+"en": "Amphoteric",
+"bn": "অ্যামফোটেরিক (উপধর্মী)"
+},
+{
+"en": "Hygroscopic",
+"bn": "হাইগ্রোস্কোপিক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Amphoteric substances can act as either an acid or a base depending on the environment.",
+"bn": "উপধর্মী (Amphoteric) পদার্থ পরিবেশের ওপর নির্ভর করে অ্যাসিড বা ক্ষার হিসেবে কাজ করতে পারে।"
+}
+},
+{
+"question": {
+"en": "In the highly exothermic Thermite reaction used for welding, aluminum powder reacts with what compound?",
+"bn": "ওয়েল্ডিংয়ের জন্য ব্যবহৃত অত্যন্ত তাপোৎপাদী থার্মাইট বিক্রিয়ায়, অ্যালুমিনিয়াম পাউডার কোন যৌগের সাথে বিক্রিয়া করে?"
+},
+"options": [
+{
+"en": "Magnesium Oxide",
+"bn": "ম্যাগনেসিয়াম অক্সাইড"
+},
+{
+"en": "Iron(III) Oxide",
+"bn": "আয়রন(III) অক্সাইড"
+},
+{
+"en": "Calcium Carbonate",
+"bn": "ক্যালসিয়াম কার্বনেট"
+},
+{
+"en": "Sodium Chloride",
+"bn": "সোডিয়াম ক্লোরাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Aluminum acts as a strong reducing agent, stripping oxygen from Iron(III) Oxide to produce molten iron and immense heat.",
+"bn": "অ্যালুমিনিয়াম একটি শক্তিশালী বিজারক এজেন্ট হিসাবে কাজ করে, আয়রন(III) অক্সাইড থেকে অক্সিজেন কেড়ে নিয়ে গলিত লোহা এবং প্রচুর তাপ উৎপন্ন করে।"
+}
+},
+{
+"question": {
+"en": "Approximately how much energy is saved by recycling aluminum compared to producing it from raw bauxite ore?",
+"bn": "কাঁচা বক্সাইট আকরিক থেকে অ্যালুমিনিয়াম উৎপাদনের তুলনায় পুনর্ব্যবহারযোগ্য (রিসাইক্লিং) অ্যালুমিনিয়ামে আনুমানিক কত শক্তি সাশ্রয় হয়?"
+},
+"options": [
+{
+"en": "20%",
+"bn": "২০%"
+},
+{
+"en": "50%",
+"bn": "৫০%"
+},
+{
+"en": "75%",
+"bn": "৭৫%"
+},
+{
+"en": "95%",
+"bn": "৯৫%"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Recycling aluminum avoids the extremely energy-intensive electrolysis step, saving 95% of the energy.",
+"bn": "অ্যালুমিনিয়াম পুনর্ব্যবহার অত্যন্ত শক্তি-নিবিড় তড়িৎ বিশ্লেষণ ধাপটি এড়িয়ে যায়, যা ৯৫% শক্তি সাশ্রয় করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial purpose of 'anodizing' aluminum?",
+"bn": "অ্যালুমিনিয়াম 'অ্যানোডাইজিং' এর প্রাথমিক শিল্প উদ্দেশ্য কী?"
+},
+"options": [
+{
+"en": "To make it magnetic",
+"bn": "এটিকে চৌম্বকীয় করতে"
+},
+{
+"en": "To artificially thicken its natural oxide layer for better protection",
+"bn": "ভাল সুরক্ষার জন্য কৃত্রিমভাবে এর প্রাকৃতিক অক্সাইড স্তরকে ঘন করতে"
+},
+{
+"en": "To increase its melting point",
+"bn": "এর গলনাঙ্ক বাড়াতে"
+},
+{
+"en": "To make it radioactive",
+"bn": "এটিকে তেজস্ক্রিয় করতে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Anodizing uses electrolysis to significantly increase the thickness of the aluminum oxide layer, making it highly durable and receptive to dyes.",
+"bn": "অ্যানোডাইজিং তড়িৎ বিশ্লেষণ ব্যবহার করে অ্যালুমিনিয়াম অক্সাইড স্তরের বেধ উল্লেখযোগ্যভাবে বৃদ্ধি করে, এটিকে অত্যন্ত টেকসই এবং রঙের প্রতি গ্রহণযোগ্য করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of Aluminum in the vast majority of its stable chemical compounds?",
+"bn": "এর বেশিরভাগ স্থিতিশীল রাসায়নিক যৌগে অ্যালুমিনিয়ামের ফর্মাল জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Aluminum has three valence electrons (3s² 3p¹) and readily loses all three to form a stable +3 ion.",
+"bn": "অ্যালুমিনিয়ামের তিনটি যোজ্যতা ইলেকট্রন (3s² 3p¹) রয়েছে এবং সহজেই একটি স্থিতিশীল +3 আয়ন গঠনের জন্য তিনটিই হারিয়ে ফেলে।"
+}
+},
+{
+"question": {
+"en": "Which famous alloy, composed primarily of aluminum with copper, magnesium, and manganese, was crucial for early aviation due to its high strength?",
+"bn": "কোন বিখ্যাত সংকর ধাতু, যা প্রধানত অ্যালুমিনিয়ামের সাথে তামা, ম্যাগনেসিয়াম এবং ম্যাঙ্গানিজ দ্বারা গঠিত, উচ্চ শক্তির কারণে প্রাথমিক বিমান চলাচলের জন্য অত্যন্ত গুরুত্বপূর্ণ ছিল?"
+},
+"options": [
+{
+"en": "Bronze",
+"bn": "ব্রোঞ্জ"
+},
+{
+"en": "Brass",
+"bn": "পিতল"
+},
+{
+"en": "Duralumin",
+"bn": "ডুরালুমিন"
+},
+{
+"en": "Invar",
+"bn": "ইনভার"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Duralumin undergoes precipitation hardening, making it significantly stronger than pure aluminum while retaining its low weight.",
+"bn": "ডুরালুমিন প্রিসিপিটেশন হার্ডেনিং প্রক্রিয়ার মধ্য দিয়ে যায়, যা এর কম ওজন বজায় রেখে এটিকে বিশুদ্ধ অ্যালুমিনিয়ামের চেয়ে উল্লেখযোগ্যভাবে শক্তিশালী করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Why is Aluminum preferred over Copper for long-distance overhead power transmission lines?",
+"bn": "দূরপাল্লার ওভারহেড পাওয়ার ট্রান্সমিশন লাইনের জন্য তামার চেয়ে অ্যালুমিনিয়াম কেন বেশি পছন্দ করা হয়?"
+},
+"options": [
+{
+"en": "It is a better absolute conductor than copper",
+"bn": "এটি তামার চেয়ে ভালো নিখুঁত পরিবাহী"
+},
+{
+"en": "It has a much better conductivity-to-weight ratio",
+"bn": "এর পরিবাহিতা-থেকে-ওজন অনুপাত অনেক ভালো"
+},
+{
+"en": "It glows in the dark",
+"bn": "এটি অন্ধকারে জ্বলে"
+},
+{
+"en": "It never melts",
+"bn": "এটি কখনও গলে না"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "While copper is more conductive, aluminum is so much lighter that a thicker aluminum wire weighs half as much as a copper wire of the same resistance, reducing the strain on transmission towers.",
+"bn": "যদিও তামা বেশি পরিবাহী, অ্যালুমিনিয়াম এতটাই হালকা যে একই রোধের তামার তারের তুলনায় একটি মোটা অ্যালুমিনিয়াম তারের ওজন অর্ধেক হয়, যা ট্রান্সমিশন টাওয়ারের ওপর চাপ কমায়।"
+}
+},
+{
+"question": {
+"en": "Which everyday personal care product heavily relies on aluminum compounds, such as aluminum chlorohydrate, to block sweat glands?",
+"bn": "ঘর্মগ্রন্থিগুলোকে অবরুদ্ধ করতে কোন দৈনন্দিন ব্যক্তিগত যত্নের পণ্যটি মূলত অ্যালুমিনিয়াম ক্লোরোহাইড্রেটের মতো অ্যালুমিনিয়াম যৌগগুলোর ওপর ব্যাপকভাবে নির্ভর করে?"
+},
+"options": [
+{
+"en": "Toothpaste",
+"bn": "টুথপেস্ট"
+},
+{
+"en": "Shampoo",
+"bn": "শ্যাম্পু"
+},
+{
+"en": "Antiperspirant",
+"bn": "অ্যান্টিপারস্পিরেন্ট"
+},
+{
+"en": "Sunscreen",
+"bn": "সানস্ক্রিন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Aluminum salts dissolve in sweat and temporarily plug the eccrine sweat glands.",
+"bn": "অ্যালুমিনিয়াম লবণ ঘামে দ্রবীভূত হয় এবং অস্থায়ীভাবে এক্রাইন ঘর্মগ্রন্থিগুলোকে অবরুদ্ধ করে।"
+}
+},
+{
+"question": {
+"en": "In solid rocket boosters, like those used on the Space Shuttle, what role does atomized aluminum powder play?",
+"bn": "স্পেস শাটলে ব্যবহৃত সলিড রকেট বুস্টারে, অ্যাটমাইজড অ্যালুমিনিয়াম পাউডার কী ভূমিকা পালন করে?"
+},
+"options": [
+{
+"en": "It cools the engine",
+"bn": "এটি ইঞ্জিনকে ঠান্ডা করে"
+},
+{
+"en": "It serves as the high-energy fuel",
+"bn": "এটি উচ্চ-শক্তির জ্বালানী হিসাবে কাজ করে"
+},
+{
+"en": "It is an oxidizer",
+"bn": "এটি একটি অক্সিডাইজার"
+},
+{
+"en": "It lubricates the nozzle",
+"bn": "এটি অগ্রভাগ লুব্রিকেট করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Aluminum powder burns intensely in the presence of an oxidizer (like ammonium perchlorate), providing the massive thrust needed to escape gravity.",
+"bn": "অ্যালুমিনিয়াম পাউডার একটি অক্সিডাইজারের (অ্যামোনিয়াম পারক্লোরেটের মতো) উপস্থিতিতে তীব্রভাবে পুড়ে যায়, যা মাধ্যাকর্ষণ এড়াতে প্রয়োজনীয় বিশাল থ্রাস্ট প্রদান করে।"
+}
+},
+{
+"question": {
+"en": "What is the specific crystal lattice structure of solid aluminum at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় কঠিন অ্যালুমিনিয়ামের নির্দিষ্ট স্ফটিক জালিকা গঠন কী?"
+},
+"options": [
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টারড কিউবিক (BCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টারড কিউবিক (FCC)"
+},
+{
+"en": "Simple cubic (SC)",
+"bn": "সিম্পল কিউবিক (SC)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Aluminum crystallizes in a face-centered cubic structure, which contributes to its high ductility and malleability.",
+"bn": "অ্যালুমিনিয়াম একটি ফেস-সেন্টারড কিউবিক বা পৃষ্ঠকেন্দ্রিক ঘনকাকার কাঠামোতে স্ফটিকিত হয়, যা এর উচ্চ নমনীয়তা এবং আঘাতসহনশীলতায় অবদান রাখে।"
+}
+},
+{
+"question": {
+"en": "When metallic aluminum dissolves in a strong aqueous base like Sodium Hydroxide (NaOH), what highly flammable gas is vigorously evolved?",
+"bn": "সোডিয়াম হাইড্রক্সাইড (NaOH) এর মতো শক্তিশালী জলীয় ক্ষারে ধাতব অ্যালুমিনিয়াম দ্রবীভূত হলে, কোন অত্যন্ত দাহ্য গ্যাস তীব্রভাবে নির্গত হয়?"
+},
+"options": [
+{
+"en": "Oxygen",
+"bn": "অক্সিজেন"
+},
+{
+"en": "Nitrogen",
+"bn": "নাইট্রোজেন"
+},
+{
+"en": "Hydrogen",
+"bn": "হাইড্রোজেন"
+},
+{
+"en": "Chlorine",
+"bn": "ক্লোরিন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The reaction produces sodium aluminate and releases hydrogen gas, which is a common method for generating hydrogen in laboratory settings.",
+"bn": "বিক্রিয়াটি সোডিয়াম অ্যালুমিনেট তৈরি করে এবং হাইড্রোজেন গ্যাস নির্গত করে, যা গবেষণাগারে হাইড্রোজেন তৈরির একটি সাধারণ পদ্ধতি।"
+}
+},
+{
+"question": {
+"en": "What is the complete set of quantum numbers (n, l, ml, ms) for the differentiating (last) valence electron of a neutral Aluminum atom?",
+"bn": "একটি নিরপেক্ষ অ্যালুমিনিয়াম পরমাণুর পার্থক্যকারী (শেষ) যোজ্যতা ইলেকট্রনের জন্য কোয়ান্টাম সংখ্যার (n, l, ml, ms) সম্পূর্ণ সেট কী?"
+},
+"options": [
+{
+"en": "(3, 0, 0, +1/2)",
+"bn": "(৩, ০, ০, +১/২)"
+},
+{
+"en": "(3, 1, -1, +1/2)",
+"bn": "(৩, ১, -১, +১/২)"
+},
+{
+"en": "(2, 1, -1, -1/2)",
+"bn": "(২, ১, -১, -১/২)"
+},
+{
+"en": "(4, 0, 0, +1/2)",
+"bn": "(৪, ০, ০, +১/২)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Aluminum's electron configuration ends in 3p¹. The principal shell is 3 (n=3), p-orbital is l=1, magnetic ml can be -1, and spin ms is +1/2.",
+"bn": "অ্যালুমিনিয়ামের ইলেকট্রন বিন্যাস 3p¹-এ শেষ হয়। প্রধান শেল হল 3 (n=3), p-অরবিটাল হল l=1, ম্যাগনেটিক ml হতে পারে -1 এবং স্পিন ms হল +1/2।"
+}
+},
+{
+"question": {
+"en": "At an extremely low temperature of exactly 1.2 Kelvin, aluminum undergoes what quantum mechanical phase transition?",
+"bn": "ঠিক ১.২ কেলভিনের অত্যন্ত নিম্ন তাপমাত্রায়, অ্যালুমিনিয়াম কোন কোয়ান্টাম যান্ত্রিক ফেজ ট্রানজিশনের মধ্য দিয়ে যায়?"
+},
+"options": [
+{
+"en": "It becomes a Bose-Einstein Condensate",
+"bn": "এটি বোস-আইনস্টাইন কনডেনসেটে পরিণত হয়"
+},
+{
+"en": "It becomes perfectly transparent",
+"bn": "এটি সম্পূর্ণ স্বচ্ছ হয়ে যায়"
+},
+{
+"en": "It becomes a superconductor",
+"bn": "এটি একটি সুপারকন্ডাক্টর হয়ে ওঠে"
+},
+{
+"en": "It evaporates into a vacuum",
+"bn": "এটি শূন্যতায় বাষ্পীভূত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "At its critical temperature of 1.2 K, aluminum's electrical resistance drops exactly to zero, making it a superconductor.",
+"bn": "১.২ K এর সমালোচনামূলক তাপমাত্রায়, অ্যালুমিনিয়ামের বৈদ্যুতিক প্রতিরোধ ঠিক শূন্যে নেমে যায়, যা এটিকে একটি সুপারকন্ডাক্টর করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What valuable gemstones are naturally occurring crystalline forms of aluminum oxide (corundum)?",
+"bn": "কোন মূল্যবান রত্নপাথরগুলো অ্যালুমিনিয়াম অক্সাইডের (কোরান্ডাম) প্রাকৃতিকভাবে সৃষ্ট স্ফটিক রূপ?"
+},
+"options": [
+{
+"en": "Diamonds and Graphite",
+"bn": "হীরা এবং গ্রাফাইট"
+},
+{
+"en": "Emeralds and Aquamarines",
+"bn": "পান্না এবং অ্যাকোয়ামেরিন"
+},
+{
+"en": "Rubies and Sapphires",
+"bn": "চুনি এবং নীলা"
+},
+{
+"en": "Opals and Pearls",
+"bn": "ওপাল এবং মুক্তা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Pure corundum is transparent. When chromium impurities are present, it forms red rubies. Titanium and iron impurities form blue sapphires.",
+"bn": "বিশুদ্ধ কোরান্ডাম স্বচ্ছ। ক্রোমিয়ামের খাদ উপস্থিত থাকলে এটি লাল চুনি তৈরি করে। টাইটানিয়াম এবং লোহার খাদ নীল নীলা তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "The Bayer process uses highly concentrated Sodium Hydroxide under heat and pressure to extract what intermediate product from raw bauxite?",
+"bn": "বায়ার প্রক্রিয়া তাপ এবং চাপের অধীনে অত্যন্ত ঘনীভূত সোডিয়াম হাইড্রক্সাইড ব্যবহার করে কাঁচা বক্সাইট থেকে কোন মধ্যবর্তী পণ্যটি নিষ্কাশন করে?"
+},
+"options": [
+{
+"en": "Pure Aluminum metal",
+"bn": "বিশুদ্ধ অ্যালুমিনিয়াম ধাতু"
+},
+{
+"en": "Alumina (Aluminum Oxide)",
+"bn": "অ্যালুমিনা (অ্যালুমিনিয়াম অক্সাইড)"
+},
+{
+"en": "Cryolite",
+"bn": "ক্রায়োলাইট"
+},
+{
+"en": "Aluminum Chloride",
+"bn": "অ্যালুমিনিয়াম ক্লোরাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The Bayer process chemically purifies the bauxite ore into white alumina powder (Al2O3), which is then sent to the Hall-Héroult smelting process.",
+"bn": "বায়ার প্রক্রিয়া বক্সাইট আকরিককে রাসায়নিকভাবে বিশুদ্ধ সাদা অ্যালুমিনা পাউডারে (Al2O3) রূপান্তরিত করে, যা পরে হল-হেরোল্ট গলন প্রক্রিয়ায় পাঠানো হয়।"
+}
+},
+{
+"question": {
+"en": "When a small amount of liquid Gallium is placed onto an Aluminum surface, what highly destructive effect occurs?",
+"bn": "যখন অ্যালুমিনিয়ামের পৃষ্ঠে অল্প পরিমাণ তরল গ্যালিয়াম রাখা হয়, তখন কোন অত্যন্ত ধ্বংসাত্মক প্রভাব ঘটে?"
+},
+"options": [
+{
+"en": "It instantly explodes",
+"bn": "এটি সাথে সাথে বিস্ফোরিত হয়"
+},
+{
+"en": "It turns the aluminum into glass",
+"bn": "এটি অ্যালুমিনিয়ামকে কাচে পরিণত করে"
+},
+{
+"en": "Gallium infiltrates the crystal boundaries, causing catastrophic structural failure (embrittlement)",
+"bn": "গ্যালিয়াম স্ফটিক সীমানায় প্রবেশ করে, যা বিপর্যয়কর কাঠামোগত ব্যর্থতার (ভঙ্গুরতা) কারণ হয়"
+},
+{
+"en": "It forms a super-strong alloy",
+"bn": "এটি একটি অতি-শক্তিশালী সংকর ধাতু তৈরি করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Liquid gallium destroys the protective oxide layer and infiltrates the aluminum's grain boundaries, rendering the metal as brittle as wet paper.",
+"bn": "তরল গ্যালিয়াম প্রতিরক্ষামূলক অক্সাইড স্তরটিকে ধ্বংস করে এবং অ্যালুমিনিয়ামের শস্য সীমানায় অনুপ্রবেশ করে, ধাতুকে ভেজা কাগজের মতো ভঙ্গুর করে তোলে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Cooking with aluminum foil will cause Alzheimer's disease (the link remains largely unsubstantiated by mainstream science).",
+"bn": "অ্যালুমিনিয়াম ফয়েল দিয়ে রান্না করলে আল্জ্হেইমের রোগ হবে (এই সংযোগ মূলত মূলধারার বিজ্ঞানের দ্বারা অপ্রমাণিত রয়ে গেছে)।"
+},
+{
+"en": "Tin foil and aluminum foil are the same thing (tin foil hasn't been widely used since World War II).",
+"bn": "টিন ফয়েল এবং অ্যালুমিনিয়াম ফয়েল একই জিনিস (দ্বিতীয় বিশ্বযুদ্ধের পর থেকে টিন ফয়েল ব্যাপকভাবে ব্যবহৃত হয়নি)।"
+}
+],
+"learningTips": [
+{
+"en": "Remember Al +3. It almost always gives up its 3 outer electrons. Also, associate it with airplanes (light and strong).",
+"bn": "Al +3 মনে রাখবেন। এটি প্রায় সর্বদা এর ৩টি বাইরের ইলেকট্রন ছেড়ে দেয়। এটিকে উড়োজাহাজের (হালকা এবং শক্তিশালী) সাথেও যুক্ত করুন।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Al + Fe₂O₃ → Al₂O₃ + 2Fe",
+"description": {
+"en": "The highly exothermic thermite reaction, producing molten iron.",
+"bn": "অত্যন্ত তাপোৎপাদী থার্মাইট বিক্রিয়া, যা গলিত লোহা তৈরি করে।"
+}
+},
+{
+"equation": "2Al + 2NaOH + 6H₂O → 2Na[Al(OH)₄] + 3H₂",
+"description": {
+"en": "Amphoteric reaction dissolving aluminum in a strong base to produce hydrogen gas.",
+"bn": "হাইড্রোজেন গ্যাস তৈরির জন্য শক্তিশালী ক্ষারে অ্যালুমিনিয়াম দ্রবীভূত করার উপধর্মী বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Al → Al³⁺ + 3e⁻",
+"description": {
+"en": "Standard oxidation half-reaction of aluminum.",
+"bn": "অ্যালুমিনিয়ামের স্ট্যান্ডার্ড জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Al³⁺ + 3e⁻ → Al",
+"description": {
+"en": "Reduction half-reaction, as occurs at the cathode during the Hall-Héroult process.",
+"bn": "বিজারণ অর্ধ-বিক্রিয়া, যেমনটি হল-হেরোল্ট প্রক্রিয়ার সময় ক্যাথোডে ঘটে।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic/Covalent Character",
+"bn": "আয়নিক/সমযোজী চরিত্র"
+},
+"molecule": "AlCl₃",
+"description": {
+"en": "Aluminum chloride exhibits significant covalent character, subliming at 178°C instead of melting, and existing as a dimer (Al₂Cl₆) in the gas phase.",
+"bn": "অ্যালুমিনিয়াম ক্লোরাইড উল্লেখযোগ্য সমযোজী চরিত্র প্রদর্শন করে, যা ১৭৮°C-এ গলে যাওয়ার পরিবর্তে সরাসরি গ্যাসে পরিণত হয় এবং গ্যাসীয় পর্যায়ে ডাইমার (Al₂Cl₆) হিসাবে বিদ্যমান থাকে।"
+}
+}
+]
+}
+}

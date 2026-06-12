@@ -1,0 +1,1021 @@
+{
+  "elementId": 47,
+  "basicInformation": {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "name": {
+      "en": "Silver",
+      "bn": "রূপা"
+    },
+    "pronunciation": {
+      "en": "/ˈsɪlvər/",
+      "bn": "সিল-ভার"
+    },
+    "atomicMass": 107.8682,
+    "category": {
+      "en": "Transition metal",
+      "bn": "ট্রানজিশন ধাতু"
+    },
+    "group": 11,
+    "period": 5,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Lustrous metallic white",
+      "bn": "চকচকে ধাতব সাদা"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Known to ancients",
+      "bn": "প্রাচীনকাল থেকে পরিচিত"
+    },
+    "discoveryYear": -5000,
+    "discoveryLocation": {
+      "en": "Anatolia / Mesopotamia",
+      "bn": "আনাতোলিয়া / মেসোপটেমিয়া"
+    },
+    "discoveryStory": {
+      "en": "One of the seven metals of antiquity, mined in Anatolia and Greece for millennia; central to monetary history.",
+      "bn": "প্রাচীনকালের সাতটি ধাতুর একটি, আনাতোলিয়া এবং গ্রিসে সহস্রাব্দ ধরে খনন করা হয়েছে; মুদ্রার ইতিহাসের কেন্দ্রবিন্দু।"
+    },
+    "historicalUses": {
+      "en": "Foundation of currency systems and photographic film (silver halide chemistry).",
+      "bn": "মুদ্রা ব্যবস্থা এবং ফটোগ্রাফিক ফিল্মের (সিলভার হ্যালাইড রসায়ন) ভিত্তি।"
+    },
+    "famousExperiments": {
+      "en": "Daguerre's 1839 photographic process using silver-iodide-coated copper plates.",
+      "bn": "ড্যাগেরের ১৮৩৯ সালের সিলভার-আয়োডাইড-প্রলেপিত তামার প্লেট ব্যবহার করে ফটোগ্রাফিক প্রক্রিয়া।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 47,
+    "neutrons": 61,
+    "electrons": 47,
+    "valenceElectrons": 1,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      18,
+      1
+    ],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s¹",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      3,
+      2,
+      1,
+      -1,
+      -2
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 10.49,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1234.93,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 2435,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 165,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 145,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 172,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 429,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 63000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.235,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 2.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "ফেস-সেন্টারড কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.93,
+    "ionizationEnergy": {
+      "value": 731.0,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 125.6,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Tarnishes in sulfur-containing air forming Ag₂S; otherwise highly noble.",
+      "bn": "সালফার-যুক্ত বাতাসে কালচে হয়ে Ag₂S গঠন করে; অন্যথায় অত্যন্ত নোবেল।"
+    },
+    "commonCompounds": [
+      "AgNO₃",
+      "AgCl",
+      "Ag₂O",
+      "AgBr"
+    ],
+    "flameTestColor": {
+      "en": "None",
+      "bn": "নেই"
+    },
+    "spectralLines": [
+      "328.07nm",
+      "338.29nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Silver has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "রূপা-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Silver or its compounds.",
+      "bn": "রূপা বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Silver-bearing alloys may be used in aerospace components.",
+      "bn": "রূপা-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Silver (symbol Ag) is element 47 in the periodic table.",
+      "bn": "রূপা (প্রতীক Ag) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Silver exhibits chemistry consistent with its position in group 11, period 5.",
+      "bn": "রূপা গ্রুপ 11, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Silver has fascinating properties tied to its electronic structure.",
+        "bn": "রূপা-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 46,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Silver shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, রূপা বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Silver?",
+          "bn": "রূপা-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "46",
+            "bn": "46"
+          },
+          {
+            "en": "47",
+            "bn": "47"
+          },
+          {
+            "en": "48",
+            "bn": "48"
+          },
+          {
+            "en": "49",
+            "bn": "49"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Silver has 47 protons in its nucleus.",
+          "bn": "রূপা-এর নিউক্লিয়াসে 47 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Silver?",
+          "bn": "রূপা-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Ag",
+            "bn": "Ag"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Ag.",
+          "bn": "প্রতীকটি হল Ag।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Silver belong?",
+          "bn": "রূপা কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Silver is classified as a transition metal.",
+          "bn": "রূপা-কে ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Silver reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে রূপা রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "10",
+            "bn": "10"
+          },
+          {
+            "en": "11",
+            "bn": "11"
+          },
+          {
+            "en": "12",
+            "bn": "12"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Silver sits in group 11.",
+          "bn": "রূপা গ্রুপ 11-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Silver reside?",
+          "bn": "রূপা পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Silver sits in period 5.",
+          "bn": "রূপা পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Silver?",
+          "bn": "রূপা-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d¹⁰ 5s¹",
+            "bn": "[Kr] 4d¹⁰ 5s¹"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d¹⁰ 5s¹.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d¹⁰ 5s¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Silver?",
+          "bn": "রূপা আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "Known to ancients",
+            "bn": "প্রাচীনকাল থেকে পরিচিত"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Known to ancients is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় প্রাচীনকাল থেকে পরিচিত-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Silver discovered?",
+          "bn": "রূপা কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "-5050",
+            "bn": "-5050"
+          },
+          {
+            "en": "-5000",
+            "bn": "-5000"
+          },
+          {
+            "en": "-4950",
+            "bn": "-4950"
+          },
+          {
+            "en": "-4900",
+            "bn": "-4900"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in -5000.",
+          "bn": "-5000 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Silver?",
+          "bn": "রূপা-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+3",
+            "bn": "+3"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +3.",
+          "bn": "প্রধান জারণ অবস্থা +3।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Silver?",
+          "bn": "রূপা-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "5.25 g/cm³",
+            "bn": "5.25 গ্রা/সেমি³"
+          },
+          {
+            "en": "10.490 g/cm³",
+            "bn": "10.490 গ্রা/সেমি³"
+          },
+          {
+            "en": "20.98 g/cm³",
+            "bn": "20.98 গ্রা/সেমি³"
+          },
+          {
+            "en": "41.96 g/cm³",
+            "bn": "41.96 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 10.490 g/cm³.",
+          "bn": "ঘনত্ব ≈ 10.490 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Silver (K)?",
+          "bn": "রূপা-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "617 K",
+            "bn": "617 K"
+          },
+          {
+            "en": "1234 K",
+            "bn": "1234 K"
+          },
+          {
+            "en": "2469 K",
+            "bn": "2469 K"
+          },
+          {
+            "en": "4939 K",
+            "bn": "4939 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 1234.93 K.",
+          "bn": "গলনাঙ্ক ≈ 1234.93 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Silver (K)?",
+          "bn": "রূপা-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "608 K",
+            "bn": "608 K"
+          },
+          {
+            "en": "1217 K",
+            "bn": "1217 K"
+          },
+          {
+            "en": "2435 K",
+            "bn": "2435 K"
+          },
+          {
+            "en": "4870 K",
+            "bn": "4870 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 2435 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 2435 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Silver?",
+          "bn": "রূপা-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "0.96",
+            "bn": "0.96"
+          },
+          {
+            "en": "1.93",
+            "bn": "1.93"
+          },
+          {
+            "en": "2.90",
+            "bn": "2.90"
+          },
+          {
+            "en": "3.86",
+            "bn": "3.86"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 1.93.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 1.93।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Silver (kJ/mol)?",
+          "bn": "রূপা-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "365",
+            "bn": "365"
+          },
+          {
+            "en": "731",
+            "bn": "731"
+          },
+          {
+            "en": "1462",
+            "bn": "1462"
+          },
+          {
+            "en": "2193",
+            "bn": "2193"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 731.0 kJ/mol.",
+          "bn": "প্রথম IE ≈ 731.0 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Silver belong to?",
+          "bn": "রূপা পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Silver is in the d-block.",
+          "bn": "রূপা d-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Silver have?",
+          "bn": "রূপা-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "0",
+            "bn": "০"
+          },
+          {
+            "en": "1",
+            "bn": "1"
+          },
+          {
+            "en": "2",
+            "bn": "2"
+          },
+          {
+            "en": "3",
+            "bn": "3"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "1 valence electrons.",
+          "bn": "1 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Silver's atomic mass (u)?",
+          "bn": "রূপা-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "53.93",
+            "bn": "53.93"
+          },
+          {
+            "en": "107.8682",
+            "bn": "107.8682"
+          },
+          {
+            "en": "161.80",
+            "bn": "161.80"
+          },
+          {
+            "en": "215.74",
+            "bn": "215.74"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 107.8682.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 107.8682।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Silver have?",
+          "bn": "রূপা-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "59",
+            "bn": "59"
+          },
+          {
+            "en": "61",
+            "bn": "61"
+          },
+          {
+            "en": "63",
+            "bn": "63"
+          },
+          {
+            "en": "65",
+            "bn": "65"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 61 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 61 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Silver adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন রূপা কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Face-centered cubic",
+            "bn": "ফেস-সেন্টারড কিউবিক"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Face-centered cubic lattice.",
+          "bn": "এটি ফেস-সেন্টারড কিউবিক জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Silver?",
+          "bn": "কক্ষ তাপমাত্রায়, রূপা কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Silver is a solid at STP.",
+          "bn": "STP-তে রূপা একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Silver?",
+          "bn": "রূপা ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "AgNO₃",
+            "bn": "AgNO₃"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "AgNO₃ is a common compound.",
+          "bn": "AgNO₃ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Silver addressed by modern chemistry.",
+        "bn": "রূপা সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Ag and atomic number, and its group/period.",
+        "bn": "প্রতীক Ag এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

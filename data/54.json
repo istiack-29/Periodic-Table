@@ -1,0 +1,271 @@
+{
+  "elementId": 54,
+  "basicInformation": {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "name": { "en": "Xenon", "bn": "জেনন" },
+    "pronunciation": { "en": "/ˈzɛnɒn/", "bn": "জেন-নন" },
+    "atomicMass": 131.293,
+    "category": { "en": "Noble gas", "bn": "নিষ্ক্রিয় গ্যাস" },
+    "group": 18,
+    "period": 5,
+    "block": "p",
+    "phase": { "en": "Gas", "bn": "গ্যাস" },
+    "appearance": { "en": "Colorless gas; exhibits blue glow when excited", "bn": "বর্ণহীন গ্যাস; উত্তেজিত হলে নীল দীপ্তি প্রদর্শন করে" },
+    "color": { "en": "Colorless", "bn": "বর্ণহীন" },
+    "radioactive": false,
+    "naturalOccurrence": { "en": "Primordial (trace atmospheric)", "bn": "আদিম (ট্রেস বায়ুমণ্ডলীয়)" }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": { "en": "William Ramsay and Morris Travers", "bn": "উইলিয়াম র‍্যামসে এবং মরিস ট্র্যাভার্স" },
+    "discoveryYear": 1898,
+    "discoveryLocation": { "en": "United Kingdom", "bn": "যুক্তরাজ্য" },
+    "discoveryStory": {
+      "en": "Ramsay and Travers isolated xenon as a residue from evaporating liquid air after removing nitrogen, oxygen, argon, krypton, and neon. Named from Greek 'xenos' meaning stranger.",
+      "bn": "র‍্যামসে এবং ট্র্যাভার্স নাইট্রোজেন, অক্সিজেন, আর্গন, ক্রিপ্টন এবং নিয়ন অপসারণের পরে তরল বায়ু বাষ্পীভূত করার অবশিষ্টাংশ হিসাবে জেননকে বিচ্ছিন্ন করেন। গ্রীক 'জেনোস' থেকে নামকরণ করা হয়েছে যার অর্থ অপরিচিত।"
+    },
+    "historicalUses": {
+      "en": "Initially regarded as inert; Neil Bartlett's 1962 synthesis of XePtF₆ overturned the dogma of noble-gas inertness.",
+      "bn": "প্রাথমিকভাবে নিষ্ক্রিয় হিসাবে বিবেচিত; নীল বার্টলেটের ১৯৬২ সালের XePtF₆ এর সংশ্লেষণ নিষ্ক্রিয় গ্যাসের নিষ্ক্রিয়তার মতবাদকে উল্টে দেয়।"
+    },
+    "famousExperiments": {
+      "en": "Bartlett's reaction of xenon with PtF₆ in 1962 produced the first noble gas compound, revolutionizing inorganic chemistry.",
+      "bn": "১৯৬২ সালে PtF₆ এর সাথে জেননের বার্টলেটের বিক্রিয়া প্রথম নিষ্ক্রিয় গ্যাস যৌগ উৎপন্ন করে, যা অজৈব রসায়নে বিপ্লব এনেছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 54,
+    "neutrons": 77,
+    "electrons": 54,
+    "valenceElectrons": 8,
+    "shells": 5,
+    "shellDistribution": [2, 8, 18, 18, 8],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁶",
+    "orbitalConfiguration": { "1s": 2, "2s": 2, "2p": 6, "3s": 2, "3p": 6, "3d": 10, "4s": 2, "4p": 6, "4d": 10, "5s": 2, "5p": 6 },
+    "oxidationStates": [0, 2, 4, 6, 8],
+    "quantumNumbers": { "principal": 5, "azimuthal": 1, "magnetic": 1, "spin": -0.5 }
+  },
+  "physicalProperties": {
+    "density": { "value": 0.005887, "unit": "g/cm³" },
+    "meltingPoint": { "value": 161.40, "unit": "K" },
+    "boilingPoint": { "value": 165.051, "unit": "K" },
+    "atomicRadius": { "value": 108, "unit": "pm" },
+    "covalentRadius": { "value": 140, "unit": "pm" },
+    "vanDerWaalsRadius": { "value": 216, "unit": "pm" },
+    "thermalConductivity": { "value": 0.00565, "unit": "W/(m·K)" },
+    "electricalConductivity": null,
+    "specificHeat": { "value": 0.158, "unit": "J/(g·K)" },
+    "hardness": null,
+    "crystalStructure": { "en": "Face-centered cubic (solid state)", "bn": "ফেস-সেন্টার্ড কিউবিক (কঠিন অবস্থায়)" },
+    "magneticOrdering": { "en": "Diamagnetic", "bn": "ডায়াম্যাগনেটিক" }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.60,
+    "ionizationEnergy": { "value": 1170.4, "unit": "kJ/mol" },
+    "electronAffinity": { "value": -77, "unit": "kJ/mol" },
+    "reactivity": {
+      "en": "Inert under normal conditions; forms compounds primarily with highly electronegative fluorine and oxygen.",
+      "bn": "স্বাভাবিক অবস্থায় নিষ্ক্রিয়; প্রাথমিকভাবে অত্যন্ত তড়িৎঋণাত্মক ফ্লোরিন এবং অক্সিজেনের সাথে যৌগ গঠন করে।"
+    },
+    "commonCompounds": ["XeF₂", "XeF₄", "XeF₆", "XeO₃", "XeO₄"],
+    "flameTestColor": { "en": "Blue-violet glow in discharge tube", "bn": "ডিসচার্জ টিউবে নীল-বেগুনি দীপ্তি" },
+    "spectralLines": ["462.43nm", "467.12nm", "473.42nm", "823.16nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Filling gas for high-intensity discharge (HID) and short-arc lamps in cinema projectors and IMAX.",
+      "bn": "সিনেমা প্রজেক্টর এবং IMAX এ উচ্চ-তীব্রতা ডিসচার্জ (HID) এবং শর্ট-আর্ক ল্যাম্পের জন্য পূরণ গ্যাস।"
+    },
+    "commercialUses": {
+      "en": "Xenon headlights in luxury vehicles; xenon flash lamps in cameras and high-speed strobes.",
+      "bn": "বিলাসবহুল যানবাহনে জেনন হেডলাইট; ক্যামেরা এবং উচ্চ-গতির স্ট্রোবে জেনন ফ্ল্যাশ ল্যাম্প।"
+    },
+    "electronicsUses": {
+      "en": "Plasma display panels and as an excimer lamp medium for deep-UV photolithography.",
+      "bn": "প্লাজমা ডিসপ্লে প্যানেল এবং ডিপ-ইউভি ফটোলিথোগ্রাফির জন্য এক্সাইমার ল্যাম্প মাধ্যম হিসেবে।"
+    },
+    "semiconductorUses": {
+      "en": "Xenon excimer lasers (Xe₂, XeCl, XeF) drive 193 nm and other UV lithography sources.",
+      "bn": "জেনন এক্সাইমার লেজার (Xe₂, XeCl, XeF) ১৯৩ এনএম এবং অন্যান্য ইউভি লিথোগ্রাফি উৎস চালায়।"
+    },
+    "aerospaceUses": {
+      "en": "Primary propellant in Hall-effect and ion thrusters powering deep-space probes like Dawn and BepiColombo.",
+      "bn": "হল-ইফেক্ট এবং আয়ন থ্রাস্টারে প্রাথমিক চালক যা ডন এবং বেপিকলম্বোর মতো গভীর-মহাকাশ অনুসন্ধানগুলিকে শক্তি দেয়।"
+    },
+    "batteryUses": {
+      "en": "Limited direct battery use; explored as cryogenic dielectric in specialized energy systems.",
+      "bn": "সীমিত সরাসরি ব্যাটারি ব্যবহার; বিশেষ শক্তি সিস্টেমে ক্রায়োজেনিক ডাইইলেক্ট্রিক হিসাবে অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Xe plasma etching critical in EUV mask production and high-aspect-ratio chip features for AI processors.",
+      "bn": "Xe প্লাজমা ইচিং EUV মাস্ক উৎপাদন এবং এআই প্রসেসরের জন্য উচ্চ-অ্যাসপেক্ট-অনুপাত চিপ বৈশিষ্ট্যগুলিতে গুরুত্বপূর্ণ।"
+    },
+    "renewableEnergyUses": {
+      "en": "Xenon-filled gas-discharge lamps used in solar simulators for PV module testing and qualification.",
+      "bn": "PV মডিউল পরীক্ষা এবং যোগ্যতার জন্য সৌর সিমুলেটরগুলিতে জেনন-পূর্ণ গ্যাস-ডিসচার্জ ল্যাম্প ব্যবহৃত হয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Xe ion beams (FIB) used for nanoscale milling and circuit edit in semiconductor failure analysis.",
+      "bn": "অর্ধপরিবাহী ব্যর্থতা বিশ্লেষণে ন্যানোস্কেল মিলিং এবং সার্কিট সম্পাদনার জন্য Xe আয়ন বিম (FIB) ব্যবহৃত হয়।"
+    },
+    "nuclearUses": {
+      "en": "Liquid xenon serves as a target/scintillator in dark matter detectors (LZ, XENONnT) and neutrino experiments.",
+      "bn": "তরল জেনন ডার্ক ম্যাটার ডিটেক্টর (LZ, XENONnT) এবং নিউট্রিনো পরীক্ষায় লক্ষ্য/সিনটিলেটর হিসাবে কাজ করে।"
+    },
+    "militaryUses": {
+      "en": "Used in IR countermeasure flares, decoy systems, and missile-tracking strobe beacons.",
+      "bn": "আইআর প্রতিরোধ ফ্লেয়ার, প্রতারণা সিস্টেম এবং ক্ষেপণাস্ত্র-ট্র্যাকিং স্ট্রোব বীকনে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "Xenon anesthesia provides rapid onset/recovery with neuroprotection; Xe-133 used in lung ventilation scans.",
+      "bn": "জেনন অ্যানেস্থেসিয়া নিউরোপ্রোটেকশন সহ দ্রুত সূচনা/পুনরুদ্ধার প্রদান করে; Xe-133 ফুসফুসের ভেন্টিলেশন স্ক্যানে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "No commercial food applications; non-toxic but cost-prohibitive at scale.",
+      "bn": "কোনো বাণিজ্যিক খাদ্য প্রয়োগ নেই; অ-বিষাক্ত কিন্তু স্কেলে ব্যয়বহুল।"
+    },
+    "constructionUses": {
+      "en": "Xenon-filled energy-efficient HID lighting deployed in tunnels, stadiums, and airports.",
+      "bn": "টানেল, স্টেডিয়াম এবং বিমানবন্দরে স্থাপন করা জেনন-পূর্ণ শক্তি-সাশ্রয়ী HID আলোকসজ্জা।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological role; demonstrates anesthetic and neuroprotective effects at clinical concentrations.",
+      "bn": "কোন পরিচিত জৈবিক ভূমিকা নেই; ক্লিনিকাল ঘনত্বে অ্যানেস্থেটিক এবং নিউরোপ্রোটেকটিভ প্রভাব প্রদর্শন করে।"
+    },
+    "humanBodyRole": {
+      "en": "Trace inhaled xenon binds NMDA receptors, producing anesthesia without significant cardiovascular depression.",
+      "bn": "ট্রেস নিঃশ্বাসিত জেনন NMDA রিসেপ্টরের সাথে আবদ্ধ হয়, উল্লেখযোগ্য কার্ডিওভাসকুলার বিষণ্নতা ছাড়াই অ্যানেস্থেসিয়া তৈরি করে।"
+    },
+    "toxicity": {
+      "en": "Non-toxic in normal use; can cause simple asphyxiation by displacing oxygen in enclosed spaces.",
+      "bn": "স্বাভাবিক ব্যবহারে অ-বিষাক্ত; আবদ্ধ স্থানে অক্সিজেন প্রতিস্থাপন করে সাধারণ শ্বাসরোধ ঘটাতে পারে।"
+    },
+    "environmentalImpact": {
+      "en": "Atmospheric concentration negligible (~0.087 ppm); no greenhouse or ozone effects.",
+      "bn": "বায়ুমণ্ডলীয় ঘনত্ব নগণ্য (~০.০৮৭ পিপিএম); কোন গ্রিনহাউস বা ওজোন প্রভাব নেই।"
+    },
+    "pollutionRisks": {
+      "en": "Xe-133 released from nuclear reactors and weapons tests is a tracer of nuclear activity.",
+      "bn": "পারমাণবিক চুল্লি এবং অস্ত্র পরীক্ষা থেকে নির্গত Xe-133 পারমাণবিক কার্যকলাপের একটি ট্রেসার।"
+    },
+    "recyclingMethods": {
+      "en": "Captured from semiconductor exhaust and anesthesia circuits via cryogenic adsorption.",
+      "bn": "ক্রায়োজেনিক শোষণের মাধ্যমে অর্ধপরিবাহী নিষ্কাশন এবং অ্যানেস্থেসিয়া সার্কিট থেকে ধারণ করা হয়।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      { "en": "United States", "bn": "যুক্তরাষ্ট্র" },
+      { "en": "France", "bn": "ফ্রান্স" },
+      { "en": "Russia", "bn": "রাশিয়া" }
+    ],
+    "miningMethods": {
+      "en": "Extracted by fractional distillation of liquefied air at industrial cryogenic air-separation units.",
+      "bn": "শিল্প ক্রায়োজেনিক বায়ু-পৃথকীকরণ ইউনিটে তরলীকৃত বাতাসের ভগ্নাংশ পাতন দ্বারা নিষ্কাশিত।"
+    },
+    "abundance": {
+      "universe": { "en": "Extremely rare (~10⁻⁹ by mass)", "bn": "অত্যন্ত বিরল (~১০⁻⁹ ভর অনুযায়ী)" },
+      "earthCrust": { "en": "Negligible", "bn": "নগণ্য" },
+      "oceans": { "en": "~5 × 10⁻¹¹ by mass", "bn": "~৫ × ১০⁻¹¹ ভর অনুযায়ী" }
+    },
+    "marketValue": {
+      "en": "Approximately $10 - $20 per liter (2024), spiked above $50/L during 2022 supply shock.",
+      "bn": "আনুমানিক প্রতি লিটার $১০ - $২০ (২০২৪), ২০২২ সরবরাহ ধাক্কার সময় $৫০/লিটারের উপরে বেড়েছিল।"
+    },
+    "futureDemand": {
+      "en": "Rising rapidly for satellite ion propulsion, EUV lithography, and anesthesia.",
+      "bn": "স্যাটেলাইট আয়ন প্রপালশন, EUV লিথোগ্রাফি এবং অ্যানেস্থেসিয়ার জন্য দ্রুত বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Critical for semiconductor manufacturing and space propulsion; pricing reflects geopolitical air-gas supply.",
+      "bn": "অর্ধপরিবাহী উত্পাদন এবং মহাকাশ প্রপালশনের জন্য গুরুত্বপূর্ণ; মূল্য ভূ-রাজনৈতিক বায়ু-গ্যাস সরবরাহ প্রতিফলিত করে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Inert and non-flammable but acts as an asphyxiant; high-pressure cylinders pose mechanical hazards.",
+      "bn": "নিষ্ক্রিয় এবং অ-দাহ্য কিন্তু শ্বাসরোধকারী হিসাবে কাজ করে; উচ্চ-চাপ সিলিন্ডার যান্ত্রিক বিপদ তৈরি করে।"
+    },
+    "storageRequirements": {
+      "en": "Store in high-pressure cylinders or cryogenic dewars in well-ventilated areas.",
+      "bn": "ভাল বায়ুচলাচলযুক্ত এলাকায় উচ্চ-চাপ সিলিন্ডার বা ক্রায়োজেনিক ডিউয়ারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use oxygen monitors, pressure regulators, and proper PPE for cryogenic handling.",
+      "bn": "অক্সিজেন মনিটর, চাপ নিয়ন্ত্রক এবং ক্রায়োজেনিক হ্যান্ডলিংয়ের জন্য সঠিক PPE ব্যবহার করুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of pure Xe causes voice deepening and asphyxiation; cryogenic burns possible.",
+      "bn": "বিশুদ্ধ Xe শ্বাস গ্রহণ কণ্ঠস্বর গভীর করা এবং শ্বাসরোধ ঘটায়; ক্রায়োজেনিক পোড়া সম্ভব।"
+    },
+    "safetyLevel": { "en": "Low Risk", "bn": "কম ঝুঁকি" },
+    "hazardClassifications": [
+      { "en": "Compressed Gas", "bn": "সংকুচিত গ্যাস" },
+      { "en": "Simple Asphyxiant", "bn": "সাধারণ শ্বাসরোধকারী" }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Xenon is a rare noble gas used in bright lamps, anesthesia, and the ion engines that propel deep-space probes.",
+      "bn": "জেনন একটি বিরল নিষ্ক্রিয় গ্যাস যা উজ্জ্বল ল্যাম্প, অ্যানেস্থেসিয়া এবং আয়ন ইঞ্জিনে ব্যবহৃত হয় যা গভীর-মহাকাশ অনুসন্ধানগুলিকে চালিত করে।"
+    },
+    "advancedExplanation": {
+      "en": "A heavy noble gas whose large polarizable electron cloud allows formation of true compounds with F and O. Liquid xenon serves as a superb scintillator for rare-event detection in particle physics and dark matter searches.",
+      "bn": "একটি ভারী নিষ্ক্রিয় গ্যাস যার বৃহৎ পোলারাইজযোগ্য ইলেকট্রন মেঘ F এবং O এর সাথে প্রকৃত যৌগ গঠনের অনুমতি দেয়। তরল জেনন কণা পদার্থবিদ্যা এবং ডার্ক ম্যাটার অনুসন্ধানে বিরল-ইভেন্ট সনাক্তকরণের জন্য একটি চমৎকার সিনটিলেটর হিসাবে কাজ করে।"
+    },
+    "funFacts": [
+      { "en": "Inhaling xenon deepens your voice — the opposite of helium's chipmunk effect.", "bn": "জেনন শ্বাস গ্রহণ আপনার কণ্ঠস্বর গভীর করে — হিলিয়ামের চিপমাঙ্ক প্রভাবের বিপরীত।" },
+      { "en": "NASA's Dawn spacecraft visited Vesta and Ceres powered entirely by xenon ion engines.", "bn": "NASA এর ডন মহাকাশযান সম্পূর্ণরূপে জেনন আয়ন ইঞ্জিন দ্বারা চালিত ভেস্তা এবং সেরেস পরিদর্শন করেছিল।" }
+    ],
+    "comparisons": [
+      { "compareWithId": 36, "relation": { "en": "Both xenon and krypton are heavy noble gases, but xenon's larger size allows it to form many more stable compounds.", "bn": "জেনন এবং ক্রিপ্টন উভয়ই ভারী নিষ্ক্রিয় গ্যাস, তবে জেননের বৃহত্তর আকার এটিকে আরও অনেক স্থিতিশীল যৌগ গঠনের অনুমতি দেয়।" } }
+    ],
+    "relatedElements": [10, 18, 36, 86],
+    "quizQuestions": [
+      { "question": { "en": "What is the chemical symbol for xenon?", "bn": "জেননের রাসায়নিক প্রতীক কী?" }, "options": [{ "en": "Xe", "bn": "Xe" }, { "en": "Xn", "bn": "Xn" }, { "en": "Xo", "bn": "Xo" }, { "en": "X", "bn": "X" }], "correctOptionIndex": 0, "explanation": { "en": "Xe is the two-letter symbol for xenon.", "bn": "Xe হল জেননের দুই-অক্ষরের প্রতীক।" } },
+      { "question": { "en": "Who synthesized the first noble gas compound in 1962?", "bn": "১৯৬২ সালে কে প্রথম নিষ্ক্রিয় গ্যাস যৌগ সংশ্লেষ করেছিলেন?" }, "options": [{ "en": "William Ramsay", "bn": "উইলিয়াম র‍্যামসে" }, { "en": "Neil Bartlett", "bn": "নীল বার্টলেট" }, { "en": "Linus Pauling", "bn": "লিনাস পলিং" }, { "en": "Glenn Seaborg", "bn": "গ্লেন সিবর্গ" }], "correctOptionIndex": 1, "explanation": { "en": "Bartlett produced XePtF₆, shattering the 'inert gas' dogma.", "bn": "বার্টলেট XePtF₆ উৎপন্ন করেছিলেন, 'নিষ্ক্রিয় গ্যাস' মতবাদকে ভেঙে ফেলেছিলেন।" } },
+      { "question": { "en": "Xenon is most commonly extracted by:", "bn": "জেনন সবচেয়ে সাধারণভাবে নিষ্কাশিত হয়:" }, "options": [{ "en": "Mining ore", "bn": "আকরিক খনন" }, { "en": "Fractional distillation of liquefied air", "bn": "তরলীকৃত বায়ুর ভগ্নাংশ পাতন" }, { "en": "Electrolysis of brine", "bn": "ব্রাইনের তড়িৎ বিশ্লেষণ" }, { "en": "Nuclear fission", "bn": "পারমাণবিক বিভাজন" }], "correctOptionIndex": 1, "explanation": { "en": "Air contains ~0.087 ppm Xe and is the only practical source.", "bn": "বাতাসে ~০.০৮৭ পিপিএম Xe রয়েছে এবং এটি একমাত্র ব্যবহারিক উৎস।" } },
+      { "question": { "en": "Xenon ion thrusters use xenon primarily because it is:", "bn": "জেনন আয়ন থ্রাস্টার প্রাথমিকভাবে জেনন ব্যবহার করে কারণ এটি:" }, "options": [{ "en": "Cheap and abundant", "bn": "সস্তা এবং প্রচুর" }, { "en": "Heavy, easily ionized, and inert", "bn": "ভারী, সহজে আয়নাইজযোগ্য এবং নিষ্ক্রিয়" }, { "en": "Magnetic", "bn": "চৌম্বকীয়" }, { "en": "Radioactive", "bn": "তেজস্ক্রিয়" }], "correctOptionIndex": 1, "explanation": { "en": "High atomic mass produces high specific impulse; easy ionization simplifies thruster design.", "bn": "উচ্চ পারমাণবিক ভর উচ্চ নির্দিষ্ট আবেগ উৎপন্ন করে; সহজ আয়নীকরণ থ্রাস্টার নকশা সরল করে।" } },
+      { "question": { "en": "Liquid xenon detectors are central to which scientific search?", "bn": "তরল জেনন ডিটেক্টর কোন বৈজ্ঞানিক অনুসন্ধানের কেন্দ্রবিন্দু?" }, "options": [{ "en": "Gravitational waves", "bn": "মহাকর্ষীয় তরঙ্গ" }, { "en": "Direct detection of dark matter (WIMPs)", "bn": "ডার্ক ম্যাটারের সরাসরি সনাক্তকরণ (WIMP)" }, { "en": "Cosmic background radiation", "bn": "মহাজাগতিক পটভূমি বিকিরণ" }, { "en": "Antimatter", "bn": "অ্যান্টিম্যাটার" }], "correctOptionIndex": 1, "explanation": { "en": "XENONnT and LZ use multi-tonne Xe TPCs to seek WIMP scattering events.", "bn": "XENONnT এবং LZ WIMP স্ক্যাটারিং ইভেন্ট অনুসন্ধান করতে মাল্টি-টন Xe TPC ব্যবহার করে।" } },
+      { "question": { "en": "Which excimer laser uses xenon for deep-UV photolithography?", "bn": "ডিপ-ইউভি ফটোলিথোগ্রাফির জন্য কোন এক্সাইমার লেজার জেনন ব্যবহার করে?" }, "options": [{ "en": "Nd:YAG", "bn": "Nd:YAG" }, { "en": "ArF (193 nm)", "bn": "ArF (১৯৩ এনএম)" }, { "en": "CO₂", "bn": "CO₂" }, { "en": "HeNe", "bn": "HeNe" }], "correctOptionIndex": 1, "explanation": { "en": "While ArF dominates 193 nm, XeCl (308 nm) and XeF (351 nm) excimers are widely used in materials processing and DUV lithography development.", "bn": "যখন ArF ১৯৩ এনএম এ আধিপত্য বিস্তার করে, XeCl (৩০৮ এনএম) এবং XeF (৩৫১ এনএম) এক্সাইমার পদার্থ প্রক্রিয়াকরণ এবং DUV লিথোগ্রাফি উন্নয়নে ব্যাপকভাবে ব্যবহৃত হয়।" } },
+      { "question": { "en": "Xenon belongs to which family of elements?", "bn": "জেনন কোন উপাদান পরিবারের অন্তর্ভুক্ত?" }, "options": [{ "en": "Halogens", "bn": "হ্যালোজেন" }, { "en": "Alkali metals", "bn": "ক্ষারীয় ধাতু" }, { "en": "Noble (inert) gases", "bn": "নিষ্ক্রিয় গ্যাস" }, { "en": "Transition metals", "bn": "ট্রানজিশন ধাতু" }], "correctOptionIndex": 2, "explanation": { "en": "Group 18 noble gases have full valence shells.", "bn": "গ্রুপ ১৮ নিষ্ক্রিয় গ্যাসের সম্পূর্ণ ভ্যালেন্স শেল রয়েছে।" } },
+      { "question": { "en": "What anesthetic property makes xenon medically attractive despite high cost?", "bn": "উচ্চ মূল্য সত্ত্বেও জেননকে চিকিৎসাগতভাবে আকর্ষণীয় করে তোলে কোন অ্যানেস্থেটিক বৈশিষ্ট্য?" }, "options": [{ "en": "Long induction time", "bn": "দীর্ঘ ইনডাকশন সময়" }, { "en": "Rapid onset, fast recovery, neuroprotection, cardiovascular stability", "bn": "দ্রুত সূচনা, দ্রুত পুনরুদ্ধার, নিউরোপ্রোটেকশন, কার্ডিওভাসকুলার স্থিতিশীলতা" }, { "en": "Strong addiction potential", "bn": "শক্তিশালী আসক্তির সম্ভাবনা" }, { "en": "Greenhouse warming", "bn": "গ্রিনহাউস উষ্ণায়ন" }], "correctOptionIndex": 1, "explanation": { "en": "Xenon offers near-ideal anesthetic properties with minimal side effects.", "bn": "জেনন ন্যূনতম পার্শ্ব প্রতিক্রিয়া সহ প্রায়-আদর্শ অ্যানেস্থেটিক বৈশিষ্ট্য সরবরাহ করে।" } },
+      { "question": { "en": "Inhaling xenon affects voice pitch how?", "bn": "জেনন শ্বাস গ্রহণ কীভাবে কণ্ঠস্বরের পিচ প্রভাবিত করে?" }, "options": [{ "en": "Makes voice higher (like helium)", "bn": "কণ্ঠস্বরকে উচ্চতর করে (হিলিয়ামের মতো)" }, { "en": "Makes voice deeper because Xe is denser than air", "bn": "কণ্ঠস্বরকে গভীর করে কারণ Xe বাতাসের চেয়ে ঘন" }, { "en": "No effect", "bn": "কোন প্রভাব নেই" }, { "en": "Causes silence", "bn": "নীরবতা সৃষ্টি করে" }], "correctOptionIndex": 1, "explanation": { "en": "Sound travels slower in dense Xe, lowering vocal resonant frequencies.", "bn": "ঘন Xe তে শব্দ ধীরে ভ্রমণ করে, কণ্ঠের অনুরণিত ফ্রিকোয়েন্সি কমায়।" } },
+      { "question": { "en": "Xenon difluoride (XeF₂) is shaped:", "bn": "জেনন ডিফ্লুরাইড (XeF₂) আকৃতির:" }, "options": [{ "en": "Bent", "bn": "বাঁকানো" }, { "en": "Linear", "bn": "লিনিয়ার" }, { "en": "Trigonal planar", "bn": "ট্রাইগোনাল প্ল্যানার" }, { "en": "Tetrahedral", "bn": "টেট্রাহেড্রাল" }], "correctOptionIndex": 1, "explanation": { "en": "VSEPR predicts AX₂E₃ → linear geometry with three lone pairs equatorial.", "bn": "VSEPR AX₂E₃ → লিনিয়ার জ্যামিতির পূর্বাভাস দেয় যেখানে তিনটি একক জোড়া বিষুবীয়।" } },
+      { "question": { "en": "Approximate atmospheric concentration of xenon is:", "bn": "জেননের আনুমানিক বায়ুমণ্ডলীয় ঘনত্ব:" }, "options": [{ "en": "21%", "bn": "২১%" }, { "en": "0.9%", "bn": "০.৯%" }, { "en": "0.087 ppm", "bn": "০.০৮৭ পিপিএম" }, { "en": "10%", "bn": "১০%" }], "correctOptionIndex": 2, "explanation": { "en": "Xenon is the rarest stable noble gas in Earth's atmosphere.", "bn": "জেনন পৃথিবীর বায়ুমণ্ডলে বিরলতম স্থিতিশীল নিষ্ক্রিয় গ্যাস।" } },
+      { "question": { "en": "Xenon flash lamps are typically used in:", "bn": "জেনন ফ্ল্যাশ ল্যাম্প সাধারণত ব্যবহৃত হয়:" }, "options": [{ "en": "Tungsten incandescent bulbs", "bn": "টংস্টেন ইনক্যানডেসেন্ট বাল্ব" }, { "en": "Camera flashes and high-power solid-state laser pumping", "bn": "ক্যামেরা ফ্ল্যাশ এবং উচ্চ-শক্তি সলিড-স্টেট লেজার পাম্পিং" }, { "en": "Microwave ovens", "bn": "মাইক্রোওয়েভ ওভেন" }, { "en": "Cathode ray tubes", "bn": "ক্যাথোড রে টিউব" }], "correctOptionIndex": 1, "explanation": { "en": "Xe produces broadband white light ideal for photography and laser pumping.", "bn": "Xe ফটোগ্রাফি এবং লেজার পাম্পিংয়ের জন্য আদর্শ ব্রডব্যান্ড সাদা আলো উৎপন্ন করে।" } },
+      { "question": { "en": "The discharge color of xenon in a gas tube is:", "bn": "একটি গ্যাস টিউবে জেননের ডিসচার্জ রঙ:" }, "options": [{ "en": "Red", "bn": "লাল" }, { "en": "Green", "bn": "সবুজ" }, { "en": "Blue-violet", "bn": "নীল-বেগুনি" }, { "en": "Yellow", "bn": "হলুদ" }], "correctOptionIndex": 2, "explanation": { "en": "Xenon emits a characteristic blue-violet glow under electrical excitation.", "bn": "জেনন বৈদ্যুতিক উত্তেজনার অধীনে একটি বৈশিষ্ট্যপূর্ণ নীল-বেগুনি দীপ্তি নির্গত করে।" } },
+      { "question": { "en": "Which xenon compound is the highest known oxidation state?", "bn": "কোন জেনন যৌগ সর্বোচ্চ পরিচিত জারণ অবস্থা?" }, "options": [{ "en": "XeF₂", "bn": "XeF₂" }, { "en": "XeF₄", "bn": "XeF₄" }, { "en": "XeF₆", "bn": "XeF₆" }, { "en": "XeO₄ (+8)", "bn": "XeO₄ (+৮)" }], "correctOptionIndex": 3, "explanation": { "en": "Xenon achieves +8 in XeO₄ and perxenate anion XeO₆⁴⁻.", "bn": "জেনন XeO₄ এবং পারজেনেট অ্যানিয়ন XeO₆⁴⁻ এ +৮ অর্জন করে।" } },
+      { "question": { "en": "Xe-135 in nuclear reactors is significant because it is a strong:", "bn": "পারমাণবিক চুল্লিতে Xe-135 গুরুত্বপূর্ণ কারণ এটি একটি শক্তিশালী:" }, "options": [{ "en": "Neutron absorber (reactor poison)", "bn": "নিউট্রন শোষক (চুল্লি বিষ)" }, { "en": "Fuel", "bn": "জ্বালানি" }, { "en": "Moderator", "bn": "মডারেটর" }, { "en": "Reflector", "bn": "প্রতিফলক" }], "correctOptionIndex": 0, "explanation": { "en": "Xe-135's huge thermal-neutron cross-section can shut down reactors after shutdown ('xenon poisoning').", "bn": "Xe-135 এর বিশাল তাপীয়-নিউট্রন ক্রস-সেকশন বন্ধ হওয়ার পরে চুল্লি বন্ধ করতে পারে ('জেনন বিষক্রিয়া')।" } },
+      { "question": { "en": "Xenon is named from the Greek word meaning:", "bn": "জেনন গ্রীক শব্দ থেকে নামকরণ করা হয়েছে যার অর্থ:" }, "options": [{ "en": "Bright", "bn": "উজ্জ্বল" }, { "en": "Hidden", "bn": "লুকানো" }, { "en": "Stranger", "bn": "অপরিচিত" }, { "en": "Heavy", "bn": "ভারী" }], "correctOptionIndex": 2, "explanation": { "en": "Greek 'xenos' (stranger), reflecting its rare and unusual nature.", "bn": "গ্রীক 'জেনোস' (অপরিচিত), এর বিরল এবং অস্বাভাবিক প্রকৃতি প্রতিফলিত করে।" } },
+      { "question": { "en": "Xenon's first ionization energy compared to other noble gases:", "bn": "অন্যান্য নিষ্ক্রিয় গ্যাসের তুলনায় জেননের প্রথম আয়নীকরণ শক্তি:" }, "options": [{ "en": "Highest in the group", "bn": "গ্রুপে সর্বোচ্চ" }, { "en": "Second lowest after radon", "bn": "রেডনের পরে দ্বিতীয় সর্বনিম্ন" }, { "en": "Equal to helium's", "bn": "হিলিয়ামের সমান" }, { "en": "Negative", "bn": "ঋণাত্মক" }], "correctOptionIndex": 1, "explanation": { "en": "Ionization energy drops down group 18; Xe is only above Rn.", "bn": "গ্রুপ ১৮ এর নিচে আয়নীকরণ শক্তি কমে যায়; Xe শুধুমাত্র Rn এর উপরে।" } },
+      { "question": { "en": "What technology relies on xenon plasma in EUV chip-making?", "bn": "EUV চিপ-তৈরিতে জেনন প্লাজমার উপর কোন প্রযুক্তি নির্ভর করে?" }, "options": [{ "en": "Photoresist coating", "bn": "ফটোরেজিস্ট আবরণ" }, { "en": "Plasma etching and source pre-pulse", "bn": "প্লাজমা ইচিং এবং উৎস প্রি-পালস" }, { "en": "Wire bonding", "bn": "তার বন্ডিং" }, { "en": "Chemical mechanical polishing", "bn": "রাসায়নিক যান্ত্রিক পলিশিং" }], "correctOptionIndex": 1, "explanation": { "en": "Xe plasma is used for etching and supporting Sn-droplet EUV light sources.", "bn": "Xe প্লাজমা ইচিং এবং Sn-ড্রপলেট EUV আলো উৎস সমর্থনের জন্য ব্যবহৃত হয়।" } },
+      { "question": { "en": "Xenon hexafluoride (XeF₆) has what notable structural feature?", "bn": "জেনন হেক্সাফ্লুরাইডের (XeF₆) উল্লেখযোগ্য কাঠামোগত বৈশিষ্ট্য কী?" }, "options": [{ "en": "Perfect octahedron", "bn": "নিখুঁত অষ্টহেড্রন" }, { "en": "Distorted geometry due to a stereoactive lone pair", "bn": "একটি স্টেরিওঅ্যাকটিভ একক জোড়ার কারণে বিকৃত জ্যামিতি" }, { "en": "Linear chain", "bn": "লিনিয়ার চেইন" }, { "en": "Trigonal planar", "bn": "ট্রাইগোনাল প্ল্যানার" }], "correctOptionIndex": 1, "explanation": { "en": "XeF₆ violates simple VSEPR with a fluxional distorted octahedral structure due to a 7th valence pair.", "bn": "XeF₆ একটি ৭ম ভ্যালেন্স জোড়ার কারণে একটি প্রবাহিত বিকৃত অষ্টহেড্রাল কাঠামোর সাথে সরল VSEPR লঙ্ঘন করে।" } },
+      { "question": { "en": "Xenon costs spiked sharply in 2022 mainly because:", "bn": "জেননের খরচ ২০২২ সালে তীব্রভাবে বেড়েছিল মূলত কারণ:" }, "options": [{ "en": "Increased demand for balloons", "bn": "বেলুনের বর্ধিত চাহিদা" }, { "en": "Disruption of Ukrainian noble-gas supply during war", "bn": "যুদ্ধের সময় ইউক্রেনীয় নিষ্ক্রিয় গ্যাস সরবরাহ ব্যাহত" }, { "en": "New mine discovery", "bn": "নতুন খনি আবিষ্কার" }, { "en": "Decreased chip demand", "bn": "চিপ চাহিদা হ্রাস" }], "correctOptionIndex": 1, "explanation": { "en": "Ukraine supplied a major share of global semiconductor-grade noble gases prior to 2022.", "bn": "২০২২ এর আগে ইউক্রেন বৈশ্বিক অর্ধপরিবাহী-গ্রেড নিষ্ক্রিয় গ্যাসের একটি প্রধান অংশ সরবরাহ করেছিল।" } }
+    ],
+    "misconceptions": [
+      { "en": "Noble gases never form compounds — actually Xe forms many stable fluorides and oxides.", "bn": "নিষ্ক্রিয় গ্যাস কখনোই যৌগ গঠন করে না — আসলে Xe অনেক স্থিতিশীল ফ্লোরাইড এবং অক্সাইড গঠন করে।" }
+    ],
+    "learningTips": [
+      { "en": "Remember: Xe = heavy noble gas, blue glow, drives ion thrusters & dark-matter detectors.", "bn": "মনে রাখুন: Xe = ভারী নিষ্ক্রিয় গ্যাস, নীল দীপ্তি, আয়ন থ্রাস্টার এবং ডার্ক ম্যাটার ডিটেক্টরকে চালায়।" }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      { "equation": "Xe + 2F₂ → XeF₄", "description": { "en": "Direct fluorination of xenon at 400°C yields xenon tetrafluoride.", "bn": "৪০০°C তে জেননের সরাসরি ফ্লোরিনেশন জেনন টেট্রাফ্লুরাইড উৎপন্ন করে।" } },
+      { "equation": "XeF₆ + 3H₂O → XeO₃ + 6HF", "description": { "en": "Hydrolysis of xenon hexafluoride producing explosive xenon trioxide.", "bn": "জেনন হেক্সাফ্লুরাইডের জলবিশ্লেষণ বিস্ফোরক জেনন ট্রাইঅক্সাইড উৎপন্ন করে।" } }
+    ],
+    "oxidationExamples": [
+      { "equation": "Xe → Xe²⁺ + 2e⁻", "description": { "en": "Removal of two electrons in XeF₂ formation (formal Xe(II) state).", "bn": "XeF₂ গঠনে দুটি ইলেকট্রন অপসারণ (ফর্মাল Xe(II) অবস্থা)।" } }
+    ],
+    "reductionExamples": [
+      { "equation": "XeF₂ + H₂ → Xe + 2HF", "description": { "en": "Hydrogen reduces xenon difluoride back to elemental xenon.", "bn": "হাইড্রোজেন জেনন ডিফ্লুরাইডকে মৌলিক জেননে ফিরিয়ে আনে।" } }
+    ],
+    "bondingExamples": [
+      { "bondType": { "en": "Polar Covalent Bond", "bn": "পোলার সমযোজী বন্ধন" }, "molecule": "XeF₄", "description": { "en": "Xenon forms four polar covalent bonds with fluorine in a square-planar geometry with two lone pairs.", "bn": "জেনন দুটি একক জোড়া সহ একটি বর্গ-সমতল জ্যামিতিতে ফ্লোরিনের সাথে চারটি পোলার সমযোজী বন্ধন গঠন করে।" } }
+    ]
+  }
+}

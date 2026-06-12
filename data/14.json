@@ -1,0 +1,1008 @@
+{
+"elementId": 14,
+"basicInformation": {
+"atomicNumber": 14,
+"symbol": "Si",
+"name": {
+"en": "Silicon",
+"bn": "সিলিকন"
+},
+"pronunciation": {
+"en": "/ˈsɪlɪkən/",
+"bn": "সি-লি-কন"
+},
+"atomicMass": 28.085,
+"category": {
+"en": "Metalloid",
+"bn": "অপধাতু (অর্ধধাতু)"
+},
+"group": 14,
+"period": 3,
+"block": "p",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Crystalline, reflective with bluish-tinged faces",
+"bn": "স্ফটিকাকার, নীলাভ আভা যুক্ত প্রতিফলক পৃষ্ঠ"
+},
+"color": {
+"en": "Bluish-grey",
+"bn": "নীলাভ-ধূসর"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Jöns Jacob Berzelius",
+"bn": "জন্স জ্যাকব বার্জেলিয়াস"
+},
+"discoveryYear": 1824,
+"discoveryLocation": {
+"en": "Sweden",
+"bn": "সুইডেন"
+},
+"discoveryStory": {
+"en": "Antoine Lavoisier first suspected that silica contained a fundamental element. Humphry Davy coined the name 'silicium', but it was Berzelius who first prepared amorphous silicon by washing it to remove fluorosilicates.",
+"bn": "অ্যান্টোইন ল্যাভয়সিয়ে প্রথম সন্দেহ করেছিলেন যে সিলিকার মধ্যে একটি মৌলিক উপাদান রয়েছে। হামফ্রি ডেভি এর নাম দিয়েছিলেন 'সিলিসিয়াম', তবে বার্জেলিয়াসই প্রথম ফ্লুরোসিলিকেট অপসারণের জন্য এটিকে ধুয়ে নিরাকার সিলিকন প্রস্তুত করেছিলেন।"
+},
+"historicalUses": {
+"en": "Flint (a form of silica) was the first tool-making material used by early hominids. Silicates were essential in ancient Egyptian and Roman glassmaking.",
+"bn": "ফ্লিন্ট (সিলিকার একটি রূপ) ছিল আদিম মানুষের দ্বারা ব্যবহৃত প্রথম হাতিয়ার তৈরির উপাদান। প্রাচীন মিশরীয় এবং রোমান গ্লাস তৈরিতে সিলিকেট অপরিহার্য ছিল।"
+},
+"famousExperiments": {
+"en": "The invention of the first working point-contact transistor at Bell Labs in 1947, which, while initially using Germanium, paved the way for Silicon as the foundation of the Digital Age.",
+"bn": "১৯৪৭ সালে বেল ল্যাবসে প্রথম কার্যকরী পয়েন্ট-কন্টাক্ট ট্রানজিস্টরের উদ্ভাবন, যা প্রাথমিকভাবে জার্মেনিয়াম ব্যবহার করলেও পরবর্তীতে ডিজিটাল যুগের ভিত্তি হিসেবে সিলিকনের পথ প্রশস্ত করেছিল।"
+}
+},
+"atomicStructure": {
+"protons": 14,
+"neutrons": 14,
+"electrons": 14,
+"valenceElectrons": 4,
+"shells": 3,
+"shellDistribution": [2, 8, 4],
+"electronConfiguration": "1s² 2s² 2p⁶ 3s² 3p²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 2
+},
+"oxidationStates": [4, 3, 2, 1, -1, -2, -3, -4],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 1,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 2.329,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1687,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 3538,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 111,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 111,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 210,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 149,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 0.001,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.710,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 7.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Diamond cubic",
+"bn": "ডায়মন্ড কিউবিক (হীরকের ন্যায় ঘনকাকার)"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.90,
+"ionizationEnergy": {
+"value": 786.5,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 134.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Relatively inert at room temperature. Passivates by forming a thin silicon dioxide layer. Reacts with halogens and dilute alkalis, but untouched by most acids except hydrofluoric acid (HF).",
+"bn": "কক্ষ তাপমাত্রায় তুলনামূলকভাবে নিষ্ক্রিয়। সিলিকন ডাই অক্সাইডের একটি পাতলা স্তর তৈরি করে প্যাসিভেট হয়। হ্যালোজেন এবং লঘু ক্ষারের সাথে বিক্রিয়া করে, তবে হাইড্রোফ্লুরিক অ্যাসিড (HF) ছাড়া বেশিরভাগ অ্যাসিড দ্বারা প্রভাবিত হয় না।"
+},
+"commonCompounds": ["SiO₂", "SiC", "SiCl₄", "SiH₄", "Na₂SiO₃"],
+"flameTestColor": {
+"en": "None (or faint blue)",
+"bn": "নেই (বা হালকা নীল)"
+},
+"spectralLines": ["251.61nm", "288.16nm", "390.55nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Ferrosilicon alloys for steelmaking, production of synthetic polymers (silicones), Portland cement, and glass manufacturing.",
+"bn": "ইস্পাত তৈরির জন্য ফেরোসিলিকন সংকর, কৃত্রিম পলিমার (সিলিকনস), পোর্টল্যান্ড সিমেন্ট এবং গ্লাস উৎপাদন।"
+},
+"commercialUses": {
+"en": "Silicone rubber, sealants, lubricants, bakeware, cosmetics, and contact lenses.",
+"bn": "সিলিকন রাবার, সিল্যান্ট, লুব্রিকেন্ট, বেকওয়্যার, প্রসাধনী এবং কন্টাক্ট লেন্স।"
+},
+"electronicsUses": {
+"en": "The absolute foundation of modern electronics. Used to fabricate microchips, integrated circuits, microprocessors, and memory chips.",
+"bn": "আধুনিক ইলেকট্রনিক্সের চূড়ান্ত ভিত্তি। মাইক্রোচিপ, ইন্টিগ্রেটেড সার্কিট, মাইক্রোপ্রসেসর এবং মেমরি চিপ তৈরি করতে ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "Hyper-pure electronic-grade silicon is doped to create p-type and n-type semiconductor junctions in transistors and diodes.",
+"bn": "হাইপার-পিওর ইলেকট্রনিক-গ্রেড সিলিকন ডোপ করে ট্রানজিস্টর এবং ডায়োডে পি-টাইপ এবং এন-টাইপ সেমিকন্ডাক্টর জংশন তৈরি করা হয়।"
+},
+"aerospaceUses": {
+"en": "Thermal protection systems (silica tiles) for space shuttles, high-temperature silicone adhesives, and solar arrays for satellites.",
+"bn": "স্পেস শাটলের জন্য তাপীয় সুরক্ষা ব্যবস্থা (সিলিকা টাইলস), উচ্চ-তাপমাত্রার সিলিকন আঠালো এবং স্যাটেলাইটের জন্য সোলার অ্যারে।"
+},
+"batteryUses": {
+"en": "Silicon anodes in next-generation lithium-ion batteries to exponentially increase energy density.",
+"bn": "শক্তি ঘনত্ব সূচকীয়ভাবে বৃদ্ধি করতে পরবর্তী প্রজন্মের লিথিয়াম-আয়ন ব্যাটারিতে সিলিকন অ্যানোডের ব্যবহার।"
+},
+"aiHardwareUses": {
+"en": "Core substrate for advanced AI accelerators, GPUs, and Neural Processing Units (NPUs) containing billions of silicon transistors.",
+"bn": "বিলিয়ন বিলিয়ন সিলিকন ট্রানজিস্টর যুক্ত উন্নত এআই এক্সিলারেটর, জিপিইউ এবং নিউরাল প্রসেসিং ইউনিট (NPUs) এর মূল সাবস্ট্রেট।"
+},
+"renewableEnergyUses": {
+"en": "Primary material for crystalline silicon photovoltaic (PV) solar panels, capturing photons to generate electricity.",
+"bn": "বিদ্যুৎ উৎপাদনের জন্য ফোটন ক্যাপচারকারী স্ফটিকাকার সিলিকন ফটোভোলটাইক (PV) সোলার প্যানেলের প্রাথমিক উপাদান।"
+},
+"nanotechnologyUses": {
+"en": "Silicon nanowires and quantum dots for biosensing, photonics, and highly miniaturized nanoelectromechanical systems (NEMS).",
+"bn": "বায়োসেন্সিং, ফটোনিক্স এবং অত্যন্ত ক্ষুদ্রাকৃতির ন্যানোইলেকট্রোমেকানিকাল সিস্টেম (NEMS) এর জন্য সিলিকন ন্যানোওয়্যার এবং কোয়ান্টাম ডটস।"
+},
+"nuclearUses": {
+"en": "Silicon carbide (SiC) is used as a highly durable cladding material in next-generation high-temperature gas-cooled nuclear reactors.",
+"bn": "সিলিকন কার্বাইড (SiC) পরবর্তী প্রজন্মের উচ্চ-তাপমাত্রার গ্যাস-কুলড পারমাণবিক চুল্লিতে অত্যন্ত টেকসই ক্ল্যাডিং উপাদান হিসেবে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Infrared lenses (silicon is transparent to IR), night-vision systems, and radar-absorbing materials.",
+"bn": "ইনফ্রারেড লেন্স (সিলিকন আইআর এর জন্য স্বচ্ছ), নাইট-ভিশন সিস্টেম এবং রাডার-শোষণকারী উপকরণ।"
+},
+"medicalUses": {
+"en": "Medical-grade silicones for implants, prosthetics, catheters, and microfluidic lab-on-a-chip diagnostic devices.",
+"bn": "ইমপ্লান্ট, প্রসথেটিক্স, ক্যাথেটার এবং মাইক্রোফ্লুইডিক ল্যাব-অন-এ-চিপ ডায়াগনস্টিক ডিভাইসের জন্য মেডিকেল-গ্রেড সিলিকনস।"
+},
+"foodIndustryUses": {
+"en": "Silicon dioxide is used as a widely approved anti-caking agent in powdered foods and spices.",
+"bn": "সিলিকন ডাই অক্সাইড গুঁড়ো খাবার এবং মশলায় ব্যাপকভাবে অনুমোদিত অ্যান্টি-কেকিং এজেন্ট হিসাবে ব্যবহৃত হয়।"
+},
+"constructionUses": {
+"en": "The main component in concrete, brick, mortar, and ceramics (as silicates and silica sand).",
+"bn": "কংক্রিট, ইট, মর্টার এবং সিরামিকের প্রধান উপাদান (সিলিকেট এবং সিলিকা বালি হিসাবে)।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Essential for certain aquatic life, particularly diatoms, which use silica to build intricate cellular skeletons. Trace amounts are necessary for bone and collagen synthesis in humans.",
+"bn": "নির্দিষ্ট কিছু জলজ প্রাণীর জন্য অপরিহার্য, বিশেষ করে ডায়াটম, যা জটিল কোষীয় কঙ্কাল তৈরি করতে সিলিকা ব্যবহার করে। মানুষের হাড় এবং কোলাজেন সংশ্লেষণের জন্য সামান্য পরিমাণ প্রয়োজন।"
+},
+"humanBodyRole": {
+"en": "Present in connective tissues, skin, and bones. Promotes structural integrity, though the exact biochemical mechanism remains partially understood.",
+"bn": "সংযোজক কলা, ত্বক এবং হাড়ের মধ্যে উপস্থিত। কাঠামোগত অখণ্ডতা প্রচার করে, যদিও এর সঠিক জৈব রাসায়নিক প্রক্রিয়াটি আংশিকভাবে বোঝা যায়।"
+},
+"toxicity": {
+"en": "Elemental silicon and silica are biochemically non-toxic. However, inhaling fine crystalline silica dust causes irreversible lung damage.",
+"bn": "মৌলিক সিলিকন এবং সিলিকা জৈব রাসায়নিকভাবে অ-বিষাক্ত। তবে, সূক্ষ্ম স্ফটিকাকার সিলিকা ধূলিকণা শ্বাস নেওয়ার ফলে অপরিবর্তনীয় ফুসফুসের ক্ষতি হয়।"
+},
+"environmentalImpact": {
+"en": "Silicates form the backbone of the Earth's geology. Its extraction (sand mining) can cause severe local ecological disruption and coastal erosion.",
+"bn": "সিলিকেট পৃথিবীর ভূতত্ত্বের মেরুদণ্ড গঠন করে। এর নিষ্কাশন (বালি খনির) গুরুতর স্থানীয় পরিবেশগত ব্যাঘাত এবং উপকূলীয় ভাঙনের কারণ হতে পারে।"
+},
+"pollutionRisks": {
+"en": "Semiconductor manufacturing relies heavily on toxic chemicals (like HF) and consumes massive amounts of pure water, posing chemical runoff risks.",
+"bn": "সেমিকন্ডাক্টর উত্পাদন অত্যন্ত বিষাক্ত রাসায়নিকের (যেমন HF) ওপর নির্ভর করে এবং প্রচুর পরিমাণে বিশুদ্ধ জল খরচ করে, যা রাসায়নিক প্রবাহের ঝুঁকি তৈরি করে।"
+},
+"recyclingMethods": {
+"en": "Silicon solar panels are recycled mechanically and chemically to recover highly pure silicon, silver, and aluminum, though it remains economically challenging.",
+"bn": "উচ্চ বিশুদ্ধতার সিলিকন, রৌপ্য এবং অ্যালুমিনিয়াম পুনরুদ্ধারের জন্য সিলিকন সোলার প্যানেল যান্ত্রিক এবং রাসায়নিকভাবে পুনর্ব্যবহৃত করা হয়, যদিও এটি অর্থনৈতিকভাবে চ্যালেঞ্জিং।"
+},
+"sustainabilityScore": 7.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "Norway",
+"bn": "নরওয়ে"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+}
+],
+"miningMethods": {
+"en": "Extracted globally from immense deposits of quartz sand and quartzite rock via open-pit mining.",
+"bn": "ওপেন-পিট খনির মাধ্যমে কোয়ার্টজ বালি এবং কোয়ার্টজাইট শিলার বিশাল আমানত থেকে বিশ্বব্যাপী নিষ্কাশিত।"
+},
+"abundance": {
+"universe": {
+"en": "0.07% by mass",
+"bn": "ভর অনুযায়ী ০.০৭%"
+},
+"earthCrust": {
+"en": "27.7% by mass (2nd most abundant after Oxygen)",
+"bn": "ভর অনুযায়ী ২৭.৭% (অক্সিজেনের পরে দ্বিতীয় সর্বাধিক প্রচুর)"
+},
+"oceans": {
+"en": "0.0003% by mass",
+"bn": "ভর অনুযায়ী ০.০০০৩%"
+}
+},
+"marketValue": {
+"en": "Metallurgical grade is ~$2-$3/kg; Electronic-grade (polysilicon) is ~$20-$30/kg, but highly processed monocrystalline wafers are vastly more expensive.",
+"bn": "মেটালার্জিকাল গ্রেডের দাম প্রায় $২-$৩/কেজি; ইলেকট্রনিক-গ্রেড (পলি-সিলিকন) প্রায় $২০-$৩০/কেজি, তবে অত্যন্ত প্রক্রিয়াজাত মনোক্রিস্টালাইন ওয়েফারের দাম বহুগুণ বেশি।"
+},
+"futureDemand": {
+"en": "Demand is intrinsically linked to the exponential growth of computing (AI, IoT) and renewable energy (solar PV), ensuring constant, rising need.",
+"bn": "এর চাহিদা কম্পিউটিং (AI, IoT) এবং নবায়নযোগ্য শক্তির (Solar PV) সূচকীয় বৃদ্ধির সাথে অঙ্গাঙ্গীভাবে জড়িত, যা এর ক্রমাগত, ক্রমবর্ধমান চাহিদা নিশ্চিত করে।"
+},
+"globalImportance": {
+"en": "The strategic core of global technology. Control over the silicon semiconductor supply chain determines geopolitical and economic dominance.",
+"bn": "বৈশ্বিক প্রযুক্তির কৌশলগত মূল ভিত্তি। সিলিকন সেমিকন্ডাক্টর সাপ্লাই চেইনের ওপর নিয়ন্ত্রণ ভূ-রাজনৈতিক এবং অর্থনৈতিক আধিপত্য নির্ধারণ করে।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Bulk solid is perfectly safe. Fine crystalline silica dust is a severe respiratory hazard.",
+"bn": "কঠিন খণ্ড পুরোপুরি নিরাপদ। সূক্ষ্ম স্ফটিকাকার সিলিকা ধূলিকণা একটি গুরুতর শ্বাসকষ্টজনিত বিপত্তি।"
+},
+"storageRequirements": {
+"en": "Store in a dry area. Hyper-pure electronic silicon must be stored in cleanroom environments to prevent part-per-billion contamination.",
+"bn": "শুষ্ক জায়গায় সংরক্ষণ করুন। হাইপার-পিওর ইলেকট্রনিক সিলিকনকে পার্ট-পার-বিলিয়ন দূষণ রোধ করতে ক্লিনরুম পরিবেশে সংরক্ষণ করতে হবে।"
+},
+"handlingProcedures": {
+"en": "Use proper PPE and N95/P100 respirators when machining, cutting, or grinding silicon or concrete.",
+"bn": "সিলিকন বা কংক্রিট মেশিনিং, কাটা বা পিষানোর সময় সঠিক পিপিই এবং এন৯৫/পি১০০ রেসপিরেটর ব্যবহার করুন।"
+},
+"exposureRisks": {
+"en": "Chronic inhalation of silica dust causes silicosis, increasing the risk of tuberculosis and lung cancer.",
+"bn": "সিলিকা ধূলিকণা দীর্ঘকাল ধরে শ্বাস নেওয়ার ফলে সিলিকোসিস হয়, যা যক্ষ্মা এবং ফুসফুসের ক্যান্সারের ঝুঁকি বাড়ায়।"
+},
+"safetyLevel": {
+"en": "Low Risk (Solid), Severe Hazard (Dust/Powder)",
+"bn": "নিম্ন ঝুঁকি (কঠিন), মারাত্মক বিপত্তি (ধুলো/গুঁড়ো)"
+},
+"hazardClassifications": [
+{
+"en": "Carcinogen (Inhalation of crystalline silica)",
+"bn": "কার্সিনোজেন (স্ফটিকাকার সিলিকার শ্বাস গ্রহণ)"
+},
+{
+"en": "Specific Target Organ Toxicity (Lungs)",
+"bn": "নির্দিষ্ট লক্ষ্য অঙ্গের বিষাক্ততা (ফুসফুস)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Silicon is the stuff of sand and computers. It is perfectly in-between a metal and a non-metal, allowing us to turn electricity on and off incredibly fast—which makes all modern electronics possible.",
+"bn": "সিলিকন হলো বালি এবং কম্পিউটারের উপাদান। এটি ধাতু এবং অধাতুর ঠিক মাঝখানে অবস্থান করে, যা আমাদের অবিশ্বাস্য দ্রুত গতিতে বিদ্যুৎ চালু এবং বন্ধ করার ক্ষমতা দেয়—যার কারণেই সমস্ত আধুনিক ইলেকট্রনিক্স সম্ভব হয়েছে।"
+},
+"advancedExplanation": {
+"en": "As a Group 14 metalloid, silicon's semiconducting properties arise from its band gap (~1.1 eV). At absolute zero, it acts as an insulator, but thermal energy or strategic doping with Group 13/15 elements frees electrons or 'holes' into the conduction band, allowing precise control of electron flow.",
+"bn": "গ্রুপ ১৪ এর অপধাতু হিসাবে, সিলিকনের সেমিকন্ডাক্টর বৈশিষ্ট্য এর ব্যান্ড গ্যাপ (~১.১ eV) থেকে উদ্ভূত হয়। পরম শূন্য তাপমাত্রায় এটি নিরোধক হিসেবে কাজ করে, কিন্তু তাপীয় শক্তি বা গ্রুপ ১৩/১৫ মৌলের সাথে কৌশলগত ডোপিং ইলেকট্রন বা 'হোল' কে পরিবাহী ব্যান্ডে মুক্ত করে, যা ইলেকট্রন প্রবাহের সুনির্দিষ্ট নিয়ন্ত্রণ সম্ভব করে।"
+},
+"funFacts": [
+{
+"en": "If carbon is the element of biological life, silicon is the undisputed element of artificial life and intelligence.",
+"bn": "কার্বন যদি জৈবিক জীবনের উপাদান হয়, তবে সিলিকন হলো কৃত্রিম জীবন এবং বুদ্ধিমত্তার অবিসংবাদিত উপাদান।"
+},
+{
+"en": "The Apollo 11 mission left a microscopic silicon disk on the moon containing goodwill messages from 73 countries.",
+"bn": "অ্যাপোলো ১১ মিশন চাঁদে একটি মাইক্রোস্কোপিক সিলিকন ডিস্ক রেখে এসেছিল যাতে ৭৩টি দেশের শুভেচ্ছাবার্তা রয়েছে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 6,
+"relation": {
+"en": "Silicon sits directly beneath Carbon. While Carbon forms long, complex chains crucial for life, Silicon's larger size makes its long chains unstable, though it forms incredibly stable networks with oxygen (silicates).",
+"bn": "সিলিকন সরাসরি কার্বনের নিচে বসে। কার্বন জীবনের জন্য অত্যন্ত গুরুত্বপূর্ণ দীর্ঘ, জটিল চেইন তৈরি করলেও, সিলিকনের বড় আকারের কারণে এর দীর্ঘ চেইনগুলো অস্থিতিশীল হয়, যদিও এটি অক্সিজেনের (সিলিকেট) সাথে অবিশ্বাস্যভাবে স্থিতিশীল নেটওয়ার্ক তৈরি করে।"
+}
+},
+{
+"compareWithId": 32,
+"relation": {
+"en": "Germanium was the original semiconductor used in transistors, but Silicon overtook it because Silicon can handle much higher temperatures and forms a superior protective oxide layer.",
+"bn": "ট্রানজিস্টরে ব্যবহৃত আসল সেমিকন্ডাক্টর ছিল জার্মেনিয়াম, তবে সিলিকন এর জায়গা দখল করে কারণ সিলিকন অনেক বেশি তাপমাত্রা সামলাতে পারে এবং একটি উন্নত প্রতিরক্ষামূলক অক্সাইড স্তর তৈরি করতে পারে।"
+}
+}
+],
+"relatedElements": [6, 13, 15, 32],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the most abundant element in the Earth's crust ahead of Silicon?",
+"bn": "পৃথিবীর ভূত্বকে সিলিকনের চেয়ে বেশি পরিমাণে থাকা উপাদান কোনটি?"
+},
+"options": [
+{
+"en": "Iron",
+"bn": "লোহা"
+},
+{
+"en": "Oxygen",
+"bn": "অক্সিজেন"
+},
+{
+"en": "Aluminum",
+"bn": "অ্যালুমিনিয়াম"
+},
+{
+"en": "Carbon",
+"bn": "কার্বন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Oxygen accounts for about 46.6% of the crust's mass, mostly bound to Silicon to form silicates, making Silicon the second most abundant at 27.7%.",
+"bn": "অক্সিজেন ভূত্বকের ভরের প্রায় ৪৬.৬%, যা মূলত সিলিকনের সাথে আবদ্ধ হয়ে সিলিকেট তৈরি করে, ফলে ২৭.৭% নিয়ে সিলিকন দ্বিতীয় সর্বাধিক প্রচুর উপাদান।"
+}
+},
+{
+"question": {
+"en": "What specific crystal growth method is primarily used to create the large, highly pure, single-crystal silicon ingots used for microchips?",
+"bn": "মাইক্রোচিপের জন্য ব্যবহৃত বড়, অত্যন্ত বিশুদ্ধ, একক-স্ফটিক সিলিকন ইংগট বা খণ্ড তৈরি করতে প্রাথমিকভাবে কোন স্ফটিক বৃদ্ধি পদ্ধতি ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Bessemer process",
+"bn": "বেসিমার প্রক্রিয়া"
+},
+{
+"en": "Haber-Bosch process",
+"bn": "হ্যাবার-বোশ প্রক্রিয়া"
+},
+{
+"en": "Czochralski process",
+"bn": "চোক্রালস্কি প্রক্রিয়া"
+},
+{
+"en": "Hall-Héroult process",
+"bn": "হল-হেরোল্ট প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Czochralski process involves dipping a seed crystal into molten hyper-pure silicon and slowly pulling it upwards while rotating to grow a massive single crystal.",
+"bn": "চোক্রালস্কি প্রক্রিয়ায় গলিত হাইপার-পিওর সিলিকনের মধ্যে একটি বীজ স্ফটিক ডুবিয়ে ধীরে ধীরে ঘোরানোর মাধ্যমে একটি বিশাল একক স্ফটিক বৃদ্ধি করা হয়।"
+}
+},
+{
+"question": {
+"en": "When pure silicon is 'doped' with a Group 15 element like Phosphorus, what type of semiconductor is formed?",
+"bn": "যখন বিশুদ্ধ সিলিকনকে ফসফরাসের মতো গ্রুপ ১৫ এর মৌল দিয়ে 'ডোপ' করা হয়, তখন কোন ধরণের সেমিকন্ডাক্টর তৈরি হয়?"
+},
+"options": [
+{
+"en": "p-type",
+"bn": "পি-টাইপ"
+},
+{
+"en": "n-type",
+"bn": "এন-টাইপ"
+},
+{
+"en": "Intrinsic",
+"bn": "ইন্ট্রিনসিক"
+},
+{
+"en": "Superconductor",
+"bn": "সুপারকন্ডাক্টর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Phosphorus has 5 valence electrons. Four bond with silicon, leaving one extra 'negative' electron free to carry charge, creating an n-type semiconductor.",
+"bn": "ফসফরাসের ৫টি যোজ্যতা ইলেকট্রন রয়েছে। চারটি সিলিকনের সাথে বন্ধন তৈরি করে, চার্জ বহনের জন্য একটি অতিরিক্ত 'নেতিবাচক' ইলেকট্রন মুক্ত রাখে, যা এন-টাইপ সেমিকন্ডাক্টর তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "What is the key difference between 'Silicon' and 'Silicone'?",
+"bn": "'সিলিকন (Silicon)' এবং 'সিলিকন (Silicone)' এর মধ্যে মূল পার্থক্য কী?"
+},
+"options": [
+{
+"en": "They are the same exact thing",
+"bn": "এগুলি ঠিক একই জিনিস"
+},
+{
+"en": "Silicon is a gas; Silicone is a solid",
+"bn": "Silicon হলো একটি গ্যাস; Silicone হলো একটি কঠিন পদার্থ"
+},
+{
+"en": "Silicon is the pure element; Silicone is a synthetic polymer of silicon, oxygen, and carbon",
+"bn": "Silicon হলো বিশুদ্ধ মৌল; Silicone হলো সিলিকন, অক্সিজেন এবং কার্বনের একটি কৃত্রিম পলিমার"
+},
+{
+"en": "Silicon is used for cooking; Silicone is used in microchips",
+"bn": "Silicon রান্নার জন্য ব্যবহৃত হয়; Silicone মাইক্রোচিপে ব্যবহৃত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Silicon is the hard, grey semiconducting element. Silicone (polysiloxane) is a flexible, rubber-like synthetic compound used in sealants and bakeware.",
+"bn": "Silicon হলো শক্ত, ধূসর অর্ধপরিবাহী মৌল। Silicone (পলিসিলোক্সেন) হলো একটি নমনীয়, রাবারের মতো কৃত্রিম যৌগ যা সিল্যান্ট এবং বেকওয়্যারে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "What lethal occupational lung disease is caused by the chronic inhalation of crystalline silica dust?",
+"bn": "স্ফটিকাকার সিলিকা ধূলিকণা দীর্ঘকাল ধরে শ্বাস নেওয়ার ফলে কোন প্রাণঘাতী পেশাগত ফুসফুসের রোগ হয়?"
+},
+"options": [
+{
+"en": "Asbestosis",
+"bn": "অ্যাসবেস্টোসিস"
+},
+{
+"en": "Silicosis",
+"bn": "সিলিকোসিস"
+},
+{
+"en": "Pneumonia",
+"bn": "নিউমোনিয়া"
+},
+{
+"en": "Tuberculosis",
+"bn": "যক্ষ্মা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Silicosis causes severe inflammation and scarring (fibrosis) in the upper lobes of the lungs, and has no known cure.",
+"bn": "সিলিকোসিস ফুসফুসের উপরের লোবে মারাত্মক প্রদাহ এবং দাগ (ফাইব্রোসিস) সৃষ্টি করে এবং এর কোনো পরিচিত নিরাময় নেই।"
+}
+},
+{
+"question": {
+"en": "Unlike true metals, what happens to the electrical conductivity of a semiconductor like Silicon as its temperature increases?",
+"bn": "প্রকৃত ধাতুর বিপরীতে, সিলিকনের মতো সেমিকন্ডাক্টরের তাপমাত্রা বৃদ্ধির সাথে সাথে এর বৈদ্যুতিক পরিবাহিতার কী ঘটে?"
+},
+"options": [
+{
+"en": "It remains unchanged",
+"bn": "এটি অপরিবর্তিত থাকে"
+},
+{
+"en": "It decreases",
+"bn": "এটি হ্রাস পায়"
+},
+{
+"en": "It drops to absolute zero",
+"bn": "এটি পরম শূন্যে নেমে যায়"
+},
+{
+"en": "It increases",
+"bn": "এটি বৃদ্ধি পায়"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Heat provides the thermal energy necessary to excite more electrons across the band gap into the conduction band, increasing conductivity.",
+"bn": "তাপ ব্যান্ড গ্যাপ জুড়ে পরিবহন ব্যান্ডে আরও ইলেকট্রনকে উত্তেজিত করার জন্য প্রয়োজনীয় তাপীয় শক্তি সরবরাহ করে, যার ফলে পরিবাহিতা বৃদ্ধি পায়।"
+}
+},
+{
+"question": {
+"en": "Which highly corrosive acid is famously capable of dissolving Silicon Dioxide (glass)?",
+"bn": "কোন অত্যন্ত ক্ষয়কারী অ্যাসিডটি বিখ্যাতভাবে সিলিকন ডাই অক্সাইড (কাচ) দ্রবীভূত করতে সক্ষম?"
+},
+"options": [
+{
+"en": "Hydrochloric acid (HCl)",
+"bn": "হাইড্রোক্র্লোরিক অ্যাসিড (HCl)"
+},
+{
+"en": "Sulfuric acid (H2SO4)",
+"bn": "সালফিউরিক অ্যাসিড (H2SO4)"
+},
+{
+"en": "Nitric acid (HNO3)",
+"bn": "নাইট্রিক অ্যাসিড (HNO3)"
+},
+{
+"en": "Hydrofluoric acid (HF)",
+"bn": "হাইড্রোফ্লুরিক অ্যাসিড (HF)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "HF reacts with silicon dioxide to form volatile silicon tetrafluoride or soluble fluorosilicates, making it vital for etching silicon wafers but extremely dangerous to handle.",
+"bn": "HF সিলিকন ডাই অক্সাইডের সাথে বিক্রিয়া করে উদ্বায়ী সিলিকন টেট্রাফ্লুরাইড বা দ্রবণীয় ফ্লুরোসিলিকেট তৈরি করে, যা সিলিকন ওয়েফার খোদাই করার জন্য অত্যাবশ্যক কিন্তু পরিচালনা করা অত্যন্ত বিপজ্জনক।"
+}
+},
+{
+"question": {
+"en": "What is the approximate band gap energy of silicon at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় সিলিকনের আনুমানিক ব্যান্ড গ্যাপ এনার্জি কত?"
+},
+"options": [
+{
+"en": "0.1 eV",
+"bn": "০.১ eV"
+},
+{
+"en": "1.1 eV",
+"bn": "১.১ eV"
+},
+{
+"en": "5.5 eV",
+"bn": "৫.৫ eV"
+},
+{
+"en": "10.0 eV",
+"bn": "১০.০ eV"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Silicon has an indirect band gap of approximately 1.1 electron-volts, perfectly balancing sufficient conductivity for devices and enough insulation to prevent current leakage.",
+"bn": "সিলিকনের প্রায় ১.১ ইলেকট্রন-ভোল্টের একটি পরোক্ষ ব্যান্ড গ্যাপ রয়েছে, যা ডিভাইসগুলির জন্য পর্যাপ্ত পরিবাহিতা এবং বর্তমান ফুটো রোধ করার জন্য পর্যাপ্ত নিরোধকের মধ্যে নিখুঁত ভারসাম্য বজায় রাখে।"
+}
+},
+{
+"question": {
+"en": "Which microscopic marine algae are famous for extracting dissolved silica from water to build their beautifully intricate, glass-like cell walls?",
+"bn": "কোন আণুবীক্ষণিক সামুদ্রিক শৈবাল জল থেকে দ্রবীভূত সিলিকা নিষ্কাশন করে তাদের সুন্দর ও জটিল, কাঁচের মতো কোষের প্রাচীর তৈরি করার জন্য বিখ্যাত?"
+},
+"options": [
+{
+"en": "Cyanobacteria",
+"bn": "সায়ানোব্যাকটেরিয়া"
+},
+{
+"en": "Dinoflagellates",
+"bn": "ডিনোফ্ল্যাজেলেটস"
+},
+{
+"en": "Diatoms",
+"bn": "ডায়াটমস"
+},
+{
+"en": "Amoebas",
+"bn": "অ্যামিবা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Diatoms construct biological glass shells called frustules, representing one of nature's most stunning and ecologically vital uses of silicon.",
+"bn": "ডায়াটমগুলো ফ্রাস্টুল নামক জৈবিক কাঁচের শেল তৈরি করে, যা সিলিকনের সবচেয়ে অত্যাশ্চর্য এবং পরিবেশগতভাবে গুরুত্বপূর্ণ প্রাকৃতিক ব্যবহারের প্রতিনিধিত্ব করে।"
+}
+},
+{
+"question": {
+"en": "In the metallurgical production of silicon from quartz (SiO2) and carbon in an electric arc furnace, what gaseous byproduct is produced?",
+"bn": "একটি ইলেকট্রিক আর্ক ফার্নেসে কোয়ার্টজ (SiO2) এবং কার্বন থেকে সিলিকনের ধাতব উৎপাদনে, কোন গ্যাসীয় উপজাত উৎপাদিত হয়?"
+},
+"options": [
+{
+"en": "Oxygen (O2)",
+"bn": "অক্সিজেন (O2)"
+},
+{
+"en": "Carbon Monoxide (CO)",
+"bn": "কার্বন মনোক্সাইড (CO)"
+},
+{
+"en": "Chlorine (Cl2)",
+"bn": "ক্লোরিন (Cl2)"
+},
+{
+"en": "Hydrogen (H2)",
+"bn": "হাইড্রোজেন (H2)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The reduction reaction is highly endothermic: SiO2 + 2C → Si + 2CO, releasing copious amounts of carbon monoxide gas.",
+"bn": "বিজারণ বিক্রিয়াটি অত্যন্ত তাপশোষী: SiO2 + 2C → Si + 2CO, যা প্রচুর পরিমাণে কার্বন মনোক্সাইড গ্যাস নির্গত করে।"
+}
+},
+{
+"question": {
+"en": "What is the specific crystal structure of pure, solid silicon under standard conditions?",
+"bn": "স্ট্যান্ডার্ড অবস্থার অধীনে বিশুদ্ধ, কঠিন সিলিকনের নির্দিষ্ট স্ফটিক গঠন কী?"
+},
+"options": [
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টারড কিউবিক"
+},
+{
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+},
+{
+"en": "Diamond cubic",
+"bn": "ডায়মন্ড কিউবিক"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like carbon in a diamond, each silicon atom bonds covalently to four distinct neighbors in a repeating tetrahedral 'diamond cubic' lattice.",
+"bn": "হীরাতে কার্বনের মতো, প্রতিটি সিলিকন পরমাণু পুনরাবৃত্ত চতুস্তলকীয় 'ডায়মন্ড কিউবিক' ল্যাটিসে চারটি আলাদা প্রতিবেশীর সাথে সমযোজী বন্ধনে আবদ্ধ থাকে।"
+}
+},
+{
+"question": {
+"en": "When a p-type and n-type silicon semiconductor are joined together, what vital component is formed at their boundary?",
+"bn": "যখন একটি পি-টাইপ এবং এন-টাইপ সিলিকন সেমিকন্ডাক্টর একসাথে যুক্ত করা হয়, তখন তাদের সীমানায় কোন গুরুত্বপূর্ণ উপাদান গঠিত হয়?"
+},
+"options": [
+{
+"en": "A black hole",
+"bn": "একটি ব্ল্যাক হোল"
+},
+{
+"en": "A p-n junction",
+"bn": "একটি পি-এন জংশন"
+},
+{
+"en": "A superconductor",
+"bn": "একটি সুপারকন্ডাক্টর"
+},
+{
+"en": "An insulator",
+"bn": "একটি ইনসুলেটর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The p-n junction acts as a one-way valve for electrons. It is the fundamental building block of all modern diodes, transistors, and solar cells.",
+"bn": "পি-এন জংশন ইলেকট্রনের জন্য একমুখী ভালভ হিসেবে কাজ করে। এটি সমস্ত আধুনিক ডায়োড, ট্রানজিস্টর এবং সোলার সেলের মৌলিক বিল্ডিং ব্লক।"
+}
+},
+{
+"question": {
+"en": "What ultra-purification technique relies on repeatedly passing a localized molten ring through a silicon ingot to drag impurities to one end?",
+"bn": "কোন অতি-বিশুদ্ধকরণ কৌশলটি ইমপিউরিটি বা অশুদ্ধিগুলোকে একদিকে টেনে নেওয়ার জন্য একটি সিলিকন ইংগটের মধ্য দিয়ে বারবার একটি স্থানীয় গলিত বলয় চালানোর ওপর নির্ভর করে?"
+},
+"options": [
+{
+"en": "Fractional distillation",
+"bn": "আংশিক পাতন"
+},
+{
+"en": "Electrolysis",
+"bn": "তড়িৎ বিশ্লেষণ"
+},
+{
+"en": "Zone refining",
+"bn": "জোন রিফাইনিং"
+},
+{
+"en": "Sublimation",
+"bn": "উর্ধ্বপাতন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "In zone refining, impurities are more soluble in the liquid phase than the solid phase, so they get swept along with the molten zone, leaving ultra-pure silicon behind.",
+"bn": "জোন রিফাইনিংয়ে, কঠিন পর্যায়ের তুলনায় তরল পর্যায়ে অশুদ্ধিগুলো বেশি দ্রবণীয়, তাই এগুলো গলিত অঞ্চলের সাথে ভেসে যায় এবং অতি-বিশুদ্ধ সিলিকন পিছনে ফেলে যায়।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of silicon in its most common terrestrial compound, quartz (SiO2)?",
+"bn": "এর সবচেয়ে সাধারণ যৌগ কোয়ার্টজ (SiO2)-এ সিলিকনের ফর্মাল জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "-4",
+"bn": "-৪"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "0",
+"bn": "০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Silicon shares its four valence electrons with two highly electronegative oxygen atoms, giving it an oxidation state of +4.",
+"bn": "সিলিকন তার চারটি যোজ্যতা ইলেকট্রন দুটি উচ্চ তড়িৎঋণাত্মক অক্সিজেন পরমাণুর সাথে ভাগ করে নেয়, যা একে +4 এর জারণ অবস্থা দেয়।"
+}
+},
+{
+"question": {
+"en": "Which famous observation stated that the number of transistors on a dense silicon integrated circuit doubles approximately every two years?",
+"bn": "কোন বিখ্যাত পর্যবেক্ষণটি বলে যে একটি ঘন সিলিকন ইন্টিগ্রেটেড সার্কিটের ট্রানজিস্টরের সংখ্যা প্রায় প্রতি দুই বছরে দ্বিগুণ হয়?"
+},
+"options": [
+{
+"en": "Newton's Law",
+"bn": "নিউটনের সূত্র"
+},
+{
+"en": "Moore's Law",
+"bn": "মুরের সূত্র"
+},
+{
+"en": "Faraday's Law",
+"bn": "ফ্যারাডের সূত্র"
+},
+{
+"en": "Ohm's Law",
+"bn": "ওহমের সূত্র"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Gordon Moore, co-founder of Intel, made this empirically accurate observation in 1965, which has driven the semiconductor industry's exponential miniaturization ever since.",
+"bn": "ইন্টেলের সহ-প্রতিষ্ঠাতা গর্ডন মুর ১৯৬৫ সালে এই পরীক্ষামূলকভাবে নির্ভুল পর্যবেক্ষণটি করেছিলেন, যা তখন থেকে সেমিকন্ডাক্টর শিল্পের সূচকীয় ক্ষুদ্রকরণকে চালিত করেছে।"
+}
+},
+{
+"question": {
+"en": "What volatile organosilicon compound is used extensively in the Siemens process as the primary precursor for depositing highly pure polycrystalline silicon?",
+"bn": "অত্যন্ত বিশুদ্ধ পলিক্রিস্টালাইন সিলিকন জমা করার প্রাথমিক পূর্বসূরি হিসাবে সিমেন্স প্রক্রিয়ায় ব্যাপকভাবে কোন উদ্বায়ী অর্গানোসিলিকন যৌগ ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Silane",
+"bn": "সিলেন"
+},
+{
+"en": "Trichlorosilane",
+"bn": "ট্রাইক্লোরোসিলেন"
+},
+{
+"en": "Silica gel",
+"bn": "সিলিকা জেল"
+},
+{
+"en": "Silicon tetrafluoride",
+"bn": "সিলিকন টেট্রাফ্লুরাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Trichlorosilane (HSiCl3) is purified by distillation and then decomposed onto a hot rod to form ultra-pure polysilicon.",
+"bn": "ট্রাইক্লোরোসিলেন (HSiCl3) পাতনের মাধ্যমে বিশুদ্ধ করা হয় এবং তারপর অতি-বিশুদ্ধ পলিসিলিকন তৈরি করার জন্য একটি উত্তপ্ত রডের ওপর পচানো হয়।"
+}
+},
+{
+"question": {
+"en": "If a pure silicon crystal is doped with a Group 13 element like Boron, what is the majority charge carrier in the resulting semiconductor?",
+"bn": "যদি একটি বিশুদ্ধ সিলিকন স্ফটিককে বোরনের মতো গ্রুপ ১৩ এর মৌল দিয়ে ডোপ করা হয়, তবে ফলস্বরূপ সেমিকন্ডাক্টরে সংখ্যাগরিষ্ঠ চার্জ বাহক কোনটি?"
+},
+"options": [
+{
+"en": "Electrons",
+"bn": "ইলেকট্রন"
+},
+{
+"en": "Protons",
+"bn": "প্রোটন"
+},
+{
+"en": "Holes",
+"bn": "হোলস"
+},
+{
+"en": "Neutrons",
+"bn": "নিউট্রন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Boron has only 3 valence electrons, creating a missing electron 'hole' in the silicon lattice. These holes act as mobile positive charge carriers (p-type).",
+"bn": "বোরনের মাত্র ৩টি যোজ্যতা ইলেকট্রন রয়েছে, যা সিলিকন ল্যাটিসে একটি অনুপস্থিত ইলেকট্রন 'হোল' তৈরি করে। এই হোলগুলো মোবাইল পজিটিভ চার্জ বাহক (p-type) হিসেবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "Silicon carbide (SiC) is an extremely hard synthetic compound. What is it commonly known as when used as an abrasive?",
+"bn": "সিলিকন কার্বাইড (SiC) একটি অত্যন্ত শক্ত কৃত্রিম যৌগ। ঘষিয়া তুলিয়া ফেলিতে সক্ষম (অ্যাব্রেসিভ) হিসেবে ব্যবহৃত হলে এটি সাধারণভাবে কী নামে পরিচিত?"
+},
+"options": [
+{
+"en": "Carborundum",
+"bn": "কার্বোরান্ডাম"
+},
+{
+"en": "Corundum",
+"bn": "কোরান্ডাম"
+},
+{
+"en": "Pumice",
+"bn": "পিউমিস"
+},
+{
+"en": "Emery",
+"bn": "এমেরি"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Carborundum (SiC) is nearly as hard as a diamond and is widely used in grinding wheels, sandpapers, and bulletproof vests.",
+"bn": "কার্বোরান্ডাম (SiC) প্রায় হীরার মতোই শক্ত এবং এটি গ্রাইন্ডিং হুইল, স্যান্ডপেপার এবং বুলেটপ্রুফ ভেস্টে ব্যাপকভাবে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "At extreme pressures (around 10-12 GPa), silicon undergoes a phase transition and collapses from its diamond cubic structure into what denser metallic structure?",
+"bn": "চরম চাপে (প্রায় 10-12 GPa), সিলিকন একটি ফেজ ট্রানজিশনের মধ্য দিয়ে যায় এবং এর ডায়মন্ড কিউবিক কাঠামো থেকে ভেঙে কোন ঘন ধাতব কাঠামোতে পরিণত হয়?"
+},
+"options": [
+{
+"en": "Hexagonal",
+"bn": "হেক্সাগোনাল"
+},
+{
+"en": "White tin structure (β-tin)",
+"bn": "সাদা টিন গঠন (β-tin)"
+},
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টারড কিউবিক"
+},
+{
+"en": "Amorphous solid",
+"bn": "নিরাকার কঠিন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Under immense pressure, the covalent bonds break, and silicon adopts a metallic, six-coordinate white tin structure, becoming a superconductor.",
+"bn": "অত্যধিক চাপের মুখে, সমযোজী বন্ধন ভেঙে যায় এবং সিলিকন একটি ধাতব, ছয়-সমন্বিত সাদা টিনের মতো গঠন গ্রহণ করে সুপারকন্ডাক্টরে পরিণত হয়।"
+}
+},
+{
+"question": {
+"en": "Why is elemental silicon strictly classified as a 'metalloid' rather than a true metal?",
+"bn": "কেন মৌলিক সিলিকনকে কঠোরভাবে একটি প্রকৃত ধাতুর পরিবর্তে 'অপধাতু' বা মেটালয়েড হিসেবে শ্রেণীবদ্ধ করা হয়?"
+},
+"options": [
+{
+"en": "It is a liquid at room temperature",
+"bn": "এটি কক্ষ তাপমাত্রায় একটি তরল"
+},
+{
+"en": "It is highly magnetic",
+"bn": "এটি অত্যন্ত চৌম্বকীয়"
+},
+{
+"en": "It has metallic luster but is physically brittle and acts as a semiconductor",
+"bn": "এর ধাতব দীপ্তি আছে কিন্তু এটি শারীরিকভাবে ভঙ্গুর এবং সেমিকন্ডাক্টর হিসেবে কাজ করে"
+},
+{
+"en": "It does not react with oxygen",
+"bn": "এটি অক্সিজেনের সাথে বিক্রিয়া করে না"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Metalloids possess intermediate properties. Silicon looks like a metal (shiny) but lacks metallic malleability (it shatters) and does not conduct electricity as freely as true metals.",
+"bn": "মেটালয়েডগুলোর মধ্যবর্তী বৈশিষ্ট্য রয়েছে। সিলিকন দেখতে একটি ধাতুর মতো (চকচকে) তবে এতে ধাতব আঘাতসহনশীলতার অভাব রয়েছে (এটি ভেঙে যায়) এবং প্রকৃত ধাতুর মতো স্বাধীনভাবে বিদ্যুৎ পরিবহন করে না।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Silicon and Silicone are the same thing. (Silicon is an element, Silicone is a rubbery polymer).",
+"bn": "সিলিকন (Silicon) এবং সিলিকন (Silicone) একই জিনিস। (Silicon একটি মৌল, Silicone একটি রাবারের মতো পলিমার)।"
+},
+{
+"en": "Silicon is a great conductor of electricity. (It is actually a semiconductor and an insulator when pure).",
+"bn": "সিলিকন বিদ্যুতের একটি দুর্দান্ত পরিবাহী। (বিশুদ্ধ অবস্থায় এটি মূলত সেমিকন্ডাক্টর এবং ইনসুলেটর)।"
+}
+],
+"learningTips": [
+{
+"en": "Remember that Silicon (Si) is the heart of the tech industry (Silicon Valley). It has 4 valence electrons, just like Carbon, making it perfectly adaptable for intricate connections.",
+"bn": "মনে রাখবেন যে সিলিকন (Si) হলো প্রযুক্তি শিল্পের হৃদয় (সিলিকন ভ্যালি)। কার্বনের মতো এরও ৪টি যোজ্যতা ইলেকট্রন রয়েছে, যা এটিকে জটিল সংযোগের জন্য নিখুঁতভাবে মানিয়ে নিতে সাহায্য করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "SiO₂ + 2C → Si + 2CO",
+"description": {
+"en": "Carbothermic reduction of silica in an electric arc furnace to produce metallurgical grade silicon.",
+"bn": "মেটালার্জিক্যাল গ্রেড সিলিকন তৈরি করার জন্য ইলেকট্রিক আর্ক ফার্নেসে সিলিকার কার্বোথার্মিক বিজারণ।"
+}
+},
+{
+"equation": "Si + 3HCl → HSiCl₃ + H₂",
+"description": {
+"en": "Reaction of metallurgical silicon with hydrogen chloride gas to form trichlorosilane, a precursor for hyper-pure silicon.",
+"bn": "হাইপার-পিওর সিলিকনের পূর্বসূরি ট্রাইক্লোরোসিলেন গঠনের জন্য হাইড্রোজেন ক্লোরাইড গ্যাসের সাথে মেটালার্জিক্যাল সিলিকনের বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Si + O₂ → SiO₂",
+"description": {
+"en": "Oxidation of silicon at high temperatures to form a passivation layer of silicon dioxide.",
+"bn": "উচ্চ তাপমাত্রায় সিলিকনের জারণ যা সিলিকন ডাই অক্সাইডের একটি প্যাসিভেশন স্তর তৈরি করে।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "SiCl₄ + 2Mg → Si + 2MgCl₂",
+"description": {
+"en": "Reduction of silicon tetrachloride using magnesium to produce pure elemental silicon.",
+"bn": "বিশুদ্ধ মৌলিক সিলিকন উৎপাদনের জন্য ম্যাগনেসিয়াম ব্যবহার করে সিলিকন টেট্রাক্লোরাইডের বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Network",
+"bn": "সমযোজী নেটওয়ার্ক"
+},
+"molecule": "Si crystal",
+"description": {
+"en": "Each Silicon atom forms four strong single covalent bonds with adjacent atoms in a tetrahedral geometry.",
+"bn": "প্রতিটি সিলিকন পরমাণু একটি চতুস্তলকীয় জ্যামিতিতে সংলগ্ন পরমাণুর সাথে চারটি শক্তিশালী একক সমযোজী বন্ধন তৈরি করে।"
+}
+}
+]
+}
+}

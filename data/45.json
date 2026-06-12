@@ -1,0 +1,1024 @@
+{
+  "elementId": 45,
+  "basicInformation": {
+    "atomicNumber": 45,
+    "symbol": "Rh",
+    "name": {
+      "en": "Rhodium",
+      "bn": "রোডিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈroʊdiəm/",
+      "bn": "রো-ডি-য়াম"
+    },
+    "atomicMass": 102.90549,
+    "category": {
+      "en": "Transition metal",
+      "bn": "ট্রানজিশন ধাতু"
+    },
+    "group": 9,
+    "period": 5,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery-white hard reflective metal",
+      "bn": "রূপালী-সাদা শক্ত প্রতিফলিত ধাতু"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "William Hyde Wollaston",
+      "bn": "উইলিয়াম হাইড উলাস্টন"
+    },
+    "discoveryYear": 1803,
+    "discoveryLocation": {
+      "en": "England",
+      "bn": "ইংল্যান্ড"
+    },
+    "discoveryStory": {
+      "en": "Wollaston isolated rhodium from crude platinum ore; named for the rose-colored ('rhodon') compounds it formed.",
+      "bn": "উলাস্টন অপরিশোধিত প্ল্যাটিনাম আকরিক থেকে রোডিয়াম আলাদা করেন; এর তৈরি গোলাপ-রঙা ('রোডন') যৌগের জন্য নামকরণ।"
+    },
+    "historicalUses": {
+      "en": "Used historically in jewelry plating and as the universal catalyst standard for automotive catalytic converters.",
+      "bn": "ঐতিহাসিকভাবে গয়না প্রলেপনে এবং স্বয়ংচালিত ক্যাটালাইটিক কনভার্টারের জন্য সর্বজনীন ক্যাটালিস্ট মান হিসেবে ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Pioneering Wilkinson's catalyst [RhCl(PPh₃)₃] for selective hydrogenation.",
+      "bn": "নির্বাচনী হাইড্রোজেনেশনের জন্য অগ্রণী উইলকিনসনের ক্যাটালিস্ট [RhCl(PPh₃)₃]।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 45,
+    "neutrons": 58,
+    "electrons": 45,
+    "valenceElectrons": 9,
+    "shells": 5,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      16,
+      1
+    ],
+    "electronConfiguration": "[Kr] 4d⁸ 5s¹",
+    "orbitalConfiguration": null,
+    "oxidationStates": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0,
+      -1,
+      -3
+    ],
+    "quantumNumbers": {
+      "principal": 5,
+      "azimuthal": 2,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 12.41,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 2237,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 3968,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 134,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 142,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 195,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 150,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 23000000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.243,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 6.0,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Face-centered cubic",
+      "bn": "ফেস-সেন্টারড কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.28,
+    "ionizationEnergy": {
+      "value": 719.7,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 109.7,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly corrosion-resistant; insoluble in most acids including aqua regia.",
+      "bn": "অত্যন্ত ক্ষয়-প্রতিরোধী; অ্যাকোয়া রেজিয়া সহ বেশিরভাগ অ্যাসিডে অদ্রবণীয়।"
+    },
+    "commonCompounds": [
+      "RhCl₃",
+      "Rh₂O₃",
+      "RhCl(PPh₃)₃"
+    ],
+    "flameTestColor": {
+      "en": "None",
+      "bn": "নেই"
+    },
+    "spectralLines": [
+      "343.49nm",
+      "369.24nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Rhodium has industrial uses including alloying, catalysis and specialised chemical synthesis.",
+      "bn": "রোডিয়াম-এর সংকরণ, অনুঘটন এবং বিশেষ রাসায়নিক সংশ্লেষণ সহ শিল্প ব্যবহার রয়েছে।"
+    },
+    "commercialUses": {
+      "en": "Commercial products containing Rhodium or its compounds.",
+      "bn": "রোডিয়াম বা এর যৌগ ধারণকারী বাণিজ্যিক পণ্য।"
+    },
+    "electronicsUses": {
+      "en": "Used in selected electronic components and contacts.",
+      "bn": "নির্বাচিত ইলেকট্রনিক উপাদান এবং পরিচিতিতে ব্যবহৃত।"
+    },
+    "semiconductorUses": {
+      "en": "Limited or specialised semiconductor relevance.",
+      "bn": "সীমিত বা বিশেষ অর্ধপরিবাহী প্রাসঙ্গিকতা।"
+    },
+    "aerospaceUses": {
+      "en": "Rhodium-bearing alloys may be used in aerospace components.",
+      "bn": "রোডিয়াম-যুক্ত সংকর ধাতু মহাকাশ উপাদানগুলিতে ব্যবহৃত হতে পারে।"
+    },
+    "batteryUses": {
+      "en": "Investigated for battery electrodes/electrolytes.",
+      "bn": "ব্যাটারি ইলেকট্রোড/ইলেক্ট্রোলাইটের জন্য অনুসন্ধান করা হয়েছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Not a primary material in AI hardware.",
+      "bn": "এআই হার্ডওয়্যারে প্রাথমিক উপাদান নয়।"
+    },
+    "renewableEnergyUses": {
+      "en": "Potential role in clean-energy catalysts or batteries.",
+      "bn": "পরিচ্ছন্ন-শক্তি অনুঘটক বা ব্যাটারিতে সম্ভাব্য ভূমিকা।"
+    },
+    "nanotechnologyUses": {
+      "en": "Used in specialised nanomaterials research.",
+      "bn": "বিশেষ ন্যানোম্যাটেরিয়াল গবেষণায় ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Nuclear applications depend on isotopic properties.",
+      "bn": "পারমাণবিক প্রয়োগগুলি আইসোটোপিক বৈশিষ্ট্যের উপর নির্ভর করে।"
+    },
+    "militaryUses": {
+      "en": "Selective military uses where its properties are essential.",
+      "bn": "নির্বাচিত সামরিক ব্যবহার যেখানে এর বৈশিষ্ট্যগুলি অপরিহার্য।"
+    },
+    "medicalUses": {
+      "en": "Medical applications based on its chemistry or isotopes.",
+      "bn": "এর রসায়ন বা আইসোটোপের উপর ভিত্তি করে চিকিৎসা প্রয়োগ।"
+    },
+    "foodIndustryUses": {
+      "en": "Generally not used in food industry.",
+      "bn": "সাধারণত খাদ্য শিল্পে ব্যবহৃত হয় না।"
+    },
+    "constructionUses": {
+      "en": "Limited construction use.",
+      "bn": "সীমিত নির্মাণ ব্যবহার।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Biological role varies; consult element-specific data.",
+      "bn": "জৈবিক ভূমিকা পরিবর্তিত হয়; উপাদান-নির্দিষ্ট তথ্যের সাথে পরামর্শ করুন।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts at most, unless an essential nutrient.",
+      "bn": "অপরিহার্য পুষ্টি না হলে সর্বাধিক ট্রেস পরিমাণ।"
+    },
+    "toxicity": {
+      "en": "Toxicity ranges from low to high depending on the compound.",
+      "bn": "যৌগের উপর নির্ভর করে বিষাক্ততা কম থেকে উচ্চ পরিসরে।"
+    },
+    "environmentalImpact": {
+      "en": "Environmental impact depends on mining and use practices.",
+      "bn": "পরিবেশগত প্রভাব খনি এবং ব্যবহারের অনুশীলনের উপর নির্ভর করে।"
+    },
+    "pollutionRisks": {
+      "en": "Mining can produce tailings and emissions requiring control.",
+      "bn": "খনন এমন লেজে এবং নির্গমন তৈরি করতে পারে যার নিয়ন্ত্রণ প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recycled where economically and technically viable.",
+      "bn": "অর্থনৈতিকভাবে এবং প্রযুক্তিগতভাবে কার্যকর হলে পুনর্ব্যবহৃত।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      }
+    ],
+    "miningMethods": {
+      "en": "Conventional ore mining and refining methods.",
+      "bn": "প্রচলিত আকরিক খনন এবং পরিশোধন পদ্ধতি।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      },
+      "earthCrust": {
+        "en": "Variable",
+        "bn": "পরিবর্তনশীল"
+      },
+      "oceans": {
+        "en": "Trace",
+        "bn": "আদর্শ"
+      }
+    },
+    "marketValue": {
+      "en": "Market price varies with purity and demand.",
+      "bn": "বিশুদ্ধতা এবং চাহিদার সাথে বাজার মূল্য পরিবর্তিত হয়।"
+    },
+    "futureDemand": {
+      "en": "Demand trends tied to electronics, energy and defense sectors.",
+      "bn": "চাহিদার প্রবণতা ইলেকট্রনিক্স, শক্তি এবং প্রতিরক্ষা খাতের সাথে আবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Strategic relevance varies by region.",
+      "bn": "কৌশলগত প্রাসঙ্গিকতা অঞ্চলভেদে পরিবর্তিত হয়।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Hazards depend on chemical form; follow MSDS guidance.",
+      "bn": "ঝুঁকি রাসায়নিক রূপের উপর নির্ভর করে; MSDS নির্দেশিকা অনুসরণ করুন।"
+    },
+    "storageRequirements": {
+      "en": "Store per chemical compatibility and safety requirements.",
+      "bn": "রাসায়নিক সামঞ্জস্য এবং সুরক্ষা প্রয়োজনীয়তা অনুসারে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use appropriate PPE and follow lab safety protocols.",
+      "bn": "উপযুক্ত PPE ব্যবহার করুন এবং ল্যাব সুরক্ষা প্রোটোকল অনুসরণ করুন।"
+    },
+    "exposureRisks": {
+      "en": "Limit exposure per applicable occupational limits.",
+      "bn": "প্রযোজ্য পেশাগত সীমা অনুসারে এক্সপোজার সীমিত করুন।"
+    },
+    "safetyLevel": {
+      "en": "Moderate risk",
+      "bn": "মাঝারি ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Element-specific hazards apply",
+        "bn": "উপাদান-নির্দিষ্ট ঝুঁকি প্রযোজ্য"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Rhodium (symbol Rh) is element 45 in the periodic table.",
+      "bn": "রোডিয়াম (প্রতীক Rh) পর্যায় সারণিতে উপাদান।"
+    },
+    "advancedExplanation": {
+      "en": "Rhodium exhibits chemistry consistent with its position in group 9, period 5.",
+      "bn": "রোডিয়াম গ্রুপ 9, পর্যায় 5-এ এর অবস্থানের সাথে সামঞ্জস্যপূর্ণ রসায়ন প্রদর্শন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Rhodium has fascinating properties tied to its electronic structure.",
+        "bn": "রোডিয়াম-এর ইলেকট্রনিক কাঠামোর সাথে যুক্ত আকর্ষণীয় বৈশিষ্ট্য রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 44,
+        "relation": {
+          "en": "Compared to its lighter neighbour, Rhodium shows characteristic group/period trends.",
+          "bn": "হালকা প্রতিবেশীর তুলনায়, রোডিয়াম বৈশিষ্ট্যপূর্ণ গ্রুপ/পর্যায় প্রবণতা দেখায়।"
+        }
+      }
+    ],
+    "relatedElements": [],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of Rhodium?",
+          "bn": "রোডিয়াম-এর পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "44",
+            "bn": "44"
+          },
+          {
+            "en": "45",
+            "bn": "45"
+          },
+          {
+            "en": "46",
+            "bn": "46"
+          },
+          {
+            "en": "47",
+            "bn": "47"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Rhodium has 45 protons in its nucleus.",
+          "bn": "রোডিয়াম-এর নিউক্লিয়াসে 45 প্রোটন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the chemical symbol of Rhodium?",
+          "bn": "রোডিয়াম-এর রাসায়নিক প্রতীক কী?"
+        },
+        "options": [
+          {
+            "en": "X",
+            "bn": "X"
+          },
+          {
+            "en": "Rh",
+            "bn": "Rh"
+          },
+          {
+            "en": "Y",
+            "bn": "Y"
+          },
+          {
+            "en": "Z",
+            "bn": "Z"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The symbol is Rh.",
+          "bn": "প্রতীকটি হল Rh।"
+        }
+      },
+      {
+        "question": {
+          "en": "To which category does Rhodium belong?",
+          "bn": "রোডিয়াম কোন শ্রেণীর অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষার ধাতু"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "নিষ্ক্রিয় গ্যাস"
+          },
+          {
+            "en": "Transition metal",
+            "bn": "ট্রানজিশন ধাতু"
+          },
+          {
+            "en": "Lanthanide",
+            "bn": "ল্যান্থানাইড"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Rhodium is classified as a transition metal.",
+          "bn": "রোডিয়াম-কে ট্রানজিশন ধাতু হিসেবে শ্রেণীবদ্ধ করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which group of the periodic table does Rhodium reside?",
+          "bn": "পর্যায় সারণির কোন গ্রুপে রোডিয়াম রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "8",
+            "bn": "8"
+          },
+          {
+            "en": "9",
+            "bn": "9"
+          },
+          {
+            "en": "10",
+            "bn": "10"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Rhodium sits in group 9.",
+          "bn": "রোডিয়াম গ্রুপ 9-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which period of the periodic table does Rhodium reside?",
+          "bn": "রোডিয়াম পর্যায় সারণির কোন পর্যায়ে রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "4",
+            "bn": "4"
+          },
+          {
+            "en": "5",
+            "bn": "5"
+          },
+          {
+            "en": "6",
+            "bn": "6"
+          },
+          {
+            "en": "2",
+            "bn": "২"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Rhodium sits in period 5.",
+          "bn": "রোডিয়াম পর্যায় 5-এ অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the electron configuration of Rhodium?",
+          "bn": "রোডিয়াম-এর ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar]",
+            "bn": "[Ar]"
+          },
+          {
+            "en": "[Kr]",
+            "bn": "[Kr]"
+          },
+          {
+            "en": "[Kr] 4d⁸ 5s¹",
+            "bn": "[Kr] 4d⁸ 5s¹"
+          },
+          {
+            "en": "[Xe]",
+            "bn": "[Xe]"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The full configuration is [Kr] 4d⁸ 5s¹.",
+          "bn": "সম্পূর্ণ বিন্যাস হল [Kr] 4d⁸ 5s¹।"
+        }
+      },
+      {
+        "question": {
+          "en": "Who is credited with the discovery of Rhodium?",
+          "bn": "রোডিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Mendeleev",
+            "bn": "মেন্ডেলিভ"
+          },
+          {
+            "en": "Lavoisier",
+            "bn": "ল্যাভয়সিয়ে"
+          },
+          {
+            "en": "William Hyde Wollaston",
+            "bn": "উইলিয়াম হাইড উলাস্টন"
+          },
+          {
+            "en": "Davy",
+            "bn": "ডেভি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "William Hyde Wollaston is credited.",
+          "bn": "কৃতিত্ব দেওয়া হয় উইলিয়াম হাইড উলাস্টন-কে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which year was Rhodium discovered?",
+          "bn": "রোডিয়াম কোন সালে আবিষ্কৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "1753",
+            "bn": "1753"
+          },
+          {
+            "en": "1803",
+            "bn": "1803"
+          },
+          {
+            "en": "1853",
+            "bn": "1853"
+          },
+          {
+            "en": "1903",
+            "bn": "1903"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Discovered in 1803.",
+          "bn": "1803 সালে আবিষ্কৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of Rhodium?",
+          "bn": "রোডিয়াম-এর সর্বাধিক সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+6",
+            "bn": "+6"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "The dominant oxidation state is +6.",
+          "bn": "প্রধান জারণ অবস্থা +6।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate density of Rhodium?",
+          "bn": "রোডিয়াম-এর আনুমানিক ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "6.21 g/cm³",
+            "bn": "6.21 গ্রা/সেমি³"
+          },
+          {
+            "en": "12.410 g/cm³",
+            "bn": "12.410 গ্রা/সেমি³"
+          },
+          {
+            "en": "24.82 g/cm³",
+            "bn": "24.82 গ্রা/সেমি³"
+          },
+          {
+            "en": "49.64 g/cm³",
+            "bn": "49.64 গ্রা/সেমি³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Density ≈ 12.410 g/cm³.",
+          "bn": "ঘনত্ব ≈ 12.410 গ্রা/সেমি³।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate melting point of Rhodium (K)?",
+          "bn": "রোডিয়াম-এর আনুমানিক গলনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "1118 K",
+            "bn": "1118 K"
+          },
+          {
+            "en": "2237 K",
+            "bn": "2237 K"
+          },
+          {
+            "en": "4474 K",
+            "bn": "4474 K"
+          },
+          {
+            "en": "8948 K",
+            "bn": "8948 K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Melting point ≈ 2237 K.",
+          "bn": "গলনাঙ্ক ≈ 2237 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate boiling point of Rhodium (K)?",
+          "bn": "রোডিয়াম-এর আনুমানিক স্ফুটনাঙ্ক (K) কত?"
+        },
+        "options": [
+          {
+            "en": "992 K",
+            "bn": "992 K"
+          },
+          {
+            "en": "1984 K",
+            "bn": "1984 K"
+          },
+          {
+            "en": "3968 K",
+            "bn": "3968 K"
+          },
+          {
+            "en": "7936 K",
+            "bn": "7936 K"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Boiling point ≈ 3968 K.",
+          "bn": "স্ফুটনাঙ্ক ≈ 3968 K।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the Pauling electronegativity of Rhodium?",
+          "bn": "রোডিয়াম-এর পলিং তড়িৎঋণাত্মকতা কত?"
+        },
+        "options": [
+          {
+            "en": "1.14",
+            "bn": "1.14"
+          },
+          {
+            "en": "2.28",
+            "bn": "2.28"
+          },
+          {
+            "en": "3.42",
+            "bn": "3.42"
+          },
+          {
+            "en": "4.56",
+            "bn": "4.56"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electronegativity ≈ 2.28.",
+          "bn": "তড়িৎঋণাত্মকতা ≈ 2.28।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the first ionization energy of Rhodium (kJ/mol)?",
+          "bn": "রোডিয়াম-এর প্রথম আয়নীকরণ শক্তি (kJ/mol) কত?"
+        },
+        "options": [
+          {
+            "en": "359",
+            "bn": "359"
+          },
+          {
+            "en": "719",
+            "bn": "719"
+          },
+          {
+            "en": "1439",
+            "bn": "1439"
+          },
+          {
+            "en": "2159",
+            "bn": "2159"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "First IE ≈ 719.7 kJ/mol.",
+          "bn": "প্রথম IE ≈ 719.7 kJ/mol।"
+        }
+      },
+      {
+        "question": {
+          "en": "What block of the periodic table does Rhodium belong to?",
+          "bn": "রোডিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্ভুক্ত?"
+        },
+        "options": [
+          {
+            "en": "s",
+            "bn": "s"
+          },
+          {
+            "en": "p",
+            "bn": "p"
+          },
+          {
+            "en": "d",
+            "bn": "d"
+          },
+          {
+            "en": "f",
+            "bn": "f"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Rhodium is in the d-block.",
+          "bn": "রোডিয়াম d-ব্লকে রয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many valence electrons does Rhodium have?",
+          "bn": "রোডিয়াম-এর কয়টি ভ্যালেন্স ইলেকট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "8",
+            "bn": "8"
+          },
+          {
+            "en": "9",
+            "bn": "9"
+          },
+          {
+            "en": "10",
+            "bn": "10"
+          },
+          {
+            "en": "11",
+            "bn": "11"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "9 valence electrons.",
+          "bn": "9 ভ্যালেন্স ইলেকট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is Rhodium's atomic mass (u)?",
+          "bn": "রোডিয়াম-এর পারমাণবিক ভর (u) কত?"
+        },
+        "options": [
+          {
+            "en": "51.45",
+            "bn": "51.45"
+          },
+          {
+            "en": "102.90549",
+            "bn": "102.90549"
+          },
+          {
+            "en": "154.36",
+            "bn": "154.36"
+          },
+          {
+            "en": "205.81",
+            "bn": "205.81"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Standard atomic weight ≈ 102.90549.",
+          "bn": "আদর্শ পারমাণবিক ওজন ≈ 102.90549।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the most abundant stable isotope of Rhodium have?",
+          "bn": "রোডিয়াম-এর সর্বাধিক প্রচুর স্থিতিশীল আইসোটোপে কয়টি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "56",
+            "bn": "56"
+          },
+          {
+            "en": "58",
+            "bn": "58"
+          },
+          {
+            "en": "60",
+            "bn": "60"
+          },
+          {
+            "en": "62",
+            "bn": "62"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most abundant isotope has 58 neutrons.",
+          "bn": "সর্বাধিক প্রচুর আইসোটোপে 58 নিউট্রন আছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What crystal structure does solid Rhodium adopt at standard conditions?",
+          "bn": "আদর্শ অবস্থায় কঠিন রোডিয়াম কোন স্ফটিক কাঠামো গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "Cubic",
+            "bn": "ঘনক"
+          },
+          {
+            "en": "Hexagonal",
+            "bn": "ষড়ভুজাকার"
+          },
+          {
+            "en": "Face-centered cubic",
+            "bn": "ফেস-সেন্টারড কিউবিক"
+          },
+          {
+            "en": "Amorphous",
+            "bn": "অনিয়মিত"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "It crystallizes in a Face-centered cubic lattice.",
+          "bn": "এটি ফেস-সেন্টারড কিউবিক জালিতে স্ফটিক হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "At room temperature, in which phase is Rhodium?",
+          "bn": "কক্ষ তাপমাত্রায়, রোডিয়াম কোন দশায় থাকে?"
+        },
+        "options": [
+          {
+            "en": "Solid",
+            "bn": "কঠিন"
+          },
+          {
+            "en": "Liquid",
+            "bn": "তরল"
+          },
+          {
+            "en": "Gas",
+            "bn": "গ্যাস"
+          },
+          {
+            "en": "Plasma",
+            "bn": "প্লাজমা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Rhodium is a solid at STP.",
+          "bn": "STP-তে রোডিয়াম একটি কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which is a typical compound containing Rhodium?",
+          "bn": "রোডিয়াম ধারণকারী একটি সাধারণ যৌগ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "H₂O",
+            "bn": "H₂O"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "RhCl₃",
+            "bn": "RhCl₃"
+          },
+          {
+            "en": "CO₂",
+            "bn": "CO₂"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "RhCl₃ is a common compound.",
+          "bn": "RhCl₃ একটি সাধারণ যৌগ।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Common misconception about Rhodium addressed by modern chemistry.",
+        "bn": "রোডিয়াম সম্পর্কে সাধারণ ভুল ধারণা আধুনিক রসায়ন দ্বারা সম্বোধিত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember the symbol Rh and atomic number, and its group/period.",
+        "bn": "প্রতীক Rh এবং পারমাণবিক সংখ্যা, এবং এর গ্রুপ/পর্যায় মনে রাখুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Element-specific reaction.",
+          "bn": "উপাদান-নির্দিষ্ট বিক্রিয়া।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical oxidation half-reaction.",
+          "bn": "সাধারণ জারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "",
+        "description": {
+          "en": "Typical reduction half-reaction.",
+          "bn": "সাধারণ বিজারণ অর্ধ-বিক্রিয়া।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Metallic",
+          "bn": "covalent"
+        },
+        "molecule": "",
+        "description": {
+          "en": "Forms bonds typical of its group.",
+          "bn": "এর গ্রুপের সাধারণ বন্ধন গঠন করে।"
+        }
+      }
+    ]
+  }
+}

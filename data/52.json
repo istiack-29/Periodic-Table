@@ -1,0 +1,271 @@
+{
+  "elementId": 52,
+  "basicInformation": {
+    "atomicNumber": 52,
+    "symbol": "Te",
+    "name": { "en": "Tellurium", "bn": "টেলুরিয়াম" },
+    "pronunciation": { "en": "/tɛˈlʊəriəm/", "bn": "টেল-লুর-ি-য়াম" },
+    "atomicMass": 127.60,
+    "category": { "en": "Metalloid", "bn": "ধাতুকল্প" },
+    "group": 16,
+    "period": 5,
+    "block": "p",
+    "phase": { "en": "Solid", "bn": "কঠিন" },
+    "appearance": { "en": "Silvery lustrous gray solid", "bn": "রূপালী চকচকে ধূসর কঠিন" },
+    "color": { "en": "Silvery white", "bn": "রূপালী সাদা" },
+    "radioactive": false,
+    "naturalOccurrence": { "en": "Primordial", "bn": "আদিম" }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": { "en": "Franz-Joseph Müller von Reichenstein", "bn": "ফ্রাঞ্জ-জোসেফ মুলার ফন রাইশেনস্টাইন" },
+    "discoveryYear": 1782,
+    "discoveryLocation": { "en": "Transylvania (modern Romania)", "bn": "ট্রান্সিলভেনিয়া (আধুনিক রোমানিয়া)" },
+    "discoveryStory": {
+      "en": "Müller von Reichenstein identified it in gold ores from Transylvania. Martin Heinrich Klaproth confirmed and named it after Tellus, Latin for Earth, in 1798.",
+      "bn": "মুলার ফন রাইশেনস্টাইন এটি ট্রান্সিলভেনিয়ার সোনার আকরিকে শনাক্ত করেন। ১৭৯৮ সালে মার্টিন হাইনরিখ ক্ল্যাপ্রথ এটি নিশ্চিত করেন এবং পৃথিবীর ল্যাটিন নাম 'টেলাস' অনুসারে এর নামকরণ করেন।"
+    },
+    "historicalUses": {
+      "en": "Used in early rubber vulcanization and as a colorant in glass and ceramics.",
+      "bn": "প্রাথমিক রাবার ভলকানাইজেশনে এবং কাচ ও সিরামিকের রঙ্গক হিসেবে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "Klaproth's 1798 isolation experiments distinguishing tellurium from antimony and bismuth contaminants.",
+      "bn": "ক্ল্যাপ্রথের ১৭৯৮ সালের পরীক্ষা যা টেলুরিয়ামকে অ্যান্টিমনি এবং বিসমাথ দূষক থেকে আলাদা করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 52,
+    "neutrons": 76,
+    "electrons": 52,
+    "valenceElectrons": 6,
+    "shells": 5,
+    "shellDistribution": [2, 8, 18, 18, 6],
+    "electronConfiguration": "[Kr] 4d¹⁰ 5s² 5p⁴",
+    "orbitalConfiguration": { "1s": 2, "2s": 2, "2p": 6, "3s": 2, "3p": 6, "3d": 10, "4s": 2, "4p": 6, "4d": 10, "5s": 2, "5p": 4 },
+    "oxidationStates": [-2, 2, 4, 6],
+    "quantumNumbers": { "principal": 5, "azimuthal": 1, "magnetic": -1, "spin": -0.5 }
+  },
+  "physicalProperties": {
+    "density": { "value": 6.24, "unit": "g/cm³" },
+    "meltingPoint": { "value": 722.66, "unit": "K" },
+    "boilingPoint": { "value": 1261, "unit": "K" },
+    "atomicRadius": { "value": 140, "unit": "pm" },
+    "covalentRadius": { "value": 138, "unit": "pm" },
+    "vanDerWaalsRadius": { "value": 206, "unit": "pm" },
+    "thermalConductivity": { "value": 3.0, "unit": "W/(m·K)" },
+    "electricalConductivity": { "value": 1.0e2, "unit": "S/m" },
+    "specificHeat": { "value": 0.202, "unit": "J/(g·K)" },
+    "hardness": { "value": 2.25, "unit": "Mohs" },
+    "crystalStructure": { "en": "Trigonal", "bn": "ট্রাইগোনাল" },
+    "magneticOrdering": { "en": "Diamagnetic", "bn": "ডায়াম্যাগনেটিক" }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.10,
+    "ionizationEnergy": { "value": 869.3, "unit": "kJ/mol" },
+    "electronAffinity": { "value": 190.2, "unit": "kJ/mol" },
+    "reactivity": {
+      "en": "Burns in oxygen with a blue-green flame to form TeO₂; reacts with halogens and concentrated acids.",
+      "bn": "অক্সিজেনে নীল-সবুজ শিখায় জ্বলে TeO₂ গঠন করে; হ্যালোজেন এবং ঘন অ্যাসিডের সাথে বিক্রিয়া করে।"
+    },
+    "commonCompounds": ["TeO₂", "H₂Te", "TeCl₄", "CdTe", "Bi₂Te₃"],
+    "flameTestColor": { "en": "Green", "bn": "সবুজ" },
+    "spectralLines": ["214.28nm", "225.90nm", "238.58nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Alloying agent in free-machining steel and copper to improve machinability and ductility.",
+      "bn": "যন্ত্রপাতি এবং নমনীয়তা উন্নত করার জন্য ফ্রি-মেশিনিং স্টিল এবং তামাতে সংকর উপাদান।"
+    },
+    "commercialUses": {
+      "en": "Vulcanizing agent in rubber; tinting agent in glass and ceramics.",
+      "bn": "রাবারে ভলকানাইজিং এজেন্ট; কাচ এবং সিরামিকে রঙ্গক।"
+    },
+    "electronicsUses": {
+      "en": "Component of phase-change memory (Ge-Sb-Te alloys) used in rewritable optical media and PCM chips.",
+      "bn": "ফেজ-চেঞ্জ মেমরির উপাদান (Ge-Sb-Te সংকর) যা পুনঃলিখনযোগ্য অপটিক্যাল মিডিয়া এবং PCM চিপগুলিতে ব্যবহৃত হয়।"
+    },
+    "semiconductorUses": {
+      "en": "Cadmium telluride (CdTe) is a key II-VI semiconductor for thin-film solar cells and X-ray detectors.",
+      "bn": "ক্যাডমিয়াম টেলুরাইড (CdTe) পাতলা-ফিল্ম সৌর কোষ এবং এক্স-রে ডিটেক্টরের জন্য একটি গুরুত্বপূর্ণ II-VI অর্ধপরিবাহী।"
+    },
+    "aerospaceUses": {
+      "en": "Bi₂Te₃ thermoelectric modules power radioisotope generators and cool satellite IR sensors.",
+      "bn": "Bi₂Te₃ থার্মোইলেকট্রিক মডিউল রেডিওআইসোটোপ জেনারেটরকে শক্তি দেয় এবং স্যাটেলাইট আইআর সেন্সরকে শীতল করে।"
+    },
+    "batteryUses": {
+      "en": "Researched as a cathode material in lithium-tellurium and sodium-tellurium next-gen batteries.",
+      "bn": "পরবর্তী প্রজন্মের লিথিয়াম-টেলুরিয়াম এবং সোডিয়াম-টেলুরিয়াম ব্যাটারিতে ক্যাথোড পদার্থ হিসাবে গবেষণা করা হচ্ছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Ge₂Sb₂Te₅ enables neuromorphic photonic memory and in-memory computing for AI inference.",
+      "bn": "Ge₂Sb₂Te₅ এআই ইনফারেন্সের জন্য নিউরোমর্ফিক ফোটোনিক মেমরি এবং ইন-মেমরি কম্পিউটিং সক্ষম করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "CdTe thin-film photovoltaics are the second-most produced solar technology after silicon.",
+      "bn": "CdTe থিন-ফিল্ম ফটোভোলটাইক সিলিকনের পরে দ্বিতীয় সর্বাধিক উৎপাদিত সৌর প্রযুক্তি।"
+    },
+    "nanotechnologyUses": {
+      "en": "Tellurium nanowires and quantum dots used in flexible electronics and biosensing.",
+      "bn": "টেলুরিয়াম ন্যানোতার এবং কোয়ান্টাম ডট নমনীয় ইলেকট্রনিক্স এবং বায়োসেন্সিংয়ে ব্যবহৃত।"
+    },
+    "nuclearUses": {
+      "en": "Te-130 used in neutrinoless double-beta decay experiments (CUORE) to probe physics beyond Standard Model.",
+      "bn": "স্ট্যান্ডার্ড মডেলের বাইরে পদার্থবিজ্ঞান অনুসন্ধানে নিউট্রিনোহীন ডবল-বিটা ক্ষয় পরীক্ষায় (CUORE) Te-130 ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "HgCdTe (mercury cadmium telluride) detectors used in advanced thermal targeting and night vision.",
+      "bn": "HgCdTe (পারদ ক্যাডমিয়াম টেলুরাইড) ডিটেক্টর উন্নত তাপীয় লক্ষ্য এবং নাইট ভিশনে ব্যবহৃত।"
+    },
+    "medicalUses": {
+      "en": "CdZnTe gamma-ray detectors used in SPECT imaging and nuclear medicine.",
+      "bn": "CdZnTe গামা-রে ডিটেক্টর SPECT ইমেজিং এবং পারমাণবিক ওষুধে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "Negligible direct use; trace levels naturally present in some seafood and grains.",
+      "bn": "নগণ্য সরাসরি ব্যবহার; কিছু সামুদ্রিক খাবার এবং শস্যে স্বাভাবিকভাবে ট্রেস স্তর উপস্থিত।"
+    },
+    "constructionUses": {
+      "en": "Coloring agent for blue and brown tints in architectural ceramic glazes.",
+      "bn": "স্থাপত্য সিরামিক গ্লেজে নীল এবং বাদামী আভার জন্য রঙ্গক।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Not known to be essential to life; some fungi can methylate tellurium into volatile organotellurides.",
+      "bn": "জীবনের জন্য অপরিহার্য বলে জানা যায় না; কিছু ছত্রাক টেলুরিয়ামকে উদ্বায়ী অর্গানোটেলুরাইডে মিথিলেট করতে পারে।"
+    },
+    "humanBodyRole": {
+      "en": "No biological function; ingestion produces a distinctive garlic-like body odor due to dimethyl telluride.",
+      "bn": "কোন জৈবিক কার্যকারিতা নেই; ডাইমিথাইল টেলুরাইডের কারণে গ্রহণ করলে রসুনের মতো শরীরের গন্ধ উৎপন্ন হয়।"
+    },
+    "toxicity": {
+      "en": "Moderately toxic; tellurium compounds cause garlic breath, dermatitis, and central nervous system effects.",
+      "bn": "মাঝারিভাবে বিষাক্ত; টেলুরিয়াম যৌগ রসুনের শ্বাস, ডার্মাটাইটিস এবং কেন্দ্রীয় স্নায়ুতন্ত্রের প্রভাব ঘটায়।"
+    },
+    "environmentalImpact": {
+      "en": "Released from copper refining and coal combustion; bioaccumulates modestly in aquatic ecosystems.",
+      "bn": "তামা পরিশোধন এবং কয়লা দহন থেকে নিঃসৃত; জলজ ইকোসিস্টেমে পরিমিতভাবে বায়োঅ্যাকিউমুলেট হয়।"
+    },
+    "pollutionRisks": {
+      "en": "End-of-life CdTe solar panels require careful recycling to prevent cadmium release.",
+      "bn": "ক্যাডমিয়াম নিঃসরণ রোধে জীবন-শেষ CdTe সৌর প্যানেলগুলির সাবধানে পুনর্ব্যবহার প্রয়োজন।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered as a by-product of copper electrorefining anode slimes and end-of-life PV modules.",
+      "bn": "তামার ইলেক্ট্রোরিফাইনিং অ্যানোড স্লাইম এবং জীবন-শেষ PV মডিউলগুলির উপজাত হিসাবে পুনরুদ্ধার করা হয়।"
+    },
+    "sustainabilityScore": 5.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      { "en": "China", "bn": "চীন" },
+      { "en": "Japan", "bn": "জাপান" },
+      { "en": "Russia", "bn": "রাশিয়া" }
+    ],
+    "miningMethods": {
+      "en": "Almost exclusively obtained as a by-product of copper electrolytic refining (anode slimes).",
+      "bn": "প্রায় একচেটিয়াভাবে তামার ইলেক্ট্রোলাইটিক পরিশোধনের (অ্যানোড স্লাইম) উপজাত হিসাবে প্রাপ্ত।"
+    },
+    "abundance": {
+      "universe": { "en": "0.000000009% by mass", "bn": "ভর অনুযায়ী ০.০০০০০০০০৯%" },
+      "earthCrust": { "en": "0.0000001% by mass (very rare)", "bn": "ভর অনুযায়ী ০.০০০০০০১% (অত্যন্ত বিরল)" },
+      "oceans": { "en": "Negligible", "bn": "নগণ্য" }
+    },
+    "marketValue": {
+      "en": "Approximately $70 - $90 per kg (2024), highly volatile based on solar PV demand.",
+      "bn": "আনুমানিক প্রতি কেজি $৭০ - $৯০ (২০২৪), সৌর PV চাহিদার উপর ভিত্তি করে অত্যন্ত অস্থির।"
+    },
+    "futureDemand": {
+      "en": "Rising demand from thin-film solar (First Solar) and phase-change memory technology.",
+      "bn": "থিন-ফিল্ম সোলার (ফার্স্ট সোলার) এবং ফেজ-চেঞ্জ মেমরি প্রযুক্তি থেকে চাহিদা বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Listed as a critical mineral by the US, EU, and Japan due to solar and electronics dependencies.",
+      "bn": "সৌর এবং ইলেকট্রনিক্স নির্ভরতার কারণে মার্কিন যুক্তরাষ্ট্র, ইইউ এবং জাপান কর্তৃক একটি গুরুত্বপূর্ণ খনিজ হিসেবে তালিকাভুক্ত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Tellurium dust is combustible; inhalation causes garlic breath, fatigue, and metallic taste.",
+      "bn": "টেলুরিয়াম ধুলো দাহ্য; শ্বাস গ্রহণ রসুনের শ্বাস, ক্লান্তি এবং ধাতব স্বাদ ঘটায়।"
+    },
+    "storageRequirements": {
+      "en": "Store in dry, sealed containers away from strong oxidizers and acids; keep away from heat sources.",
+      "bn": "শুষ্ক, সিল করা পাত্রে শক্তিশালী জারক এবং অ্যাসিড থেকে দূরে সংরক্ষণ করুন; তাপের উৎস থেকে দূরে রাখুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use fume hoods, nitrile gloves, and dust masks; avoid skin and eye contact.",
+      "bn": "ধোঁয়া হুড, নাইট্রাইল গ্লাভস এবং ধুলো মাস্ক ব্যবহার করুন; ত্বক এবং চোখের সংস্পর্শ এড়িয়ে চলুন।"
+    },
+    "exposureRisks": {
+      "en": "Hydrogen telluride (H₂Te) is highly toxic and unstable; chronic exposure may damage kidneys.",
+      "bn": "হাইড্রোজেন টেলুরাইড (H₂Te) অত্যন্ত বিষাক্ত এবং অস্থিতিশীল; দীর্ঘস্থায়ী এক্সপোজার কিডনির ক্ষতি করতে পারে।"
+    },
+    "safetyLevel": { "en": "Moderate Risk", "bn": "মাঝারি ঝুঁকি" },
+    "hazardClassifications": [
+      { "en": "Acute Toxicity (Oral)", "bn": "তীব্র বিষাক্ততা (মৌখিক)" },
+      { "en": "Reproductive Toxicity Category 2", "bn": "প্রজনন বিষাক্ততা শ্রেণী ২" }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Tellurium is a rare silvery metalloid named after Earth, used today mainly in solar panels and memory chips.",
+      "bn": "টেলুরিয়াম একটি বিরল রূপালী ধাতুকল্প যা পৃথিবীর নামে নামকরণ করা হয়েছে, আজ প্রধানত সৌর প্যানেল এবং মেমরি চিপগুলিতে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "A group 16 chalcogen below selenium with semiconducting properties and strong tendency to form chain structures. Its narrow bandgap and high atomic number give it exceptional thermoelectric and photovoltaic performance.",
+      "bn": "সেলেনিয়ামের নিচে একটি গ্রুপ ১৬ ক্যালকোজেন যা অর্ধপরিবাহী বৈশিষ্ট্য এবং শৃঙ্খল কাঠামো গঠনের শক্তিশালী প্রবণতা সহ। এর সংকীর্ণ ব্যান্ডগ্যাপ এবং উচ্চ পারমাণবিক সংখ্যা এটিকে ব্যতিক্রমী থার্মোইলেকট্রিক এবং ফটোভোলটাইক কর্মক্ষমতা দেয়।"
+    },
+    "funFacts": [
+      { "en": "Eating even tiny amounts gives breath that reeks of garlic for weeks.", "bn": "এমনকি ক্ষুদ্র পরিমাণ খেলে সপ্তাহের পর সপ্তাহ ধরে রসুনের গন্ধে শ্বাস ছড়ায়।" },
+      { "en": "Tellurium is rarer in Earth's crust than gold or platinum.", "bn": "টেলুরিয়াম পৃথিবীর ভূত্বকে সোনা বা প্ল্যাটিনামের চেয়েও বিরল।" }
+    ],
+    "comparisons": [
+      { "compareWithId": 34, "relation": { "en": "Like selenium above it, tellurium is a chalcogen semiconductor, but tellurium is denser and more metallic.", "bn": "এর উপরের সেলেনিয়ামের মতো, টেলুরিয়াম একটি ক্যালকোজেন অর্ধপরিবাহী, তবে টেলুরিয়াম ঘন এবং বেশি ধাতব।" } }
+    ],
+    "relatedElements": [34, 51, 53, 84],
+    "quizQuestions": [
+      { "question": { "en": "What is the chemical symbol for tellurium?", "bn": "টেলুরিয়ামের রাসায়নিক প্রতীক কী?" }, "options": [{ "en": "Tl", "bn": "Tl" }, { "en": "Te", "bn": "Te" }, { "en": "Tb", "bn": "Tb" }, { "en": "Tm", "bn": "Tm" }], "correctOptionIndex": 1, "explanation": { "en": "Te is the symbol; Tl is thallium and Tb is terbium.", "bn": "Te হল প্রতীক; Tl হল থ্যালিয়াম এবং Tb হল টার্বিয়াম।" } },
+      { "question": { "en": "Tellurium was named after which celestial body?", "bn": "টেলুরিয়াম কোন মহাজাগতিক বস্তুর নামে নামকরণ করা হয়েছে?" }, "options": [{ "en": "The Moon", "bn": "চাঁদ" }, { "en": "Earth (Tellus)", "bn": "পৃথিবী (টেলাস)" }, { "en": "Mars", "bn": "মঙ্গল" }, { "en": "The Sun", "bn": "সূর্য" }], "correctOptionIndex": 1, "explanation": { "en": "Klaproth named it from the Latin 'tellus' meaning Earth.", "bn": "ক্ল্যাপ্রথ ল্যাটিন 'টেলাস' থেকে এটির নামকরণ করেন যার অর্থ পৃথিবী।" } },
+      { "question": { "en": "Tellurium belongs to which family of elements?", "bn": "টেলুরিয়াম কোন উপাদান পরিবারের অন্তর্ভুক্ত?" }, "options": [{ "en": "Halogens", "bn": "হ্যালোজেন" }, { "en": "Chalcogens (Group 16)", "bn": "ক্যালকোজেন (গ্রুপ ১৬)" }, { "en": "Noble gases", "bn": "নিষ্ক্রিয় গ্যাস" }, { "en": "Alkali metals", "bn": "ক্ষারীয় ধাতু" }], "correctOptionIndex": 1, "explanation": { "en": "Group 16 elements (O, S, Se, Te, Po) are called chalcogens.", "bn": "গ্রুপ ১৬ উপাদান (O, S, Se, Te, Po) ক্যালকোজেন বলা হয়।" } },
+      { "question": { "en": "Which thin-film solar cell technology relies primarily on tellurium?", "bn": "কোন থিন-ফিল্ম সৌর কোষ প্রযুক্তি প্রাথমিকভাবে টেলুরিয়ামের উপর নির্ভর করে?" }, "options": [{ "en": "CIGS", "bn": "CIGS" }, { "en": "CdTe", "bn": "CdTe" }, { "en": "Perovskite", "bn": "পেরোভস্কাইট" }, { "en": "Amorphous silicon", "bn": "অ্যামরফাস সিলিকন" }], "correctOptionIndex": 1, "explanation": { "en": "Cadmium telluride (CdTe) panels are the leading commercial thin-film PV technology.", "bn": "ক্যাডমিয়াম টেলুরাইড (CdTe) প্যানেল প্রধান বাণিজ্যিক থিন-ফিল্ম PV প্রযুক্তি।" } },
+      { "question": { "en": "Most commercial tellurium is recovered as a by-product of refining which metal?", "bn": "বেশিরভাগ বাণিজ্যিক টেলুরিয়াম কোন ধাতু পরিশোধনের উপজাত হিসাবে পুনরুদ্ধার করা হয়?" }, "options": [{ "en": "Iron", "bn": "লোহা" }, { "en": "Aluminum", "bn": "অ্যালুমিনিয়াম" }, { "en": "Copper", "bn": "তামা" }, { "en": "Zinc", "bn": "দস্তা" }], "correctOptionIndex": 2, "explanation": { "en": "It collects in anode slimes during copper electrorefining.", "bn": "তামার ইলেক্ট্রোরিফাইনিংয়ের সময় এটি অ্যানোড স্লাইমে জমা হয়।" } },
+      { "question": { "en": "What is the electron configuration ending of tellurium?", "bn": "টেলুরিয়ামের ইলেকট্রন কনফিগারেশনের শেষ কী?" }, "options": [{ "en": "5s²5p²", "bn": "5s²5p²" }, { "en": "5s²5p³", "bn": "5s²5p³" }, { "en": "5s²5p⁴", "bn": "5s²5p⁴" }, { "en": "5s²5p⁵", "bn": "5s²5p⁵" }], "correctOptionIndex": 2, "explanation": { "en": "Tellurium has six valence electrons: 5s²5p⁴.", "bn": "টেলুরিয়ামের ছয়টি ভ্যালেন্স ইলেকট্রন রয়েছে: 5s²5p⁴।" } },
+      { "question": { "en": "Bi₂Te₃ is famous as the best room-temperature material for:", "bn": "Bi₂Te₃ কক্ষ-তাপমাত্রার সর্বোত্তম পদার্থ হিসেবে বিখ্যাত:" }, "options": [{ "en": "Superconductivity", "bn": "অতিপরিবাহিতা" }, { "en": "Thermoelectric energy conversion", "bn": "থার্মোইলেকট্রিক শক্তি রূপান্তর" }, { "en": "Optical fibers", "bn": "অপটিক্যাল ফাইবার" }, { "en": "Catalysis", "bn": "অনুঘটক" }], "correctOptionIndex": 1, "explanation": { "en": "Bismuth telluride has the highest figure of merit (ZT) near 300 K for Peltier coolers and generators.", "bn": "বিসমাথ টেলুরাইডের ৩০০ K এর কাছাকাছি পেলটিয়ার কুলার এবং জেনারেটরের জন্য সর্বোচ্চ ফিগার অফ মেরিট (ZT) রয়েছে।" } },
+      { "question": { "en": "Which phase-change memory alloy heavily uses tellurium?", "bn": "কোন ফেজ-চেঞ্জ মেমরি সংকর প্রচুর পরিমাণে টেলুরিয়াম ব্যবহার করে?" }, "options": [{ "en": "AlGaAs", "bn": "AlGaAs" }, { "en": "Ge₂Sb₂Te₅ (GST)", "bn": "Ge₂Sb₂Te₅ (GST)" }, { "en": "SiO₂", "bn": "SiO₂" }, { "en": "BaTiO₃", "bn": "BaTiO₃" }], "correctOptionIndex": 1, "explanation": { "en": "GST chalcogenide switches between amorphous and crystalline states for non-volatile memory.", "bn": "GST ক্যালকোজেনাইড অ-উদ্বায়ী মেমরির জন্য নিরাকার এবং স্ফটিক অবস্থার মধ্যে স্যুইচ করে।" } },
+      { "question": { "en": "Which oxidation state of tellurium is NOT commonly observed?", "bn": "টেলুরিয়ামের কোন জারণ অবস্থা সাধারণত পরিলক্ষিত হয় না?" }, "options": [{ "en": "-2", "bn": "-২" }, { "en": "+4", "bn": "+৪" }, { "en": "+6", "bn": "+৬" }, { "en": "+7", "bn": "+৭" }], "correctOptionIndex": 3, "explanation": { "en": "Tellurium commonly shows -2, +2, +4, +6 but not +7.", "bn": "টেলুরিয়াম সাধারণত -২, +২, +৪, +৬ দেখায় কিন্তু +৭ নয়।" } },
+      { "question": { "en": "Ingesting tellurium produces what notable physiological symptom?", "bn": "টেলুরিয়াম গ্রহণ কোন উল্লেখযোগ্য শারীরবৃত্তীয় লক্ষণ উৎপন্ন করে?" }, "options": [{ "en": "Blue urine", "bn": "নীল প্রস্রাব" }, { "en": "Garlic-like breath", "bn": "রসুনের মতো শ্বাস" }, { "en": "Hair loss", "bn": "চুল পড়া" }, { "en": "Skin glowing", "bn": "ত্বকের চকচকে" }], "correctOptionIndex": 1, "explanation": { "en": "Methylated to volatile dimethyl telluride, which is exhaled, giving garlic breath for weeks.", "bn": "উদ্বায়ী ডাইমিথাইল টেলুরাইডে মিথিলেটেড হয়, যা নিঃশ্বাসের সাথে বের হয়, যা সপ্তাহের পর সপ্তাহ রসুনের গন্ধযুক্ত শ্বাস দেয়।" } },
+      { "question": { "en": "HgCdTe (MCT) detectors are crucial in which technology?", "bn": "HgCdTe (MCT) ডিটেক্টর কোন প্রযুক্তিতে গুরুত্বপূর্ণ?" }, "options": [{ "en": "Radio broadcasting", "bn": "রেডিও সম্প্রচার" }, { "en": "Infrared thermal imaging", "bn": "ইনফ্রারেড তাপীয় চিত্রায়ন" }, { "en": "Ultrasound", "bn": "আল্ট্রাসাউন্ড" }, { "en": "X-ray crystallography", "bn": "এক্স-রে স্ফটিকবিদ্যা" }], "correctOptionIndex": 1, "explanation": { "en": "MCT is the dominant material for tunable high-performance IR sensors and night vision.", "bn": "MCT টিউনযোগ্য উচ্চ-কর্মক্ষমতা আইআর সেন্সর এবং নাইট ভিশনের প্রধান পদার্থ।" } },
+      { "question": { "en": "What color flame does tellurium produce when burned in air?", "bn": "বাতাসে পোড়ালে টেলুরিয়াম কোন রঙের শিখা উৎপন্ন করে?" }, "options": [{ "en": "Red", "bn": "লাল" }, { "en": "Yellow", "bn": "হলুদ" }, { "en": "Blue-green", "bn": "নীল-সবুজ" }, { "en": "Violet", "bn": "বেগুনি" }], "correctOptionIndex": 2, "explanation": { "en": "Tellurium burns with a distinctive bluish-green flame, forming TeO₂.", "bn": "টেলুরিয়াম একটি স্বতন্ত্র নীলাভ-সবুজ শিখায় জ্বলে, TeO₂ গঠন করে।" } },
+      { "question": { "en": "Why is tellurium rarer in Earth's crust than expected from cosmic abundance?", "bn": "মহাজাগতিক প্রাচুর্য থেকে প্রত্যাশিত পৃথিবীর ভূত্বকে টেলুরিয়াম কেন বিরল?" }, "options": [{ "en": "It evaporated into space", "bn": "এটি মহাকাশে বাষ্পীভূত হয়েছিল" }, { "en": "Volatile hydrides escaped during Earth's formation", "bn": "পৃথিবী গঠনের সময় উদ্বায়ী হাইড্রাইডগুলি পালিয়ে গিয়েছিল" }, { "en": "It was consumed by bacteria", "bn": "এটি ব্যাকটেরিয়া দ্বারা গ্রাস হয়েছিল" }, { "en": "It is unstable and decays", "bn": "এটি অস্থিতিশীল এবং ক্ষয়প্রাপ্ত" }], "correctOptionIndex": 1, "explanation": { "en": "Volatile H₂Te likely escaped during early planetary formation, leaving Te depleted relative to cosmic ratios.", "bn": "প্রাথমিক গ্রহ গঠনের সময় উদ্বায়ী H₂Te সম্ভবত পালিয়ে গিয়েছিল, মহাজাগতিক অনুপাতের তুলনায় Te হ্রাস পেয়েছিল।" } },
+      { "question": { "en": "Tellurium added to steel and copper improves which property?", "bn": "স্টিল এবং তামাতে যোগ করা টেলুরিয়াম কোন বৈশিষ্ট্যের উন্নতি করে?" }, "options": [{ "en": "Corrosion resistance", "bn": "জারণ প্রতিরোধ" }, { "en": "Machinability", "bn": "যন্ত্রপাতি" }, { "en": "Magnetism", "bn": "চুম্বকত্ব" }, { "en": "Color", "bn": "রঙ" }], "correctOptionIndex": 1, "explanation": { "en": "Trace Te improves chip-breaking behavior during high-speed machining.", "bn": "ট্রেস Te উচ্চ-গতির যন্ত্রপাতির সময় চিপ-ব্রেকিং আচরণ উন্নত করে।" } },
+      { "question": { "en": "Which isotope of tellurium is used in neutrinoless double-beta decay searches?", "bn": "নিউট্রিনোহীন ডাবল-বিটা ক্ষয় অনুসন্ধানে টেলুরিয়ামের কোন আইসোটোপ ব্যবহৃত হয়?" }, "options": [{ "en": "Te-120", "bn": "Te-120" }, { "en": "Te-125", "bn": "Te-125" }, { "en": "Te-128", "bn": "Te-128" }, { "en": "Te-130", "bn": "Te-130" }], "correctOptionIndex": 3, "explanation": { "en": "The CUORE experiment uses Te-130 in TeO₂ bolometric crystals.", "bn": "CUORE পরীক্ষা TeO₂ বোলোমেট্রিক স্ফটিকে Te-130 ব্যবহার করে।" } },
+      { "question": { "en": "The hydride of tellurium, H₂Te, is best described as:", "bn": "টেলুরিয়ামের হাইড্রাইড, H₂Te, সর্বোত্তমভাবে বর্ণনা করা হয়:" }, "options": [{ "en": "Stable and odorless", "bn": "স্থিতিশীল এবং গন্ধহীন" }, { "en": "Foul-smelling, toxic, unstable gas", "bn": "দুর্গন্ধযুক্ত, বিষাক্ত, অস্থিতিশীল গ্যাস" }, { "en": "An inert liquid", "bn": "একটি নিষ্ক্রিয় তরল" }, { "en": "A green solid", "bn": "একটি সবুজ কঠিন" }], "correctOptionIndex": 1, "explanation": { "en": "H₂Te is more toxic and less stable than H₂S, with a putrid odor.", "bn": "H₂Te H₂S এর চেয়ে বেশি বিষাক্ত এবং কম স্থিতিশীল, একটি পচা গন্ধযুক্ত।" } },
+      { "question": { "en": "Tellurium primarily crystallizes in what structure?", "bn": "টেলুরিয়াম প্রাথমিকভাবে কোন কাঠামোতে স্ফটিক হয়?" }, "options": [{ "en": "Face-centered cubic", "bn": "ফেস-সেন্টার্ড কিউবিক" }, { "en": "Trigonal helical chains", "bn": "ট্রাইগোনাল হেলিক্যাল চেইন" }, { "en": "Body-centered cubic", "bn": "বডি-সেন্টার্ড কিউবিক" }, { "en": "Diamond cubic", "bn": "ডায়মন্ড কিউবিক" }], "correctOptionIndex": 1, "explanation": { "en": "Te atoms form parallel helical chains stacked in a trigonal lattice.", "bn": "Te পরমাণু একটি ট্রাইগোনাল জালিতে স্তূপীকৃত সমান্তরাল হেলিক্যাল চেইন গঠন করে।" } },
+      { "question": { "en": "First Solar, a major PV manufacturer, primarily makes panels using:", "bn": "ফার্স্ট সোলার, একটি প্রধান PV নির্মাতা, প্রাথমিকভাবে প্যানেল তৈরি করে:" }, "options": [{ "en": "Monocrystalline silicon", "bn": "মনোক্রিস্টালাইন সিলিকন" }, { "en": "Cadmium telluride", "bn": "ক্যাডমিয়াম টেলুরাইড" }, { "en": "Perovskite-silicon tandem", "bn": "পেরোভস্কাইট-সিলিকন ট্যান্ডেম" }, { "en": "Gallium arsenide", "bn": "গ্যালিয়াম আর্সেনাইড" }], "correctOptionIndex": 1, "explanation": { "en": "First Solar's CdTe technology dominates utility-scale thin-film solar.", "bn": "ফার্স্ট সোলারের CdTe প্রযুক্তি ইউটিলিটি-স্কেল থিন-ফিল্ম সৌর শিল্পে আধিপত্য বিস্তার করে।" } },
+      { "question": { "en": "Tellurium dioxide (TeO₂) is widely used in:", "bn": "টেলুরিয়াম ডাইঅক্সাইড (TeO₂) ব্যাপকভাবে ব্যবহৃত হয়:" }, "options": [{ "en": "Acousto-optic modulators", "bn": "অ্যাকোস্টো-অপটিক মডুলেটর" }, { "en": "Fertilizers", "bn": "সার" }, { "en": "Water purification", "bn": "জল বিশুদ্ধকরণ" }, { "en": "Bread leavening", "bn": "রুটি ফাঁপানো" }], "correctOptionIndex": 0, "explanation": { "en": "TeO₂ crystals have exceptional acousto-optic figure of merit for laser modulation.", "bn": "লেজার মডুলেশনের জন্য TeO₂ স্ফটিকের ব্যতিক্রমী অ্যাকোস্টো-অপটিক ফিগার অফ মেরিট রয়েছে।" } },
+      { "question": { "en": "Which is the most stable common allotrope of tellurium?", "bn": "টেলুরিয়ামের সর্বাধিক স্থিতিশীল সাধারণ অ্যালোট্রপ কোনটি?" }, "options": [{ "en": "Amorphous brown form", "bn": "নিরাকার বাদামী রূপ" }, { "en": "Crystalline silvery metallic form", "bn": "স্ফটিক রূপালী ধাতব রূপ" }, { "en": "Yellow molecular Te₈", "bn": "হলুদ আণবিক Te₈" }, { "en": "Liquid metal at STP", "bn": "STP তে তরল ধাতু" }], "correctOptionIndex": 1, "explanation": { "en": "The trigonal silvery crystalline form is thermodynamically stable at standard conditions.", "bn": "ট্রাইগোনাল রূপালী স্ফটিক রূপটি প্রমিত শর্তে তাপগতিগতভাবে স্থিতিশীল।" } }
+    ],
+    "misconceptions": [
+      { "en": "Tellurium is a metal — actually it is a semiconducting metalloid with both metallic and non-metallic traits.", "bn": "টেলুরিয়াম একটি ধাতু — আসলে এটি ধাতব এবং অধাতব উভয় বৈশিষ্ট্য সহ একটি অর্ধপরিবাহী ধাতুকল্প।" }
+    ],
+    "learningTips": [
+      { "en": "Remember Te lives below Se in group 16: same +2/+4/+6 oxidation pattern, garlic-breath warning.", "bn": "মনে রাখুন Te গ্রুপ ১৬ তে Se এর নিচে থাকে: একই +২/+৪/+৬ জারণ প্যাটার্ন, রসুনের শ্বাস সতর্কতা।" }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      { "equation": "Te + O₂ → TeO₂", "description": { "en": "Tellurium burns in oxygen forming tellurium dioxide.", "bn": "টেলুরিয়াম অক্সিজেনে জ্বলে টেলুরিয়াম ডাইঅক্সাইড গঠন করে।" } },
+      { "equation": "Te + 2Cl₂ → TeCl₄", "description": { "en": "Direct chlorination produces tellurium tetrachloride.", "bn": "সরাসরি ক্লোরিনেশন টেলুরিয়াম টেট্রাক্লোরাইড উৎপন্ন করে।" } }
+    ],
+    "oxidationExamples": [
+      { "equation": "Te → Te⁴⁺ + 4e⁻", "description": { "en": "Tellurium loses four electrons to reach the +4 state in TeO₂.", "bn": "টেলুরিয়াম TeO₂ এ +৪ অবস্থায় পৌঁছাতে চারটি ইলেকট্রন হারায়।" } }
+    ],
+    "reductionExamples": [
+      { "equation": "TeO₂ + 2H₂ → Te + 2H₂O", "description": { "en": "Hydrogen reduces tellurium dioxide back to elemental tellurium.", "bn": "হাইড্রোজেন টেলুরিয়াম ডাইঅক্সাইডকে মৌলিক টেলুরিয়ামে ফিরিয়ে আনে।" } }
+    ],
+    "bondingExamples": [
+      { "bondType": { "en": "Ionic-Covalent Bond", "bn": "আয়নিক-সমযোজী বন্ধন" }, "molecule": "CdTe", "description": { "en": "Tellurium bonds with cadmium in a zincblende structure to form a key II-VI semiconductor.", "bn": "টেলুরিয়াম জিঙ্কব্লেন্ড কাঠামোতে ক্যাডমিয়ামের সাথে বন্ধন করে একটি গুরুত্বপূর্ণ II-VI অর্ধপরিবাহী গঠন করে।" } }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "elementId": 55,
+  "basicInformation": {
+    "atomicNumber": 55,
+    "symbol": "Cs",
+    "name": { "en": "Caesium", "bn": "সিজিয়াম" },
+    "pronunciation": { "en": "/ˈsiːziəm/", "bn": "সি-জি-য়াম" },
+    "atomicMass": 132.905,
+    "category": { "en": "Alkali metal", "bn": "ক্ষারীয় ধাতু" },
+    "group": 1,
+    "period": 6,
+    "block": "s",
+    "phase": { "en": "Solid (liquid above 28.5°C)", "bn": "কঠিন (২৮.৫°C এর উপরে তরল)" },
+    "appearance": { "en": "Soft, silvery-gold metal", "bn": "নরম, রূপালী-সোনালী ধাতু" },
+    "color": { "en": "Pale gold", "bn": "ফ্যাকাশে সোনালী" },
+    "radioactive": false,
+    "naturalOccurrence": { "en": "Primordial", "bn": "আদিম" }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": { "en": "Robert Bunsen and Gustav Kirchhoff", "bn": "রবার্ট বুনসেন এবং গুস্তাভ কির্চহফ" },
+    "discoveryYear": 1860,
+    "discoveryLocation": { "en": "Germany", "bn": "জার্মানি" },
+    "discoveryStory": {
+      "en": "Discovered through spectroscopic analysis of mineral water from Dürkheim. Named after Latin 'caesius' (sky-blue) for the brilliant blue spectral lines.",
+      "bn": "ডুর্কহাইম থেকে খনিজ জলের বর্ণালী বিশ্লেষণের মাধ্যমে আবিষ্কৃত। উজ্জ্বল নীল বর্ণালী রেখার জন্য ল্যাটিন 'সিসিয়াস' (আকাশী-নীল) এর নামে নামকরণ করা হয়েছে।"
+    },
+    "historicalUses": {
+      "en": "Used as 'getter' to remove residual gases from vacuum tubes in early 20th-century electronics.",
+      "bn": "২০ শতকের প্রথম দিকের ইলেকট্রনিক্সে ভ্যাকুয়াম টিউব থেকে অবশিষ্ট গ্যাস অপসারণের জন্য 'গেটার' হিসাবে ব্যবহৃত হত।"
+    },
+    "famousExperiments": {
+      "en": "First element discovered solely by spectral analysis — a milestone establishing spectroscopy as a discovery tool.",
+      "bn": "প্রথম উপাদান যা শুধুমাত্র বর্ণালী বিশ্লেষণ দ্বারা আবিষ্কৃত — বর্ণালীবীক্ষণকে আবিষ্কারের সরঞ্জাম হিসাবে প্রতিষ্ঠিত করার একটি মাইলফলক।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 55,
+    "neutrons": 78,
+    "electrons": 55,
+    "valenceElectrons": 1,
+    "shells": 6,
+    "shellDistribution": [2, 8, 18, 18, 8, 1],
+    "electronConfiguration": "[Xe] 6s¹",
+    "orbitalConfiguration": { "1s": 2, "2s": 2, "2p": 6, "3s": 2, "3p": 6, "3d": 10, "4s": 2, "4p": 6, "4d": 10, "5s": 2, "5p": 6, "6s": 1 },
+    "oxidationStates": [1],
+    "quantumNumbers": { "principal": 6, "azimuthal": 0, "magnetic": 0, "spin": 0.5 }
+  },
+  "physicalProperties": {
+    "density": { "value": 1.873, "unit": "g/cm³" },
+    "meltingPoint": { "value": 301.7, "unit": "K" },
+    "boilingPoint": { "value": 944, "unit": "K" },
+    "atomicRadius": { "value": 265, "unit": "pm" },
+    "covalentRadius": { "value": 244, "unit": "pm" },
+    "vanDerWaalsRadius": { "value": 343, "unit": "pm" },
+    "thermalConductivity": { "value": 35.9, "unit": "W/(m·K)" },
+    "electricalConductivity": { "value": 5.0e6, "unit": "S/m" },
+    "specificHeat": { "value": 0.242, "unit": "J/(g·K)" },
+    "hardness": { "value": 0.2, "unit": "Mohs" },
+    "crystalStructure": { "en": "Body-centered cubic", "bn": "বডি-সেন্টার্ড কিউবিক" },
+    "magneticOrdering": { "en": "Paramagnetic", "bn": "প্যারাম্যাগনেটিক" }
+  },
+  "chemicalProperties": {
+    "electronegativity": 0.79,
+    "ionizationEnergy": { "value": 375.7, "unit": "kJ/mol" },
+    "electronAffinity": { "value": 45.5, "unit": "kJ/mol" },
+    "reactivity": {
+      "en": "Most reactive stable metal; reacts explosively with water and air; ignites spontaneously in moist atmosphere.",
+      "bn": "সবচেয়ে প্রতিক্রিয়াশীল স্থিতিশীল ধাতু; জল এবং বাতাসের সাথে বিস্ফোরকভাবে বিক্রিয়া করে; আর্দ্র বায়ুমণ্ডলে স্বতঃস্ফূর্তভাবে জ্বলে।"
+    },
+    "commonCompounds": ["CsCl", "Cs₂O", "CsOH", "Cs₂CO₃", "CsF"],
+    "flameTestColor": { "en": "Blue-violet", "bn": "নীল-বেগুনি" },
+    "spectralLines": ["455.5nm", "459.3nm", "852.1nm", "894.3nm"]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Caesium formate brines used as high-density drilling fluids in oil and gas exploration.",
+      "bn": "সিজিয়াম ফরমেট ব্রাইন তেল এবং গ্যাস অনুসন্ধানে উচ্চ-ঘনত্বের ড্রিলিং তরল হিসাবে ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "Caesium-iodide and caesium-fluoride scintillators in detectors; glass and ceramic specialty additives.",
+      "bn": "ডিটেক্টরে সিজিয়াম-আয়োডাইড এবং সিজিয়াম-ফ্লোরাইড সিনটিলেটর; কাচ এবং সিরামিক বিশেষ সংযোজন।"
+    },
+    "electronicsUses": {
+      "en": "Photocathode material in night-vision tubes; getter in vacuum electronic devices.",
+      "bn": "নাইট-ভিশন টিউবে ফটোক্যাথোড পদার্থ; ভ্যাকুয়াম ইলেকট্রনিক ডিভাইসে গেটার।"
+    },
+    "semiconductorUses": {
+      "en": "Cesium-lead halide perovskites (CsPbX₃) drive bright LEDs and emerging solar cells.",
+      "bn": "সিজিয়াম-লেড হ্যালাইড পেরোভস্কাইট (CsPbX₃) উজ্জ্বল এলইডি এবং উদীয়মান সৌর কোষ চালায়।"
+    },
+    "aerospaceUses": {
+      "en": "Caesium ion thrusters were among the earliest electric-propulsion systems (e.g., SERT missions).",
+      "bn": "সিজিয়াম আয়ন থ্রাস্টার প্রাথমিকতম বৈদ্যুতিক-চালক সিস্টেমগুলির মধ্যে ছিল (যেমন, SERT মিশন)।"
+    },
+    "batteryUses": {
+      "en": "Researched as additive in lithium-metal batteries to suppress dendrite formation.", 
+      "bn": "ডেনড্রাইট গঠন দমন করতে লিথিয়াম-ধাতু ব্যাটারিতে সংযোজন হিসাবে গবেষণা করা হচ্ছে।"
+    },
+    "aiHardwareUses": {
+      "en": "Cs-trapped atoms underpin neutral-atom quantum computers explored for AI optimization tasks.", 
+      "bn": "Cs-আটকানো পরমাণু এআই অপ্টিমাইজেশন কাজের জন্য অন্বেষিত নিরপেক্ষ-পরমাণু কোয়ান্টাম কম্পিউটারের ভিত্তি।"
+    },
+    "renewableEnergyUses": {
+      "en": "Inorganic CsPbI₃ perovskites are stable wide-bandgap layers in tandem solar cells.",
+      "bn": "অজৈব CsPbI₃ পেরোভস্কাইট ট্যান্ডেম সৌর কোষে স্থিতিশীল প্রশস্ত-ব্যান্ডগ্যাপ স্তর।"
+    },
+    "nanotechnologyUses": {
+      "en": "CsPbBr₃ quantum dots provide ultra-pure green emission for next-gen QLED displays.",
+      "bn": "CsPbBr₃ কোয়ান্টাম ডট পরবর্তী-প্রজন্মের QLED ডিসপ্লের জন্য অতি-শুদ্ধ সবুজ নির্গমন প্রদান করে।"
+    },
+    "nuclearUses": {
+      "en": "Cs-137 fission product used in industrial radiography, food irradiation, and medical sterilization.",
+      "bn": "Cs-137 ফিশন উৎপাদ শিল্প রেডিওগ্রাফি, খাদ্য বিকিরণ এবং চিকিৎসা জীবাণুমুক্তকরণে ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "Caesium atomic clocks anchor GPS timing, missile guidance, and secure military communications.",
+      "bn": "সিজিয়াম পরমাণু ঘড়ি জিপিএস টাইমিং, ক্ষেপণাস্ত্র নির্দেশনা এবং সুরক্ষিত সামরিক যোগাযোগকে ভিত্তি করে।"
+    },
+    "medicalUses": {
+      "en": "Cs-137 used in brachytherapy and gamma irradiation of blood products to prevent GVHD.",
+      "bn": "Cs-137 ব্র্যাকিথেরাপি এবং GVHD প্রতিরোধে রক্ত পণ্যের গামা বিকিরণে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "No direct food use; trace contamination from fallout monitored by regulators.",
+      "bn": "কোনো সরাসরি খাদ্য ব্যবহার নেই; ফলআউট থেকে ট্রেস দূষণ নিয়ন্ত্রকদের দ্বারা পর্যবেক্ষণ করা হয়।"
+    },
+    "constructionUses": {
+      "en": "Cs-137 sealed sources used in industrial gauges measuring density and thickness.",
+      "bn": "ঘনত্ব এবং পুরুত্ব পরিমাপকারী শিল্প গেজগুলিতে Cs-137 সিল করা উৎস ব্যবহৃত হয়।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No essential biological role; chemically mimics potassium and can substitute in some enzymatic processes.",
+      "bn": "কোন অপরিহার্য জৈবিক ভূমিকা নেই; রাসায়নিকভাবে পটাসিয়ামকে অনুকরণ করে এবং কিছু এনজাইম্যাটিক প্রক্রিয়ায় প্রতিস্থাপন করতে পারে।"
+    },
+    "humanBodyRole": {
+      "en": "Not required by humans; small amounts are absorbed and follow potassium pathways with low toxicity.",
+      "bn": "মানুষের প্রয়োজন নেই; ছোট পরিমাণ শোষিত হয় এবং কম বিষাক্ততার সাথে পটাসিয়াম পথ অনুসরণ করে।"
+    },
+    "toxicity": {
+      "en": "Stable Cs salts are mildly toxic; radioactive Cs-137 poses serious biological and environmental hazards.",
+      "bn": "স্থিতিশীল Cs লবণ হালকাভাবে বিষাক্ত; তেজস্ক্রিয় Cs-137 গুরুতর জৈবিক এবং পরিবেশগত বিপদ তৈরি করে।"
+    },
+    "environmentalImpact": {
+      "en": "Cs-137 from nuclear accidents persists in soils and food chains with a 30-year half-life.",
+      "bn": "পারমাণবিক দুর্ঘটনা থেকে Cs-137 ৩০ বছরের অর্ধ-জীবনের সাথে মাটি এবং খাদ্য শৃঙ্খলে স্থায়ী হয়।"
+    },
+    "pollutionRisks": {
+      "en": "Major contaminant from Chernobyl and Fukushima; bioaccumulates in fungi, fish, and herbivores.",
+      "bn": "চেরনোবিল এবং ফুকুশিমা থেকে প্রধান দূষক; ছত্রাক, মাছ এবং তৃণভোজীদের মধ্যে বায়োঅ্যাকিউমুলেট হয়।"
+    },
+    "recyclingMethods": {
+      "en": "Stable Cs recovered from pollucite ore; radioactive Cs is sealed and stored as nuclear waste.",
+      "bn": "পলুসাইট আকরিক থেকে স্থিতিশীল Cs পুনরুদ্ধার করা হয়; তেজস্ক্রিয় Cs সিল করে পারমাণবিক বর্জ্য হিসাবে সংরক্ষণ করা হয়।"
+    },
+    "sustainabilityScore": 5.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      { "en": "Canada", "bn": "কানাডা" },
+      { "en": "Namibia", "bn": "নামিবিয়া" },
+      { "en": "Zimbabwe", "bn": "জিম্বাবুয়ে" }
+    ],
+    "miningMethods": {
+      "en": "Extracted almost exclusively from pollucite ((Cs,Na)₂Al₂Si₄O₁₂·H₂O) via acid digestion and ion exchange.",
+      "bn": "অ্যাসিড হজম এবং আয়ন বিনিময়ের মাধ্যমে প্রায় একচেটিয়াভাবে পলুসাইট ((Cs,Na)₂Al₂Si₄O₁₂·H₂O) থেকে নিষ্কাশিত।"
+    },
+    "abundance": {
+      "universe": { "en": "0.000000008% by mass", "bn": "ভর অনুযায়ী ০.০০০০০০০০৮%" },
+      "earthCrust": { "en": "0.0003% by mass", "bn": "ভর অনুযায়ী ০.০০০৩%" },
+      "oceans": { "en": "0.0003 mg/L", "bn": "০.০০০৩ মিগ্রা/লিটার" }
+    },
+    "marketValue": {
+      "en": "Pure caesium metal: approximately $60 - $100 per gram (2024).",
+      "bn": "বিশুদ্ধ সিজিয়াম ধাতু: আনুমানিক প্রতি গ্রাম $৬০ - $১০০ (২০২৪)।"
+    },
+    "futureDemand": {
+      "en": "Growing for atomic clocks, quantum sensors, Cs-perovskite optoelectronics, and oil-field formate brines.",
+      "bn": "পারমাণবিক ঘড়ি, কোয়ান্টাম সেন্সর, Cs-পেরোভস্কাইট অপ্টোইলেক্ট্রনিক্স এবং তেল-ক্ষেত্র ফরমেট ব্রাইনের জন্য বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Listed as a critical mineral by EU and US due to extreme supply concentration (mostly Tanco Mine, Canada).",
+      "bn": "চরম সরবরাহ ঘনত্বের কারণে (বেশিরভাগ ট্যাঙ্কো মাইন, কানাডা) ইইউ এবং মার্কিন যুক্তরাষ্ট্র কর্তৃক একটি গুরুত্বপূর্ণ খনিজ হিসেবে তালিকাভুক্ত।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Pyrophoric; reacts explosively with water and air. Skin contact causes severe burns.",
+      "bn": "স্বতঃদাহ্য; জল এবং বাতাসের সাথে বিস্ফোরকভাবে বিক্রিয়া করে। ত্বকের সংস্পর্শে গুরুতর পোড়া ঘটে।"
+    },
+    "storageRequirements": {
+      "en": "Store under inert gas (argon) or in sealed glass ampoules immersed in mineral oil.",
+      "bn": "নিষ্ক্রিয় গ্যাস (আর্গন) এর অধীনে বা খনিজ তেলে নিমজ্জিত সিল করা কাচের অ্যাম্পুলে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Handle in dry, oxygen-free glove boxes; use face shields, fire-resistant clothing, and Class D extinguishers.",
+      "bn": "শুষ্ক, অক্সিজেন-মুক্ত গ্লাভ বাক্সে পরিচালনা করুন; মুখের ঢাল, আগুন-প্রতিরোধী পোশাক এবং ক্লাস D বহির্নির্গমনকারী ব্যবহার করুন।"
+    },
+    "exposureRisks": {
+      "en": "Explosive water reaction can spray molten caesium; Cs-137 exposure causes radiation sickness and cancer.",
+      "bn": "বিস্ফোরক জল বিক্রিয়া গলিত সিজিয়াম স্প্রে করতে পারে; Cs-137 এক্সপোজার বিকিরণ অসুস্থতা এবং ক্যান্সার ঘটায়।"
+    },
+    "safetyLevel": { "en": "High Risk", "bn": "উচ্চ ঝুঁকি" },
+    "hazardClassifications": [
+      { "en": "Pyrophoric Solid", "bn": "স্বতঃদাহ্য কঠিন" },
+      { "en": "Water-Reactive (Category 1)", "bn": "জল-প্রতিক্রিয়াশীল (শ্রেণী ১)" }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Caesium is a soft, golden alkali metal so reactive it explodes in water — and its atomic vibrations define the second.",
+      "bn": "সিজিয়াম একটি নরম, সোনালী ক্ষারীয় ধাতু যা এতটাই প্রতিক্রিয়াশীল যে এটি জলে বিস্ফোরিত হয় — এবং এর পারমাণবিক কম্পন সেকেন্ডকে সংজ্ঞায়িত করে।"
+    },
+    "advancedExplanation": {
+      "en": "The most electropositive stable element. Its single 6s electron is loosely held, giving the lowest ionization energy among non-radioactive elements and underpinning the SI second via the Cs-133 hyperfine transition at 9,192,631,770 Hz.",
+      "bn": "সবচেয়ে ইলেক্ট্রোপজিটিভ স্থিতিশীল উপাদান। এর একক 6s ইলেকট্রন আলগাভাবে ধরে রাখা হয়, অ-তেজস্ক্রিয় উপাদানগুলির মধ্যে সর্বনিম্ন আয়নীকরণ শক্তি দেয় এবং Cs-133 হাইপারফাইন রূপান্তরের মাধ্যমে ৯,১৯২,৬৩১,৭৭০ Hz তে SI সেকেন্ডকে ভিত্তি করে।"
+    },
+    "funFacts": [
+      { "en": "The official definition of one second is exactly 9,192,631,770 oscillations of a caesium-133 atom.", "bn": "এক সেকেন্ডের অফিসিয়াল সংজ্ঞা ঠিক একটি সিজিয়াম-১৩৩ পরমাণুর ৯,১৯২,৬৩১,৭৭০ দোলন।" },
+      { "en": "Caesium melts in your hand — its melting point is just 28.5°C.", "bn": "সিজিয়াম আপনার হাতে গলে যায় — এর গলনাঙ্ক মাত্র ২৮.৫°C।" }
+    ],
+    "comparisons": [
+      { "compareWithId": 37, "relation": { "en": "Like rubidium above, caesium is a highly reactive alkali metal, but caesium is even more reactive and has a lower melting point.", "bn": "উপরের রুবিডিয়ামের মতো, সিজিয়াম একটি অত্যন্ত প্রতিক্রিয়াশীল ক্ষারীয় ধাতু, তবে সিজিয়াম আরও বেশি প্রতিক্রিয়াশীল এবং এর কম গলনাঙ্ক রয়েছে।" } }
+    ],
+    "relatedElements": [11, 19, 37, 87],
+    "quizQuestions": [
+      { "question": { "en": "What is the chemical symbol for caesium?", "bn": "সিজিয়ামের রাসায়নিক প্রতীক কী?" }, "options": [{ "en": "Ce", "bn": "Ce" }, { "en": "Cs", "bn": "Cs" }, { "en": "Ca", "bn": "Ca" }, { "en": "Cu", "bn": "Cu" }], "correctOptionIndex": 1, "explanation": { "en": "Cs distinguishes caesium from Ce (cerium) and Ca (calcium).", "bn": "Cs সিজিয়ামকে Ce (সেরিয়াম) এবং Ca (ক্যালসিয়াম) থেকে আলাদা করে।" } },
+      { "question": { "en": "The SI second is defined by which isotope of caesium?", "bn": "SI সেকেন্ড সিজিয়ামের কোন আইসোটোপ দ্বারা সংজ্ঞায়িত?" }, "options": [{ "en": "Cs-131", "bn": "Cs-131" }, { "en": "Cs-133", "bn": "Cs-133" }, { "en": "Cs-135", "bn": "Cs-135" }, { "en": "Cs-137", "bn": "Cs-137" }], "correctOptionIndex": 1, "explanation": { "en": "Cs-133's 9,192,631,770 Hz hyperfine transition defines the second.", "bn": "Cs-133 এর ৯,১৯২,৬৩১,৭৭০ Hz হাইপারফাইন রূপান্তর সেকেন্ডকে সংজ্ঞায়িত করে।" } },
+      { "question": { "en": "Caesium's melting point is approximately:", "bn": "সিজিয়ামের গলনাঙ্ক প্রায়:" }, "options": [{ "en": "0°C", "bn": "০°C" }, { "en": "28.5°C", "bn": "২৮.৫°C" }, { "en": "100°C", "bn": "১০০°C" }, { "en": "650°C", "bn": "৬৫০°C" }], "correctOptionIndex": 1, "explanation": { "en": "Caesium melts at 28.5°C, just slightly above warm room temperature.", "bn": "সিজিয়াম ২৮.৫°C তে গলে, উষ্ণ কক্ষ তাপমাত্রার সামান্য উপরে।" } },
+      { "question": { "en": "What happens when caesium contacts water?", "bn": "সিজিয়াম জলের সংস্পর্শে এলে কী হয়?" }, "options": [{ "en": "Slowly dissolves", "bn": "ধীরে ধীরে দ্রবীভূত হয়" }, { "en": "Reacts explosively producing hydrogen and CsOH", "bn": "হাইড্রোজেন এবং CsOH উৎপাদন করে বিস্ফোরকভাবে বিক্রিয়া করে" }, { "en": "Nothing happens", "bn": "কিছুই হয় না" }, { "en": "Turns red", "bn": "লাল হয়ে যায়" }], "correctOptionIndex": 1, "explanation": { "en": "2Cs + 2H₂O → 2CsOH + H₂; H₂ ignites instantly from reaction heat.", "bn": "2Cs + 2H₂O → 2CsOH + H₂; বিক্রিয়ার তাপ থেকে H₂ অবিলম্বে জ্বলে।" } },
+      { "question": { "en": "Caesium was discovered by spectroscopy. What spectral lines confirmed it?", "bn": "সিজিয়াম বর্ণালীবিজ্ঞান দ্বারা আবিষ্কৃত। কোন বর্ণালী রেখা এটি নিশ্চিত করেছিল?" }, "options": [{ "en": "Two bright sky-blue lines", "bn": "দুটি উজ্জ্বল আকাশী-নীল রেখা" }, { "en": "Two red lines", "bn": "দুটি লাল রেখা" }, { "en": "Yellow doublet", "bn": "হলুদ দ্বৈত" }, { "en": "Green emission band", "bn": "সবুজ নিঃসরণ ব্যান্ড" }], "correctOptionIndex": 0, "explanation": { "en": "Bunsen and Kirchhoff named it from 'caesius' (sky-blue) after the lines they saw.", "bn": "বুনসেন এবং কির্চহফ এটি দেখা রেখাগুলির পরে 'সিসিয়াস' (আকাশী-নীল) থেকে নামকরণ করেছিলেন।" } },
+      { "question": { "en": "The chief commercial ore of caesium is:", "bn": "সিজিয়ামের প্রধান বাণিজ্যিক আকরিক হল:" }, "options": [{ "en": "Bauxite", "bn": "বক্সাইট" }, { "en": "Pollucite", "bn": "পলুসাইট" }, { "en": "Lepidolite", "bn": "লেপিডোলাইট" }, { "en": "Galena", "bn": "গ্যালেনা" }], "correctOptionIndex": 1, "explanation": { "en": "Pollucite at the Tanco Mine, Canada, supplies most of the world's caesium.", "bn": "কানাডার ট্যাঙ্কো মাইনে পলুসাইট বিশ্বের বেশিরভাগ সিজিয়াম সরবরাহ করে।" } },
+      { "question": { "en": "Which dangerous fission product has a 30-year half-life and was widely dispersed by Chernobyl?", "bn": "কোন বিপজ্জনক ফিশন উৎপাদের ৩০-বছর অর্ধ-জীবন রয়েছে এবং চেরনোবিল দ্বারা ব্যাপকভাবে ছড়িয়ে পড়েছিল?" }, "options": [{ "en": "Cs-137", "bn": "Cs-137" }, { "en": "I-131", "bn": "I-131" }, { "en": "Sr-90", "bn": "Sr-90" }, { "en": "Pu-239", "bn": "Pu-239" }], "correctOptionIndex": 0, "explanation": { "en": "Cs-137 is a gamma-emitting fission product persisting for centuries in soils.", "bn": "Cs-137 একটি গামা-নির্গমনকারী ফিশন উৎপাদ যা মাটিতে শতাব্দীর জন্য স্থায়ী হয়।" } },
+      { "question": { "en": "Caesium's electron configuration ends in:", "bn": "সিজিয়ামের ইলেকট্রন কনফিগারেশন শেষ হয়:" }, "options": [{ "en": "5p⁶", "bn": "5p⁶" }, { "en": "6s¹", "bn": "6s¹" }, { "en": "6s²", "bn": "6s²" }, { "en": "5d¹", "bn": "5d¹" }], "correctOptionIndex": 1, "explanation": { "en": "Alkali metal with single 6s¹ valence electron above [Xe] core.", "bn": "[Xe] কোরের উপরে একক 6s¹ ভ্যালেন্স ইলেকট্রন সহ ক্ষারীয় ধাতু।" } },
+      { "question": { "en": "Which oxidation state does caesium almost exclusively show?", "bn": "সিজিয়াম প্রায় একচেটিয়াভাবে কোন জারণ অবস্থা দেখায়?" }, "options": [{ "en": "0", "bn": "০" }, { "en": "+1", "bn": "+১" }, { "en": "+2", "bn": "+২" }, { "en": "+3", "bn": "+৩" }], "correctOptionIndex": 1, "explanation": { "en": "Alkali metals lose their single valence electron to form +1 cations.", "bn": "ক্ষারীয় ধাতুগুলি +১ ক্যাটায়ন গঠন করতে তাদের একক ভ্যালেন্স ইলেকট্রন হারায়।" } },
+      { "question": { "en": "Caesium is the most electropositive stable element because:", "bn": "সিজিয়াম সবচেয়ে ইলেক্ট্রোপজিটিভ স্থিতিশীল উপাদান কারণ:" }, "options": [{ "en": "It has many protons", "bn": "এর অনেক প্রোটন রয়েছে" }, { "en": "Its valence electron is far from the nucleus and weakly held", "bn": "এর ভ্যালেন্স ইলেকট্রন নিউক্লিয়াস থেকে দূরে এবং দুর্বলভাবে ধরে রাখা" }, { "en": "It is radioactive", "bn": "এটি তেজস্ক্রিয়" }, { "en": "It has high electronegativity", "bn": "এর উচ্চ তড়িৎঋণাত্মকতা রয়েছে" }], "correctOptionIndex": 1, "explanation": { "en": "Large atomic radius and shielding give Cs the lowest ionization energy of stable elements.", "bn": "বৃহৎ পারমাণবিক ব্যাসার্ধ এবং শিল্ডিং Cs কে স্থিতিশীল উপাদানের সর্বনিম্ন আয়নীকরণ শক্তি দেয়।" } },
+      { "question": { "en": "Caesium ion thrusters in early spacecraft used caesium because:", "bn": "প্রারম্ভিক মহাকাশযানে সিজিয়াম আয়ন থ্রাস্টার সিজিয়াম ব্যবহার করত কারণ:" }, "options": [{ "en": "Very easy ionization and high atomic mass", "bn": "খুব সহজ আয়নীকরণ এবং উচ্চ পারমাণবিক ভর" }, { "en": "It is cheap", "bn": "এটি সস্তা" }, { "en": "It is radioactive", "bn": "এটি তেজস্ক্রিয়" }, { "en": "It is magnetic", "bn": "এটি চৌম্বকীয়" }], "correctOptionIndex": 0, "explanation": { "en": "Low IE + high mass gave good thrust, though xenon later replaced Cs due to corrosion issues.", "bn": "কম IE + উচ্চ ভর ভাল থ্রাস্ট দিয়েছে, যদিও জারণ সমস্যার কারণে পরে জেনন Cs প্রতিস্থাপন করেছিল।" } },
+      { "question": { "en": "What is caesium formate used for in oil drilling?", "bn": "তেল ড্রিলিংয়ে সিজিয়াম ফরমেট কী জন্য ব্যবহৃত হয়?" }, "options": [{ "en": "Catalyst", "bn": "অনুঘটক" }, { "en": "High-density, low-corrosion drilling fluid", "bn": "উচ্চ-ঘনত্ব, কম-জারণ ড্রিলিং তরল" }, { "en": "Fuel additive", "bn": "জ্বালানি সংযোজন" }, { "en": "Pipeline lubricant", "bn": "পাইপলাইন তৈলাক্তকারী" }], "correctOptionIndex": 1, "explanation": { "en": "Cs formate brines reach ~2.3 g/cm³ with low formation damage, valued in deepwater wells.", "bn": "Cs ফরমেট ব্রাইন কম গঠন ক্ষতি সহ ~২.৩ গ্রাম/সেমি³ এ পৌঁছায়, গভীর জলের কূপে মূল্যবান।" } },
+      { "question": { "en": "Caesium-lead halide perovskites (CsPbX₃) are used mainly in:", "bn": "সিজিয়াম-লেড হ্যালাইড পেরোভস্কাইট (CsPbX₃) মূলত ব্যবহৃত হয়:" }, "options": [{ "en": "Fertilizers", "bn": "সার" }, { "en": "LEDs, QLEDs, and solar cells", "bn": "এলইডি, কিউএলইডি এবং সৌর কোষ" }, { "en": "Magnets", "bn": "চুম্বক" }, { "en": "Glass etching", "bn": "কাচ ইচিং" }], "correctOptionIndex": 1, "explanation": { "en": "Inorganic Cs perovskites give bright, narrowband emission and tunable bandgaps.", "bn": "অজৈব Cs পেরোভস্কাইট উজ্জ্বল, সংকীর্ণব্যান্ড নির্গমন এবং টিউনযোগ্য ব্যান্ডগ্যাপ দেয়।" } },
+      { "question": { "en": "Caesium iodide (CsI) crystals are used in:", "bn": "সিজিয়াম আয়োডাইড (CsI) স্ফটিক ব্যবহৃত হয়:" }, "options": [{ "en": "Scintillation detectors for X-rays and gamma rays", "bn": "এক্স-রে এবং গামা রশ্মির জন্য সিনটিলেশন ডিটেক্টর" }, { "en": "Solar cells", "bn": "সৌর কোষ" }, { "en": "Cooking utensils", "bn": "রান্নার পাত্র" }, { "en": "Magnets", "bn": "চুম্বক" }], "correctOptionIndex": 0, "explanation": { "en": "CsI(Tl) is a workhorse scintillator in medical imaging and physics experiments.", "bn": "CsI(Tl) চিকিৎসা ইমেজিং এবং পদার্থবিদ্যা পরীক্ষায় একটি ওয়ার্কহর্স সিনটিলেটর।" } },
+      { "question": { "en": "Why is caesium stored under argon or in oil?", "bn": "সিজিয়াম কেন আর্গন বা তেলের অধীনে সংরক্ষণ করা হয়?" }, "options": [{ "en": "To stay shiny", "bn": "চকচকে থাকতে" }, { "en": "Prevent reaction with air and moisture", "bn": "বায়ু এবং আর্দ্রতার সাথে বিক্রিয়া প্রতিরোধ করতে" }, { "en": "To stay cold", "bn": "ঠান্ডা থাকতে" }, { "en": "To stop radioactive decay", "bn": "তেজস্ক্রিয় ক্ষয় বন্ধ করতে" }], "correctOptionIndex": 1, "explanation": { "en": "Cs reacts violently with O₂ and H₂O, and ignites in moist air.", "bn": "Cs O₂ এবং H₂O এর সাথে হিংস্রভাবে বিক্রিয়া করে এবং আর্দ্র বাতাসে জ্বলে ওঠে।" } },
+      { "question": { "en": "Caesium hydroxide (CsOH) is:", "bn": "সিজিয়াম হাইড্রক্সাইড (CsOH) হল:" }, "options": [{ "en": "Weak acid", "bn": "দুর্বল অ্যাসিড" }, { "en": "Strongest stable hydroxide base", "bn": "সবচেয়ে শক্তিশালী স্থিতিশীল হাইড্রোক্সাইড বেস" }, { "en": "Neutral salt", "bn": "নিরপেক্ষ লবণ" }, { "en": "Insoluble in water", "bn": "জলে অদ্রবণীয়" }], "correctOptionIndex": 1, "explanation": { "en": "Caesium hydroxide is the strongest known base of any stable hydroxide.", "bn": "সিজিয়াম হাইড্রোক্সাইড যে কোন স্থিতিশীল হাইড্রোক্সাইডের সবচেয়ে শক্তিশালী পরিচিত বেস।" } },
+      { "question": { "en": "Caesium clocks achieve accuracies on the order of:", "bn": "সিজিয়াম ঘড়ি কোন ক্রমে নির্ভুলতা অর্জন করে:" }, "options": [{ "en": "1 second per hour", "bn": "ঘণ্টায় ১ সেকেন্ড" }, { "en": "1 second per day", "bn": "দিনে ১ সেকেন্ড" }, { "en": "1 second per year", "bn": "বছরে ১ সেকেন্ড" }, { "en": "1 second per ~100 million years", "bn": "প্রায় ১০০ মিলিয়ন বছরে ১ সেকেন্ড" }], "correctOptionIndex": 3, "explanation": { "en": "Best Cs fountains drift only a second over ~10⁸ years.", "bn": "সেরা Cs ফাউন্টেনগুলি প্রায় ১০⁸ বছরে মাত্র এক সেকেন্ড সরে যায়।" } },
+      { "question": { "en": "Cs-137 is used to gamma-irradiate blood products to prevent:", "bn": "GVHD প্রতিরোধে Cs-137 রক্ত পণ্যকে গামা-বিকিরণ করতে ব্যবহৃত হয়:" }, "options": [{ "en": "Iron deficiency", "bn": "আয়রন ঘাটতি" }, { "en": "Graft-versus-host disease (GVHD)", "bn": "গ্রাফট-বনাম-হোস্ট রোগ (GVHD)" }, { "en": "Hemophilia", "bn": "হিমোফিলিয়া" }, { "en": "Sickle cell", "bn": "সিকল সেল" }], "correctOptionIndex": 1, "explanation": { "en": "Gamma irradiation inactivates donor T-lymphocytes, preventing transfusion-associated GVHD.", "bn": "গামা বিকিরণ দাতা T-লিম্ফোসাইট নিষ্ক্রিয় করে, ট্রান্সফিউশন-সংশ্লিষ্ট GVHD প্রতিরোধ করে।" } },
+      { "question": { "en": "Caesium's color is best described as:", "bn": "সিজিয়ামের রঙ সর্বোত্তমভাবে বর্ণনা করা হয়:" }, "options": [{ "en": "Bright red", "bn": "উজ্জ্বল লাল" }, { "en": "Silvery with a golden hue", "bn": "সোনালী আভা সহ রূপালী" }, { "en": "Deep black", "bn": "গভীর কালো" }, { "en": "Bright green", "bn": "উজ্জ্বল সবুজ" }], "correctOptionIndex": 1, "explanation": { "en": "Cs and Au are the only metallic elements with distinctly golden coloration.", "bn": "Cs এবং Au হল একমাত্র ধাতব উপাদান যাদের স্বতন্ত্রভাবে সোনালী রঙ রয়েছে।" } },
+      { "question": { "en": "Atomic clocks anchor which essential technology?", "bn": "পারমাণবিক ঘড়ি কোন অপরিহার্য প্রযুক্তিকে ভিত্তি করে?" }, "options": [{ "en": "GPS navigation", "bn": "জিপিএস নেভিগেশন" }, { "en": "Wi-Fi", "bn": "ওয়াই-ফাই" }, { "en": "Photovoltaics", "bn": "ফটোভোলটাইক্স" }, { "en": "Bluetooth", "bn": "ব্লুটুথ" }], "correctOptionIndex": 0, "explanation": { "en": "GPS satellites carry rubidium and caesium atomic clocks for nanosecond-level timing.", "bn": "জিপিএস স্যাটেলাইটগুলি ন্যানোসেকেন্ড-স্তরের টাইমিংয়ের জন্য রুবিডিয়াম এবং সিজিয়াম পারমাণবিক ঘড়ি বহন করে।" } },
+      { "question": { "en": "Inhaling/ingesting Cs-137 is especially dangerous because the body treats Cs⁺ like:", "bn": "Cs-137 শ্বাস গ্রহণ/ইনজেস্ট করা বিশেষভাবে বিপজ্জনক কারণ শরীর Cs⁺ কে আচরণ করে:" }, "options": [{ "en": "Calcium", "bn": "ক্যালসিয়াম" }, { "en": "Potassium", "bn": "পটাসিয়াম" }, { "en": "Iron", "bn": "লোহা" }, { "en": "Iodine", "bn": "আয়োডিন" }], "correctOptionIndex": 1, "explanation": { "en": "Cs⁺ follows K⁺ pathways, distributing throughout soft tissues and irradiating organs.", "bn": "Cs⁺ K⁺ পথ অনুসরণ করে, নরম টিস্যু জুড়ে বিতরণ করে এবং অঙ্গগুলিকে বিকিরণ করে।" } }
+    ],
+    "misconceptions": [
+      { "en": "All caesium is radioactive — only fission-derived isotopes like Cs-137 are; natural Cs-133 is stable.", "bn": "সমস্ত সিজিয়াম তেজস্ক্রিয় — শুধুমাত্র ফিশন-উদ্ভূত আইসোটোপ যেমন Cs-137; প্রাকৃতিক Cs-133 স্থিতিশীল।" }
+    ],
+    "learningTips": [
+      { "en": "Cs = soft, golden, melts in your hand, explodes in water, defines the second.", "bn": "Cs = নরম, সোনালী, হাতে গলে, জলে বিস্ফোরিত হয়, সেকেন্ডকে সংজ্ঞায়িত করে।" }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      { "equation": "2Cs + 2H₂O → 2CsOH + H₂↑", "description": { "en": "Explosive reaction of caesium with water producing strong base and hydrogen.", "bn": "জলের সাথে সিজিয়ামের বিস্ফোরক বিক্রিয়া শক্তিশালী বেস এবং হাইড্রোজেন উৎপন্ন করে।" } },
+      { "equation": "Cs + O₂ → CsO₂", "description": { "en": "Caesium burns in oxygen forming the superoxide rather than simple oxide.", "bn": "সিজিয়াম অক্সিজেনে জ্বলে সাধারণ অক্সাইডের পরিবর্তে সুপারঅক্সাইড গঠন করে।" } }
+    ],
+    "oxidationExamples": [
+      { "equation": "Cs → Cs⁺ + e⁻", "description": { "en": "Caesium readily loses its single 6s electron to form Cs⁺.", "bn": "সিজিয়াম সহজেই তার একক 6s ইলেকট্রন হারিয়ে Cs⁺ গঠন করে।" } }
+    ],
+    "reductionExamples": [
+      { "equation": "Cs⁺ + e⁻ → Cs", "description": { "en": "Reduction of caesium ion to metal occurs at the cathode during molten salt electrolysis.", "bn": "গলিত লবণ তড়িৎ বিশ্লেষণের সময় ক্যাথোডে সিজিয়াম আয়নের ধাতুতে বিজারণ ঘটে।" } }
+    ],
+    "bondingExamples": [
+      { "bondType": { "en": "Ionic Bond", "bn": "আয়নিক বন্ধন" }, "molecule": "CsCl", "description": { "en": "Cs⁺ and Cl⁻ form a body-centered cubic ionic lattice, the prototype CsCl structure.", "bn": "Cs⁺ এবং Cl⁻ একটি বডি-সেন্টার্ড কিউবিক আয়নিক জালি গঠন করে, প্রোটোটাইপ CsCl কাঠামো।" } }
+    ]
+  }
+}
