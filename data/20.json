@@ -1,0 +1,1066 @@
+{
+  "elementId": 20,
+  "basicInformation": {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "name": {
+      "en": "Calcium",
+      "bn": "ক্যালসিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈkælsiəm/",
+      "bn": "ক্যাল-সি-য়াম"
+    },
+    "atomicMass": 40.078,
+    "category": {
+      "en": "Alkaline earth metal",
+      "bn": "ক্ষারমৃৎ ধাতু"
+    },
+    "group": 2,
+    "period": 4,
+    "block": "s",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery-white metal with dull oxide layer in air",
+      "bn": "রূপালী-সাদা ধাতু, বাতাসে নিস্তেজ অক্সাইড স্তরসহ"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Sir Humphry Davy",
+      "bn": "স্যার হামফ্রি ডেভি"
+    },
+    "discoveryYear": 1808,
+    "discoveryLocation": {
+      "en": "United Kingdom",
+      "bn": "যুক্তরাজ্য"
+    },
+    "discoveryStory": {
+      "en": "Davy isolated calcium by electrolysis of a moistened mixture of lime (CaO) and mercuric oxide, then distilled off the mercury — extending his earlier electrochemical isolation method.",
+      "bn": "ডেভি লাইম (CaO) ও মার্কিউরিক অক্সাইডের আর্দ্র মিশ্রণের তড়িৎবিশ্লেষণ এবং পরে পারদ পাতন করে ক্যালসিয়াম পৃথক করেন — তার পূর্ববর্তী তড়িৎরাসায়নিক পদ্ধতির সম্প্রসারণ।"
+    },
+    "historicalUses": {
+      "en": "Limestone (CaCO₃) used in construction (Egyptian pyramids, Roman concrete); quicklime (CaO) for mortar.",
+      "bn": "চুনাপাথর (CaCO₃) নির্মাণে ব্যবহৃত (মিশরীয় পিরামিড, রোমান কংক্রিট); মর্টারের জন্য কুইকলাইম (CaO)।"
+    },
+    "famousExperiments": {
+      "en": "Davy's electrolytic isolation of Ca from amalgam, completing his series of alkaline earth metal discoveries.",
+      "bn": "ডেভির অ্যামালগাম থেকে Ca এর তড়িৎরাসায়নিক পৃথকীকরণ, তার ক্ষারমৃৎ ধাতু আবিষ্কারের ধারা সম্পূর্ণ করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 20,
+    "neutrons": 20,
+    "electrons": 20,
+    "valenceElectrons": 2,
+    "shells": 4,
+    "shellDistribution": [
+      2,
+      8,
+      8,
+      2
+    ],
+    "electronConfiguration": "[Ar] 4s²",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 6,
+      "4s": 2
+    },
+    "oxidationStates": [
+      2
+    ],
+    "quantumNumbers": {
+      "principal": 4,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 1.55,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1115,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1757,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 197,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 176,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 231,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 201,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 29800000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.647,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 1.75,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Face-centered cubic (α-Ca)",
+      "bn": "ফেস-কেন্দ্রিক কিউবিক (α-Ca)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.0,
+    "ionizationEnergy": {
+      "value": 589.8,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 2.37,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive metal; reacts with water (slower than alkali metals) producing Ca(OH)₂ and H₂.",
+      "bn": "প্রতিক্রিয়াশীল ধাতু; জলের সাথে বিক্রিয়া (ক্ষারীয় ধাতুর চেয়ে ধীর) করে Ca(OH)₂ ও H₂ উৎপন্ন করে।"
+    },
+    "commonCompounds": [
+      "CaCO₃",
+      "CaO",
+      "Ca(OH)₂",
+      "CaSO₄",
+      "CaCl₂",
+      "Ca₃(PO₄)₂"
+    ],
+    "flameTestColor": {
+      "en": "Brick red / orange",
+      "bn": "ইট লাল / কমলা"
+    },
+    "spectralLines": [
+      "393.4nm",
+      "396.8nm",
+      "422.7nm",
+      "445.5nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Production of cement, lime, steel (deoxidation), and as reducing agent for U, Th, Zr metals.",
+      "bn": "সিমেন্ট, লাইম, স্টিল (ডিঅক্সিডেশন) উৎপাদন এবং U, Th, Zr ধাতুর জন্য বিজারক এজেন্ট।"
+    },
+    "commercialUses": {
+      "en": "CaCO₃ in paper, plastics, paint fillers; Ca(OH)₂ in water treatment and soil amendment.",
+      "bn": "কাগজ, প্লাস্টিক, পেইন্ট ফিলারে CaCO₃; জল চিকিৎসা ও মৃত্তিকা সংশোধনে Ca(OH)₂।"
+    },
+    "electronicsUses": {
+      "en": "CaF₂ optics for deep-UV lithography lasers (ArF excimer, 193 nm).",
+      "bn": "ডিপ-UV লিথোগ্রাফি লেজারের (ArF এক্সিমার, ১৯৩ nm) জন্য CaF₂ অপটিক্স।"
+    },
+    "semiconductorUses": {
+      "en": "Calcium fluoride (CaF₂) used as substrate for IR optics and II-VI heteroepitaxy.",
+      "bn": "IR অপটিক্স ও II-VI হিটারোএপিট্যাক্সির সাবস্ট্রেট হিসেবে ক্যালসিয়াম ফ্লোরাইড (CaF₂)।"
+    },
+    "aerospaceUses": {
+      "en": "Ca-aluminate cement linings in solid rocket motors; CaH₂ as hydrogen source in air-deployed gear.",
+      "bn": "কঠিন রকেট মোটরে Ca-অ্যালুমিনেট সিমেন্ট আস্তরণ; বায়ু-নিয়োজিত গিয়ারে হাইড্রোজেন উৎস CaH₂।"
+    },
+    "batteryUses": {
+      "en": "Calcium-ion batteries: emerging multivalent alternative to Li-ion for safer, cheaper storage.",
+      "bn": "ক্যালসিয়াম-আয়ন ব্যাটারি: নিরাপদ, সস্তা সঞ্চয়ের জন্য Li-আয়ন এর উদীয়মান বহুযোজী বিকল্প।"
+    },
+    "aiHardwareUses": {
+      "en": "CaF₂ optical windows for high-power excimer lasers in advanced photolithography of AI chips.",
+      "bn": "AI চিপের উন্নত ফটোলিথোগ্রাফিতে উচ্চ-শক্তি এক্সিমার লেজারের জন্য CaF₂ অপটিক্যাল উইন্ডো।"
+    },
+    "renewableEnergyUses": {
+      "en": "Calcium looping (CaO/CaCO₃) for CO₂ capture from power plants; Ca-based thermochemical storage.",
+      "bn": "পাওয়ার প্ল্যান্ট থেকে CO₂ ক্যাপচারে ক্যালসিয়াম লুপিং (CaO/CaCO₃); Ca-ভিত্তিক তাপরাসায়নিক সঞ্চয়।"
+    },
+    "nanotechnologyUses": {
+      "en": "Hydroxyapatite (Ca₅(PO₄)₃OH) nanoparticles for bone regeneration and drug delivery.",
+      "bn": "অস্থি পুনর্জন্ম ও ড্রাগ ডেলিভারির জন্য হাইড্রক্সিঅ্যাপাটাইট (Ca₅(PO₄)₃OH) ন্যানোকণা।"
+    },
+    "nuclearUses": {
+      "en": "Calcium-48 (doubly magic) used as projectile in heavy-ion synthesis of superheavy elements (Z=113-118).",
+      "bn": "অতিভারী মৌল (Z=১১৩-১১৮) এর ভারী-আয়ন সংশ্লেষণে প্রজেক্টাইল হিসেবে ক্যালসিয়াম-৪৮ (দ্বিগুণ ম্যাজিক)।"
+    },
+    "militaryUses": {
+      "en": "Ca alloys for armor lightweighting research; CaH₂ as compact field hydrogen source.",
+      "bn": "আর্মার হালকা করার গবেষণায় Ca সংকর; কম্প্যাক্ট ফিল্ড হাইড্রোজেন উৎস হিসেবে CaH₂।"
+    },
+    "medicalUses": {
+      "en": "Ca supplements for osteoporosis; calcium gluconate antidote for HF burns; CaCO₃ as antacid.",
+      "bn": "অস্টিওপোরোসিসের জন্য Ca সম্পূরক; HF পোড়ার অ্যান্টিডোট ক্যালসিয়াম গ্লুকোনেট; অ্যান্টাসিড হিসেবে CaCO₃।"
+    },
+    "foodIndustryUses": {
+      "en": "Calcium fortification of milk, juice, cereals; firming agent (CaCl₂) in canned vegetables and tofu.",
+      "bn": "দুধ, রস, সিরিয়ালে ক্যালসিয়াম ফর্টিফিকেশন; ক্যানজাত সবজি ও টোফুতে দৃঢ়কারী (CaCl₂)।"
+    },
+    "constructionUses": {
+      "en": "Portland cement (calcium silicates), lime mortar, gypsum (CaSO₄·2H₂O) plaster — the backbone of construction.",
+      "bn": "পোর্টল্যান্ড সিমেন্ট (ক্যালসিয়াম সিলিকেট), চুন মর্টার, জিপসাম (CaSO₄·2H₂O) প্লাস্টার — নির্মাণের মেরুদণ্ড।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Most abundant metal in the human body; essential for bones, teeth, muscle contraction, blood clotting, and intracellular signaling.",
+      "bn": "মানবদেহে সর্বাধিক প্রচুর ধাতু; হাড়, দাঁত, পেশী সংকোচন, রক্ত জমাট বাঁধা ও আন্তঃকোষীয় সংকেতের জন্য অপরিহার্য।"
+    },
+    "humanBodyRole": {
+      "en": "~1.4% body mass; 99% stored in bones/teeth as hydroxyapatite; cytoplasmic Ca²⁺ acts as universal second messenger.",
+      "bn": "শরীরের ভরের ~১.৪%; ৯৯% হাইড্রক্সিঅ্যাপাটাইট হিসেবে হাড়/দাঁতে সঞ্চিত; সাইটোপ্লাজমিক Ca²⁺ সর্বজনীন দ্বিতীয় মেসেঞ্জার হিসেবে কাজ করে।"
+    },
+    "toxicity": {
+      "en": "Low oral toxicity; hypercalcemia (>10.5 mg/dL) causes kidney stones, confusion; CaO is caustic.",
+      "bn": "কম মৌখিক বিষাক্ততা; হাইপারক্যালসিমিয়া (>১০.৫ mg/dL) কিডনি স্টোন, বিভ্রান্তি ঘটায়; CaO ক্ষয়কারী।"
+    },
+    "environmentalImpact": {
+      "en": "Cement production (limestone calcination) is ~7-8% of global CO₂ emissions — a major decarbonization challenge.",
+      "bn": "সিমেন্ট উৎপাদন (চুনাপাথর ক্যালসিনেশন) বৈশ্বিক CO₂ নির্গমনের ~৭-৮% — একটি প্রধান ডিকার্বনাইজেশন চ্যালেঞ্জ।"
+    },
+    "pollutionRisks": {
+      "en": "Cement kilns emit dust and NOx; quarrying disturbs ecosystems and groundwater.",
+      "bn": "সিমেন্ট ভাটায় ধুলো ও NOx নির্গত হয়; খনন বাস্তুতন্ত্র ও ভূগর্ভস্থ জল ব্যাহত করে।"
+    },
+    "recyclingMethods": {
+      "en": "Construction & demolition waste recycled as recycled aggregate; CaCO₃ slag reused in cement.",
+      "bn": "নির্মাণ ও ধ্বংসের বর্জ্য পুনর্ব্যবহৃত সমষ্টি হিসেবে পুনর্ব্যবহার; CaCO₃ স্ল্যাগ সিমেন্টে পুনঃব্যবহৃত।"
+    },
+    "sustainabilityScore": 7.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "India",
+        "bn": "ভারত"
+      },
+      {
+        "en": "Brazil",
+        "bn": "ব্রাজিল"
+      },
+      {
+        "en": "Mexico",
+        "bn": "মেক্সিকো"
+      }
+    ],
+    "miningMethods": {
+      "en": "Open-pit and quarry mining of limestone, gypsum, fluorite; produced as a metal by aluminothermic reduction of CaO.",
+      "bn": "চুনাপাথর, জিপসাম, ফ্লুরাইটের ওপেন-পিট ও কোয়ারি খনন; CaO এর অ্যালুমিনোথার্মিক বিজারণে ধাতু হিসেবে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "70 ppm by mass",
+        "bn": "ভর অনুযায়ী ৭০ পিপিএম"
+      },
+      "earthCrust": {
+        "en": "4.15% by mass (5th most abundant)",
+        "bn": "ভর অনুযায়ী ৪.১৫% (৫ম সর্বাধিক প্রচুর)"
+      },
+      "oceans": {
+        "en": "412 mg/L (as Ca²⁺)",
+        "bn": "৪১২ মিগ্রা/লি (Ca²⁺ হিসেবে)"
+      }
+    },
+    "marketValue": {
+      "en": "Limestone ~$10–$30 per ton; metallic Ca ~$3–$10 per kg; CaF₂ optical-grade much higher.",
+      "bn": "চুনাপাথর ~$১০–$৩০ প্রতি টন; ধাতব Ca ~$৩–$১০ প্রতি কেজি; CaF₂ অপটিক্যাল-গ্রেড অনেক বেশি।"
+    },
+    "futureDemand": {
+      "en": "Massive demand from cement and infrastructure; growing role in Ca-ion batteries and CO₂ capture (calcium looping).",
+      "bn": "সিমেন্ট ও অবকাঠামো থেকে বিশাল চাহিদা; Ca-আয়ন ব্যাটারি ও CO₂ ক্যাপচার (ক্যালসিয়াম লুপিং) এ বর্ধমান ভূমিকা।"
+    },
+    "globalImportance": {
+      "en": "Foundation of construction worldwide; essential nutrient added to most food fortification programs.",
+      "bn": "বিশ্বব্যাপী নির্মাণের ভিত্তি; বেশিরভাগ খাদ্য ফর্টিফিকেশন প্রোগ্রামে যুক্ত অপরিহার্য পুষ্টি।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Metallic Ca burns vigorously; reacts with water to release H₂ and heat. CaO (quicklime) is caustic on contact with moisture.",
+      "bn": "ধাতব Ca প্রবলভাবে জ্বলে; জলের সাথে বিক্রিয়ায় H₂ ও তাপ মুক্ত করে। CaO (কুইকলাইম) আর্দ্রতার সংস্পর্শে ক্ষয়কারী।"
+    },
+    "storageRequirements": {
+      "en": "Store metallic Ca under mineral oil or inert atmosphere; CaO in moisture-proof sealed containers.",
+      "bn": "ধাতব Ca খনিজ তেল বা নিষ্ক্রিয় বায়ুমণ্ডলে সংরক্ষণ করুন; CaO আর্দ্রতা-প্রতিরোধী সিল করা পাত্রে।"
+    },
+    "handlingProcedures": {
+      "en": "Wear gloves and eye protection; class D fire extinguishers for Ca metal fires.",
+      "bn": "গ্লাভস ও চোখের সুরক্ষা পরুন; Ca ধাতু আগুনের জন্য ক্লাস D অগ্নি নির্বাপক।"
+    },
+    "exposureRisks": {
+      "en": "CaO causes chemical burns on skin/eyes; dust inhalation irritates respiratory tract.",
+      "bn": "CaO ত্বক/চোখে রাসায়নিক পোড়া ঘটায়; ধুলো শ্বাসগ্রহণ শ্বাসনালীতে জ্বালা ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Moderate (high for metallic form and quicklime)",
+      "bn": "মাঝারি (ধাতব ও কুইকলাইম ফর্মের জন্য উচ্চ)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Water-Reactive (metal)",
+        "bn": "জল-প্রতিক্রিয়াশীল (ধাতু)"
+      },
+      {
+        "en": "Corrosive (CaO)",
+        "bn": "ক্ষয়কারী (CaO)"
+      },
+      {
+        "en": "Skin/Eye Irritant",
+        "bn": "ত্বক/চোখ জ্বালাকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Calcium is what makes your bones and teeth strong. It's also the main ingredient in chalk, cement, and seashells.",
+      "bn": "ক্যালসিয়াম আপনার হাড় ও দাঁতকে শক্তিশালী করে। এটি চক, সিমেন্ট ও শামুকের প্রধান উপাদানও।"
+    },
+    "advancedExplanation": {
+      "en": "Group 2 alkaline earth metal forming exclusively Ca²⁺. Bioavailable as hydroxyapatite in bone and as cytosolic signaling ion at ~100 nM resting concentration, rising 10–100× upon excitation. Industrially the heart of Portland cement chemistry (alite Ca₃SiO₅, belite Ca₂SiO₄).",
+      "bn": "একটি গ্রুপ ২ ক্ষারমৃৎ ধাতু যা কেবলমাত্র Ca²⁺ গঠন করে। হাড়ে হাইড্রক্সিঅ্যাপাটাইট হিসেবে ও সাইটোসলিক সংকেত আয়ন হিসেবে জৈব-প্রাপ্য, বিশ্রাম ঘনত্ব ~১০০ nM, উত্তেজনায় ১০–১০০ গুণ বাড়ে। শিল্পে পোর্টল্যান্ড সিমেন্ট রসায়নের কেন্দ্র (অ্যালাইট Ca₃SiO₅, বেলাইট Ca₂SiO₄)।"
+    },
+    "funFacts": [
+      {
+        "en": "The chalk of the White Cliffs of Dover is made of microscopic coccolith shells of ancient algae — pure CaCO₃.",
+        "bn": "ডোভারের সাদা পাহাড়ের চক প্রাচীন শৈবালের আণুবীক্ষণিক কোকোলিথ খোলক দিয়ে তৈরি — বিশুদ্ধ CaCO₃।"
+      },
+      {
+        "en": "Calcium-48 is 'doubly magic' (20 protons, 28 neutrons) and is used to synthesize superheavy elements like oganesson.",
+        "bn": "ক্যালসিয়াম-৪৮ 'দ্বিগুণ ম্যাজিক' (২০ প্রোটন, ২৮ নিউট্রন) এবং ওগানেসনের মতো অতিভারী মৌল সংশ্লেষণে ব্যবহৃত হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 12,
+        "relation": {
+          "en": "Magnesium and calcium are both Group 2 metals, but calcium ions are larger and bind more weakly than Mg²⁺, giving each distinct biological roles.",
+          "bn": "ম্যাগনেসিয়াম ও ক্যালসিয়াম উভয়ই গ্রুপ ২ ধাতু, কিন্তু ক্যালসিয়াম আয়ন বড় ও Mg²⁺ এর চেয়ে দুর্বলভাবে আবদ্ধ, প্রতিটির ভিন্ন জৈবিক ভূমিকা।"
+        }
+      }
+    ],
+    "relatedElements": [
+      12,
+      19,
+      21,
+      38
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the most abundant mineral form of calcium in Earth's crust?",
+          "bn": "পৃথিবীর ভূত্বকে ক্যালসিয়ামের সর্বাধিক প্রচুর খনিজ রূপ?"
+        },
+        "options": [
+          {
+            "en": "Calcium chloride",
+            "bn": "ক্যালসিয়াম ক্লোরাইড"
+          },
+          {
+            "en": "Calcium carbonate (CaCO₃, limestone)",
+            "bn": "ক্যালসিয়াম কার্বনেট (CaCO₃, চুনাপাথর)"
+          },
+          {
+            "en": "Calcium sulfate",
+            "bn": "ক্যালসিয়াম সালফেট"
+          },
+          {
+            "en": "Calcium nitrate",
+            "bn": "ক্যালসিয়াম নাইট্রেট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Limestone, chalk, and marble are all forms of CaCO₃, making it the dominant Ca-bearing mineral.",
+          "bn": "চুনাপাথর, চক ও মার্বেল সবই CaCO₃ এর রূপ, এটিকে প্রধান Ca-বহনকারী খনিজ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In Portland cement, what is the main hydraulic calcium silicate phase?",
+          "bn": "পোর্টল্যান্ড সিমেন্টে প্রধান হাইড্রোলিক ক্যালসিয়াম সিলিকেট ফেজ?"
+        },
+        "options": [
+          {
+            "en": "Belite (Ca₂SiO₄)",
+            "bn": "বেলাইট (Ca₂SiO₄)"
+          },
+          {
+            "en": "Alite (Ca₃SiO₅)",
+            "bn": "অ্যালাইট (Ca₃SiO₅)"
+          },
+          {
+            "en": "Gypsum",
+            "bn": "জিপসাম"
+          },
+          {
+            "en": "Ferrite",
+            "bn": "ফেরাইট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Alite (Ca₃SiO₅) is the dominant strength-giving phase, providing most early hydration strength.",
+          "bn": "অ্যালাইট (Ca₃SiO₅) প্রধান শক্তি-প্রদানকারী ফেজ, বেশিরভাগ প্রাথমিক হাইড্রেশন শক্তি প্রদান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What flame test color identifies Ca²⁺?",
+          "bn": "Ca²⁺ শনাক্তকারী শিখা পরীক্ষার রঙ?"
+        },
+        "options": [
+          {
+            "en": "Crimson red (Sr)",
+            "bn": "টকটকে লাল (Sr)"
+          },
+          {
+            "en": "Brick red / orange-red",
+            "bn": "ইট লাল / কমলা-লাল"
+          },
+          {
+            "en": "Apple green (Ba)",
+            "bn": "আপেল সবুজ (Ba)"
+          },
+          {
+            "en": "Lilac (K)",
+            "bn": "লাইলাক (K)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Calcium gives a brick-red / orange-red flame at ~622 nm and 553 nm.",
+          "bn": "ক্যালসিয়াম ~৬২২ nm ও ৫৫৩ nm এ ইট-লাল / কমলা-লাল শিখা দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which biomineral provides ~99% of body calcium?",
+          "bn": "শরীরের ~৯৯% ক্যালসিয়াম কোন জৈব-খনিজ থেকে?"
+        },
+        "options": [
+          {
+            "en": "Aragonite",
+            "bn": "অ্যারাগোনাইট"
+          },
+          {
+            "en": "Hydroxyapatite Ca₅(PO₄)₃OH",
+            "bn": "হাইড্রক্সিঅ্যাপাটাইট Ca₅(PO₄)₃OH"
+          },
+          {
+            "en": "Calcite",
+            "bn": "ক্যালসাইট"
+          },
+          {
+            "en": "Dolomite",
+            "bn": "ডলোমাইট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Hydroxyapatite is the calcium phosphate mineral that makes bones and tooth enamel hard.",
+          "bn": "হাইড্রক্সিঅ্যাপাটাইট ক্যালসিয়াম ফসফেট খনিজ যা হাড় ও দাঁতের এনামেল শক্ত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the resting cytoplasmic Ca²⁺ concentration in most cells?",
+          "bn": "বেশিরভাগ কোষে বিশ্রাম সাইটোপ্লাজমিক Ca²⁺ ঘনত্ব?"
+        },
+        "options": [
+          {
+            "en": "~1 mM",
+            "bn": "~১ mM"
+          },
+          {
+            "en": "~100 nM (10,000× lower than extracellular)",
+            "bn": "~১০০ nM (বহিঃকোষীয় এর চেয়ে ১০,০০০ গুণ কম)"
+          },
+          {
+            "en": "~10 μM",
+            "bn": "~১০ μM"
+          },
+          {
+            "en": "Identical to extracellular",
+            "bn": "বহিঃকোষীয় এর সমান"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The steep ~10,000-fold gradient enables Ca²⁺ to act as a fast intracellular second messenger.",
+          "bn": "তীব্র ~১০,০০০-গুণ গ্রেডিয়েন্ট Ca²⁺ কে দ্রুত আন্তঃকোষীয় দ্বিতীয় মেসেঞ্জার হিসেবে কাজ করতে সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Quicklime is which calcium compound?",
+          "bn": "কুইকলাইম কোন ক্যালসিয়াম যৌগ?"
+        },
+        "options": [
+          {
+            "en": "Ca(OH)₂",
+            "bn": "Ca(OH)₂"
+          },
+          {
+            "en": "CaO (formed by heating CaCO₃)",
+            "bn": "CaO (CaCO₃ গরম করে গঠিত)"
+          },
+          {
+            "en": "CaCl₂",
+            "bn": "CaCl₂"
+          },
+          {
+            "en": "CaSO₄",
+            "bn": "CaSO₄"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Calcination: CaCO₃ → CaO + CO₂ at ~900°C produces quicklime; Ca(OH)₂ is slaked lime.",
+          "bn": "ক্যালসিনেশন: ~৯০০°C এ CaCO₃ → CaO + CO₂ কুইকলাইম উৎপন্ন করে; Ca(OH)₂ হল স্ল্যাকড লাইম।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which Ca isotope is 'doubly magic' and used to make superheavy elements?",
+          "bn": "কোন Ca আইসোটোপ 'দ্বিগুণ ম্যাজিক' এবং অতিভারী মৌল তৈরিতে ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "⁴⁰Ca",
+            "bn": "⁴⁰Ca"
+          },
+          {
+            "en": "⁴²Ca",
+            "bn": "⁴²Ca"
+          },
+          {
+            "en": "⁴⁸Ca (20p, 28n)",
+            "bn": "⁴⁸Ca (২০p, ২৮n)"
+          },
+          {
+            "en": "⁴⁴Ca",
+            "bn": "⁴⁴Ca"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "⁴⁸Ca's closed shells make it exceptionally stable; ⁴⁸Ca beams produced elements 113-118.",
+          "bn": "⁴⁸Ca এর বদ্ধ শেল এটিকে ব্যতিক্রমী স্থিতিশীল করে; ⁴⁸Ca বিম মৌল ১১৩-১১৮ উৎপাদন করেছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In blood clotting, calcium is required for activation of which coagulation factor?",
+          "bn": "রক্ত জমাট বাঁধায়, কোন কোয়াগুলেশন ফ্যাক্টরের সক্রিয়করণে ক্যালসিয়াম প্রয়োজন?"
+        },
+        "options": [
+          {
+            "en": "Insulin",
+            "bn": "ইনসুলিন"
+          },
+          {
+            "en": "Multiple factors including Factor X (the 'Stuart factor')",
+            "bn": "একাধিক ফ্যাক্টর সহ ফ্যাক্টর X ('স্টুয়ার্ট ফ্যাক্টর')"
+          },
+          {
+            "en": "Hemoglobin",
+            "bn": "হিমোগ্লোবিন"
+          },
+          {
+            "en": "Albumin",
+            "bn": "অ্যালবুমিন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ca²⁺ (clotting Factor IV) bridges γ-carboxyglutamate residues to membrane phospholipids in the coagulation cascade.",
+          "bn": "Ca²⁺ (কোয়াগুলেশন ফ্যাক্টর IV) কোয়াগুলেশন ক্যাসকেডে γ-কার্বক্সিগ্লুটামেট অবশিষ্টাংশকে ঝিল্লি ফসফোলিপিডের সাথে সংযুক্ত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does cement production emit so much CO₂?",
+          "bn": "সিমেন্ট উৎপাদন এত বেশি CO₂ নির্গত করে কেন?"
+        },
+        "options": [
+          {
+            "en": "Burning oil only",
+            "bn": "শুধু তেল জ্বালানো"
+          },
+          {
+            "en": "Calcination CaCO₃ → CaO + CO₂ releases CO₂ inherently, plus fuel combustion",
+            "bn": "ক্যালসিনেশন CaCO₃ → CaO + CO₂ স্বভাবগতভাবে CO₂ মুক্ত করে, এবং জ্বালানী দহন"
+          },
+          {
+            "en": "Workers exhale",
+            "bn": "শ্রমিকরা শ্বাস ছাড়ে"
+          },
+          {
+            "en": "It doesn't actually",
+            "bn": "আসলে করে না"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "About 60% of cement's CO₂ is from limestone decomposition itself; the rest from kiln fuel.",
+          "bn": "সিমেন্টের প্রায় ৬০% CO₂ চুনাপাথর বিয়োজন থেকে; বাকি ভাটা জ্বালানী থেকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Calcium gluconate is the antidote for which acid burn?",
+          "bn": "ক্যালসিয়াম গ্লুকোনেট কোন অ্যাসিড পোড়ার অ্যান্টিডোট?"
+        },
+        "options": [
+          {
+            "en": "HCl",
+            "bn": "HCl"
+          },
+          {
+            "en": "Hydrofluoric acid (HF)",
+            "bn": "হাইড্রোফ্লোরিক অ্যাসিড (HF)"
+          },
+          {
+            "en": "HNO₃",
+            "bn": "HNO₃"
+          },
+          {
+            "en": "H₂SO₄",
+            "bn": "H₂SO₄"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "HF causes deep tissue damage by sequestering Ca²⁺/Mg²⁺; Ca gluconate gel replenishes them.",
+          "bn": "HF Ca²⁺/Mg²⁺ আবদ্ধ করে গভীর টিস্যু ক্ষতি ঘটায়; Ca গ্লুকোনেট জেল এদের পুনরায় সরবরাহ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which calcium-sensor protein in muscle binds 4 Ca²⁺ to trigger contraction?",
+          "bn": "পেশীতে কোন ক্যালসিয়াম-সেন্সর প্রোটিন সংকোচন ট্রিগার করতে ৪টি Ca²⁺ আবদ্ধ করে?"
+        },
+        "options": [
+          {
+            "en": "Myosin",
+            "bn": "মায়োসিন"
+          },
+          {
+            "en": "Troponin C",
+            "bn": "ট্রপোনিন C"
+          },
+          {
+            "en": "Actin",
+            "bn": "অ্যাক্টিন"
+          },
+          {
+            "en": "Hemoglobin",
+            "bn": "হিমোগ্লোবিন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ca²⁺ binding to troponin C moves tropomyosin off actin, allowing myosin cross-bridges to form.",
+          "bn": "ট্রপোনিন C এর সাথে Ca²⁺ আবদ্ধতা ট্রপোমায়োসিনকে অ্যাক্টিন থেকে সরায়, মায়োসিন ক্রস-ব্রিজ গঠন সম্ভব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which Ca compound is the principal component of gypsum boards?",
+          "bn": "জিপসাম বোর্ডের প্রধান উপাদান কোন Ca যৌগ?"
+        },
+        "options": [
+          {
+            "en": "CaCO₃",
+            "bn": "CaCO₃"
+          },
+          {
+            "en": "CaSO₄·2H₂O",
+            "bn": "CaSO₄·2H₂O"
+          },
+          {
+            "en": "CaCl₂",
+            "bn": "CaCl₂"
+          },
+          {
+            "en": "CaF₂",
+            "bn": "CaF₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Hydrated calcium sulfate (gypsum) loses ~75% of its water when heated, becoming plaster of Paris.",
+          "bn": "জলযোজিত ক্যালসিয়াম সালফেট (জিপসাম) গরম করলে এর জলের ~৭৫% হারিয়ে প্লাস্টার অব প্যারিসে পরিণত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why doesn't calcium react with water as violently as sodium or potassium?",
+          "bn": "ক্যালসিয়াম কেন সোডিয়াম বা পটাশিয়ামের মতো প্রবলভাবে জলের সাথে বিক্রিয়া করে না?"
+        },
+        "options": [
+          {
+            "en": "Higher ionization energy and protective Ca(OH)₂ layer slow the reaction",
+            "bn": "উচ্চতর আয়নীকরণ শক্তি ও সুরক্ষামূলক Ca(OH)₂ স্তর বিক্রিয়া ধীর করে"
+          },
+          {
+            "en": "Ca is non-metallic",
+            "bn": "Ca অধাতু"
+          },
+          {
+            "en": "Water is too cold",
+            "bn": "জল খুব ঠাণ্ডা"
+          },
+          {
+            "en": "Ca floats on water",
+            "bn": "Ca জলে ভাসে"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Removing two electrons requires more energy than one, and the insoluble Ca(OH)₂ coating limits further attack.",
+          "bn": "দুটি ইলেক্ট্রন অপসারণে এক এর চেয়ে বেশি শক্তি প্রয়োজন, ও অদ্রবণীয় Ca(OH)₂ আবরণ আরও আক্রমণ সীমিত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In calcium looping for CO₂ capture, what reaction occurs in the carbonator?",
+          "bn": "CO₂ ক্যাপচারে ক্যালসিয়াম লুপিংয়ে কার্বোনেটরে কোন বিক্রিয়া ঘটে?"
+        },
+        "options": [
+          {
+            "en": "CaCO₃ → CaO + CO₂",
+            "bn": "CaCO₃ → CaO + CO₂"
+          },
+          {
+            "en": "CaO + CO₂ → CaCO₃",
+            "bn": "CaO + CO₂ → CaCO₃"
+          },
+          {
+            "en": "Ca + 2H₂O → Ca(OH)₂ + H₂",
+            "bn": "Ca + 2H₂O → Ca(OH)₂ + H₂"
+          },
+          {
+            "en": "CaO + H₂O → Ca(OH)₂",
+            "bn": "CaO + H₂O → Ca(OH)₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "CaO captures CO₂ at ~650°C; the CaCO₃ is then calcined at ~900°C to release pure CO₂ for storage.",
+          "bn": "CaO ~৬৫০°C এ CO₂ ধারণ করে; তারপর CaCO₃ কে ~৯০০°C এ ক্যালসাইন করে বিশুদ্ধ CO₂ মুক্ত করা হয় সঞ্চয়ের জন্য।"
+        }
+      },
+      {
+        "question": {
+          "en": "Calcium hardness in water is reduced by which softening process?",
+          "bn": "জলে ক্যালসিয়াম কঠিনতা কোন নরমকরণ প্রক্রিয়ায় কমে?"
+        },
+        "options": [
+          {
+            "en": "Adding HCl",
+            "bn": "HCl যোগ করে"
+          },
+          {
+            "en": "Ion exchange (Ca²⁺ replaced by Na⁺) or lime-soda process",
+            "bn": "আয়ন বিনিময় (Na⁺ দ্বারা Ca²⁺ প্রতিস্থাপন) বা লাইম-সোডা প্রক্রিয়া"
+          },
+          {
+            "en": "Boiling only",
+            "bn": "শুধু ফোটানো"
+          },
+          {
+            "en": "Adding sugar",
+            "bn": "চিনি যোগ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Resin beads swap Ca²⁺ for Na⁺; lime-soda precipitates CaCO₃ for removal.",
+          "bn": "রজন বিড Ca²⁺ কে Na⁺ এ বিনিময় করে; লাইম-সোডা CaCO₃ অধঃক্ষেপ করে অপসারণে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is CaF₂ used for ArF (193 nm) excimer laser optics in advanced lithography?",
+          "bn": "উন্নত লিথোগ্রাফিতে ArF (১৯৩ nm) এক্সিমার লেজার অপটিক্সের জন্য CaF₂ কেন ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "Cheap",
+            "bn": "সস্তা"
+          },
+          {
+            "en": "Wide bandgap → transparent in deep UV; low birefringence single crystals",
+            "bn": "প্রশস্ত ব্যান্ডগ্যাপ → ডিপ-UV তে স্বচ্ছ; কম দ্বি-প্রতিসারক একক স্ফটিক"
+          },
+          {
+            "en": "Has fluorescence",
+            "bn": "ফ্লুরোসেন্স আছে"
+          },
+          {
+            "en": "Reflects UV",
+            "bn": "UV প্রতিফলিত করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Most ordinary glasses absorb at 193 nm; CaF₂ remains transparent down to ~125 nm enabling DUV lenses.",
+          "bn": "বেশিরভাগ সাধারণ কাচ ১৯৩ nm এ শোষণ করে; CaF₂ ~১২৫ nm পর্যন্ত স্বচ্ছ থাকে DUV লেন্স সম্ভব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which hormone increases blood calcium by mobilizing bone Ca and increasing intestinal absorption?",
+          "bn": "কোন হরমোন হাড় থেকে Ca নিঃসৃত করে ও অন্ত্রের শোষণ বাড়িয়ে রক্তে ক্যালসিয়াম বাড়ায়?"
+        },
+        "options": [
+          {
+            "en": "Calcitonin",
+            "bn": "ক্যালসিটোনিন"
+          },
+          {
+            "en": "Parathyroid hormone (PTH) + 1,25-(OH)₂ vitamin D",
+            "bn": "প্যারাথাইরয়েড হরমোন (PTH) + ১,২৫-(OH)₂ ভিটামিন D"
+          },
+          {
+            "en": "Insulin",
+            "bn": "ইনসুলিন"
+          },
+          {
+            "en": "Cortisol",
+            "bn": "কর্টিসল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "PTH stimulates osteoclasts and renal Ca²⁺ reabsorption; vitamin D boosts gut Ca²⁺ uptake.",
+          "bn": "PTH অস্টিওক্লাস্ট ও রেনাল Ca²⁺ পুনঃশোষণ উদ্দীপিত করে; ভিটামিন D অন্ত্রে Ca²⁺ গ্রহণ বাড়ায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In stalactites and coral reefs, what reaction precipitates CaCO₃?",
+          "bn": "স্ট্যাল্যাকটাইট ও প্রবাল প্রাচীরে কোন বিক্রিয়া CaCO₃ অধঃক্ষেপ করে?"
+        },
+        "options": [
+          {
+            "en": "Ca + O₂",
+            "bn": "Ca + O₂"
+          },
+          {
+            "en": "Ca²⁺ + 2HCO₃⁻ → CaCO₃ + CO₂ + H₂O",
+            "bn": "Ca²⁺ + 2HCO₃⁻ → CaCO₃ + CO₂ + H₂O"
+          },
+          {
+            "en": "CaCl₂ + H₂O",
+            "bn": "CaCl₂ + H₂O"
+          },
+          {
+            "en": "Ca + N₂",
+            "bn": "Ca + N₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Loss of CO₂ from bicarbonate-rich water shifts equilibrium to deposit CaCO₃ on cave roofs or coral skeletons.",
+          "bn": "বাইকার্বনেট-সমৃদ্ধ জল থেকে CO₂ ক্ষয় ভারসাম্যকে গুহার ছাদে বা প্রবাল কঙ্কালে CaCO₃ জমার দিকে সরায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the principal hardness mineral in tooth enamel?",
+          "bn": "দাঁতের এনামেলে প্রধান কঠিনতা খনিজ?"
+        },
+        "options": [
+          {
+            "en": "Calcite",
+            "bn": "ক্যালসাইট"
+          },
+          {
+            "en": "Hydroxyapatite (or fluorapatite when F⁻ substitutes)",
+            "bn": "হাইড্রক্সিঅ্যাপাটাইট (F⁻ প্রতিস্থাপনে ফ্লুরোঅ্যাপাটাইট)"
+          },
+          {
+            "en": "Aragonite",
+            "bn": "অ্যারাগোনাইট"
+          },
+          {
+            "en": "Gypsum",
+            "bn": "জিপসাম"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Fluoridation converts hydroxyapatite to fluorapatite, which is more acid-resistant and harder.",
+          "bn": "ফ্লুরাইডেশন হাইড্রক্সিঅ্যাপাটাইটকে ফ্লুরোঅ্যাপাটাইটে রূপান্তর করে, যা অ্যাসিড-প্রতিরোধী ও বেশি শক্ত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does milk contain ~120 mg Ca per 100 mL?",
+          "bn": "দুধে কেন প্রতি ১০০ mL এ ~১২০ mg Ca থাকে?"
+        },
+        "options": [
+          {
+            "en": "To preserve it",
+            "bn": "সংরক্ষণে"
+          },
+          {
+            "en": "Mammary glands secrete Ca-binding caseins to provide Ca for the offspring's bone growth",
+            "bn": "ম্যামারি গ্রন্থি সন্তানের হাড়ের বৃদ্ধির জন্য Ca-বাঁধাইকারী কেসিন নিঃসরণ করে"
+          },
+          {
+            "en": "Cows like Ca",
+            "bn": "গরু Ca পছন্দ করে"
+          },
+          {
+            "en": "It adds flavor",
+            "bn": "এটি স্বাদ যোগ করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Casein micelles transport calcium phosphate to offspring as a critical building block for skeletal mineralization.",
+          "bn": "কেসিন মাইসেল কঙ্কাল খনিজীকরণের গুরুত্বপূর্ণ ব্লক হিসেবে সন্তানদের কাছে ক্যালসিয়াম ফসফেট পরিবহন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Davy isolated calcium in 1808 using which approach?",
+          "bn": "ডেভি ১৮০৮ সালে কোন পদ্ধতিতে ক্যালসিয়াম পৃথক করেন?"
+        },
+        "options": [
+          {
+            "en": "Reduction with hydrogen",
+            "bn": "হাইড্রোজেন দ্বারা বিজারণ"
+          },
+          {
+            "en": "Electrolysis of CaO/HgO mixture then mercury distillation",
+            "bn": "CaO/HgO মিশ্রণের তড়িৎবিশ্লেষণ তারপর পারদ পাতন"
+          },
+          {
+            "en": "Roasting limestone",
+            "bn": "চুনাপাথর ভর্জন"
+          },
+          {
+            "en": "Crystallization",
+            "bn": "স্ফটিকীকরণ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Davy electrolyzed a moist mixture, formed Ca amalgam, then distilled off mercury to obtain Ca metal.",
+          "bn": "ডেভি আর্দ্র মিশ্রণ তড়িৎবিশ্লেষণ করেন, Ca অ্যামালগাম গঠন করেন, তারপর পারদ পাতন করে Ca ধাতু পান।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "More dietary calcium always strengthens bones — actually balance with vitamin D, K2, magnesium and weight-bearing exercise matters more.",
+        "bn": "বেশি খাদ্যজ ক্যালসিয়াম সবসময় হাড় শক্ত করে — আসলে ভিটামিন D, K2, ম্যাগনেসিয়াম ও ভার-বহনকারী ব্যায়ামের সাথে ভারসাম্য বেশি গুরুত্বপূর্ণ।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember Ca as the 'C' of cement, chalk, and calcium-phosphate bone — three pillars of human civilization and biology.",
+        "bn": "Ca কে মনে রাখুন সিমেন্ট, চক ও ক্যালসিয়াম-ফসফেট হাড়ের 'C' হিসেবে — মানব সভ্যতা ও জীববিজ্ঞানের তিনটি স্তম্ভ।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "Ca + 2H₂O → Ca(OH)₂ + H₂↑",
+        "description": {
+          "en": "Reaction of calcium metal with water, less violent than alkali metals.",
+          "bn": "ক্ষারীয় ধাতুর চেয়ে কম প্রবল, ক্যালসিয়াম ধাতু ও জলের বিক্রিয়া।"
+        }
+      },
+      {
+        "equation": "CaCO₃ → CaO + CO₂ (~900 °C)",
+        "description": {
+          "en": "Calcination of limestone to produce quicklime — basis of the cement industry.",
+          "bn": "চুনাপাথরের ক্যালসিনেশনে কুইকলাইম উৎপাদন — সিমেন্ট শিল্পের ভিত্তি।"
+        }
+      },
+      {
+        "equation": "CaO + H₂O → Ca(OH)₂ + heat",
+        "description": {
+          "en": "Slaking of quicklime to produce calcium hydroxide (slaked lime).",
+          "bn": "ক্যালসিয়াম হাইড্রক্সাইড (স্ল্যাকড লাইম) উৎপাদনে কুইকলাইম স্ল্যাকিং।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Ca → Ca²⁺ + 2e⁻",
+        "description": {
+          "en": "Two-electron oxidation defining all Ca chemistry — Ca exists only as Ca²⁺ in compounds.",
+          "bn": "সমস্ত Ca রসায়ন নির্ধারণকারী দুই-ইলেক্ট্রন জারণ — যৌগে Ca শুধু Ca²⁺ হিসেবে বিদ্যমান।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Ca²⁺ + 2e⁻ → Ca (at cathode in molten CaCl₂ electrolysis)",
+        "description": {
+          "en": "Cathodic reduction in industrial electrolytic production of calcium metal.",
+          "bn": "ক্যালসিয়াম ধাতুর শিল্প তড়িৎরাসায়নিক উৎপাদনে ক্যাথোডিক বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "CaF₂",
+        "description": {
+          "en": "Ca²⁺ ions form an FCC sublattice with F⁻ ions in tetrahedral holes — the fluorite structure.",
+          "bn": "Ca²⁺ আয়ন FCC সাবলেটিস গঠন করে যেখানে F⁻ আয়ন টেট্রাহেড্রাল হোলে থাকে — ফ্লুরাইট কাঠামো।"
+        }
+      }
+    ]
+  }
+}

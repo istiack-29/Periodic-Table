@@ -1,0 +1,995 @@
+{
+"elementId": 30,
+"basicInformation": {
+"atomicNumber": 30,
+"symbol": "Zn",
+"name": {
+"en": "Zinc",
+"bn": "দস্তা"
+},
+"pronunciation": {
+"en": "/zɪŋk/",
+"bn": "জিঙ্ক"
+},
+"atomicMass": 65.38,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 12,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Silver-grayish-white metal",
+"bn": "রুপালি-ধূসর-সাদা ধাতু"
+},
+"color": {
+"en": "Silver-gray",
+"bn": "রুপালি-ধূসর"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Andreas Sigismund Marggraf",
+"bn": "আন্দ্রেয়াস সিগিসমুন্ড মারগ্রাফ"
+},
+"discoveryYear": 1746,
+"discoveryLocation": {
+"en": "Germany",
+"bn": "জার্মানি"
+},
+"discoveryStory": {
+"en": "Though zinc ores were used to make brass centuries before, Marggraf isolated pure zinc in 1746 by heating calamine and charcoal, proving it was a distinct metal.",
+"bn": "যদিও পিতল তৈরির জন্য বহু শতাব্দী আগে থেকেই দস্তার আকরিক ব্যবহৃত হতো, ১৭৪৬ সালে মারগ্রাফ ক্যালামাইন এবং কাঠকয়লা উত্তপ্ত করে বিশুদ্ধ দস্তা আলাদা করেন এবং প্রমাণ করেন যে এটি একটি স্বতন্ত্র ধাতু।"
+},
+"historicalUses": {
+"en": "Historically alloyed with copper to manufacture brass armor, coins, and utensils across ancient India, China, and Rome.",
+"bn": "ঐতিহাসিকভাবে প্রাচীন ভারত, চীন এবং রোমে পিতলের বর্ম, মুদ্রা এবং তৈজসপত্র তৈরির জন্য তামার সাথে এটি মিশ্রিত করা হতো।"
+},
+"famousExperiments": {
+"en": "Marggraf's reduction of calamine ore in a closed vessel without copper to prevent immediate alloy formation.",
+"bn": "মারগ্রাফের পরীক্ষা যেখানে তিনি তামার উপস্থিতি ছাড়াই একটি বন্ধ পাত্রে ক্যালামাইন আকরিকের বিজারণ ঘটান যাতে সরাসরি সংকর ধাতু তৈরি না হয়ে বিশুদ্ধ দস্তা পাওয়া যায়।"
+}
+},
+"atomicStructure": {
+"protons": 30,
+"neutrons": 35,
+"electrons": 30,
+"valenceElectrons": 2,
+"shells": 4,
+"shellDistribution": [2, 8, 18, 2],
+"electronConfiguration": "[Ar] 3d¹⁰ 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 10,
+"4s": 2
+},
+"oxidationStates": [2],
+"quantumNumbers": {
+"principal": 4,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 7.14,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 692.68,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 1180.0,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 134,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 122,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 139,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 116.0,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 16.6e6,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.388,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 2.5,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.65,
+"ionizationEnergy": {
+"value": 906.4,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 0.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Moderately reactive metal. Dissolves readily in acids and alkalis, tarnishes in moist air to form a protective carbonate layer.",
+"bn": "মাঝারি ধরনের প্রতিক্রিয়াশীল ধাতু। এটি অ্যাসিড এবং ক্ষারে সহজেই দ্রবীভূত হয় এবং আর্দ্র বাতাসে এর ওপর একটি সুরক্ষামূলক কার্বনেট স্তর তৈরি হয়।"
+},
+"commonCompounds": ["ZnO", "ZnSO₄", "ZnCl₂", "ZnS", "Zn₃(PO₄)₂"],
+"flameTestColor": {
+"en": "Bluish-green",
+"bn": "নীলাভ-সবুজ"
+},
+"spectralLines": ["468.01nm", "472.22nm", "481.05nm", "636.23nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Galvanization of steel to prevent rust, production of alloys like brass and bronze, die-casting in automotive manufacturing.",
+"bn": "মরিচা রোধে ইস্পাতের গ্যালভানাইজেশন, পিতল ও ব্রোঞ্জের মতো সংকর ধাতু তৈরি এবং মোটরগাড়ি তৈরিতে ডাই-কাস্টিং।"
+},
+"commercialUses": {
+"en": "Production of sunscreen cosmetics (ZnO), marine sacrificial anodes, gutters, and architectural roof paneling.",
+"bn": "সানস্ক্রিন কসমেটিকস (ZnO), সামুদ্রিক স্যাক্রিফিসিয়াল অ্যানোড, নর্দমা এবং স্থাপত্যের ছাদের প্যানেলিং উৎপাদন।"
+},
+"electronicsUses": {
+"en": "Case housing and chassis structural frames for modern computing rigs due to shielding and anti-corrosive properties.",
+"bn": "শিল্ডিং এবং ক্ষয়রোধী বৈশিষ্ট্যের কারণে আধুনিক কম্পিউটিং রিগের কেস হাউজিং এবং চ্যাসিসের কাঠামোগত ফ্রেম হিসেবে।"
+},
+"semiconductorUses": {
+"en": "Zinc oxide thin films act as transparent conductive oxides in photovoltaic panels and flat displays.",
+"bn": "জিঙ্ক অক্সাইডের পাতলা ফিল্ম ফটো ভোল্টাইক প্যানেল এবং ফ্ল্যাট ডিসপ্লেতে স্বচ্ছ পরিবাহী অক্সাইড হিসেবে কাজ করে।"
+},
+"aerospaceUses": {
+"en": "Zinc-nickel electroplating as a safe, eco-friendly replacement for toxic cadmium coatings on aircraft landing gears.",
+"bn": "উড়োজাহাজের ল্যান্ডিং গিয়ারে বিষাক্ত ক্যাডমিয়াম আবরণের একটি নিরাপদ ও পরিবেশবান্ধব বিকল্প হিসেবে জিঙ্ক-নিকেল ইলেকট্রোপ্লেটিং।"
+},
+"batteryUses": {
+"en": "Anode material in alkaline, zinc-carbon, and advanced rechargeable zinc-air batteries.",
+"bn": "অ্যালকালাইন, জিঙ্ক-কার্বন এবং উন্নত রিচার্জেবল জিঙ্ক-এয়ার ব্যাটারিতে অ্যানোড উপাদান হিসেবে।"
+},
+"aiHardwareUses": {
+"en": "Zinc-alloy high-precision optical transceivers and heat-sink components inside AI high-density acceleration racks.",
+"bn": "এআই হাই-ডেনসিটি অ্যাক্সিলারেশন র‍্যাকের ভেতরে জিঙ্ক-অ্যালয় উচ্চ-নির্ভুল অপটিক্যাল ট্রান্সিভার এবং হিট-সিঙ্ক উপাদান।"
+},
+"renewableEnergyUses": {
+"en": "Zinc-based energy storage solutions for large-scale grid stabilization of wind and solar outputs.",
+"bn": "বায়ু ও সৌরশক্তির গ্রিড স্থিতিশীল করার জন্য বৃহৎ আকারের জিঙ্ক-ভিত্তিক শক্তি সঞ্চয় সমাধান।"
+},
+"nanotechnologyUses": {
+"en": "Zinc oxide nanowires applied in piezoelectric nanogenerators for self-powered bio-sensors.",
+"bn": "স্বয়ংক্রিয় শক্তির বায়ো-সেন্সরের জন্য পাইজোইলেকট্রিক ন্যানোজেনারেশনায় জিঙ্ক অক্সাইড ন্যানোয়ারের ব্যবহার।"
+},
+"nuclearUses": {
+"en": "Depleted zinc oxide (DZO) added to nuclear reactor cooling water to mitigate radiation stress corrosion cracking.",
+"bn": "পারমাণবিক চুল্লির কুলিং ওয়াটারে রেডিয়েশন স্ট্রেস করrosion ক্র্যাকিং প্রশমিত করতে ডিপ্লেটেড জিঙ্ক অক্সাইড (DZO) যোগ করা হয়।"
+},
+"militaryUses": {
+"en": "Constituent of brass cartridge casings for ammunition and smoke-screening composition (Hexachloroethane-Zinc).",
+"bn": "গোলাবারুদের জন্য পিতলের কার্তুজ কেসিং এবং ধোঁয়ার পর্দা তৈরির কম্পোজিশনে (হেক্সাক্লোরোইথেন-জিঙ্ক) একটি উপাদান।"
+},
+"medicalUses": {
+"en": "Active ingredient in calamine lotions, zinc dietary supplements, and therapeutic dental cements.",
+"bn": "ক্যালামাইন লোশন, দস্তার খাদ্যতালিকাগত পরিপূরক এবং থেরাপিউটিক ডেন্টাল সিমেন্টে সক্রিয় উপাদান।"
+},
+"foodIndustryUses": {
+"en": "Nutritional fortification agent in breakfast cereals, infant formulas, and animal feed additives.",
+"bn": "প্রাতঃরাশের সিরিয়াল, শিশু ফর্মুলা এবং পশুখাদ্য সংযোজনীতে পুষ্টিবর্ধক এজেন্ট।"
+},
+"constructionUses": {
+"en": "Rustproofing structural beams, nails, screws, and weather-resistant roofing sheets.",
+"bn": "কাঠামোগত বিম, পেরেক, স্ক্রু এবং আবহাওয়া-প্রতিরোধী ছাদের শীট মরিচারোধী করা।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Essential trace element. Crucial structural and catalytic component of over 300 enzymes.",
+"bn": "অপরিহার্য ট্রেস উপাদান। ৩০০টিরও বেশি এনজাইমের অত্যন্ত গুরুত্বপূর্ণ কাঠামোগত এবং অনুঘটক উপাদান।"
+},
+"humanBodyRole": {
+"en": "Constitutes ~2g of body mass; pivotal for DNA synthesis, immune cell function, protein synthesis, and wound healing.",
+"bn": "দেহের ভরের প্রায় ২ গ্রাম গঠন করে; ডিএনএ সংশ্লেষণ, রোগ প্রতিরোধ ক্ষমতা কোষের কাজ, প্রোটিন সংশ্লেষণ এবং ক্ষত নিরাময়ের জন্য গুরুত্বপূর্ণ।"
+},
+"toxicity": {
+"en": "Low systemic toxicity, but excessive ingestion interferes with copper absorption, and breathing oxide fumes causes metal fume fever.",
+"bn": "সিস্টেমিক বিষাক্ততা কম, তবে অতিরিক্ত গ্রহণের ফলে তামা শোষণ ব্যাহত হয় এবং জিঙ্ক অক্সাইডের ধোঁয়া শ্বাস নিলে মেটাল ফিউম ফিভার হয়।"
+},
+"environmentalImpact": {
+"en": "Naturally present but high industrial discharges bioaccumulate in aquatic life, causing gill damage in fish.",
+"bn": "প্রাকৃতিকভাবে উপস্থিত থাকলেও উচ্চ শিল্প নির্গমনের কারণে এটি জলজ জীবনে জৈব সঞ্চিত হয়, যা মাছের ফুলকার ক্ষতি করে।"
+},
+"pollutionRisks": {
+"en": "Mining runoff can release toxic ions into local watersheds, disrupting soil microbiology and vegetation.",
+"bn": "খনির বর্জ্য নিষ্কাশন স্থানীয় জলসীমায় বিষাক্ত আয়ন নির্গত করতে পারে, যা মাটির অণুজীব এবং গাছপালাকে ব্যাহত করে।"
+},
+"recyclingMethods": {
+"en": "Electric arc furnace dust capture and pyrometallurgical processing via the Waelz kiln for zinc scrap reclamation.",
+"bn": "জিঙ্ক স্ক্র্যাপ পুনরুদ্ধারের জন্য ইলেকট্রিক আর্ক ফার্নেস ডাস্ট ক্যাপচার এবং ওয়েলজ কিলনের মাধ্যমে পাইরোমেটালার্জিক্যাল প্রক্রিয়াকরণ।"
+},
+"sustainabilityScore": 8.2
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Peru",
+"bn": "পেরু"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+}
+],
+"miningMethods": {
+"en": "Underground and open-pit mining of Sphalerite ore followed by froth flotation and electrowinning.",
+"bn": "স্ফ্যালেরাইট আকরিকের ভূগর্ভস্থ এবং উন্মুক্ত খনির কাজ, যার পরে ফ্রথ ফ্লোটেশন এবং ইলেকট্রোউনিং করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.00003% by mass",
+"bn": "ভর অনুযায়ী ০.০০MDA০৩%"
+},
+"earthCrust": {
+"en": "0.0075% by mass",
+"bn": "ভর অনুযায়ী ০.০০৭৫%"
+},
+"oceans": {
+"en": "0.0000005% by mass",
+"bn": "ভর অনুযায়ী ০.০০MDAMDAMDA৫%"
+}
+},
+"marketValue": {
+"en": "Traded on LME at approximately $2,500 - $3,200 per metric ton.",
+"bn": "এলএমই (LME) তে প্রতি মেট্রিক টন প্রায় $২,৫০০ - $৩,২০০ মূল্যে লেনদেন হয়।"
+},
+"futureDemand": {
+"en": "Steadily rising due to the massive scale-up of grid-tier energy storage batteries and green infrastructure.",
+"bn": "গ্রিড-টায়ার এনার্জি স্টোরেজ ব্যাটারি এবং পরিবেশবান্ধব অবকাঠামোর ব্যাপক প্রসারের কারণে ক্রমাগত বাড়ছে।"
+},
+"globalImportance": {
+"en": "Indispensable foundation metal for protecting global steel assets and ensuring structural longevity.",
+"bn": "বৈশ্বিক ইস্পাত সম্পদ রক্ষা এবং কাঠামোগত দীর্ঘায়ু নিশ্চিত করার জন্য অপরিহার্য ভিত্তি ধাতু।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Zinc dust is a severe fire hazard and can ignite spontaneously. Zinc oxide fumes cause acute respiratory illness.",
+"bn": "দস্তার গুঁড়ো একটি মারাত্মক অগ্নিঝুঁকি এবং স্বতঃস্ফূর্তভাবে জ্বলে উঠতে পারে। জিঙ্ক অক্সাইডের ধোঁয়া তীব্র শ্বাসকষ্টের সৃষ্টি করে।"
+},
+"storageRequirements": {
+"en": "Store powder in tightly sealed, moisture-proof containers away from strong oxidizing agents and acids.",
+"bn": "গুঁড়ো আকারে থাকলে তা শক্তভাবে সিল করা, আর্দ্রতারোধী পাত্রে এবং তীব্র জারক পদার্থ ও অ্যাসিড থেকে দূরে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Ensure complete dust extraction systems, avoid inhalation using respirators, and prevent wet packaging.",
+"bn": "সম্পূর্ণ ডাস্ট নিষ্কাশন ব্যবস্থা নিশ্চিত করুন, রেসপিরেটর ব্যবহার করে শ্বাস গ্রহণের ঝুঁকি এড়ান এবং ভেজা প্যাকেজিং প্রতিরোধ করুন।"
+},
+"exposureRisks": {
+"en": "Acute inhalation of fumes triggers chills, fever, muscular pain, and nausea within hours of exposure.",
+"bn": "ধোঁয়া তীব্রভাবে শ্বাস গ্রহণের ফলে সংস্পর্শে আসার কয়েক ঘণ্টার মধ্যে কাঁপুনি, জ্বর, পেশী ব্যথা এবং বমি বমি ভাব দেখা দেয়।"
+},
+"safetyLevel": {
+"en": "Moderate Risk (Dust/Fume)",
+"bn": "মাঝারি ঝুঁকি (গুঁড়ো/ধোঁয়া)"
+},
+"hazardClassifications": [
+{
+"en": "Substance which, in contact with water, emits flammable gases",
+"bn": "এমন পদার্থ যা জলের সংস্পর্শে আসলে দাহ্য গ্যাস নির্গত করে"
+},
+{
+"en": "Pyrophoric Solid",
+"bn": "পাইরোফোরিক কঠিন পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Zinc is a shiny transition metal mostly known for protecting steel from rusting and keeping our immune systems strong.",
+"bn": "দস্তা বা জিঙ্ক হলো একটি চকচকে অবস্থান্তর ধাতু যা মূলত ইস্পাতকে মরিচা থেকে রক্ষা করতে এবং আমাদের রোগ প্রতিরোধ ক্ষমতা শক্তিশালী রাখতে পরিচিত।"
+},
+"advancedExplanation": {
+"en": "Zinc is a d-block element with a filled d-orbital configuration ([Ar] 3d¹⁰ 4s²), making its +2 state highly stable as it does not participate in typical transition metal ligand field stabilization transitions.",
+"bn": "দস্তা হলো একটি d-ব্লক উপাদান যার d-অরবিটাল পূর্ণ থাকে ([Ar] 3d¹⁰ 4s²), যার ফলে এর +২ অবস্থা অত্যন্ত স্থিতিশীল কারণ এটি সাধারণ অবস্থান্তর ধাতুর লিগ্যান্ড ফিল্ড স্ট্যাবিলাইজেশন ট্রানজিশনে অংশ নেয় না।"
+},
+"funFacts": [
+{
+"en": "Pennies minted in the United States since 1982 are actually made of 97.5% zinc coated with a thin layer of copper.",
+"bn": "১৯৮২ সাল থেকে যুক্তরাষ্ট্রে তৈরি হওয়া সেন্ট বা পেনিগুলো মূলত ৯৭.৫% দস্তা দিয়ে গঠিত, যার ওপর তামার একটি পাতলা স্তর দেওয়া থাকে।"
+},
+{
+"en": "Zinc is the second most abundant trace mineral in the human body, trailing only iron.",
+"bn": "মানবদেহে লোহার পরেই দস্তা বা জিঙ্ক হলো দ্বিতীয় সর্বাধিক প্রচুর পরিমাণে থাকা ট্রেস খনিজ।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 29,
+"relation": {
+"en": "Unlike Copper, Zinc has a fully filled 3d shell, which prevents it from forming colorful ions or undergoing varied redox changes under standard conditions.",
+"bn": "তামার মতো নয়, দস্তার একটি সম্পূর্ণ পূর্ণ ৩d শেল রয়েছে, যা এটিকে রঙিন আয়ন গঠন করতে বা আদর্শ পরিস্থিতিতে বিভিন্ন রেডক্স পরিবর্তন ঘটাতে বাধা দেয়।"
+}
+}
+],
+"relatedElements": [29, 48, 80, 12],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the primary industrial application of zinc worldwide, consuming over half of global production?",
+"bn": "বিশ্বব্যাপী দস্তার প্রাথমিক শিল্প ব্যবহার কোনটি, যা বৈশ্বিক উৎপাদনের অর্ধেকেরও বেশি গ্রাস করে?"
+},
+"options": [
+{
+"en": "Battery manufacturing",
+"bn": "ব্যাটারি উৎপাদন"
+},
+{
+"en": "Galvanization of iron and steel",
+"bn": "লোহা ও ইস্পাতের গ্যালভানাইজেশন"
+},
+{
+"en": "Pigment formulation",
+"bn": "রঙ্গক তৈরি"
+},
+{
+"en": "Pharmaceutical extraction",
+"bn": "ফার্মাসিউটিক্যাল নিষ্কাশন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Galvanization accounts for roughly 50% of the world's zinc utilization to safeguard infrastructure against environmental rusting.",
+"bn": "পরিবেশগত মরিচা থেকে অবকাঠামো রক্ষা করার জন্য বিশ্বের দস্তা ব্যবহারের প্রায় ৫০% গ্যালভানাইজেশনে ব্যয় হয়।"
+}
+},
+{
+"question": {
+"en": "Which electronic configuration strictly defines the ground state of a neutral zinc atom?",
+"bn": "কোন ইলেকট্রনিক বিন্যাসটি একটি নিরপেক্ষ দস্তা পরমাণুর গ্রাউন্ড স্টেটকে কঠোরভাবে সংজ্ঞায়িত করে?"
+},
+"options": [
+{
+"en": "[Ar] 3d⁹ 4s²",
+"bn": "[Ar] 3d⁹ 4s²"
+},
+{
+"en": "[Ar] 3d¹⁰ 4s¹",
+"bn": "[Ar] 3d¹⁰ 4s¹"
+},
+{
+"en": "[Ar] 3d¹⁰ 4s²",
+"bn": "[Ar] 3d¹⁰ 4s²"
+},
+{
+"en": "[Kr] 4d¹⁰ 5s²",
+"bn": "[Kr] 4d¹⁰ 5s²"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Zinc completes the first row of d-block transition elements with fully filled 3d and 4s subshells.",
+"bn": "দস্তা তার সম্পূর্ণ পূর্ণ ৩d এবং ৪s সাবশেল সহ d-ব্লক অবস্থান্তর উপাদানগুলোর প্রথম সারি সম্পন্ন করে।"
+}
+},
+{
+"question": {
+"en": "Why does zinc not form colorful complex compounds in aqueous solutions like copper or iron?",
+"bn": "তামা বা লোহার মতো জলীয় দ্রবণে দস্তা কেন রঙিন জটিল যৌগ গঠন করে না?"
+},
+"options": [
+{
+"en": "It is too electronegative",
+"bn": "এটি খুব বেশি তড়িৎঋণাত্মক"
+},
+{
+"en": "It lacks d-orbitals completely",
+"bn": "এটির d-অরবিটাল সম্পূর্ণ অনুপস্থিত"
+},
+{
+"en": "Its 3d subshell is completely filled, preventing d-d electron transitions",
+"bn": "এর ৩d সাবশেল সম্পূর্ণরূপে পূর্ণ থাকে, যা d-d ইলেকট্রন স্থানান্তরকে বাধা দেয়"
+},
+{
+"en": "It precipitates immediately in water",
+"bn": "এটি জলে সাথে সাথে অধঃক্ষিপ্ত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Color in transition complexes stems from d-d electronic transitions. Since Zinc's 3d shell is [Ar]3d10, no empty orbitals exist to receive excited electrons.",
+"bn": "অবস্থান্তর যৌগের রঙ d-d ইলেকট্রন স্থানান্তর থেকে আসে। যেহেতু দস্তার ৩d শেলটি [Ar]3d10, তাই উত্তেজিত ইলেকট্রন গ্রহণের জন্য কোনো খালি অরবিটাল থাকে না।"
+}
+},
+{
+"question": {
+"en": "What is the common chemical composition of brass alloy?",
+"bn": "পিতল সংকর ধাতুর সাধারণ রাসায়নিক উপাদান কী?"
+},
+"options": [
+{
+"en": "Zinc and Tin",
+"bn": "দস্তা এবং টিন"
+},
+{
+"en": "Copper and Zinc",
+"bn": "তামা এবং দস্তা"
+},
+{
+"en": "Zinc and Lead",
+"bn": "দস্তা এবং সিসা"
+},
+{
+"en": "Iron and Zinc",
+"bn": "লোহা এবং দস্তা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Brass is a classic substitution alloy consisting strictly of copper and zinc in varying ratios.",
+"bn": "পিতল হলো একটি ধ্রুপদী প্রতিস্থাপন সংকর ধাতু যা মূলত ভিন্ন ভিন্ন অনুপাতে তামা এবং দস্তা দ্বারা গঠিত।"
+}
+},
+{
+"question": {
+"en": "Which major zinc ore is chemically classified as Zinc Sulfide (ZnS)?",
+"bn": "কোন প্রধান দস্তার আকরিকটি রাসায়নিকভাবে জিঙ্ক সালফাইড (ZnS) হিসেবে শ্রেণীবদ্ধ?"
+},
+"options": [
+{
+"en": "Calamine",
+"bn": "ক্যালামাইন"
+},
+{
+"en": "Sphalerite",
+"bn": "স্ফ্যালেরাইট"
+},
+{
+"en": "Smithsonite",
+"bn": "স্মিথসোনাইট"
+},
+{
+"en": "Zincite",
+"bn": "জিঙ্কসাইট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Sphalerite (zinc blende) is the primary economic mineral source for industrial zinc production worldwide.",
+"bn": "বিশ্বব্যাপী শিল্প দস্তা উৎপাদনের প্রাথমিক অর্থনৈতিক খনিজ উৎস হলো স্ফ্যালেরাইট (জিঙ্ক ব্লেন্ড)।"
+}
+},
+{
+"question": {
+"en": "In human biology, which vital enzyme is responsible for converting carbon dioxide into bicarbonate and relies directly on a catalytic zinc ion?",
+"bn": "মানব জীববিজ্ঞানে, কোন গুরুত্বপূর্ণ এনজাইমটি কার্বন ডাই অক্সাইডকে বাইকার্বনেটে রূপান্তরের জন্য দায়ী এবং সরাসরি একটি অনুঘটক জিঙ্ক আয়নের ওপর নির্ভর করে?"
+},
+"options": [
+{
+"en": "Amylase",
+"bn": "অ্যামাইলেজ"
+},
+{
+"en": "Carbonic Anhydrase",
+"bn": "কার্বনিক অ্যানহাইড্রেজ"
+},
+{
+"en": "Hemoglobin",
+"bn": "হিমোগ্লোবিন"
+},
+{
+"en": "Catalase",
+"bn": "ক্যাটালেজ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Carbonic anhydrase incorporates a zinc atom coordinated by three histidine residues to quickly process respiration byproducts.",
+"bn": "কার্বনিক অ্যানহাইড্রেজ তিনটি হিস্টিডিন অবশিষ্টাংশ দ্বারা সমন্বিত একটি দস্তা পরমাণু ধারণ করে যা দ্রুত শ্বসনের উপজাত প্রক্রিয়া সম্পন্ন করে।"
+}
+},
+{
+"question": {
+"en": "What unique oxide trait allows zinc oxide to dissolve in both hydrochloric acid and sodium hydroxide solutions?",
+"bn": "জিঙ্ক অক্সাইডের কোন অনন্য বৈশিষ্ট্যের কারণে এটি হাইড্রোক্লোরিক অ্যাসিড এবং সোডিয়াম হাইড্রোক্সাইড উভয় দ্রবণেই দ্রবীভূত হতে পারে?"
+},
+"options": [
+{
+"en": "It is purely acidic",
+"bn": "এটি সম্পূর্ণরূপে অম্লীয়"
+},
+{
+"en": "It is amphoteric",
+"bn": "এটি উভধর্মী (অ্যামফোটেরিক)"
+},
+{
+"en": "It is completely inert",
+"bn": "এটি সম্পূর্ণ নিষ্ক্রিয়"
+},
+{
+"en": "It functions as a peroxyl radical",
+"bn": "এটি একটি পারক্সিল র্যাডিক্যাল হিসাবে কাজ করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Zinc oxide is amphoteric, meaning it demonstrates both acidic and basic properties depending on the reacting medium.",
+"bn": "জিঙ্ক অক্সাইড হলো উভধর্মী, যার অর্থ এটি বিক্রিয়াকারী মাধ্যমের ওপর ভিত্তি করে অম্লীয় এবং ক্ষারীয় উভয় বৈশিষ্ট্যই প্রদর্শন করে।"
+}
+},
+{
+"question": {
+"en": "The industrial extraction of zinc via roasting sphalerite primarily yields which atmospheric pollutant gas?",
+"bn": "স্ফ্যালেরাইট পোড়ানোর মাধ্যমে দস্তার শিল্প নিষ্কাশনে প্রাথমিকভাবে কোন বায়ুমণ্ডলীয় দূষক গ্যাস উৎপন্ন হয়?"
+},
+"options": [
+{
+"en": "Carbon Monoxide",
+"bn": "কার্বন মনোক্সাইড"
+},
+{
+"en": "Sulfur Dioxide",
+"bn": "সালফার ডাই অক্সাইড"
+},
+{
+"en": "Methane",
+"bn": "মিথেন"
+},
+{
+"en": "Nitrous Oxide",
+"bn": "নাইট্রাস অক্সাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Roasting zinc sulfide converts it into zinc oxide while releasing sulfur dioxide, which must be captured to make sulfuric acid.",
+"bn": "জিঙ্ক সালফাইড পোড়ালে তা জিঙ্ক অক্সাইডে রূপান্তরিত হয় এবং সালফার ডাই অক্সাইড নির্গত করে, যা সালফিউরিক অ্যাসিড তৈরির জন্য ক্যাপচার করা আবশ্যক।"
+}
+},
+{
+"question": {
+"en": "What structural role does the 'Zinc Finger' motif play in biology?",
+"bn": "জীববিজ্ঞানে 'জিঙ্ক ফিঙ্গার' মোটিফ কোন কাঠামোগত ভূমিকা পালন করে?"
+},
+"options": [
+{
+"en": "Assisting muscle contractions",
+"bn": "পেশী সংকোচনে সহায়তা করা"
+},
+{
+"en": "Stabilizing protein structures that bind directly to DNA/RNA",
+"bn": "সরাসরি ডিএনএ/আরএনএ-এর সাথে আবদ্ধ প্রোটিন কাঠামো স্থিতিশীল করা"
+},
+{
+"en": "Forming bone enamel matrices",
+"bn": "হাড়ের এনামেল ম্যাট্রিক্স গঠন করা"
+},
+{
+"en": "Oxygen carrier pathways",
+"bn": "অক্সিজেন বাহক পথ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Zinc finger domains use a structural zinc ion to coordinates loops in nucleic-acid-binding transcription factors.",
+"bn": "জিঙ্ক ফিঙ্গার ডোমেন নিউক্লিক-অ্যাসিড-বাইন্ডিং ট্রান্সক্রিপশন ফ্যাক্টরগুলোতে লুপ সমন্বয় করতে একটি কাঠামোগত জিঙ্ক আয়ন ব্যবহার করে।"
+}
+},
+{
+"question": {
+"en": "Which form of zinc compound is commonly used in structural wood preservation due to its fungicidal actions?",
+"bn": "ছত্রাকনাশক কার্যকারিতার কারণে কাঠামোগত কাঠ সংরক্ষণে সাধারণত কোন ধরণের জিঙ্ক যৌগ ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Zinc Chloride",
+"bn": "জিঙ্ক ক্লোরাইড"
+},
+{
+"en": "Zinc Hydride",
+"bn": "জিঙ্ক হাইড্রাইড"
+},
+{
+"en": "Zinc Selenide",
+"bn": "জিঙ্ক সেলেনাইড"
+},
+{
+"en": "Zinc Cyanide",
+"bn": "জিঙ্ক সায়ানাইড"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Zinc chloride has historical and current roles in dissolving organic lignin surfaces and preserving structural timbers against fungi.",
+"bn": "জৈব লিগনিন পৃষ্ঠকে দ্রবীভূত করতে এবং ছত্রাকের বিরুদ্ধে কাঠামোগত কাঠ সংরক্ষণে জিঙ্ক ক্লোরাইডের ঐতিহাসিক এবং বর্তমান ভূমিকা রয়েছে।"
+}
+},
+{
+"question": {
+"en": "What is the crystal structure profile exhibited by metallic zinc solid samples?",
+"bn": "ধাতব দস্তার কঠিন নমুনায় কোন ধরণের স্ফটিক কাঠামো দেখা যায়?"
+},
+"options": [
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+},
+{
+"en": "Rhombohedral lattice",
+"bn": "রম্বোহেড্রাল ল্যাটিস"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Zinc packs tightly in a hexagonal close-packed configuration that is slightly elongated along its vertical axis.",
+"bn": "দস্তা একটি হেক্সাগোনাল ক্লোজ-প্যাকড কনফিগারেশনে শক্তভাবে প্যাক থাকে যা এর উল্লম্ব অক্ষ বরাবর সামান্য প্রসারিত।"
+}
+},
+{
+"question": {
+"en": "What acute industrial condition can manifest when workers breathe in aerosol vapors of zinc oxide during welding?",
+"bn": "ঢালাইয়ের সময় শ্রমিকরা জিঙ্ক অক্সাইডের অ্যারোসল বাষ্প শ্বাস নিলে কোন তীব্র শিল্প রোগ দেখা দিতে পারে?"
+},
+"options": [
+{
+"en": "Silicosis",
+"bn": "সিলিকোসিস"
+},
+{
+"en": "Metal Fume Fever",
+"bn": "মেটাল ফিউম ফিভার (ধাতব ধোঁয়ার জ্বর)"
+},
+{
+"en": "Scurvy",
+"bn": "স্কার্ভি"
+},
+{
+"en": "Asbestosis",
+"bn": "অ্যাসবেস্টোসিস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Inhalation of zinc oxide aerosols can trigger 'metal fume fever' presenting flu-like systemic reactions.",
+"bn": "জিঙ্ক অক্সাইড অ্যারোসল শ্বাস গ্রহণের ফলে 'মেটাল ফিউম ফিভার' হতে পারে যা ফ্লুর মতো পদ্ধতিগত প্রতিক্রিয়া সৃষ্টি করে।"
+}
+},
+{
+"question": {
+"en": "Which term describes the protection method where zinc corrodes preferentially to shield an underlying iron structure?",
+"bn": "কোন শব্দটি সেই সুরক্ষা পদ্ধতিকে বর্ণনা করে যেখানে দস্তা অন্তর্নিহিত লোহার কাঠামোকে রক্ষা করতে নিজেই আগে ক্ষয়প্রাপ্ত হয়?"
+},
+"options": [
+{
+"en": "Passivation plating",
+"bn": "প্যাসিভেশন প্লেটিং"
+},
+{
+"en": "Sacrificial Cathodic Protection",
+"bn": "স্যাক্রিফিসিয়াল ক্যাথোডিক প্রটেকশন"
+},
+{
+"en": "Electroless carburizing",
+"bn": "ইলেকট্রোলস কার্বুরাইজিং"
+},
+{
+"en": "Anodized sealing",
+"bn": "অ্যানোডাইজড সিলিং"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Zinc acts as a sacrificial anode because it possesses a more negative electrochemical potential than iron, drawing oxidation away from the steel structural elements.",
+"bn": "দস্তা একটি স্যাক্রিফিসিয়াল অ্যানোড হিসাবে কাজ করে কারণ এতে লোহার চেয়ে বেশি ঋণাত্মক ইলেক্ট্রোকেমিক্যাল পটেনশিয়াল থাকে, যা স্টিলের উপাদান থেকে জারণকে দূরে সরিয়ে নেয়।"
+}
+},
+{
+"question": {
+"en": "What happens when a piece of zinc metal is submerged into a solution of copper sulfate (CuSO4)?",
+"bn": "একটি দস্তার টুকরোকে কপার সালফেট (CuSO4) দ্রবণে ডুবালে কী ঘটে?"
+},
+"options": [
+{
+"en": "No visible chemical action",
+"bn": "কোন দৃশ্যমান রাসায়নিক বিক্রিয়া ঘটে না"
+},
+{
+"en": "Zinc displaces copper, forming zinc sulfate and depositing solid copper",
+"bn": "দস্তা তামা অপসারণ করে জিঙ্ক সালফেট গঠন করে এবং কঠিন তামা জমা করে"
+},
+{
+"en": "Toxic gas is evolved",
+"bn": "বিষাক্ত গ্যাস উৎপন্ন হয়"
+},
+{
+"en": "An explosion occurs",
+"bn": "একটি বিস্ফোরণ ঘটে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Since zinc is higher in the electromotive series than copper, it displaces copper ions via spontaneous redox electron transfer.",
+"bn": "যেহেতু তড়িৎ রাসায়নিক শ্রেণীতে দস্তা তামার চেয়ে ওপরে অবস্থিত, তাই এটি স্বতঃস্ফূর্ত রেডক্স ইলেকট্রন স্থানান্তরের মাধ্যমে কপার আয়নকে প্রতিস্থাপন করে।"
+}
+},
+{
+"question": {
+"en": "Which coordination framework shape is predominantly adopted by most zinc ion aqueous complexes?",
+"bn": "বেশিরভাগ জিঙ্ক আয়ন জলীয় কমপ্লেক্স দ্বারা মূলত কোন সমন্বয় ফ্রেমওয়ার্কের আকৃতি গৃহীত হয়?"
+},
+"options": [
+{
+"en": "Square planar",
+"bn": "স্কয়ার প্ল্যানার"
+},
+{
+"en": "Linear",
+"bn": "লিনিয়ার"
+},
+{
+"en": "Tetrahedral or Octahedral",
+"bn": "টেট্রাহেড্রাল অথবা অক্টাহেড্রাল"
+},
+{
+"en": "Trigonal bipyramidal",
+"bn": "ট্রাইগোনাল বাইপিরামিডাল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Depending on ligand sizing and hydration parameters, Zn(II) shifts smoothly between octahedral geometries and tetrahedral arrangements.",
+"bn": "লিগ্যান্ডের আকার এবং হাইড্রেশন প্যারামিটারের ওপর ভিত্তি করে, Zn(II) মসৃণভাবে অক্টাহেড্রাল জ্যামিতি এবং টেট্রাহেড্রাল বিন্যাসের মধ্যে পরিবর্তিত হয়।"
+}
+},
+{
+"question": {
+"en": "In the classic Daniell cell battery, what is the role of the zinc electrode?",
+"bn": "ধ্রুপদী ড্যানিয়েল সেল ব্যাটারিতে দস্তা বা জিঙ্ক ইলেকট্রোডের ভূমিকা কী?"
+},
+"options": [
+{
+"en": "Cathode where reduction occurs",
+"bn": "ক্যাথোড যেখানে বিজারণ ঘটে"
+},
+{
+"en": "Anode where oxidation occurs",
+"bn": "অ্যানোড যেখানে জারণ ঘটে"
+},
+{
+"en": "Inert current collector",
+"bn": "নিষ্ক্রিয় কারেন্ট কালেক্টর"
+},
+{
+"en": "Salt bridge electrolyte solution",
+"bn": "লবণ সেতু ইলেক্ট্রোলাইট দ্রবণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Zinc serves as the anode, oxidatively dissolving into Zn2+ ions while liberating electrons into the external power circuit loop.",
+"bn": "দস্তা অ্যানোড হিসাবে কাজ করে, যা অক্সিডেটিভভাবে Zn2+ আয়নে দ্রবীভূত হয় এবং বাহ্যিক সার্কিটে ইলেকট্রন মুক্ত করে।"
+}
+},
+{
+"question": {
+"en": "What compound is produced when zinc reacts with hot, concentrated sodium hydroxide solution?",
+"bn": "উত্তপ্ত, ঘনীভূত সোডিয়াম হাইড্রোক্সাইড দ্রবণের সাথে দস্তা বিক্রিয়া করলে কোন যৌগটি উৎপন্ন হয়?"
+},
+"options": [
+{
+"en": "Sodium Zincate and Hydrogen gas",
+"bn": "সোডিয়াম জিংকেট এবং হাইড্রোজেন গ্যাস"
+},
+{
+"en": "Zinc Hydroxide only",
+"bn": "শুধুমাত্র জিঙ্ক হাইড্রোক্সাইড"
+},
+{
+"en": "Sodium Hydride",
+"bn": "সোডিয়াম হাইড্রাইড"
+},
+{
+"en": "Zinc Oxide precipitate",
+"bn": "জিঙ্ক অক্সাইড অধঃক্ষেপ"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Because zinc is amphoteric, it reacts with strong bases to liberate hydrogen gas and leave soluble sodium zincate (Na2Zn(OH)4) behind.",
+"bn": "যেহেতু দস্তা উভধর্মী, এটি শক্তিশালী ক্ষারের সাথে বিক্রিয়া করে হাইড্রোজেন গ্যাস মুক্ত করে এবং দ্রবণীয় সোডিয়াম জিংকেট (Na2Zn(OH)4) তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Chronic excess dietary intake of zinc supplements dangerously impairs the human body's capacity to process which other vital nutrient?",
+"bn": "দস্তার পরিপূরক খাবারের দীর্ঘস্থায়ী অতিরিক্ত গ্রহণ মানবদেহের অন্য কোন গুরুত্বপূর্ণ পুষ্টি প্রক্রিয়াকরণের ক্ষমতাকে বিপজ্জনকভাবে ব্যাহত করে?"
+},
+"options": [
+{
+"en": "Calcium",
+"bn": "ক্যালসিয়াম"
+},
+{
+"en": "Copper",
+"bn": "তামা (কপার)"
+},
+{
+"en": "Vitamin C",
+"bn": "ভিটামিন সি"
+},
+{
+"en": "Magnesium",
+"bn": "ম্যাগনেসিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "High zinc levels stimulate internal intestinal metallothionein synthesis, which binds copper non-specifically and triggers anemia.",
+"bn": "উচ্চ জিঙ্কের মাত্রা অভ্যন্তরীণ অন্ত্রের মেটালোথিওনিন সংশ্লেষণকে উদ্দীপিত করে, যা তামাকে আবদ্ধ করে রক্তাল্পতা (অ্যানিমিয়া) তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "What physical feature explains zinc's low melting point (419.5°C) relative to transition metals like iron (1538°C)?",
+"bn": "লোহার (১৫৩৮°C) মতো অবস্থান্তর ধাতুর তুলনায় দস্তার কম গলনাঙ্কের (৪১৯.৫°C) ভৌত কারণ কী?"
+},
+"options": [
+{
+"en": "Low electronegativity",
+"bn": "কম তড়িৎঋণাত্মকতা"
+},
+{
+"en": "Its fully filled d-shell results in exceptionally weak metallic bonding interactions",
+"bn": "এর সম্পূর্ণ পূর্ণ d-শেল অত্যন্ত দুর্বল ধাতব বন্ধন মিথস্ক্রিয়া সৃষ্টি করে"
+},
+{
+"en": "Extreme radioactive decay",
+"bn": "চরম তেজস্ক্রিয় ক্ষয়"
+},
+{
+"en": "It forms linear covalent gases",
+"bn": "এটি রৈখিক সমযোজী গ্যাস গঠন করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "With the 3d electrons tightly bound inside a full subshell, only the two 4s valence electrons participate in metallic bonding, yielding weaker structural ties.",
+"bn": "একটি পূর্ণ সাবশেলের ভেতরে ৩d ইলেকট্রন শক্তভাবে আবদ্ধ থাকায়, কেবল দুটি ৪s যোজ্যতা ইলেকট্রন ধাতব বন্ধনে অংশ নেয়, যা দুর্বল কাঠামোগত বন্ধন তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Which analytical technique uses dropping mercury electrodes along with zinc solutions to trace micro-impurities via electrochemical waves?",
+"bn": "কোন বিশ্লেষণাত্মক কৌশলটি ইলেক্ট্রোকেমিক্যাল তরঙ্গের মাধ্যমে অণু-অপদ্রব্য সনাক্ত করতে জিঙ্ক দ্রবণের সাথে ড্রপিং মার্কারি ইলেকট্রোড ব্যবহার করে?"
+},
+"options": [
+{
+"en": "Polarography",
+"bn": "পোলারোগ্রাফি"
+},
+{
+"en": "Mass spectrometry",
+"bn": "মাস স্পেক্ট্রোমেট্রি"
+},
+{
+"en": "X-ray diffraction",
+"bn": "এক্স-রে ডিফ্র্যাকশন"
+},
+{
+"en": "Gas chromatography",
+"bn": "গ্যাস ক্রোমাটোগ্রাফি"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Polarography historically utilized zinc ion solutions as ideal reference points to measure reduction steps on mercury surfaces.",
+"bn": "পোলারোগ্রাফি ঐতিহাসিকভাবে পারদ পৃষ্ঠের ওপর বিজারণের ধাপগুলো পরিমাপ করার জন্য আদর্শ রেফারেন্স পয়েন্ট হিসাবে জিঙ্ক আয়ন দ্রবণ ব্যবহার করত।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Zinc is highly toxic because it is a heavy metal.",
+"bn": "দস্তা একটি ভারী ধাতু হওয়ায় এটি অত্যন্ত বিষাক্ত।"
+}
+],
+"learningTips": [
+{
+"en": "Remember zinc has a completed d-subshell. Think of it as the terminal boundary block of the period 4 d-series.",
+"bn": "মনে রাখুন দস্তার একটি সম্পূর্ণ d-সাবশেল রয়েছে। এটিকে পর্যায় ৪ d-সিরিজের শেষ সীমানা ব্লক হিসেবে বিবেচনা করুন।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Zn + 2HCl → ZnCl₂ + H₂",
+"description": {
+"en": "Zinc metal reacting with hydrochloric acid to produce zinc chloride and hydrogen gas.",
+"bn": "হাইড্রোক্লোরিক অ্যাসিডের সাথে দস্তার বিক্রিয়ায় জিঙ্ক ক্লোরাইড এবং হাইড্রোজেন গ্যাস উৎপন্ন হয়।"
+}
+},
+{
+"equation": "2Zn + O₂ → 2ZnO",
+"description": {
+"en": "Oxidation of zinc metal when heated in air to produce zinc oxide.",
+"bn": "বাতাসে উত্তপ্ত করার সময় দস্তার জারণ ঘটে এবং জিঙ্ক অক্সাইড উৎপন্ন হয়।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Zn → Zn²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation half-reaction at the anode of a galvanizing protective layer or battery cell.",
+"bn": "একটি গ্যালভানাইজিং সুরক্ষামূলক স্তর বা ব্যাটারি কোষের অ্যানোডে জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Zn²⁺ + 2e⁻ → Zn",
+"description": {
+"en": "Reduction of zinc ions during industrial electrowinning processing.",
+"bn": "শিল্পক্ষেত্রে ইলেকট্রোউনিং প্রক্রিয়াকরণের সময় জিঙ্ক আয়নের বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic-Covalent Coordinate Complex",
+"bn": "আয়নিক-সমযোজী সন্নিবেশ জটিল যৌগ"
+},
+"molecule": "ZnCl₂",
+"description": {
+"en": "Zinc gives its outer 4s electrons to chlorine atoms, showing localized polarized network bonding.",
+"bn": "দস্তা তার বাইরের ৪s ইলেকট্রন ক্লোরিন পরমাণুকে দান করে স্থানীয় পোলারাইজড নেটওয়ার্ক বন্ধন প্রদর্শন করে।"
+}
+}
+]
+}
+}

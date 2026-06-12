@@ -1,0 +1,996 @@
+{
+"elementId": 27,
+"basicInformation": {
+"atomicNumber": 27,
+"symbol": "Co",
+"name": {
+"en": "Cobalt",
+"bn": "কোবাল্ট"
+},
+"pronunciation": {
+"en": "/ˈkoʊbɒlt/",
+"bn": "কো-বাল্ট"
+},
+"atomicMass": 58.933,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 9,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Hard, lustrous, bluish-gray metal",
+"bn": "কঠিন, চকচকে, নীলাভ-ধূসর ধাতু"
+},
+"color": {
+"en": "Bluish-gray",
+"bn": "নীলাভ-ধূসর"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Georg Brandt",
+"bn": "গিয়র্গ ব্রান্ট"
+},
+"discoveryYear": 1735,
+"discoveryLocation": {
+"en": "Sweden",
+"bn": "সুইডেন"
+},
+"discoveryStory": {
+"en": "Georg Brandt isolated cobalt, demonstrating that the blue color of certain glasses was due to this new metal, not bismuth as previously thought. The name derives from the German word 'kobold' (goblin), as miners blamed mythical creatures for the toxic arsenic fumes emitted when smelting the ore.",
+"bn": "গিয়র্গ ব্রান্ট কোবাল্টকে আলাদা করেছিলেন, প্রমাণ করেছিলেন যে নির্দিষ্ট কাঁচের নীল রঙের কারণ এই নতুন ধাতু, বিসমাথ নয় যা আগে মনে করা হতো। এর নামটি জার্মান শব্দ 'kobold' (গবলিন বা অপদেবতা) থেকে এসেছে, কারণ খনি শ্রমিকরা আকরিক গলানোর সময় নির্গত বিষাক্ত আর্সেনিক ধোঁয়ার জন্য পৌরাণিক প্রাণীদের দায়ী করত।"
+},
+"historicalUses": {
+"en": "Cobalt compounds have been used for centuries to impart a rich blue color to glass, glazes, and ceramics in ancient Egypt, Persia, and China.",
+"bn": "প্রাচীন মিশর, পারস্য এবং চীনে কাঁচ, গ্লেজ এবং সিরামিকগুলিতে একটি সমৃদ্ধ নীল রঙ দেওয়ার জন্য কোবাল্ট যৌগগুলি শতাব্দী ধরে ব্যবহৃত হয়ে আসছে।"
+},
+"famousExperiments": {
+"en": "The Wu experiment in 1956 used the radioactive decay of Cobalt-60 to prove the violation of parity conservation in weak nuclear interactions.",
+"bn": "১৯৫৬ সালে উ (Wu) পরীক্ষায় কোবাল্ট-৬০ এর তেজস্ক্রিয় ক্ষয় ব্যবহার করে দুর্বল পারমাণবিক মিথস্ক্রিয়ায় প্যারিটি সংরক্ষণের লঙ্ঘন প্রমাণ করা হয়।"
+}
+},
+"atomicStructure": {
+"protons": 27,
+"neutrons": 32,
+"electrons": 27,
+"valenceElectrons": 9,
+"shells": 4,
+"shellDistribution": [2, 8, 15, 2],
+"electronConfiguration": "[Ar] 3d⁷ 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 7,
+"4s": 2
+},
+"oxidationStates": [-3, -1, 1, 2, 3, 4, 5],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 2,
+"magnetic": -1,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 8.90,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1768.0,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 3200.0,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 125.0,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 126.0,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": null,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 100.0,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 16000000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.421,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 5.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Hexagonal close-packed (HCP) at room temperature",
+"bn": "কক্ষ তাপমাত্রায় হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+"magneticOrdering": {
+"en": "Ferromagnetic",
+"bn": "ফেরোম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.88,
+"ionizationEnergy": {
+"value": 760.4,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 46.2,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Relatively unreactive at room temperature. Oxidizes slowly in moist air and dissolves in dilute acids.",
+"bn": "কক্ষ তাপমাত্রায় তুলনামূলকভাবে কম প্রতিক্রিয়াশীল। আর্দ্র বাতাসে ধীরে ধীরে জারিত হয় এবং লঘু অ্যাসিডে দ্রবীভূত হয়।"
+},
+"commonCompounds": ["CoO", "CoCl₂", "Co₃O₄", "LiCoO₂", "Co(NO₃)₂"],
+"flameTestColor": null,
+"spectralLines": ["345.35nm", "350.23nm", "352.98nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Essential component in high-performance superalloys used for jet engine gas turbine blades due to high temperature resistance.",
+"bn": "উচ্চ তাপমাত্রা প্রতিরোধের কারণে জেট ইঞ্জিনের গ্যাস টারবাইন ব্লেডে ব্যবহৃত উচ্চ-কর্মক্ষমতাসম্পন্ন সুপারঅ্যালয়গুলির অপরিহার্য উপাদান।"
+},
+"commercialUses": {
+"en": "Used in the production of high-strength permanent magnets, such as Alnico magnets, for electric motors and speakers.",
+"bn": "বৈদ্যুতিক মোটর এবং স্পিকারের জন্য অ্যালনিকো (Alnico) চুম্বকের মতো উচ্চ-শক্তির স্থায়ী চুম্বক উৎপাদনে ব্যবহৃত হয়।"
+},
+"electronicsUses": {
+"en": "Critical material for the cathodes of lithium-ion batteries, powering most modern consumer electronics.",
+"bn": "লিথিয়াম-আয়ন ব্যাটারির ক্যাথোডের জন্য গুরুত্বপূর্ণ উপাদান, যা বেশিরভাগ আধুনিক ভোক্তা ইলেকট্রনিক্সকে শক্তি সরবরাহ করে।"
+},
+"semiconductorUses": {
+"en": "Cobalt silicide is used as a contact material in modern microelectronics to reduce electrical resistance.",
+"bn": "বৈদ্যুতিক রোধ কমাতে আধুনিক মাইক্রোইলেক্ট্রনিক্সে কোবাল্ট সিলিসাইড একটি যোগাযোগের উপাদান হিসাবে ব্যবহৃত হয়।"
+},
+"aerospaceUses": {
+"en": "Vital for turbine exhaust components and aerospace fasteners that must withstand extreme thermal and mechanical stress.",
+"bn": "টারবাইন নিষ্কাশন উপাদান এবং মহাকাশীয় ফাস্টেনারগুলির জন্য অত্যাবশ্যক, যা চরম তাপীয় এবং যান্ত্রিক চাপ সহ্য করতে পারে।"
+},
+"batteryUses": {
+"en": "Lithium cobalt oxide (LiCoO2) is widely used in high-energy-density batteries for smartphones and EVs.",
+"bn": "লিথিয়াম কোবাল্ট অক্সাইড (LiCoO2) স্মার্টফোন এবং ইভির জন্য উচ্চ-শক্তি-ঘনত্বের ব্যাটারিতে ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"aiHardwareUses": {
+"en": "Power storage density provided by cobalt-based batteries is essential for powering autonomous robots and edge AI devices.",
+"bn": "কোবাল্ট-ভিত্তিক ব্যাটারি দ্বারা প্রদত্ত শক্তি সঞ্চয় ঘনত্ব স্বায়ত্তশাসিত রোবট এবং এজ এআই ডিভাইসগুলিকে শক্তি দেওয়ার জন্য অপরিহার্য।"
+},
+"renewableEnergyUses": {
+"en": "Acts as a catalyst in hydrodesulfurization processes and is emerging in water-splitting electrolysis for green hydrogen.",
+"bn": "হাইড্রোডিসালফারাইজেশন প্রক্রিয়ায় অনুঘটক হিসাবে কাজ করে এবং সবুজ হাইড্রোজেনের জন্য জল-বিভাজন তড়িৎ বিশ্লেষণে উদীয়মান হচ্ছে।"
+},
+"nanotechnologyUses": {
+"en": "Cobalt nanoparticles are researched for high-density magnetic recording media and targeted medical treatments.",
+"bn": "উচ্চ-ঘনত্বের চৌম্বকীয় রেকর্ডিং মিডিয়া এবং লক্ষ্যযুক্ত চিকিৎসা চিকিৎসার জন্য কোবাল্ট ন্যানো পার্টিকেলস নিয়ে গবেষণা করা হয়।"
+},
+"nuclearUses": {
+"en": "Cobalt-60 is a synthetic radioactive isotope used extensively to produce gamma rays for industrial radiography.",
+"bn": "কোবাল্ট-৬০ একটি সিন্থেটিক তেজস্ক্রিয় আইসোটোপ যা শিল্প রেডিওগ্রাফির জন্য গামা রশ্মি তৈরি করতে ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Used in the construction of specialized high-hardness alloys for armor-piercing ammunition and gun barrels.",
+"bn": "আর্মার-পিয়ার্সিং গোলাবারুদ এবং বন্দুকের ব্যারেলের জন্য বিশেষ উচ্চ-কঠোরতার মিশ্রণ তৈরিতে ব্যবহৃত হয়।"
+},
+"medicalUses": {
+"en": "Cobalt-60 gamma rays are used to sterilize medical equipment and treat some forms of cancer.",
+"bn": "কোবাল্ট-৬০ গামা রশ্মি চিকিৎসা সরঞ্জাম জীবাণুমুক্ত করতে এবং কিছু ধরণের ক্যান্সারের চিকিৎসায় ব্যবহৃত হয়।"
+},
+"foodIndustryUses": {
+"en": "Cobalt-60 irradiation is used in food processing to destroy pathogens, sterilizing food and prolonging shelf life.",
+"bn": "কোবাল্ট-৬০ বিকিরণ খাদ্য প্রক্রিয়াকরণে প্যাথোজেন ধ্বংস করতে, খাবার জীবাণুমুক্ত করতে এবং শেলফ লাইফ দীর্ঘায়িত করতে ব্যবহৃত হয়।"
+},
+"constructionUses": {
+"en": "Added to paints, varnishes, and inks as a drying agent (siccative) to accelerate oxidative curing.",
+"bn": "অক্সিডেটিভ নিরাময়কে ত্বরান্বিত করতে পেইন্ট, বার্নিশ এবং কালিতে শুকানোর এজেন্ট (সিক্যাটিভ) হিসাবে যোগ করা হয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Crucial trace element for animals. It is the active center of coenzymes called cobalamins, most notably Vitamin B12.",
+"bn": "প্রাণীদের জন্য অত্যন্ত গুরুত্বপূর্ণ ট্রেস উপাদান। এটি কোবালামিন নামক কোএনজাইমগুলির সক্রিয় কেন্দ্র, বিশেষ করে ভিটামিন বি১২।"
+},
+"humanBodyRole": {
+"en": "Essential for DNA synthesis, red blood cell formation, and nervous system function via Vitamin B12.",
+"bn": "ভিটামিন বি১২ এর মাধ্যমে ডিএনএ সংশ্লেষণ, লোহিত রক্তকণিকা গঠন এবং স্নায়ুতন্ত্রের কাজের জন্য অপরিহার্য।"
+},
+"toxicity": {
+"en": "Toxic in excessive amounts. Inhalation of cobalt dust can cause severe respiratory issues. High systemic doses lead to cardiomyopathy.",
+"bn": "অতিরিক্ত পরিমাণে বিষাক্ত। কোবাল্ট ধুলো শ্বাস নিলে গুরুতর শ্বাসকষ্ট হতে পারে। উচ্চ পদ্ধতিগত মাত্রার ফলে কার্ডিওমায়োপ্যাথি হয়।"
+},
+"environmentalImpact": {
+"en": "Cobalt mining, particularly unregulated artisanal mining, can lead to severe soil and water contamination.",
+"bn": "কোবাল্ট খনন, বিশেষ করে অনিয়ন্ত্রিত কারিগর খনি, গুরুতর মাটি এবং জল দূষণের কারণ হতে পারে।"
+},
+"pollutionRisks": {
+"en": "Acid mine drainage and runoff containing heavy metals from cobalt extraction sites pose major ecological risks.",
+"bn": "অ্যাসিড খনি নিষ্কাশন এবং কোবাল্ট নিষ্কাশন সাইটগুলি থেকে ভারী ধাতু ধারণকারী প্রবাহ বড় পরিবেশগত ঝুঁকি তৈরি করে।"
+},
+"recyclingMethods": {
+"en": "Increasingly recycled from spent lithium-ion batteries using hydrometallurgical or pyrometallurgical recovery processes.",
+"bn": "হাইড্রোমেটালার্জিক্যাল বা পাইরোমেটালার্জিক্যাল পুনরুদ্ধার প্রক্রিয়া ব্যবহার করে ব্যয়িত লিথিয়াম-আয়ন ব্যাটারি থেকে ক্রমবর্ধমানভাবে পুনর্ব্যবহৃত হচ্ছে।"
+},
+"sustainabilityScore": 6.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Democratic Republic of the Congo",
+"bn": "কঙ্গো গণতান্ত্রিক প্রজাতন্ত্র"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+}
+],
+"miningMethods": {
+"en": "Usually mined as a byproduct of copper and nickel mining. Involves complex roasting and leaching processes to isolate.",
+"bn": "সাধারণত তামা এবং নিকেল খনির উপজাত হিসাবে খনন করা হয়। আলাদা করার জন্য জটিল রোস্টিং এবং লিচিং প্রক্রিয়া জড়িত।"
+},
+"abundance": {
+"universe": {
+"en": "0.0003% by mass",
+"bn": "ভর অনুযায়ী ০.০০০৩%"
+},
+"earthCrust": {
+"en": "0.0029% by mass",
+"bn": "ভর অনুযায়ী ০.০০২৯%"
+},
+"oceans": {
+"en": "0.00000002% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০০২%"
+}
+},
+"marketValue": {
+"en": "Highly volatile, frequently trading between $30,000 to $40,000 per metric ton due to surging EV battery demand.",
+"bn": "অত্যন্ত পরিবর্তনশীল, ইভি ব্যাটারির চাহিদা বৃদ্ধির কারণে প্রায়শই প্রতি মেট্রিক টন ৩০,০০০ ডলার থেকে ৪০,০০০ ডলারের মধ্যে লেনদেন হয়।"
+},
+"futureDemand": {
+"en": "Expected to face critical supply shortages as the global transition to electric vehicles heavily relies on cobalt cathodes.",
+"bn": "বৈদ্যুতিক যানবাহনে বৈশ্বিক রূপান্তর কোবাল্ট ক্যাথোডের উপর ব্যাপকভাবে নির্ভর করায় চরম সরবরাহ সংকটের মুখোমুখি হবে বলে ধারণা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "A strategic and critical mineral globally; supply chain dominance is intensely contested by major industrial nations.",
+"bn": "বিশ্বব্যাপী একটি কৌশলগত এবং গুরুত্বপূর্ণ খনিজ; সরবরাহ শৃঙ্খলের আধিপত্য প্রধান শিল্পোন্নত দেশগুলোর দ্বারা তীব্রভাবে প্রতিদ্বন্দ্বিতাপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Cobalt powder is highly flammable and combustible. Soluble cobalt salts are acutely toxic if ingested or inhaled.",
+"bn": "কোবাল্ট পাউডার অত্যন্ত দাহ্য এবং দহনশীল। দ্রবণীয় কোবাল্ট লবণ গ্রহণ বা শ্বাস নেওয়া হলে তীব্রভাবে বিষাক্ত।"
+},
+"storageRequirements": {
+"en": "Store in a cool, dry, well-ventilated area away from strong oxidizing agents. Powders require sealed, inert environments.",
+"bn": "শক্তিশালী অক্সিডাইজিং এজেন্ট থেকে দূরে একটি শীতল, শুষ্ক, সু-বায়ুচলাচল স্থানে সংরক্ষণ করুন। পাউডারগুলির জন্য সিল করা, নিষ্ক্রিয় পরিবেশের প্রয়োজন।"
+},
+"handlingProcedures": {
+"en": "Use proper PPE to prevent dust inhalation and skin contact, which can cause severe allergic dermatitis.",
+"bn": "ধুলো শ্বাস নেওয়া এবং ত্বকের সংস্পর্শ রোধ করতে যথাযথ পিপিই ব্যবহার করুন, যা গুরুতর অ্যালার্জিক ডার্মাটাইটিস সৃষ্টি করতে পারে।"
+},
+"exposureRisks": {
+"en": "Chronic exposure leads to 'hard metal lung disease' (fibrosis) and potentially fatal heart failure (cardiomyopathy).",
+"bn": "দীর্ঘস্থায়ী এক্সপোজার 'হার্ড মেটাল ফুসফুস রোগ' (ফাইব্রোসিস) এবং সম্ভাব্য মারাত্মক হার্ট ফেইলিউর (কার্ডিওমায়োপ্যাথি) এর দিকে নিয়ে যায়।"
+},
+"safetyLevel": {
+"en": "Moderate to High Risk (Toxicity/Dust)",
+"bn": "মাঝারি থেকে উচ্চ ঝুঁকি (বিষাক্ততা/ধুলো)"
+},
+"hazardClassifications": [
+{
+"en": "Toxic",
+"bn": "বিষাক্ত"
+},
+{
+"en": "Sensitizer",
+"bn": "সংবেদনশীলকারী"
+},
+{
+"en": "Carcinogen (Suspected)",
+"bn": "ক্যান্সার সৃষ্টিকারী (সন্দেহভাজন)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Cobalt is a hard metal used to make powerful magnets and batteries for your phone and electric cars. It's also famous for making beautiful dark blue glass.",
+"bn": "কোবাল্ট একটি শক্ত ধাতু যা আপনার ফোন এবং বৈদ্যুতিক গাড়ির জন্য শক্তিশালী চুম্বক এবং ব্যাটারি তৈরি করতে ব্যবহৃত হয়। এটি সুন্দর গাঢ় নীল কাঁচ তৈরির জন্যও বিখ্যাত।"
+},
+"advancedExplanation": {
+"en": "Cobalt is a transition metal sitting between iron and nickel. Its ability to form multiple coordination complexes, its high Curie temperature, and structural role in cobalamin make it indispensable across metallurgy, electrochemistry, and biology.",
+"bn": "কোবাল্ট হলো লোহা এবং নিকেলের মাঝখানে অবস্থিত একটি অবস্থান্তর ধাতু। একাধিক সমন্বয় কমপ্লেক্স গঠন করার ক্ষমতা, এর উচ্চ কুরি তাপমাত্রা এবং কোবালামিনে এর কাঠামোগত ভূমিকা একে ধাতুবিদ্যা, ইলেক্ট্রোকেমিস্ট্রি এবং জীববিজ্ঞানে অপরিহার্য করে তোলে।"
+},
+"funFacts": [
+{
+"en": "Cobalt chloride paper changes color from blue to pink when exposed to moisture, making it a simple weather or humidity indicator.",
+"bn": "কোবাল্ট ক্লোরাইড কাগজ আর্দ্রতার সংস্পর্শে এলে নীল থেকে গোলাপী রঙে পরিবর্তিত হয়, যা একে একটি সহজ আবহাওয়া বা আর্দ্রতা নির্দেশক করে তোলে।"
+},
+{
+"en": "Miners used to think cobalt ore was placed by evil goblins because smelting it released deadly arsenic gases without yielding any copper.",
+"bn": "খনি শ্রমিকরা আগে ভাবত যে কোবাল্ট আকরিক মন্দ গবলিনরা রেখে গেছে, কারণ এটি গলালে কোনো তামা ছাড়াই মারাত্মক আর্সেনিক গ্যাস নির্গত হতো।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 28,
+"relation": {
+"en": "Cobalt and Nickel are adjacent metals with similar properties. Both form superalloys, but Cobalt's role in Li-ion batteries has recently outpaced Nickel in specific strategic importance.",
+"bn": "কোবাল্ট এবং নিকেল একই ধরনের বৈশিষ্ট্যযুক্ত সংলগ্ন ধাতু। উভয়ই সুপারঅ্যালয় তৈরি করে, তবে লিথিয়াম-আয়ন ব্যাটারিতে কোবাল্টের ভূমিকা সম্প্রতি নির্দিষ্ট কৌশলগত গুরুত্বের দিক থেকে নিকেলকে ছাড়িয়ে গেছে।"
+}
+}
+],
+"relatedElements": [26, 28, 45],
+"quizQuestions": [
+{
+"question": {
+"en": "Cobalt is the central, biologically active atom in which essential human vitamin?",
+"bn": "কোবাল্ট কোন অপরিহার্য মানব ভিটামিনের কেন্দ্রীয়, জৈবিকভাবে সক্রিয় পরমাণু?"
+},
+"options": [
+{
+"en": "Vitamin C",
+"bn": "ভিটামিন সি"
+},
+{
+"en": "Vitamin D",
+"bn": "ভিটামিন ডি"
+},
+{
+"en": "Vitamin B12",
+"bn": "ভিটামিন বি১২"
+},
+{
+"en": "Vitamin A",
+"bn": "ভিটামিন এ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Vitamin B12, or cobalamin, relies entirely on a central cobalt atom bonded in a corrin ring to function.",
+"bn": "ভিটামিন বি১২ বা কোবালামিন কাজ করার জন্য একটি করিন রিংয়ে আবদ্ধ একটি কেন্দ্রীয় কোবাল্ট পরমাণুর উপর সম্পূর্ণভাবে নির্ভর করে।"
+}
+},
+{
+"question": {
+"en": "The name 'Cobalt' is derived from the German word 'kobold', which translates to what in English?",
+"bn": "'কোবাল্ট' নামটি জার্মান শব্দ 'kobold' থেকে এসেছে, ইংরেজিতে যার অনুবাদ কী?"
+},
+"options": [
+{
+"en": "Blue stone",
+"bn": "নীল পাথর"
+},
+{
+"en": "Goblin",
+"bn": "গবলিন"
+},
+{
+"en": "Hard iron",
+"bn": "কঠিন লোহা"
+},
+{
+"en": "Poison gas",
+"bn": "বিষাক্ত গ্যাস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "German miners called the ore 'kobold' (goblin) because it failed to yield copper and released toxic arsenic fumes when heated, acting as if cursed by a mischievous sprite.",
+"bn": "জার্মান খনি শ্রমিকরা আকরিকটিকে 'kobold' (গবলিন) বলত কারণ এটি তামা উৎপাদনে ব্যর্থ হত এবং গরম করার সময় বিষাক্ত আর্সেনিক ধোঁয়া বের করত, যেন কোনো দুষ্ট অপদেবতা অভিশাপ দিয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which country produces over 60% of the world's global supply of mined cobalt?",
+"bn": "কোন দেশ বিশ্বের খনন করা কোবাল্ট সরবরাহের ৬০% এরও বেশি উৎপাদন করে?"
+},
+"options": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Democratic Republic of the Congo",
+"bn": "কঙ্গো গণতান্ত্রিক প্রজাতন্ত্র"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The DRC possesses massive reserves and is the overwhelmingly dominant producer of the world's cobalt, though much of it is refined elsewhere.",
+"bn": "ডিআরসি-এর বিশাল মজুদ রয়েছে এবং এটি বিশ্বের কোবাল্টের অপ্রতিরোধ্য প্রধান উৎপাদক, যদিও এর বেশিরভাগই অন্য কোথাও পরিশোধিত হয়।"
+}
+},
+{
+"question": {
+"en": "Cobalt is part of the 'Iron Triad', meaning it is one of only three elements that are naturally ________ at room temperature.",
+"bn": "কোবাল্ট 'আয়রন ট্রায়াড'-এর অংশ, যার অর্থ এটি মাত্র তিনটি উপাদানের মধ্যে একটি যা ঘরের তাপমাত্রায় প্রাকৃতিকভাবে ________।"
+},
+"options": [
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Radioactive",
+"bn": "তেজস্ক্রিয়"
+},
+{
+"en": "Ferromagnetic",
+"bn": "ফেরোম্যাগনেটিক"
+},
+{
+"en": "Superconducting",
+"bn": "সুপারকন্ডাক্টিং"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Iron, Cobalt, and Nickel are the only pure elements that exhibit strong ferromagnetism at standard room temperature.",
+"bn": "লোহা, কোবাল্ট এবং নিকেল হলো একমাত্র বিশুদ্ধ উপাদান যা আদর্শ কক্ষ তাপমাত্রায় শক্তিশালী ফেরোম্যাগনেটিজম প্রদর্শন করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary function of lithium cobalt oxide (LiCoO2) in modern technology?",
+"bn": "আধুনিক প্রযুক্তিতে লিথিয়াম কোবাল্ট অক্সাইডের (LiCoO2) প্রাথমিক কাজ কী?"
+},
+"options": [
+{
+"en": "Solar panel coating",
+"bn": "সৌর প্যানেল আবরণ"
+},
+{
+"en": "Cathode in lithium-ion batteries",
+"bn": "লিথিয়াম-আয়ন ব্যাটারিতে ক্যাথোড"
+},
+{
+"en": "Computer microchips",
+"bn": "কম্পিউটার মাইক্রোচিপ"
+},
+{
+"en": "Fiber optic cables",
+"bn": "ফাইবার অপটিক কেবল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "LiCoO2 is extensively used as the positive electrode (cathode) in the high-density lithium-ion batteries that power smartphones and laptops.",
+"bn": "LiCoO2 ব্যাপকভাবে স্মার্টফোন এবং ল্যাপটপগুলিকে শক্তি প্রদানকারী উচ্চ-ঘনত্বের লিথিয়াম-আয়ন ব্যাটারিতে পজিটিভ ইলেকট্রোড (ক্যাথোড) হিসাবে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "Which famous physics experiment utilized the radioactive beta decay of Cobalt-60 to disprove the law of conservation of parity?",
+"bn": "প্যারিটি সংরক্ষণের আইনটিকে ভুল প্রমাণ করতে কোন বিখ্যাত পদার্থবিদ্যা পরীক্ষাটি কোবাল্ট-৬০ এর তেজস্ক্রিয় বিটা ক্ষয় ব্যবহার করেছিল?"
+},
+"options": [
+{
+"en": "Michelson-Morley Experiment",
+"bn": "মাইকেলসন-মোর্লে পরীক্ষা"
+},
+{
+"en": "Rutherford Gold Foil Experiment",
+"bn": "রাদারফোর্ড সোনার পাত পরীক্ষা"
+},
+{
+"en": "Wu Experiment",
+"bn": "উ (Wu) পরীক্ষা"
+},
+{
+"en": "Stern-Gerlach Experiment",
+"bn": "স্টার্ন-গেরলাচ পরীক্ষা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Conducted by Chien-Shiung Wu in 1956, it proved that the weak nuclear force differentiates between left and right (parity violation).",
+"bn": "১৯৫৬ সালে চিয়েন-শিয়ুং উ (Chien-Shiung Wu) দ্বারা পরিচালিত এই পরীক্ষাটি প্রমাণ করে যে দুর্বল পারমাণবিক বল বাম এবং ডানের মধ্যে পার্থক্য করে (প্যারিটি লঙ্ঘন)।"
+}
+},
+{
+"question": {
+"en": "Anhydrous cobalt(II) chloride is blue. What color does it become when it absorbs water to become hydrated?",
+"bn": "অনহাইড্রাস কোবাল্ট(II) ক্লোরাইড নীল। এটি জল শোষণ করে হাইড্রেটেড হয়ে গেলে কোন রঙ ধারণ করে?"
+},
+"options": [
+{
+"en": "Green",
+"bn": "সবুজ"
+},
+{
+"en": "Yellow",
+"bn": "হলুদ"
+},
+{
+"en": "Pink/Red",
+"bn": "গোলাপী/লাল"
+},
+{
+"en": "Colorless",
+"bn": "বর্ণহীন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Hydration changes the coordination geometry around the cobalt ion from tetrahedral to octahedral, shifting its absorption spectrum and appearing pink.",
+"bn": "জলের সংযোজন কোবাল্ট আয়নের চারপাশের জ্যামিতিক কাঠামোকে টেট্রাহেড্রাল থেকে অক্টাহেড্রালে পরিবর্তন করে, এর শোষণ বর্ণালী পরিবর্তন করে এবং এটি গোলাপী দেখায়।"
+}
+},
+{
+"question": {
+"en": "Historically, cobalt aluminate (CoAl2O4) has been famous for providing what vibrant color to ceramics and glass?",
+"bn": "ঐতিহাসিকভাবে, কোবাল্ট অ্যালুমিনেট (CoAl2O4) সিরামিক এবং কাঁচে কোন প্রাণবন্ত রঙ প্রদানের জন্য বিখ্যাত?"
+},
+"options": [
+{
+"en": "Emerald Green",
+"bn": "পান্না সবুজ"
+},
+{
+"en": "Cobalt Blue",
+"bn": "কোবাল্ট ব্লু"
+},
+{
+"en": "Ruby Red",
+"bn": "রুবি লাল"
+},
+{
+"en": "Canary Yellow",
+"bn": "ক্যানারি হলুদ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cobalt aluminate is an extremely stable pigment known as 'Cobalt Blue', used in fine china, stained glass, and paintings for centuries.",
+"bn": "কোবাল্ট অ্যালুমিনেট একটি অত্যন্ত স্থিতিশীল রঞ্জক যা 'কোবাল্ট ব্লু' নামে পরিচিত, শতাব্দী ধরে সূক্ষ্ম চীনা মাটির বাসন, স্টেইনড গ্লাস এবং চিত্রকর্মগুলিতে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "Synthetic Cobalt-60 is primarily produced in nuclear reactors to serve as a powerful emitter of what type of radiation for medical and industrial use?",
+"bn": "চিকিৎসা ও শিল্প ব্যবহারের জন্য কোন ধরণের বিকিরণের শক্তিশালী নির্গমনকারী হিসাবে কাজ করার জন্য সিন্থেটিক কোবাল্ট-৬০ প্রাথমিকভাবে পারমাণবিক চুল্লিতে উৎপাদিত হয়?"
+},
+"options": [
+{
+"en": "Alpha particles",
+"bn": "আলফা কণা"
+},
+{
+"en": "Beta particles",
+"bn": "বিটা কণা"
+},
+{
+"en": "Gamma rays",
+"bn": "গামা রশ্মি"
+},
+{
+"en": "Neutrons",
+"bn": "নিউট্রন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "While Co-60 undergoes beta decay, the subsequent stabilization of the resulting Nickel-60 nucleus releases intense gamma rays used for sterilization and radiotherapy.",
+"bn": "যদিও কোবাল্ট-৬০ বিটা ক্ষয়ের মধ্য দিয়ে যায়, ফলে নিকেল-৬০ নিউক্লিয়াসের পরবর্তী স্থিতিশীলতা তীব্র গামা রশ্মি ছেড়ে দেয় যা নির্বীজন এবং রেডিওথেরাপির জন্য ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "What highly magnetic alloy, combining Aluminum, Nickel, and Cobalt, is used to make strong permanent magnets for electric motors?",
+"bn": "অ্যালুমিনিয়াম, নিকেল এবং কোবাল্ট যুক্ত করে তৈরি কোন অত্যন্ত চৌম্বকীয় সংকর ধাতু বৈদ্যুতিক মোটরের জন্য শক্তিশালী স্থায়ী চুম্বক তৈরি করতে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Brass",
+"bn": "পিতল"
+},
+{
+"en": "Alnico",
+"bn": "অ্যালনিকো"
+},
+{
+"en": "Nichrome",
+"bn": "নাইক্রোম"
+},
+{
+"en": "Invar",
+"bn": "ইনভার"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Alnico alloys (Al-Ni-Co) produce incredibly strong, temperature-resistant permanent magnets essential for many industrial and consumer applications.",
+"bn": "অ্যালনিকো (Al-Ni-Co) মিশ্রণ অবিশ্বাস্যভাবে শক্তিশালী, তাপমাত্রা-প্রতিরোধী স্থায়ী চুম্বক তৈরি করে যা অনেক শিল্প ও ভোক্তা অ্যাপ্লিকেশনের জন্য অপরিহার্য।"
+}
+},
+{
+"question": {
+"en": "What is the most common oxidation state of cobalt in simple aqueous solutions and salts?",
+"bn": "সাধারণ জলীয় দ্রবণ এবং লবণে কোবাল্টের সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The +2 oxidation state (Co2+) is highly stable in aqueous solution, though +3 is very common in biological systems and complex ions.",
+"bn": "+২ জারণ অবস্থা (Co2+) জলীয় দ্রবণে অত্যন্ত স্থিতিশীল, যদিও +৩ জৈবিক সিস্টেম এবং জটিল আয়নগুলিতে খুব সাধারণ।"
+}
+},
+{
+"question": {
+"en": "Which major industrial catalytic process relies on cobalt catalysts to convert carbon monoxide and hydrogen (syngas) into liquid hydrocarbons?",
+"bn": "কোন প্রধান শিল্প অনুঘটক প্রক্রিয়া কার্বন মনোক্সাইড এবং হাইড্রোজেনকে (সিনগ্যাস) তরল হাইড্রোকার্বনে রূপান্তর করতে কোবাল্ট অনুঘটকের উপর নির্ভর করে?"
+},
+"options": [
+{
+"en": "Haber-Bosch process",
+"bn": "হ্যাবার-বোশ প্রক্রিয়া"
+},
+{
+"en": "Fischer-Tropsch process",
+"bn": "ফিশার-ট্রপস প্রক্রিয়া"
+},
+{
+"en": "Ostwald process",
+"bn": "অসওয়াল্ড প্রক্রিয়া"
+},
+{
+"en": "Contact process",
+"bn": "সংস্পর্শ পদ্ধতি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The Fischer-Tropsch process uses cobalt (or iron) catalysts to synthesize synthetic lubricating oil and synthetic fuel from syngas.",
+"bn": "ফিশার-ট্রপস প্রক্রিয়া সিনগ্যাস থেকে কৃত্রিম লুব্রিকেটিং তেল এবং সিন্থেটিক জ্বালানী সংশ্লেষিত করতে কোবাল্ট (বা আয়রন) অনুঘটক ব্যবহার করে।"
+}
+},
+{
+"question": {
+"en": "In the context of health, excessive consumption of cobalt (historically added as a foam stabilizer in beer) leads to which severe medical condition?",
+"bn": "স্বাস্থ্যের ক্ষেত্রে, কোবাল্টের অত্যধিক ব্যবহার (ঐতিহাসিকভাবে বিয়ারে ফোম স্টেবিলাইজার হিসাবে যোগ করা হয়) কোন মারাত্মক চিকিৎসা অবস্থার দিকে নিয়ে যায়?"
+},
+"options": [
+{
+"en": "Cobalt cardiomyopathy",
+"bn": "কোবাল্ট কার্ডিওমায়োপ্যাথি"
+},
+{
+"en": "Scurvy",
+"bn": "স্কার্ভি"
+},
+{
+"en": "Goiter",
+"bn": "গলগণ্ড"
+},
+{
+"en": "Rickets",
+"bn": "রিকেট"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Known as 'beer drinker's cardiomyopathy', it occurred in the 1960s when breweries added cobalt sulfate to beer, leading to acute heart failure in heavy drinkers.",
+"bn": "এটি 'বিয়ার পানকারীদের কার্ডিওমায়োপ্যাথি' নামে পরিচিত। ১৯৬০ এর দশকে যখন ব্রুয়ারিগুলো বিয়ারে কোবাল্ট সালফেট যোগ করে, তখন এটি প্রচুর মদ্যপায়ীদের তীব্র হার্ট ফেইলিউরের দিকে নিয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "What is the ground state electron configuration of a neutral Cobalt atom?",
+"bn": "একটি নিরপেক্ষ কোবাল্ট পরমাণুর গ্রাউন্ড স্টেট ইলেকট্রন বিন্যাস কী?"
+},
+"options": [
+{
+"en": "[Ar] 3d⁶ 4s²",
+"bn": "[Ar] 3d⁶ 4s²"
+},
+{
+"en": "[Ar] 3d⁷ 4s²",
+"bn": "[Ar] 3d⁷ 4s²"
+},
+{
+"en": "[Ar] 3d⁸ 4s²",
+"bn": "[Ar] 3d⁸ 4s²"
+},
+{
+"en": "[Ar] 3d⁹",
+"bn": "[Ar] 3d⁹"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cobalt is the 27th element. Its noble gas core is Argon (18), leaving 9 valence electrons that fill the 4s and 3d orbitals.",
+"bn": "কোবাল্ট হল ২৭ তম উপাদান। এর নিষ্ক্রিয় গ্যাস কোর হল আর্গন (১৮), যা ৯টি ভ্যালেন্স ইলেকট্রন ছেড়ে দেয় যা 4s এবং 3d অরবিটালগুলি পূরণ করে।"
+}
+},
+{
+"question": {
+"en": "Due to its extraordinary heat resistance and strength, cobalt is heavily alloyed to make 'superalloys' primarily used in what high-stress application?",
+"bn": "এর অসাধারণ তাপ প্রতিরোধক ক্ষমতা এবং শক্তির কারণে, কোবাল্টকে 'সুপারঅ্যালয়' তৈরি করার জন্য প্রচুর পরিমাণে মিশ্রিত করা হয়, যা প্রাথমিকভাবে কোন উচ্চ-চাপযুক্ত প্রয়োগে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Deep sea submarines",
+"bn": "গভীর সমুদ্রের সাবমেরিন"
+},
+{
+"en": "Gas turbine jet engines",
+"bn": "গ্যাস টারবাইন জেট ইঞ্জিন"
+},
+{
+"en": "Railway tracks",
+"bn": "রেলওয়ে ট্র্যাক"
+},
+{
+"en": "Suspension bridges",
+"bn": "সাসপেনশন ব্রিজ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cobalt superalloys maintain structural integrity near their melting points, making them vital for the extremely hot combustion zones of jet aircraft engines.",
+"bn": "কোবাল্ট সুপারঅ্যালয়গুলি তাদের গলনাঙ্কের কাছাকাছি কাঠামোগত অখণ্ডতা বজায় রাখে, যা জেট বিমানের ইঞ্জিনের অত্যন্ত উত্তপ্ত দহন অঞ্চলগুলির জন্য তাদের অত্যাবশ্যক করে তোলে।"
+}
+},
+{
+"question": {
+"en": "In complex coordination chemistry, Alfred Werner studied extensively the coordination of cobalt(III) with which common simple molecule to establish coordination theory?",
+"bn": "জটিল কোঅর্ডিনেশন রসায়নে, আলফ্রেড ওয়ার্নার কোঅর্ডিনেশন তত্ত্ব প্রতিষ্ঠার জন্য কোবাল্ট(III) এর সাথে কোন সাধারণ সরল অণুর কোঅর্ডিনেশন ব্যাপকভাবে অধ্যয়ন করেছিলেন?"
+},
+"options": [
+{
+"en": "Water (H2O)",
+"bn": "জল (H2O)"
+},
+{
+"en": "Ammonia (NH3)",
+"bn": "অ্যামোনিয়া (NH3)"
+},
+{
+"en": "Carbon Dioxide (CO2)",
+"bn": "কার্বন ডাই অক্সাইড (CO2)"
+},
+{
+"en": "Methane (CH4)",
+"bn": "মিথেন (CH4)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Werner's Nobel-winning work primarily focused on cobalt-ammine complexes like [Co(NH3)6]Cl3 to deduce the octahedral geometry of metal complexes.",
+"bn": "ওয়ার্নারের নোবেল-বিজয়ী কাজ প্রাথমিকভাবে ধাতব কমপ্লেক্সের অক্টাহেড্রাল জ্যামিতি বের করতে [Co(NH3)6]Cl3 এর মতো কোবাল্ট-অ্যামিন কমপ্লেক্সের উপর দৃষ্টি নিবদ্ধ করেছিল।"
+}
+},
+{
+"question": {
+"en": "What is the crystal structure of Cobalt at standard room temperature?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় কোবাল্টের স্ফটিক কাঠামো কী?"
+},
+"options": [
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টারড কিউবিক (BCC)"
+},
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টারড কিউবিক (FCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "At room temperature, cobalt exists in the Hexagonal close-packed (HCP) form, transitioning to Face-centered cubic (FCC) at high temperatures (above 417 °C).",
+"bn": "কক্ষ তাপমাত্রায়, কোবাল্ট হেক্সাগোনাল ক্লোজ-প্যাকড (HCP) আকারে থাকে, উচ্চ তাপমাত্রায় (৪১৭°C এর উপরে) এটি ফেস-সেন্টারড কিউবিক (FCC) এ রূপান্তরিত হয়।"
+}
+},
+{
+"question": {
+"en": "Dicobalt octacarbonyl, Co2(CO)8, is an important reagent and catalyst. In this specific compound, what is the formal oxidation state of Cobalt?",
+"bn": "ডাইকোবাল্ট অক্টাকার্বোনিল, Co2(CO)8 একটি গুরুত্বপূর্ণ বিকারক এবং অনুঘটক। এই নির্দিষ্ট যৌগে কোবাল্টের ফর্মাল জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "0",
+"bn": "০"
+},
+{
+"en": "-1",
+"bn": "-১"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because carbon monoxide is a neutral ligand, the cobalt atoms in Co2(CO)8 have an oxidation state of zero.",
+"bn": "যেহেতু কার্বন মনোক্সাইড একটি নিরপেক্ষ লিগ্যান্ড, তাই Co2(CO)8 এর কোবাল্ট পরমাণুগুলির জারণ অবস্থা শূন্য।"
+}
+},
+{
+"question": {
+"en": "The radioactive isotope Cobalt-60 is created by bombarding which stable isotope with neutrons?",
+"bn": "কোন স্থিতিশীল আইসোটোপকে নিউট্রন দ্বারা বোমাবর্ষণ করে তেজস্ক্রিয় আইসোটোপ কোবাল্ট-৬০ তৈরি করা হয়?"
+},
+"options": [
+{
+"en": "Cobalt-57",
+"bn": "কোবাল্ট-৫৭"
+},
+{
+"en": "Cobalt-58",
+"bn": "কোবাল্ট-৫৮"
+},
+{
+"en": "Cobalt-59",
+"bn": "কোবাল্ট-৫৯"
+},
+{
+"en": "Iron-59",
+"bn": "আয়রন-৫৯"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Natural, stable Cobalt-59 absorbs a thermal neutron in a nuclear reactor to become the highly radioactive Cobalt-60.",
+"bn": "প্রাকৃতিক, স্থিতিশীল কোবাল্ট-৫৯ পারমাণবিক চুল্লিতে একটি তাপীয় নিউট্রন শোষণ করে অত্যন্ত তেজস্ক্রিয় কোবাল্ট-৬০ এ পরিণত হয়।"
+}
+},
+{
+"question": {
+"en": "Which unique property makes cobalt a critical component in the hydrodesulfurization process of petroleum refinement?",
+"bn": "কোন অনন্য বৈশিষ্ট্য কোবাল্টকে পেট্রোলিয়াম পরিশোধনের হাইড্রোডিসালফারাইজেশন প্রক্রিয়ায় একটি গুরুত্বপূর্ণ উপাদান করে তোলে?"
+},
+"options": [
+{
+"en": "It absorbs pure sulfur to form permanent sulfides",
+"bn": "এটি স্থায়ী সালফাইড গঠনের জন্য বিশুদ্ধ সালফার শোষণ করে"
+},
+{
+"en": "It promotes molybdenum catalysts to efficiently strip sulfur from crude oil",
+"bn": "এটি অপরিশোধিত তেল থেকে কার্যকরভাবে সালফার অপসারণ করার জন্য মলিবডেনাম অনুঘটককে উন্নীত করে"
+},
+{
+"en": "It burns at high temperatures to vaporize sulfur",
+"bn": "এটি সালফারকে বাষ্পীভূত করতে উচ্চ তাপমাত্রায় পুড়ে যায়"
+},
+{
+"en": "It acts as a strong base to neutralize sulfuric acid",
+"bn": "এটি সালফিউরিক অ্যাসিডকে প্রশমিত করার জন্য একটি শক্তিশালী বেস হিসাবে কাজ করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cobalt is used alongside molybdenum on an alumina support to catalyze the removal of sulfur from natural gas and refined petroleum products to reduce acid rain.",
+"bn": "অ্যাসিড বৃষ্টি কমানোর জন্য প্রাকৃতিক গ্যাস এবং পরিশোধিত পেট্রোলিয়াম পণ্য থেকে সালফার অপসারণ অনুঘটক করতে কোবাল্ট মলিবডেনামের পাশাপাশি অ্যালুমিনা সাপোর্টে ব্যবহৃত হয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Cobalt itself is highly radioactive and dangerous.",
+"bn": "কোবাল্ট নিজেই অত্যন্ত তেজস্ক্রিয় এবং বিপজ্জনক।"
+}
+],
+"learningTips": [
+{
+"en": "Associate Cobalt (Co) with 'Color' (Cobalt Blue) and 'Cathode' (Lithium-ion batteries).",
+"bn": "কোবাল্টকে (Co) 'Color' বা রঙ (কোবাল্ট ব্লু) এবং 'Cathode' বা ক্যাথোড (লিথিয়াম-আয়ন ব্যাটারি) এর সাথে যুক্ত করে মনে রাখুন।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Co + 2HCl → CoCl₂ + H₂",
+"description": {
+"en": "Reaction of metallic cobalt with dilute hydrochloric acid producing cobalt(II) chloride and hydrogen gas.",
+"bn": "লঘু হাইড্রোক্লোরিক অ্যাসিডের সাথে ধাতব কোবাল্টের বিক্রিয়ায় কোবাল্ট(II) ক্লোরাইড এবং হাইড্রোজেন গ্যাস উৎপন্ন হয়।"
+}
+},
+{
+"equation": "3Co + 4O₂ → Co₃O₄",
+"description": {
+"en": "Oxidation of cobalt when heated in air, producing cobalt(II,III) oxide.",
+"bn": "বাতাসে গরম করা হলে কোবাল্টের জারণ, যা কোবাল্ট(II,III) অক্সাইড তৈরি করে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Co → Co²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation of elemental cobalt to the stable +2 state.",
+"bn": "মৌলিক কোবাল্টের স্থিতিশীল +২ অবস্থায় জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Co³⁺ + e⁻ → Co²⁺",
+"description": {
+"en": "Reduction of the highly oxidizing cobalt(III) ion to the more stable cobalt(II) ion in aqueous solution.",
+"bn": "জলীয় দ্রবণে অত্যন্ত অক্সিডাইজিং কোবাল্ট(III) আয়নের আরও স্থিতিশীল কোবাল্ট(II) আয়নে বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Coordinate Covalent Bond",
+"bn": "সন্নিবেশ সমযোজী বন্ধন"
+},
+"molecule": "[Co(NH₃)₆]³⁺",
+"description": {
+"en": "Cobalt(III) forms an octahedral complex by accepting electron pairs from six ammonia ligands.",
+"bn": "কোবাল্ট(III) ছয়টি অ্যামোনিয়া লিগ্যান্ড থেকে ইলেকট্রন জোড়া গ্রহণ করে একটি অক্টাহেড্রাল কমপ্লেক্স তৈরি করে।"
+}
+}
+]
+}
+}

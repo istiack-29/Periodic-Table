@@ -1,0 +1,1025 @@
+{
+  "elementId": 17,
+  "basicInformation": {
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "name": {
+      "en": "Chlorine",
+      "bn": "ক্লোরিন"
+    },
+    "pronunciation": {
+      "en": "/ˈklɔːriːn/",
+      "bn": "ক্লো-রিন"
+    },
+    "atomicMass": 35.45,
+    "category": {
+      "en": "Reactive nonmetal (Halogen)",
+      "bn": "সক্রিয় অধাতু (হ্যালোজেন)"
+    },
+    "group": 17,
+    "period": 3,
+    "block": "p",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Pale yellow-green gas",
+      "bn": "ফ্যাকাশে হলুদ-সবুজ গ্যাস"
+    },
+    "color": {
+      "en": "Yellow-green",
+      "bn": "হলুদ-সবুজ"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Carl Wilhelm Scheele",
+      "bn": "কার্ল উইলহেলম শিল"
+    },
+    "discoveryYear": 1774,
+    "discoveryLocation": {
+      "en": "Sweden",
+      "bn": "সুইডেন"
+    },
+    "discoveryStory": {
+      "en": "Scheele produced chlorine by reacting MnO₂ with HCl but believed it was a compound of oxygen. Humphry Davy proved it was an element in 1810 and named it chlorine ('greenish-yellow').",
+      "bn": "শিল MnO₂ ও HCl বিক্রিয়ায় ক্লোরিন উৎপাদন করেন কিন্তু একে অক্সিজেনের যৌগ ভাবেন। হামফ্রি ডেভি ১৮১০ সালে প্রমাণ করেন এটি একটি মৌল এবং 'হলুদাভ-সবুজ' অর্থে নাম দেন ক্লোরিন।"
+    },
+    "historicalUses": {
+      "en": "Used in WWI as a chemical weapon at Ypres (1915); revolutionized water sanitation in the early 20th century.",
+      "bn": "প্রথম বিশ্বযুদ্ধে ইপ্রেতে (১৯১৫) রাসায়নিক অস্ত্র হিসেবে ব্যবহৃত; বিংশ শতাব্দীর শুরুতে পানি জীবাণুমুক্তকরণে বিপ্লব ঘটায়।"
+    },
+    "famousExperiments": {
+      "en": "Davy's electrolysis experiments that established chlorine's elemental nature.",
+      "bn": "ডেভির তড়িৎ বিশ্লেষণ পরীক্ষা যা ক্লোরিনের মৌলিক প্রকৃতি প্রতিষ্ঠা করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 17,
+    "neutrons": 18,
+    "electrons": 17,
+    "valenceElectrons": 7,
+    "shells": 3,
+    "shellDistribution": [
+      2,
+      8,
+      7
+    ],
+    "electronConfiguration": "[Ne] 3s² 3p⁵",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 5
+    },
+    "oxidationStates": [
+      -1,
+      1,
+      3,
+      5,
+      7
+    ],
+    "quantumNumbers": {
+      "principal": 3,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.003214,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 171.6,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 239.11,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 79,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 102,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 175,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.0089,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.479,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Orthorhombic (solid Cl₂)",
+      "bn": "অর্থোরম্বিক (কঠিন Cl₂)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 3.16,
+    "ionizationEnergy": {
+      "value": 1251.2,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 349.0,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Highly reactive; second most electronegative halogen; powerful oxidizer.",
+      "bn": "অত্যন্ত প্রতিক্রিয়াশীল; দ্বিতীয় সর্বাধিক তড়িৎঋণাত্মক হ্যালোজেন; শক্তিশালী জারক।"
+    },
+    "commonCompounds": [
+      "NaCl",
+      "HCl",
+      "ClO₂",
+      "PVC",
+      "NaClO"
+    ],
+    "flameTestColor": null,
+    "spectralLines": [
+      "452.6nm",
+      "478.1nm",
+      "725.6nm",
+      "754.7nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Production of PVC, chlorinated solvents, bleaches, and disinfectants. Backbone of the chlor-alkali industry.",
+      "bn": "পিভিসি, ক্লোরিনযুক্ত দ্রাবক, ব্লিচ ও জীবাণুনাশক উৎপাদন। ক্লোর-অ্যালকালি শিল্পের মেরুদণ্ড।"
+    },
+    "commercialUses": {
+      "en": "Drinking water and swimming pool disinfection, household bleach (NaClO).",
+      "bn": "পানীয় জল ও সুইমিং পুল জীবাণুমুক্তকরণ, গৃহস্থালী ব্লিচ (NaClO)।"
+    },
+    "electronicsUses": {
+      "en": "HCl etching in PCB and semiconductor fabrication.",
+      "bn": "পিসিবি ও সেমিকন্ডাক্টর তৈরিতে HCl এচিং।"
+    },
+    "semiconductorUses": {
+      "en": "Cl₂ plasma etching of silicon and III-V semiconductors.",
+      "bn": "সিলিকন ও III-V অর্ধপরিবাহীর Cl₂ প্লাজমা এচিং।"
+    },
+    "aerospaceUses": {
+      "en": "Ammonium perchlorate (NH₄ClO₄) is the primary solid rocket propellant oxidizer.",
+      "bn": "অ্যামোনিয়াম পারক্লোরেট (NH₄ClO₄) প্রাথমিক কঠিন রকেট প্রপেল্যান্ট অক্সিডাইজার।"
+    },
+    "batteryUses": {
+      "en": "Lithium-thionyl chloride (Li-SOCl₂) batteries for long-life military and medical implants.",
+      "bn": "দীর্ঘ-জীবন সামরিক ও চিকিৎসা ইমপ্ল্যান্টের জন্য লিথিয়াম-থায়োনিল ক্লোরাইড (Li-SOCl₂) ব্যাটারি।"
+    },
+    "aiHardwareUses": {
+      "en": "Cl-based plasma processes used in fabrication of advanced GPU/TPU silicon nodes.",
+      "bn": "উন্নত GPU/TPU সিলিকন নোড তৈরিতে Cl-ভিত্তিক প্লাজমা প্রক্রিয়া।"
+    },
+    "renewableEnergyUses": {
+      "en": "Chlorosilane intermediates in production of solar-grade silicon (Siemens process).",
+      "bn": "সোলার-গ্রেড সিলিকন উৎপাদনে (সিমেন্স প্রক্রিয়া) ক্লোরোসিলেন মধ্যবর্তী।"
+    },
+    "nanotechnologyUses": {
+      "en": "Chlorine-terminated silicon nanowires for surface functionalization.",
+      "bn": "পৃষ্ঠ ফাংশনালাইজেশনের জন্য ক্লোরিন-টার্মিনেটেড সিলিকন ন্যানোয়ার।"
+    },
+    "nuclearUses": {
+      "en": "³⁶Cl is a useful long-lived radiotracer for groundwater dating.",
+      "bn": "³⁶Cl ভূগর্ভস্থ পানি তারিখ নির্ধারণের জন্য দীর্ঘ-জীবন রেডিওট্রেসার।"
+    },
+    "militaryUses": {
+      "en": "Historic chemical warfare agent (banned by Geneva Protocol); precursor for nerve agents.",
+      "bn": "ঐতিহাসিক রাসায়নিক যুদ্ধ এজেন্ট (জেনেভা প্রটোকলে নিষিদ্ধ); স্নায়ু এজেন্টের পূর্বসূরী।"
+    },
+    "medicalUses": {
+      "en": "Sodium hypochlorite for wound antisepsis; HCl in stomach acid balance therapies.",
+      "bn": "ক্ষত জীবাণুমুক্তকরণে সোডিয়াম হাইপোক্লোরাইট; পাকস্থলী অ্যাসিড ব্যালেন্স থেরাপিতে HCl।"
+    },
+    "foodIndustryUses": {
+      "en": "Chlorination of drinking water and sanitization of food processing equipment.",
+      "bn": "পানীয় জল ক্লোরিনেশন ও খাদ্য প্রক্রিয়াকরণ সরঞ্জাম জীবাণুমুক্তকরণ।"
+    },
+    "constructionUses": {
+      "en": "PVC pipes, vinyl flooring, and chlorinated polymer membranes.",
+      "bn": "পিভিসি পাইপ, ভিনাইল ফ্লোরিং ও ক্লোরিনেটেড পলিমার ঝিল্লি।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Essential electrolyte (chloride ion); maintains osmotic balance and stomach HCl for digestion.",
+      "bn": "অপরিহার্য ইলেক্ট্রোলাইট (ক্লোরাইড আয়ন); অসমোটিক ভারসাম্য ও পরিপাকের জন্য পাকস্থলী HCl বজায় রাখে।"
+    },
+    "humanBodyRole": {
+      "en": "~0.15% of body mass; chloride is the most abundant extracellular anion, essential in nerve signaling and pH regulation.",
+      "bn": "শরীরের ভরের ~০.১৫%; ক্লোরাইড সর্বাধিক প্রাচুর্যপূর্ণ বহিঃকোষীয় অ্যানায়ন, স্নায়ু সংকেত ও pH নিয়ন্ত্রণে অপরিহার্য।"
+    },
+    "toxicity": {
+      "en": "Gaseous Cl₂ is highly toxic (IDLH 10 ppm); chloride ions are non-toxic in physiological amounts.",
+      "bn": "গ্যাসীয় Cl₂ অত্যন্ত বিষাক্ত (IDLH ১০ পিপিএম); ক্লোরাইড আয়ন শারীরবৃত্তীয় পরিমাণে অ-বিষাক্ত।"
+    },
+    "environmentalImpact": {
+      "en": "CFCs (containing Cl) destroyed stratospheric ozone; banned by Montreal Protocol.",
+      "bn": "CFCs (Cl ধারণকারী) স্ট্রাটোস্ফেরিক ওজোন ধ্বংস করেছে; মন্ট্রিল প্রটোকলে নিষিদ্ধ।"
+    },
+    "pollutionRisks": {
+      "en": "Chlorinated organics (dioxins, PCBs) are persistent organic pollutants and carcinogens.",
+      "bn": "ক্লোরিনযুক্ত জৈব পদার্থ (ডাইঅক্সিন, PCBs) স্থায়ী জৈব দূষক ও কার্সিনোজেন।"
+    },
+    "recyclingMethods": {
+      "en": "HCl byproduct recovery in chlor-alkali plants; PVC mechanical and feedstock recycling.",
+      "bn": "ক্লোর-অ্যালকালি প্ল্যান্টে HCl উপজাত পুনরুদ্ধার; পিভিসি যান্ত্রিক ও ফিডস্টক রিসাইক্লিং।"
+    },
+    "sustainabilityScore": 6.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      },
+      {
+        "en": "Japan",
+        "bn": "জাপান"
+      }
+    ],
+    "miningMethods": {
+      "en": "Produced industrially by electrolysis of brine (NaCl solution) in the chlor-alkali process.",
+      "bn": "ক্লোর-অ্যালকালি প্রক্রিয়ায় ব্রাইন (NaCl দ্রবণ) তড়িৎ বিশ্লেষণের মাধ্যমে শিল্পভাবে উৎপাদিত।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "1 ppm by mass",
+        "bn": "ভর অনুযায়ী ১ পিপিএম"
+      },
+      "earthCrust": {
+        "en": "0.017% by mass",
+        "bn": "ভর অনুযায়ী ০.০১৭%"
+      },
+      "oceans": {
+        "en": "1.94% by mass (as chloride)",
+        "bn": "ভর অনুযায়ী ১.৯৪% (ক্লোরাইড হিসেবে)"
+      }
+    },
+    "marketValue": {
+      "en": "Industrial chlorine ~$150–$400 per metric ton; HCl ~$50–$200 per ton.",
+      "bn": "শিল্প ক্লোরিন ~$১৫০–$৪০০ প্রতি মেট্রিক টন; HCl ~$৫০–$২০০ প্রতি টন।"
+    },
+    "futureDemand": {
+      "en": "Stable demand from PVC and water treatment; growing concerns may limit growth.",
+      "bn": "পিভিসি ও জল চিকিৎসা থেকে স্থিতিশীল চাহিদা; বর্ধমান উদ্বেগ বৃদ্ধি সীমিত করতে পারে।"
+    },
+    "globalImportance": {
+      "en": "Critical for safe drinking water — chlorination has saved hundreds of millions of lives.",
+      "bn": "নিরাপদ পানীয় জলের জন্য গুরুত্বপূর্ণ — ক্লোরিনেশন কোটি কোটি প্রাণ রক্ষা করেছে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Highly toxic gas; severely damages lungs at low concentrations. Strong oxidizer reacting violently with many substances.",
+      "bn": "অত্যন্ত বিষাক্ত গ্যাস; কম ঘনত্বে ফুসফুসের মারাত্মক ক্ষতি। শক্তিশালী জারক যা বহু পদার্থের সাথে প্রচণ্ডভাবে বিক্রিয়া করে।"
+    },
+    "storageRequirements": {
+      "en": "Store in pressurized steel cylinders, cool dry area, isolated from ammonia and hydrocarbons.",
+      "bn": "চাপযুক্ত স্টিল সিলিন্ডারে, শীতল শুষ্ক স্থানে, অ্যামোনিয়া ও হাইড্রোকার্বন থেকে পৃথক করে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use SCBA respirators, fume hoods, and chlorine gas detectors.",
+      "bn": "SCBA রেস্পিরেটর, ফিউম হুড ও ক্লোরিন গ্যাস ডিটেক্টর ব্যবহার করুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation causes pulmonary edema; chronic exposure linked to lung disease.",
+      "bn": "শ্বাসগ্রহণ পালমোনারি এডিমা ঘটায়; দীর্ঘস্থায়ী এক্সপোজার ফুসফুসের রোগের সাথে সম্পর্কিত।"
+    },
+    "safetyLevel": {
+      "en": "High Risk (Toxic Gas)",
+      "bn": "উচ্চ ঝুঁকি (বিষাক্ত গ্যাস)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Toxic Gas",
+        "bn": "বিষাক্ত গ্যাস"
+      },
+      {
+        "en": "Oxidizer",
+        "bn": "জারক"
+      },
+      {
+        "en": "Corrosive",
+        "bn": "ক্ষয়কারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Chlorine is a green-yellow gas that kills germs, making our drinking water and pools safe. It's also part of table salt.",
+      "bn": "ক্লোরিন একটি সবুজ-হলুদ গ্যাস যা জীবাণু মেরে আমাদের পানীয় জল ও পুল নিরাপদ করে। এটি টেবিল লবণেরও অংশ।"
+    },
+    "advancedExplanation": {
+      "en": "A Group 17 halogen with seven valence electrons and exceptionally high electron affinity. Forms predominantly diatomic Cl₂ via single covalent bond; chemistry dominated by Cl⁻ formation and electrophilic radical reactions.",
+      "bn": "সাতটি যোজ্যতা ইলেক্ট্রনযুক্ত গ্রুপ ১৭ হ্যালোজেন যার ব্যতিক্রমী উচ্চ ইলেক্ট্রন আসক্তি। মূলত একক সমযোজী বন্ধন দ্বারা ডায়াটমিক Cl₂ গঠন; Cl⁻ গঠন ও ইলেক্ট্রোফিলিক র‍্যাডিকাল বিক্রিয়া প্রাধান্যপ্রাপ্ত।"
+    },
+    "funFacts": [
+      {
+        "en": "A single liter of seawater contains about 20 grams of chloride ions.",
+        "bn": "এক লিটার সমুদ্রের জলে প্রায় ২০ গ্রাম ক্লোরাইড আয়ন থাকে।"
+      },
+      {
+        "en": "Chlorine atoms in CFCs can each destroy ~100,000 ozone molecules before being removed.",
+        "bn": "CFCs এর প্রতিটি ক্লোরিন পরমাণু অপসারণের আগে ~১,০০,০০০ ওজোন অণু ধ্বংস করতে পারে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 9,
+        "relation": {
+          "en": "Fluorine is more electronegative and reactive than chlorine, but chlorine is far more abundant and industrially important.",
+          "bn": "ফ্লোরিন ক্লোরিনের চেয়ে বেশি তড়িৎঋণাত্মক ও প্রতিক্রিয়াশীল, কিন্তু ক্লোরিন অনেক বেশি প্রচুর ও শিল্পগতভাবে গুরুত্বপূর্ণ।"
+        }
+      }
+    ],
+    "relatedElements": [
+      9,
+      16,
+      18,
+      35
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the standard form of elemental chlorine?",
+          "bn": "মৌলিক ক্লোরিনের আদর্শ রূপ কী?"
+        },
+        "options": [
+          {
+            "en": "Cl atoms",
+            "bn": "Cl পরমাণু"
+          },
+          {
+            "en": "Cl₂ diatomic gas",
+            "bn": "Cl₂ ডায়াটমিক গ্যাস"
+          },
+          {
+            "en": "Cl₄ tetramer",
+            "bn": "Cl₄ টেট্রামার"
+          },
+          {
+            "en": "Cl₈ ring",
+            "bn": "Cl₈ বলয়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Chlorine exists as diatomic Cl₂ molecules with a single covalent bond.",
+          "bn": "ক্লোরিন একটি একক সমযোজী বন্ধনযুক্ত ডায়াটমিক Cl₂ অণু রূপে বিদ্যমান।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which process produces chlorine industrially?",
+          "bn": "কোন প্রক্রিয়া শিল্পভাবে ক্লোরিন উৎপাদন করে?"
+        },
+        "options": [
+          {
+            "en": "Haber process",
+            "bn": "হ্যাবার প্রক্রিয়া"
+          },
+          {
+            "en": "Chlor-alkali (brine electrolysis)",
+            "bn": "ক্লোর-অ্যালকালি (ব্রাইন তড়িৎবিশ্লেষণ)"
+          },
+          {
+            "en": "Frasch process",
+            "bn": "ফ্রাশ প্রক্রিয়া"
+          },
+          {
+            "en": "Bayer process",
+            "bn": "বেয়ার প্রক্রিয়া"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Electrolysis of NaCl brine yields Cl₂ at the anode and NaOH + H₂ at the cathode side.",
+          "bn": "NaCl ব্রাইনের তড়িৎবিশ্লেষণ অ্যানোডে Cl₂ এবং ক্যাথোড পাশে NaOH + H₂ দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is chlorine's electron affinity (349 kJ/mol) the highest of all elements?",
+          "bn": "কেন ক্লোরিনের ইলেক্ট্রন আসক্তি (৩৪৯ kJ/mol) সমস্ত মৌলের মধ্যে সর্বোচ্চ?"
+        },
+        "options": [
+          {
+            "en": "Largest atomic radius",
+            "bn": "সবচেয়ে বড় পারমাণবিক ব্যাসার্ধ"
+          },
+          {
+            "en": "Optimal balance of nuclear charge and orbital size in 3p",
+            "bn": "3p তে নিউক্লিয়ার চার্জ ও অরবিটাল আকারের সর্বোত্তম ভারসাম্য"
+          },
+          {
+            "en": "Has d-orbitals",
+            "bn": "d-অরবিটাল আছে"
+          },
+          {
+            "en": "It is metallic",
+            "bn": "এটি ধাতব"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Chlorine's 3p orbital is large enough to minimize electron-electron repulsion while still feeling strong nuclear pull.",
+          "bn": "ক্লোরিনের 3p অরবিটাল ইলেক্ট্রন-ইলেক্ট্রন বিকর্ষণ কমানোর জন্য যথেষ্ট বড় কিন্তু শক্তিশালী নিউক্লিয়ার আকর্ষণ অনুভব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which compound is the active ingredient in household bleach?",
+          "bn": "গৃহস্থালী ব্লিচের সক্রিয় উপাদান কোন যৌগ?"
+        },
+        "options": [
+          {
+            "en": "HClO₃",
+            "bn": "HClO₃"
+          },
+          {
+            "en": "NaClO (sodium hypochlorite)",
+            "bn": "NaClO (সোডিয়াম হাইপোক্লোরাইট)"
+          },
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "CaCl₂",
+            "bn": "CaCl₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Household bleach is typically a 3-8% solution of sodium hypochlorite.",
+          "bn": "গৃহস্থালী ব্লিচ সাধারণত ৩-৮% সোডিয়াম হাইপোক্লোরাইট দ্রবণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which polymer contains chlorine as a key structural element?",
+          "bn": "কোন পলিমারে মূল কাঠামোগত উপাদান হিসেবে ক্লোরিন থাকে?"
+        },
+        "options": [
+          {
+            "en": "PET",
+            "bn": "PET"
+          },
+          {
+            "en": "PVC (polyvinyl chloride)",
+            "bn": "পিভিসি (পলিভিনাইল ক্লোরাইড)"
+          },
+          {
+            "en": "PLA",
+            "bn": "PLA"
+          },
+          {
+            "en": "PMMA",
+            "bn": "PMMA"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "PVC's repeating unit is -[CH₂-CHCl]- where chlorine contributes flame retardancy.",
+          "bn": "পিভিসির পুনরাবৃত্ত একক -[CH₂-CHCl]- যেখানে ক্লোরিন অগ্নি-প্রতিরোধে ভূমিকা রাখে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How does chlorine destroy stratospheric ozone?",
+          "bn": "ক্লোরিন কীভাবে স্ট্রাটোস্ফেরিক ওজোন ধ্বংস করে?"
+        },
+        "options": [
+          {
+            "en": "By direct combustion",
+            "bn": "সরাসরি দহন দ্বারা"
+          },
+          {
+            "en": "Cl• radicals catalytically convert O₃ to O₂",
+            "bn": "Cl• র‍্যাডিকাল অনুঘটকীয়ভাবে O₃ কে O₂ এ রূপান্তর করে"
+          },
+          {
+            "en": "By dissolving ozone",
+            "bn": "ওজোন দ্রবীভূত করে"
+          },
+          {
+            "en": "By cooling stratosphere",
+            "bn": "স্ট্রাটোস্ফিয়ার শীতল করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Photolysis of CFCs releases Cl• which catalyzes Cl + O₃ → ClO + O₂; ClO + O → Cl + O₂.",
+          "bn": "CFCs এর ফটোলাইসিস Cl• মুক্ত করে যা Cl + O₃ → ClO + O₂; ClO + O → Cl + O₂ অনুঘটনা করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the oxidation state of Cl in perchlorate ion (ClO₄⁻)?",
+          "bn": "পারক্লোরেট আয়ন (ClO₄⁻) এ Cl এর জারণ অবস্থা কত?"
+        },
+        "options": [
+          {
+            "en": "+3",
+            "bn": "+৩"
+          },
+          {
+            "en": "+5",
+            "bn": "+৫"
+          },
+          {
+            "en": "+7",
+            "bn": "+৭"
+          },
+          {
+            "en": "-1",
+            "bn": "-১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Four O at -2 (-8) plus overall -1 charge requires Cl to be +7, its highest oxidation state.",
+          "bn": "চারটি O প্রতিটি -২ (-৮) এবং মোট চার্জ -১, সুতরাং Cl অবশ্যই +৭, এর সর্বোচ্চ জারণ অবস্থা।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which radical chain mechanism describes chlorination of methane?",
+          "bn": "মিথেন ক্লোরিনেশনে কোন র‍্যাডিকাল চেইন প্রক্রিয়া প্রযোজ্য?"
+        },
+        "options": [
+          {
+            "en": "SN1",
+            "bn": "SN1"
+          },
+          {
+            "en": "Free radical halogenation (initiation, propagation, termination)",
+            "bn": "মুক্ত র‍্যাডিকাল হ্যালোজেনেশন (সূচনা, প্রচার, সমাপ্তি)"
+          },
+          {
+            "en": "Electrophilic aromatic substitution",
+            "bn": "ইলেক্ট্রোফিলিক অ্যারোমেটিক প্রতিস্থাপন"
+          },
+          {
+            "en": "Concerted pericyclic",
+            "bn": "সমকেন্দ্রিক পেরিসাইক্লিক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "UV light splits Cl₂ → 2Cl•; Cl• + CH₄ → HCl + CH₃•; CH₃• + Cl₂ → CH₃Cl + Cl•.",
+          "bn": "UV আলো Cl₂ → 2Cl• বিভাজন করে; Cl• + CH₄ → HCl + CH₃•; CH₃• + Cl₂ → CH₃Cl + Cl•।"
+        }
+      },
+      {
+        "question": {
+          "en": "Most abundant chlorine isotope?",
+          "bn": "ক্লোরিনের সর্বাধিক প্রচুর আইসোটোপ?"
+        },
+        "options": [
+          {
+            "en": "³⁵Cl (~75.77%)",
+            "bn": "³⁵Cl (~৭৫.৭৭%)"
+          },
+          {
+            "en": "³⁶Cl",
+            "bn": "³⁶Cl"
+          },
+          {
+            "en": "³⁷Cl",
+            "bn": "³⁷Cl"
+          },
+          {
+            "en": "³⁸Cl",
+            "bn": "³⁸Cl"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Natural chlorine is ~75.77% ³⁵Cl and ~24.23% ³⁷Cl, giving the average mass of 35.45.",
+          "bn": "প্রাকৃতিক ক্লোরিন ~৭৫.৭৭% ³⁵Cl ও ~২৪.২৩% ³⁷Cl, গড় ভর ৩৫.৪৫।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which historic battle introduced chlorine as a chemical weapon?",
+          "bn": "কোন ঐতিহাসিক যুদ্ধে ক্লোরিন রাসায়নিক অস্ত্র হিসেবে চালু হয়?"
+        },
+        "options": [
+          {
+            "en": "Battle of Verdun",
+            "bn": "ভার্ডুন যুদ্ধ"
+          },
+          {
+            "en": "Second Battle of Ypres (1915)",
+            "bn": "দ্বিতীয় ইপ্রে যুদ্ধ (১৯১৫)"
+          },
+          {
+            "en": "Battle of the Somme",
+            "bn": "সম যুদ্ধ"
+          },
+          {
+            "en": "Battle of Stalingrad",
+            "bn": "স্ট্যালিনগ্রাদ যুদ্ধ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "German forces released ~168 tons of Cl₂ at Ypres on 22 April 1915, the first large-scale chemical attack.",
+          "bn": "জার্মান বাহিনী ২২ এপ্রিল ১৯১৫ ইপ্রেতে ~১৬৮ টন Cl₂ মুক্ত করে, প্রথম বৃহৎ-পরিসরের রাসায়নিক আক্রমণ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the role of Cl⁻ in human nerve impulses?",
+          "bn": "মানব স্নায়ু আবেগে Cl⁻ এর ভূমিকা কী?"
+        },
+        "options": [
+          {
+            "en": "Generates action potential alone",
+            "bn": "একাই অ্যাকশন পটেনশিয়াল তৈরি করে"
+          },
+          {
+            "en": "Major inhibitory ion through GABA-A receptors",
+            "bn": "GABA-A রিসেপ্টরের মাধ্যমে প্রধান বাধাদায়ক আয়ন"
+          },
+          {
+            "en": "Carries oxygen",
+            "bn": "অক্সিজেন বহন করে"
+          },
+          {
+            "en": "Stores ATP energy",
+            "bn": "ATP শক্তি সঞ্চয় করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cl⁻ influx via GABA-A receptors hyperpolarizes neurons, providing the primary inhibitory signaling in the brain.",
+          "bn": "GABA-A রিসেপ্টরের মাধ্যমে Cl⁻ প্রবেশ নিউরন হাইপারপোলারাইজ করে, মস্তিষ্কে প্রাথমিক বাধাদায়ক সংকেত প্রদান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which compound forms when chlorine reacts with cold dilute NaOH?",
+          "bn": "ক্লোরিন শীতল লঘু NaOH এর সাথে বিক্রিয়ায় কী গঠন করে?"
+        },
+        "options": [
+          {
+            "en": "NaClO₃",
+            "bn": "NaClO₃"
+          },
+          {
+            "en": "NaCl + NaClO + H₂O",
+            "bn": "NaCl + NaClO + H₂O"
+          },
+          {
+            "en": "NaClO₄",
+            "bn": "NaClO₄"
+          },
+          {
+            "en": "Na₂O",
+            "bn": "Na₂O"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cold dilute base: Cl₂ + 2NaOH → NaCl + NaClO + H₂O (disproportionation).",
+          "bn": "শীতল লঘু ক্ষার: Cl₂ + 2NaOH → NaCl + NaClO + H₂O (অসমানুপাতিকরণ)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Solid rocket propellant for the Space Shuttle SRBs used which chlorine compound?",
+          "bn": "স্পেস শাটল SRB এর কঠিন রকেট প্রপেল্যান্ট কোন ক্লোরিন যৌগ ব্যবহার করত?"
+        },
+        "options": [
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "Ammonium perchlorate (NH₄ClO₄)",
+            "bn": "অ্যামোনিয়াম পারক্লোরেট (NH₄ClO₄)"
+          },
+          {
+            "en": "KCl",
+            "bn": "KCl"
+          },
+          {
+            "en": "ClO₂",
+            "bn": "ClO₂"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "APCP (ammonium perchlorate composite propellant) provided ~70% of the Shuttle's lift-off thrust.",
+          "bn": "APCP (অ্যামোনিয়াম পারক্লোরেট কম্পোজিট প্রপেল্যান্ট) শাটলের লিফট-অফ থ্রাস্টের ~৭০% সরবরাহ করত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is Cl₂ green-yellow in color?",
+          "bn": "Cl₂ কেন সবুজ-হলুদ?"
+        },
+        "options": [
+          {
+            "en": "Reflects all light",
+            "bn": "সমস্ত আলো প্রতিফলিত করে"
+          },
+          {
+            "en": "Absorbs violet/blue light in its electronic transitions",
+            "bn": "ইলেক্ট্রনিক রূপান্তরে বেগুনি/নীল আলো শোষণ করে"
+          },
+          {
+            "en": "Emits green light",
+            "bn": "সবুজ আলো নির্গত করে"
+          },
+          {
+            "en": "Contains chlorophyll",
+            "bn": "ক্লোরোফিল ধারণ করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cl₂'s lowest excited state absorbs ~330 nm and shorter, leaving green-yellow transmitted to the eye.",
+          "bn": "Cl₂ এর সর্বনিম্ন উত্তেজিত অবস্থা ~৩৩০ nm ও কম শোষণ করে, সবুজ-হলুদ চোখে প্রেরণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "HCl is classified as which type of acid in aqueous solution?",
+          "bn": "জলীয় দ্রবণে HCl কোন ধরনের অ্যাসিড?"
+        },
+        "options": [
+          {
+            "en": "Weak diprotic",
+            "bn": "দুর্বল ডাইপ্রোটিক"
+          },
+          {
+            "en": "Strong monoprotic",
+            "bn": "শক্তিশালী মনোপ্রোটিক"
+          },
+          {
+            "en": "Weak triprotic",
+            "bn": "দুর্বল ট্রাইপ্রোটিক"
+          },
+          {
+            "en": "Lewis only",
+            "bn": "শুধু লিউইস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "HCl fully dissociates in water as H⁺ + Cl⁻; donates one proton (monoprotic) completely.",
+          "bn": "HCl জলে সম্পূর্ণভাবে H⁺ + Cl⁻ এ বিচ্ছিন্ন হয়; একটি প্রোটন (মনোপ্রোটিক) সম্পূর্ণভাবে দান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In semiconductor manufacturing, why is HCl gas used in epitaxial silicon growth?",
+          "bn": "অর্ধপরিবাহী উৎপাদনে এপিট্যাক্সিয়াল সিলিকন বৃদ্ধিতে HCl গ্যাস কেন ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "As a dopant",
+            "bn": "ডোপ্যান্ট হিসেবে"
+          },
+          {
+            "en": "In-situ cleaning of Si surfaces and selective deposition",
+            "bn": "Si পৃষ্ঠের ইন-সিটু পরিষ্কার ও নির্বাচনী ডিপোজিশন"
+          },
+          {
+            "en": "As a substrate",
+            "bn": "সাবস্ট্রেট হিসেবে"
+          },
+          {
+            "en": "To anneal",
+            "bn": "অ্যানিল করতে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "HCl etches contaminants and enables selective epitaxy by suppressing nucleation on dielectric surfaces.",
+          "bn": "HCl দূষক এচ করে এবং ডাইইলেকট্রিক পৃষ্ঠে নিউক্লিয়েশন দমন করে নির্বাচনী এপিট্যাক্সি সম্ভব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the trihalomethane (THM) concern with chlorinated drinking water?",
+          "bn": "ক্লোরিনযুক্ত পানীয় জলে ট্রাইহ্যালোমিথেন (THM) এর উদ্বেগ কী?"
+        },
+        "options": [
+          {
+            "en": "They cause hardness",
+            "bn": "এগুলি কঠিনতা সৃষ্টি করে"
+          },
+          {
+            "en": "They are disinfection byproducts and suspected carcinogens",
+            "bn": "এগুলি জীবাণুমুক্তকরণ উপজাত ও সন্দেহজনক কার্সিনোজেন"
+          },
+          {
+            "en": "They taste salty",
+            "bn": "এদের নোনতা স্বাদ"
+          },
+          {
+            "en": "They are radioactive",
+            "bn": "এগুলি তেজস্ক্রিয়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cl reacting with natural organic matter forms chloroform and other THMs, regulated due to cancer risk.",
+          "bn": "প্রাকৃতিক জৈব পদার্থের সাথে Cl বিক্রিয়ায় ক্লোরোফর্ম ও অন্যান্য THM গঠিত হয়, ক্যান্সার ঝুঁকির কারণে নিয়ন্ত্রিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which chlorine compound is used as a powerful disinfectant in modern water treatment instead of Cl₂?",
+          "bn": "আধুনিক জল চিকিৎসায় Cl₂ এর পরিবর্তে কোন ক্লোরিন যৌগ শক্তিশালী জীবাণুনাশক হিসেবে ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "NaCl",
+            "bn": "NaCl"
+          },
+          {
+            "en": "Chlorine dioxide (ClO₂)",
+            "bn": "ক্লোরিন ডাইঅক্সাইড (ClO₂)"
+          },
+          {
+            "en": "HCl",
+            "bn": "HCl"
+          },
+          {
+            "en": "Cl₂O₇",
+            "bn": "Cl₂O₇"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "ClO₂ disinfects without forming THMs and is effective against Cryptosporidium, Giardia, and biofilms.",
+          "bn": "ClO₂ THM গঠন না করে জীবাণুমুক্ত করে এবং ক্রিপ্টোস্পরিডিয়াম, জিয়ার্ডিয়া ও বায়োফিল্মের বিরুদ্ধে কার্যকর।"
+        }
+      },
+      {
+        "question": {
+          "en": "What geometry does ClF₃ adopt and why?",
+          "bn": "ClF₃ কোন জ্যামিতি গ্রহণ করে এবং কেন?"
+        },
+        "options": [
+          {
+            "en": "Trigonal planar",
+            "bn": "ত্রিভুজাকার সমতল"
+          },
+          {
+            "en": "T-shaped (sp³d, two lone pairs)",
+            "bn": "T-আকৃতির (sp³d, দুটি একাকী জোড়)"
+          },
+          {
+            "en": "Tetrahedral",
+            "bn": "টেট্রাহেড্রাল"
+          },
+          {
+            "en": "Octahedral",
+            "bn": "অক্টাহেড্রাল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "ClF₃ has 5 electron domains (3 bonds + 2 lone pairs) → trigonal bipyramidal arrangement, T-shaped molecular geometry.",
+          "bn": "ClF₃ এর ৫টি ইলেক্ট্রন ডোমেন (৩ বন্ধন + ২ একাকী জোড়) → ত্রিভুজাকার দ্বি-পিরামিড বিন্যাস, T-আকৃতির আণবিক জ্যামিতি।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is fluorine more electronegative than chlorine?",
+          "bn": "ফ্লোরিন ক্লোরিনের চেয়ে কেন বেশি তড়িৎঋণাত্মক?"
+        },
+        "options": [
+          {
+            "en": "Larger size",
+            "bn": "বড় আকার"
+          },
+          {
+            "en": "Smaller atomic radius and stronger effective nuclear pull on valence electrons",
+            "bn": "ছোট পারমাণবিক ব্যাসার্ধ এবং যোজ্যতা ইলেক্ট্রনে শক্তিশালী কার্যকর নিউক্লিয়ার আকর্ষণ"
+          },
+          {
+            "en": "More protons",
+            "bn": "বেশি প্রোটন"
+          },
+          {
+            "en": "Higher mass",
+            "bn": "বেশি ভর"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "F is in period 2 with valence electrons closer to the nucleus, giving it the highest electronegativity (3.98).",
+          "bn": "F পিরিয়ড ২ এ যেখানে যোজ্যতা ইলেক্ট্রন নিউক্লিয়াসের কাছাকাছি, ফলে সর্বোচ্চ তড়িৎঋণাত্মকতা (৩.৯৮)।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Chlorine in pool water is the same as chlorine gas — actually pools use hypochlorite or chloramines, very different.",
+        "bn": "পুলের জলে ক্লোরিন ক্লোরিন গ্যাসের মতোই — আসলে পুলে হাইপোক্লোরাইট বা ক্লোরামিন ব্যবহৃত হয়, অনেক ভিন্ন।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember halogens (Group 17) need just one electron to complete their octet — they're greedy oxidizers.",
+        "bn": "মনে রাখুন হ্যালোজেন (গ্রুপ ১৭) এর অষ্টক পূরণে মাত্র একটি ইলেক্ট্রন প্রয়োজন — এরা লোভী জারক।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "H₂ + Cl₂ → 2HCl",
+        "description": {
+          "en": "Photochemical synthesis of hydrogen chloride.",
+          "bn": "হাইড্রোজেন ক্লোরাইডের ফটোকেমিক্যাল সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂",
+        "description": {
+          "en": "Chlor-alkali electrolysis producing chlorine, hydrogen, and sodium hydroxide.",
+          "bn": "ক্লোর-অ্যালকালি তড়িৎবিশ্লেষণে ক্লোরিন, হাইড্রোজেন ও সোডিয়াম হাইড্রোক্সাইড উৎপাদন।"
+        }
+      },
+      {
+        "equation": "CH₄ + Cl₂ → CH₃Cl + HCl",
+        "description": {
+          "en": "Free-radical chlorination of methane.",
+          "bn": "মিথেনের মুক্ত-র‍্যাডিকাল ক্লোরিনেশন।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "2Cl⁻ → Cl₂ + 2e⁻",
+        "description": {
+          "en": "Oxidation of chloride ion at anode in chlor-alkali cell.",
+          "bn": "ক্লোর-অ্যালকালি কোষে অ্যানোডে ক্লোরাইড আয়নের জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Cl₂ + 2e⁻ → 2Cl⁻",
+        "description": {
+          "en": "Reduction of chlorine gas to chloride ions during disinfection or metal corrosion.",
+          "bn": "জীবাণুমুক্তকরণ বা ধাতু ক্ষয়ের সময় ক্লোরিন গ্যাসের ক্লোরাইড আয়নে বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "NaCl",
+        "description": {
+          "en": "Chlorine accepts an electron from sodium to form Na⁺Cl⁻ ionic lattice.",
+          "bn": "ক্লোরিন সোডিয়াম থেকে একটি ইলেক্ট্রন গ্রহণ করে Na⁺Cl⁻ আয়নিক জালি গঠন করে।"
+        }
+      }
+    ]
+  }
+}

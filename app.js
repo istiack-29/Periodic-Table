@@ -62,7 +62,7 @@ const STATE = {
   favorites: JSON.parse(localStorage.getItem('qe-favorites') || '[]'),
   recent: JSON.parse(localStorage.getItem('qe-recent') || '[]'),
   compareSlots: [null, null],
-  quizState: { questions: [], current: 0, score: 0, answered: false },
+  quizState: { questions: [], current: 0, score: 0, answered: false, selectedOption: -1 },
   tableZoom: 1,
   atomAnimation: { running: true, frame: null, spin: true },
   learningMode: 'flashcard',
@@ -1245,7 +1245,7 @@ function renderHistoryTab(element) {
 
 function renderQuizTab(element) {
   const questions = element.learningContent?.quizQuestions || [];
-  STATE.quizState = { questions, current: 0, score: 0, answered: false };
+  STATE.quizState = { questions, current: 0, score: 0, answered: false, selectedOption: -1 };
   renderQuizQuestion();
 }
 
@@ -1254,7 +1254,7 @@ function renderQuizQuestion() {
   const scoreEl = $('#quiz-score');
   if (!container) return;
 
-  const { questions, current, score, answered } = STATE.quizState;
+  const { questions, current, score, answered, selectedOption } = STATE.quizState;
 
   if (!questions.length) {
     container.innerHTML = '<p class="no-data">No quiz questions available for this element.</p>';
@@ -1263,12 +1263,19 @@ function renderQuizQuestion() {
   }
 
   if (current >= questions.length) {
+    const pct = Math.round((score / questions.length) * 100);
+    const medal = pct === 100 ? '🏆' : pct >= 70 ? '🥈' : '📚';
     container.innerHTML = `
       <div class="quiz-complete">
-        <div class="quiz-complete__icon">🏆</div>
-        <h3 class="quiz-complete__title">Quiz Complete!</h3>
-        <p class="quiz-complete__score">Score: ${score} / ${questions.length}</p>
-        <button type="button" class="quiz-restart-btn" id="quiz-restart">Try Again</button>
+        <div class="quiz-complete__icon">${medal}</div>
+        <h3 class="quiz-complete__title">${STATE.lang === 'bn' ? 'কুইজ সম্পন্ন!' : 'Quiz Complete!'}</h3>
+        <p class="quiz-complete__score">${STATE.lang === 'bn' ? 'স্কোর' : 'Score'}: ${score} / ${questions.length}</p>
+        <div class="quiz-complete__bar" aria-label="Score bar">
+          <div class="quiz-complete__bar-fill" style="width:${pct}%"></div>
+        </div>
+        <button type="button" class="quiz-restart-btn" id="quiz-restart">
+          ${STATE.lang === 'bn' ? 'আবার চেষ্টা করুন' : 'Try Again'}
+        </button>
       </div>
     `;
     if (scoreEl) scoreEl.textContent = '';
@@ -1276,23 +1283,47 @@ function renderQuizQuestion() {
   }
 
   const q = questions[current];
-  if (scoreEl) scoreEl.textContent = `Question ${current + 1} / ${questions.length} · Score: ${score}`;
+  const correct = q.correctOptionIndex;
+
+  if (scoreEl) scoreEl.textContent = `${STATE.lang === 'bn' ? 'প্রশ্ন' : 'Question'} ${current + 1} / ${questions.length}  ·  ${STATE.lang === 'bn' ? 'স্কোর' : 'Score'}: ${score}`;
+
+  const understoodLabel  = STATE.lang === 'bn' ? 'বুঝেছি' : 'Understood';
+  const explanationLabel = STATE.lang === 'bn' ? 'ব্যাখ্যা' : 'Explanation';
 
   container.innerHTML = `
     <div class="quiz-question-card">
       <p class="quiz-question-text">${t(q.question)}</p>
-      <div class="quiz-options" role="radiogroup" aria-label="Answer options">
-        ${(q.options || []).map((opt, i) => `
-          <button
-            type="button"
-            class="quiz-option"
-            data-index="${i}"
-            aria-pressed="false"
-            ${answered ? 'disabled' : ''}
-          >${t(opt)}</button>
-        `).join('')}
+      <div class="quiz-options" role="radiogroup" aria-label="${STATE.lang === 'bn' ? 'উত্তরের বিকল্পসমূহ' : 'Answer options'}">
+        ${(q.options || []).map((opt, i) => {
+          let extraClass = '';
+          if (answered) {
+            if (i === correct)           extraClass = ' quiz-option--correct';
+            else if (i === selectedOption) extraClass = ' quiz-option--wrong';
+          }
+          return `
+            <button
+              type="button"
+              class="quiz-option${extraClass}"
+              data-index="${i}"
+              aria-pressed="${answered && i === selectedOption ? 'true' : 'false'}"
+              ${answered ? 'disabled' : ''}
+            >${t(opt)}</button>
+          `;
+        }).join('')}
       </div>
-      ${answered ? `<div class="quiz-explanation"><strong>Explanation:</strong> ${t(q.explanation)}</div>` : ''}
+      ${answered ? `
+        <div class="quiz-explanation" role="note" aria-label="${explanationLabel}">
+          <span class="quiz-explanation__icon" aria-hidden="true">💡</span>
+          <div class="quiz-explanation__body">
+            <strong class="quiz-explanation__label">${explanationLabel}</strong>
+            <p class="quiz-explanation__text">${t(q.explanation)}</p>
+          </div>
+        </div>
+        <button type="button" class="quiz-understood-btn" id="quiz-understood">
+          <span class="quiz-understood-btn__text">${understoodLabel}</span>
+          <span class="quiz-understood-btn__arrow" aria-hidden="true">→</span>
+        </button>
+      ` : ''}
     </div>
   `;
 }
@@ -1303,19 +1334,11 @@ function handleQuizOption(btn) {
   const selected = parseInt(btn.dataset.index, 10);
   const correct = questions[current].correctOptionIndex;
   STATE.quizState.answered = true;
+  STATE.quizState.selectedOption = selected;
   if (selected === correct) STATE.quizState.score++;
 
-  $$('.quiz-option').forEach((opt, i) => {
-    opt.disabled = true;
-    if (i === correct) opt.classList.add('quiz-option--correct');
-    else if (i === selected) opt.classList.add('quiz-option--wrong');
-  });
-
-  setTimeout(() => {
-    STATE.quizState.current++;
-    STATE.quizState.answered = false;
-    renderQuizQuestion();
-  }, 1500);
+  // Re-render to show correct/wrong state + explanation + Understood button
+  renderQuizQuestion();
 }
 
 function dataRow(label, value) {
@@ -2297,6 +2320,14 @@ function initEventDelegation() {
 
     const quizOption = e.target.closest('.quiz-option:not([disabled])');
     if (quizOption) { handleQuizOption(quizOption); return; }
+
+    if (e.target.closest('#quiz-understood')) {
+      STATE.quizState.current++;
+      STATE.quizState.answered = false;
+      STATE.quizState.selectedOption = -1;
+      renderQuizQuestion();
+      return;
+    }
 
     if (e.target.closest('#quiz-restart')) { renderQuizTab(STATE.currentElement); return; }
 

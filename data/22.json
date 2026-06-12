@@ -1,0 +1,1010 @@
+{
+"elementId": 22,
+"basicInformation": {
+"atomicNumber": 22,
+"symbol": "Ti",
+"name": {
+"en": "Titanium",
+"bn": "টাইটানিয়াম"
+},
+"pronunciation": {
+"en": "/taɪˈteɪniəm/",
+"bn": "টাই-টে-নি-য়াম"
+},
+"atomicMass": 47.867,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 4,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Silvery grey-white metallic",
+"bn": "রূপালি ধূসর-সাদা ধাতব"
+},
+"color": {
+"en": "Silver",
+"bn": "রূপালি"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "William Gregor",
+"bn": "উইলিয়াম গ্রেগর"
+},
+"discoveryYear": 1791,
+"discoveryLocation": {
+"en": "United Kingdom",
+"bn": "যুক্তরাজ্য"
+},
+"discoveryStory": {
+"en": "Discovered by William Gregor in Cornwall within the mineral ilmenite. It was later independently discovered and named by Martin Heinrich Klaproth after the Titans of Greek mythology.",
+"bn": "উইলিয়াম গ্রেগর কর্নওয়ালে ইলমেনাইট খনিজের মধ্যে এটি আবিষ্কার করেন। পরে মার্টিন হেনরিক ক্ল্যাপরথ স্বাধীনভাবে এটি আবিষ্কার করেন এবং গ্রীক পুরাণের টাইটানদের নামানুসারে এর নামকরণ করেন।"
+},
+"historicalUses": {
+"en": "Remained a laboratory curiosity until the Kroll process was developed in 1932, allowing it to be produced commercially for aerospace applications during the Cold War.",
+"bn": "১৯৩২ সালে ক্রোল প্রক্রিয়া উদ্ভাবিত হওয়ার আগ পর্যন্ত এটি কেবল গবেষণাগারেই সীমাবদ্ধ ছিল, পরবর্তীতে স্নায়ুযুদ্ধের সময় মহাকাশযান নির্মাণে এটি বাণিজ্যিকভাবে উৎপাদিত হতে শুরু করে।"
+},
+"famousExperiments": {
+"en": "Matthew A. Hunter's 1910 experiment producing the first pure titanium metal (99.9%) by heating TiCl4 with sodium in a steel bomb at 700-800°C.",
+"bn": "১৯১০ সালে ম্যাথিউ এ. হান্টারের পরীক্ষা যেখানে তিনি ৭০০-৮০০°C তাপমাত্রায় একটি স্টিল বোমার মধ্যে সোডিয়ামের সাথে TiCl4 উত্তপ্ত করে প্রথমবারের মতো বিশুদ্ধ টাইটানিয়াম ধাতু (৯৯.৯%) তৈরি করেন।"
+}
+},
+"atomicStructure": {
+"protons": 22,
+"neutrons": 26,
+"electrons": 22,
+"valenceElectrons": 4,
+"shells": 4,
+"shellDistribution": [2, 8, 10, 2],
+"electronConfiguration": "[Ar] 3d² 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 2,
+"4s": 2
+},
+"oxidationStates": [4, 3, 2],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 2,
+"magnetic": -1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 4.506,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1941,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 3560,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 147,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 160,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": {
+"value": 21.9,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 2.38e6,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.523,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 6.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Hexagonal close-packed (alpha phase); Body-centered cubic (beta phase above 882°C)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (আলফা ফেজ); বডি-সেন্টারড কিউবিক (৮৮২°C এর উপরে বিটা ফেজ)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.54,
+"ionizationEnergy": {
+"value": 658.8,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 15.3,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Highly reactive to oxygen forming a passivating oxide layer. Inert at room temperature but burns in air when finely divided.",
+"bn": "অক্সিজেনের প্রতি অত্যন্ত প্রতিক্রিয়াশীল যা একটি প্রতিরক্ষামূলক অক্সাইড স্তর গঠন করে। ঘরের তাপমাত্রায় নিষ্ক্রিয় কিন্তু গুঁড়ো অবস্থায় বাতাসে জ্বলে ওঠে।"
+},
+"commonCompounds": ["TiO₂", "TiCl₄", "TiN", "FeTiO₃", "BaTiO₃"],
+"flameTestColor": {
+"en": "Bright white sparks (as powder)",
+"bn": "উজ্জ্বল সাদা স্ফুলিঙ্গ (পাউডার হিসেবে)"
+},
+"spectralLines": ["334.90nm", "336.12nm", "365.35nm", "498.17nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Production of titanium dioxide (TiO2) pigment for paints, plastics, and paper.",
+"bn": "রং, প্লাস্টিক এবং কাগজের জন্য টাইটানিয়াম ডাই অক্সাইড (TiO2) পিগমেন্ট তৈরি।"
+},
+"commercialUses": {
+"en": "Sporting goods (golf clubs, bicycles), jewelry, luxury watches, and premium eyeglass frames.",
+"bn": "খেলার সামগ্রী (গল্ফ ক্লাব, সাইকেল), গয়না, বিলাসবহুল ঘড়ি এবং প্রিমিয়াম চশমার ফ্রেম।"
+},
+"electronicsUses": {
+"en": "Thin-film barriers and interconnects in integrated circuits, barium titanate capacitors.",
+"bn": "ইন্টিগ্রেটেড সার্কিটে থিন-ফিল্ম বাধা এবং আন্তঃসংযোগ, বেরিয়াম টাইটানেট ক্যাপাসিটর।"
+},
+"semiconductorUses": {
+"en": "Used in Chemical Vapor Deposition (CVD) processes to form Titanium Nitride (TiN) barrier layers.",
+"bn": "টাইটানিয়াম নাইট্রাইড (TiN) বাধা স্তর তৈরি করতে রাসায়নিক বাষ্প জমা (CVD) প্রক্রিয়াগুলিতে ব্যবহৃত হয়।"
+},
+"aerospaceUses": {
+"en": "Crucial for jet engine components, airframes, and spacecraft due to its extreme strength-to-weight ratio and heat resistance.",
+"bn": "অত্যধিক শক্তি-ওজন অনুপাত এবং তাপ প্রতিরোধের কারণে জেট ইঞ্জিনের উপাদান, এয়ারফ্রেম এবং মহাকাশযানের জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"batteryUses": {
+"en": "Lithium-titanate batteries (LTO) which offer extremely rapid charging and long lifespans.",
+"bn": "লিথিয়াম-টাইটানেট ব্যাটারি (LTO) যা অত্যন্ত দ্রুত চার্জিং এবং দীর্ঘ আয়ু প্রদান করে।"
+},
+"aiHardwareUses": {
+"en": "Advanced alloy chassis and thermal heat sinks for rugged edge-AI devices.",
+"bn": "রাগেড এজ-এআই ডিভাইসের জন্য উন্নত অ্যালয় চ্যাসিস এবং থার্মাল হিট সিঙ্ক।"
+},
+"renewableEnergyUses": {
+"en": "Components in geothermal and ocean thermal energy conversion plants due to saltwater corrosion resistance.",
+"bn": "লবণাক্ত জলে ক্ষয় প্রতিরোধের কারণে জিওথার্মাল এবং ওশান থার্মাল এনার্জি কনভার্শন প্ল্যান্টের উপাদান।"
+},
+"nanotechnologyUses": {
+"en": "Titanium dioxide nanoparticles utilized in self-cleaning surfaces and advanced photocatalysts.",
+"bn": "টাইটানিয়াম ডাই অক্সাইড ন্যানো পার্টিকেলগুলি স্ব-পরিষ্কার পৃষ্ঠ এবং উন্নত ফটোক্যাটালিস্টগুলিতে ব্যবহৃত হয়।"
+},
+"nuclearUses": {
+"en": "Long-term storage containers for high-level nuclear waste due to extreme corrosion resistance over millennia.",
+"bn": "হাজার হাজার বছর ধরে চরম ক্ষয় প্রতিরোধের কারণে উচ্চ-স্তরের পারমাণবিক বর্জ্যের দীর্ঘমেয়াদী স্টোরেজ পাত্র।"
+},
+"militaryUses": {
+"en": "Armor plating, submarine hulls, and tactical lightweight equipment.",
+"bn": "বর্ম প্লেটিং, সাবমেরিনের হাল এবং কৌশলগত হালকা ওজনের সরঞ্জাম।"
+},
+"medicalUses": {
+"en": "Joint replacements, dental implants, and surgical instruments due to total bio-inertness and osseointegration.",
+"bn": "সম্পূর্ণ জৈব-নিষ্ক্রিয়তা এবং অস্টিও-ইন্টিগ্রেশনের কারণে জয়েন্ট প্রতিস্থাপন, দাঁতের ইমপ্লান্ট এবং অস্ত্রোপচারের সরঞ্জাম।"
+},
+"foodIndustryUses": {
+"en": "Historically used as a food whitener (E171), though recently phased out in several global markets.",
+"bn": "ঐতিহাসিকভাবে ফুড হোয়াইটনার (E171) হিসেবে ব্যবহৃত হয়, যদিও সম্প্রতি বেশ কয়েকটি বিশ্ববাজারে এটি বন্ধ করে দেওয়া হয়েছে।"
+},
+"constructionUses": {
+"en": "Architectural cladding for high-profile buildings, like the Guggenheim Museum Bilbao.",
+"bn": "গুগেনহেইম মিউজিয়াম বিলবাও-এর মতো হাই-প্রোফাইল বিল্ডিংয়ের জন্য স্থাপত্য ক্ল্যাডিং।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No known biological role in humans, though it is readily absorbed by certain plants.",
+"bn": "মানুষের শরীরে এর কোনো পরিচিত জৈবিক ভূমিকা নেই, যদিও কিছু উদ্ভিদ এটি সহজেই শোষণ করে।"
+},
+"humanBodyRole": {
+"en": "Biocompatible and non-toxic; ignored by the immune system, allowing bones to bond with it (osseointegration).",
+"bn": "জৈব-সামঞ্জস্যপূর্ণ এবং অ-বিষাক্ত; ইমিউন সিস্টেম একে উপেক্ষা করে, যা হাড়কে এর সাথে সংযুক্ত হতে দেয় (অস্টিও-ইন্টিগ্রেশন)।"
+},
+"toxicity": {
+"en": "Elemental titanium and its stable compounds are entirely non-toxic. However, titanium dioxide nanoparticles pose potential inhalation risks.",
+"bn": "মৌলিক টাইটানিয়াম এবং এর স্থিতিশীল যৌগগুলি সম্পূর্ণ অ-বিষাক্ত। তবে, টাইটানিয়াম ডাই অক্সাইড ন্যানো পার্টিকেল শ্বাসগ্রহণের সম্ভাব্য ঝুঁকি তৈরি করতে পারে।"
+},
+"environmentalImpact": {
+"en": "The metal itself has zero environmental footprint. However, the chlorination and Kroll extraction processes are highly energy-intensive.",
+"bn": "ধাতুটির নিজস্ব কোনো ক্ষতিকর পরিবেশগত প্রভাব নেই। তবে, ক্লোরিনেশন এবং ক্রোল নিষ্কাশন প্রক্রিয়াগুলিতে প্রচুর শক্তির প্রয়োজন হয়।"
+},
+"pollutionRisks": {
+"en": "Mining of ilmenite can cause habitat destruction, and titanium dioxide runoff is monitored in marine environments.",
+"bn": "ইলমেনাইট খনির কারণে আবাসস্থলের ধ্বংস হতে পারে এবং সামুদ্রিক পরিবেশে টাইটানিয়াম ডাই অক্সাইডের মিশ্রণ পর্যবেক্ষণ করা হয়।"
+},
+"recyclingMethods": {
+"en": "Highly recyclable via electron beam cold hearth melting and vacuum arc remelting of aerospace scrap.",
+"bn": "অ্যারোস্পেস স্ক্র্যাপের ইলেক্ট্রন বিম কোল্ড হার্থ মেল্টিং এবং ভ্যাকুয়াম আর্ক রিমেল্টিংয়ের মাধ্যমে অত্যন্ত পুনর্ব্যবহারযোগ্য।"
+},
+"sustainabilityScore": 8.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Japan",
+"bn": "জাপান"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+}
+],
+"miningMethods": {
+"en": "Mined from mineral sands (ilmenite and rutile) via open-pit dredging, followed by the Kroll process to produce titanium sponge.",
+"bn": "ওপেন-পিট ড্রেজিংয়ের মাধ্যমে খনিজ বালি (ইলমেনাইট এবং রুটাইল) থেকে উত্তোলন করা হয়, এরপর টাইটানিয়াম স্পঞ্জ তৈরির জন্য ক্রোল প্রক্রিয়া ব্যবহার করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.0003% by mass",
+"bn": "ভর অনুযায়ী ০.০০০৩%"
+},
+"earthCrust": {
+"en": "0.56% by mass (9th most abundant)",
+"bn": "ভর অনুযায়ী ০.৫৬% (নবম সর্বাধিক প্রচুর)"
+},
+"oceans": {
+"en": "0.000001% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০১%"
+}
+},
+"marketValue": {
+"en": "Titanium sponge is typically valued around $8 - $12 per kg, with specialized alloys costing significantly more.",
+"bn": "টাইটানিয়াম স্পঞ্জের মূল্য সাধারণত প্রতি কেজি ৮ - ১২ ডলারের কাছাকাছি, যেখানে বিশেষ সংকর ধাতুগুলির দাম উল্লেখযোগ্যভাবে বেশি।"
+},
+"futureDemand": {
+"en": "Rising sharply due to commercial aviation expansion and medical implant demands for aging populations.",
+"bn": "বাণিজ্যিক বিমান চালনার সম্প্রসারণ এবং বয়স্ক জনসংখ্যার জন্য মেডিকেল ইমপ্লান্টের চাহিদার কারণে দ্রুত বৃদ্ধি পাচ্ছে।"
+},
+"globalImportance": {
+"en": "A strategic critical metal necessary for national defense, advanced aeronautics, and global healthcare infrastructure.",
+"bn": "জাতীয় প্রতিরক্ষা, উন্নত অ্যারোনটিক্স এবং বৈশ্বিক স্বাস্থ্যসেবা অবকাঠামোর জন্য প্রয়োজনীয় একটি কৌশলগত গুরুত্বপূর্ণ ধাতু।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Fine titanium powder or shavings are highly pyrophoric and can ignite spontaneously in air.",
+"bn": "সূক্ষ্ম টাইটানিয়াম পাউডার বা শেভিংগুলো অত্যন্ত স্বতঃদাহ্য এবং বাতাসে স্বতঃস্ফূর্তভাবে জ্বলে উঠতে পারে।"
+},
+"storageRequirements": {
+"en": "Solid metal is safe. Powders must be stored under inert gases (like Argon) away from heat sources.",
+"bn": "কঠিন ধাতু নিরাপদ। পাউডারগুলিকে তাপের উত্স থেকে দূরে জড় গ্যাস (যেমন আর্গন) এর নিচে সংরক্ষণ করা আবশ্যক।"
+},
+"handlingProcedures": {
+"en": "Machining requires significant cooling liquids to prevent swarf ignition. Use Class D fire extinguishers for fires.",
+"bn": "মেশিনিংয়ের সময় অগ্নিকাণ্ড রোধ করতে প্রচুর কুলিং তরল প্রয়োজন। আগুন নেভাতে ক্লাস ডি (Class D) ফায়ার এক্সটিংগুইশার ব্যবহার করুন।"
+},
+"exposureRisks": {
+"en": "Chronic inhalation of fine TiO2 dust may cause respiratory irritation or pneumoconiosis.",
+"bn": "দীর্ঘস্থায়ী সূক্ষ্ম TiO2 ধুলো শ্বাসগ্রহণের ফলে শ্বাসযন্ত্রের জ্বালা বা নিউমোকোনিওসিস হতে পারে।"
+},
+"safetyLevel": {
+"en": "Low Risk (Solid) / High Risk (Powder)",
+"bn": "নিম্ন ঝুঁকি (কঠিন) / উচ্চ ঝুঁকি (গুঁড়ো)"
+},
+"hazardClassifications": [
+{
+"en": "Flammable Solid (Powder only)",
+"bn": "দাহ্য কঠিন (কেবলমাত্র গুঁড়ো)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Titanium is a super-strong, lightweight metal that looks like silver. It doesn't rust easily and is totally safe to put inside the human body, which makes it perfect for both airplanes and medical bones.",
+"bn": "টাইটানিয়াম একটি অতি-শক্তিশালী, হালকা ওজনের ধাতু যা দেখতে রূপার মতো। এটি সহজে মরিচা পড়ে না এবং মানবদেহের অভ্যন্তরে রাখার জন্য সম্পূর্ণ নিরাপদ, যা এটিকে বিমান এবং মেডিকেল হাড় উভয়ের জন্য নিখুঁত করে তোলে।"
+},
+"advancedExplanation": {
+"en": "A Group 4 transition metal characterized by its excellent strength-to-density ratio and remarkable corrosion resistance via rapid surface passivation. Its allotropic transformation from alpha (hcp) to beta (bcc) phases allows intricate metallurgical tailoring for high-stress applications.",
+"bn": "একটি গ্রুপ 4 অবস্থান্তর ধাতু যা এর চমৎকার শক্তি-ঘনত্ব অনুপাত এবং দ্রুত পৃষ্ঠতল প্যাসিভেশনের মাধ্যমে উল্লেখযোগ্য ক্ষয় প্রতিরোধের দ্বারা চিহ্নিত। আলফা (hcp) থেকে বিটা (bcc) পর্যায়ে এর অ্যালোট্রপিক রূপান্তর উচ্চ-চাপ প্রয়োগের জন্য জটিল মেটালার্জিক্যাল গঠনের সুযোগ দেয়।"
+},
+"funFacts": [
+{
+"en": "It is the only element that can burn in a completely pure Nitrogen atmosphere.",
+"bn": "এটি একমাত্র উপাদান যা সম্পূর্ণ বিশুদ্ধ নাইট্রোজেন বায়ুমণ্ডলে পুড়তে পারে।"
+},
+{
+"en": "The SR-71 Blackbird spy plane was made of 85% titanium, secretly bought from the Soviet Union during the Cold War.",
+"bn": "এসআর-৭১ ব্ল্যাকবার্ড স্পাই প্লেনটি ৮৫% টাইটানিয়াম দিয়ে তৈরি করা হয়েছিল, যা স্নায়ুযুদ্ধের সময় গোপনে সোভিয়েত ইউনিয়নের কাছ থেকে কেনা হয়েছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 26,
+"relation": {
+"en": "Titanium is 45% lighter than steel (iron alloy) but just as strong, though significantly more expensive to extract.",
+"bn": "টাইটানিয়াম স্টিল (লোহার সংকর ধাতু) এর চেয়ে ৪৫% হালকা কিন্তু একই রকম শক্তিশালী, যদিও এটি নিষ্কাশন করা অনেক বেশি ব্যয়বহুল।"
+}
+},
+{
+"compareWithId": 13,
+"relation": {
+"en": "Compared to aluminum, titanium is 60% heavier but twice as strong, bridging the gap between light and heavy metals.",
+"bn": "অ্যালুমিনিয়ামের তুলনায়, টাইটানিয়াম ৬০% ভারী কিন্তু দ্বিগুণ শক্তিশালী, যা হালকা এবং ভারী ধাতুর মধ্যে ব্যবধান কমিয়ে দেয়।"
+}
+}
+],
+"relatedElements": [21, 23, 40, 13, 26],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the primary industrial process used to extract pure titanium from its ore?",
+"bn": "আকরিক থেকে বিশুদ্ধ টাইটানিয়াম নিষ্কাশন করতে ব্যবহৃত প্রাথমিক শিল্প প্রক্রিয়া কোনটি?"
+},
+"options": [
+{
+"en": "Haber Process",
+"bn": "হ্যাবার প্রক্রিয়া"
+},
+{
+"en": "Bayer Process",
+"bn": "বেয়ার প্রক্রিয়া"
+},
+{
+"en": "Kroll Process",
+"bn": "ক্রোল প্রক্রিয়া"
+},
+{
+"en": "Ostwald Process",
+"bn": "অস্টওয়াল্ড প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Kroll process reduces titanium tetrachloride with magnesium to produce porous 'titanium sponge'.",
+"bn": "ক্রোল প্রক্রিয়ায় ছিদ্রযুক্ত 'টাইটানিয়াম স্পঞ্জ' তৈরি করতে ম্যাগনেসিয়াম ব্যবহার করে টাইটানিয়াম টেট্রাক্লোরাইডকে বিজারিত করা হয়।"
+}
+},
+{
+"question": {
+"en": "What accounts for over 90% of all titanium mined globally?",
+"bn": "বিশ্বব্যাপী খনন করা সমস্ত টাইটানিয়ামের ৯০% এরও বেশি কী কাজে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Aerospace alloys",
+"bn": "মহাকাশ সংকর ধাতু"
+},
+{
+"en": "Medical implants",
+"bn": "মেডিকেল ইমপ্লান্ট"
+},
+{
+"en": "Military armor",
+"bn": "সামরিক বর্ম"
+},
+{
+"en": "Titanium dioxide pigment",
+"bn": "টাইটানিয়াম ডাই অক্সাইড পিগমেন্ট"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The vast majority of titanium is refined into TiO2, a brilliantly white, highly opaque pigment used in paint, paper, and plastics.",
+"bn": "টাইটানিয়ামের বিশাল অংশ TiO2 তে পরিশোধিত হয়, যা একটি উজ্জ্বল সাদা, অত্যন্ত অস্বচ্ছ পিগমেন্ট যা পেইন্ট, কাগজ এবং প্লাস্টিকগুলিতে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "Why is titanium widely used in medical implants like artificial hips and dental roots?",
+"bn": "কৃত্রিম নিতম্ব এবং দাঁতের শিকড়ের মতো মেডিকেল ইমপ্লান্টগুলিতে কেন টাইটানিয়াম ব্যাপকভাবে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "It dissolves slowly in the blood",
+"bn": "এটি রক্তে ধীরে ধীরে দ্রবীভূত হয়"
+},
+{
+"en": "It is completely bio-inert and undergoes osseointegration",
+"bn": "এটি সম্পূর্ণ জৈব-নিষ্ক্রিয় এবং অস্টিও-ইন্টিগ্রেশনের মধ্য দিয়ে যায়"
+},
+{
+"en": "It generates electricity to stimulate bone growth",
+"bn": "এটি হাড়ের বৃদ্ধিকে উদ্দীপিত করতে বিদ্যুৎ উৎপন্ন করে"
+},
+{
+"en": "It is cheaper than stainless steel",
+"bn": "এটি স্টেইনলেস স্টিলের চেয়ে সস্তা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The human body does not reject titanium; living bone naturally grows and physically bonds with its oxidized surface.",
+"bn": "মানবদেহ টাইটানিয়ামকে প্রত্যাখ্যান করে না; জীবন্ত হাড় প্রাকৃতিকভাবে বৃদ্ধি পায় এবং এর জারিত পৃষ্ঠের সাথে শারীরিকভাবে যুক্ত হয়।"
+}
+},
+{
+"question": {
+"en": "What is the most widely used titanium alloy in the aerospace industry?",
+"bn": "মহাকাশ শিল্পে সর্বাধিক ব্যবহৃত টাইটানিয়াম সংকর ধাতু কোনটি?"
+},
+"options": [
+{
+"en": "Ti-6Al-4V",
+"bn": "Ti-6Al-4V"
+},
+{
+"en": "Ti-3Al-2.5V",
+"bn": "Ti-3Al-2.5V"
+},
+{
+"en": "Nitinol",
+"bn": "নিটিনল"
+},
+{
+"en": "Titanium aluminide",
+"bn": "টাইটানিয়াম অ্যালুমিনাইড"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Titanium Grade 5 (Ti-6Al-4V) combines 6% aluminum and 4% vanadium to offer an exceptional balance of strength and formability.",
+"bn": "টাইটানিয়াম গ্রেড ৫ (Ti-6Al-4V) এ ৬% অ্যালুমিনিয়াম এবং ৪% ভ্যানাডিয়াম থাকে যা শক্তি এবং গঠনযোগ্যতার একটি ব্যতিক্রমী ভারসাম্য প্রদান করে।"
+}
+},
+{
+"question": {
+"en": "At what temperature does pure titanium transition from its alpha (hexagonal) structure to its beta (cubic) structure?",
+"bn": "কোন তাপমাত্রায় খাঁটি টাইটানিয়াম এর আলফা (ষড়ভুজাকার) কাঠামো থেকে বিটা (ঘনক) কাঠামোতে রূপান্তরিত হয়?"
+},
+"options": [
+{
+"en": "100 °C",
+"bn": "১০০ °C"
+},
+{
+"en": "882 °C",
+"bn": "৮৮২ °C"
+},
+{
+"en": "1668 °C",
+"bn": "১৬৬৮ °C"
+},
+{
+"en": "1941 °C",
+"bn": "১৯৪১ °C"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The transus temperature is 882°C. Alloying elements like Aluminum stabilize the alpha phase, while Vanadium stabilizes the beta phase.",
+"bn": "ট্রান্সাস তাপমাত্রা হলো ৮৮২°C। অ্যালুমিনিয়ামের মতো সংকর উপাদানগুলি আলফা ফেজকে স্থিতিশীল করে, অন্যদিকে ভ্যানাডিয়াম বিটা ফেজকে স্থিতিশীল করে।"
+}
+},
+{
+"question": {
+"en": "Which unique and extreme chemical reaction can titanium undergo that most other metals cannot?",
+"bn": "কোন অনন্য এবং চরম রাসায়নিক বিক্রিয়ার মধ্য দিয়ে টাইটানিয়াম যেতে পারে যা অন্য বেশিরভাগ ধাতু পারে না?"
+},
+"options": [
+{
+"en": "It dissolves in pure water",
+"bn": "এটি বিশুদ্ধ জলে দ্রবীভূত হয়"
+},
+{
+"en": "It burns in a pure Nitrogen atmosphere at 800°C",
+"bn": "এটি ৮০০°C তাপমাত্রায় একটি বিশুদ্ধ নাইট্রোজেন বায়ুমণ্ডলে পুড়তে পারে"
+},
+{
+"en": "It sublimates at room temperature",
+"bn": "এটি ঘরের তাপমাত্রায় সরাসরি গ্যাসে পরিণত হয়"
+},
+{
+"en": "It reacts explosively with inert argon",
+"bn": "এটি নিষ্ক্রিয় আর্গনের সাথে বিস্ফোরকভাবে বিক্রিয়া করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Titanium is one of the few elements that burns in nitrogen gas, forming titanium nitride (TiN).",
+"bn": "টাইটানিয়াম হল কয়েকটি উপাদানের মধ্যে একটি যা নাইট্রোজেন গ্যাসে পুড়ে টাইটানিয়াম নাইট্রাইড (TiN) গঠন করে।"
+}
+},
+{
+"question": {
+"en": "What causes titanium's outstanding resistance to corrosion, even in seawater or chlorine environments?",
+"bn": "এমনকি সমুদ্রের জল বা ক্লোরিন পরিবেশেও টাইটানিয়ামের অসামান্য ক্ষয় প্রতিরোধের কারণ কী?"
+},
+"options": [
+{
+"en": "Its high density",
+"bn": "এর উচ্চ ঘনত্ব"
+},
+{
+"en": "It repels water naturally",
+"bn": "এটি প্রাকৃতিকভাবে জল বিকর্ষণ করে"
+},
+{
+"en": "The rapid formation of a passive, impenetrable oxide film (TiO2)",
+"bn": "একটি নিষ্ক্রিয়, অভেদ্য অক্সাইড ফিল্মের (TiO2) দ্রুত গঠন"
+},
+{
+"en": "Its magnetic field",
+"bn": "এর চৌম্বক ক্ষেত্র"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like aluminum, titanium immediately reacts with oxygen to form a microscopic, self-healing oxide barrier that protects the inner metal.",
+"bn": "অ্যালুমিনিয়ামের মতো, টাইটানিয়াম অবিলম্বে অক্সিজেনের সাথে বিক্রিয়া করে একটি মাইক্রোস্কোপিক, স্ব-নিরাময়কারী অক্সাইড বাধা তৈরি করে যা ভিতরের ধাতুকে রক্ষা করে।"
+}
+},
+{
+"question": {
+"en": "What is the common oxidation state of titanium in its most stable compounds?",
+"bn": "টাইটানিয়ামের সবচেয়ে স্থিতিশীল যৌগগুলোতে এর সাধারণ জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Titanium typically loses all four of its valence electrons (two 4s and two 3d) to achieve a stable +4 oxidation state (e.g., TiO2, TiCl4).",
+"bn": "টাইটানিয়াম সাধারণত একটি স্থিতিশীল +৪ জারণ অবস্থা (যেমন, TiO2, TiCl4) অর্জন করতে তার চারটি ভ্যালেন্স ইলেকট্রন (দুটি 4s এবং দুটি 3d) হারায়।"
+}
+},
+{
+"question": {
+"en": "Why cannot titanium be extracted from its ores using carbon smelting, unlike iron?",
+"bn": "লোহার মত কার্বন গলানোর মাধ্যমে কেন আকরিক থেকে টাইটানিয়াম নিষ্কাশন করা যায় না?"
+},
+"options": [
+{
+"en": "Carbon is too expensive",
+"bn": "কার্বন খুব ব্যয়বহুল"
+},
+{
+"en": "It reacts with carbon to form brittle titanium carbide instead of pure metal",
+"bn": "এটি খাঁটি ধাতুর পরিবর্তে কার্বনের সাথে বিক্রিয়া করে ভঙ্গুর টাইটানিয়াম কার্বাইড তৈরি করে"
+},
+{
+"en": "It requires a vacuum",
+"bn": "এর জন্য একটি শূন্যস্থান প্রয়োজন"
+},
+{
+"en": "It vaporizes before melting",
+"bn": "এটি গলে যাওয়ার আগে বাষ্পীভূত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Titanium strongly bonds with carbon at high temperatures, producing titanium carbide, making standard carbothermic reduction useless.",
+"bn": "টাইটানিয়াম উচ্চ তাপমাত্রায় কার্বনের সাথে দৃঢ়ভাবে বন্ধন তৈরি করে টাইটানিয়াম কার্বাইড তৈরি করে, যা প্রচলিত কার্বোথার্মিক বিজারণকে অকেজো করে দেয়।"
+}
+},
+{
+"question": {
+"en": "Which famous shape-memory alloy is a roughly 50-50 mix of titanium and nickel?",
+"bn": "কোন বিখ্যাত আকৃতি-মেমরি সংকর ধাতু টাইটানিয়াম এবং নিকেলের প্রায় ৫০-৫০ মিশ্রণ?"
+},
+"options": [
+{
+"en": "Inconel",
+"bn": "ইনকোনেল"
+},
+{
+"en": "Nitinol",
+"bn": "নিটিনল"
+},
+{
+"en": "Monel",
+"bn": "মোনেল"
+},
+{
+"en": "Zircaloy",
+"bn": "জিরকালয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nitinol (Nickel Titanium Naval Ordnance Laboratory) can be deformed when cold and return to its pre-programmed shape when heated.",
+"bn": "নিটিনল (নিকেল টাইটানিয়াম নেভাল অর্ডন্যান্স ল্যাবরেটরি) ঠান্ডা হলে বিকৃত হতে পারে এবং উত্তপ্ত হলে তার আগে থেকে নির্ধারিত আকারে ফিরে আসতে পারে।"
+}
+},
+{
+"question": {
+"en": "Who is credited with discovering titanium in 1791?",
+"bn": "১৭৯১ সালে টাইটানিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+},
+"options": [
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+},
+{
+"en": "Dmitri Mendeleev",
+"bn": "দিমিত্রি মেন্ডেলিভ"
+},
+{
+"en": "William Gregor",
+"bn": "উইলিয়াম গ্রেগর"
+},
+{
+"en": "Antoine Lavoisier",
+"bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Reverend William Gregor, a British clergyman and mineralogist, first discovered titanium in black sand from a stream in Cornwall.",
+"bn": "রেভারেন্ড উইলিয়াম গ্রেগর, একজন ব্রিটিশ পাদ্রী এবং খনিজবিদ, কর্নওয়ালের একটি স্রোতের কালো বালি থেকে প্রথম টাইটানিয়াম আবিষ্কার করেন।"
+}
+},
+{
+"question": {
+"en": "Titanium Nitride (TiN) is famously used as a coating for what type of equipment due to its extreme hardness and golden appearance?",
+"bn": "টাইটানিয়াম নাইট্রাইড (TiN) এর চরম কঠোরতা এবং সোনালী চেহারার কারণে কোন ধরনের সরঞ্জামের আবরণ হিসাবে বিখ্যাতভাবে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Optical lenses",
+"bn": "অপটিক্যাল লেন্স"
+},
+{
+"en": "Drill bits and machine tooling",
+"bn": "ড্রিল বিট এবং মেশিনের সরঞ্জাম"
+},
+{
+"en": "Electrical wiring",
+"bn": "বৈদ্যুতিক তার"
+},
+{
+"en": "Submarine hulls",
+"bn": "সাবমেরিনের হাল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "TiN is heavily applied to drill bits and milling cutters to improve tool life by reducing friction and providing a wear-resistant surface.",
+"bn": "TiN ব্যাপকভাবে ড্রিল বিট এবং মিলিং কাটারে প্রয়োগ করা হয় যাতে ঘর্ষণ কমিয়ে এবং একটি পরিধান-প্রতিরোধী পৃষ্ঠ প্রদান করে টুলের আয়ু বৃদ্ধি করা যায়।"
+}
+},
+{
+"question": {
+"en": "What is the primary danger when handling solid titanium during machining or milling?",
+"bn": "মেশিনিং বা মিলিংয়ের সময় কঠিন টাইটানিয়াম পরিচালনার ক্ষেত্রে প্রধান বিপদ কী?"
+},
+"options": [
+{
+"en": "Radiation emission",
+"bn": "তেজস্ক্রিয় বিকিরণ"
+},
+{
+"en": "Toxic gas release",
+"bn": "বিষাক্ত গ্যাস নির্গমন"
+},
+{
+"en": "The generated chips/dust can catch fire (pyrophoric)",
+"bn": "তৈরি হওয়া চিপস/ধুলোতে আগুন ধরতে পারে (স্বতঃদাহ্য)"
+},
+{
+"en": "It shatters like glass",
+"bn": "এটি কাঁচের মতো টুকরো টুকরো হয়ে যায়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Fine particles or shavings of titanium are highly flammable and can ignite spontaneously, requiring special cooling liquids.",
+"bn": "টাইটানিয়ামের সূক্ষ্ম কণা বা শেভিংগুলি অত্যন্ত দাহ্য এবং স্বতঃস্ফূর্তভাবে জ্বলতে পারে, যার জন্য বিশেষ শীতল তরল প্রয়োজন।"
+}
+},
+{
+"question": {
+"en": "What two minerals are the primary commercial sources of titanium?",
+"bn": "কোন দুটি খনিজ টাইটানিয়ামের প্রাথমিক বাণিজ্যিক উৎস?"
+},
+"options": [
+{
+"en": "Bauxite and Cryolite",
+"bn": "বক্সাইট এবং ক্রায়োলাইট"
+},
+{
+"en": "Ilmenite and Rutile",
+"bn": "ইলমেনাইট এবং রুটাইল"
+},
+{
+"en": "Hematite and Magnetite",
+"bn": "হেমাটাইট এবং ম্যাগনেটাইট"
+},
+{
+"en": "Galena and Sphalerite",
+"bn": "গ্যালেনা এবং স্ফ্যালেরাইট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ilmenite (FeTiO3) accounts for about 90% of consumption, while rutile (pure TiO2) accounts for the rest.",
+"bn": "ইলমেনাইট (FeTiO3) ব্যবহারের প্রায় ৯০% গঠন করে, অন্যদিকে রুটাইল (বিশুদ্ধ TiO2) বাকি অংশ গঠন করে।"
+}
+},
+{
+"question": {
+"en": "In the context of submersibles and naval applications, why is titanium often preferred over steel?",
+"bn": "সাবমার্সিবল এবং নৌবাহিনীর অ্যাপ্লিকেশনগুলির প্রেক্ষাপটে, কেন প্রায়ই স্টিলের চেয়ে টাইটানিয়ামকে বেশি পছন্দ করা হয়?"
+},
+"options": [
+{
+"en": "It is cheaper to manufacture",
+"bn": "এটি তৈরি করা সস্তা"
+},
+{
+"en": "It is magnetic, aiding in navigation",
+"bn": "এটি চৌম্বকীয়, নেভিগেশনে সাহায্য করে"
+},
+{
+"en": "It is non-magnetic, lighter, and completely unaffected by saltwater corrosion",
+"bn": "এটি অ-চৌম্বকীয়, হালকা এবং লবণাক্ত জলের ক্ষয় দ্বারা সম্পূর্ণরূপে প্রভাবিত হয় না"
+},
+{
+"en": "It produces oxygen underwater",
+"bn": "এটি জলের নিচে অক্সিজেন তৈরি করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Titanium's high strength, low weight, and absolute immunity to marine corrosion make it the ultimate (though expensive) material for deep-sea vehicles.",
+"bn": "টাইটানিয়ামের উচ্চ শক্তি, কম ওজন এবং সামুদ্রিক ক্ষয়ের প্রতি পরম অনাক্রম্যতা এটিকে গভীর সমুদ্রের যানবাহনের জন্য চূড়ান্ত (যদিও ব্যয়বহুল) উপাদান করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What is the electron configuration of a neutral titanium atom?",
+"bn": "একটি নিরপেক্ষ টাইটানিয়াম পরমাণুর ইলেকট্রন বিন্যাস কী?"
+},
+"options": [
+{
+"en": "[Ar] 3d¹ 4s²",
+"bn": "[Ar] 3d¹ 4s²"
+},
+{
+"en": "[Ar] 3d² 4s²",
+"bn": "[Ar] 3d² 4s²"
+},
+{
+"en": "[Ar] 4s² 4p²",
+"bn": "[Ar] 4s² 4p²"
+},
+{
+"en": "[Kr] 4d² 5s²",
+"bn": "[Kr] 4d² 5s²"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "With atomic number 22, titanium builds on the Argon core (18) by adding 2 electrons to the 4s orbital and 2 to the 3d orbital.",
+"bn": "পারমাণবিক সংখ্যা ২২ বিশিষ্ট, টাইটানিয়াম 4s অরবিটালে ২ টি এবং 3d অরবিটালে ২ টি ইলেকট্রন যুক্ত করে আর্গন কোর (১৮) এর উপর গঠিত হয়।"
+}
+},
+{
+"question": {
+"en": "How does titanium interact with the human immune system when implanted?",
+"bn": "মানবদেহে প্রতিস্থাপন করা হলে টাইটানিয়াম কীভাবে মানুষের ইমিউন সিস্টেমের সাথে মিথস্ক্রিয়া করে?"
+},
+"options": [
+{
+"en": "It triggers severe inflammation",
+"bn": "এটি তীব্র প্রদাহ সৃষ্টি করে"
+},
+{
+"en": "It slowly poisons nearby cells",
+"bn": "এটি ধীরে ধীরে কাছাকাছি কোষকে বিষাক্ত করে তোলে"
+},
+{
+"en": "It is essentially ignored, eliciting almost no immune response",
+"bn": "এটিকে মূলত এড়িয়ে যাওয়া হয়, এটি প্রায় কোন ইমিউন প্রতিক্রিয়া প্রকাশ করে না"
+},
+{
+"en": "It breaks down into calcium",
+"bn": "এটি ক্যালসিয়ামে ভেঙে যায়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Titanium's oxide layer is so stable and unreactive that the body's immune system doesn't register it as a foreign invader.",
+"bn": "টাইটানিয়ামের অক্সাইড স্তর এতটাই স্থিতিশীল এবং প্রতিক্রিয়াহীন যে শরীরের ইমিউন সিস্টেম এটিকে বাইরের আক্রমণকারী হিসাবে চিহ্নিত করে না।"
+}
+},
+{
+"question": {
+"en": "What is 'titanium sponge'?",
+"bn": "'টাইটানিয়াম স্পঞ্জ' কী?"
+},
+"options": [
+{
+"en": "A cleaning tool for laboratory equipment",
+"bn": "গবেষণাগারের সরঞ্জাম পরিষ্কার করার একটি হাতিয়ার"
+},
+{
+"en": "A highly porous form of pure titanium produced during the Kroll process",
+"bn": "ক্রোল প্রক্রিয়ার সময় উৎপাদিত বিশুদ্ধ টাইটানিয়ামের একটি অত্যন্ত ছিদ্রযুক্ত রূপ"
+},
+{
+"en": "A type of marine organism that absorbs titanium from the ocean",
+"bn": "এক ধরনের সামুদ্রিক প্রাণী যা সমুদ্র থেকে টাইটানিয়াম শোষণ করে"
+},
+{
+"en": "A medical dressing for severe wounds",
+"bn": "মারাত্মক ক্ষতের জন্য একটি চিকিৎসা ড্রেসিং"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The reduction step of the Kroll process yields a porous, sponge-like mass of pure metal that must be melted down in a vacuum before use.",
+"bn": "ক্রোল প্রক্রিয়ার বিজারণ ধাপে বিশুদ্ধ ধাতুর একটি ছিদ্রযুক্ত, স্পঞ্জের মতো ভর পাওয়া যায় যা ব্যবহারের আগে শূন্যস্থানে গলিয়ে নিতে হয়।"
+}
+},
+{
+"question": {
+"en": "Why does a piece of titanium often exhibit beautiful rainbow colors when anodized?",
+"bn": "অ্যানোডাইজ করা হলে প্রায়শই টাইটানিয়ামের টুকরোতে কেন সুন্দর রংধনু রং দেখা যায়?"
+},
+"options": [
+{
+"en": "Dyes are added to the metal",
+"bn": "ধাতুতে রং মেশানো হয়"
+},
+{
+"en": "Light interference caused by the precisely controlled thickness of the transparent oxide layer",
+"bn": "স্বচ্ছ অক্সাইড স্তরের সুনির্দিষ্টভাবে নিয়ন্ত্রিত বেধের কারণে আলোর হস্তক্ষেপ"
+},
+{
+"en": "Radioactive decay",
+"bn": "তেজস্ক্রিয় ক্ষয়"
+},
+{
+"en": "Oxidation states changing continuously",
+"bn": "জারণ অবস্থা অবিচ্ছিন্নভাবে পরিবর্তিত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Anodizing titanium grows the transparent oxide layer. Different voltages create different thicknesses, which refract light to produce structural color without pigment.",
+"bn": "টাইটানিয়াম অ্যানোডাইজিং করার ফলে স্বচ্ছ অক্সাইড স্তর বৃদ্ধি পায়। বিভিন্ন ভোল্টেজ বিভিন্ন বেধ তৈরি করে, যা কোনো পিগমেন্ট ছাড়াই গঠনগত রঙ তৈরি করতে আলোকে প্রতিসৃত করে।"
+}
+},
+{
+"question": {
+"en": "Which of the following environments poses the greatest risk of catastrophic failure for solid titanium components due to rapid chemical reaction?",
+"bn": "দ্রুত রাসায়নিক বিক্রিয়ার কারণে কঠিন টাইটানিয়াম উপাদানের বিপর্যয়কর ব্যর্থতার সবচেয়ে বড় ঝুঁকি তৈরি করে নিচের কোন পরিবেশটি?"
+},
+"options": [
+{
+"en": "High pressure saltwater",
+"bn": "উচ্চ চাপের লবণাক্ত জল"
+},
+{
+"en": "Pure liquid oxygen systems",
+"bn": "বিশুদ্ধ তরল অক্সিজেন সিস্টেম"
+},
+{
+"en": "High temperature steam",
+"bn": "উচ্চ তাপমাত্রার বাষ্প"
+},
+{
+"en": "Concentrated ammonia",
+"bn": "ঘনীভূত অ্যামোনিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In highly oxygen-enriched environments, a freshly scratched titanium surface can violently and spontaneously ignite.",
+"bn": "অত্যধিক অক্সিজেন-সমৃদ্ধ পরিবেশে, টাইটানিয়ামের একটি নতুন আঁচড় লাগা পৃষ্ঠ হিংস্রভাবে এবং স্বতঃস্ফূর্তভাবে জ্বলতে পারে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Titanium is an extremely rare and precious metal.",
+"bn": "টাইটানিয়াম একটি অত্যন্ত বিরল এবং মূল্যবান ধাতু।"
+},
+{
+"en": "Titanium is completely indestructible.",
+"bn": "টাইটানিয়াম সম্পূর্ণরূপে অবিনশ্বর।"
+}
+],
+"learningTips": [
+{
+"en": "Titanium starts with 'Ti'. Remember its atomic number 22 - two T's look a bit like two 2s.",
+"bn": "টাইটানিয়াম 'Ti' দিয়ে শুরু হয়। এর পারমাণবিক সংখ্যা ২২ মনে রাখুন - দুটি T দেখতে অনেকটা দুটি 2-এর মতো।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "TiCl₄ + 2Mg → Ti + 2MgCl₂",
+"description": {
+"en": "The Kroll process: Reduction of titanium tetrachloride by magnesium to form elemental titanium.",
+"bn": "ক্রোল প্রক্রিয়া: টাইটানিয়াম টেট্রাক্লোরাইডকে ম্যাগনেসিয়াম দ্বারা বিজারিত করে মৌলিক টাইটানিয়াম গঠন।"
+}
+},
+{
+"equation": "Ti + O₂ → TiO₂",
+"description": {
+"en": "Oxidation of titanium in air, forming the passivating titanium dioxide layer.",
+"bn": "বাতাসে টাইটানিয়ামের জারণ, যা প্যাসিভেটিং টাইটানিয়াম ডাই অক্সাইড স্তর গঠন করে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Ti → Ti⁴⁺ + 4e⁻",
+"description": {
+"en": "Standard oxidation of titanium to its most stable +4 state.",
+"bn": "টাইটানিয়ামের সবচেয়ে স্থিতিশীল +৪ অবস্থায় মানক জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Ti⁴⁺ + 4e⁻ → Ti",
+"description": {
+"en": "Reduction of titanium(IV) to titanium metal, central to electrometallurgical processes.",
+"bn": "টাইটানিয়াম(IV) কে টাইটানিয়াম ধাতুতে বিজারণ, যা ইলেক্ট্রোমেটালার্জিকাল প্রক্রিয়াগুলির কেন্দ্রবিন্দু।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Metallic Bond",
+"bn": "ধাতব বন্ধন"
+},
+"molecule": "Ti(s)",
+"description": {
+"en": "Delocalized d-electrons strongly bind the titanium atoms in a close-packed crystal lattice.",
+"bn": "ডিলোকালাইজড ডি-ইলেকট্রনগুলো টাইটানিয়াম পরমাণুগুলোকে একটি ক্লোজ-প্যাকড ক্রিস্টাল ল্যাটিসে দৃঢ়ভাবে আবদ্ধ করে।"
+}
+},
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "TiCl₄",
+"description": {
+"en": "Titanium forms distinct covalent bonds with chlorine, resulting in a volatile liquid at room temperature.",
+"bn": "টাইটানিয়াম ক্লোরিনের সাথে স্বতন্ত্র সমযোজী বন্ধন তৈরি করে, যার ফলে ঘরের তাপমাত্রায় এটি একটি উদ্বায়ী তরলে পরিণত হয়।"
+}
+}
+]
+}
+}

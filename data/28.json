@@ -1,0 +1,1023 @@
+{
+"elementId": 28,
+"basicInformation": {
+"atomicNumber": 28,
+"symbol": "Ni",
+"name": {
+"en": "Nickel",
+"bn": "নিকেল"
+},
+"pronunciation": {
+"en": "/ˈnɪkəl/",
+"bn": "নি-কেল"
+},
+"atomicMass": 58.693,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 10,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Lustrous, silvery with a gold tinge",
+"bn": "চকচকে, সোনার আভাযুক্ত রূপালী"
+},
+"color": {
+"en": "Silvery-white",
+"bn": "রূপালী-সাদা"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Axel Fredrik Cronstedt",
+"bn": "অ্যাক্সেল ফ্রেডরিক ক্রনস্টেড"
+},
+"discoveryYear": 1751,
+"discoveryLocation": {
+"en": "Sweden",
+"bn": "সুইডেন"
+},
+"discoveryStory": {
+"en": "Cronstedt attempted to extract copper from a mineral called kupfernickel (false copper). Instead of copper, he obtained a mysterious, highly magnetic white metal which he named 'nickel' after the mischievous sprite 'Nickel' from German mythology.",
+"bn": "ক্রনস্টেড কুফারনিকেল (মিথ্যা তামা) নামক একটি খনিজ থেকে তামা নিষ্কাশনের চেষ্টা করেছিলেন। তামার পরিবর্তে, তিনি একটি রহস্যময়, অত্যন্ত চৌম্বকীয় সাদা ধাতু পান যার নাম তিনি জার্মান পৌরাণিক কাহিনীর দুষ্টু আত্মা 'নিকেল'-এর নামানুসারে 'নিকেল' রাখেন।"
+},
+"historicalUses": {
+"en": "Ancient artifacts show meteoric iron-nickel alloys used for tools and weapons long before the element was officially discovered. Later, it was heavily used in early modern coin minting and plating.",
+"bn": "প্রাচীন নিদর্শনগুলি দেখায় যে উপাদানটি আনুষ্ঠানিকভাবে আবিষ্কৃত হওয়ার অনেক আগে উল্কা থেকে প্রাপ্ত লোহা-নিকেল খাদ সরঞ্জাম এবং অস্ত্রের জন্য ব্যবহৃত হয়েছিল। পরে, এটি আধুনিক প্রাথমিক মুদ্রণ এবং প্রলেপের কাজে ব্যাপকভাবে ব্যবহৃত হয়।"
+},
+"famousExperiments": {
+"en": "Ludwig Mond's experiment in 1890 discovering nickel tetracarbonyl, which led to the Mond process for producing highly pure nickel.",
+"bn": "১৮৯০ সালে লুডভিগ মন্ডের পরীক্ষা যেখানে নিকেল টেট্রাকার্বনিল আবিষ্কৃত হয়, যা অত্যন্ত বিশুদ্ধ নিকেল উৎপাদনের জন্য মন্ড প্রক্রিয়ার দিকে পরিচালিত করে।"
+}
+},
+"atomicStructure": {
+"protons": 28,
+"neutrons": 31,
+"electrons": 28,
+"valenceElectrons": 2,
+"shells": 4,
+"shellDistribution": [
+2,
+8,
+16,
+2
+],
+"electronConfiguration": "[Ar] 3d⁸ 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 8,
+"4s": 2
+},
+"oxidationStates": [
+-2,
+-1,
+0,
+1,
+2,
+3,
+4
+],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 2,
+"magnetic": 0,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 8.908,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1728,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 3186,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 149,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 124,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 163,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 90.9,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 14300000,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.444,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 4.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Face-centered cubic",
+"bn": "পৃষ্ঠকেন্দ্রিক ঘনক"
+},
+"magneticOrdering": {
+"en": "Ferromagnetic",
+"bn": "ফেরোম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.91,
+"ionizationEnergy": {
+"value": 737.1,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 111.6,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Moderately reactive; highly resistant to corrosion and oxidation due to a protective oxide layer. Dissolves slowly in dilute acids.",
+"bn": "পরিমিত প্রতিক্রিয়াশীল; একটি প্রতিরক্ষামূলক অক্সাইড স্তরের কারণে ক্ষয় এবং জারণের জন্য অত্যন্ত প্রতিরোধী। লঘু অ্যাসিডে ধীরে ধীরে দ্রবীভূত হয়।"
+},
+"commonCompounds": [
+"NiO",
+"NiCl₂",
+"NiSO₄",
+"Ni(OH)₂",
+"Ni(CO)₄"
+],
+"flameTestColor": {
+"en": "Colorless / None",
+"bn": "বর্ণহীন / কোনটি নয়"
+},
+"spectralLines": [
+"341.48nm",
+"352.45nm",
+"361.94nm"
+]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Primary alloying element in the production of stainless steel and various corrosion-resistant superalloys.",
+"bn": "স্টেইনলেস স্টিল এবং বিভিন্ন ক্ষয়-প্রতিরোধী সুপারঅ্যালয় উৎপাদনে প্রাথমিক সংকর উপাদান।"
+},
+"commercialUses": {
+"en": "Electroplating for protective coatings, coin manufacturing, guitar strings, and permanent magnets.",
+"bn": "প্রতিরক্ষামূলক আবরণের জন্য ইলেক্ট্রোপ্লেটিং, মুদ্রা তৈরি, গিটারের তার এবং স্থায়ী চুম্বক।"
+},
+"electronicsUses": {
+"en": "Magnetic shielding in electronic devices and lead frames in integrated circuits.",
+"bn": "ইলেকট্রনিক ডিভাইসে ম্যাগনেটিক শিল্ডিং এবং ইন্টিগ্রেটেড সার্কিটে লিড ফ্রেম।"
+},
+"semiconductorUses": {
+"en": "Nickel silicide is used as a contact material in silicon semiconductor devices due to its low resistivity.",
+"bn": "নিকেল সিসিলিসাইড এর কম রোধের কারণে সিলিকন সেমিকন্ডাক্টর ডিভাইসে যোগাযোগের উপাদান হিসাবে ব্যবহৃত হয়।"
+},
+"aerospaceUses": {
+"en": "Nickel-based superalloys (like Inconel) are critical for jet engine turbine blades due to high-temperature strength.",
+"bn": "উচ্চ-তাপমাত্রার শক্তির কারণে জেট ইঞ্জিন টারবাইন ব্লেডগুলির জন্য নিকেল-ভিত্তিক সুপারঅ্যালয় (যেমন ইনকোনেল) অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"batteryUses": {
+"en": "Essential component in lithium-ion (NMC, NCA) batteries for EVs, as well as NiMH and NiCd rechargeable batteries.",
+"bn": "বৈদ্যুতিক গাড়ির জন্য লিথিয়াম-আয়ন (NMC, NCA) ব্যাটারির পাশাপাশি NiMH এবং NiCd রিচার্জেবল ব্যাটারিতে প্রয়োজনীয় উপাদান।"
+},
+"aiHardwareUses": {
+"en": "Employed in thermal interface materials and structural components of advanced, high-heat AI computing centers.",
+"bn": "উন্নত, উচ্চ-তাপমাত্রার এআই কম্পিউটিং কেন্দ্রগুলির থার্মাল ইন্টারফেস উপাদান এবং কাঠামোগত অংশে ব্যবহৃত হয়।"
+},
+"renewableEnergyUses": {
+"en": "Catalyst for alkaline water electrolysis in green hydrogen production.",
+"bn": "সবুজ হাইড্রোজেন উৎপাদনে ক্ষারীয় জলের তড়িৎ বিশ্লেষণের জন্য অনুঘটক।"
+},
+"nanotechnologyUses": {
+"en": "Nickel nanoparticles are used as catalysts for growing carbon nanotubes (CNTs).",
+"bn": "নিকেল ন্যানো পার্টিকেল কার্বন ন্যানোটিউব (CNTs) বৃদ্ধির জন্য অনুঘটক হিসাবে ব্যবহৃত হয়।"
+},
+"nuclearUses": {
+"en": "Used in control rod alloys and specialized shielding equipment in nuclear reactors.",
+"bn": "পারমাণবিক চুল্লিতে কন্ট্রোল রড অ্যালয় এবং বিশেষ সুরক্ষামূলক সরঞ্জামগুলিতে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Armor plating for military vehicles and highly resilient alloys for submarine hulls.",
+"bn": "সামরিক যানের জন্য আর্মার প্লেটিং এবং সাবমেরিন হুলগুলির জন্য অত্যন্ত স্থিতিস্থাপক সংকর ধাতু।"
+},
+"medicalUses": {
+"en": "Nitinol (nickel-titanium alloy) used in orthodontic braces and self-expanding cardiovascular stents.",
+"bn": "নিটিনল (নিকেল-টাইটানিয়াম অ্যালয়) অর্থোডন্টিক ব্রেস এবং সেল্ফ-এক্সপান্ডিং কার্ডিওভাসকুলার স্টেন্টগুলিতে ব্যবহৃত হয়।"
+},
+"foodIndustryUses": {
+"en": "Raney nickel acts as a powerful catalyst for the hydrogenation of unsaturated vegetable oils.",
+"bn": "র‍্যানি নিকেল অসম্পৃক্ত উদ্ভিজ্জ তেলের হাইড্রোজেনেশনের জন্য একটি শক্তিশালী অনুঘটক হিসেবে কাজ করে।"
+},
+"constructionUses": {
+"en": "Alloyed into structural steel to increase toughness and low-temperature resilience in bridges and buildings.",
+"bn": "সেতু এবং ভবনগুলিতে কঠোরতা এবং নিম্ন-তাপমাত্রার স্থিতিস্থাপকতা বাড়াতে কাঠামোগত স্টিলের সাথে মিশ্রিত করা হয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Essential trace nutrient for some microorganisms and plants; it is a critical cofactor for the enzyme urease.",
+"bn": "কিছু অণুজীব এবং উদ্ভিদের জন্য অপরিহার্য ট্রেস পুষ্টি; এটি ইউরিয়েজ এনজাইমের জন্য একটি গুরুত্বপূর্ণ কোফ্যাক্টর।"
+},
+"humanBodyRole": {
+"en": "Presence in the human body is very minimal. Its biological role in humans is still debated and generally considered non-essential.",
+"bn": "মানবদেহে এর উপস্থিতি খুবই কম। মানুষের মধ্যে এর জৈবিক ভূমিকা এখনও বিতর্কমূলক এবং সাধারণত অ-অপরিহার্য বলে বিবেচিত হয়।"
+},
+"toxicity": {
+"en": "Metallic nickel is relatively low in toxicity, but soluble nickel compounds are known carcinogens and highly toxic.",
+"bn": "ধাতব নিকেল তুলনামূলকভাবে কম বিষাক্ত, তবে দ্রবণীয় নিকেল যৌগগুলি কার্সিনোজেন এবং অত্যন্ত বিষাক্ত বলে পরিচিত।"
+},
+"environmentalImpact": {
+"en": "Mining operations can lead to significant habitat destruction and sulfur dioxide emissions during smelting.",
+"bn": "নিষ্কাশন কাজের ফলে আবাসস্থলের উল্লেখযোগ্য ধ্বংস হতে পারে এবং গলানোর সময় সালফার ডাই অক্সাইড নির্গত হতে পারে।"
+},
+"pollutionRisks": {
+"en": "Laterite mining runoff can cause severe heavy metal contamination in local watersheds and soils.",
+"bn": "ল্যাটেরাইট খনির বর্জ্য স্থানীয় জলাশয় এবং মাটিতে গুরুতর ভারী ধাতু দূষণের কারণ হতে পারে।"
+},
+"recyclingMethods": {
+"en": "Highly recycled globally; predominantly recovered from scrap stainless steel and end-of-life batteries.",
+"bn": "বিশ্বব্যাপী ব্যাপকভাবে পুনর্ব্যবহৃত; প্রধানত বাতিল স্টেইনলেস স্টিল এবং অব্যবহৃত ব্যাটারি থেকে উদ্ধার করা হয়।"
+},
+"sustainabilityScore": 7.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Indonesia",
+"bn": "ইন্দোনেশিয়া"
+},
+{
+"en": "Philippines",
+"bn": "ফিলিপাইন"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+}
+],
+"miningMethods": {
+"en": "Open-pit mining of laterite ores and underground mining of magmatic sulfide deposits. HPAL is used for low-grade laterites.",
+"bn": "ল্যাটেরাইট আকরিকের ওপেন-পিট মাইনিং এবং ম্যাগমেটিক সালফাইড জমার ভূগর্ভস্থ মাইনিং। নিম্নমানের ল্যাটেরাইটের জন্য HPAL ব্যবহৃত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.006% by mass",
+"bn": "ভর অনুযায়ী ০.০০৬%"
+},
+"earthCrust": {
+"en": "0.0084% by mass",
+"bn": "ভর অনুযায়ী ০.০০৮৪%"
+},
+"oceans": {
+"en": "0.0000002% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০২%"
+}
+},
+"marketValue": {
+"en": "Fluctuates significantly, historically ranging between $15,000 to $25,000 per metric ton.",
+"bn": "উল্লেখযোগ্যভাবে ওঠানামা করে, ঐতিহাসিকভাবে মেট্রিক টন প্রতি ১৫,০০০ থেকে ২৫,০০০ ডলারের মধ্যে থাকে।"
+},
+"futureDemand": {
+"en": "Expected to surge dramatically due to its non-substitutable role in high-density electric vehicle (EV) battery cathodes.",
+"bn": "উচ্চ-ঘনত্বের বৈদ্যুতিক গাড়ির (EV) ব্যাটারি ক্যাথোডগুলিতে এর অপরিহার্য ভূমিকার কারণে নাটকীয়ভাবে বৃদ্ধি পাবে বলে আশা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "A strategic critical mineral fundamentally tied to global infrastructure and the clean energy transition.",
+"bn": "একটি কৌশলগত গুরুত্বপূর্ণ খনিজ যা বৈশ্বিক অবকাঠামো এবং পরিচ্ছন্ন শক্তির রূপান্তরের সাথে মৌলিকভাবে যুক্ত।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Nickel powder is highly flammable and pyrophoric. Compounds are toxic and recognized human carcinogens.",
+"bn": "নিকেল পাউডার অত্যন্ত দাহ্য এবং পাইরোফোরিক। এর যৌগগুলি বিষাক্ত এবং স্বীকৃত মানব কার্সিনোজেন।"
+},
+"storageRequirements": {
+"en": "Store in a cool, dry, well-ventilated area away from strong oxidizing agents and acids.",
+"bn": "শক্তিশালী জারক এবং অ্যাসিড থেকে দূরে একটি শীতল, শুষ্ক, ভাল বায়ুচলাচলযুক্ত স্থানে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Avoid skin contact to prevent allergic dermatitis. Wear respirators when handling nickel dust or aerosols.",
+"bn": "অ্যালার্জিক ডার্মাটাইটিস প্রতিরোধ করতে ত্বকের যোগাযোগ এড়িয়ে চলুন। নিকেল ধূলিকণা বা অ্যারোসল পরিচালনা করার সময় রেসপিরেটর পরুন।"
+},
+"exposureRisks": {
+"en": "Chronic inhalation of nickel dust increases the risk of lung and nasal cavity cancers. Skin contact often causes 'nickel itch'.",
+"bn": "ক্রমাগত নিকেলের ধূলিকণা শ্বাস গ্রহণের ফলে ফুসফুস এবং অনুনাসিক গহ্বরের ক্যান্সারের ঝুঁকি বাড়ে। ত্বকের সংস্পর্শে প্রায়শই 'নিকেল ইচ' (চুলকানি) হয়।"
+},
+"safetyLevel": {
+"en": "Moderate to High (Specific to dust and chemical compounds)",
+"bn": "মাঝারি থেকে উচ্চ (বিশেষত ধূলিকণা এবং রাসায়নিক যৌগের জন্য)"
+},
+"hazardClassifications": [
+{
+"en": "Skin Sensitizer",
+"bn": "স্কিন সেনসিটাইজার"
+},
+{
+"en": "Carcinogen (Compounds)",
+"bn": "কার্সিনোজেন (যৌগ)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Nickel is a shiny, silver-white metal that resists rust. It is used to make coins, stainless steel pots, and batteries for electric cars.",
+"bn": "নিকেল একটি চকচকে, রূপালী-সাদা ধাতু যা মরিচা প্রতিরোধ করে। এটি মুদ্রা, স্টেইনলেস স্টিলের পাত্র এবং বৈদ্যুতিক গাড়ির ব্যাটারি তৈরি করতে ব্যবহৃত হয়।"
+},
+"advancedExplanation": {
+"en": "As a group 10 transition metal, nickel possesses exceptional corrosion resistance, catalytic properties, and high-temperature strength. Its ferromagnetism at room temperature, alongside iron and cobalt, arises from unpaired d-orbital electrons in its metallic lattice.",
+"bn": "একটি গ্রুপ ১০ অবস্থান্তর ধাতু হিসাবে, নিকেলের ব্যতিক্রমী ক্ষয় প্রতিরোধ ক্ষমতা, অনুঘটক বৈশিষ্ট্য এবং উচ্চ-তাপমাত্রায় শক্তি রয়েছে। ঘরের তাপমাত্রায় লোহা এবং কোবাল্টের পাশাপাশি এর ফেরোম্যাগনেটিজম ধাতব জালি কাঠামোর বিজোড় d-অরবিটাল ইলেকট্রন থেকে উৎপন্ন হয়।"
+},
+"funFacts": [
+{
+"en": "The Earth's core is believed to be a massive, solid sphere of iron and nickel alloy.",
+"bn": "পৃথিবীর কেন্দ্রস্থল লোহা এবং নিকেল খাদের একটি বিশাল, কঠিন গোলক বলে মনে করা হয়।"
+},
+{
+"en": "Despite its name, the US 'nickel' coin is actually made of 75% copper and only 25% nickel.",
+"bn": "নাম সত্ত্বেও, মার্কিন যুক্তরাষ্ট্রের 'নিকেল' মুদ্রাটি আসলে ৭৫% তামা এবং মাত্র ২৫% নিকেল দিয়ে তৈরি।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 26,
+"relation": {
+"en": "Like Iron, Nickel is magnetic at room temperature, but Nickel is vastly more resistant to oxidation and corrosion.",
+"bn": "লোহার মতো, নিকেলও ঘরের তাপমাত্রায় চৌম্বকীয়, তবে নিকেল জারণ এবং ক্ষয়ের জন্য অনেক বেশি প্রতিরোধী।"
+}
+}
+],
+"relatedElements": [
+26,
+27,
+29,
+46
+],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the primary reason for incorporating high levels of nickel in modern electric vehicle (EV) battery cathodes?",
+"bn": "আধুনিক বৈদ্যুতিক গাড়ির (EV) ব্যাটারি ক্যাথোডে উচ্চ মাত্রার নিকেল অন্তর্ভুক্ত করার প্রাথমিক কারণ কী?"
+},
+"options": [
+{
+"en": "To reduce the overall weight of the battery",
+"bn": "ব্যাটারির সামগ্রিক ওজন কমানোর জন্য"
+},
+{
+"en": "To dramatically increase the battery's energy density",
+"bn": "ব্যাটারির শক্তির ঘনত্ব নাটকীয়ভাবে বাড়ানোর জন্য"
+},
+{
+"en": "To act as the primary structural support",
+"bn": "প্রাথমিক কাঠামোগত সমর্থন হিসাবে কাজ করার জন্য"
+},
+{
+"en": "To cool down the battery cells",
+"bn": "ব্যাটারি কোষগুলিকে ঠান্ডা করার জন্য"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nickel is crucial in NMC and NCA lithium-ion batteries because it allows the battery to store more energy, extending the vehicle's driving range.",
+"bn": "NMC এবং NCA লিথিয়াম-আয়ন ব্যাটারিতে নিকেল অত্যন্ত গুরুত্বপূর্ণ কারণ এটি ব্যাটারিকে আরও শক্তি সঞ্চয় করতে দেয়, যা গাড়ির ড্রাইভিং পরিসর বাড়ায়।"
+}
+},
+{
+"question": {
+"en": "Which famous metallurgical process is used to extract and purify nickel by reacting it with carbon monoxide?",
+"bn": "কার্বন মনোক্সাইডের সাথে বিক্রিয়া করে নিকেল নিষ্কাশন এবং বিশুদ্ধ করার জন্য কোন বিখ্যাত ধাতব প্রক্রিয়া ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Bayer Process",
+"bn": "বেয়ার প্রক্রিয়া"
+},
+{
+"en": "Haber Process",
+"bn": "হ্যাবার প্রক্রিয়া"
+},
+{
+"en": "Mond Process",
+"bn": "মন্ড প্রক্রিয়া"
+},
+{
+"en": "Bessemer Process",
+"bn": "বেসেমার প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Mond process purifies nickel by converting it to a volatile gas, nickel tetracarbonyl, and then decomposing it back to pure metallic nickel.",
+"bn": "মন্ড প্রক্রিয়া নিকেলকে একটি উদ্বায়ী গ্যাস, নিকেল টেট্রাকার্বনিল-এ রূপান্তর করে এবং তারপর বিশুদ্ধ ধাতব নিকেলে পচিয়ে বিশুদ্ধ করে।"
+}
+},
+{
+"question": {
+"en": "What is the crystalline structure of solid nickel at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় কঠিন নিকেলের স্ফটিক গঠন কী?"
+},
+"options": [
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টার্ড কিউবিক (BCC)"
+},
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টার্ড কিউবিক (FCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nickel crystallizes in a face-centered cubic structure, which contributes to its excellent ductility and toughness.",
+"bn": "নিকেল একটি ফেস-সেন্টার্ড কিউবিক (পৃষ্ঠকেন্দ্রিক ঘনক) কাঠামোতে স্ফটিকীভূত হয়, যা এর চমৎকার নমনীয়তা এবং কঠোরতায় অবদান রাখে।"
+}
+},
+{
+"question": {
+"en": "Alongside iron and cobalt, nickel belongs to a rare group of elements that exhibit which magnetic property at room temperature?",
+"bn": "লোহা এবং কোবাল্টের পাশাপাশি, নিকেল উপাদানগুলির একটি বিরল গোষ্ঠীর অন্তর্গত যা ঘরের তাপমাত্রায় কোন চৌম্বকীয় বৈশিষ্ট্য প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "Diamagnetism",
+"bn": "ডায়াম্যাগনেটিজম"
+},
+{
+"en": "Paramagnetism",
+"bn": "প্যারাম্যাগনেটিজম"
+},
+{
+"en": "Ferromagnetism",
+"bn": "ফেরোম্যাগনেটিজম"
+},
+{
+"en": "Antiferromagnetism",
+"bn": "অ্যান্টিফেরোম্যাগনেটিজম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Nickel is one of the few elements that are inherently ferromagnetic, meaning it can form permanent magnets.",
+"bn": "নিকেল হলো এমন কয়েকটি উপাদানের মধ্যে একটি যা স্বভাবতই ফেরোম্যাগনেটিক, অর্থাৎ এটি স্থায়ী চুম্বক তৈরি করতে পারে।"
+}
+},
+{
+"question": {
+"en": "What is the most common and stable oxidation state of nickel in aqueous solutions?",
+"bn": "জলীয় দ্রবণে নিকেলের সবচেয়ে সাধারণ এবং স্থিতিশীল জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "While nickel can exist in multiple oxidation states, the +2 state (Ni2+) is by far the most common in standard chemistry.",
+"bn": "যদিও নিকেল একাধিক জারণ অবস্থায় থাকতে পারে, তবে স্ট্যান্ডার্ড রসায়নে +২ অবস্থা (Ni2+) সবচেয়ে সাধারণ।"
+}
+},
+{
+"question": {
+"en": "In biological systems, nickel acts as an essential cofactor for which important enzyme found in plants and soil bacteria?",
+"bn": "জৈবিক সিস্টেমে, উদ্ভিদ এবং মাটির ব্যাকটেরিয়াতে পাওয়া কোন গুরুত্বপূর্ণ এনজাইমের জন্য নিকেল একটি অপরিহার্য কোফ্যাক্টর হিসাবে কাজ করে?"
+},
+"options": [
+{
+"en": "Amylase",
+"bn": "অ্যামাইলেজ"
+},
+{
+"en": "Urease",
+"bn": "ইউরিয়েজ"
+},
+{
+"en": "Catalase",
+"bn": "ক্যাটালেজ"
+},
+{
+"en": "DNA Polymerase",
+"bn": "ডিএনএ পলিমারেজ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Urease requires nickel to function, catalyzing the hydrolysis of urea into ammonia and carbon dioxide.",
+"bn": "ইউরিয়াকে অ্যামোনিয়া এবং কার্বন ডাই অক্সাইডে হাইড্রোলাইসিস করার জন্য ইউরিয়েজের নিকেলের প্রয়োজন হয়।"
+}
+},
+{
+"question": {
+"en": "Nitinol is a famous nickel alloy heavily used in medical stents and braces because of what remarkable physical property?",
+"bn": "নিটিনল হলো একটি বিখ্যাত নিকেল সংকর ধাতু যা মেডিকেল স্টেন্ট এবং ব্রেসগুলিতে প্রচুর পরিমাণে ব্যবহৃত হয় এর কোন অসাধারণ ভৌত বৈশিষ্ট্যের কারণে?"
+},
+"options": [
+{
+"en": "Extreme radioactivity",
+"bn": "চরম তেজস্ক্রিয়তা"
+},
+{
+"en": "Complete transparency",
+"bn": "সম্পূর্ণ স্বচ্ছতা"
+},
+{
+"en": "Shape memory effect",
+"bn": "শেপ মেমোরি ইফেক্ট"
+},
+{
+"en": "Superconductivity at room temperature",
+"bn": "ঘরের তাপমাত্রায় সুপারকন্ডাক্টিভিটি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Nitinol is a 'shape memory alloy' that can be deformed and then return to its original shape when exposed to body heat.",
+"bn": "নিটিনল হলো একটি 'শেপ মেমোরি অ্যালয়' যা বিকৃত করা যায় এবং শরীরের উত্তাপের সংস্পর্শে এলে এটি তার আগের আসল আকারে ফিরে আসে।"
+}
+},
+{
+"question": {
+"en": "What highly toxic and volatile intermediate gas is formed during the Mond process for purifying nickel?",
+"bn": "নিকেল বিশুদ্ধ করার জন্য মন্ড প্রক্রিয়ার সময় কোন অত্যন্ত বিষাক্ত এবং উদ্বায়ী গ্যাস তৈরি হয়?"
+},
+"options": [
+{
+"en": "Nickel sulfate",
+"bn": "নিকেল সালফেট"
+},
+{
+"en": "Nickel tetracarbonyl",
+"bn": "নিকেল টেট্রাকার্বনিল"
+},
+{
+"en": "Nickel oxide",
+"bn": "নিকেল অক্সাইড"
+},
+{
+"en": "Nickel chloride",
+"bn": "নিকেল ক্লোরাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nickel tetracarbonyl [Ni(CO)4] is a highly dangerous, volatile liquid/gas used exclusively within closed purification systems.",
+"bn": "নিকেল টেট্রাকার্বনিল [Ni(CO)4] একটি অত্যন্ত বিপজ্জনক, উদ্বায়ী তরল/গ্যাস যা একচেটিয়াভাবে বদ্ধ পরিশোধন সিস্টেমের মধ্যে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "The Earth's solid inner core is generally accepted by geophysicists to be primarily an alloy composed of iron and what other element?",
+"bn": "জিওফিজিসিস্টদের মতে, পৃথিবীর কঠিন অভ্যন্তরীণ কোর মূলত লোহা এবং আর কোন উপাদানের সমন্বয়ে গঠিত একটি সংকর ধাতু?"
+},
+"options": [
+{
+"en": "Cobalt",
+"bn": "কোবাল্ট"
+},
+{
+"en": "Silicon",
+"bn": "সিলিকন"
+},
+{
+"en": "Nickel",
+"bn": "নিকেল"
+},
+{
+"en": "Gold",
+"bn": "সোনা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The inner core is an incredibly dense, solid iron-nickel alloy under immense pressure.",
+"bn": "অভ্যন্তরীণ কোরটি প্রচণ্ড চাপের অধীনে থাকা একটি অবিশ্বাস্য রকমের ঘন এবং কঠিন লোহা-নিকেল সংকর ধাতু।"
+}
+},
+{
+"question": {
+"en": "Which prevalent dermatological condition is frequently triggered by wearing inexpensive jewelry containing nickel?",
+"bn": "নিকেল যুক্ত সস্তা গহনা পরার ফলে প্রায়শই ত্বকের কোন চর্মরোগটি দেখা দেয়?"
+},
+"options": [
+{
+"en": "Psoriasis",
+"bn": "সোরিয়াসিস"
+},
+{
+"en": "Contact dermatitis",
+"bn": "কন্টাক্ট ডার্মাটাইটিস"
+},
+{
+"en": "Melanoma",
+"bn": "মেলানোমা"
+},
+{
+"en": "Acne",
+"bn": "ব্রণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nickel is a very common allergen; contact dermatitis occurs when the skin reacts to nickel ions dissolving in sweat.",
+"bn": "নিকেল একটি খুব সাধারণ অ্যালার্জেন; কন্টাক্ট ডার্মাটাইটিস তখন হয় যখন ত্বক ঘামে দ্রবীভূত নিকেল আয়নের প্রতি প্রতিক্রিয়া দেখায়।"
+}
+},
+{
+"question": {
+"en": "In the production of austenitic stainless steel (like Type 304), what is the primary role of adding nickel?",
+"bn": "অস্টেনিটিক স্টেইনলেস স্টিল (যেমন টাইপ ৩০৪) তৈরিতে নিকেল যুক্ত করার প্রাথমিক ভূমিকা কী?"
+},
+"options": [
+{
+"en": "To increase its electrical conductivity",
+"bn": "এর বৈদ্যুতিক পরিবাহিতা বাড়াতে"
+},
+{
+"en": "To make it more magnetic",
+"bn": "এটিকে আরও চৌম্বকীয় করতে"
+},
+{
+"en": "To stabilize the austenite structure and enhance corrosion resistance",
+"bn": "অস্টিনাইট কাঠামো স্থিতিশীল করতে এবং ক্ষয় প্রতিরোধ ক্ষমতা বাড়াতে"
+},
+{
+"en": "To lower its melting point for easy casting",
+"bn": "সহজেই ঢালাই করার জন্য এর গলনাঙ্ক কমাতে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Nickel acts as an austenite stabilizer, improving the steel's formability, weldability, and resistance to harsh corrosive environments.",
+"bn": "নিকেল একটি অস্টিনাইট স্টেবিলাইজার হিসাবে কাজ করে, যা স্টিলের আকার দেওয়ার ক্ষমতা, ঝালাই করার ক্ষমতা এবং ক্ষয়কারী পরিবেশের বিরুদ্ধে প্রতিরোধ ক্ষমতা উন্নত করে।"
+}
+},
+{
+"question": {
+"en": "What was the original German word for the mineral from which nickel was isolated, meaning 'Old Nick's copper'?",
+"bn": "যে খনিজ থেকে নিকেল আলাদা করা হয়েছিল তার মূল জার্মান শব্দ কী ছিল, যার অর্থ 'পুরানো নিকের তামা'?"
+},
+"options": [
+{
+"en": "Wolfram",
+"bn": "উলফ্রাম"
+},
+{
+"en": "Kupfernickel",
+"bn": "কুফারনিকেল"
+},
+{
+"en": "Zinkblende",
+"bn": "জিঙ্কব্লেন্ড"
+},
+{
+"en": "Pechblende",
+"bn": "পিচব্লেন্ড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Miners called it 'Kupfernickel' because it looked like copper ore but yielded no copper, blaming a mischievous sprite named Nickel.",
+"bn": "খনি শ্রমিকরা একে 'কুফারনিকেল' বলত কারণ এটি তামার আকরিকের মতো দেখতে ছিল কিন্তু কোনো তামা দিত না, তারা এর জন্য নিকেল নামক এক দুষ্ট আত্মাকে দোষারোপ করত।"
+}
+},
+{
+"question": {
+"en": "Raney nickel, a fine-grained solid composed mostly of nickel derived from a nickel-aluminum alloy, is famously utilized for what chemical process?",
+"bn": "র‍্যানি নিকেল, নিকেল-অ্যালুমিনিয়াম অ্যালয় থেকে প্রাপ্ত একটি সূক্ষ্ম-দানাযুক্ত কঠিন পদার্থ, যা কোন রাসায়নিক প্রক্রিয়ার জন্য বিখ্যাতভাবে ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "Electrolysis of water",
+"bn": "জলের তড়িৎ বিশ্লেষণ"
+},
+{
+"en": "Catalytic hydrogenation of organic compounds",
+"bn": "জৈব যৌগের অনুঘটক হাইড্রোজেনেশন"
+},
+{
+"en": "Nuclear fission",
+"bn": "পারমাণবিক ফিউশন"
+},
+{
+"en": "Polymerization of plastics",
+"bn": "প্লাস্টিকের পলিমারাইজেশন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Its high surface area makes Raney nickel an exceptionally effective catalyst for adding hydrogen to double bonds, such as in converting vegetable oils to margarine.",
+"bn": "এর উচ্চ সারফেস এরিয়ার কারণে র‍্যানি নিকেল ডাবল বন্ডে হাইড্রোজেন যোগ করার জন্য একটি অত্যন্ত কার্যকরী অনুঘটক, যেমন উদ্ভিজ্জ তেলকে মার্জারিনে রূপান্তরিত করতে।"
+}
+},
+{
+"question": {
+"en": "What is the correct electron configuration for the Ni2+ ion?",
+"bn": "Ni2+ আয়নের সঠিক ইলেক্ট্রন বিন্যাস কোনটি?"
+},
+"options": [
+{
+"en": "[Ar] 3d8 4s2",
+"bn": "[Ar] 3d8 4s2"
+},
+{
+"en": "[Ar] 3d6 4s2",
+"bn": "[Ar] 3d6 4s2"
+},
+{
+"en": "[Ar] 3d8",
+"bn": "[Ar] 3d8"
+},
+{
+"en": "[Ar] 3d10",
+"bn": "[Ar] 3d10"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "When transition metals ionize, they lose their s-orbital electrons first. So, Nickel (3d8 4s2) loses its two 4s electrons to become Ni2+ (3d8).",
+"bn": "যখন অবস্থান্তর ধাতুগুলি আয়নিত হয়, তখন তারা প্রথমে তাদের s-অরবিটাল ইলেকট্রনগুলি হারায়। তাই, নিকেল (3d8 4s2) তার দুটি 4s ইলেকট্রন হারিয়ে Ni2+ (3d8) হয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "In the aerospace industry, nickel-based 'superalloys' are vital for jet engine turbines because they excel at resisting what specific high-temperature failure?",
+"bn": "মহাকাশ শিল্পে, জেট ইঞ্জিন টারবাইনের জন্য নিকেল-ভিত্তিক 'সুপারঅ্যালয়' অত্যন্ত গুরুত্বপূর্ণ কারণ তারা কোন নির্দিষ্ট উচ্চ-তাপমাত্রার ব্যর্থতা প্রতিরোধে পারদর্শী?"
+},
+"options": [
+{
+"en": "Creep deformation",
+"bn": "ক্রীপ বিকৃতি"
+},
+{
+"en": "Galvanic corrosion",
+"bn": "গ্যালভানিক ক্ষয়"
+},
+{
+"en": "Hydrogen embrittlement",
+"bn": "হাইড্রোজেন এমব্রিটেলমেন্ট"
+},
+{
+"en": "Thermal conductivity loss",
+"bn": "তাপ পরিবাহিতা হ্রাস"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Nickel superalloys maintain their structural integrity and resist creeping (slow, permanent deformation) under extreme heat and centrifugal stress.",
+"bn": "নিকেল সুপারঅ্যালয়গুলি চরম তাপ এবং সেন্ট্রিফিউগাল চাপের অধীনে তাদের কাঠামোগত অখণ্ডতা বজায় রাখে এবং ক্রিপিং (ধীর, স্থায়ী বিকৃতি) প্রতিরোধ করে।"
+}
+},
+{
+"question": {
+"en": "Which country currently stands as the world's largest producer of mined nickel, largely driving the supply chain for electric vehicle batteries?",
+"bn": "কোন দেশ বর্তমানে খননকৃত নিকেলের বিশ্বের বৃহত্তম উৎপাদক হিসেবে দাঁড়িয়েছে, যা মূলত বৈদ্যুতিক গাড়ির ব্যাটারির সরবরাহ চেইনকে চালিত করে?"
+},
+"options": [
+{
+"en": "Canada",
+"bn": "কানাডা"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+},
+{
+"en": "Indonesia",
+"bn": "ইন্দোনেশিয়া"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Indonesia produces the vast majority of the world's nickel, relying heavily on its extensive laterite ore deposits.",
+"bn": "ইন্দোনেশিয়া তার বিশাল ল্যাটেরাইট আকরিক মজুতের উপর ব্যাপকভাবে নির্ভর করে বিশ্বের বেশিরভাগ নিকেল উৎপাদন করে।"
+}
+},
+{
+"question": {
+"en": "In nuclear physics, the isotope Nickel-62 is notable for possessing which extraordinary property?",
+"bn": "নিউক্লিয়ার ফিজিক্সে, নিকেল-৬২ আইসোটোপটি কোন অসাধারণ বৈশিষ্ট্যের জন্য উল্লেখযোগ্য?"
+},
+"options": [
+{
+"en": "The longest half-life of any radioactive isotope",
+"bn": "যেকোনো তেজস্ক্রিয় আইসোটোপের মধ্যে সবচেয়ে দীর্ঘ অর্ধায়ু"
+},
+{
+"en": "The highest binding energy per nucleon of any known nuclide",
+"bn": "যেকোনো পরিচিত নিউক্লাইডের মধ্যে প্রতি নিউক্লিয়নে সর্বোচ্চ বাঁধাই শক্তি"
+},
+{
+"en": "The ability to undergo cold fusion",
+"bn": "কোল্ড ফিউশন হওয়ার ক্ষমতা"
+},
+{
+"en": "It decays exclusively into pure energy",
+"bn": "এটি একচেটিয়াভাবে বিশুদ্ধ শক্তিতে ক্ষয়প্রাপ্ত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nickel-62 is the most tightly bound nucleus in the universe, meaning it has the highest binding energy per nucleon.",
+"bn": "নিকেল-৬২ হলো মহাবিশ্বের সবচেয়ে শক্তভাবে আবদ্ধ নিউক্লিয়াস, যার অর্থ হলো প্রতি নিউক্লিয়নে এর বাঁধাই শক্তি সর্বোচ্চ।"
+}
+},
+{
+"question": {
+"en": "When nickel(II) salts are dissolved in water, the resulting hexaaquanickel(II) complex, [Ni(H2O)6]2+, gives the solution what distinct color?",
+"bn": "যখন নিকেল(II) লবণ জলে দ্রবীভূত হয়, তখন ফলস্বরূপ হেক্সাকুয়ানিকেল(II) কমপ্লেক্স, [Ni(H2O)6]2+, দ্রবণটিকে কোন স্বতন্ত্র রঙ দেয়?"
+},
+"options": [
+{
+"en": "Deep Blue",
+"bn": "গাড় নীল"
+},
+{
+"en": "Emerald Green",
+"bn": "পান্না সবুজ"
+},
+{
+"en": "Blood Red",
+"bn": "রক্ত লাল"
+},
+{
+"en": "Colorless",
+"bn": "বর্ণহীন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Aqueous solutions of Nickel(II) are characteristically green due to the absorption of certain light wavelengths by the d-electrons in the complex ion.",
+"bn": "কমপ্লেক্স আয়নে d-ইলেকট্রন দ্বারা নির্দিষ্ট আলোক তরঙ্গদৈর্ঘ্য শোষণের কারণে নিকেল(II) এর জলীয় দ্রবণ বৈশিষ্ট্যগতভাবে সবুজ হয়।"
+}
+},
+{
+"question": {
+"en": "What advanced hydrometallurgical technique is increasingly used to extract nickel from low-grade laterite ores?",
+"bn": "নিম্নমানের ল্যাটেরাইট আকরিক থেকে নিকেল নিষ্কাশনের জন্য কোন উন্নত হাইড্রোমেটালার্জিক্যাল কৌশল ক্রমবর্ধমানভাবে ব্যবহৃত হচ্ছে?"
+},
+"options": [
+{
+"en": "Froth Flotation",
+"bn": "ফ্রথ ফ্লোটেশন"
+},
+{
+"en": "High-Pressure Acid Leaching (HPAL)",
+"bn": "উচ্চ-চাপ অ্যাসিড লিচিং (HPAL)"
+},
+{
+"en": "Smelting",
+"bn": "স্মেল্টিং"
+},
+{
+"en": "Electrowinning",
+"bn": "ইলেক্ট্রোউইনিং"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "HPAL uses sulfuric acid under high temperatures and pressures to dissolve out the nickel and cobalt from complex laterite soils.",
+"bn": "জটিল ল্যাটেরাইট মাটি থেকে নিকেল এবং কোবাল্ট দ্রবীভূত করতে HPAL উচ্চ তাপমাত্রা এবং চাপের অধীনে সালফিউরিক অ্যাসিড ব্যবহার করে।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of the nickel atom in the highly toxic compound Nickel tetracarbonyl, Ni(CO)4?",
+"bn": "অত্যন্ত বিষাক্ত যৌগ নিকেল টেট্রাকার্বনিল, Ni(CO)4-এ নিকেল পরমাণুর আনুষ্ঠানিক জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "0",
+"bn": "০"
+},
+{
+"en": "-2",
+"bn": "-২"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because carbon monoxide is a neutral ligand, the formal oxidation state of nickel in Ni(CO)4 is zero, which is unusual for a metal in a stable compound.",
+"bn": "যেহেতু কার্বন মনোক্সাইড একটি নিরপেক্ষ লিগ্যান্ড, তাই Ni(CO)4-এ নিকেলের আনুষ্ঠানিক জারণ অবস্থা শূন্য, যা একটি স্থিতিশীল যৌগের ধাতুর জন্য অস্বাভাবিক।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "All shiny silver coins are made of silver. In reality, most 'silver' colored coins today rely heavily on a nickel-copper alloy.",
+"bn": "সমস্ত চকচকে রূপালী মুদ্রা রূপা দিয়ে তৈরি। বাস্তবে, আজকাল বেশিরভাগ 'রূপালী' রঙের মুদ্রা মূলত একটি নিকেল-তামার খাদের উপর নির্ভর করে।"
+}
+],
+"learningTips": [
+{
+"en": "Remember Ni for Nickel. It's atomic number 28, often associated with its crucial role alongside Iron (26) and Cobalt (27) as the magnetic triad.",
+"bn": "নিকেলের জন্য Ni মনে রাখুন। এর পারমাণবিক সংখ্যা ২৮, যা প্রায়শই লোহা (২৬) এবং কোবাল্টের (২৭) পাশাপাশি চৌম্বকীয় ত্রয়ী হিসাবে এর গুরুত্বপূর্ণ ভূমিকার সাথে যুক্ত।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Ni + 4CO ⇌ Ni(CO)₄",
+"description": {
+"en": "The formation of nickel tetracarbonyl in the Mond process at 50°C, a reversible reaction used for purification.",
+"bn": "৫০°C তাপমাত্রায় মন্ড প্রক্রিয়ায় নিকেল টেট্রাকার্বনিল গঠন, যা পরিশোধনের জন্য ব্যবহৃত একটি বিপরীতমুখী বিক্রিয়া।"
+}
+},
+{
+"equation": "Ni + 2HCl → NiCl₂ + H₂",
+"description": {
+"en": "Slow dissolution of metallic nickel in dilute hydrochloric acid to produce nickel(II) chloride and hydrogen gas.",
+"bn": "নিকেল(II) ক্লোরাইড এবং হাইড্রোজেন গ্যাস তৈরি করতে লঘু হাইড্রোক্লোরিক অ্যাসিডে ধাতব নিকেলের ধীর দ্রবীভূতকরণ।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Ni → Ni²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation of solid nickel to nickel(II) ions, typical in battery discharge or corrosion processes.",
+"bn": "কঠিন নিকেলের নিকেল(II) আয়নে জারণ, যা সাধারণত ব্যাটারি ডিসচার্জ বা ক্ষয় প্রক্রিয়ায় দেখা যায়।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Ni²⁺ + 2e⁻ → Ni",
+"description": {
+"en": "Reduction of nickel ions at the cathode, representing the fundamental process in nickel electroplating.",
+"bn": "ক্যাথোডে নিকেল আয়নের বিজারণ, যা নিকেল ইলেক্ট্রোপ্লেটিং এর মৌলিক প্রক্রিয়াকে উপস্থাপন করে।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Coordinate Covalent Bond",
+"bn": "সমন্বয় সমযোজী বন্ধন"
+},
+"molecule": "[Ni(H₂O)₆]²⁺",
+"description": {
+"en": "Six water molecules donate lone electron pairs to the empty d-orbitals of a central Ni²⁺ ion, forming an octahedral complex.",
+"bn": "ছয়টি জলের অণু একটি কেন্দ্রীয় Ni²⁺ আয়নের খালি d-অরবিটালগুলিতে একাকী ইলেকট্রন জোড়া দান করে একটি অষ্টতলকীয় কমপ্লেক্স গঠন করে।"
+}
+}
+]
+}
+}

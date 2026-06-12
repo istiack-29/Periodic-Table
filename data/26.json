@@ -1,0 +1,991 @@
+{
+"elementId": 26,
+"basicInformation": {
+"atomicNumber": 26,
+"symbol": "Fe",
+"name": {
+"en": "Iron",
+"bn": "লোহা"
+},
+"pronunciation": {
+"en": "/ˈaɪ.ərn/",
+"bn": "আই-রন"
+},
+"atomicMass": 55.845,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 8,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Lustrous metallic with a grayish tinge",
+"bn": "ধূসর আভা যুক্ত চকচকে ধাতব"
+},
+"color": {
+"en": "Silver-gray",
+"bn": "রূপালী-ধূসর"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Unknown (Known to Ancients)",
+"bn": "অজানা (প্রাচীনকাল থেকে পরিচিত)"
+},
+"discoveryYear": null,
+"discoveryLocation": {
+"en": "Ancient Middle East / Mesopotamia",
+"bn": "প্রাচীন মধ্যপ্রাচ্য / মেসোপটেমিয়া"
+},
+"discoveryStory": {
+"en": "Iron artifacts derived from meteorites date back to 5000 BC. The widespread smelting of iron ore marked the beginning of the Iron Age around 1200 BC, forever altering human civilization.",
+"bn": "উল্কা থেকে প্রাপ্ত লোহার শিল্পকর্ম ৫০০০ খ্রিস্টপূর্বাব্দের। ১২০০ খ্রিস্টপূর্বাব্দের দিকে লোহা আকরিকের ব্যাপক গলন লৌহ যুগের সূচনা করে, যা মানব সভ্যতাকে চিরতরে বদলে দেয়।"
+},
+"historicalUses": {
+"en": "Forged into weapons, armor, tools, and architectural structures. Its mastery defined empires and revolutionized agriculture.",
+"bn": "অস্ত্র, বর্ম, সরঞ্জাম এবং স্থাপত্য কাঠামো তৈরিতে ব্যবহৃত হতো। এর উপর দক্ষতা সাম্রাজ্যগুলিকে সংজ্ঞায়িত করেছিল এবং কৃষিতে বিপ্লব ঘটিয়েছিল।"
+},
+"famousExperiments": {
+"en": "Henry Bessemer's mid-19th-century process of blowing oxygen through molten pig iron to mass-produce high-quality steel.",
+"bn": "হেনরি বেসেমারের ১৯ শতকের মাঝামাঝি সময়ের পরীক্ষা, যেখানে গলিত পিগ আয়রনের মধ্য দিয়ে অক্সিজেন প্রবাহিত করে উচ্চ মানের ইস্পাত ব্যাপকভাবে তৈরি করা হয়।"
+}
+},
+"atomicStructure": {
+"protons": 26,
+"neutrons": 30,
+"electrons": 26,
+"valenceElectrons": 8,
+"shells": 4,
+"shellDistribution": [2, 8, 14, 2],
+"electronConfiguration": "[Ar] 3d⁶ 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 6,
+"4s": 2
+},
+"oxidationStates": [-2, -1, 1, 2, 3, 4, 5, 6],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 2,
+"magnetic": -2,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 7.874,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1811.0,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 3134.0,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 126.0,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 132.0,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": null,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 80.4,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 10000000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.449,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 4.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Body-centered cubic (BCC) at room temperature",
+"bn": "কক্ষ তাপমাত্রায় বডি-সেন্টারড কিউবিক (BCC)"
+},
+"magneticOrdering": {
+"en": "Ferromagnetic",
+"bn": "ফেরোম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.83,
+"ionizationEnergy": {
+"value": 762.5,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 15.7,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Oxidizes in damp air to form hydrated iron oxides (rust). Dissolves readily in dilute acids.",
+"bn": "আর্দ্র বাতাসে জারিত হয়ে হাইড্রেটেড আয়রন অক্সাইড (মরিচা) তৈরি করে। লঘু অ্যাসিডে সহজেই দ্রবীভূত হয়।"
+},
+"commonCompounds": ["Fe₂O₃", "Fe₃O₄", "FeCl₃", "FeSO₄", "FeS₂"],
+"flameTestColor": {
+"en": "Gold / Yellow-brown",
+"bn": "সোনালী / হলুদ-বাদামী"
+},
+"spectralLines": ["358.12nm", "371.99nm", "373.49nm", "438.35nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Alloyed with carbon to produce steel, the fundamental building material for global infrastructure, machinery, and transportation.",
+"bn": "কার্বনের সাথে মিশিয়ে ইস্পাত তৈরি করা হয়, যা বৈশ্বিক অবকাঠামো, যন্ত্রপাতি এবং পরিবহনের মৌলিক নির্মাণ সামগ্রী।"
+},
+"commercialUses": {
+"en": "Manufacturing of cookware, appliances, automotive parts, and structural beams.",
+"bn": "রান্নার জিনিসপত্র, যন্ত্রপাতি, স্বয়ংচালিত যন্ত্রাংশ এবং কাঠামোগত বিম তৈরি।"
+},
+"electronicsUses": {
+"en": "Used in transformer cores, electromagnets, and electric motor stators/rotors due to high magnetic permeability.",
+"bn": "উচ্চ চৌম্বকীয় ব্যাপ্তিযোগ্যতার কারণে ট্রান্সফর্মার কোর, ইলেক্ট্রোম্যাগনেট এবং বৈদ্যুতিক মোটর স্টেটর/রোটরে ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "Iron-based spintronics and magnetic random-access memory (MRAM) research.",
+"bn": "লোহা-ভিত্তিক স্পিনট্রনিক্স এবং ম্যাগনেটিক র‍্যান্ডম-অ্যাক্সেস মেমরি (MRAM) গবেষণা।"
+},
+"aerospaceUses": {
+"en": "High-strength specialized steel alloys are used in landing gear and engine components.",
+"bn": "উচ্চ-শক্তির বিশেষ ইস্পাত মিশ্রণ ল্যান্ডিং গিয়ার এবং ইঞ্জিনের উপাদানগুলিতে ব্যবহৃত হয়।"
+},
+"batteryUses": {
+"en": "Lithium iron phosphate (LiFePO4) batteries provide high safety and longevity for EVs and grid storage.",
+"bn": "লিথিয়াম আয়রন ফসফেট (LiFePO4) ব্যাটারি ইভি এবং গ্রিড স্টোরেজের জন্য উচ্চ নিরাপত্তা এবং দীর্ঘায়ু প্রদান করে।"
+},
+"aiHardwareUses": {
+"en": "Structural steel framework for hyperscale data centers; heavy shielding for quantum and AI computing clusters.",
+"bn": "হাইপারস্কেল ডেটা সেন্টারের জন্য কাঠামোগত ইস্পাত কাঠামো; কোয়ান্টাম এবং এআই কম্পিউটিং ক্লাস্টারগুলির জন্য ভারী শিল্ডিং।"
+},
+"renewableEnergyUses": {
+"en": "Crucial for wind turbine towers, hydroelectric plant infrastructure, and generator magnets.",
+"bn": "উইন্ড টারবাইন টাওয়ার, জলবিদ্যুৎ কেন্দ্রের অবকাঠামো এবং জেনারেটর চুম্বকের জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+},
+"nanotechnologyUses": {
+"en": "Superparamagnetic iron oxide nanoparticles (SPIONs) used in targeted drug delivery and MRI contrast agents.",
+"bn": "সুপারপ্যারাম্যাগনেটিক আয়রন অক্সাইড ন্যানো পার্টিকেলস (SPIONs) লক্ষ্যযুক্ত ড্রাগ ডেলিভারি এবং এমআরআই কনট্রাস্ট এজেন্টগুলিতে ব্যবহৃত হয়।"
+},
+"nuclearUses": {
+"en": "Radiation shielding and reactor containment vessels utilize heavy specialized steels.",
+"bn": "বিকিরণ সুরক্ষা এবং চুল্লির কন্টেনমেন্ট ভেসেলগুলি ভারী বিশেষ ইস্পাত ব্যবহার করে।"
+},
+"militaryUses": {
+"en": "Armor plating, naval vessel construction, firearms, and ballistic defenses.",
+"bn": "আর্মার প্লেটিং, নৌযান নির্মাণ, আগ্নেয়াস্ত্র এবং ব্যালিস্টিক প্রতিরক্ষা।"
+},
+"medicalUses": {
+"en": "Iron supplements treat anemia; essential component in surgical grade stainless steel instruments.",
+"bn": "লৌহ সম্পূরকগুলি রক্তাল্পতার চিকিৎসা করে; সার্জিক্যাল গ্রেড স্টেইনলেস স্টিল যন্ত্রপাতির অপরিহার্য উপাদান।"
+},
+"foodIndustryUses": {
+"en": "Used to fortify cereals, bread, and dietary supplements to prevent human iron deficiency.",
+"bn": "মানুষের আয়রনের ঘাটতি রোধ করতে সিরিয়াল, রুটি এবং খাদ্যতালিকাগত সম্পূরকগুলিকে শক্তিশালী করতে ব্যবহৃত হয়।"
+},
+"constructionUses": {
+"en": "Reinforced concrete uses steel rebar to provide immense tensile strength to modern architecture.",
+"bn": "আধুনিক স্থাপত্যে প্রচুর প্রসার্য শক্তি প্রদানের জন্য রড-কংক্রিটে স্টিল রিবার ব্যবহার করা হয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Vital for almost all living organisms. Essential core of hemoglobin, which transports oxygen in the blood.",
+"bn": "প্রায় সব জীবন্ত প্রাণীর জন্যই অপরিহার্য। হিমোগ্লোবিনের অপরিহার্য মূল, যা রক্তে অক্সিজেন পরিবহন করে।"
+},
+"humanBodyRole": {
+"en": "An adult body contains roughly 4 grams of iron, mostly in red blood cells and muscle myoglobin for oxygen management.",
+"bn": "একজন প্রাপ্তবয়স্ক মানুষের শরীরে প্রায় ৪ গ্রাম আয়রন থাকে, যার বেশিরভাগই লোহিত রক্তকণিকা এবং পেশীর মায়োগ্লোবিনে অক্সিজেন ব্যবস্থাপনার জন্য থাকে।"
+},
+"toxicity": {
+"en": "Toxic in large excess (hemochromatosis) or via acute overdose, causing severe liver and tissue damage.",
+"bn": "অতিরিক্ত মাত্রায় (হিমোক্রোমাটোসিস) বা তীব্র ওভারডোজের মাধ্যমে বিষাক্ত, যা গুরুতর লিভার এবং টিস্যুর ক্ষতি করে।"
+},
+"environmentalImpact": {
+"en": "Mining operations can disrupt landscapes, but iron itself is naturally abundant, non-toxic in soil, and infinitely recyclable.",
+"bn": "খনি খনন কার্যক্রম ল্যান্ডস্কেপ ব্যাহত করতে পারে, তবে লোহা নিজেই প্রাকৃতিকভাবে প্রচুর, মাটিতে অ-বিষাক্ত এবং অসীমভাবে পুনর্ব্যবহারযোগ্য।"
+},
+"pollutionRisks": {
+"en": "Steel production heavily relies on coking coal, contributing significantly to global industrial CO2 emissions.",
+"bn": "ইস্পাত উৎপাদন ভারীভাবে কোকিং কয়লার উপর নির্ভর করে, যা বিশ্বব্যাপী শিল্প CO2 নির্গমনে উল্লেখযোগ্যভাবে অবদান রাখে।"
+},
+"recyclingMethods": {
+"en": "The most recycled material on Earth. Scrap steel is melted in electric arc furnaces to forge new metal with high efficiency.",
+"bn": "পৃথিবীতে সবচেয়ে বেশি পুনর্ব্যবহৃত উপাদান। উচ্চ দক্ষতার সাথে নতুন ধাতু তৈরির জন্য স্ক্র্যাপ ইস্পাত বৈদ্যুতিক আর্ক চুল্লিতে গলানো হয়।"
+},
+"sustainabilityScore": 8.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+},
+{
+"en": "Brazil",
+"bn": "ব্রাজিল"
+},
+{
+"en": "China",
+"bn": "চীন"
+}
+],
+"miningMethods": {
+"en": "Large-scale open-pit surface mining of hematite and magnetite ores, followed by crushing and separation.",
+"bn": "হেমাটাইট এবং ম্যাগনেটাইট আকরিকের বড় আকারের ওপেন-পিট সারফেস মাইনিং, এরপর চূর্ণ এবং পৃথকীকরণ।"
+},
+"abundance": {
+"universe": {
+"en": "0.11% by mass",
+"bn": "ভর অনুযায়ী ০.১১%"
+},
+"earthCrust": {
+"en": "5% by mass (4th most abundant)",
+"bn": "ভর অনুযায়ী ৫% (৪র্থ সর্বাধিক প্রচুর)"
+},
+"oceans": {
+"en": "0.000003% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০৩%"
+}
+},
+"marketValue": {
+"en": "Highly volatile but generally low-cost per metric ton ($100 - $150/ton for ore), making it economically irreplaceable.",
+"bn": "অত্যন্ত পরিবর্তনশীল তবে সাধারণত প্রতি মেট্রিক টনের দাম কম (আকরিকের জন্য ১০০ - ১৫০০ ডলার/টন), যা এটিকে অর্থনৈতিকভাবে অপূরণীয় করে তোলে।"
+},
+"futureDemand": {
+"en": "Demand remains perpetually robust, scaling alongside global urbanization and green infrastructure development.",
+"bn": "বিশ্বব্যাপী নগরায়ণ এবং সবুজ অবকাঠামো উন্নয়নের পাশাপাশি এর চাহিদা চিরকাল শক্তিশালী থাকে।"
+},
+"globalImportance": {
+"en": "The backbone of modern industry; over 90% of all refined metal worldwide is iron in the form of steel.",
+"bn": "আধুনিক শিল্পের মেরুদণ্ড; বিশ্বব্যাপী সমস্ত পরিশোধিত ধাতুর ৯০% এরও বেশি ইস্পাত আকারে লোহা।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Bulk solid iron poses no chemical hazard. Finely powdered iron is highly combustible and may spontaneously ignite.",
+"bn": "বাল্ক কঠিন লোহা কোনো রাসায়নিক বিপত্তি সৃষ্টি করে না। মিহি গুঁড়ো করা লোহা অত্যন্ত দাহ্য এবং স্বতঃস্ফূর্তভাবে জ্বলতে পারে।"
+},
+"storageRequirements": {
+"en": "Store in dry areas to prevent oxidative corrosion (rust). Powders must be kept away from heat sources and oxidizers.",
+"bn": "অক্সিডেটিভ ক্ষয় (মরিচা) রোধ করতে শুকনো জায়গায় সংরক্ষণ করুন। গুঁড়োগুলিকে অবশ্যই তাপের উৎস এবং অক্সিডাইজার থেকে দূরে রাখতে হবে।"
+},
+"handlingProcedures": {
+"en": "Standard metalworking safety (gloves, eye protection). Use grounding when handling ultra-fine iron powders.",
+"bn": "স্ট্যান্ডার্ড মেটালওয়ার্কিং নিরাপত্তা (গ্লাভস, চোখের সুরক্ষা)। অতি-সূক্ষ্ম লোহার গুঁড়ো পরিচালনা করার সময় গ্রাউন্ডিং ব্যবহার করুন।"
+},
+"exposureRisks": {
+"en": "Inhalation of iron dust over long periods can cause siderosis, a benign pneumoconiosis.",
+"bn": "দীর্ঘ সময় ধরে লোহার ধূলিকণা শ্বাস নেওয়ার ফলে সিডারোসিস নামক একটি সৌম্য নিউমোকোনিওসিস হতে পারে।"
+},
+"safetyLevel": {
+"en": "Low Risk (Bulk) / High Risk (Powder Fire)",
+"bn": "কম ঝুঁকি (বাল্ক) / উচ্চ ঝুঁকি (পাউডার ফায়ার)"
+},
+"hazardClassifications": [
+{
+"en": "Combustible Dust (when powdered)",
+"bn": "দাহ্য ধূলিকণা (যখন গুঁড়ো করা হয়)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Iron is the strong metal we use to build everything from skyscrapers to cars. It also lives inside our blood, carrying the oxygen we breathe.",
+"bn": "লোহা হল সেই শক্তিশালী ধাতু যা আমরা আকাশচুম্বী ভবন থেকে গাড়ি পর্যন্ত সবকিছু তৈরি করতে ব্যবহার করি। এটি আমাদের রক্তেও বাস করে, আমরা যে অক্সিজেন শ্বাস নিই তা বহন করে।"
+},
+"advancedExplanation": {
+"en": "A highly stable transition metal with an unfilled d-subshell. Iron's unique electronic configuration allows for strong magnetic domains and variable oxidation states, making it incredibly versatile chemically, mechanically, and biologically.",
+"bn": "একটি অপূর্ণ ডি-সাবশেল সহ একটি অত্যন্ত স্থিতিশীল অবস্থান্তর ধাতু। লোহার অনন্য বৈদ্যুতিন বিন্যাস শক্তিশালী চৌম্বকীয় ডোমেন এবং পরিবর্তনশীল জারণ অবস্থার অনুমতি দেয়, যা একে রাসায়নিক, যান্ত্রিক এবং জৈবিকভাবে অবিশ্বাস্যরকম বহুমুখী করে তোলে।"
+},
+"funFacts": [
+{
+"en": "The Earth's core is primarily a solid iron-nickel alloy, producing the magnetic field that protects our planet from deadly solar radiation.",
+"bn": "পৃথিবীর কেন্দ্রস্থল মূলত একটি কঠিন লোহা-নিকেল খাদ, যা এমন চৌম্বকীয় ক্ষেত্র তৈরি করে যা আমাদের গ্রহকে মারাত্মক সৌর বিকিরণ থেকে রক্ষা করে।"
+},
+{
+"en": "Iron-56 is the ultimate nuclear ash; it has the highest binding energy per nucleon, meaning massive stars die once their cores turn to iron.",
+"bn": "আয়রন-৫৬ হল চূড়ান্ত পারমাণবিক ছাই; প্রতি নিউক্লিয়নে এর সর্বোচ্চ বাইন্ডিং শক্তি রয়েছে, যার অর্থ বিশাল নক্ষত্রের কোর লোহায় পরিণত হওয়ার পরে তারা মারা যায়।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 27,
+"relation": {
+"en": "Like Cobalt, Iron is ferromagnetic and heavily utilized in high-strength alloys, but Iron is far more abundant and forms the basis of all steels.",
+"bn": "কোবাল্টের মতো লোহা ফেরোম্যাগনেটিক এবং উচ্চ-শক্তির মিশ্রণগুলিতে প্রচুর পরিমাণে ব্যবহৃত হয়, তবে লোহা অনেক বেশি পরিমাণে পাওয়া যায় এবং সমস্ত ইস্পাতের ভিত্তি তৈরি করে।"
+}
+}
+],
+"relatedElements": [27, 28, 44, 76],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the most abundant and stable isotope of iron found in nature?",
+"bn": "প্রকৃতিতে পাওয়া লোহার সবচেয়ে প্রচুর এবং স্থিতিশীল আইসোটোপ কোনটি?"
+},
+"options": [
+{
+"en": "Iron-54",
+"bn": "আয়রন-৫৪"
+},
+{
+"en": "Iron-56",
+"bn": "আয়রন-৫৬"
+},
+{
+"en": "Iron-58",
+"bn": "আয়রন-৫৮"
+},
+{
+"en": "Iron-52",
+"bn": "আয়রন-৫২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Iron-56 makes up about 91.75% of all iron and is exceptionally stable due to its high nuclear binding energy.",
+"bn": "আয়রন-৫৬ সমস্ত লোহার প্রায় ৯১.৭৫% গঠন করে এবং এর উচ্চ পারমাণবিক বন্ধন শক্তির কারণে এটি অত্যন্ত স্থিতিশীল।"
+}
+},
+{
+"question": {
+"en": "In the human body, iron is a critical component of which oxygen-carrying metalloprotein?",
+"bn": "মানবদেহে, লোহা কোন অক্সিজেন বহনকারী মেটালোপ্রোটিনের একটি গুরুত্বপূর্ণ উপাদান?"
+},
+"options": [
+{
+"en": "Insulin",
+"bn": "ইনসুলিন"
+},
+{
+"en": "Keratin",
+"bn": "কেরাটিন"
+},
+{
+"en": "Hemoglobin",
+"bn": "হিমোগ্লোবিন"
+},
+{
+"en": "Collagen",
+"bn": "কোলাজেন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Hemoglobin inside red blood cells relies on an iron ion to reversibly bind and transport oxygen throughout the body.",
+"bn": "লোহিত রক্তকণিকার অভ্যন্তরে হিমোগ্লোবিন সারা শরীরে বিপরীতভাবে আবদ্ধ হতে এবং অক্সিজেন পরিবহনের জন্য একটি আয়রন আয়নের উপর নির্ভর করে।"
+}
+},
+{
+"question": {
+"en": "What is the correct scientific name for the compound commonly known as rust?",
+"bn": "মরিচা নামে পরিচিত যৌগটির সঠিক বৈজ্ঞানিক নাম কী?"
+},
+"options": [
+{
+"en": "Iron(II) sulfide",
+"bn": "আয়রন(II) সালফাইড"
+},
+{
+"en": "Hydrated iron(III) oxide",
+"bn": "হাইড্রেটেড আয়রন(III) অক্সাইড"
+},
+{
+"en": "Iron(II) chloride",
+"bn": "আয়রন(II) ক্লোরাইড"
+},
+{
+"en": "Iron carbonate",
+"bn": "আয়রন কার্বনেট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Rust forms when iron oxidizes in the presence of oxygen and water, creating Fe2O3·nH2O.",
+"bn": "অক্সিজেন এবং জলের উপস্থিতিতে লোহা জারিত হলে মরিচা তৈরি হয়, যা Fe2O3·nH2O গঠন করে।"
+}
+},
+{
+"question": {
+"en": "At exactly 770°C (the Curie temperature), what distinct phase change occurs in pure iron?",
+"bn": "ঠিক ৭৭০°C তাপমাত্রায় (কুরি তাপমাত্রা), খাঁটি লোহায় কী ধরনের স্বতন্ত্র পর্যায় পরিবর্তন ঘটে?"
+},
+"options": [
+{
+"en": "It transitions from solid to liquid",
+"bn": "এটি কঠিন থেকে তরলে রূপান্তরিত হয়"
+},
+{
+"en": "It changes from ferromagnetic to paramagnetic",
+"bn": "এটি ফেরোম্যাগনেটিক থেকে প্যারাম্যাগনেটিকে পরিবর্তিত হয়"
+},
+{
+"en": "It becomes a superconductor",
+"bn": "এটি একটি সুপারকন্ডাক্টর হয়ে যায়"
+},
+{
+"en": "It rapidly oxidizes into gas",
+"bn": "এটি দ্রুত গ্যাসে জারিত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Above the Curie temperature, thermal agitation destroys the alignment of magnetic domains, making iron lose its permanent magnetism.",
+"bn": "কুরি তাপমাত্রার উপরে, তাপীয় আন্দোলন চৌম্বকীয় ডোমেনগুলির বিন্যাসকে ধ্বংস করে দেয়, যার ফলে লোহা তার স্থায়ী চুম্বকত্ব হারিয়ে ফেলে।"
+}
+},
+{
+"question": {
+"en": "Which major industrial process uses powdered iron as a primary catalyst to synthesize ammonia?",
+"bn": "কোন প্রধান শিল্প প্রক্রিয়ায় অ্যামোনিয়া সংশ্লেষণে প্রাথমিক অনুঘটক হিসাবে গুঁড়ো লোহা ব্যবহার করা হয়?"
+},
+"options": [
+{
+"en": "Contact process",
+"bn": "সংস্পর্শ পদ্ধতি"
+},
+{
+"en": "Bayer process",
+"bn": "বেয়ার প্রক্রিয়া"
+},
+{
+"en": "Haber-Bosch process",
+"bn": "হ্যাবার-বোশ প্রক্রিয়া"
+},
+{
+"en": "Ostwald process",
+"bn": "অসওয়াল্ড প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Haber-Bosch process fixes atmospheric nitrogen with hydrogen to make ammonia, relying on an iron catalyst to accelerate the reaction.",
+"bn": "হ্যাবার-বোশ প্রক্রিয়ায় বায়ুমণ্ডলীয় নাইট্রোজেনকে হাইড্রোজেনের সাথে যুক্ত করে অ্যামোনিয়া তৈরি করা হয়, বিক্রিয়াকে ত্বরান্বিত করতে লোহার অনুঘটকের উপর নির্ভর করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary facility/reactor used to extract iron from its mineral ore in modern mass production?",
+"bn": "আধুনিক ব্যাপক উৎপাদনে খনিজ আকরিক থেকে লোহা আহরণের জন্য ব্যবহৃত প্রাথমিক সুবিধা/চুল্লি কোনটি?"
+},
+"options": [
+{
+"en": "Blast furnace",
+"bn": "ব্লাস্ট ফার্নেস (চুল্লি)"
+},
+{
+"en": "Centrifuge",
+"bn": "সেন্ট্রিফিউজ"
+},
+{
+"en": "Electrolytic cell",
+"bn": "তড়িৎ বিশ্লেষণ কোষ"
+},
+{
+"en": "Fractional distillation column",
+"bn": "আংশিক পাতন কলাম"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "A blast furnace heats iron ore, coke, and limestone to produce molten pig iron.",
+"bn": "একটি ব্লাস্ট ফার্নেসে আকরিক লোহা, কোক এবং চুনাপাথর গরম করে গলিত পিগ আয়রন তৈরি করা হয়।"
+}
+},
+{
+"question": {
+"en": "Which foundational engineering alloy is created by mixing iron with a small percentage of carbon (typically 0.2% to 2.1%)?",
+"bn": "লোহার সাথে সামান্য শতাংশ কার্বন (সাধারণত ০.২% থেকে ২.১%) মিশিয়ে কোন ভিত্তিগত ইঞ্জিনিয়ারিং অ্যালয় তৈরি করা হয়?"
+},
+"options": [
+{
+"en": "Brass",
+"bn": "পিতল"
+},
+{
+"en": "Bronze",
+"bn": "ব্রোঞ্জ"
+},
+{
+"en": "Steel",
+"bn": "ইস্পাত"
+},
+{
+"en": "Pewter",
+"bn": "পিউটার"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Steel is an alloy of iron and carbon. The carbon atoms lock into the iron crystal lattice, vastly increasing its strength and hardness.",
+"bn": "ইস্পাত হল লোহা এবং কার্বনের একটি মিশ্রণ। কার্বন পরমাণুগুলি লোহার স্ফটিক জালিতে আটকে যায়, যা এর শক্তি এবং কঠোরতাকে বহুগুণ বাড়িয়ে দেয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary, most economically important mineral ore from which iron is commercially extracted?",
+"bn": "সবচেয়ে গুরুত্বপূর্ণ খনিজ আকরিক কোনটি, যা থেকে বাণিজ্যিকভাবে লোহা নিষ্কাশন করা হয়?"
+},
+"options": [
+{
+"en": "Bauxite",
+"bn": "বক্সাইট"
+},
+{
+"en": "Hematite",
+"bn": "হেমাটাইট"
+},
+{
+"en": "Galena",
+"bn": "গ্যালেনা"
+},
+{
+"en": "Cinnabar",
+"bn": "সিন্নাবার"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hematite (Fe2O3) and Magnetite (Fe3O4) are the major ores mined globally for iron production.",
+"bn": "হেমাটাইট (Fe2O3) এবং ম্যাগনেটাইট (Fe3O4) বিশ্বব্যাপী লোহা উৎপাদনের জন্য খনন করা প্রধান আকরিক।"
+}
+},
+{
+"question": {
+"en": "In a blast furnace, what chemical species acts as the actual reducing agent that strips oxygen away from the iron ore?",
+"bn": "ব্লাস্ট ফার্নেসে, কোন রাসায়নিক প্রজাতি প্রকৃত বিজারক হিসাবে কাজ করে যা আকরিক লোহা থেকে অক্সিজেন কেড়ে নেয়?"
+},
+"options": [
+{
+"en": "Solid carbon",
+"bn": "কঠিন কার্বন"
+},
+{
+"en": "Carbon monoxide gas",
+"bn": "কার্বন মনোক্সাইড গ্যাস"
+},
+{
+"en": "Hydrogen gas",
+"bn": "হাইড্রোজেন গ্যাস"
+},
+{
+"en": "Limestone",
+"bn": "চুনাপাথর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Carbon monoxide (CO), formed from the burning of coke, flows upward and chemically reduces the iron oxides into pure liquid iron.",
+"bn": "কোক পোড়ানোর ফলে গঠিত কার্বন মনোক্সাইড (CO) উপরের দিকে প্রবাহিত হয় এবং রাসায়নিকভাবে আয়রন অক্সাইডকে বিশুদ্ধ তরল লোহায় বিজারিত করে।"
+}
+},
+{
+"question": {
+"en": "What is the name of the anti-corrosion technique that involves coating iron or steel with a protective layer of zinc?",
+"bn": "অ্যান্টি-জারা বা ক্ষয়-রোধী কৌশলটির নাম কী, যেখানে লোহা বা ইস্পাতকে জিঙ্কের প্রতিরক্ষামূলক স্তর দিয়ে আবরণ করা হয়?"
+},
+"options": [
+{
+"en": "Anodizing",
+"bn": "অ্যানোডাইজিং"
+},
+{
+"en": "Vulcanization",
+"bn": "ভালকানাইজেশন"
+},
+{
+"en": "Galvanization",
+"bn": "গ্যালভানাইজেশন"
+},
+{
+"en": "Electroplating",
+"bn": "ইলেক্ট্রোপ্লেটিং"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Galvanization applies a zinc coating. Since zinc is more reactive than iron, it acts as a sacrificial anode, corroding first to protect the iron beneath.",
+"bn": "গ্যালভানাইজেশন একটি জিঙ্ক আবরণ প্রয়োগ করে। যেহেতু জিঙ্ক লোহার চেয়ে বেশি প্রতিক্রিয়াশীল, এটি একটি স্যাক্রিফিসিয়াল অ্যানোড হিসাবে কাজ করে এবং নীচের লোহাকে রক্ষা করার জন্য প্রথমে নিজে ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "Which brilliant, brass-yellow mineral compound of iron is famously known to prospectors as 'Fool's Gold'?",
+"bn": "লোহার কোন চকচকে, পিতল-হলুদ খনিজ যৌগটি অনুসন্ধানকারীদের কাছে বিখ্যাতভাবে 'ফুলস গোল্ড' বা বোকার সোনা নামে পরিচিত?"
+},
+"options": [
+{
+"en": "Iron(II) carbonate",
+"bn": "আয়রন(II) কার্বনেট"
+},
+{
+"en": "Iron pyrite (FeS2)",
+"bn": "আয়রন পাইরাইট (FeS2)"
+},
+{
+"en": "Siderite",
+"bn": "সিডেরাইট"
+},
+{
+"en": "Limonite",
+"bn": "লিমোনাইট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Iron pyrite (FeS2) has a metallic luster and pale brass-yellow hue that has historically fooled many miners into thinking they found real gold.",
+"bn": "আয়রন পাইরাইটের (FeS2) একটি ধাতব দীপ্তি এবং ফ্যাকাশে পিতল-হলুদ বর্ণ রয়েছে যা ঐতিহাসিকভাবে অনেক খনি শ্রমিককে বোকা বানিয়েছে এই ভেবে যে তারা আসল সোনা পেয়েছে।"
+}
+},
+{
+"question": {
+"en": "The Earth's protective geomagnetosphere is primarily generated by convection currents of liquid iron and nickel in which planetary layer?",
+"bn": "পৃথিবীর প্রতিরক্ষামূলক জিওম্যাগনেটোস্ফিয়ার মূলত গ্রহের কোন স্তরে তরল লোহা এবং নিকেলের পরিচলন স্রোত দ্বারা তৈরি হয়?"
+},
+"options": [
+{
+"en": "Mantle",
+"bn": "ম্যান্টেল"
+},
+{
+"en": "Crust",
+"bn": "ভূতক"
+},
+{
+"en": "Inner core",
+"bn": "ভিতরের কোর"
+},
+{
+"en": "Outer core",
+"bn": "বাইরের কোর"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The outer core is highly dynamic and molten. The movement of conductive liquid iron acts as a massive dynamo, generating the magnetic field.",
+"bn": "বাইরের কোর অত্যন্ত গতিশীল এবং গলিত। পরিবাহী তরল লোহার গতি একটি বিশাল ডায়নামো হিসাবে কাজ করে, যা চৌম্বকীয় ক্ষেত্র তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "While +2 and +3 are its most common states, what is the maximum stable oxidation state of iron, typically observed in the powerful oxidizing ferrate ion (FeO4^2-)?",
+"bn": "যদিও +2 এবং +3 এর সবচেয়ে সাধারণ অবস্থা, লোহার সর্বাধিক স্থিতিশীল জারণ অবস্থা কোনটি, যা সাধারণত শক্তিশালী অক্সিডাইজিং ফেরেট আয়নে (FeO4^2-) পরিলক্ষিত হয়?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+5",
+"bn": "+৫"
+},
+{
+"en": "+6",
+"bn": "+৬"
+},
+{
+"en": "+8",
+"bn": "+৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Iron can be driven to a +6 oxidation state in ferrates (like potassium ferrate), which are intense purple and act as highly potent, environmentally friendly oxidizers.",
+"bn": "লোহাকে ফেরেটগুলিতে (যেমন পটাসিয়াম ফেরেট) +৬ জারণ অবস্থায় নিয়ে যাওয়া যেতে পারে, যা তীব্র বেগুনি রঙের এবং অত্যন্ত শক্তিশালী, পরিবেশ বান্ধব অক্সিডাইজার হিসাবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "Why does the surface of the planet Mars appear distinctively red to astronomical observers?",
+"bn": "জ্যোতির্বিজ্ঞানীদের কাছে মঙ্গল গ্রহের পৃষ্ঠতল স্বতন্ত্রভাবে লাল দেখায় কেন?"
+},
+"options": [
+{
+"en": "Red-shifted light from its atmosphere",
+"bn": "বায়ুমণ্ডল থেকে রেড-শিফটেড আলো"
+},
+{
+"en": "Volcanic magma continuously flowing on the surface",
+"bn": "পৃষ্ঠে ক্রমাগত প্রবাহিত আগ্নেয়গিরির ম্যাগমা"
+},
+{
+"en": "The surface regolith is rich in iron(III) oxide dust",
+"bn": "পৃষ্ঠের রেগোলিথ আয়রন(III) অক্সাইড ধূলিকণায় সমৃদ্ধ"
+},
+{
+"en": "Dense storms of red sulfur gas",
+"bn": "লাল সালফার গ্যাসের ঘন ঝড়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Mars is covered in a fine dust of iron(III) oxide, the exact same chemical compound as rust on Earth, giving it a rusty red hue.",
+"bn": "মঙ্গল গ্রহটি আয়রন(III) অক্সাইডের সূক্ষ্ম ধূলিকণা দ্বারা আচ্ছাদিত, যা পৃথিবীতে মরিচার মতো ঠিক একই রাসায়নিক যৌগ, যা একে একটি মরিচা ধরা লাল বর্ণ দেয়।"
+}
+},
+{
+"question": {
+"en": "Inside human cells, excess iron is safely sequestered and stored away primarily within which specific protein complex?",
+"bn": "মানুষের কোষের অভ্যন্তরে, অতিরিক্ত আয়রন নিরাপদে বিচ্ছিন্ন করে প্রাথমিকভাবে কোন নির্দিষ্ট প্রোটিন কমপ্লেক্সের মধ্যে সংরক্ষণ করা হয়?"
+},
+"options": [
+{
+"en": "Albumin",
+"bn": "অ্যালবুমিন"
+},
+{
+"en": "Ferritin",
+"bn": "ফেরিটিন"
+},
+{
+"en": "Keratin",
+"bn": "কেরাটিন"
+},
+{
+"en": "Myosin",
+"bn": "মায়োসিন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ferritin is a hollow, spherical protein that acts as an intracellular buffer against iron deficiency and iron overload, safely storing thousands of iron atoms.",
+"bn": "ফেরিটিন হল একটি ফাঁপা, গোলাকার প্রোটিন যা আয়রনের ঘাটতি এবং আয়রন ওভারলোডের বিরুদ্ধে আন্তঃকোষীয় বাফার হিসাবে কাজ করে, হাজার হাজার আয়রন পরমাণু নিরাপদে সংরক্ষণ করে।"
+}
+},
+{
+"question": {
+"en": "Which revolutionary historical manufacturing technique, developed in 1856, allowed the first mass-production of steel by blowing air through molten pig iron to remove impurities?",
+"bn": "১৮৫৬ সালে বিকশিত কোন যুগান্তকারী ঐতিহাসিক উৎপাদন কৌশল গলিত পিগ আয়রনের মধ্য দিয়ে বাতাস প্রবাহিত করে অপবিত্রতা দূর করার মাধ্যমে ইস্পাতের প্রথম ব্যাপক উৎপাদনের অনুমতি দেয়?"
+},
+"options": [
+{
+"en": "Crucible process",
+"bn": "ক্রুসিবল প্রক্রিয়া"
+},
+{
+"en": "Open-hearth process",
+"bn": "ওপেন-হার্থ প্রক্রিয়া"
+},
+{
+"en": "Bessemer process",
+"bn": "বেসেমার প্রক্রিয়া"
+},
+{
+"en": "Puddling process",
+"bn": "পুডলিং প্রক্রিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Bessemer process dramatically lowered the cost and time to produce steel, triggering the Second Industrial Revolution.",
+"bn": "বেসেমার প্রক্রিয়া ইস্পাত উৎপাদনের খরচ এবং সময় নাটকীয়ভাবে কমিয়ে দেয়, যা দ্বিতীয় শিল্প বিপ্লবের সূচনা করে।"
+}
+},
+{
+"question": {
+"en": "In the periodic table, what trio of elements comprises the 'Iron Triad', noted for being the only elements that produce strong magnetic fields at room temperature?",
+"bn": "পর্যায় সারণীতে, কোন তিনটি উপাদান 'আয়রন ট্রায়াড' বা লৌহ-ত্রয়ী গঠন করে, যা ঘরের তাপমাত্রায় শক্তিশালী চৌম্বকীয় ক্ষেত্র তৈরি করার একমাত্র উপাদান হিসেবে পরিচিত?"
+},
+"options": [
+{
+"en": "Iron, Copper, Zinc",
+"bn": "লোহা, তামা, দস্তা"
+},
+{
+"en": "Iron, Ruthenium, Osmium",
+"bn": "লোহা, রুথেনিয়াম, অসমিয়াম"
+},
+{
+"en": "Iron, Manganese, Chromium",
+"bn": "লোহা, ম্যাঙ্গানিজ, ক্রোমিয়াম"
+},
+{
+"en": "Iron, Cobalt, Nickel",
+"bn": "লোহা, কোবাল্ট, নিকেল"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Iron, Cobalt, and Nickel are adjacent in Period 4 and uniquely share naturally occurring ferromagnetic properties.",
+"bn": "পর্যায় ৪-এ লোহা, কোবাল্ট এবং নিকেল সংলগ্ন এবং এরা অনন্যভাবে প্রাকৃতিকভাবে ঘটতে থাকা ফেরোম্যাগনেটিক বৈশিষ্ট্য শেয়ার করে।"
+}
+},
+{
+"question": {
+"en": "Dietary absorption of non-heme iron (iron from plant sources) in the human digestive tract is significantly enhanced by consuming it alongside which crucial vitamin?",
+"bn": "মানুষের পাচনতন্ত্রে নন-হিম আয়রন (উদ্ভিদ উৎস থেকে পাওয়া আয়রন) শোষণের ক্ষমতা উল্লেখযোগ্যভাবে বৃদ্ধি পায় যদি এটি কোন গুরুত্বপূর্ণ ভিটামিনের সাথে খাওয়া হয়?"
+},
+"options": [
+{
+"en": "Vitamin D",
+"bn": "ভিটামিন ডি"
+},
+{
+"en": "Vitamin A",
+"bn": "ভিটামিন এ"
+},
+{
+"en": "Vitamin C",
+"bn": "ভিটামিন সি"
+},
+{
+"en": "Vitamin B12",
+"bn": "ভিটামিন বি১২"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Vitamin C (ascorbic acid) helps reduce Fe3+ to Fe2+, making it much easier for the intestines to absorb plant-based iron.",
+"bn": "ভিটামিন সি (অ্যাসকরবিক অ্যাসিড) Fe3+ কে Fe2+ এ বিজারিত করতে সাহায্য করে, যা অন্ত্রের জন্য উদ্ভিদ-ভিত্তিক আয়রন শোষণ করা অনেক সহজ করে তোলে।"
+}
+},
+{
+"question": {
+"en": "At standard room temperature, pure iron assumes which highly symmetrical crystallographic structure?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায়, বিশুদ্ধ লোহা কোন অত্যন্ত প্রতিসম স্ফটিক কাঠামো গ্রহণ করে?"
+},
+"options": [
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টারড কিউবিক (FCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+},
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টারড কিউবিক (BCC)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Alpha iron, stable at room temperature, has a Body-Centered Cubic (BCC) structure. When heated above 912°C, it changes to Face-Centered Cubic (FCC) austenite.",
+"bn": "আলফা আয়রন, যা ঘরের তাপমাত্রায় স্থিতিশীল, এর বডি-সেন্টারড কিউবিক (BCC) কাঠামো রয়েছে। যখন এটি ৯১২°C এর উপরে উত্তপ্ত হয়, এটি ফেস-সেন্টারড কিউবিক (FCC) অস্টিনাইটে পরিবর্তিত হয়।"
+}
+},
+{
+"question": {
+"en": "In the process of stellar nucleosynthesis, why is Iron-56 considered the absolute endpoint for energy-producing nuclear fusion in the cores of massive stars?",
+"bn": "নাক্ষত্রিক নিউক্লিওসিন্থেসিস প্রক্রিয়ায়, কেন আয়রন-৫৬ কে বিশাল নক্ষত্রের কোরে শক্তি-উৎপাদনকারী পারমাণবিক ফিউশনের চরম শেষ বিন্দু হিসাবে বিবেচনা করা হয়?"
+},
+"options": [
+{
+"en": "It decays too rapidly",
+"bn": "এটি খুব দ্রুত ক্ষয়প্রাপ্ত হয়"
+},
+{
+"en": "Fusion of iron consumes energy rather than releasing it",
+"bn": "লোহার ফিউশন শক্তি মুক্ত করার পরিবর্তে শক্তি খরচ করে"
+},
+{
+"en": "It violently repels all other protons",
+"bn": "এটি অন্যান্য সমস্ত প্রোটনকে মারাত্মকভাবে বিকর্ষণ করে"
+},
+{
+"en": "It immediately turns into a black hole",
+"bn": "এটি সাথে সাথে ব্ল্যাক হোলে পরিণত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because iron has the highest binding energy per nucleon, fusing it requires more energy than it yields. This sudden energy deficit causes the star to collapse and go supernova.",
+"bn": "যেহেতু প্রতি নিউক্লিয়নে লোহার সর্বোচ্চ বাইন্ডিং শক্তি রয়েছে, তাই এর ফিউশনে উৎপন্ন শক্তির চেয়ে বেশি শক্তি প্রয়োজন হয়। এই আকস্মিক শক্তির ঘাটতি নক্ষত্রটিকে ধসে পড়তে এবং সুপারনোভা হতে বাধ্য করে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Steel is a natural element found in the earth.",
+"bn": "ইস্পাত পৃথিবীর বুকে পাওয়া একটি প্রাকৃতিক উপাদান।"
+}
+],
+"learningTips": [
+{
+"en": "Remember the symbol 'Fe' comes from the Latin word 'Ferrum'. This helps explain words like ferromagnetic and ferrous.",
+"bn": "'Fe' প্রতীকটি ল্যাটিন শব্দ 'Ferrum' থেকে এসেছে। এটি ফেরোম্যাগনেটিক এবং ফেরাস এর মতো শব্দগুলি বুঝতে সহায়তা করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "4Fe + 3O₂ + 6H₂O → 4Fe(OH)₃",
+"description": {
+"en": "The overall simplified rusting process of iron in the presence of water and oxygen.",
+"bn": "জল এবং অক্সিজেনের উপস্থিতিতে লোহার মরিচা পড়ার সামগ্রিক সরলীকৃত প্রক্রিয়া।"
+}
+},
+{
+"equation": "Fe₂O₃ + 3CO → 2Fe + 3CO₂",
+"description": {
+"en": "Reduction of iron(III) oxide by carbon monoxide in a blast furnace to yield pure iron.",
+"bn": "বিশুদ্ধ লোহা উৎপাদনের জন্য ব্লাস্ট ফার্নেসে কার্বন মনোক্সাইড দ্বারা আয়রন(III) অক্সাইডের বিজারণ।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Fe → Fe²⁺ + 2e⁻",
+"description": {
+"en": "The initial oxidation step when iron is exposed to moisture, giving up two electrons.",
+"bn": "প্রাথমিক জারণ পদক্ষেপ যখন লোহা আর্দ্রতার সংস্পর্শে আসে, তখন দুটি ইলেকট্রন ছেড়ে দেয়।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Fe³⁺ + e⁻ → Fe²⁺",
+"description": {
+"en": "Reduction of ferric (Fe3+) iron to ferrous (Fe2+) iron.",
+"bn": "ফেরিক (Fe3+) আয়নের ফেরাস (Fe2+) আয়নে বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Metallic Bond",
+"bn": "ধাতব বন্ধন"
+},
+"molecule": "Fe(s)",
+"description": {
+"en": "Iron atoms form a tightly packed crystal lattice, sharing a 'sea' of delocalized electrons that provide strength and electrical conductivity.",
+"bn": "লোহার পরমাণুগুলি একটি শক্তভাবে প্যাক করা স্ফটিক জালি তৈরি করে, যা ডিলোকালাইজড ইলেকট্রনের একটি 'সমুদ্র' ভাগ করে নেয় যা শক্তি এবং বৈদ্যুতিক পরিবাহিতা প্রদান করে।"
+}
+}
+]
+}
+}

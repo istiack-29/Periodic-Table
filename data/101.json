@@ -1,0 +1,971 @@
+{
+"elementId": 101,
+"basicInformation": {
+"atomicNumber": 101,
+"symbol": "Md",
+"name": {
+"en": "Mendelevium",
+"bn": "মেন্ডেলেভিয়াম"
+},
+"pronunciation": {
+"en": "/ˌmɛndəˈliːviəm/",
+"bn": "মেন-ডে-লে-ভি-য়াম"
+},
+"atomicMass": 258,
+"category": {
+"en": "Actinide",
+"bn": "অ্যাক্টিনাইড"
+},
+"group": null,
+"period": 7,
+"block": "f",
+"phase": {
+"en": "Solid (Predicted)",
+"bn": "কঠিন (অনুমিত)"
+},
+"appearance": {
+"en": "Highly radioactive metallic solid (Predicted)",
+"bn": "অত্যন্ত তেজস্ক্রিয় ধাতব কঠিন পদার্থ (অনুমিত)"
+},
+"color": {
+"en": "Silvery-white or metallic gray (Predicted)",
+"bn": "রুপালি-সাদা বা ধাতব ধূসর (অনুমিত)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Albert Ghiorso, Glenn T. Seaborg, Bernard G. Harvey, Gregory R. Choppin, Stanley G. Thompson",
+"bn": "অ্যালবার্ট গিওর্সো, গ্লেন টি. সিবোর্গ, বার্নার্ড জি. হার্ভে, গ্রেগরি আর. চপিন, স্ট্যানলি জি. থম্পসন"
+},
+"discoveryYear": 1555,
+"discoveryLocation": {
+"en": "United States (Lawrence Berkeley National Laboratory)",
+"bn": "যুক্তরাষ্ট্র (লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরি)"
+},
+"discoveryStory": {
+"en": "Discovered by bombarding einsteinium-253 with alpha particles in a 60-inch cyclotron. It was the first element to be synthesized one atom at a time and was named after Dmitri Mendeleev, the father of the periodic table.",
+"bn": "৬০ ইঞ্চির একটি সাইক্লোট্রনে আইনস্টাইনিয়াম-২৫৩-কে আলফা কণা দ্বারা আঘাত করে এটি আবিষ্কৃত হয়। এটিই প্রথম উপাদান যা একবারে মাত্র একটি পরমাণু করে সংশ্লেষিত করা হয়েছিল এবং পর্যায় সারণির জনক দিমিত্রি মেন্ডেলিভের নামানুসারে এর নামকরণ করা হয়।"
+},
+"historicalUses": {
+"en": "Never used for any practical or commercial applications due to its extreme scarcity and short half-life.",
+"bn": "অত্যন্ত দুর্লভতা এবং স্বল্প অর্ধায়ুর কারণে কোনো ব্যবহারিক বা বাণিজ্যিক প্রয়োগে এটি কখনোই ব্যবহৃত হয়নি।"
+},
+"famousExperiments": {
+"en": "The 'recoil experiment' where individual transmuted mendelevium atoms recoiled from the einsteinium target onto a gold catcher foil for chemical identification.",
+"bn": "'রিকোয়েল পরীক্ষা' যেখানে রাসায়নিক সনাক্তকরণের জন্য একক রূপান্তরিত মেন্ডেলেভিয়াম পরমাণুগুলো আইনস্টাইনিয়াম লক্ষ্যবস্তু থেকে ছিটকে একটি সোনার ফয়েলের ওপর গিয়ে পড়েছিল।"
+}
+},
+"atomicStructure": {
+"protons": 101,
+"neutrons": 157,
+"electrons": 101,
+"valenceElectrons": 3,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 31, 8, 2],
+"electronConfiguration": "[Rn] 5f¹³ 7s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 10,
+"4s": 2,
+"4p": 6,
+"4d": 10,
+"4f": 14,
+"5s": 2,
+"5p": 6,
+"5d": 10,
+"5f": 13,
+"6s": 2,
+"6p": 6,
+"7s": 2
+},
+"oxidationStates": [3, 2],
+"quantumNumbers": {
+"principal": 5,
+"azimuthal": 3,
+"magnetic": 3,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 10.3,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1100.0,
+"unit": "K"
+},
+"boilingPoint": null,
+"atomicRadius": null,
+"covalentRadius": null,
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Face-centered cubic (Predicted)",
+"bn": "ফেস-সেন্টার্ড কিউবিক (অনুমিত)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (Predicted)",
+"bn": "প্যারাম্যাগনেটিক (অনুমিত)"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.3,
+"ionizationEnergy": {
+"value": 635.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Highly reactive metallic actinide. Exhibits typical tracer-scale chemical properties of heavy actinides, preferring the +3 oxidation state but showing a distinct, stable +2 state in reducing environments.",
+"bn": "উচ্চ প্রতিক্রিয়াশীল ধাতব অ্যাক্টিনাইড। এটি ভারী অ্যাক্টিনাইডের সাধারণ ট্রেসার-স্কেল রাসায়নিক বৈশিষ্ট্য প্রদর্শন করে, যা মূলত +৩ জারণ অবস্থা পছন্দ করে তবে বিজারণ পরিবেশে একটি স্বতন্ত্র ও স্থিতিশীল +২ অবস্থা দেখায়।"
+},
+"commonCompounds": ["MdCl₃", "MdO", "MdCl₂", "Md₂(SO₄)₃"],
+"flameTestColor": null,
+"spectralLines": null
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Used exclusively in heavy-ion physics and nuclear structure research.",
+"bn": "নেই। এটি একচেটিয়াভাবে হেভি-আয়ন পদার্থবিদ্যা এবং পারমাণবিক গঠন গবেষণায় ব্যবহৃত হয়।"
+},
+"commercialUses": {
+"en": "None. No commercial market exists for this element.",
+"bn": "নেই। এই উপাদানের কোনো বাণিজ্যিক বাজার বিদ্যমান নেই।"
+},
+"electronicsUses": {
+"en": "None. Highly radioactive decay patterns prevent any microelectronic deployment.",
+"bn": "নেই। অত্যন্ত তেজস্ক্রিয় ক্ষয় প্যাটার্ন যেকোনো মাইক্রোইলেক্ট্রনিক্স ব্যবহারে বাধা দেয়।"
+},
+"semiconductorUses": {
+"en": "None. Irradiates semiconductor lattices instantly, destroying structural gate logic.",
+"bn": "নেই। এটি সেমিকন্ডাক্টর ল্যাটিসকে সাথে সাথে বিকিরিত করে কাঠামোগত গেট লজিক ধ্বংস করে দেয়।"
+},
+"aerospaceUses": {
+"en": "None. Short half-life precludes load-bearing or power systems applications.",
+"bn": "নেই। সংক্ষিপ্ত অর্ধাউ লোড-বেয়ারিং বা পাওয়ার সিস্টেমের প্রয়োগকে অসম্ভব করে তোলে।"
+},
+"batteryUses": {
+"en": "None. Not viable for electrochemical or atomic batteries due to atom-by-atom production limits.",
+"bn": "নেই। পরমাণু-বাই-পরমাণু উৎপাদন সীমার কারণে ইলেক্ট্রোকেমিক্যাল বা পারমাণবিক ব্যাটারির জন্য কার্যকর নয়।"
+},
+"aiHardwareUses": {
+"en": "None. Theoretical quantum tracking simulations utilize its relativistic electronic profile for code validating algorithms.",
+"bn": "নেই। তাত্ত্বিক কোয়ান্টাম ট্র্যাকিং সিমুলেশনগুলো কোড যাচাইকরণ অ্যালগরিদমের জন্য এর আপেক্ষিক ইলেকট্রনিক প্রোফাইল ব্যবহার করে।"
+},
+"renewableEnergyUses": {
+"en": "None. No practical link to energy generation or transmission mechanics.",
+"bn": "নেই। শক্তি উৎপাদন বা সঞ্চালন মেকানিক্সের সাথে কোনো ব্যবহারিক সম্পর্ক নেই।"
+},
+"nanotechnologyUses": {
+"en": "None. Individual atomic tracking limits nanostructural assemblies.",
+"bn": "নেই। একক পারমাণবিক ট্র্যাকিং এর ন্যানোকাঠামোগত সমাবেশকে সীমিত করে।"
+},
+"nuclearUses": {
+"en": "Acts as an essential diagnostic stepping-stone for understanding the alpha decay parameters of superheavy island-of-stability targets.",
+"bn": "সুপারহেভি 'আইল্যান্ড-অফ-স্ট্যাবিলিটি' লক্ষ্যের আলফা ক্ষয় প্যারামিটার বোঝার জন্য একটি অপরিহার্য ডায়াগনস্টিক ধাপ হিসেবে কাজ করে।"
+},
+"militaryUses": {
+"en": "None. Production quantities are completely insufficient for defense weaponization programs.",
+"bn": "নেই। প্রতিরক্ষা অস্ত্র কর্মসূচির জন্য উৎপাদন পরিমাণ সম্পূর্ণ অপর্যাপ্ত।"
+},
+"medicalUses": {
+"en": "None. Too short-lived and radioactive for targeted nuclear oncology tracks.",
+"bn": "নেই। টার্গেটেড নিউক্লিয়ার অনকোলজির জন্য এটি অতিরিক্ত স্বল্পস্থায়ী এবং তেজস্ক্রিয়।"
+},
+"foodIndustryUses": {
+"en": "None. Highly lethal radioactive hazard with zero food application viability.",
+"bn": "নেই। শূন্য খাদ্য প্রয়োগযোগ্যতা সহ এটি একটি অত্যন্ত মারাত্মক তেজস্ক্রিয় অবয়ব।"
+},
+"constructionUses": {
+"en": "None. Structurally non-existent on macroscales.",
+"bn": "নেই। ম্যাক্রোস্কেলে কাঠামোগতভাবে এর কোনো অস্তিত্ব নেই।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "None. Completely synthetic element with no natural biological function.",
+"bn": "নেই। কোনো প্রাকৃতিক জৈবিক কাজ ছাড়াই এটি একটি সম্পূর্ণ কৃত্রিম উপাদান।"
+},
+"humanBodyRole": {
+"en": "No natural physiological role. Extremely hazardous radiotoxic element due to intense alpha particle emission upon inhalation or ingestion.",
+"bn": "কোনো প্রাকৃতিক শারীরবৃত্তীয় ভূমিকা নেই। শ্বাস গ্রহণ বা গিললে তীব্র আলফা কণা নির্গমনের কারণে এটি অত্যন্ত বিপজ্জনক ও তেজস্ক্রিয়-বিষাক্ত উপাদান।"
+},
+"toxicity": {
+"en": "Extreme radiological toxicity. Causes severe radiation poisoning and cellular destruction.",
+"bn": "চরম তেজস্ক্রিয় বিষাক্ততা। এটি মারাত্মক বিকিরণজনিত অসুস্থতা এবং কোষের ধ্বংস ঘটায়।"
+},
+"environmentalImpact": {
+"en": "Negligible on a global scale due to its creation strictly within sealed, highly monitored particle physics laboratories.",
+"bn": "কঠোরভাবে সিল করা এবং উচ্চ পর্যবেক্ষণযুক্ত কণা পদার্থবিদ্যা ল্যাবরেটরির ভেতরে তৈরি হওয়ার কারণে বিশ্বব্যাপী এর পরিবেশগত প্রভাব নগণ্য।"
+},
+"pollutionRisks": {
+"en": "Presents localized hazard inside production hot-cells if containment fails during experimental target cooling.",
+"bn": "পরীক্ষামূলক লক্ষ্যবস্তু শীতল করার সময় কন্টেনমেন্ট ব্যর্থ হলে উৎপাদন হট-সেলের ভেতরে স্থানীয় ঝুঁকি তৈরি করে।"
+},
+"recyclingMethods": {
+"en": "Separated from irradiated targets using ion-exchange chromatography columns to salvage leftover actinide substrate.",
+"bn": "অবশিষ্ট অ্যাক্টিনাইড সাবস্ট্রেট উদ্ধার করতে আয়ন-এক্সচেঞ্জ ক্রোমাটোগ্রাফি কলাম ব্যবহার করে বিকিরিত লক্ষ্যবস্তু থেকে আলাদা করা হয়।"
+},
+"sustainabilityScore": 1.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "United States (Synthesized)",
+"bn": "যুক্তরাষ্ট্র (সংশ্লেষিত)"
+},
+{
+"en": "Russia (Synthesized)",
+"bn": "রাশিয়া (সংশ্লেষিত)"
+}
+],
+"miningMethods": {
+"en": "Not mined. Produced exclusively via nuclear bombardment of lighter actinide targets in heavy-ion accelerators.",
+"bn": "খনি থেকে আহরণ করা হয় না। হেভি-আয়ন অ্যাক্সিলারেটরে হালকা অ্যাক্টিনাইড লক্ষ্যবস্তুতে পারমাণবিক আঘাতের মাধ্যমে একচেটিয়াভাবে উৎপাদিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0% (Exists only when synthesized)",
+"bn": "০% (কেবল সংশ্লেষিত হলেই অস্তিত্ব থাকে)"
+},
+"earthCrust": {
+"en": "0% (Completely absent in nature)",
+"bn": "০% (প্রকৃতিতে সম্পূর্ণ অনুপস্থিত)"
+},
+"oceans": {
+"en": "0% (Completely absent in nature)",
+"bn": "০% (প্রকৃতিতে সম্পূর্ণ অনুপস্থিত)"
+}
+},
+"marketValue": {
+"en": "Priceless. Available only on an atom-by-atom basis for elite scientific collaborations.",
+"bn": "অমূল্য। অভিজাত বৈজ্ঞানিক সহযোগিতার জন্য কেবল পরমাণু-বাই-পরমাণু ভিত্তিতে উপলব্ধ।"
+},
+"futureDemand": {
+"en": "Highly restricted to specialized institutes exploring heavy-element syntheses and structural shell configurations.",
+"bn": "ভারী-উপাদান সংশ্লেষণ এবং কাঠামোগত শেল কনফিগারেশন অনুসন্ধানকারী বিশেষায়িত ইনস্টিটিউটগুলোর মধ্যে অত্যন্ত সীমিত।"
+},
+"globalImportance": {
+"en": "A key historic milestone confirming the stability trends predicted by actinide chemistry models.",
+"bn": "অ্যাক্টিনাইড রসায়ন মডেল দ্বারা অনুমিত স্থিতিশীলতার ধারা নিশ্চিত করার জন্য একটি প্রধান ঐতিহাসিক মাইলফলক।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Highly dangerous alpha emitter and spontaneous fission hazard. Requires advanced robotic hot-cell manipulation.",
+"bn": "অত্যন্ত বিপজ্জনক আলফা নির্গমনকারী এবং স্বতঃস্ফূর্ত ফিউশন ঝুঁকি। এর জন্য উন্নত রোবোটিক হট-সেল ম্যানিপুলেশন প্রয়োজন।"
+},
+"storageRequirements": {
+"en": "Must be contained within hermetically sealed glove boxes or shielded targets inside high-vacuum particle accelerator assemblies.",
+"bn": "উচ্চ-ভ্যাকুয়াম কণা অ্যাক্সিলারেটর অ্যাসেম্বলির ভেতরে হারমেটিকভাবে সিল করা গ্লাভ বক্স বা সুরক্ষিত লক্ষ্যের মধ্যে থাকতে হবে।"
+},
+"handlingProcedures": {
+"en": "Operated strictly through remote-handling masters under negative-pressure alpha containment architectures with real-time ionization tracking.",
+"bn": "রিয়েল-টাইম আয়নীকরণ ট্র্যাকিং সহ নেতিবাচক-চাপ আলফা কন্টেনমেন্ট আর্কিটেকচারের অধীনে রিমোট-হ্যান্ডলিং মাস্টারের মাধ্যমে কঠোরভাবে পরিচালিত হয়।"
+},
+"exposureRisks": {
+"en": "Internal ingestion leads to permanent bone matrix deposition, profound bone marrow destruction, and rapid oncogenesis.",
+"bn": "অভ্যন্তরীণভাবে গ্রহণের ফলে হাড়ের ম্যাট্রিক্সে স্থায়ী সঞ্চয়, মারাত্মক অস্থিমজ্জা ধ্বংস এবং দ্রুত ক্যান্সার সৃষ্টি হয়।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radioactive Hazard)",
+"bn": "চরম ঝুঁকি (তেজস্ক্রিয়তার বিপদ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+},
+{
+"en": "Highly Radiotoxic Alpha Source",
+"bn": "অত্যন্ত তেজস্ক্রিয়-বিষাক্ত আলফা উৎস"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Mendelevium is a completely man-made, highly radioactive element. It is so rare that it was discovered by making just one single atom at a time.",
+"bn": "মেন্ডেলেভিয়াম হলো সম্পূর্ণ মানব-সৃষ্ট, অত্যন্ত তেজস্ক্রিয় একটি উপাদান। এটি এতটাই দুর্লভ যে একবারে মাত্র একটি একক পরমাণু তৈরি করে এটি আবিষ্কৃত হয়েছিল।"
+},
+"advancedExplanation": {
+"en": "Mendelevium is the 13th transuranic member of the actinide series, featuring a [Rn] 5f¹³ 7s² electron configuration. Relativistic quantum effects stabilize its +2 state compared to lighter lanthanide counterparts, demonstrating anomalous reduction potentials.",
+"bn": "মেন্ডেলেভিয়াম হলো অ্যাক্টিনাইড সিরিজের ১৩তম ট্রান্সইউরেনিয়াম সদস্য, যার ইলেকট্রন বিন্যাস [Rn] 5f¹³ 7s²। আপেক্ষিক কোয়ান্টাম প্রভাব হালকা ল্যান্থানাইড সমকক্ষদের তুলনায় এর +২ অবস্থাকে স্থিতিশীল করে, যা অস্বাভাবিক বিজারণ বিভব প্রদর্শন করে।"
+},
+"funFacts": [
+{
+"en": "Mendelevium was named after Dmitri Mendeleev during the Cold War, a bold move by American scientists that fostered international scientific unity.",
+"bn": "স্নায়ুযুদ্ধের সময় দিমিত্রি মেন্ডেলিভের নামানুসারে মেন্ডেলেভিয়ামের নামকরণ করা হয়েছিল, যা ছিল মার্কিন বিজ্ঞানীদের একটি সাহসী পদক্ষেপ এবং এটি আন্তর্জাতিক বৈজ্ঞানিক ঐক্যকে উন্নীত করেছিল।"
+},
+{
+"en": "The discovery team could detect single atoms of mendelevium by listening to the distinct ticking pulses of its spontaneous fission decay.",
+"bn": "আবিষ্কারক দল মেন্ডেলেভিয়ামের স্বতঃস্ফূর্ত ফিশন ক্ষয়ের স্বতন্ত্র টিকটিক স্পন্দন শুনে এর একক পরমাণু সনাক্ত করতে পেরেছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 100,
+"relation": {
+"en": "While Fermium (100) is the heaviest element that can be produced via neutron bombardment in conventional nuclear reactors, Mendelevium (101) requires heavy-ion accelerators.",
+"bn": "প্রচলিত পারমাণবিক চুল্লিতে নিউট্রন আঘাতের মাধ্যমে তৈরি করা যায় এমন সবচেয়ে ভারী উপাদান হলো ফার্মিয়াম (১০০), যেখানে মেন্ডেলেভিয়াম (১০১) উৎপাদনের জন্য হেভি-আয়ন অ্যাক্সিলারেটরের প্রয়োজন হয়।"
+}
+}
+],
+"relatedElements": [99, 100, 102, 63],
+"quizQuestions": [
+{
+"question": {
+"en": "Mendelevium was the historical first element to be synthesized via which paradigm?",
+"bn": "মেন্ডেলেভিয়াম কোন ঐতিহাসিক পদ্ধতিতে সংশ্লেষিত হওয়া প্রথম উপাদান ছিল?"
+},
+"options": [
+{
+"en": "Bulk plasma confinement",
+"bn": "বাল্ক প্লাজমা কনফাইনমেন্ট"
+},
+{
+"en": "One atom at a time synthesis",
+"bn": "একবারে একটি পরমাণু সংশ্লেষণ"
+},
+{
+"en": "Thermonuclear debris filtering",
+"bn": "থার্মোনিউক্লিয়ার বর্জ্য ফিল্টারিং"
+},
+{
+"en": "Laser isotope separation",
+"bn": "লেজার আইসোটোপ পৃথকীকরণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Mendelevium was uniquely identified by registering individual transmutation events, averaging roughly one atom per experiment initially.",
+"bn": "মেন্ডেলেভিয়াম অনন্যভাবে একক রূপান্তর ঘটনা নিবন্ধনের মাধ্যমে চিহ্নিত করা হয়েছিল, প্রাথমিকভাবে প্রতি পরীক্ষায় গড়ে প্রায় একটি পরমাণু পাওয়া যেত।"
+}
+},
+{
+"question": {
+"en": "What is the ground-state electron configuration of a neutral mendelevium atom?",
+"bn": "একটি নিরপেক্ষ মেন্ডেলেভিয়াম পরমাণুর গ্রাউন্ড-স্টেট ইলেকট্রন বিন্যাস কী?"
+},
+"options": [
+{
+"en": "[Rn] 5f¹² 6d¹ 7s²",
+"bn": "[Rn] 5f¹² 6d¹ 7s²"
+},
+{
+"en": "[Rn] 5f¹³ 7s²",
+"bn": "[Rn] 5f¹³ 7s²"
+},
+{
+"en": "[Rn] 5f¹⁴ 7s¹",
+"bn": "[Rn] 5f¹⁴ 7s¹"
+},
+{
+"en": "[Xe] 4f¹³ 6s²",
+"bn": "[Xe] 4f¹³ 6s²"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Mendelevium fills the 5f subshell to 13 electrons, leaving the 6d subshell empty in its ground state.",
+"bn": "মেন্ডেলেভিয়াম তার গ্রাউন্ড স্টেটে ৫f সাবশেল ১৩টি ইলেকট্রন দ্বারা পূর্ণ করে এবং ৬d সাবশেল খালি রাখে।"
+}
+},
+{
+"question": {
+"en": "Which target element was bombarded with alpha particles to discover mendelevium in 1955?",
+"bn": "১৯৫৫ সালে মেন্ডেলেভিয়াম আবিষ্কারের জন্য কোন লক্ষ্য উপাদানকে আলফা কণা দ্বারা আঘাত করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Californium",
+"bn": "ক্যালিফোর্নিয়াম"
+},
+{
+"en": "Fermium",
+"bn": "ফার্মিয়াম"
+},
+{
+"en": "Einsteinium",
+"bn": "আইনস্টাইনিয়াম"
+},
+{
+"en": "Plutonium",
+"bn": "প্লুটোনিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Einsteinium-253 was target-plated onto gold foil and bombarded with helium nuclei to yield mendelevium-256.",
+"bn": "আইনস্টাইনিয়াম-২৫৩-কে সোনার ফয়েলের ওপর লক্ষ্যবস্তু হিসেবে প্রলেপ দিয়ে হিলিয়াম নিউক্লিয়াস দ্বারা আঘাত করে মেন্ডেলেভিয়াম-২৫৬ পাওয়া গিয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Mendelevium exhibits a surprisingly stable +2 oxidation state in solution due to which structural trait?",
+"bn": "কোন কাঠামোগত বৈশিষ্ট্যের কারণে মেন্ডেলেভিয়াম দ্রবণে একটি আশ্চর্যজনকভাবে স্থিতিশীল +২ জারণ অবস্থা প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "An empty f-orbital network",
+"bn": "একটি খালি f-অরবিটাল নেটওয়ার্ক"
+},
+{
+"en": "Proximity to the highly stable 5f¹⁴ configuration upon losing two electrons",
+"bn": "দুটি ইলেকট্রন হারানোর পর অত্যন্ত স্থিতিশীল ৫f¹⁴ বিন্যাসের কাছাকাছি পৌঁছানো"
+},
+{
+"en": "High polarizability of the 7s shell",
+"bn": "৭s শেলের উচ্চ মেরুকরণ ক্ষমতা"
+},
+{
+"en": "Complete chemical inertness",
+"bn": "সম্পূর্ণ রাসায়নিক নিষ্ক্রিয়তা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Losing two electrons leaves a near-full 5f¹³ layout which reliativistic shielding forces stabilize, making Md2+ accessible under mild reducing tracks.",
+"bn": "দুটি ইলেকট্রন হারালে একটি প্রায় পূর্ণ ৫f¹³ বিন্যাস থাকে যা আপেক্ষিক শিল্ডিং বল দ্বারা স্থিতিশীল হয়, ফলে মৃদু বিজারণের মাধ্যমে Md2+ পাওয়া সম্ভব।"
+}
+},
+{
+"question": {
+"en": "What is the primary method used to separate synthesized mendelevium from tracking contaminants?",
+"bn": "সংশ্লেষিত মেন্ডেলেভিয়ামকে অপদ্রব্য থেকে আলাদা করার জন্য ব্যবহৃত প্রাথমিক পদ্ধতি কোনটি?"
+},
+"options": [
+{
+"en": "Fractional distillation",
+"bn": "আংশিক পাতন"
+},
+{
+"en": "Magnetic gas centrifuge",
+"bn": "চৌম্বকীয় গ্যাস সেন্ট্রিফিউজ"
+},
+{
+"en": "Cation-exchange chromatography using ammonium alpha-hydroxyisobutyrate eluent",
+"bn": "অ্যামোনিয়াম আলফা-হাইড্রক্সিআইসোবিউটায়ারেট এলুয়েন্ট ব্যবহার করে ক্যাটায়ন-এক্সচেঞ্জ ক্রোমাটোগ্রাফি"
+},
+{
+"en": "Zone refining recrystallization",
+"bn": "জোন রিফাইনিং রিক্রিস্টালাইজেশন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Elution positioning on ion-exchange resins enables clean separation of trivalent heavy actinides based on effective ionic radii changes.",
+"bn": "আয়ন-এক্সচেঞ্জ রেজিনের ওপর এলুয়েশন অবস্থান কার্যকর আয়নিক ব্যাসার্ধ পরিবর্তনের ওপর ভিত্তি করে ট্রাইভ্যালেন্ট ভারী অ্যাক্টিনাইডের পরিষ্কার পৃথকীকরণ নিশ্চিত করে।"
+}
+},
+{
+"question": {
+"en": "For whom was element 101 named?",
+"bn": "১০১ নম্বর উপাদানটির নামকরণ কার নামানুসারে করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Enrico Fermi",
+"bn": "এনরিকো ফার্মি"
+},
+{
+"en": "Dmitri Mendeleev",
+"bn": "দিমিত্রি মেন্ডেলিভ"
+},
+{
+"en": "Ernest Lawrence",
+"bn": "আর্নেস্ট লরেন্স"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It honors Dmitri Mendeleev, who structured the Periodic Table based on recurring atomic properties.",
+"bn": "এটি দিমিত্রি মেন্ডেলিভকে সম্মানিত করে, যিনি পুনরাবৃত্তিমূলক পারমাণবিক বৈশিষ্ট্যের ওপর ভিত্তি করে পর্যায় সারণি তৈরি করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "What type of decay dominates mendelevium-258, which has a relatively long half-life of 51.5 days?",
+"bn": "মেন্ডেলেভিয়াম-২৫৮, যার অর্ধায়ু তুলনামূলকভাবে দীর্ঘ ৫১.৫ দিন, তাতে কোন ধরণের ক্ষয় প্রাধান্য পায়?"
+},
+"options": [
+{
+"en": "Pure Beta-plus decay",
+"bn": "বিশুদ্ধ বিটা-প্লাস ক্ষয়"
+},
+{
+"en": "Alpha decay",
+"bn": "আলফা ক্ষয়"
+},
+{
+"en": "Gamma internal transition",
+"bn": "গামা অভ্যন্তরীণ রূপান্তর"
+},
+{
+"en": "Spontaneous fission only",
+"bn": "শুধুমাত্র স্বতঃস্ফূর্ত ফিশন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Mendelevium-258 decays primarily via alpha emission into einsteinium-254.",
+"bn": "মেন্ডেলেভিয়াম-২৫৮ প্রাথমিকভাবে আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়ে আইনস্টাইনিয়াম-২৫৪-এ রূপান্তরিত হয়।"
+}
+},
+{
+"question": {
+"en": "Why cannot bulk structural pieces of mendelevium metal be manufactured?",
+"bn": "মেন্ডেলেভিয়াম ধাতুর কোনো বাল্ক বা বড় কাঠামোগত অংশ তৈরি করা যায় না কেন?"
+},
+"options": [
+{
+"en": "It gasifies at room temperature",
+"bn": "এটি কক্ষ তাপমাত্রায় গ্যাসীয় রূপ নেয়"
+},
+{
+"en": "The production rate is limited to trace atoms and the half-life is too short",
+"bn": "উৎপাদন হার কেবল অল্প কয়েকটি পরমাণুতে সীমাবদ্ধ এবং এর অর্ধায়ু অত্যন্ত সংক্ষিপ্ত"
+},
+{
+"en": "It dissolves structural containers instantly",
+"bn": "এটি কাঠামোগত পাত্রকে সাথে সাথে দ্রবীভূত করে ফেলে"
+},
+{
+"en": "It is completely non-reactive",
+"bn": "এটি সম্পূর্ণ অপ্রতিক্রিয়াশীল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Only picogram quantities are ever produced over extended reactor bombardment timelines, prohibiting macro-engineering uses.",
+"bn": "দীর্ঘায়িত চুল্লি বোমাবর্ষণের সময়কালের মাধ্যমে কেবল পিকোগ্রাম পরিমাণ উৎপাদিত হয়, যা ম্যাক্রো-ইঞ্জিনিয়ারিং ব্যবহারকে অসম্ভব করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Mendelevium belongs to which specific block of the periodic table?",
+"bn": "মেন্ডেলেভিয়াম পর্যায় সারণির কোন নির্দিষ্ট ব্লকের অন্তর্ভুক্ত?"
+},
+"options": [
+{
+"en": "p-block",
+"bn": "p-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "d-ব্লক"
+},
+{
+"en": "s-block",
+"bn": "s-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "f-ব্লক"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "As an actinide element, its outer filling valence pathways place it squarely in the f-block inner transition series.",
+"bn": "একটি অ্যাক্টিনাইড উপাদান হিসেবে এর বাইরের যোজনী পথ এটিকে পর্যায় সারণির f-ব্লক অভ্যন্তরীণ অবস্থান্তর সিরিজে স্থান দেয়।"
+}
+},
+{
+"question": {
+"en": "What isotope of mendelevium was the very first to be synthesized historically?",
+"bn": "ঐতিহাসিকভাবে মেন্ডেলেভিয়ামের কোন আইসোটোপটি সবার প্রথম সংশ্লেষিত হয়েছিল?"
+},
+"options": [
+{
+"en": "Md-256",
+"bn": "Md-২৫৬"
+},
+{
+"en": "Md-258",
+"bn": "Md-২৫৮"
+},
+{
+"en": "Md-260",
+"bn": "Md-২৬০"
+},
+{
+"en": "Md-252",
+"bn": "Md-২৫২"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Mendelevium-256 was the initial isotope identified via cyclotron tracing, with a half-life of 78 minutes.",
+"bn": "সাইক্লোট্রন ট্র্যাকিংয়ের মাধ্যমে চিহ্নিত প্রথম আইসোটোপটি ছিল মেন্ডেলেভিয়াম-২৫৬, যার অর্ধায়ু ৭৮ মিনিট।"
+}
+},
+{
+"question": {
+"en": "Which actinide neighbor follows mendelevium in atomic number chronology?",
+"bn": "পারমাণবিক সংখ্যার ক্রমানুসারে মেন্ডেলেভিয়ামের ঠিক পরে কোন অ্যাক্টিনাইড প্রতিবেশী অবস্থান করে?"
+},
+"options": [
+{
+"en": "Nobelium (102)",
+"bn": "নোবেলিয়াম (১০২)"
+},
+{
+"en": "Lawrencium (103)",
+"bn": "লরেনসিয়াম (১০৩)"
+},
+{
+"en": "Rutherfordium (104)",
+"bn": "রাদারফোর্ডিয়াম (১০৪)"
+},
+{
+"en": "Fermium (100)",
+"bn": "ফার্মিয়াম (১০০)"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Nobelium has atomic number 102, directly completing the penultimate position of the actinide shell tier.",
+"bn": "নোবেলিয়ামের পারমাণবিক সংখ্যা ১০২, যা সরাসরি অ্যাক্টিনাইড শেল স্তরের শেষভাগের আগের অবস্থানটি পূরণ করে।"
+}
+},
+{
+"question": {
+"en": "What instrumental system recorded the first mendelevium isotope's unique fission cycles?",
+"bn": "কোন ইন্সট্রুমেন্টাল সিস্টেমটি প্রথম মেন্ডেলেভিয়াম আইসোটোপের অনন্য ফিশন চক্র রেকর্ড করেছিল?"
+},
+"options": [
+{
+"en": "Mass spectrometer grids",
+"bn": "মাস স্পেক্ট্রোমিটার গ্রিড"
+},
+{
+"en": "Proportional counter tied to an audio amplifier setup",
+"bn": "একটি অডিও অ্যামপ্লিফায়ার সেটআপের সাথে যুক্ত প্রোপোরশনাল কাউন্টার"
+},
+{
+"en": "Geiger-Müller hand wands",
+"bn": "গাইগার-মুলার হ্যান্ড ওয়ান্ডস"
+},
+{
+"en": "Scintillation photographic plates",
+"bn": "সিন্টিলেশন ফটোগ্রাফিক প্লেট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The discovery was verified by connecting the fission counter to a sound system so researchers could hear pulses live.",
+"bn": "ফিশন কাউন্টারটিকে একটি সাউন্ড সিস্টেমের সাথে সংযুক্ত করে এই আবিষ্কার যাচাই করা হয়েছিল যাতে গবেষকরা সরাসরি স্পন্দন শুনতে পান।"
+}
+},
+{
+"question": {
+"en": "In solution chemistry, what is the standard color of Md³⁺ aquo complexes?",
+"bn": "দ্রবণ রসায়নে, Md³⁺ অ্যাকুও কমপ্লেক্সের আদর্শ রঙ কী?"
+},
+"options": [
+{
+"en": "Pale pink / Greenish (Predicted)",
+"bn": "ফ্যাকাশে গোলাপী / সবুজাভ (অনুমিত)"
+},
+{
+"en": "Deep blue",
+"bn": "গাঢ় নীল"
+},
+{
+"en": "Jet black",
+"bn": "কুচকুচে কালো"
+},
+{
+"en": "Intense orange",
+"bn": "গাঢ় কমলা"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Due to f-f transitions within the close shell, predicted colors follow pale values similar to light rare earth counterparts.",
+"bn": "বদ্ধ শেলের ভেতরে f-f স্থানান্তরের কারণে, অনুমিত রঙগুলো হালকা বিরল মৃত্তিকা উপাদানগুলোর মতোই ফ্যাকাশে মানের হয়।"
+}
+},
+{
+"question": {
+"en": "Which major threat does mendelevium toxicity present if released to unmonitored tissue arrays?",
+"bn": "অনিয়ন্ত্রিত টিস্যু বিন্যাসে মেন্ডেলেভিয়াম মুক্ত হলে কোন বড় বিষাক্ততার ঝুঁকি তৈরি হয়?"
+},
+"options": [
+{
+"en": "High carbohydrate denaturation",
+"bn": "উচ্চ কার্বোহাইড্রেট ডেনাচুরেশন"
+},
+{
+"en": "Heavy internal radiation injury via selective localization in human skeletal matrices",
+"bn": "মানব কঙ্কালের ম্যাট্রিক্সে নির্বাচনী সঞ্চয়ের মাধ্যমে মারাত্মক অভ্যন্তরীণ বিকিরণ আঘাত"
+},
+{
+"en": "Instant loss of hair pigmentation",
+"bn": "চুলের পিগমেন্টেশন সাথে সাথে হারিয়ে যাওয়া"
+},
+{
+"en": "Allergic dermal lesions",
+"bn": "ত্বকের অ্যালার্জিজনিত ক্ষত"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like other transuranic actinides, mendelevium mimics bone-seeking minerals, concentrating damaging alpha rays near hematopoietic centers.",
+"bn": "অন্যান্য ট্রান্সইউরেনিয়াম অ্যাক্টিনাইডের মতো, মেন্ডেলেভিয়াম হাড়ের খনিজগুলোকে অনুকরণ করে, যার ফলে হেমাটোপয়েটিক কেন্দ্রের কাছাকাছি ক্ষতিকারক আলফা রশ্মি ঘনীভূত হয়।"
+}
+},
+{
+"question": {
+"en": "What particle configuration is accelerated to transform einsteinium into mendelevium?",
+"bn": "আইনস্টাইনিয়ামকে মেন্ডেলেভিয়ামে রূপান্তর করতে কোন কণা বিন্যাসকে ত্বরান্বিত করা হয়?"
+},
+"options": [
+{
+"en": "Thermal neutron beam",
+"bn": "থার্মাল নিউট্রন বিম"
+},
+{
+"en": "Helium-4 nuclei (Alpha particles)",
+"bn": "হিলিয়াম-৪ নিউক্লিয়াস (আলফা কণা)"
+},
+{
+"en": "Deuterium gas stream",
+"bn": "ডিউটেরিয়াম গ্যাস প্রবাহ"
+},
+{
+"en": "Positron arcs",
+"bn": "পজিট্রন আর্কস"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Alpha bombardment supplies two protons to einsteinium (99), cleanly leaping the sequence to atomic number 101.",
+"bn": "আলফা আঘাত আইনস্টাইনিয়ামে (৯৯) দুটি প্রোটন সরবরাহ করে, যা ক্রমানুসারে সরাসরি পারমাণবিক সংখ্যা ১০১-এ উন্নীত করে।"
+}
+},
+{
+"question": {
+"en": "What is the approximate coordination index favored by trivalent mendelevium in standard water solutions?",
+"bn": "আদর্শ জলের দ্রবণে ট্রাইভ্যালেন্ট মেন্ডেলেভিয়াম দ্বারা পছন্দের আনুমানিক কোঅর্ডিনেশন ইনডেক্স কত?"
+},
+"options": [
+{
+"en": "2",
+"bn": "২"
+},
+{
+"en": "4",
+"bn": "৪"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "8 or 9",
+"bn": "৮ অথবা ৯"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Heavy actinides prefer high coordination frameworks (8-9 water caps) due to their large f-orbital ionic volumes.",
+"bn": "ভারী অ্যাক্টিনাইডগুলো তাদের বৃহৎ f-অরবিটাল আয়নিক আয়তনের কারণে উচ্চ সমন্বয় কাঠামো (৮-৯ ওয়াটার ক্যাপ) পছন্দ করে।"
+}
+},
+{
+"question": {
+"en": "Which laboratory holds the historic credit for the synthesis and baseline chemical tracking of mendelevium?",
+"bn": "মেন্ডেলেভিয়ামের সংশ্লেষণ এবং মৌলিক রাসায়নিক ট্র্যাকিংয়ের জন্য কোন ল্যাবরেটরিটি ঐতিহাসিক কৃতিত্বের অধিকারী?"
+},
+"options": [
+{
+"en": "CERN",
+"bn": "সার্ন"
+},
+{
+"en": "Oak Ridge National Laboratory",
+"bn": "ওক রিজ ন্যাশনাল ল্যাবরেটরি"
+},
+{
+"en": "Lawrence Berkeley Laboratory",
+"bn": "লরেন্স বার্কলে ল্যাবরেটরি"
+},
+{
+"en": "Los Alamos Research Base",
+"bn": "লস আলামোস রিসার্চ বেস"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The element was synthesized using Berkeley's 60-inch cyclotron by a specialized heavy-element discovery consortium.",
+"bn": "Berkeley-এর ৬০ ইঞ্চির সাইক্লোট্রন ব্যবহার করে একটি বিশেষায়িত ভারী-উপাদান আবিষ্কারক দল দ্বারা উপাদানটি সংশ্লেষিত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "The absolute chemical verification of mendelevium relied heavily on showing matches with which rare earth lanthanide element?",
+"bn": "মেন্ডেলেভিয়ামের নিখুঁত রাসায়নিক সত্যতা কোন বিরল মৃত্তিকা ল্যান্থানাইড উপাদানের সাথে মিল দেখানোর ওপর বহুলাংশে নির্ভরশীল ছিল?"
+},
+"options": [
+{
+"en": "Thulium",
+"bn": "থুলিয়াম"
+},
+{
+"en": "Europium",
+"bn": "ইউরোপিয়াম"
+},
+{
+"en": "Neodymium",
+"bn": "নিওডিমিয়াম"
+},
+{
+"en": "Thulium's neighbor, Thulium itself behaves as its chemical analogue",
+"bn": "থুলিয়াম, থুলিয়াম নিজেই এর রাসায়নিক অ্যানালগ বা অনুরূপ হিসেবে আচরণ করে"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Thulium (69) represents the chemical lanthanide analogue of mendelevium, showing matching elution trajectories in parallel chromatographic test rows.",
+"bn": "থুলিয়াম (৬৯) মেন্ডেলেভিয়ামের রাসায়নিক ল্যান্থানাইড অ্যানালগ বা অনুরূপ উপস্থাপন করে, যা সমান্তরাল ক্রোমাটোগ্রাফিক পরীক্ষার সারিতে একই রকম এলুয়েশন ট্রাজেক্টরি দেখায়।"
+}
+},
+{
+"question": {
+"en": "Why does element 101 not present risks of industrial pollution in surface groundwater layers?",
+"bn": "১০১ নম্বর উপাদানটি ভূপৃষ্ঠের ভূগর্ভস্থ জলের স্তরে শিল্প দূষণের ঝুঁকি তৈরি করে না কেন?"
+},
+"options": [
+{
+"en": "It transforms into harmless helium gas instantly",
+"bn": "এটি সাথে সাথে ক্ষতিকারক হিলিয়াম গ্যাসে রূপান্তরিত হয়"
+},
+{
+"en": "It exists exclusively in specialized research accelerator enclosures and decays quickly",
+"bn": "এটি একচেটিয়াভাবে বিশেষায়িত গবেষণা অ্যাক্সিলারেটরের ভেতরে থাকে এবং দ্রুত ক্ষয়প্রাপ্ত হয়"
+},
+{
+"en": "It is naturally insoluble in water matrices",
+"bn": "এটি প্রাকৃতিকভাবে জলের ম্যাট্রিক্সে অদ্রবণীয়"
+},
+{
+"en": "It converts into non-toxic iron compounds",
+"bn": "এটি বিষাক্ত নয় এমন লোহার যৌগে রূপান্তরিত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because mendelevium is never manufactured in macro industrial cycles, environmental exposure risks outside particle traps are virtually zero.",
+"bn": "যেহেতু মেন্ডেলেভিয়াম ম্যাক্রো শিল্প চক্রে কখনোই তৈরি হয় না, তাই কণা ট্র্যাপের বাইরে পরিবেশগত সংস্পর্শের ঝুঁকি কার্যত শূন্য।"
+}
+},
+{
+"question": {
+"en": "What physical force or mechanism prevents the valence electrons of mendelevium from tracking perfectly with lighter elements of the same group?",
+"bn": "কোন ভৌত বল বা প্রক্রিয়া মেন্ডেলেভিয়ামের যোজনী ইলেকট্রনগুলোকে একই গ্রুপের হালকা উপাদানগুলোর সাথে নিখুঁতভাবে মেলাতে বাধা দেয়?"
+},
+"options": [
+{
+"en": "Centrifugal acceleration vectors",
+"bn": "কেন্দ্রবিমুখী ত্বরণ ভেক্টর"
+},
+{
+"en": "Relativistic effects causing contractions of the inner s and p shells alongside orbital shielding anomalies",
+"bn": "আপেক্ষিক প্রভাব যা অরবিটাল শিল্ডিং অসঙ্গতির সাথে অভ্যন্তরীণ s এবং p শেলের সংকোচন ঘটায়"
+},
+{
+"en": "High nuclear thermal expansion values",
+"bn": "উচ্চ পারমাণবিক তাপীয় প্রসারণ মান"
+},
+{
+"en": "Van der Waals grid decay",
+"bn": "ভ্যান ডার ওয়ালস গ্রিড ক্ষয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "As core velocities approach fractions of lightspeed in superheavy atoms, relativistic orbital shifts distort simple periodicity guidelines.",
+"bn": "সুপারহেভি বা অতিভারী পরমাণুতে মূল বেগ আলোর বেগের কাছাকাছি পৌঁছানোর কারণে, আপেক্ষিক অরবিটাল পরিবর্তন সাধারণ পর্যায়বৃত্তির নিয়মগুলোকে বিকৃত করে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Mendelevium is stable enough to build custom atomic target instruments.",
+"bn": "মেন্ডেলেভিয়াম কাস্টম পারমাণবিক লক্ষ্য সরঞ্জাম তৈরির জন্য যথেষ্ট স্থিতিশীল।"
+}
+],
+"learningTips": [
+{
+"en": "Associate 101 with the foundational genius Dmitri Mendeleev. Think of it as element 101 honoring the creator of the 1st Periodic Table system.",
+"bn": "১০১ নম্বরটিকে পর্যায় সারণির প্রতিষ্ঠাতা দিমিত্রি মেন্ডেলিভের সাথে যুক্ত করুন। মনে রাখুন ১ম পর্যায় সারণি ব্যবস্থার স্রষ্টাকে সম্মানিত করে এই ১০১ নম্বর উপাদানটির নামকরণ করা হয়েছিল।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Md + 6HCl → 2MdCl₃ + 3H₂",
+"description": {
+"en": "Theoretical reaction of metallic mendelevium with hydrochloric acid to form soluble mendelevium chloride.",
+"bn": "দ্রবণীয় মেন্ডেলেভিয়াম ক্লোরাইড গঠনের জন্য হাইড্রোক্লোরিক অ্যাসিডের সাথে ধাতব মেন্ডেলেভিয়ামের তাত্ত্বিক বিক্রিয়া।"
+}
+},
+{
+"equation": "4Md + 3O₂ → 2Md₂O₃",
+"description": {
+"en": "Theoretical oxidation of mendelevium metal when exposed to oxygen at elevated temperatures.",
+"bn": "উচ্চ তাপমাত্রায় অক্সিজেনের সংস্পর্শে আসলে ধাতব মেন্ডেলেভিয়ামের তাত্ত্বিক জারণ।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Md → Md³⁺ + 3e⁻",
+"description": {
+"en": "Standard ionization half-reaction showcasing the primary oxidation pathway in acidic media.",
+"bn": "অম্লীয় মাধ্যমে প্রাথমিক জারণ পথ প্রদর্শনকারী আদর্শ আয়নীকরণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Md³⁺ + e⁻ → Md²⁺",
+"description": {
+"en": "Reduction of trivalent mendelevium to its stable divalent state using strong reducing agents like Jones reductor.",
+"bn": "জোন্স রিডাক্টরের মতো শক্তিশালী বিজারণ এজেন্ট ব্যবহার করে ট্রাইভ্যালেন্ট মেন্ডেলেভিয়ামকে তার স্থিতিশীল ডাইভ্যালেন্ট অবস্থায় বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Highly Polar Ionic Coordination Bond",
+"bn": "উচ্চ পোলার আয়নিক সন্নিবেশ বন্ধন"
+},
+"molecule": "MdCl₃",
+"description": {
+"en": "Mendelevium shifts outer electron charge centers to chlorine ions, forming localized tracer ionic networks.",
+"bn": "মেন্ডেলেভিয়াম তার বাইরের ইলেকট্রন আধান কেন্দ্রগুলোকে ক্লোরিন আয়নে স্থানান্তরিত করে স্থানীয় ট্রেসার আয়নিক নেটওয়ার্ক গঠন করে।"
+}
+}
+]
+}
+}

@@ -1,0 +1,1028 @@
+{
+  "elementId": 16,
+  "basicInformation": {
+    "atomicNumber": 16,
+    "symbol": "S",
+    "name": {
+      "en": "Sulfur",
+      "bn": "সালফার"
+    },
+    "pronunciation": {
+      "en": "/ˈsʌlfər/",
+      "bn": "সাল-ফার"
+    },
+    "atomicMass": 32.06,
+    "category": {
+      "en": "Reactive nonmetal",
+      "bn": "সক্রিয় অধাতু"
+    },
+    "group": 16,
+    "period": 3,
+    "block": "p",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Lemon yellow crystalline solid",
+      "bn": "লেবু-হলুদ স্ফটিকাকার কঠিন"
+    },
+    "color": {
+      "en": "Yellow",
+      "bn": "হলুদ"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Known since antiquity (formally characterized by Antoine Lavoisier, 1777)",
+      "bn": "প্রাচীনকাল থেকেই পরিচিত (আনুষ্ঠানিকভাবে অ্যান্টোইন ল্যাভয়সিয়ে দ্বারা চিহ্নিত, ১৭৭৭)"
+    },
+    "discoveryYear": 1777,
+    "discoveryLocation": {
+      "en": "Ancient civilizations; France (recognition as element)",
+      "bn": "প্রাচীন সভ্যতা; ফ্রান্স (মৌল হিসেবে স্বীকৃতি)"
+    },
+    "discoveryStory": {
+      "en": "Sulfur (brimstone) was known to ancient cultures and burned in religious rites. Lavoisier in 1777 demonstrated it was an element, not a compound.",
+      "bn": "সালফার (গন্ধক) প্রাচীন সংস্কৃতিতে পরিচিত ছিল এবং ধর্মীয় আচারে পোড়ানো হতো। ল্যাভয়সিয়ে ১৭৭৭ সালে প্রমাণ করেন যে এটি একটি যৌগ নয় বরং একটি মৌল।"
+    },
+    "historicalUses": {
+      "en": "Used in gunpowder, vulcanization of rubber by Charles Goodyear (1839), and traditional medicines.",
+      "bn": "বারুদে ব্যবহৃত হতো, চার্লস গুডইয়ার রাবার ভালকানাইজেশনে (১৮৩৯) এবং প্রাচীন ঔষধে ব্যবহার করতেন।"
+    },
+    "famousExperiments": {
+      "en": "Goodyear's discovery of rubber vulcanization by heating natural rubber with sulfur.",
+      "bn": "প্রাকৃতিক রাবারকে সালফারের সাথে উত্তপ্ত করে রাবার ভালকানাইজেশন আবিষ্কার করেন গুডইয়ার।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 16,
+    "neutrons": 16,
+    "electrons": 16,
+    "valenceElectrons": 6,
+    "shells": 3,
+    "shellDistribution": [
+      2,
+      8,
+      6
+    ],
+    "electronConfiguration": "[Ne] 3s² 3p⁴",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 4
+    },
+    "oxidationStates": [
+      -2,
+      -1,
+      0,
+      2,
+      4,
+      6
+    ],
+    "quantumNumbers": {
+      "principal": 3,
+      "azimuthal": 1,
+      "magnetic": -1,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 2.07,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 388.36,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 717.8,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 88,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 105,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 180,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.205,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.708,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 2.0,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Orthorhombic (α-S₈)",
+      "bn": "অর্থোরম্বিক (α-S₈)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 2.58,
+    "ionizationEnergy": {
+      "value": 999.6,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 200.0,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Reactive with most metals and oxygen; forms sulfides, sulfates, and sulfites.",
+      "bn": "অধিকাংশ ধাতু ও অক্সিজেনের সাথে প্রতিক্রিয়াশীল; সালফাইড, সালফেট ও সালফাইট গঠন করে।"
+    },
+    "commonCompounds": [
+      "H₂S",
+      "SO₂",
+      "SO₃",
+      "H₂SO₄",
+      "FeS₂"
+    ],
+    "flameTestColor": {
+      "en": "Blue",
+      "bn": "নীল"
+    },
+    "spectralLines": [
+      "469.4nm",
+      "545.4nm",
+      "604.5nm",
+      "675.7nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Sulfuric acid (H₂SO₄) production — the world's most produced industrial chemical; used in fertilizers, refining, and metals processing.",
+      "bn": "সালফিউরিক অ্যাসিড (H₂SO₄) উৎপাদন — বিশ্বে সর্বাধিক উৎপাদিত শিল্প রাসায়নিক; সার, পরিশোধন ও ধাতব প্রক্রিয়াকরণে ব্যবহৃত।"
+    },
+    "commercialUses": {
+      "en": "Rubber vulcanization, matches, fungicides, gunpowder.",
+      "bn": "রাবার ভালকানাইজেশন, দিয়াশলাই, ছত্রাকনাশক, বারুদ।"
+    },
+    "electronicsUses": {
+      "en": "Sulfur-containing polymers and conductive composites in flexible electronics.",
+      "bn": "নমনীয় ইলেকট্রনিক্সে সালফারযুক্ত পলিমার ও পরিবাহী কম্পোজিট।"
+    },
+    "semiconductorUses": {
+      "en": "Sulfide compounds (CdS, ZnS, MoS₂) used in photodetectors and 2D semiconductors.",
+      "bn": "সালফাইড যৌগ (CdS, ZnS, MoS₂) ফটোডিটেক্টর ও ২ডি অর্ধপরিবাহীতে ব্যবহৃত।"
+    },
+    "aerospaceUses": {
+      "en": "Sulfur-containing high-temperature polymers (PPS) for aerospace composites.",
+      "bn": "মহাকাশ কম্পোজিটের জন্য সালফারযুক্ত উচ্চ-তাপমাত্রার পলিমার (PPS)।"
+    },
+    "batteryUses": {
+      "en": "Lithium-sulfur batteries offer theoretical energy density ~5× that of Li-ion.",
+      "bn": "লিথিয়াম-সালফার ব্যাটারি Li-ion এর তুলনায় তাত্ত্বিকভাবে ~৫ গুণ বেশি শক্তি ঘনত্ব দেয়।"
+    },
+    "aiHardwareUses": {
+      "en": "MoS₂ monolayers explored as channel material for next-generation low-power AI transistors.",
+      "bn": "MoS₂ মনোলেয়ার পরবর্তী প্রজন্মের কম-শক্তির এআই ট্রানজিস্টরের চ্যানেল উপাদান হিসেবে গবেষণাধীন।"
+    },
+    "renewableEnergyUses": {
+      "en": "CdS/CdTe thin-film solar cells; sulfur-based flow batteries for grid storage.",
+      "bn": "CdS/CdTe পাতলা-ফিল্ম সৌর কোষ; গ্রিড সঞ্চয়ের জন্য সালফার-ভিত্তিক ফ্লো ব্যাটারি।"
+    },
+    "nanotechnologyUses": {
+      "en": "MoS₂ and WS₂ nanosheets as 2D materials with tunable bandgaps.",
+      "bn": "MoS₂ ও WS₂ ন্যানোশীট সমন্বয়যোগ্য ব্যান্ডগ্যাপ সহ ২ডি উপাদান হিসেবে।"
+    },
+    "nuclearUses": {
+      "en": "Sulfur-35 radiotracer used in protein labeling and metabolic studies.",
+      "bn": "সালফার-৩৫ রেডিওট্রেসার প্রোটিন লেবেলিং ও বিপাকীয় গবেষণায় ব্যবহৃত।"
+    },
+    "militaryUses": {
+      "en": "Component of gunpowder and mustard gas (chemical weapon, banned).",
+      "bn": "বারুদ ও মাস্টার্ড গ্যাসের (রাসায়নিক অস্ত্র, নিষিদ্ধ) উপাদান।"
+    },
+    "medicalUses": {
+      "en": "Topical sulfur treats acne, scabies, and seborrheic dermatitis; component of sulfa antibiotics.",
+      "bn": "টপিক্যাল সালফার ব্রণ, খোসপাঁচড়া ও সেবোরিক ডার্মাটাইটিস চিকিৎসা করে; সালফা অ্যান্টিবায়োটিকের উপাদান।"
+    },
+    "foodIndustryUses": {
+      "en": "Sulfur dioxide as preservative (E220) in dried fruits and wine.",
+      "bn": "শুকনো ফল ও ওয়াইনে সংরক্ষক (E220) হিসেবে সালফার ডাইঅক্সাইড।"
+    },
+    "constructionUses": {
+      "en": "Sulfur concrete for corrosion-resistant infrastructure in acidic environments.",
+      "bn": "অম্লীয় পরিবেশে ক্ষয়-প্রতিরোধী অবকাঠামোর জন্য সালফার কংক্রিট।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Essential macronutrient; component of amino acids cysteine and methionine, vitamins biotin and thiamine.",
+      "bn": "অপরিহার্য ম্যাক্রোনিউট্রিয়েন্ট; সিস্টেইন ও মেথিওনিন অ্যামিনো অ্যাসিড এবং বায়োটিন ও থায়ামিন ভিটামিনের উপাদান।"
+    },
+    "humanBodyRole": {
+      "en": "~0.25% of body mass; disulfide bridges stabilize protein structure; key in glutathione antioxidant.",
+      "bn": "শরীরের ভরের ~০.২৫%; ডাইসালফাইড সেতু প্রোটিন কাঠামো স্থিতিশীল করে; গ্লুটাথায়োন অ্যান্টিঅক্সিডেন্টে মুখ্য।"
+    },
+    "toxicity": {
+      "en": "Elemental sulfur is low toxicity; H₂S and SO₂ are highly toxic.",
+      "bn": "মৌলিক সালফার কম বিষাক্ত; H₂S ও SO₂ অত্যন্ত বিষাক্ত।"
+    },
+    "environmentalImpact": {
+      "en": "SO₂ emissions cause acid rain; sulfate aerosols influence climate by reflecting sunlight.",
+      "bn": "SO₂ নির্গমন অ্যাসিড বৃষ্টি ঘটায়; সালফেট অ্যারোসল সূর্যালোক প্রতিফলিত করে জলবায়ু প্রভাবিত করে।"
+    },
+    "pollutionRisks": {
+      "en": "Coal combustion releases SO₂ causing acid rain, respiratory illness, and ecosystem damage.",
+      "bn": "কয়লা দহন SO₂ নির্গমন করে অ্যাসিড বৃষ্টি, শ্বাসকষ্ট ও বাস্তুতন্ত্রের ক্ষতি সৃষ্টি করে।"
+    },
+    "recyclingMethods": {
+      "en": "Claus process recovers sulfur from H₂S in petroleum refining and natural gas processing.",
+      "bn": "পেট্রোলিয়াম পরিশোধন ও প্রাকৃতিক গ্যাস প্রক্রিয়াকরণে H₂S থেকে ক্লাউস প্রক্রিয়ায় সালফার পুনরুদ্ধার।"
+    },
+    "sustainabilityScore": 7.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Canada",
+        "bn": "কানাডা"
+      }
+    ],
+    "miningMethods": {
+      "en": "Primarily recovered as byproduct of natural gas and petroleum processing via the Claus process; historically mined via Frasch process.",
+      "bn": "প্রাথমিকভাবে ক্লাউস প্রক্রিয়ায় প্রাকৃতিক গ্যাস ও পেট্রোলিয়াম প্রক্রিয়াকরণের উপজাত হিসেবে; ঐতিহাসিকভাবে ফ্রাশ প্রক্রিয়ায় খনন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "500 ppm by mass",
+        "bn": "ভর অনুযায়ী ৫০০ পিপিএম"
+      },
+      "earthCrust": {
+        "en": "0.042% by mass",
+        "bn": "ভর অনুযায়ী ০.০৪২%"
+      },
+      "oceans": {
+        "en": "905 mg/L",
+        "bn": "৯০৫ মিগ্রা/লিটার"
+      }
+    },
+    "marketValue": {
+      "en": "Elemental sulfur ~$80–$200 per metric ton; sulfuric acid ~$100–$400 per ton.",
+      "bn": "মৌলিক সালফার ~$৮০–$২০০ প্রতি মেট্রিক টন; সালফিউরিক অ্যাসিড ~$১০০–$৪০০ প্রতি টন।"
+    },
+    "futureDemand": {
+      "en": "Growing demand from fertilizer industry, EV battery sector (Li-S), and green hydrogen sulfate cycles.",
+      "bn": "সার শিল্প, ইভি ব্যাটারি (Li-S) ও সবুজ হাইড্রোজেন সালফেট চক্র থেকে চাহিদা বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Backbone of phosphate fertilizer production, essential for global food security.",
+      "bn": "ফসফেট সার উৎপাদনের মেরুদণ্ড, বৈশ্বিক খাদ্য নিরাপত্তার জন্য অপরিহার্য।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Flammable solid; combustion produces toxic SO₂. H₂S is highly toxic, flammable, and smells of rotten eggs at low concentrations.",
+      "bn": "দাহ্য কঠিন; দহনে বিষাক্ত SO₂ উৎপন্ন হয়। H₂S অত্যন্ত বিষাক্ত, দাহ্য এবং কম ঘনত্বে পচা ডিমের গন্ধ।"
+    },
+    "storageRequirements": {
+      "en": "Store in cool, dry, well-ventilated area away from oxidizers and ignition sources.",
+      "bn": "অক্সিডাইজার ও দাহক উৎস থেকে দূরে শীতল, শুষ্ক, বায়ুচলাচলযুক্ত স্থানে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use dust masks, prevent static buildup, avoid contact with strong oxidizers.",
+      "bn": "ধুলোর মাস্ক ব্যবহার করুন, স্থির বিদ্যুৎ প্রতিরোধ করুন, শক্তিশালী অক্সিডাইজারের সংস্পর্শ এড়িয়ে চলুন।"
+    },
+    "exposureRisks": {
+      "en": "H₂S inhalation causes olfactory paralysis and death; SO₂ causes severe respiratory irritation.",
+      "bn": "H₂S শ্বাসগ্রহণ ঘ্রাণ অসাড়তা ও মৃত্যু ঘটায়; SO₂ গুরুতর শ্বাসযন্ত্রের জ্বালা সৃষ্টি করে।"
+    },
+    "safetyLevel": {
+      "en": "Moderate (high for sulfide gases)",
+      "bn": "মাঝারি (সালফাইড গ্যাসের জন্য উচ্চ)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Flammable Solid",
+        "bn": "দাহ্য কঠিন"
+      },
+      {
+        "en": "Skin Irritant",
+        "bn": "ত্বক জ্বালাকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Sulfur is a yellow solid that smells when burned. It's vital for life as part of proteins, and used to make sulfuric acid.",
+      "bn": "সালফার একটি হলুদ কঠিন পদার্থ যা পোড়ালে গন্ধ ছড়ায়। এটি প্রোটিনের অংশ হিসেবে জীবনের জন্য অপরিহার্য এবং সালফিউরিক অ্যাসিড তৈরিতে ব্যবহৃত।"
+    },
+    "advancedExplanation": {
+      "en": "A chalcogen with rich allotropy — most stable as crown-shaped S₈ rings. Its variable oxidation states (-2 to +6) enable diverse redox chemistry central to biology and industry.",
+      "bn": "একটি ক্যালকোজেন যা সমৃদ্ধ অ্যালোট্রপিযুক্ত — সর্বাধিক স্থিতিশীল রূপ মুকুট-আকৃতির S₈ বলয়। এর পরিবর্তনশীল জারণ অবস্থা (-২ থেকে +৬) জীববিজ্ঞান ও শিল্পে কেন্দ্রীয় বৈচিত্র্যময় রেডক্স রসায়ন সক্ষম করে।"
+    },
+    "funFacts": [
+      {
+        "en": "The yellow sulfur deposits on Jupiter's moon Io come from active volcanic eruptions.",
+        "bn": "বৃহস্পতির চাঁদ আইওর হলুদ সালফার জমা সক্রিয় আগ্নেয়গিরি বিস্ফোরণ থেকে আসে।"
+      },
+      {
+        "en": "The 'rotten egg' smell of H₂S can be detected by humans at concentrations as low as 0.5 ppb.",
+        "bn": "H₂S এর 'পচা ডিমের' গন্ধ মানুষ মাত্র ০.৫ পিপিবি ঘনত্বে শনাক্ত করতে পারে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 8,
+        "relation": {
+          "en": "Oxygen and sulfur are both Group 16 chalcogens, but sulfur forms longer chains (catenation) and is far less electronegative.",
+          "bn": "অক্সিজেন ও সালফার উভয়ই গ্রুপ ১৬ এর ক্যালকোজেন, কিন্তু সালফার দীর্ঘ শৃঙ্খল (ক্যাটেনেশন) গঠন করে এবং অনেক কম তড়িৎঋণাত্মক।"
+        }
+      }
+    ],
+    "relatedElements": [
+      8,
+      15,
+      17,
+      34
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the most stable allotrope of sulfur at room temperature?",
+          "bn": "ঘরের তাপমাত্রায় সালফারের সবচেয়ে স্থিতিশীল অ্যালোট্রপ কোনটি?"
+        },
+        "options": [
+          {
+            "en": "S₂",
+            "bn": "S₂"
+          },
+          {
+            "en": "S₆",
+            "bn": "S₆"
+          },
+          {
+            "en": "S₈ (cyclo-octasulfur)",
+            "bn": "S₈ (সাইক্লো-অক্টাসালফার)"
+          },
+          {
+            "en": "S∞ (polymeric)",
+            "bn": "S∞ (পলিমারিক)"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Crown-shaped S₈ rings are the most thermodynamically stable allotrope at standard conditions.",
+          "bn": "মুকুট-আকৃতির S₈ বলয় আদর্শ অবস্থায় তাপগতীয়ভাবে সবচেয়ে স্থিতিশীল অ্যালোট্রপ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which industrial process produces sulfuric acid from SO₂?",
+          "bn": "কোন শিল্প প্রক্রিয়া SO₂ থেকে সালফিউরিক অ্যাসিড উৎপাদন করে?"
+        },
+        "options": [
+          {
+            "en": "Haber process",
+            "bn": "হ্যাবার প্রক্রিয়া"
+          },
+          {
+            "en": "Contact process",
+            "bn": "কন্টাক্ট প্রক্রিয়া"
+          },
+          {
+            "en": "Ostwald process",
+            "bn": "অসওয়াল্ড প্রক্রিয়া"
+          },
+          {
+            "en": "Solvay process",
+            "bn": "সলভে প্রক্রিয়া"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Contact process catalytically oxidizes SO₂ to SO₃ over V₂O₅, then absorbs into H₂SO₄.",
+          "bn": "কন্টাক্ট প্রক্রিয়া V₂O₅ অনুঘটকে SO₂ কে SO₃ এ জারিত করে, তারপর H₂SO₄ এ শোষিত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does H₂S have a lower boiling point than H₂O despite being heavier?",
+          "bn": "H₂O এর চেয়ে ভারী হওয়া সত্ত্বেও H₂S এর কেন কম স্ফুটনাঙ্ক?"
+        },
+        "options": [
+          {
+            "en": "Stronger covalent bonds in H₂S",
+            "bn": "H₂S এ শক্তিশালী সমযোজী বন্ধন"
+          },
+          {
+            "en": "Sulfur lacks hydrogen bonding due to lower electronegativity",
+            "bn": "কম তড়িৎঋণাত্মকতার কারণে সালফারে হাইড্রোজেন বন্ধন নেই"
+          },
+          {
+            "en": "H₂S is ionic",
+            "bn": "H₂S আয়নিক"
+          },
+          {
+            "en": "Lower molar mass",
+            "bn": "কম মোলার ভর"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Sulfur's electronegativity (2.58) is too low to form strong hydrogen bonds; only weak dipole forces exist in H₂S.",
+          "bn": "সালফারের তড়িৎঋণাত্মকতা (২.৫৮) শক্তিশালী হাইড্রোজেন বন্ধন গঠনের জন্য অপর্যাপ্ত; H₂S এ শুধু দুর্বল দ্বিমেরু বল কাজ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which amino acids contain sulfur?",
+          "bn": "কোন অ্যামিনো অ্যাসিডে সালফার থাকে?"
+        },
+        "options": [
+          {
+            "en": "Glycine and Alanine",
+            "bn": "গ্লাইসিন ও অ্যালানিন"
+          },
+          {
+            "en": "Cysteine and Methionine",
+            "bn": "সিস্টেইন ও মেথিওনিন"
+          },
+          {
+            "en": "Lysine and Arginine",
+            "bn": "লাইসিন ও আর্জিনাইন"
+          },
+          {
+            "en": "Proline and Valine",
+            "bn": "প্রোলিন ও ভ্যালিন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Cysteine and methionine are the two proteinogenic amino acids containing sulfur; cysteine forms disulfide bridges.",
+          "bn": "সিস্টেইন ও মেথিওনিন হল দুটি প্রোটিন গঠনকারী সালফারযুক্ত অ্যামিনো অ্যাসিড; সিস্টেইন ডাইসালফাইড সেতু গঠন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the oxidation state of sulfur in sulfate (SO₄²⁻)?",
+          "bn": "সালফেট (SO₄²⁻) এ সালফারের জারণ অবস্থা কত?"
+        },
+        "options": [
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+4",
+            "bn": "+৪"
+          },
+          {
+            "en": "+6",
+            "bn": "+৬"
+          },
+          {
+            "en": "-2",
+            "bn": "-২"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "With four oxygens at -2 each (-8) and overall charge -2, sulfur must be +6.",
+          "bn": "চারটি অক্সিজেন প্রতিটি -২ (মোট -৮) এবং মোট চার্জ -২ হওয়ায় সালফারকে +৬ হতে হবে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which catalyst is used in the Contact process?",
+          "bn": "কন্টাক্ট প্রক্রিয়ায় কোন অনুঘটক ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "Iron oxide",
+            "bn": "আয়রন অক্সাইড"
+          },
+          {
+            "en": "Vanadium pentoxide (V₂O₅)",
+            "bn": "ভ্যানাডিয়াম পেন্টোক্সাইড (V₂O₅)"
+          },
+          {
+            "en": "Platinum gauze",
+            "bn": "প্ল্যাটিনাম জাল"
+          },
+          {
+            "en": "Nickel",
+            "bn": "নিকেল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "V₂O₅ catalyzes the oxidation of SO₂ to SO₃ at 450°C in the Contact process.",
+          "bn": "V₂O₅ কন্টাক্ট প্রক্রিয়ায় ৪৫০°C এ SO₂ কে SO₃ এ জারণের অনুঘটক।"
+        }
+      },
+      {
+        "question": {
+          "en": "What environmental problem is caused primarily by SO₂ emissions?",
+          "bn": "SO₂ নির্গমন প্রাথমিকভাবে কোন পরিবেশগত সমস্যা সৃষ্টি করে?"
+        },
+        "options": [
+          {
+            "en": "Ozone depletion",
+            "bn": "ওজোন স্তর ক্ষয়"
+          },
+          {
+            "en": "Acid rain",
+            "bn": "অ্যাসিড বৃষ্টি"
+          },
+          {
+            "en": "Global warming alone",
+            "bn": "শুধু বৈশ্বিক উষ্ণায়ন"
+          },
+          {
+            "en": "Eutrophication",
+            "bn": "ইউট্রোফিকেশন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "SO₂ oxidizes in the atmosphere to form sulfuric acid, which falls as acid rain damaging forests and aquatic ecosystems.",
+          "bn": "SO₂ বায়ুমণ্ডলে জারিত হয়ে সালফিউরিক অ্যাসিড গঠন করে, যা অ্যাসিড বৃষ্টিরূপে পড়ে বন ও জলজ বাস্তুতন্ত্রের ক্ষতি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the geometry of SF₆, what is the hybridization of sulfur?",
+          "bn": "SF₆ এর জ্যামিতিতে সালফারের হাইব্রিডাইজেশন কী?"
+        },
+        "options": [
+          {
+            "en": "sp³",
+            "bn": "sp³"
+          },
+          {
+            "en": "sp³d",
+            "bn": "sp³d"
+          },
+          {
+            "en": "sp³d²",
+            "bn": "sp³d²"
+          },
+          {
+            "en": "sp²",
+            "bn": "sp²"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "SF₆ has octahedral geometry with sp³d² hybridization, using sulfur's expanded octet via d-orbitals.",
+          "bn": "SF₆ এর অক্টাহেড্রাল জ্যামিতি sp³d² হাইব্রিডাইজেশনে, d-অরবিটাল ব্যবহার করে সালফারের প্রসারিত অষ্টক।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which isotope of sulfur is most abundant?",
+          "bn": "সালফারের কোন আইসোটোপ সর্বাধিক প্রচুর?"
+        },
+        "options": [
+          {
+            "en": "³²S",
+            "bn": "³²S"
+          },
+          {
+            "en": "³³S",
+            "bn": "³³S"
+          },
+          {
+            "en": "³⁴S",
+            "bn": "³⁴S"
+          },
+          {
+            "en": "³⁶S",
+            "bn": "³⁶S"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "³²S accounts for ~94.99% of natural sulfur abundance.",
+          "bn": "³²S প্রাকৃতিক সালফার প্রাচুর্যের ~৯৪.৯৯% গঠন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the principal product of vulcanization of natural rubber with sulfur?",
+          "bn": "প্রাকৃতিক রাবারকে সালফারের সাথে ভালকানাইজেশনের প্রধান পণ্য কী?"
+        },
+        "options": [
+          {
+            "en": "Plastic",
+            "bn": "প্লাস্টিক"
+          },
+          {
+            "en": "Cross-linked elastomer with disulfide bridges",
+            "bn": "ডাইসালফাইড সেতুযুক্ত ক্রস-লিঙ্কড ইলাস্টোমার"
+          },
+          {
+            "en": "Polyethylene",
+            "bn": "পলিইথিলিন"
+          },
+          {
+            "en": "Resin",
+            "bn": "রজন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Sulfur cross-links polyisoprene chains via di- and polysulfide bridges, creating elastic, durable rubber.",
+          "bn": "সালফার পলিআইসোপ্রিন শৃঙ্খলগুলিকে ডাই- ও পলিসালফাইড সেতু দ্বারা ক্রস-লিঙ্ক করে স্থিতিস্থাপক, টেকসই রাবার সৃষ্টি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why are lithium-sulfur batteries attractive for energy storage research?",
+          "bn": "শক্তি সঞ্চয় গবেষণায় লিথিয়াম-সালফার ব্যাটারি কেন আকর্ষণীয়?"
+        },
+        "options": [
+          {
+            "en": "Higher voltage than Li-ion",
+            "bn": "Li-ion এর চেয়ে বেশি ভোল্টেজ"
+          },
+          {
+            "en": "Theoretical specific energy ~2600 Wh/kg, ~5× Li-ion",
+            "bn": "তাত্ত্বিক নির্দিষ্ট শক্তি ~২৬০০ Wh/kg, Li-ion এর ~৫ গুণ"
+          },
+          {
+            "en": "Sulfur is rarer than lithium",
+            "bn": "সালফার লিথিয়ামের চেয়ে দুর্লভ"
+          },
+          {
+            "en": "They are non-flammable",
+            "bn": "তারা অদাহ্য"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Sulfur's 16-electron multi-step reduction enables very high theoretical energy density, though cycling stability remains a challenge.",
+          "bn": "সালফারের ১৬-ইলেক্ট্রন বহু-ধাপ বিজারণ অতি উচ্চ তাত্ত্বিক শক্তি ঘনত্ব সম্ভব করে, যদিও চক্রীয় স্থিতিশীলতা চ্যালেঞ্জ।"
+        }
+      },
+      {
+        "question": {
+          "en": "What does the Claus process recover sulfur from?",
+          "bn": "ক্লাউস প্রক্রিয়া কী থেকে সালফার পুনরুদ্ধার করে?"
+        },
+        "options": [
+          {
+            "en": "Coal ash",
+            "bn": "কয়লা ছাই"
+          },
+          {
+            "en": "H₂S in refinery and natural gas streams",
+            "bn": "শোধনাগার ও প্রাকৃতিক গ্যাস প্রবাহে H₂S"
+          },
+          {
+            "en": "Volcanic vents",
+            "bn": "আগ্নেয়গিরির গর্ত"
+          },
+          {
+            "en": "Pyrite ores",
+            "bn": "পাইরাইট আকরিক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Claus process partially oxidizes H₂S to SO₂, then catalytically reacts both to elemental sulfur and water.",
+          "bn": "ক্লাউস প্রক্রিয়া H₂S কে আংশিক SO₂ এ জারিত করে, তারপর অনুঘটকীয়ভাবে উভয়কে মৌলিক সালফার ও জলে রূপান্তরিত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which mineral is FeS₂ and was historically used for fire-starting?",
+          "bn": "FeS₂ কোন খনিজ এবং ঐতিহাসিকভাবে আগুন জ্বালাতে ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "Galena",
+            "bn": "গ্যালেনা"
+          },
+          {
+            "en": "Pyrite (fool's gold)",
+            "bn": "পাইরাইট (মূর্খের সোনা)"
+          },
+          {
+            "en": "Cinnabar",
+            "bn": "সিনাবার"
+          },
+          {
+            "en": "Sphalerite",
+            "bn": "স্ফ্যালেরাইট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Pyrite (iron disulfide) sparks when struck and was used in early firearms and lighters.",
+          "bn": "পাইরাইট (আয়রন ডাইসালফাইড) আঘাতে স্ফুলিঙ্গ দেয় এবং প্রাথমিক আগ্নেয়াস্ত্র ও লাইটারে ব্যবহৃত হতো।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which protein structural feature does cysteine create?",
+          "bn": "সিস্টেইন কোন প্রোটিন কাঠামোগত বৈশিষ্ট্য সৃষ্টি করে?"
+        },
+        "options": [
+          {
+            "en": "Alpha helices",
+            "bn": "আলফা হেলিক্স"
+          },
+          {
+            "en": "Disulfide bridges (S-S bonds)",
+            "bn": "ডাইসালফাইড সেতু (S-S বন্ধন)"
+          },
+          {
+            "en": "Beta sheets",
+            "bn": "বিটা শীট"
+          },
+          {
+            "en": "Salt bridges",
+            "bn": "লবণ সেতু"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Oxidation of two cysteine -SH groups forms covalent S-S disulfide bridges that stabilize tertiary structure.",
+          "bn": "দুটি সিস্টেইন -SH গ্রুপের জারণে সমযোজী S-S ডাইসালফাইড সেতু গঠিত হয় যা তৃতীয়ক কাঠামো স্থিতিশীল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Sulfur hexafluoride (SF₆) is famously used as what?",
+          "bn": "সালফার হেক্সাফ্লুরাইড (SF₆) বিখ্যাতভাবে কী হিসেবে ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "Refrigerant",
+            "bn": "শীতলক"
+          },
+          {
+            "en": "Gaseous electrical insulator in high-voltage switchgear",
+            "bn": "উচ্চ-ভোল্টেজ সুইচগিয়ারে গ্যাসীয় বৈদ্যুতিক নিরোধক"
+          },
+          {
+            "en": "Anesthetic",
+            "bn": "অবেদনিক"
+          },
+          {
+            "en": "Propellant",
+            "bn": "প্রপেল্যান্ট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "SF₆ is an excellent dielectric gas but also one of the most potent greenhouse gases known.",
+          "bn": "SF₆ একটি চমৎকার ডাইইলেকট্রিক গ্যাস কিন্তু পরিচিত সবচেয়ে শক্তিশালী গ্রিনহাউস গ্যাসের একটি।"
+        }
+      },
+      {
+        "question": {
+          "en": "In which biochemical molecule does sulfur play a central catalytic role as Fe-S clusters?",
+          "bn": "Fe-S ক্লাস্টার হিসেবে সালফার কোন জৈবরাসায়নিক অণুতে কেন্দ্রীয় অনুঘটক ভূমিকা পালন করে?"
+        },
+        "options": [
+          {
+            "en": "Hemoglobin",
+            "bn": "হিমোগ্লোবিন"
+          },
+          {
+            "en": "Electron transport chain proteins (ferredoxins)",
+            "bn": "ইলেক্ট্রন পরিবহন শৃঙ্খল প্রোটিন (ফেরেডক্সিন)"
+          },
+          {
+            "en": "DNA polymerase",
+            "bn": "ডিএনএ পলিমারেজ"
+          },
+          {
+            "en": "Insulin",
+            "bn": "ইনসুলিন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Iron-sulfur clusters in ferredoxins and complex I-III of mitochondria mediate single-electron transfers in respiration and photosynthesis.",
+          "bn": "ফেরেডক্সিন ও মাইটোকন্ড্রিয়ার কমপ্লেক্স I-III এর আয়রন-সালফার ক্লাস্টার শ্বসন ও সালোকসংশ্লেষে একক-ইলেক্ট্রন স্থানান্তর সম্পাদন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What gives 'rotten egg' smell at extremely low concentrations?",
+          "bn": "অত্যন্ত কম ঘনত্বে 'পচা ডিমের' গন্ধ কী দেয়?"
+        },
+        "options": [
+          {
+            "en": "SO₂",
+            "bn": "SO₂"
+          },
+          {
+            "en": "H₂S",
+            "bn": "H₂S"
+          },
+          {
+            "en": "CS₂",
+            "bn": "CS₂"
+          },
+          {
+            "en": "S₈",
+            "bn": "S₈"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "H₂S has a detection threshold of ~0.5 ppb but paralyzes olfactory nerves at >100 ppm, making higher exposures undetectable.",
+          "bn": "H₂S এর শনাক্তকরণ সীমা ~০.৫ পিপিবি কিন্তু >১০০ পিপিএম এ ঘ্রাণ স্নায়ু অসাড় করে, ফলে উচ্চ মাত্রা অনুধাবন অসম্ভব।"
+        }
+      },
+      {
+        "question": {
+          "en": "Mustard gas, a chemical weapon, is fundamentally a sulfur compound of what class?",
+          "bn": "মাস্টার্ড গ্যাস, একটি রাসায়নিক অস্ত্র, মৌলিকভাবে কোন শ্রেণীর সালফার যৌগ?"
+        },
+        "options": [
+          {
+            "en": "Sulfate",
+            "bn": "সালফেট"
+          },
+          {
+            "en": "Thioether (sulfide)",
+            "bn": "থায়োইথার (সালফাইড)"
+          },
+          {
+            "en": "Sulfonic acid",
+            "bn": "সালফোনিক অ্যাসিড"
+          },
+          {
+            "en": "Thiol",
+            "bn": "থায়োল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Sulfur mustard (bis(2-chloroethyl)sulfide) is a thioether that alkylates DNA, causing blistering and mutagenesis.",
+          "bn": "সালফার মাস্টার্ড (বিস(২-ক্লোরোইথাইল)সালফাইড) একটি থায়োইথার যা ডিএনএ অ্যালকাইলেট করে ফোসকা ও মিউটাজেনেসিস ঘটায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In the periodic trend, why is sulfur's electron affinity (200 kJ/mol) more negative than oxygen's (141 kJ/mol)?",
+          "bn": "পর্যায়বৃত্ত প্রবণতায়, সালফারের ইলেক্ট্রন আসক্তি (২০০ kJ/mol) অক্সিজেনের (১৪১ kJ/mol) চেয়ে বেশি কেন?"
+        },
+        "options": [
+          {
+            "en": "Sulfur has more protons",
+            "bn": "সালফারে বেশি প্রোটন"
+          },
+          {
+            "en": "The larger 3p orbital reduces electron-electron repulsion when accepting an electron",
+            "bn": "বৃহত্তর 3p অরবিটাল ইলেক্ট্রন গ্রহণের সময় ইলেক্ট্রন-ইলেক্ট্রন বিকর্ষণ কমায়"
+          },
+          {
+            "en": "Oxygen is metallic",
+            "bn": "অক্সিজেন ধাতব"
+          },
+          {
+            "en": "Sulfur has lower nuclear charge",
+            "bn": "সালফারের কম নিউক্লিয়ার চার্জ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Oxygen's small 2p orbital makes added electrons crowded; sulfur's larger 3p orbital accommodates the extra electron more comfortably.",
+          "bn": "অক্সিজেনের ছোট 2p অরবিটালে অতিরিক্ত ইলেক্ট্রন ভিড় করে; সালফারের বৃহত্তর 3p অরবিটাল অতিরিক্ত ইলেক্ট্রনকে আরও সহজে ধারণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which ancient name for sulfur referenced its fiery, burning nature?",
+          "bn": "সালফারের কোন প্রাচীন নাম এর অগ্নিময় দহন প্রকৃতি নির্দেশ করে?"
+        },
+        "options": [
+          {
+            "en": "Quicksilver",
+            "bn": "কুইকসিলভার"
+          },
+          {
+            "en": "Brimstone",
+            "bn": "ব্রিমস্টোন"
+          },
+          {
+            "en": "Litharge",
+            "bn": "লিথার্জ"
+          },
+          {
+            "en": "Cinnabar",
+            "bn": "সিনাবার"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "'Brimstone' (burning stone) is the biblical name for elemental sulfur, owing to its easy ignition.",
+          "bn": "'ব্রিমস্টোন' (জ্বলন্ত পাথর) সহজ দহনের কারণে মৌলিক সালফারের বাইবেলীয় নাম।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "All sulfur compounds smell bad — actually only some (H₂S, mercaptans) do; sulfates and sulfonic acids are odorless.",
+        "bn": "সব সালফার যৌগ দুর্গন্ধযুক্ত — আসলে শুধু কিছু (H₂S, মার্কাপ্টান); সালফেট ও সালফোনিক অ্যাসিড গন্ধহীন।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember sulfur as 'S₈ crown' — its most stable form is an 8-membered ring shaped like a crown.",
+        "bn": "সালফারকে 'S₈ মুকুট' হিসেবে মনে রাখুন — এর সবচেয়ে স্থিতিশীল রূপ মুকুট আকৃতির ৮-সদস্যের বলয়।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "S + O₂ → SO₂",
+        "description": {
+          "en": "Combustion of sulfur producing sulfur dioxide.",
+          "bn": "সালফারের দহনে সালফার ডাইঅক্সাইড উৎপন্ন হয়।"
+        }
+      },
+      {
+        "equation": "2SO₂ + O₂ ⇌ 2SO₃",
+        "description": {
+          "en": "Catalytic oxidation step of the Contact process.",
+          "bn": "কন্টাক্ট প্রক্রিয়ার অনুঘটকীয় জারণ ধাপ।"
+        }
+      },
+      {
+        "equation": "Fe + S → FeS",
+        "description": {
+          "en": "Classic demonstration: iron and sulfur combine to form iron(II) sulfide.",
+          "bn": "ক্লাসিক প্রদর্শন: আয়রন ও সালফার একত্রে আয়রন(II) সালফাইড গঠন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "S → S⁶⁺ + 6e⁻",
+        "description": {
+          "en": "Conceptual oxidation of sulfur from 0 to +6 (as in SO₃/SO₄²⁻).",
+          "bn": "সালফারের ০ থেকে +৬ এ ধারণাগত জারণ (SO₃/SO₄²⁻ এর মতো)।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "S + 2e⁻ → S²⁻",
+        "description": {
+          "en": "Reduction of elemental sulfur to sulfide ion when reacting with electropositive metals.",
+          "bn": "তড়িৎধনাত্মক ধাতুর সাথে বিক্রিয়ায় মৌলিক সালফারের সালফাইড আয়নে বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Covalent (catenation)",
+          "bn": "সমযোজী (ক্যাটেনেশন)"
+        },
+        "molecule": "S₈",
+        "description": {
+          "en": "Sulfur catenates to form an 8-membered crown ring held by S-S single bonds.",
+          "bn": "সালফার ক্যাটেনেট হয়ে S-S একক বন্ধন দ্বারা ধৃত ৮-সদস্যের মুকুট বলয় গঠন করে।"
+        }
+      }
+    ]
+  }
+}

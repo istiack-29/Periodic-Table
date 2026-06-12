@@ -1,0 +1,995 @@
+{
+"elementId": 24,
+"basicInformation": {
+"atomicNumber": 24,
+"symbol": "Cr",
+"name": {
+"en": "Chromium",
+"bn": "ক্রোমিয়াম"
+},
+"pronunciation": {
+"en": "/ˈkroʊmiəm/",
+"bn": "ক্রো-মি-য়াম"
+},
+"atomicMass": 51.9961,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 6,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Silvery metallic, hard and brittle",
+"bn": "রূপালী ধাতব, শক্ত এবং ভঙ্গুর"
+},
+"color": {
+"en": "Silver",
+"bn": "রূপালী"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Louis Nicolas Vauquelin",
+"bn": "লুই নিকোলাস ভকেলাঁ"
+},
+"discoveryYear": 1797,
+"discoveryLocation": {
+"en": "France",
+"bn": "ফ্রান্স"
+},
+"discoveryStory": {
+"en": "Discovered in the mineral crocoite (lead chromate). Vauquelin isolated the metal by heating the oxide in a charcoal oven. It was named Chromium from the Greek word 'chroma' due to the intense colors of its compounds.",
+"bn": "ক্রোকোয়াইট (লেড ক্রোমেট) নামক খনিজে এটি আবিষ্কৃত হয়। ভকেলাঁ একটি চারকোল ওভেনে এর অক্সাইডকে উত্তপ্ত করে ধাতুটিকে আলাদা করেন। এর যৌগগুলোর তীব্র রঙের কারণে গ্রীক শব্দ 'ক্রোমা' থেকে এর নাম রাখা হয় ক্রোমিয়াম।"
+},
+"historicalUses": {
+"en": "Mainly used as a pigment in paints (chrome yellow) and for tanning leather in the 19th century before its metallurgical importance was fully realized.",
+"bn": "১৯ শতকে এর ধাতব গুরুত্ব সম্পূর্ণরূপে উপলব্ধি করার আগে মূলত পেইন্টে রঞ্জক (ক্রোম ইয়োলো) হিসেবে এবং চামড়া ট্যানিংয়ের জন্য ব্যবহৃত হতো।"
+},
+"famousExperiments": {
+"en": "Vauquelin's reduction of chromium trioxide with carbon at high temperatures to isolate pure metallic crystals.",
+"bn": "বিশুদ্ধ ধাতব স্ফটিক আলাদা করার জন্য উচ্চ তাপমাত্রায় কার্বনের সাহায্যে ক্রোমিয়াম ট্রাইঅক্সাইডের বিজারণ সংক্রান্ত ভকেলাঁর পরীক্ষা।"
+}
+},
+"atomicStructure": {
+"protons": 24,
+"neutrons": 28,
+"electrons": 24,
+"valenceElectrons": 6,
+"shells": 4,
+"shellDistribution": [2, 8, 13, 1],
+"electronConfiguration": "[Ar] 3d⁵ 4s¹",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 5,
+"4s": 1
+},
+"oxidationStates": [6, 5, 4, 3, 2, 1, -1, -2, -4],
+"quantumNumbers": {
+"principal": 4,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 7.19,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 2180.0,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 2944.0,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 128,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 139,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 189,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 93.9,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 7900000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.449,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 8.5,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Body-centered cubic",
+"bn": "দেহ-কেন্দ্রিক ঘনকাকার (BCC)"
+},
+"magneticOrdering": {
+"en": "Antiferromagnetic",
+"bn": "অ্যান্টিফেরোম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.66,
+"ionizationEnergy": {
+"value": 652.9,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 64.3,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Passivates in air by forming a microscopic protective oxide layer. Resistant to oxidation and reacts slowly with dilute acids.",
+"bn": "একটি অণুবীক্ষণিক প্রতিরক্ষামূলক অক্সাইড স্তর তৈরি করে বাতাসে নিষ্ক্রিয় হয়ে যায়। জারণ প্রতিরোধী এবং লঘু অ্যাসিডের সাথে ধীরে বিক্রিয়া করে।"
+},
+"commonCompounds": ["Cr₂O₃", "CrO₃", "K₂Cr₂O₇", "CrCl₃", "Na₂CrO₄"],
+"flameTestColor": {
+"en": "Pale green (Not characteristic in flame, usually identified via borax bead test)",
+"bn": "ফ্যাকাশে সবুজ (শিখা পরীক্ষায় সুনির্দিষ্ট নয়, সাধারণত বোরাক্স বিড টেস্টের মাধ্যমে চিহ্নিত করা হয়)"
+},
+"spectralLines": ["425.43nm", "427.48nm", "428.97nm", "520.84nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Production of stainless steel via ferrochromium, manufacture of anti-corrosive alloys, and chrome electroplating.",
+"bn": "ফেরোক্রোমিয়ামের মাধ্যমে স্টেইনলেস স্টিল উৎপাদন, ক্ষয়-প্রতিরোধী সংকর ধাতু তৈরি এবং ক্রোম ইলেকট্রোপ্লেটিং।"
+},
+"commercialUses": {
+"en": "Decorative chrome plating for consumer vehicles, leather tanning utilizing chromium(III) salts, and wood preservation.",
+"bn": "যানবাহনের জন্য আলংকারিক ক্রোম প্লেটিং, ক্রোমিয়াম(III) লবণ ব্যবহার করে চামড়া ট্যানিং এবং কাঠ সংরক্ষণ।"
+},
+"electronicsUses": {
+"en": "Nichrome resistance wires for heating elements and thin-film resistors in electrical circuits.",
+"bn": "বৈদ্যুতিক সার্কিটে হিটিং উপাদানের জন্য নাইক্রোম রেজিস্ট্যান্স তার এবং পাতলা-স্তরের রেজিস্টর।"
+},
+"semiconductorUses": {
+"en": "Manufacture of photolithographic photomasks and thin-film adhesion barrier layers on silicon wafers.",
+"bn": "সিলিকন ওয়েফারে ফটোলিথোগ্রাফিক ফটোমাস্ক এবং পাতলা-স্তরের আঠালো প্রতিবন্ধক স্তর তৈরি।"
+},
+"aerospaceUses": {
+"en": "Component in high-performance superalloys for jet engine turbine blades and structural aerospace components.",
+"bn": "জেট ইঞ্জিনের টারবাইন ব্লেড এবং মহাকাশযানের কাঠামোগত উপাদানের জন্য উচ্চ-ক্ষমতাসম্পন্ন সুপারঅ্যালয়ের উপাদান।"
+},
+"batteryUses": {
+"en": "Active electrolyte component in iron-chromium redox flow batteries for grid-scale energy storage.",
+"bn": "গ্রিড-স্কেল শক্তি সংরক্ষণের জন্য আয়রন-ক্রোমিয়াম রেডক্স ফ্লো ব্যাটারিতে সক্রিয় ইলেক্ট্রোলাইট উপাদান।"
+},
+"aiHardwareUses": {
+"en": "High-stability thin-film resistor networks utilized in analogue neuromorphic computing hardware architectures.",
+"bn": "অ্যানালগ নিউরোমরফিক কম্পিউটিং হার্ডওয়্যার আর্কিটেকচারে ব্যবহৃত উচ্চ-স্থায়িত্বের পাতলা-স্তরের রেজিস্টর নেটওয়ার্ক।"
+},
+"renewableEnergyUses": {
+"en": "Interconnect coatings for solid oxide fuel cells (SOFCs) and selective solar absorber coatings.",
+"bn": "সলিড অক্সাইড ফুয়েল সেল (SOFCs) এর জন্য ইন্টারকানেক্ট কোটিং এবং নির্বাচনী সৌর শোষক কোটিং।"
+},
+"nanotechnologyUses": {
+"en": "Chromium nanolayers serve as atomic adhesion promoters for depositing noble metals on oxide substrates.",
+"bn": "ক্রোমিয়াম ন্যানোলেয়ার অক্সাইড সাবস্ট্রেটের উপর মহৎ ধাতু জমা করার জন্য পারমাণবিক আঠালো প্রবর্তক হিসাবে কাজ করে।"
+},
+"nuclearUses": {
+"en": "Chromium-doped zirconium cladding used to produce accident-tolerant fuel rods in light water nuclear reactors.",
+"bn": "হালকা জলের পারমাণবিক চুল্লিতে দুর্ঘটনা-সহনশীল জ্বালানী রড তৈরি করতে ক্রোমিয়াম-ডোপড জিরকোনিয়াম ক্ল্যাডিং ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Hard chrome lining inside gun barrels and artillery tubes to mitigate thermal stress and abrasive wear.",
+"bn": "থার্মাল স্ট্রেস এবং ঘর্ষণজনিত ক্ষয় কমাতে বন্দুকের ব্যারেল এবং আর্টিলারি টিউবের ভিতরে হার্ড ক্রোম লাইনিং।"
+},
+"medicalUses": {
+"en": "Cobalt-chromium superalloys for orthopedic joint replacements, dental prosthetics, and coronary stents.",
+"bn": "অর্থোপেডিক জয়েন্ট প্রতিস্থাপন, ডেন্টাল প্রস্থেটিক্স এবং করোনারি স্টেন্টের জন্য কোবাল্ট-ক্রোমিয়াম সুপারঅ্যালয়।"
+},
+"foodIndustryUses": {
+"en": "Food-grade stainless steel machinery and vessels to prevent chemical leaching and ensure hygienic operation.",
+"bn": "রাসায়নিক ক্ষরণ রোধ করতে এবং স্বাস্থ্যকর অপারেশন নিশ্চিত করতে ফুড-গ্রেড স্টেইনলেস স্টিলের যন্ত্রপাতি ও পাত্র।"
+},
+"constructionUses": {
+"en": "Structural stainless steel rebar, architectural cladding, and corrosion-resistant fasteners for marine environments.",
+"bn": "সামুদ্রিক পরিবেশের জন্য কাঠামোগত স্টেইনলেস স্টিল রিবার, স্থাপত্য ক্ল্যাডিং এবং ক্ষয়-প্রতিরোধী ফাস্টেনার।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Dual nature: Trivalent chromium (Cr³⁺) is an essential trace nutrient, whereas hexavalent chromium (Cr⁶⁺) is a highly toxic mutagen.",
+"bn": "দ্বৈত প্রকৃতি: ট্রাইভ্যালেন্ট ক্রোমিয়াম (Cr³⁺) একটি অপরিহার্য ট্রেস পুষ্টি উপাদান, যেখানে হেক্সাভ্যালেন্ট ক্রোমিয়াম (Cr⁶⁺) একটি অত্যন্ত বিষাক্ত মিউটাজেন।"
+},
+"humanBodyRole": {
+"en": "Cr³⁺ is involved in carbohydrate and lipid metabolism, acting as a component of the glucose tolerance factor to optimize insulin function.",
+"bn": "Cr³⁺ কার্বোহাইড্রেট এবং লিপিড বিপাকের সাথে জড়িত, যা ইনসুলিনের কার্যকারিতা অপ্টিমাইজ করতে গ্লুকোজ সহনশীলতা ফ্যাক্টরের উপাদান হিসাবে কাজ করে।"
+},
+"toxicity": {
+"en": "Hexavalent chromium (Cr⁶⁺) is highly toxic, corrosive, and a confirmed human carcinogen via inhalation, causing DNA damage.",
+"bn": "হেক্সাভ্যালেন্ট ক্রোমিয়াম (Cr⁶⁺) অত্যন্ত বিষাক্ত, ক্ষয়কারী এবং শ্বাসগ্রহণের মাধ্যমে মানবদেহে ক্যান্সার সৃষ্টিকারী হিসেবে প্রমাণিত, যা ডিএনএ ক্ষতি করে।"
+},
+"environmentalImpact": {
+"en": "Industrial wastewater discharge from tanning and plating can contaminate groundwater with mobile, hazardous Cr⁶⁺ species.",
+"bn": "ট্যানিং এবং প্লেটিং থেকে নির্গত শিল্প বর্জ্য জল ভূগর্ভস্থ জলকে গতিশীল ও বিপজ্জনক Cr⁶⁺ দ্বারা দূষিত করতে পারে।"
+},
+"pollutionRisks": {
+"en": "Bioaccumulation of hexavalent chromium in aquatic food webs can cause reproductive failures and mutations in fish species.",
+"bn": "জলজ খাদ্য শৃঙ্খলে হেক্সাভ্যালেন্ট ক্রোমিয়ামের জৈবসঞ্চয় মাছের প্রজাতির প্রজনন ব্যর্থতা এবং মিউটেশন ঘটাতে পারে।"
+},
+"recyclingMethods": {
+"en": "Hydrometallurgical extraction from industrial slag and melting of stainless steel scrap in electric arc furnaces.",
+"bn": "শিল্প স্ল্যাগ থেকে হাইড্রোমেটালার্জিক্যাল নিষ্কাশন এবং ইলেকট্রিক আর্ক ফার্নেসে স্টেইনলেস স্টিলের স্ক্র্যাপ গলানো।"
+},
+"sustainabilityScore": 6.8
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "South Africa",
+"bn": "দক্ষিণ আফ্রিকা"
+},
+{
+"en": "Kazakhstan",
+"bn": "কাজাখস্তান"
+},
+{
+"en": "India",
+"bn": "ভারত"
+}
+],
+"miningMethods": {
+"en": "Primarily underground and open-pit mining of chromite ore, followed by carbothermic reduction to yield ferrochromium.",
+"bn": "প্রধানত ক্রোমাইট আকরিকের ভূগর্ভস্থ এবং উন্মুক্ত খনি খনন, যার পরে ফেরোক্রোমিয়াম পেতে কার্বোথার্মিক বিজারণ করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.0015% by mass",
+"bn": "ভর অনুযায়ী ০.০০১৫%"
+},
+"earthCrust": {
+"en": "0.01% by mass",
+"bn": "ভর অনুযায়ী ০.০১%"
+},
+"oceans": {
+"en": "0.00000006% by mass",
+"bn": "ভর অনুযায়ী ০.০০MDA০০০৬%"
+}
+},
+"marketValue": {
+"en": "Ferrochromium is traded globally, fluctuating around $1.20 - $3.50 per pound of contained chromium based on market grade.",
+"bn": "ফেরোক্রোমিয়াম বিশ্বব্যাপী ব্যবসা করা হয়, যা বাজারের গ্রেডের উপর ভিত্তি করে ক্রোমিয়ামের পরিমাণ প্রতি পাউন্ড প্রায় $১.২০ - $৩.৫০ এর মধ্যে ওঠানামা করে।"
+},
+"futureDemand": {
+"en": "Expected to steadily rise due to infrastructure expansions, green energy technologies, and the non-substitutable nature of stainless steel.",
+"bn": "অবকাঠামো সম্প্রসারণ, সবুজ শক্তি প্রযুক্তি এবং স্টেইনলেস স্টিলের বিকল্পহীন প্রকৃতির কারণে ক্রমাগত বৃদ্ধি পাবে বলে আশা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "Classified as a critical strategic mineral by major global economies due to its central role in defense and heavy industry.",
+"bn": "প্রতিরক্ষা এবং ভারী শিল্পে এর কেন্দ্রীয় ভূমিকার কারণে প্রধান বৈশ্বিক অর্থনীতি দ্বারা এটি একটি গুরুত্বপূর্ণ কৌশলগত খনিজ হিসাবে শ্রেণীবদ্ধ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Chromium metal dust represents a moderate fire hazard and respiratory irritant. Hexavalent compounds are severe carcinogens and mutagens.",
+"bn": "ক্রোমিয়াম ধাতুর গুঁড়ো একটি মাঝারি অগ্নি ঝুঁকি এবং শ্বাসযন্ত্রের উত্তেজক। হেক্সাভ্যালেন্ট যৌগগুলো মারাত্মক ক্যান্সার সৃষ্টিকারী এবং মিউটাজেন।"
+},
+"storageRequirements": {
+"en": "Store bulk metal away from strong oxidants and mineral acids. Store hexavalent salts in double-contained, chemical-resistant toxic storage units.",
+"bn": "শক্তিশালী জারক এবং খনিজ অ্যাসিড থেকে দূরে বাল্ক ধাতু সংরক্ষণ করুন। হেক্সাভ্যালেন্ট লবণ ডাবল-কন্টেইনারযুক্ত, রাসায়নিক-প্রতিরোধী বিষাক্ত স্টোরেজ ইউনিটে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Utilize local exhaust ventilation, full respiratory PPE (N100 filters), and chemically impervious gloves when operating chrome-tanning or plating baths.",
+"bn": "ক্রোম-ট্যানিং বা প্লেটিং বাথ পরিচালনা করার সময় স্থানীয় নিষ্কাশন বায়ুচলাচল, সম্পূর্ণ শ্বাসযন্ত্রের পিপিই (N100 ফিল্টার) এবং রাসায়নিকভাবে অভেদ্য গ্লাভস ব্যবহার করুন।"
+},
+"exposureRisks": {
+"en": "Chronic inhalation of hexavalent forms induces nasal septum ulceration, occupational asthma, and squamous cell lung carcinomas.",
+"bn": "হেক্সাভ্যালেন্ট ফর্মের দীর্ঘস্থায়ী শ্বাসগ্রহণের ফলে অনুনাসিক সেপ্টাম আলসারেশন, পেশাগত অ্যাজমা এবং স্কোয়ামাস সেল ফুসফুসের কার্সিনোমা হয়।"
+},
+"safetyLevel": {
+"en": "High Risk (Hexavalent Forms) / Low Risk (Elemental Bulk Metal)",
+"bn": "উচ্চ ঝুঁকি (হেক্সাভ্যালেন্ট ফর্ম) / কম ঝুঁকি (মৌলিক বাল্ক ধাতু)"
+},
+"hazardClassifications": [
+{
+"en": "Carcinogen Category 1A",
+"bn": "ক্যান্সার সৃষ্টিকারী ক্যাটাগরি ১A"
+},
+{
+"en": "Skin Sensitizer Category 1",
+"bn": "ত্বকের সংবেদনশীলতা ক্যাটাগরি ১"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Chromium is a shiny, hard metal that gives stainless steel its ability to resist rusting. It is also responsible for the beautiful red color of rubies.",
+"bn": "ক্রোমিয়াম একটি চকচকে, শক্ত ধাতু যা স্টেইনলেস স্টিলকে মরিচা প্রতিরোধ করার ক্ষমতা দেয়। এটি রুবি পাথরের সুন্দর লাল রঙের জন্যও দায়ী।"
+},
+"advancedExplanation": {
+"en": "Chromium is a first-row d-block transition metal characterized by an anomalous half-filled electron configuration ([Ar] 3d⁵ 4s¹). It exhibits exceptional corrosion resistance due to continuous kinetic passivation via a surface layer of Cr₂O₃.",
+"bn": "ক্রোমিয়াম হল প্রথম-সারির d-ব্লক অবস্থান্তর ধাতু যা একটি ব্যতিক্রমী অর্ধ-পূর্ণ ইলেকট্রন বিন্যাস ([Ar] 3d⁵ 4s¹) দ্বারা চিহ্নিত। এটি Cr₂O₃ এর একটি পৃষ্ঠ স্তরের মাধ্যমে অবিচ্ছিন্ন গতিশীল নিষ্ক্রিয়করণের কারণে অসাধারণ ক্ষয় প্রতিরোধ ক্ষমতা প্রদর্শন করে।"
+},
+"funFacts": [
+{
+"en": "The red of rubies and the green of emeralds are both caused by traces of chromium ions substituting inside the mineral crystal lattices.",
+"bn": "রুবি পাথরের লাল এবং পান্না পাথরের সবুজ রং উভয়ই খনিজ ক্রিস্টাল ল্যাটিসের ভিতরে প্রতিস্থাপিত ক্রোমিয়াম আয়নের সামান্য উপস্থিতির কারণে ঘটে।"
+},
+{
+"en": "Chromium is the only elemental solid known to exhibit antiferromagnetic ordering at and below room temperature.",
+"bn": "ক্রোমিয়াম হল একমাত্র মৌলিক কঠিন পদার্থ যা কক্ষ তাপমাত্রায় এবং তার নিচে অ্যান্টিফেরোম্যাগনেটিক বিন্যাস প্রদর্শন করতে পরিচিত।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 23,
+"relation": {
+"en": "While Vanadium (Z=23) forms protective oxides, Chromium (Z=24) achieves far superior kinetic passivation, making it the primary additive for stainless steel.",
+"bn": "ভ্যানাডিয়াম (Z=23) প্রতিরক্ষামূলক অক্সাইড গঠন করলেও, ক্রোমিয়াম (Z=24) অনেক উন্নত গতিশীল নিষ্ক্রিয়করণ অর্জন করে, যা এটিকে স্টেইনলেস স্টিলের প্রাথমিক সংযোজন করে তোলে।"
+}
+}
+],
+"relatedElements": [23, 25, 26, 42],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the ground-state electron configuration of a neutral gaseous Chromium atom (Z=24)?",
+"bn": "একটি নিরপেক্ষ গ্যাসীয় ক্রোমিয়াম পরমাণুর (Z=24) গ্রাউন্ড-স্টেট ইলেকট্রন বিন্যাস কী?"
+},
+"options": [
+{
+"en": "[Ar] 3d⁴ 4s²",
+"bn": "[Ar] 3d⁴ 4s²"
+},
+{
+"en": "[Ar] 3d⁵ 4s¹",
+"bn": "[Ar] 3d⁵ 4s¹"
+},
+{
+"en": "[Ar] 3d⁶ 4s⁰",
+"bn": "[Ar] 3d⁶ 4s⁰"
+},
+{
+"en": "[Ne] 3d⁵ 4s¹",
+"bn": "[Ne] 3d⁵ 4s¹"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Chromium exhibits an anomalous electron configuration where an electron from the 4s orbital promotes to the 3d orbital to yield a stable, spherically symmetric half-filled subshell system.",
+"bn": "ক্রোমিয়াম একটি ব্যতিক্রমী ইলেকট্রন বিন্যাস প্রদর্শন করে যেখানে 4s অরবিটাল থেকে একটি ইলেকট্রন 3d অরবিটালে উন্নীত হয় একটি স্থিতিশীল, সুষম অর্ধ-পূর্ণ সাবশেল সিস্টেম তৈরি করতে।"
+}
+},
+{
+"question": {
+"en": "What unique magnetic ordering behavior does elemental bulk chromium exhibit at standard room temperature (below its Néel temperature of 311 K)?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় (এর ৩১১ K এর নীল তাপমাত্রার নিচে) মৌলিক বাল্ক ক্রোমিয়াম কোন অনন্য চৌম্বকীয় বিন্যাস আচরণ প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "Ferromagnetism",
+"bn": "ফেরোম্যাগনেটিজম"
+},
+{
+"en": "Diamagnetism",
+"bn": "ডায়াম্যাগনেটিজম"
+},
+{
+"en": "Antiferromagnetism",
+"bn": "অ্যান্টিফেরোম্যাগনেটিজম"
+},
+{
+"en": "Ferrimagnetism",
+"bn": "ফেরিম্যাগনেটিজম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Chromium is the only known elemental solid that exhibits antiferromagnetic ordering at room temperature, where magnetic moments of neighboring atoms align in exactly opposite directions.",
+"bn": "ক্রোমিয়াম হলো একমাত্র পরিচিত মৌলিক কঠিন পদার্থ যা কক্ষ তাপমাত্রায় অ্যান্টিফেরোম্যাগনেটিক বিন্যাস প্রদর্শন করে, যেখানে পার্শ্ববর্তী পরমাণুগুলোর চৌম্বকীয় মোমেন্টগুলো ঠিক বিপরীত দিকে সারিবদ্ধ থাকে।"
+}
+},
+{
+"question": {
+"en": "What is the minimum mass percentage of chromium required in a steel alloy to successfully form a passive film and classify it as stainless steel?",
+"bn": "একটি ইস্পাত সংকরে সফলভাবে একটি নিষ্ক্রিয় ফিল্ম গঠন এবং এটিকে স্টেইনলেস স্টিল হিসাবে শ্রেণীবদ্ধ করতে ক্রোমিয়ামের সর্বনিম্ন ভর শতাংশ কত প্রয়োজন?"
+},
+"options": [
+{
+"en": "2.5%",
+"bn": "২.৫%"
+},
+{
+"en": "5.0%",
+"bn": "৫.০%"
+},
+{
+"en": "10.5%",
+"bn": "১০.৫%"
+},
+{
+"en": "24.0%",
+"bn": "২৪.০%"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "A minimum of roughly 10.5% chromium content is chemically necessary to achieve spontaneous passivation via the formation of a continuous protective surface layer of chromium oxide.",
+"bn": "ক্রোমিয়াম অক্সাইডের একটি অবিচ্ছিন্ন প্রতিরক্ষামূলক পৃষ্ঠ স্তর গঠনের মাধ্যমে স্বতঃস্ফূর্ত নিষ্ক্রিয়করণ অর্জনের জন্য রাসায়নিকভাবে ন্যূনতম প্রায় ১০.৫% ক্রোমিয়াম উপাদান প্রয়োজনীয়।"
+}
+},
+{
+"question": {
+"en": "Which oxidation state of chromium is highly soluble, strongly oxidizing, and recognized as a potent human carcinogen via inhalation?",
+"bn": "ক্রোমিয়ামের কোন জারণ অবস্থা অত্যন্ত দ্রবণীয়, শক্তিশালী জারক এবং শ্বাসগ্রহণের মাধ্যমে মানবদেহে একটি শক্তিশালী ক্যান্সার সৃষ্টিকারী হিসেবে স্বীকৃত?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Hexavalent chromium (Cr⁺⁶) can cross cellular membranes via sulfate transport pathways, leading to intracellular reduction that generates hazardous free radicals and catastrophic DNA damage.",
+"bn": "হেক্সাভ্যালেন্ট ক্রোমিয়াম (Cr⁺⁶) সালফেট পরিবহন পথের মাধ্যমে কোষের ঝিল্লি অতিক্রম করতে পারে, যা কোষের অভ্যন্তরে বিজারণ ঘটিয়ে বিপজ্জনক মুক্ত র্যাডিকাল এবং মারাত্মক ডিএনএ ক্ষতি তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Trace substitution of Al³⁺ ions by which specific ion inside the octahedral sites of corundum (Al₂O₃) gives rise to the deep red coloration of natural rubies?",
+"bn": "কোরান্ডাম (Al₂O₃) এর অষ্টতলকীয় সাইটগুলোর ভিতরে কোন নির্দিষ্ট আয়ন দ্বারা Al³⁺ আয়নের সামান্য প্রতিস্থাপন প্রাকৃতিক রুবির গাঢ় লাল রঙের জন্ম দেয়?"
+},
+"options": [
+{
+"en": "Cr³⁺",
+"bn": "Cr³⁺"
+},
+{
+"en": "Cr⁶⁺",
+"bn": "Cr⁶⁺"
+},
+{
+"en": "Fe³⁺",
+"bn": "Fe³⁺"
+},
+{
+"en": "V⁵⁺",
+"bn": "V⁵⁺"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Trivalent chromium (Cr³⁺) impurities substitute into the Al³⁺ sites in corundum. The crystal field splitting shifts light absorption, causing the characteristic deep red hue.",
+"bn": "ট্রাইভ্যালেন্ট ক্রোমিয়াম (Cr³⁺) অপদ্রব্য কোরান্ডামে Al³⁺ সাইটগুলোতে প্রতিস্থাপিত হয়। ক্রিস্টাল ফিল্ড স্প্লিটিং আলো শোষণকে স্থানান্তরিত করে, যা বৈশিষ্ট্যসূচক গাঢ় লাল রঙের সৃষ্টি করে।"
+}
+},
+{
+"question": {
+"en": "Acidification of a yellow potassium chromate (K₂CrO₄) solution drives a chemical equilibrium shift to produce which compound?",
+"bn": "একটি হলুদ পটাসিয়াম ক্রোমেট (K₂CrO₄) দ্রবণের অম্লকরণ কোন যৌগটি তৈরি করতে রাসায়নিক ভারসাম্যের পরিবর্তন ঘটায়?"
+},
+"options": [
+{
+"en": "Green CrCl₃",
+"bn": "সবুজ CrCl₃"
+},
+{
+"en": "Orange K₂Cr₂O₇",
+"bn": "কমলা K₂Cr₂O₇"
+},
+{
+"en": "Black CrO",
+"bn": "কালো CrO"
+},
+{
+"en": "Yellow Cr(OH)₃",
+"bn": "হলুদ Cr(OH)₃"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Increasing the proton concentration in a chromate solution shifts the equilibrium toward the dichromate condensation product, transitioning the solution from yellow to orange.",
+"bn": "ক্রোমেট দ্রবণে প্রোটনের ঘনত্ব বৃদ্ধি করা হলে তা ডাইক্রোমেট ঘনীভবন উৎপাদনের দিকে ভারসাম্য পরিবর্তন করে, যা দ্রবণটিকে হলুদ থেকে কমলায় রূপান্তরিত করে।"
+}
+},
+{
+"question": {
+"en": "What is the structural geometry of the hexaaquachromium(III) coordination complex ion, [Cr(H₂O)₆]³⁺?",
+"bn": "হেক্সাঅ্যাকুয়াক্রোমিয়াম(III) জটিল আয়নের, [Cr(H₂O)₆]³⁺, কাঠামোগত জ্যামিতি কী?"
+},
+"options": [
+{
+"en": "Tetrahedral",
+"bn": "চতুস্তলকীয়"
+},
+{
+"en": "Square Planar",
+"bn": "সমতলীয় বর্গাকার"
+},
+{
+"en": "Octahedral",
+"bn": "অষ্টতলকীয়"
+},
+{
+"en": "Trigonal Bipyramidal",
+"bn": "ত্রিকোণাকার দ্বিপিরামিডীয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Chromium(III) forms highly stable, kinetically inert 6-coordinate coordination complexes with an octahedral coordination sphere.",
+"bn": "ক্রোমিয়াম(III) একটি অষ্টতলকীয় সমন্বয় গোলকের সাথে অত্যন্ত স্থিতিশীল, গতিশীলভাবে নিষ্ক্রিয় ৬-সমন্বিত জটিল যৌগ গঠন করে।"
+}
+},
+{
+"question": {
+"en": "Which d-electron configuration of a transition metal ion can give rise to strong Jahn-Teller distortions in high-spin octahedral complexes, as observed in chromium(II) salts?",
+"bn": "একটি অবস্থান্তর ধাতু আয়নের কোন d-ইলেকট্রন বিন্যাস হাই-স্পিন অষ্টতলকীয় জটিলে শক্তিশালী জন-টেলার বিকৃতি ঘটাতে পারে, যেমনটি ক্রোমিয়াম(II) লবণে দেখা যায়?"
+},
+"options": [
+{
+"en": "d³",
+"bn": "d³"
+},
+{
+"en": "d⁴",
+"bn": "d⁴"
+},
+{
+"en": "d⁵",
+"bn": "d⁵"
+},
+{
+"en": "d⁶",
+"bn": "d⁶"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "High-spin Cr²⁺ possesses a d⁴ configuration (t₂g³ eg¹). The asymmetric occupancy of the eg degenerate orbitals induces a strong Jahn-Teller geometric distortion.",
+"bn": "হাই-স্পিন Cr²⁺ একটি d⁴ বিন্যাস (t₂g³ eg¹) ধারণ করে। eg ডিজেনারেট অরবিটালগুলোর অসম দখল একটি শক্তিশালী জন-টেলার জ্যামিতিক বিকৃতি প্ররোচিত করে।"
+}
+},
+{
+"question": {
+"en": "What is the predominant commercial intermediate alloy used to directly introduce chromium into steel during heavy industrial steelmaking?",
+"bn": "ভারী শিল্পে ইস্পাত তৈরির সময় সরাসরি ক্রোমিয়াম যুক্ত করতে ব্যবহৃত প্রধান বাণিজ্যিক মধ্যবর্তী সংকর ধাতু কোনটি?"
+},
+"options": [
+{
+"en": "Nichrome",
+"bn": "নাইক্রোম"
+},
+{
+"en": "Ferrochromium",
+"bn": "ফেরোক্রোমিয়াম"
+},
+{
+"en": "Chromite",
+"bn": "ক্রোমাইট"
+},
+{
+"en": "Inconel",
+"bn": "ইনকোনেল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ferrochromium, produced by the carbothermic reduction of chromite ore, is added directly to molten iron to manufacture stainless and alloy steels economically.",
+"bn": "ক্রোমাইট আকরিকের কার্বোথার্মিক বিজারণ দ্বারা উৎপাদিত ফেরোক্রোমিয়াম সরাসরি গলিত লোহায় যোগ করা হয় সাশ্রয়ীভাবে স্টেইনলেস এবং সংকর ইস্পাত তৈরি করতে।"
+}
+},
+{
+"question": {
+"en": "Jones reagent, widely utilized in organic chemistry for the oxidation of primary and secondary alcohols, contains which chromium species dissolved in dilute sulfuric acid?",
+"bn": "জোনস রিয়াজেন্ট, যা প্রাইমারি এবং সেকেন্ডারি অ্যালকোহলের জারণের জন্য জৈব রসায়নে ব্যাপকভাবে ব্যবহৃত হয়, লঘু সালফিউরিক অ্যাসিডে দ্রবীভূত কোন ক্রোমিয়াম উপাদান ধারণ করে?"
+},
+"options": [
+{
+"en": "Cr₂O₃",
+"bn": "Cr₂O₃"
+},
+{
+"en": "CrO₃",
+"bn": "CrO₃"
+},
+{
+"en": "CrCl₃",
+"bn": "CrCl₃"
+},
+{
+"en": "Na₂CrO₄",
+"bn": "Na₂CrO₄"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Jones reagent is prepared by dissolving chromium trioxide (CrO₃), a highly oxidizing hexavalent compound, in aqueous sulfuric acid.",
+"bn": "জোনস রিয়াজেন্ট জলীয় সালফিউরিক অ্যাসিডে ক্রোমিয়াম ট্রাইঅক্সাইড (CrO₃), একটি অত্যন্ত জারক হেক্সাভ্যালেন্ট যৌগ, দ্রবীভূত করে প্রস্তুত করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the complete set of quantum numbers (n, l, ml, ms) for the single outermost electron residing in the 4s orbital of a ground-state chromium atom?",
+"bn": "একটি গ্রাউন্ড-স্টেট ক্রোমিয়াম পরমাণুর 4s অরবিটালে থাকা একক বহিস্থ ইলেকট্রনের কোয়ান্টাম সংখ্যার সম্পূর্ণ সেট (n, l, ml, ms) কী?"
+},
+"options": [
+{
+"en": "(4, 0, 0, +1/2)",
+"bn": "(৪, ০, ০, +১/২)"
+},
+{
+"en": "(3, 2, 0, -1/2)",
+"bn": "(৩, ২, ০, -১/২)"
+},
+{
+"en": "(4, 1, 0, +1/2)",
+"bn": "(৪, ১, ০, +১/২)"
+},
+{
+"en": "(3, 1, 1, -1/2)",
+"bn": "(৩, ১, ১, -১/২)"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "For the 4s orbital, the principal quantum number n=4, and the azimuthal quantum number l=0 (s-orbital), forcing ml=0, with a spin projection ms of +1/2.",
+"bn": "4s অরবিটালের জন্য, প্রধান কোয়ান্টাম সংখ্যা n=4, এবং অ্যাজিমুথাল কোয়ান্টাম সংখ্যা l=0 (s-অরবিটাল), যা ml=0 করতে বাধ্য করে, যেখানে স্পিন প্রজেকশন ms হলো +1/2।"
+}
+},
+{
+"question": {
+"en": "Which chemical phenomenon is primarily responsible for the excellent high-temperature oxidation resistance of chromium additions in nickel-based aerospace superalloys?",
+"bn": "নিকেল-ভিত্তিক মহাকাশযান সুপারঅ্যালয়ে ক্রোমিয়াম সংযোজনের চমৎকার উচ্চ-তাপমাত্রা জারণ প্রতিরোধের জন্য কোন রাসায়নিক ঘটনাটি প্রধানত দায়ী?"
+},
+"options": [
+{
+"en": "Sublimation",
+"bn": "উর্ধ্বপাতন"
+},
+{
+"en": "Sacrificial galvanic protection",
+"bn": "উৎসর্গীকৃত গ্যালভানিক সুরক্ষা"
+},
+{
+"en": "Continuous formation of a dense, protective Cr₂O₃/NiCr₂O₄ scale",
+"bn": "একটি ঘন, প্রতিরক্ষামূলক Cr₂O₃/NiCr₂O₄ আস্তরণের অবিচ্ছিন্ন গঠন"
+},
+{
+"en": "Interstitial hydrogen trapping",
+"bn": "ইন্টারস্টিশিয়াল হাইড্রোজেন ট্র্যাপিং"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "At high temperatures, chromium diffuses to the surface and oxidizes preferentially, forming an adherent, thermodynamically stable oxide scale that hinders further oxygen diffusion.",
+"bn": "উচ্চ তাপমাত্রায়, ক্রোমিয়াম পৃষ্ঠে ছড়িয়ে পড়ে এবং অগ্রাধিকারমূলকভাবে জারিত হয়, যা একটি সংলগ্ন, তাপগতিগতভাবে স্থিতিশীল অক্সাইড আস্তরণ গঠন করে যা আরও অক্সিজেন বিস্তারে বাধা দেয়।"
+}
+},
+{
+"question": {
+"en": "What crystal lattice system characterizes highly pure metallic chromium at standard room temperature and pressure?",
+"bn": "আদর্শ কক্ষ তাপমাত্রা এবং চাপে অত্যন্ত বিশুদ্ধ ধাতব ক্রোমিয়ামকে কোন ক্রিস্টাল ল্যাটিস সিস্টেম চিহ্নিত করে?"
+},
+"options": [
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টার্ড কিউবিক (FCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টার্ড কিউবিক (BCC)"
+},
+{
+"en": "Rhombohedral",
+"bn": "রম্বোহেড্রাল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Pure chromium crystallizes in a body-centered cubic (BCC) atomic arrangement at standard temperature, contributing to its high hardness and brittle nature.",
+"bn": "বিশুদ্ধ ক্রোমিয়াম আদর্শ তাপমাত্রায় একটি বডি-সেন্টার্ড কিউবিক (BCC) পারমাণবিক বিন্যাসে স্ফটিক আকারে থাকে, যা এর উচ্চ কঠোরতা এবং ভঙ্গুর প্রকৃতিতে অবদান রাখে।"
+}
+},
+{
+"question": {
+"en": "The chromyl chloride test is used to confirm the presence of chloride ions. What is the chemical formula of the deep red, volatile vapors generated during a positive test?",
+"bn": "ক্লোরাইড আয়নের উপস্থিতি নিশ্চিত করতে ক্রোমিল ক্লোরাইড পরীক্ষা ব্যবহার করা হয়। একটি ইতিবাচক পরীক্ষার সময় উৎপন্ন গাঢ় লাল, উদ্বায়ী বাষ্পের রাসায়নিক সংকেত কী?"
+},
+"options": [
+{
+"en": "CrCl₃",
+"bn": "CrCl₃"
+},
+{
+"en": "CrO₂Cl₂",
+"bn": "CrO₂Cl₂"
+},
+{
+"en": "CrO₃Cl",
+"bn": "CrO₃Cl"
+},
+{
+"en": "CrOCl₄",
+"bn": "CrOCl₄"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Heating a chloride salt with potassium dichromate and concentrated sulfuric acid generates chromyl chloride (CrO₂Cl₂), a dark red gas.",
+"bn": "পটাসিয়াম ডাইক্রোমেট এবং গাঢ় সালফিউরিক অ্যাসিডের সাথে একটি ক্লোরাইড লবণ উত্তপ্ত করলে ক্রোমিল ক্লোরাইড (CrO₂Cl₂) উৎপন্ন হয়, যা একটি গাঢ় লাল গ্যাস।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of chromium inside the dichromate anion (Cr₂O₇²⁻)?",
+"bn": "ডাইক্রোমেট অ্যানায়নের (Cr₂O₇²⁻) ভিতরে ক্রোমিয়ামের ফর্মাল জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+5",
+"bn": "+৫"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "In Cr₂O₇²⁻, oxygen takes a -2 state. Solving 2x + 7(-2) = -2 yields x = +6 for each chromium atom.",
+"bn": "Cr₂O₇²⁻-এ, অক্সিজেন -২ অবস্থা গ্রহণ করে। 2x + 7(-2) = -2 সমীকরণটি সমাধান করলে প্রতিটি ক্রোমিয়াম পরমাণুর জন্য x = +৬ পাওয়া যায়।"
+}
+},
+{
+"question": {
+"en": "In nanotechnology, why is an ultra-thin layer of chromium typically deposited onto a silicon dioxide wafer before evaporating a gold film?",
+"bn": "ন্যানোপ্রযুক্তিতে, স্বর্ণের ফিল্ম বাষ্পীভূত করার আগে সাধারণত সিলিকন ডাইঅক্সাইড ওয়েফারের উপর ক্রোমিয়ামের একটি অতি-পাতলা স্তর কেন স্থাপন করা হয়?"
+},
+"options": [
+{
+"en": "To act as an electrical insulator",
+"bn": "একটি বৈদ্যুতিক অন্তরক হিসাবে কাজ করতে"
+},
+{
+"en": "To serve as a mechanical atomic adhesion layer promoter",
+"bn": "একটি যান্ত্রিক পারমাণবিক আঠালো স্তর প্রবর্তক হিসাবে কাজ করতে"
+},
+{
+"en": "To increase the magnetic response of gold",
+"bn": "স্বর্ণের চৌম্বকীয় প্রতিক্রিয়া বৃদ্ধি করতে"
+},
+{
+"en": "To lower the melting point of the wafer",
+"bn": "ওয়েফারের গলনাঙ্ক কমাতে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Gold adheres poorly to SiO₂. Chromium chemically bonds well to both the oxygen in SiO₂ and the gold layer over it, acting as an essential atomic glue layer.",
+"bn": "স্বর্ণ SiO₂ এর সাথে খুব কম যুক্ত হয়। ক্রোমিয়াম রাসায়নিকভাবে SiO₂-এর অক্সিজেন এবং এর উপরের স্বর্ণের স্তর উভয়ের সাথেই ভালোভাবে যুক্ত হয়, যা একটি অপরিহার্য পারমাণবিক আঠালো স্তর হিসেবে কাজ করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial application of chromium(III) oxide (Cr₂O₃) owing to its exceptional chemical and thermal durability?",
+"bn": "তার অসাধারণ রাসায়নিক এবং তাপীয় স্থায়িত্বের কারণে ক্রোমিয়াম(III) অক্সাইড (Cr₂O₃) এর প্রাথমিক শিল্প প্রয়োগ কী?"
+},
+"options": [
+{
+"en": "As a highly volatile catalyst",
+"bn": "একটি অত্যন্ত উদ্বায়ী অনুঘটক হিসাবে"
+},
+{
+"en": "As a green refractory pigment and abrasive polishing agent",
+"bn": "একটি সবুজ অবাধ্য রঞ্জক এবং ক্ষয়কারী পলিশিং এজেন্ট হিসাবে"
+},
+{
+"en": "As a plasticizer in polymer manufacturing",
+"bn": "পলিমার উৎপাদনে প্লাস্টিসাইজার হিসাবে"
+},
+{
+"en": "As a water softening agent",
+"bn": "একটি জল মৃদু করার এজেন্ট হিসাবে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cr₂O₃ is highly stable and hard, making it ideal as a durable green pigment (chrome green) and a fine abrasive compound for metallographic polishing.",
+"bn": "Cr₂O₃ অত্যন্ত স্থিতিশীল এবং শক্ত, যা এটিকে একটি টেকসই সবুজ রঞ্জক (ক্রোম গ্রীন) এবং মেটালোগ্রাফিক পলিশিংয়ের জন্য একটি সূক্ষ্ম ক্ষয়কারী যৌগ হিসাবে আদর্শ করে তোলে।"
+}
+},
+{
+"question": {
+"en": "The reduction of dichromate in acidic solution (Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O) involves how many total transferred electrons per mole of dichromate?",
+"bn": "অম্লীয় দ্রবণে ডাইক্রোমেটের বিজারণে (Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O) প্রতি মোল ডাইক্রোমেটে মোট কতটি স্থানান্তরিত ইলেকট্রন জড়িত থাকে?"
+},
+"options": [
+{
+"en": "2",
+"bn": "২"
+},
+{
+"en": "3",
+"bn": "৩"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "14",
+"bn": "১৪"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Each chromium atom reduces from a +6 oxidation state to a +3 oxidation state, representing a 3-electron change per atom. Since there are two atoms in a dichromate ion, 6 electrons are required.",
+"bn": "প্রতিটি ক্রোমিয়াম পরমাণু একটি +৬ জারণ অবস্থা থেকে +৩ জারণ অবস্থায় বিজারিত হয়, যা প্রতি পরমাণুতে একটি ৩-ইলেকট্রন পরিবর্তন নির্দেশ করে। যেহেতু একটি ডাইক্রোমেট আয়নে দুটি পরমাণু থাকে, তাই ৬টি ইলেকট্রন প্রয়োজন।"
+}
+},
+{
+"question": {
+"en": "Which compound is widely generated during the industrial environmental mitigation of hexavalent chromium to trap it safely in a solid phase?",
+"bn": "কঠিন দশায় নিরাপদে আটকে রাখার জন্য হেক্সাভ্যালেন্ট ক্রোমিয়ামের শিল্প পরিবেশগত প্রশমনের সময় কোন যৌগটি ব্যাপকভাবে তৈরি করা হয়?"
+},
+"options": [
+{
+"en": "CrO₃",
+"bn": "CrO₃"
+},
+{
+"en": "Cr(OH)₃",
+"bn": "Cr(OH)₃"
+},
+{
+"en": "Na₂Cr₂O₇",
+"bn": "Na₂Cr₂O₇"
+},
+{
+"en": "CrO₂Cl₂",
+"bn": "CrO₂Cl₂"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Treating industrial effluent with reducing agents converts highly soluble Cr⁶⁺ to insoluble chromium(III) hydroxide, Cr(OH)₃, which precipitates out of wastewater.",
+"bn": "বিজারণ এজেন্টের সাহায্যে শিল্প বর্জ্য জলের প্রক্রিয়াকরণ অত্যন্ত দ্রবণীয় Cr⁶⁺ কে অদ্রবণীয় ক্রোমিয়াম(III) হাইড্রোক্সাইড, Cr(OH)₃-এ রূপান্তরিত করে, যা বর্জ্য জল থেকে অধঃক্ষিপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "What biological molecule coordinates with trivalent chromium in the human body to optimize cellular glucose transport via insulin enhancement?",
+"bn": "ইনসুলিন বৃদ্ধির মাধ্যমে কোষীয় গ্লুকোজ পরিবহন অপ্টিমাইজ করতে মানবদেহে ট্রাইভ্যালেন্ট ক্রোমিয়ামের সাথে কোন জৈবিক অণু সমন্বয় করে?"
+},
+"options": [
+{
+"en": "Hemoglobin",
+"bn": "হিমোগ্লোবিন"
+},
+{
+"en": "Chromodulin",
+"bn": "ক্রোমোডুলিন"
+},
+{
+"en": "Adenosine triphosphate",
+"bn": "অ্যাডেনোসিন ট্রাইফসফেট"
+},
+{
+"en": "Cytochrome c",
+"bn": "সাইটোক্রোম সি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Chromodulin is an oligopeptide that binds four Cr³⁺ ions, directly activating the insulin receptor kinase amplification pathway.",
+"bn": "ক্রোমোডুলিন হল একটি অলিগোপেপটাইড যা চারটি Cr³⁺ আয়নকে আবদ্ধ করে, সরাসরি ইনসুলিন রিসেপ্টর কাইনেজ পরিবর্ধন পথকে সক্রিয় করে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "All forms of chromium are highly toxic and hazardous to health.",
+"bn": "ক্রোমিয়ামের সব রূপই অত্যন্ত বিষাক্ত এবং স্বাস্থ্যের জন্য বিপজ্জনক।"
+}
+],
+"learningTips": [
+{
+"en": "Remember that Chromium is an 'orbital exception'. It favors a 3d⁵ 4s¹ arrangement over 3d⁴ 4s² because half-filled subshells provide quantum exchange stability.",
+"bn": "মনে রাখবেন যে ক্রোমিয়াম একটি 'অরবিটাল ব্যতিক্রম'। এটি 3d⁴ 4s² এর চেয়ে 3d⁵ 4s¹ বিন্যাস পছন্দ করে কারণ অর্ধ-পূর্ণ সাবশেলগুলো কোয়ান্টাম বিনিময় স্থিতিশীলতা প্রদান করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "4Cr + 3O₂ → 2Cr₂O₃",
+"description": {
+"en": "Direct oxidation of chromium metal at elevated temperatures to form chromium(III) oxide.",
+"bn": "উচ্চ তাপমাত্রায় ক্রোমিয়াম ধাতুর সরাসরি জারণ যার ফলে ক্রোমিয়াম(III) অক্সাইড তৈরি হয়।"
+}
+},
+{
+"equation": "Cr + 2HCl → CrCl₂ + H₂",
+"description": {
+"en": "Reaction of metallic chromium with dilute hydrochloric acid, yielding chromium(II) chloride and hydrogen gas.",
+"bn": "লঘু হাইড্রোক্লোরিক অ্যাসিডের সাথে ধাতব ক্রোমিয়ামের বিক্রিয়া, যার ফলে ক্রোমিয়াম(II) ক্লোরাইড এবং হাইড্রোজেন গ্যাস উৎপন্ন হয়।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Cr → Cr³⁺ + 3e⁻",
+"description": {
+"en": "Oxidation half-reaction of elemental chromium to the stable trivalent state.",
+"bn": "মৌলিক ক্রোমিয়ামের স্থিতিশীল ট্রাইভ্যালেন্ট অবস্থায় জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O",
+"description": {
+"en": "Reduction of hexavalent dichromate anions to trivalent chromium in an acidic solution.",
+"bn": "অম্লীয় দ্রবণে হেক্সাভ্যালেন্ট ডাইক্রোমেট অ্যানায়নের ট্রাইভ্যালেন্ট ক্রোমিয়ামে বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Coordination Bond",
+"bn": "সন্নিবেশ বন্ধন"
+},
+"molecule": "[Cr(H₂O)₆]³⁺",
+"description": {
+"en": "Six water molecules act as Lewis bases, donating lone pairs into empty d-orbitals of the Cr³⁺ central cation.",
+"bn": "ছয়টি জলের অণু লুইস ক্ষারক হিসাবে কাজ করে, Cr³⁺ কেন্দ্রীয় ক্যাটায়নের খালি d-অরবিটালে নিঃসঙ্গ ইলেকট্রন জোড় দান করে।"
+}
+}
+]
+}
+}

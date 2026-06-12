@@ -1,0 +1,985 @@
+{
+"elementId": 105,
+"basicInformation": {
+"atomicNumber": 105,
+"symbol": "Db",
+"name": {
+"en": "Dubnium",
+"bn": "ডুবনিয়াম"
+},
+"pronunciation": {
+"en": "/ˈduːbniəm/",
+"bn": "ডুব-নি-য়াম"
+},
+"atomicMass": 268.0,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 5,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (predicted)",
+"bn": "কঠিন (অনুমিত)"
+},
+"appearance": {
+"en": "Unknown, predicted to be silvery-white or metallic gray",
+"bn": "অজ্ঞাত, সম্ভবত রূপালী-সাদা বা ধাতব ধূসর বলে অনুমিত"
+},
+"color": {
+"en": "Unknown",
+"bn": "অজ্ঞাত"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Joint Institute for Nuclear Research (JINR) and Lawrence Berkeley National Laboratory (LBNL)",
+"bn": "জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (JINR) এবং লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরি (LBNL)"
+},
+"discoveryYear": 1968,
+"discoveryLocation": {
+"en": "Dubna, Soviet Union / Berkeley, California, USA",
+"bn": "দুবনা, সোভিয়েত ইউনিয়ন / বার্কলে, ক্যালিফোর্নিয়া, যুক্তরাষ্ট্র"
+},
+"discoveryStory": {
+"en": "Reported initially by JINR in 1968 and by LBNL in 1970. This led to a naming controversy where Americans proposed 'Hahnium' and Soviets proposed 'Nielsbohrium'. IUPAC officially named it Dubnium in 1997 after the research town of Dubna.",
+"bn": "১৯৬৮ সালে JINR এবং ১৯৭০ সালে LBNL দ্বারা প্রাথমিকভাবে রিপোর্ট করা হয়েছিল। এটি একটি নামকরণ বিতর্কের জন্ম দেয় যেখানে আমেরিকানরা 'হ্যানিয়াম' এবং সোভিয়েতরা 'নিলসবোরিয়াম' প্রস্তাব করেছিল। ১৯৯৭ সালে IUPAC আনুষ্ঠানিকভাবে গবেষণা শহর দুবনার নামানুসারে এর নাম ডুবনিয়াম রাখে।"
+},
+"historicalUses": {
+"en": "Has no practical applications outside of deep scientific research due to its intense radioactivity and synthetic nature.",
+"bn": "তীব্র তেজস্ক্রিয়তা এবং কৃত্রিম প্রকৃতির কারণে গভীর বৈজ্ঞানিক গবেষণার বাইরে এর কোনো ব্যবহারিক প্রয়োগ নেই।"
+},
+"famousExperiments": {
+"en": "Bombardment of Americium-243 with Neon-22 ions in Dubna, and Californium-249 with Nitrogen-15 ions in Berkeley.",
+"bn": "দুবনায় নিয়ন-২২ আয়ন দিয়ে অ্যামেরিসিয়াম-২৪৩ এবং বার্কলেতে নাইট্রোজেন-১৫ আয়ন দিয়ে ক্যালিফোর্নিয়াম-২৪৯ এর উপর বোমাবর্ষণ।"
+}
+},
+"atomicStructure": {
+"protons": 105,
+"neutrons": 163,
+"electrons": 105,
+"valenceElectrons": 5,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 11, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d³ 7s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 10,
+"4s": 2,
+"4p": 6,
+"4d": 10,
+"4f": 14,
+"5s": 2,
+"5p": 6,
+"5d": 10,
+"5f": 14,
+"6s": 2,
+"6p": 6,
+"6d": 3,
+"7s": 2
+},
+"oxidationStates": [5, 4, 3],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 2,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 29.3,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": null,
+"unit": "K"
+},
+"boilingPoint": {
+"value": null,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 139,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 149,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Body-centered cubic (predicted)",
+"bn": "বডি-সেন্টার্ড কিউবিক (অনুমিত)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (predicted)",
+"bn": "প্যারাম্যাগনেটিক (অনুমিত)"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 656.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Highly reactive predicted homolog to Tantalum. It forms volatile pentahalides and oxyhalides, but relativistic effects make its aqueous chemistry deviate somewhat from Tantalum, occasionally resembling Niobium.",
+"bn": "ট্যান্টালামের সমগোত্রীয় অত্যন্ত প্রতিক্রিয়াশীল বলে অনুমিত। এটি উদ্বায়ী পেন্টাহ্যালাইড এবং অক্সিহ্যালাইড গঠন করে, তবে আপেক্ষিক প্রভাবগুলোর কারণে এর জলীয় রসায়ন ট্যান্টালাম থেকে কিছুটা বিচ্যুত হয়, মাঝে মাঝে নিওবিয়ামের সাথে সাদৃশ্যপূর্ণ হয়।"
+},
+"commonCompounds": ["DbCl₅", "DbBr₅", "DbOCl₃"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Synthesized only in atomic quantities for chemical and physical analysis.",
+"bn": "নেই। রাসায়নিক এবং ভৌত বিশ্লেষণের জন্য শুধুমাত্র পারমাণবিক পরিমাণে সংশ্লেষিত হয়।"
+},
+"commercialUses": {
+"en": "Not applicable due to extreme instability.",
+"bn": "চরম অস্থিরতার কারণে প্রযোজ্য নয়।"
+},
+"electronicsUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"semiconductorUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"aerospaceUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"batteryUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"aiHardwareUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"renewableEnergyUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"nanotechnologyUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"nuclearUses": {
+"en": "Investigated heavily to understand relativistic effects on electron shell architecture and to test boundaries of the nuclear drop model.",
+"bn": "ইলেক্ট্রন শেল আর্কিটেকচারের উপর আপেক্ষিক প্রভাব বুঝতে এবং নিউক্লিয়ার ড্রপ মডেলের সীমানা পরীক্ষা করতে ব্যাপকভাবে তদন্ত করা হয়েছে।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"medicalUses": {
+"en": "None. Fatal due to extreme radiation.",
+"bn": "নেই। চরম বিকিরণের কারণে মারাত্মক।"
+},
+"foodIndustryUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"constructionUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No biological role. It is a synthetic, radiotoxic element.",
+"bn": "কোনো জৈবিক ভূমিকা নেই। এটি একটি কৃত্রিম, রেডিওটক্সিক উপাদান।"
+},
+"humanBodyRole": {
+"en": "Does not exist in nature or the human body.",
+"bn": "প্রকৃতি বা মানবদেহে এর অস্তিত্ব নেই।"
+},
+"toxicity": {
+"en": "Exceedingly radiotoxic. Any exposure would result in catastrophic DNA damage via alpha particles and spontaneous fission fragments.",
+"bn": "অত্যন্ত রেডিওটক্সিক। যেকোনো এক্সপোজারের ফলে আলফা কণা এবং স্বতঃস্ফূর্ত ফিশন খণ্ডের মাধ্যমে বিপর্যয়কর ডিএনএ ক্ষতি হবে।"
+},
+"environmentalImpact": {
+"en": "Zero natural environmental footprint. Exists only within specialized vacuum chambers in particle accelerators.",
+"bn": "প্রাকৃতিক পরিবেশগত প্রভাব শূন্য। শুধুমাত্র পার্টিকেল এক্সিলারেটরে বিশেষায়িত ভ্যাকুয়াম চেম্বারের মধ্যে বিদ্যমান।"
+},
+"pollutionRisks": {
+"en": "Confined strictly to highly controlled advanced physics laboratories.",
+"bn": "কঠোরভাবে নিয়ন্ত্রিত উন্নত পদার্থবিজ্ঞান গবেষণাগারে সীমাবদ্ধ।"
+},
+"recyclingMethods": {
+"en": "Impossible to recycle as it rapidly decays into lighter elements like Lawrencium.",
+"bn": "লরেনসিয়ামের মতো হালকা উপাদানে দ্রুত ক্ষয়প্রাপ্ত হওয়ায় এটি পুনর্ব্যবহার করা অসম্ভব।"
+},
+"sustainabilityScore": null
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "United States (LBNL / LLNL)",
+"bn": "যুক্তরাষ্ট্র (LBNL / LLNL)"
+},
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Created atom-by-atom via nuclear fusion using linear heavy-ion accelerators.",
+"bn": "খনন করা যায় না। রৈখিক ভারী-আয়ন এক্সিলারেটর ব্যবহার করে পারমাণবিক ফিউশনের মাধ্যমে পরমাণু-দ্বারা-পরমাণু তৈরি করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Priceless. Synthesizing even a few atoms requires millions of dollars in highly specialized particle accelerator time.",
+"bn": "অমূল্য। এমনকি কয়েকটি পরমাণু সংশ্লেষণ করতে অত্যন্ত বিশেষায়িত পার্টিকেল এক্সিলারেটর সময় বাবদ লক্ষ লক্ষ ডলার প্রয়োজন।"
+},
+"futureDemand": {
+"en": "Demand is driven purely by academia and theoretical nuclear physics to map the 'Island of Stability'.",
+"bn": "'আইল্যান্ড অফ স্টেবিলিটি' ম্যাপ করার জন্য চাহিদাটি সম্পূর্ণরূপে একাডেমিয়া এবং তাত্ত্বিক পারমাণবিক পদার্থবিজ্ঞান দ্বারা পরিচালিত হয়।"
+},
+"globalImportance": {
+"en": "Key to advancing the Standard Model of particle physics and relativistic quantum chemistry.",
+"bn": "কণা পদার্থবিদ্যা এবং আপেক্ষিক কোয়ান্টাম রসায়নের স্ট্যান্ডার্ড মডেলকে এগিয়ে নেওয়ার জন্য গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Produces massive ionizing radiation through spontaneous fission and alpha decay.",
+"bn": "স্বতঃস্ফূর্ত ফিশন এবং আলফা ক্ষয়ের মাধ্যমে ব্যাপক আয়নাইজিং বিকিরণ তৈরি করে।"
+},
+"storageRequirements": {
+"en": "Non-storable. Even the most stable isotope decays within roughly a day.",
+"bn": "সংরক্ষণযোগ্য নয়। এমনকি সবচেয়ে স্থিতিশীল আইসোটোপ প্রায় একদিনের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+},
+"handlingProcedures": {
+"en": "Handled computationally via high-speed detectors and robotics in shielded accelerator vaults.",
+"bn": "আচ্ছাদিত এক্সিলারেটর ভল্টে উচ্চ-গতির ডিটেক্টর এবং রোবোটিক্সের মাধ্যমে গণনামূলকভাবে পরিচালিত হয়।"
+},
+"exposureRisks": {
+"en": "Fatal acute radiation sickness.",
+"bn": "মারাত্মক তীব্র বিকিরণ অসুস্থতা।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Dubnium is a highly radioactive, man-made element. It is created by crashing lighter atoms into heavier ones at incredible speeds and studying the brief fragments left behind.",
+"bn": "ডুবনিয়াম একটি অত্যন্ত তেজস্ক্রিয়, মানবসৃষ্ট উপাদান। এটি অবিশ্বাস্য গতিতে ভারী পরমাণুর সাথে হালকা পরমাণুর সংঘর্ষ ঘটিয়ে এবং তার পর অবশিষ্ট সংক্ষিপ্ত টুকরোগুলো অধ্যয়ন করে তৈরি করা হয়।"
+},
+"advancedExplanation": {
+"en": "As the second transactinide and a Group 5 transition metal, Dubnium's chemistry is heavily influenced by relativistic effects, where inner electrons approach the speed of light. This causes its chemical behavior to occasionally deviate from its expected lighter homolog, Tantalum, sometimes mirroring Niobium's complexation tendencies.",
+"bn": "দ্বিতীয় ট্রান্সঅ্যাক্টিনাইড এবং একটি গ্রুপ ৫ অবস্থান্তর ধাতু হিসেবে, ডুবনিয়ামের রসায়ন আপেক্ষিক প্রভাব দ্বারা ব্যাপকভাবে প্রভাবিত হয়, যেখানে অভ্যন্তরীণ ইলেকট্রন আলোর গতির কাছাকাছি পৌঁছায়। এর ফলে এর রাসায়নিক আচরণ মাঝে মাঝে এর প্রত্যাশিত হালকা সমগোত্রীয় ট্যান্টালাম থেকে বিচ্যুত হয় এবং কখনো কখনো নিওবিয়ামের জটিলকরণ প্রবণতার অনুকরণ করে।"
+},
+"funFacts": [
+{
+"en": "Dubnium's most stable isotope, Db-268, has a relatively 'long' half-life of about 29 hours, which is practically an eternity for a superheavy element.",
+"bn": "ডুবনিয়ামের সবচেয়ে স্থিতিশীল আইসোটোপ, Db-268-এর অর্ধায়ু প্রায় ২৯ ঘণ্টা, যা একটি অতিভারী উপাদানের জন্য কার্যত একটি অনন্তকাল।"
+},
+{
+"en": "For decades, US scientists called it 'Hahnium' while Soviet scientists called it 'Nielsbohrium'.",
+"bn": "কয়েক দশক ধরে, মার্কিন বিজ্ঞানীরা একে 'হ্যানিয়াম' বলতেন, অন্যদিকে সোভিয়েত বিজ্ঞানীরা একে 'নিলসবোরিয়াম' বলতেন।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 73,
+"relation": {
+"en": "Dubnium is the direct heavier homolog to Tantalum. However, unlike Tantalum which resists forming complexes with fluoride, Dubnium readily forms them, behaving more like Niobium.",
+"bn": "ডুবনিয়াম হলো ট্যান্টালামের সরাসরি ভারী সমগোত্রীয়। তবে, ট্যান্টালাম যেমন ফ্লোরাইডের সাথে জটিল যৌগ গঠনে বাধা দেয়, ডুবনিয়াম এর বিপরীতে সহজেই তা গঠন করে, যা নিওবিয়ামের মতো বেশি আচরণ করে।"
+}
+}
+],
+"relatedElements": [73, 41, 104, 106],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Dubnium?",
+"bn": "ডুবনিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "104",
+"bn": "১০৪"
+},
+{
+"en": "105",
+"bn": "১০৫"
+},
+{
+"en": "106",
+"bn": "১০৬"
+},
+{
+"en": "107",
+"bn": "১০৭"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Dubnium is element 105, directly following Rutherfordium.",
+"bn": "ডুবনিয়াম হলো ১০৫তম উপাদান, যা রাদারফোর্ডিয়ামের ঠিক পরেই আসে।"
+}
+},
+{
+"question": {
+"en": "The element Dubnium is named after a research facility located in which country?",
+"bn": "ডুবনিয়াম উপাদানটির নামকরণ করা হয়েছে কোন দেশে অবস্থিত একটি গবেষণা কেন্দ্রের নামানুসারে?"
+},
+"options": [
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Germany",
+"bn": "জার্মানি"
+},
+{
+"en": "Russia (Soviet Union)",
+"bn": "রাশিয়া (সোভিয়েত ইউনিয়ন)"
+},
+{
+"en": "Japan",
+"bn": "জাপান"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It is named after Dubna, Russia, the location of the Joint Institute for Nuclear Research (JINR).",
+"bn": "জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (JINR) এর অবস্থান রাশিয়ার দুবনার নামানুসারে এর নামকরণ করা হয়েছে।"
+}
+},
+{
+"question": {
+"en": "In the periodic table, Dubnium is located in which group?",
+"bn": "পর্যায় সারণিতে ডুবনিয়াম কোন গ্রুপে অবস্থিত?"
+},
+"options": [
+{
+"en": "Group 4",
+"bn": "গ্রুপ ৪"
+},
+{
+"en": "Group 5",
+"bn": "গ্রুপ ৫"
+},
+{
+"en": "Group 6",
+"bn": "গ্রুপ ৬"
+},
+{
+"en": "Group 7",
+"bn": "গ্রুপ ৭"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Dubnium is in Group 5, sitting below Vanadium, Niobium, and Tantalum.",
+"bn": "ডুবনিয়াম গ্রুপ ৫-এ অবস্থিত, যা ভ্যানাডিয়াম, নিওবিয়াম এবং ট্যান্টালামের নিচে থাকে।"
+}
+},
+{
+"question": {
+"en": "Before IUPAC settled the naming dispute in 1997, what name did American scientists commonly use for element 105?",
+"bn": "১৯৯৭ সালে IUPAC নামকরণ বিতর্কের সমাধান করার আগে, আমেরিকান বিজ্ঞানীরা ১০৫তম উপাদানের জন্য সাধারণত কোন নাম ব্যবহার করতেন?"
+},
+"options": [
+{
+"en": "Nielsbohrium",
+"bn": "নিলসবোরিয়াম"
+},
+{
+"en": "Hahnium",
+"bn": "হ্যানিয়াম"
+},
+{
+"en": "Seaborgium",
+"bn": "সিবোরজিয়াম"
+},
+{
+"en": "Rutherfordium",
+"bn": "রাদারফোর্ডিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "American researchers at Berkeley proposed 'Hahnium' to honor Otto Hahn, the discoverer of nuclear fission.",
+"bn": "বার্কলেতে আমেরিকান গবেষকরা পারমাণবিক ফিশনের আবিষ্কারক অটো হ্যানকে সম্মান জানাতে 'হ্যানিয়াম' প্রস্তাব করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "How many valence electrons does Dubnium possess?",
+"bn": "ডুবনিয়ামের কয়টি যোজ্যতা ইলেকট্রন রয়েছে?"
+},
+"options": [
+{
+"en": "3",
+"bn": "৩"
+},
+{
+"en": "4",
+"bn": "৪"
+},
+{
+"en": "5",
+"bn": "৫"
+},
+{
+"en": "6",
+"bn": "৬"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a Group 5 element, Dubnium has 5 valence electrons in its outer s and d orbitals (6d³ 7s²).",
+"bn": "গ্রুপ ৫-এর উপাদান হিসেবে, ডুবনিয়ামের বাইরের s এবং d অরবিটালে (6d³ 7s²) ৫টি যোজ্যতা ইলেকট্রন রয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which of the following describes the most stable known isotope of Dubnium (Db-268)?",
+"bn": "নিচের কোনটি ডুবনিয়ামের সর্বাধিক স্থিতিশীল পরিচিত আইসোটোপ (Db-268) বর্ণনা করে?"
+},
+"options": [
+{
+"en": "Half-life of ~1.2 seconds",
+"bn": "অর্ধায়ু ~১.২ সেকেন্ড"
+},
+{
+"en": "Half-life of ~29 hours",
+"bn": "অর্ধায়ু ~২৯ ঘণ্টা"
+},
+{
+"en": "Half-life of ~10 days",
+"bn": "অর্ধায়ু ~১০ দিন"
+},
+{
+"en": "It is completely stable",
+"bn": "এটি সম্পূর্ণ স্থিতিশীল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Db-268 has a remarkably long half-life for a superheavy element, estimated around 28 to 30 hours.",
+"bn": "Db-268 এর একটি অতিভারী উপাদানের জন্য উল্লেখযোগ্যভাবে দীর্ঘ অর্ধায়ু রয়েছে, যা প্রায় ২৮ থেকে ৩০ ঘন্টা অনুমান করা হয়।"
+}
+},
+{
+"question": {
+"en": "Because of extremely strong relativistic effects, Dubnium's aqueous chemistry often mimics which lighter element rather than its direct homolog Tantalum?",
+"bn": "অত্যন্ত শক্তিশালী আপেক্ষিক প্রভাবের কারণে, ডুবনিয়ামের জলীয় রসায়ন প্রায়শই এর সরাসরি সমগোত্রীয় ট্যান্টালামের পরিবর্তে কোন হালকা উপাদানের অনুকরণ করে?"
+},
+"options": [
+{
+"en": "Chromium",
+"bn": "ক্রোমিয়াম"
+},
+{
+"en": "Vanadium",
+"bn": "ভ্যানাডিয়াম"
+},
+{
+"en": "Niobium",
+"bn": "নিওবিয়াম"
+},
+{
+"en": "Molybdenum",
+"bn": "মলিবডেনাম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Unlike Tantalum, Dubnium easily forms stable complexes with fluoride ions, making its behavior more similar to Niobium.",
+"bn": "ট্যান্টালামের বিপরীতে, ডুবনিয়াম সহজেই ফ্লোরাইড আয়নের সাথে স্থিতিশীল জটিল যৌগ গঠন করে, যা এর আচরণকে নিওবিয়ামের সাথে বেশি সদৃশ করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What block of the periodic table contains Dubnium?",
+"bn": "পর্যায় সারণির কোন ব্লকে ডুবনিয়াম থাকে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Dubnium is a transition metal filling the 6d electron shell, placing it in the d-block.",
+"bn": "ডুবনিয়াম একটি অবস্থান্তর ধাতু যা 6d ইলেকট্রন শেল পূরণ করে, এটিকে ডি-ব্লকে স্থাপন করে।"
+}
+},
+{
+"question": {
+"en": "What is the expected primary oxidation state of Dubnium in chemical compounds like DbCl5?",
+"bn": "DbCl5 এর মত রাসায়নিক যৌগে ডুবনিয়ামের প্রত্যাশিত প্রাথমিক জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+5",
+"bn": "+৫"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Following the trend of Group 5 elements, Dubnium primarily exhibits a +5 oxidation state by sharing all its valence electrons.",
+"bn": "গ্রুপ ৫-এর উপাদানগুলোর প্রবণতা অনুসরণ করে, ডুবনিয়াম মূলত এর সমস্ত যোজ্যতা ইলেকট্রন ভাগ করে +৫ জারণ অবস্থা প্রদর্শন করে।"
+}
+},
+{
+"question": {
+"en": "Dubnium is considered a member of which element series?",
+"bn": "ডুবনিয়ামকে কোন উপাদান সিরিজের সদস্য হিসাবে বিবেচনা করা হয়?"
+},
+"options": [
+{
+"en": "Actinides",
+"bn": "অ্যাক্টিনাইডস"
+},
+{
+"en": "Lanthanides",
+"bn": "ল্যান্থানাইডস"
+},
+{
+"en": "Transactinides",
+"bn": "ট্রান্সঅ্যাক্টিনাইডস"
+},
+{
+"en": "Alkaline earth metals",
+"bn": "অ্যালকালাইন আর্থ মেটাল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Elements from 104 to 118 are known as transactinides (superheavy elements beyond the actinides).",
+"bn": "১০৪ থেকে ১১৮ পর্যন্ত উপাদানগুলি ট্রান্সঅ্যাক্টিনাইডস (অ্যাক্টিনাইডগুলির বাইরের অতিভারী উপাদান) হিসাবে পরিচিত।"
+}
+},
+{
+"question": {
+"en": "Which unique technique is often used to study the volatility and chemistry of single atoms of elements like Dubnium?",
+"bn": "ডুবনিয়ামের মতো উপাদানের একক পরমাণুর উদ্বায়ীতা এবং রসায়ন অধ্যয়নের জন্য প্রায়শই কোন অনন্য কৌশল ব্যবহার করা হয়?"
+},
+"options": [
+{
+"en": "Titration",
+"bn": "টাইট্রেশন"
+},
+{
+"en": "Gas-phase thermochromatography",
+"bn": "গ্যাস-ফেজ থার্মোক্রোমাটোগ্রাফি"
+},
+{
+"en": "Electron microscopy",
+"bn": "ইলেকট্রন মাইক্রোস্কোপি"
+},
+{
+"en": "X-ray crystallography",
+"bn": "এক্স-রে ক্রিস্টালোগ্রাফি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Gas-phase thermochromatography measures how synthesized molecules (like DbCl5) stick to the walls of a tube at varying temperatures, revealing chemical properties.",
+"bn": "গ্যাস-ফেজ থার্মোক্রোমাটোগ্রাফি পরিমাপ করে কীভাবে সংশ্লেষিত অণুগুলি (যেমন DbCl5) বিভিন্ন তাপমাত্রায় একটি নলের দেয়ালে লেগে থাকে, যা রাসায়নিক বৈশিষ্ট্যগুলো প্রকাশ করে।"
+}
+},
+{
+"question": {
+"en": "What is the primary natural environmental hazard of Dubnium?",
+"bn": "ডুবনিয়ামের প্রাথমিক প্রাকৃতিক পরিবেশগত ঝুঁকি কী?"
+},
+"options": [
+{
+"en": "Contamination of groundwater",
+"bn": "ভূগর্ভস্থ পানির দূষণ"
+},
+{
+"en": "Ozone layer depletion",
+"bn": "ওজোন স্তরের ক্ষয়"
+},
+{
+"en": "Toxic bioaccumulation in fish",
+"bn": "মাছের মধ্যে বিষাক্ত জৈব সঞ্চয়"
+},
+{
+"en": "None, as it does not exist in nature",
+"bn": "কোনটিই নয়, কারণ প্রকৃতিতে এর কোনো অস্তিত্ব নেই"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Dubnium is purely synthetic and decays almost immediately, meaning it poses absolutely zero environmental hazard outside of an accelerator lab.",
+"bn": "ডুবনিয়াম সম্পূর্ণরূপে কৃত্রিম এবং প্রায় সাথে সাথেই ক্ষয়প্রাপ্ত হয়, যার অর্থ এক্সিলারেটর ল্যাবের বাইরে এটি একেবারেই কোনো পরিবেশগত ঝুঁকি তৈরি করে না।"
+}
+},
+{
+"question": {
+"en": "A common method of Dubnium decay is spontaneous fission. What happens during this process?",
+"bn": "ডুবনিয়াম ক্ষয়ের একটি সাধারণ পদ্ধতি হলো স্বতঃস্ফূর্ত ফিশন। এই প্রক্রিয়া চলাকালীন কী ঘটে?"
+},
+"options": [
+{
+"en": "The nucleus absorbs a stray electron",
+"bn": "নিউক্লিয়াস একটি বিপথগামী ইলেকট্রন শোষণ করে"
+},
+{
+"en": "The heavy nucleus spontaneously breaks apart into two lighter, roughly equal nuclei",
+"bn": "ভারী নিউক্লিয়াস স্বতঃস্ফূর্তভাবে দুটি হালকা, মোটামুটি সমান নিউক্লিয়াসে বিভক্ত হয়ে যায়"
+},
+{
+"en": "It emits a high-energy photon without changing mass",
+"bn": "এটি ভর পরিবর্তন না করে একটি উচ্চ-শক্তির ফোটন নির্গত করে"
+},
+{
+"en": "It converts a neutron into a proton",
+"bn": "এটি একটি নিউট্রনকে প্রোটনে রূপান্তর করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Spontaneous fission is a form of radioactive decay common in superheavy elements where the nucleus simply tears itself apart due to immense internal repulsion.",
+"bn": "স্বতঃস্ফূর্ত ফিশন হলো অতিভারী উপাদানগুলিতে সাধারণ এক ধরণের তেজস্ক্রিয় ক্ষয় যেখানে প্রচণ্ড অভ্যন্তরীণ বিকর্ষণের কারণে নিউক্লিয়াস সহজেই নিজেকে ছিন্নভিন্ন করে ফেলে।"
+}
+},
+{
+"question": {
+"en": "Why are relativistic effects more pronounced in superheavy elements like Dubnium compared to lighter elements?",
+"bn": "কেন হালকা উপাদানগুলির তুলনায় ডুবনিয়ামের মতো অতিভারী উপাদানগুলিতে আপেক্ষিক প্রভাবগুলি বেশি প্রকট হয়?"
+},
+"options": [
+{
+"en": "Because they have more neutrons",
+"bn": "কারণ তাদের বেশি নিউট্রন রয়েছে"
+},
+{
+"en": "Because they are highly radioactive",
+"bn": "কারণ তারা অত্যন্ত তেজস্ক্রিয়"
+},
+{
+"en": "Because massive positive charge in the nucleus forces inner electrons to move close to the speed of light",
+"bn": "কারণ নিউক্লিয়াসে প্রচুর ধনাত্মক আধান ভিতরের ইলেকট্রনগুলিকে আলোর গতির কাছাকাছি যেতে বাধ্য করে"
+},
+{
+"en": "Because their atomic radii are exceptionally small",
+"bn": "কারণ তাদের পারমাণবিক ব্যাসার্ধ ব্যতিক্রমীভাবে ছোট"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The massive nuclear charge accelerates inner s-orbitals to relativistic speeds, making them heavier and contracting the electron cloud, which dramatically alters chemical behavior.",
+"bn": "বিশাল পারমাণবিক আধান অভ্যন্তরীণ s-অরবিটালগুলিকে আপেক্ষিক গতিতে ত্বরান্বিত করে, সেগুলিকে ভারী করে এবং ইলেকট্রন মেঘকে সংকুচিত করে, যা নাটকীয়ভাবে রাসায়নিক আচরণকে পরিবর্তন করে।"
+}
+},
+{
+"question": {
+"en": "In what physical phase is Dubnium predicted to be at room temperature (298 K)?",
+"bn": "কক্ষ তাপমাত্রায় (২৯৮ K) ডুবনিয়ামের ভৌত অবস্থা কী হবে বলে অনুমান করা হয়?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a heavy transition metal, Dubnium is predicted to be a solid under standard conditions.",
+"bn": "একটি ভারী অবস্থান্তর ধাতু হিসাবে, প্রমাণ অবস্থায় ডুবনিয়ামকে একটি কঠিন পদার্থ বলে অনুমান করা হয়।"
+}
+},
+{
+"question": {
+"en": "During the synthesis of Dubnium, scientists in Berkeley fired Nitrogen-15 ions at a target made of which element?",
+"bn": "ডুবনিয়াম সংশ্লেষণের সময়, বার্কলেতে বিজ্ঞানীরা কোন উপাদান দিয়ে তৈরি একটি লক্ষ্যবস্তুতে নাইট্রোজেন-১৫ আয়ন নিক্ষেপ করেছিলেন?"
+},
+"options": [
+{
+"en": "Plutonium-244",
+"bn": "প্লুটোনিয়াম-২৪৪"
+},
+{
+"en": "Curium-248",
+"bn": "কুরিয়াম-২৪৮"
+},
+{
+"en": "Californium-249",
+"bn": "ক্যালিফোর্নিয়াম-২৪৯"
+},
+{
+"en": "Uranium-238",
+"bn": "ইউরেনিয়াম-২৩৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "LBNL scientists successfully produced element 105 by bombarding a Californium-249 target with Nitrogen-15 nuclei.",
+"bn": "LBNL-এর বিজ্ঞানীরা ক্যালিফোর্নিয়াম-২৪৯ লক্ষ্যবস্তুতে নাইট্রোজেন-১৫ নিউক্লিয়াস দিয়ে বোমাবর্ষণ করে সফলভাবে ১০৫তম উপাদান তৈরি করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "What is the expected molecular geometry of Dubnium pentachloride (DbCl5)?",
+"bn": "ডুবনিয়াম পেন্টাক্লোরাইডের (DbCl5) প্রত্যাশিত আণবিক জ্যামিতি কী?"
+},
+"options": [
+{
+"en": "Tetrahedral",
+"bn": "টেট্রাহেড্রাল"
+},
+{
+"en": "Square planar",
+"bn": "স্কয়ার প্ল্যানার"
+},
+{
+"en": "Trigonal bipyramidal",
+"bn": "ত্রিকোণীয় দ্বিপিরামিডাল"
+},
+{
+"en": "Octahedral",
+"bn": "অক্টাহেড্রাল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Based on VSEPR theory for a central atom with 5 bonding pairs and 0 lone pairs, DbCl5 would form a trigonal bipyramidal structure.",
+"bn": "VSEPR তত্ত্বের ওপর ভিত্তি করে ৫টি বন্ডিং পেয়ার এবং ০টি লোন পেয়ার সহ একটি কেন্দ্রীয় পরমাণুর জন্য, DbCl5 একটি ত্রিকোণীয় দ্বিপিরামিডাল কাঠামো গঠন করবে।"
+}
+},
+{
+"question": {
+"en": "If you could look at a visible piece of Dubnium, what color is it mathematically predicted to be?",
+"bn": "আপনি যদি ডুবনিয়ামের একটি দৃশ্যমান টুকরোর দিকে তাকাতে পারেন, তবে গাণিতিকভাবে এর রঙ কী হবে বলে অনুমান করা হয়?"
+},
+"options": [
+{
+"en": "Pale yellow",
+"bn": "ফ্যাকাশে হলুদ"
+},
+{
+"en": "Silvery-white or metallic gray",
+"bn": "রূপালী-সাদা বা ধাতব ধূসর"
+},
+{
+"en": "Deep blue",
+"bn": "গভীর নীল"
+},
+{
+"en": "Invisible/Transparent",
+"bn": "অদৃশ্য/স্বচ্ছ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like most transition metals, it is expected to have a standard metallic luster, likely silvery-white or gray.",
+"bn": "বেশিরভাগ অবস্থান্তর ধাতুর মতো, এর একটি প্রমিত ধাতব দীপ্তি থাকবে বলে আশা করা হয়, যা সম্ভবত রূপালী-সাদা বা ধূসর।"
+}
+},
+{
+"question": {
+"en": "Isotope Db-268 is produced as a descendant in the decay chain of which heavier element?",
+"bn": "আইসোটোপ Db-268 কোন ভারী উপাদানের ক্ষয় শৃঙ্খলে একটি বংশধর হিসাবে উৎপাদিত হয়?"
+},
+"options": [
+{
+"en": "Livermorium (116)",
+"bn": "লিভারমোরিয়াম (১১৬)"
+},
+{
+"en": "Flerovium (114)",
+"bn": "ফ্লেরোভিয়াম (১১৪)"
+},
+{
+"en": "Nihonium (113)",
+"bn": "নিহোনিয়াম (১১৩)"
+},
+{
+"en": "Moscovium (115)",
+"bn": "মস্কোভিয়াম (১১৫)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Db-268 is found at the end of the alpha-decay chain originating from Moscovium (Element 115).",
+"bn": "মস্কোভিয়াম (উপাদান ১১৫) থেকে উদ্ভূত আলফা-ক্ষয় শৃঙ্খলের শেষে Db-268 পাওয়া যায়।"
+}
+},
+{
+"question": {
+"en": "Why does synthesizing superheavy elements like Dubnium cost millions of dollars?",
+"bn": "কেন ডুবনিয়ামের মতো অতিভারী উপাদান সংশ্লেষণে লক্ষ লক্ষ ডলার খরচ হয়?"
+},
+"options": [
+{
+"en": "The raw materials like pure gold are expensive",
+"bn": "বিশুদ্ধ সোনার মতো কাঁচামাল ব্যয়বহুল"
+},
+{
+"en": "It requires massive amounts of electrical power to run particle accelerators for months to get a single atom",
+"bn": "একটি মাত্র পরমাণু পেতে মাসের পর মাস পার্টিকেল এক্সিলারেটর চালানোর জন্য বিপুল পরিমাণ বৈদ্যুতিক শক্তির প্রয়োজন হয়"
+},
+{
+"en": "The patent rights are owned by private corporations",
+"bn": "পেটেন্টের অধিকারগুলো বেসরকারি কর্পোরেশনগুলির মালিকানাধীন"
+},
+{
+"en": "It must be synthesized in outer space",
+"bn": "এটি মহাশূন্যে সংশ্লেষিত করতে হবে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The extreme energy needed to accelerate heavy ions to a fraction of the speed of light, sustained over long periods just to achieve a few successful collisions, makes synthesis astronomically expensive.",
+"bn": "ভারী আয়নগুলোকে আলোর গতির একটি ভগ্নাংশে ত্বরান্বিত করার জন্য যে চরম শক্তির প্রয়োজন হয় এবং মাত্র কয়েকটি সফল সংঘর্ষ অর্জনের জন্য তা দীর্ঘ সময় ধরে বজায় রাখতে হয়, সেটি সংশ্লেষণকে অবিশ্বাস্য রকম ব্যয়বহুল করে তোলে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Dubnium can be mined if we find the right asteroid.",
+"bn": "যদি আমরা সঠিক গ্রহাণু খুঁজে পাই তবে ডুবনিয়াম খনন করা সম্ভব।"
+},
+{
+"en": "Elements like Dubnium will eventually be used to build stronger starships.",
+"bn": "ডুবনিয়ামের মতো উপাদানগুলো শেষপর্যন্ত আরও শক্তিশালী স্পেসশিপ তৈরি করতে ব্যবহৃত হবে।"
+}
+],
+"learningTips": [
+{
+"en": "Associate Dubnium (105) with 'Dubna', the Russian city where it was first produced, to remember its name origin.",
+"bn": "নামের উৎস মনে রাখার জন্য ডুবনিয়ামকে (১০৫) রাশিয়ান শহর 'দুবনা'-র সাথে যুক্ত করুন, যেখানে এটি প্রথম উৎপাদিত হয়েছিল।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Db + 2.5Cl₂ → DbCl₅",
+"description": {
+"en": "Predicted formation of Dubnium pentachloride upon exposure to chlorine gas.",
+"bn": "ক্লোরিন গ্যাসের সংস্পর্শে ডুবনিয়াম পেন্টাক্লোরাইড গঠনের ভবিষ্যদ্বাণী।"
+}
+},
+{
+"equation": "DbCl₅ + H₂O → DbOCl₃ + 2HCl",
+"description": {
+"en": "Predicted partial hydrolysis of Dubnium pentachloride forming dubnium oxytrichloride.",
+"bn": "ডুবনিয়াম অক্সিট্রাইক্লোরাইড গঠনকারী ডুবনিয়াম পেন্টাক্লোরাইডের অনুমিত আংশিক হাইড্রোলাইসিস।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Db → Db⁵⁺ + 5e⁻",
+"description": {
+"en": "Oxidation of Dubnium to its most common predicted +5 state.",
+"bn": "ডুবনিয়ামকে এর সবচেয়ে সাধারণ অনুমিত +৫ অবস্থায় জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Db⁵⁺ + 5e⁻ → Db",
+"description": {
+"en": "Theoretical reduction of Dubnium ions back to atomic metal.",
+"bn": "ডুবনিয়াম আয়নকে পারমাণবিক ধাতুতে তাত্ত্বিকভাবে ফিরিয়ে আনা।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "DbCl₅",
+"description": {
+"en": "Dubnium covalently shares its five valence electrons with halogens, creating volatile molecular structures.",
+"bn": "ডুবনিয়াম হ্যালোজেনের সাথে এর পাঁচটি যোজ্যতা ইলেকট্রন সমযোজীভাবে ভাগ করে নেয় এবং উদ্বায়ী আণবিক কাঠামো তৈরি করে।"
+}
+}
+]
+}
+}

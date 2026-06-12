@@ -1,0 +1,1053 @@
+{
+  "elementId": 21,
+  "basicInformation": {
+    "atomicNumber": 21,
+    "symbol": "Sc",
+    "name": {
+      "en": "Scandium",
+      "bn": "স্ক্যান্ডিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˈskændiəm/",
+      "bn": "স্ক্যান-ডি-য়াম"
+    },
+    "atomicMass": 44.955908,
+    "category": {
+      "en": "Transition metal",
+      "bn": "অবস্থান্তর ধাতু"
+    },
+    "group": 3,
+    "period": 4,
+    "block": "d",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Silvery-white metal with a slight yellowish-pink tarnish",
+      "bn": "সামান্য হলুদাভ-গোলাপী মলিনতাযুক্ত রূপালী-সাদা ধাতু"
+    },
+    "color": {
+      "en": "Silvery-white",
+      "bn": "রূপালী-সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial",
+      "bn": "আদিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Lars Fredrik Nilson",
+      "bn": "লার্স ফ্রেডরিক নিলসন"
+    },
+    "discoveryYear": 1879,
+    "discoveryLocation": {
+      "en": "Sweden",
+      "bn": "সুইডেন"
+    },
+    "discoveryStory": {
+      "en": "Nilson isolated scandium oxide from euxenite and gadolinite, confirming Mendeleev's predicted 'eka-boron'. Named after Scandinavia.",
+      "bn": "নিলসন ইউক্সেনাইট এবং গ্যাডোলিনাইট থেকে স্ক্যান্ডিয়াম অক্সাইড পৃথক করেন, যা মেন্ডেলিভের পূর্বাভাসিত 'একা-বোরন' নিশ্চিত করে। স্ক্যান্ডিনেভিয়ার নামে নামকরণ করা হয়।"
+    },
+    "historicalUses": {
+      "en": "Initially had no commercial use due to scarcity; first major application was in Soviet-era MiG-29 fighter jet airframes (Sc-Al alloy).",
+      "bn": "দুষ্প্রাপ্যতার কারণে প্রাথমিকভাবে কোনো বাণিজ্যিক ব্যবহার ছিল না; প্রথম প্রধান প্রয়োগ ছিল সোভিয়েত যুগের MiG-29 যুদ্ধবিমানের কাঠামোতে (Sc-Al অ্যালয়)।"
+    },
+    "famousExperiments": {
+      "en": "Per Teodor Cleve's 1879 work demonstrating scandium's identity matched Mendeleev's eka-boron predictions almost exactly.",
+      "bn": "পার তেওদর ক্লেভের ১৮৭৯ সালের কাজ যা প্রমাণ করেছিল স্ক্যান্ডিয়ামের পরিচয় মেন্ডেলিভের একা-বোরন পূর্বাভাসের সাথে প্রায় সম্পূর্ণরূপে মিলে যায়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 21,
+    "neutrons": 24,
+    "electrons": 21,
+    "valenceElectrons": 3,
+    "shells": 4,
+    "shellDistribution": [
+      2,
+      8,
+      9,
+      2
+    ],
+    "electronConfiguration": "[Ar] 3d¹ 4s²",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 6,
+      "3d": 1,
+      "4s": 2
+    },
+    "oxidationStates": [
+      3,
+      2,
+      1
+    ],
+    "quantumNumbers": {
+      "principal": 3,
+      "azimuthal": 2,
+      "magnetic": -2,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 2.985,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 1814,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 3109,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 162,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 170,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 211,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 15.8,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 1770000,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.568,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 2.5,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Hexagonal close-packed (HCP)",
+      "bn": "ষড়ভুজাকার ঘনিষ্ঠ-প্যাকড (HCP)"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.36,
+    "ionizationEnergy": {
+      "value": 633.1,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 18.1,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Moderately reactive; tarnishes in air, dissolves slowly in dilute acids, predominantly forms Sc³⁺ compounds.",
+      "bn": "মাঝারিভাবে প্রতিক্রিয়াশীল; বাতাসে মলিন হয়, পাতলা অ্যাসিডে ধীরে দ্রবীভূত হয়, প্রধানত Sc³⁺ যৌগ গঠন করে।"
+    },
+    "commonCompounds": [
+      "Sc₂O₃",
+      "ScCl₃",
+      "ScF₃",
+      "Sc(OH)₃",
+      "Sc₂(SO₄)₃"
+    ],
+    "flameTestColor": {
+      "en": "No characteristic flame color",
+      "bn": "কোনো বৈশিষ্ট্যপূর্ণ শিখা রঙ নেই"
+    },
+    "spectralLines": [
+      "361.38nm",
+      "390.75nm",
+      "402.04nm",
+      "424.68nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Aluminum-scandium alloys for aerospace, sporting goods, and 3D-printed structural parts; scandium oxide in high-intensity discharge lamps.",
+      "bn": "মহাকাশ, ক্রীড়া সামগ্রী এবং 3D-প্রিন্টেড কাঠামোগত যন্ত্রাংশের জন্য অ্যালুমিনিয়াম-স্ক্যান্ডিয়াম অ্যালয়; উচ্চ-তীব্রতা ডিসচার্জ ল্যাম্পে স্ক্যান্ডিয়াম অক্সাইড।"
+    },
+    "commercialUses": {
+      "en": "High-end baseball bats, bicycle frames, lacrosse sticks, and golf club shafts using Sc-Al alloys for strength-to-weight ratio.",
+      "bn": "শক্তি-থেকে-ওজন অনুপাতের জন্য Sc-Al অ্যালয় ব্যবহার করে উচ্চমানের বেসবল ব্যাট, সাইকেল ফ্রেম, ল্যাক্রস স্টিক এবং গলফ ক্লাব শ্যাফ্ট।"
+    },
+    "electronicsUses": {
+      "en": "Scandium iodide added to mercury-vapor lamps to produce a highly efficient light source mimicking natural sunlight.",
+      "bn": "প্রাকৃতিক সূর্যালোকের অনুকরণে অত্যন্ত দক্ষ আলোর উৎস তৈরি করতে পারদ-বাষ্প ল্যাম্পে স্ক্যান্ডিয়াম আয়োডাইড যোগ করা হয়।"
+    },
+    "semiconductorUses": {
+      "en": "Scandium aluminum nitride (ScAlN) thin films enable high-frequency RF filters for 5G/6G communication chips.",
+      "bn": "স্ক্যান্ডিয়াম অ্যালুমিনিয়াম নাইট্রাইড (ScAlN) পাতলা ফিল্ম 5G/6G যোগাযোগ চিপের জন্য উচ্চ-ফ্রিকোয়েন্সি RF ফিল্টার সক্ষম করে।"
+    },
+    "aerospaceUses": {
+      "en": "Sc-Al alloys (0.1-0.5% Sc) used in MiG-29/Su-27 airframes, Airbus structural components, and additively-manufactured rocket parts.",
+      "bn": "Sc-Al অ্যালয় (০.১-০.৫% Sc) MiG-29/Su-27 এয়ারফ্রেম, এয়ারবাস কাঠামোগত উপাদান এবং সংযোজনীয়ভাবে নির্মিত রকেট অংশে ব্যবহৃত হয়।"
+    },
+    "batteryUses": {
+      "en": "Used as an electrolyte dopant in solid oxide fuel cells (Sc-stabilized zirconia) for higher ionic conductivity.",
+      "bn": "উচ্চতর আয়নিক পরিবাহিতার জন্য সলিড অক্সাইড ফুয়েল সেলগুলিতে (Sc-স্থিতিশীল জিরকোনিয়া) ইলেক্ট্রোলাইট ডোপ্যান্ট হিসেবে ব্যবহৃত হয়।"
+    },
+    "aiHardwareUses": {
+      "en": "ScAlN piezoelectric films enable next-gen MEMS sensors and acoustic resonators in AI-driven IoT edge devices.",
+      "bn": "ScAlN পাইজোইলেকট্রিক ফিল্মগুলি AI-চালিত IoT এজ ডিভাইসে পরবর্তী প্রজন্মের MEMS সেন্সর এবং অ্যাকোস্টিক রেজোনেটর সক্ষম করে।"
+    },
+    "renewableEnergyUses": {
+      "en": "Scandia-stabilized zirconia electrolytes in Solid Oxide Fuel Cells (SOFCs) for clean hydrogen power generation.",
+      "bn": "পরিষ্কার হাইড্রোজেন বিদ্যুৎ উৎপাদনের জন্য সলিড অক্সাইড ফুয়েল সেল (SOFCs) এ স্ক্যান্ডিয়া-স্থিতিশীল জিরকোনিয়া ইলেক্ট্রোলাইট।"
+    },
+    "nanotechnologyUses": {
+      "en": "Scandium nanoparticles studied for catalysis in green chemistry and as dopants in luminescent nanomaterials.",
+      "bn": "স্ক্যান্ডিয়াম ন্যানোকণা সবুজ রসায়নে অনুঘটক এবং উজ্জ্বল ন্যানোম্যাটেরিয়ালে ডোপ্যান্ট হিসেবে অধ্যয়ন করা হয়।"
+    },
+    "nuclearUses": {
+      "en": "Scandium-46 (radioisotope) used as a tracer in oil refineries and as a sub-critical neutron source.",
+      "bn": "স্ক্যান্ডিয়াম-46 (তেজস্ক্রিয় আইসোটোপ) তেল শোধনাগারে ট্রেসার এবং সাব-ক্রিটিক্যাল নিউট্রন উৎস হিসেবে ব্যবহৃত হয়।"
+    },
+    "militaryUses": {
+      "en": "High-strength Sc-Al alloys in military aircraft (MiG-29), firearm receivers, and lightweight armor components.",
+      "bn": "সামরিক বিমানে (MiG-29), আগ্নেয়াস্ত্র রিসিভার এবং হালকা ওজনের বর্ম উপাদানে উচ্চ-শক্তির Sc-Al অ্যালয়।"
+    },
+    "medicalUses": {
+      "en": "Scandium-47 is a promising theranostic radioisotope for targeted cancer therapy and PET/SPECT imaging.",
+      "bn": "স্ক্যান্ডিয়াম-47 লক্ষ্যযুক্ত ক্যান্সার থেরাপি এবং PET/SPECT ইমেজিংয়ের জন্য একটি প্রতিশ্রুতিশীল থেরানস্টিক তেজস্ক্রিয় আইসোটোপ।"
+    },
+    "foodIndustryUses": {
+      "en": "No significant direct use in food industry.",
+      "bn": "খাদ্য শিল্পে কোনো উল্লেখযোগ্য সরাসরি ব্যবহার নেই।"
+    },
+    "constructionUses": {
+      "en": "Sc-Al weldable alloys enable lightweight, high-strength structural panels and additively manufactured construction components.",
+      "bn": "Sc-Al ঢালাইযোগ্য অ্যালয় হালকা ওজনের, উচ্চ-শক্তির কাঠামোগত প্যানেল এবং সংযোজনীয়ভাবে নির্মিত নির্মাণ উপাদান সক্ষম করে।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological role in any organism; not considered essential.",
+      "bn": "কোনো জীবের মধ্যে পরিচিত জৈবিক ভূমিকা নেই; অপরিহার্য বলে বিবেচিত নয়।"
+    },
+    "humanBodyRole": {
+      "en": "Average human body contains trace amounts (~0.2 mg) with no known function.",
+      "bn": "গড় মানব দেহে ট্রেস পরিমাণ (~০.২ মিগ্রা) থাকে যার কোনো পরিচিত কার্যকারিতা নেই।"
+    },
+    "toxicity": {
+      "en": "Low to moderate toxicity; soluble compounds may cause mild gastrointestinal irritation; chronic exposure data is limited.",
+      "bn": "কম থেকে মাঝারি বিষাক্ততা; দ্রবণীয় যৌগগুলি হালকা পাকস্থলীগত জ্বালা সৃষ্টি করতে পারে; দীর্ঘস্থায়ী এক্সপোজার তথ্য সীমিত।"
+    },
+    "environmentalImpact": {
+      "en": "Low environmental impact due to scarcity; however, mining as a by-product of uranium/iron ore can amplify regional impacts.",
+      "bn": "দুষ্প্রাপ্যতার কারণে পরিবেশগত প্রভাব কম; তবে ইউরেনিয়াম/আয়রন আকরিকের উপজাত হিসেবে খনন আঞ্চলিক প্রভাব বাড়াতে পারে।"
+    },
+    "pollutionRisks": {
+      "en": "Tailings from rare-earth and uranium mining containing scandium can release radioactive thorium co-contaminants.",
+      "bn": "স্ক্যান্ডিয়াম ধারণকারী বিরল-আর্থ এবং ইউরেনিয়াম খনির বর্জ্য তেজস্ক্রিয় থোরিয়াম সহ-দূষক ছাড়তে পারে।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered from red mud (bauxite residue), uranium tailings, and end-of-life Sc-Al aerospace alloys via hydrometallurgy.",
+      "bn": "হাইড্রোমেটালার্জির মাধ্যমে লাল কাদা (বক্সাইট অবশিষ্টাংশ), ইউরেনিয়াম বর্জ্য এবং জীবন-শেষ Sc-Al মহাকাশ অ্যালয় থেকে পুনরুদ্ধার করা হয়।"
+    },
+    "sustainabilityScore": 5.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Ukraine",
+        "bn": "ইউক্রেন"
+      },
+      {
+        "en": "Philippines",
+        "bn": "ফিলিপাইন"
+      }
+    ],
+    "miningMethods": {
+      "en": "Recovered primarily as a by-product from uranium, tungsten, rare-earth, nickel laterite, and aluminum (red mud) processing.",
+      "bn": "প্রাথমিকভাবে ইউরেনিয়াম, টাংস্টেন, বিরল-আর্থ, নিকেল ল্যাটেরাইট এবং অ্যালুমিনিয়াম (লাল কাদা) প্রক্রিয়াকরণ থেকে উপজাত হিসেবে পুনরুদ্ধার করা হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "0.000003% by mass",
+        "bn": "ভর অনুযায়ী ০.০০০০০৩%"
+      },
+      "earthCrust": {
+        "en": "0.0022% by mass (~22 ppm)",
+        "bn": "ভর অনুযায়ী ০.০০২২% (~২২ ppm)"
+      },
+      "oceans": {
+        "en": "<0.000000001% by mass",
+        "bn": "ভর অনুযায়ী <০.০০০০০০০০১%"
+      }
+    },
+    "marketValue": {
+      "en": "Scandium oxide (Sc₂O₃, 99.99%): ~$1,000 - $1,500 per kg; metallic scandium: ~$4,000 - $20,000 per kg depending on purity.",
+      "bn": "স্ক্যান্ডিয়াম অক্সাইড (Sc₂O₃, ৯৯.৯৯%): প্রতি কেজি ~$১,০০০ - $১,৫০০; ধাতব স্ক্যান্ডিয়াম: বিশুদ্ধতার উপর নির্ভর করে প্রতি কেজি ~$৪,০০০ - $২০,০০০।"
+    },
+    "futureDemand": {
+      "en": "Demand surging for Sc-Al aerospace alloys, SOFC electrolytes, and ScAlN 5G/6G RF filters; supply remains highly constrained.",
+      "bn": "Sc-Al মহাকাশ অ্যালয়, SOFC ইলেক্ট্রোলাইট এবং ScAlN 5G/6G RF ফিল্টারের জন্য চাহিদা বাড়ছে; সরবরাহ অত্যন্ত সীমাবদ্ধ থাকে।"
+    },
+    "globalImportance": {
+      "en": "A strategic critical mineral for aerospace, clean energy, and advanced semiconductors with severe supply-chain vulnerability.",
+      "bn": "মহাকাশ, পরিচ্ছন্ন শক্তি এবং উন্নত সেমিকন্ডাক্টরের জন্য একটি কৌশলগত গুরুত্বপূর্ণ খনিজ যার গুরুতর সরবরাহ-শৃঙ্খল দুর্বলতা রয়েছে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Powdered scandium is flammable and may ignite spontaneously; soluble salts pose mild ingestion/inhalation hazards.",
+      "bn": "চূর্ণিত স্ক্যান্ডিয়াম দাহ্য এবং স্বতঃস্ফূর্তভাবে জ্বলতে পারে; দ্রবণীয় লবণগুলি হালকা গ্রহণ/শ্বাস ঝুঁকি সৃষ্টি করে।"
+    },
+    "storageRequirements": {
+      "en": "Store metallic scandium in sealed inert (argon) atmosphere; keep powder away from heat, sparks, and oxidizers.",
+      "bn": "ধাতব স্ক্যান্ডিয়াম সিল করা নিষ্ক্রিয় (আর্গন) বায়ুমণ্ডলে সংরক্ষণ করুন; চূর্ণকে তাপ, স্ফুলিঙ্গ এবং জারক থেকে দূরে রাখুন।"
+    },
+    "handlingProcedures": {
+      "en": "Use gloves, safety glasses, and dust respirators; handle in fume hood to prevent inhalation of fine particles.",
+      "bn": "গ্লাভস, নিরাপত্তা চশমা এবং ডাস্ট রেসপিরেটর ব্যবহার করুন; সূক্ষ্ম কণা শ্বাস গ্রহণ রোধ করতে ফিউম হুডে হ্যান্ডেল করুন।"
+    },
+    "exposureRisks": {
+      "en": "Inhalation of dust may cause pulmonary irritation; prolonged skin contact can lead to mild dermatitis.",
+      "bn": "ধুলো শ্বাস নেওয়ার ফলে পালমোনারি জ্বালা হতে পারে; ত্বকের দীর্ঘস্থায়ী সংস্পর্শে হালকা ডার্মাটাইটিস হতে পারে।"
+    },
+    "safetyLevel": {
+      "en": "Low Risk",
+      "bn": "কম ঝুঁকি"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Flammable Solid (powder form)",
+        "bn": "দাহ্য কঠিন (চূর্ণ আকারে)"
+      },
+      {
+        "en": "Mild Irritant",
+        "bn": "হালকা উদ্দীপক"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Scandium is a rare, lightweight metal used to make extra-strong aluminum alloys for jets and high-end sports gear.",
+      "bn": "স্ক্যান্ডিয়াম একটি বিরল, হালকা ওজনের ধাতু যা জেট এবং উচ্চমানের ক্রীড়া সরঞ্জামের জন্য অতিরিক্ত-শক্তিশালী অ্যালুমিনিয়াম অ্যালয় তৈরিতে ব্যবহৃত হয়।"
+    },
+    "advancedExplanation": {
+      "en": "The first d-block transition metal, scandium exhibits predominantly +3 oxidation state due to easy loss of its [Ar]3d¹4s² valence electrons, behaving chemically more like a heavy alkaline earth or aluminum than typical transition metals.",
+      "bn": "প্রথম d-ব্লক অবস্থান্তর ধাতু, স্ক্যান্ডিয়াম এর [Ar]3d¹4s² যোজ্যতা ইলেকট্রনের সহজ অপসারণের কারণে প্রধানত +৩ জারণ অবস্থা প্রদর্শন করে, রাসায়নিকভাবে সাধারণ অবস্থান্তর ধাতুর চেয়ে ভারী ক্ষারীয় মৃত্তিকা বা অ্যালুমিনিয়ামের মতো আচরণ করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Mendeleev predicted scandium's existence and properties a decade before its discovery, calling it 'eka-boron'.",
+        "bn": "মেন্ডেলিভ স্ক্যান্ডিয়ামের অস্তিত্ব এবং বৈশিষ্ট্যগুলি এর আবিষ্কারের এক দশক আগে পূর্বাভাস দিয়েছিলেন, এটিকে 'একা-বোরন' বলে অভিহিত করেছিলেন।"
+      },
+      {
+        "en": "Adding just 0.1% scandium to aluminum can increase its strength by up to 50% and improve weldability dramatically.",
+        "bn": "অ্যালুমিনিয়ামে মাত্র ০.১% স্ক্যান্ডিয়াম যোগ করলে এর শক্তি ৫০% পর্যন্ত বাড়তে পারে এবং ঢালাইযোগ্যতা নাটকীয়ভাবে উন্নত হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 20,
+        "relation": {
+          "en": "Unlike Calcium which loses 2 electrons (Ca²⁺), Scandium's extra 3d electron lets it lose 3 electrons forming Sc³⁺.",
+          "bn": "ক্যালসিয়াম যেখানে ২টি ইলেকট্রন হারায় (Ca²⁺), স্ক্যান্ডিয়ামের অতিরিক্ত 3d ইলেকট্রন এটিকে ৩টি ইলেকট্রন হারিয়ে Sc³⁺ গঠন করতে দেয়।"
+        }
+      },
+      {
+        "compareWithId": 22,
+        "relation": {
+          "en": "Titanium is denser and more abundant than scandium but both form strong, lightweight aerospace alloys.",
+          "bn": "টাইটানিয়াম স্ক্যান্ডিয়ামের চেয়ে ঘন এবং বেশি প্রচুর কিন্তু উভয়ই শক্তিশালী, হালকা ওজনের মহাকাশ অ্যালয় গঠন করে।"
+        }
+      }
+    ],
+    "relatedElements": [
+      20,
+      22,
+      39,
+      57
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "Who is credited with the discovery of scandium in 1879?",
+          "bn": "১৮৭৯ সালে স্ক্যান্ডিয়াম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়?"
+        },
+        "options": [
+          {
+            "en": "Dmitri Mendeleev",
+            "bn": "দিমিত্রি মেন্ডেলিভ"
+          },
+          {
+            "en": "Lars Fredrik Nilson",
+            "bn": "লার্স ফ্রেডরিক নিলসন"
+          },
+          {
+            "en": "Per Teodor Cleve",
+            "bn": "পার তেওদর ক্লেভে"
+          },
+          {
+            "en": "Henry Cavendish",
+            "bn": "হেনরি ক্যাভেন্ডিশ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Nilson isolated scandium oxide from euxenite and gadolinite minerals in Sweden in 1879.",
+          "bn": "নিলসন ১৮৭৯ সালে সুইডেনে ইউক্সেনাইট এবং গ্যাডোলিনাইট খনিজ থেকে স্ক্যান্ডিয়াম অক্সাইড পৃথক করেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What name did Mendeleev assign to the predicted element that turned out to be scandium?",
+          "bn": "মেন্ডেলিভ পূর্বাভাসিত যে উপাদানটি স্ক্যান্ডিয়াম হিসেবে প্রমাণিত হয়েছিল তাকে কী নাম দিয়েছিলেন?"
+        },
+        "options": [
+          {
+            "en": "Eka-aluminum",
+            "bn": "একা-অ্যালুমিনিয়াম"
+          },
+          {
+            "en": "Eka-silicon",
+            "bn": "একা-সিলিকন"
+          },
+          {
+            "en": "Eka-boron",
+            "bn": "একা-বোরন"
+          },
+          {
+            "en": "Eka-manganese",
+            "bn": "একা-ম্যাঙ্গানিজ"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Mendeleev predicted eka-boron based on its position below boron in his early periodic table.",
+          "bn": "মেন্ডেলিভ তার প্রাথমিক পর্যায় সারণিতে বোরনের নিচে এর অবস্থানের ভিত্তিতে একা-বোরনের পূর্বাভাস দিয়েছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most common oxidation state of scandium in its compounds?",
+          "bn": "এর যৌগগুলিতে স্ক্যান্ডিয়ামের সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+        },
+        "options": [
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+3",
+            "bn": "+৩"
+          },
+          {
+            "en": "+4",
+            "bn": "+৪"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Sc loses all three valence electrons (3d¹4s²) to achieve a stable noble-gas [Ar] configuration as Sc³⁺.",
+          "bn": "Sc Sc³⁺ হিসেবে স্থিতিশীল নোবেল-গ্যাস [Ar] বিন্যাস অর্জনের জন্য তার তিনটি যোজ্যতা ইলেকট্রন (3d¹4s²) হারায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which famous Soviet-era fighter jet pioneered the use of Sc-Al alloy in its airframe?",
+          "bn": "কোন বিখ্যাত সোভিয়েত যুগের যুদ্ধবিমান এর কাঠামোতে Sc-Al অ্যালয় ব্যবহারের পথিকৃৎ ছিল?"
+        },
+        "options": [
+          {
+            "en": "MiG-21",
+            "bn": "MiG-21"
+          },
+          {
+            "en": "MiG-29 / Su-27",
+            "bn": "MiG-29 / Su-27"
+          },
+          {
+            "en": "Tu-160",
+            "bn": "Tu-160"
+          },
+          {
+            "en": "Yak-9",
+            "bn": "Yak-9"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Soviet engineers used Sc-Al alloys in MiG-29 and Su-27 airframes to reduce weight while maintaining structural strength.",
+          "bn": "সোভিয়েত প্রকৌশলীরা কাঠামোগত শক্তি বজায় রেখে ওজন কমাতে MiG-29 এবং Su-27 এর কাঠামোতে Sc-Al অ্যালয় ব্যবহার করেছিলেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "In high-intensity discharge (HID) lamps, scandium iodide is added primarily to:",
+          "bn": "উচ্চ-তীব্রতা ডিসচার্জ (HID) ল্যাম্পে, স্ক্যান্ডিয়াম আয়োডাইড প্রাথমিকভাবে কিসের জন্য যোগ করা হয়:"
+        },
+        "options": [
+          {
+            "en": "Increase voltage",
+            "bn": "ভোল্টেজ বাড়ানো"
+          },
+          {
+            "en": "Produce daylight-like color rendering",
+            "bn": "দিনের আলোর মতো রঙ রেন্ডারিং তৈরি করা"
+          },
+          {
+            "en": "Lower temperature",
+            "bn": "তাপমাত্রা কমানো"
+          },
+          {
+            "en": "Prevent oxidation",
+            "bn": "জারণ রোধ করা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "ScI₃ improves spectral output, giving HID lamps a balanced, sunlight-like white color suitable for stadiums and photography.",
+          "bn": "ScI₃ বর্ণালী আউটপুট উন্নত করে, HID ল্যাম্পগুলিকে স্টেডিয়াম এবং ফটোগ্রাফির জন্য উপযুক্ত একটি সুষম, সূর্যালোক-সদৃশ সাদা রঙ দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is scandium classified as one of the rare earth elements (REEs)?",
+          "bn": "কেন স্ক্যান্ডিয়ামকে বিরল আর্থ উপাদান (REE) এর একটি হিসেবে শ্রেণীবদ্ধ করা হয়?"
+        },
+        "options": [
+          {
+            "en": "It is radioactive",
+            "bn": "এটি তেজস্ক্রিয়"
+          },
+          {
+            "en": "It belongs to the lanthanide series",
+            "bn": "এটি ল্যান্থানাইড সিরিজের অন্তর্গত"
+          },
+          {
+            "en": "It shares chemical similarity and co-occurs with lanthanides/yttrium",
+            "bn": "এটি রাসায়নিক সাদৃশ্য ভাগ করে এবং ল্যান্থানাইড/ইট্রিয়ামের সাথে সহ-ঘটে"
+          },
+          {
+            "en": "It glows in the dark",
+            "bn": "এটি অন্ধকারে জ্বলজ্বল করে"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Though not a lanthanide, scandium shares similar ionic radius and +3 chemistry with Y and lanthanides, often found together in nature.",
+          "bn": "যদিও ল্যান্থানাইড নয়, স্ক্যান্ডিয়াম Y এবং ল্যান্থানাইডগুলির সাথে অনুরূপ আয়নিক ব্যাসার্ধ এবং +৩ রসায়ন ভাগ করে, প্রায়শই প্রকৃতিতে একসাথে পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the ground-state electron configuration of scandium?",
+          "bn": "স্ক্যান্ডিয়ামের গ্রাউন্ড-স্টেট ইলেকট্রন বিন্যাস কী?"
+        },
+        "options": [
+          {
+            "en": "[Ar] 4s² 4p¹",
+            "bn": "[Ar] 4s² 4p¹"
+          },
+          {
+            "en": "[Ar] 3d¹ 4s²",
+            "bn": "[Ar] 3d¹ 4s²"
+          },
+          {
+            "en": "[Ar] 3d² 4s¹",
+            "bn": "[Ar] 3d² 4s¹"
+          },
+          {
+            "en": "[Ne] 3s² 3p⁶ 4s²",
+            "bn": "[Ne] 3s² 3p⁶ 4s²"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Following the Aufbau principle, scandium fills 4s before 3d, giving [Ar] 3d¹ 4s².",
+          "bn": "আউফবাউ নীতি অনুসরণ করে, স্ক্যান্ডিয়াম 3d এর আগে 4s পূরণ করে, যা [Ar] 3d¹ 4s² দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scandium-based compound is being deployed in next-generation 5G/6G RF filters?",
+          "bn": "পরবর্তী প্রজন্মের 5G/6G RF ফিল্টারে কোন স্ক্যান্ডিয়াম-ভিত্তিক যৌগ স্থাপন করা হচ্ছে?"
+        },
+        "options": [
+          {
+            "en": "Sc₂O₃",
+            "bn": "Sc₂O₃"
+          },
+          {
+            "en": "ScAlN (Scandium aluminum nitride)",
+            "bn": "ScAlN (স্ক্যান্ডিয়াম অ্যালুমিনিয়াম নাইট্রাইড)"
+          },
+          {
+            "en": "ScCl₃",
+            "bn": "ScCl₃"
+          },
+          {
+            "en": "Sc₂(SO₄)₃",
+            "bn": "Sc₂(SO₄)₃"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "ScAlN thin films have superior piezoelectric coefficients enabling high-Q, high-frequency bulk acoustic wave filters.",
+          "bn": "ScAlN পাতলা ফিল্মগুলির উচ্চতর পাইজোইলেকট্রিক সহগ রয়েছে যা উচ্চ-Q, উচ্চ-ফ্রিকোয়েন্সি বাল্ক অ্যাকোস্টিক ওয়েভ ফিল্টার সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What major industrial waste stream is now considered a viable source of scandium recovery?",
+          "bn": "কোন প্রধান শিল্প বর্জ্য প্রবাহ এখন স্ক্যান্ডিয়াম পুনরুদ্ধারের একটি কার্যকর উৎস হিসেবে বিবেচিত হয়?"
+        },
+        "options": [
+          {
+            "en": "Coal fly ash",
+            "bn": "কয়লা ফ্লাই অ্যাশ"
+          },
+          {
+            "en": "Red mud (bauxite residue)",
+            "bn": "লাল কাদা (বক্সাইট অবশিষ্টাংশ)"
+          },
+          {
+            "en": "Plastic waste",
+            "bn": "প্লাস্টিক বর্জ্য"
+          },
+          {
+            "en": "Sewage sludge",
+            "bn": "নর্দমার স্লাজ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Red mud from aluminum refining contains 60-120 ppm Sc and represents one of the largest untapped scandium resources.",
+          "bn": "অ্যালুমিনিয়াম পরিশোধন থেকে লাল কাদায় ৬০-১২০ ppm Sc থাকে এবং এটি বৃহত্তম অব্যবহৃত স্ক্যান্ডিয়াম সম্পদের একটি প্রতিনিধিত্ব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "The principal aerospace benefit of adding scandium to aluminum is:",
+          "bn": "অ্যালুমিনিয়ামে স্ক্যান্ডিয়াম যোগ করার প্রধান মহাকাশ সুবিধা হলো:"
+        },
+        "options": [
+          {
+            "en": "Reduced cost",
+            "bn": "খরচ কমানো"
+          },
+          {
+            "en": "Grain refinement, increased strength, and improved weldability",
+            "bn": "শস্য পরিশোধন, বর্ধিত শক্তি এবং উন্নত ঢালাইযোগ্যতা"
+          },
+          {
+            "en": "Higher electrical conductivity",
+            "bn": "উচ্চতর বৈদ্যুতিক পরিবাহিতা"
+          },
+          {
+            "en": "Better corrosion in seawater",
+            "bn": "সমুদ্রের জলে আরও ভাল ক্ষয়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Sc forms coherent Al₃Sc nanoprecipitates that pin grain boundaries, dramatically improving strength, fatigue life, and weldability.",
+          "bn": "Sc সুসঙ্গত Al₃Sc ন্যানোপ্রিসিপিটেট গঠন করে যা শস্য সীমানা পিন করে, নাটকীয়ভাবে শক্তি, ক্লান্তি জীবন এবং ঢালাইযোগ্যতা উন্নত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Scandium fluoride (ScF₃) exhibits which unusual physical property at low temperatures?",
+          "bn": "স্ক্যান্ডিয়াম ফ্লোরাইড (ScF₃) নিম্ন তাপমাত্রায় কোন অস্বাভাবিক ভৌত বৈশিষ্ট্য প্রদর্শন করে?"
+        },
+        "options": [
+          {
+            "en": "Superconductivity",
+            "bn": "সুপারকন্ডাকটিভিটি"
+          },
+          {
+            "en": "Negative thermal expansion",
+            "bn": "নেতিবাচক তাপীয় সম্প্রসারণ"
+          },
+          {
+            "en": "Ferromagnetism",
+            "bn": "ফেরোম্যাগনেটিজম"
+          },
+          {
+            "en": "Piezoelectricity",
+            "bn": "পাইজোইলেকট্রিসিটি"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "ScF₃ contracts when heated up to 1100 K, a rare negative thermal expansion useful for designing zero-expansion composites.",
+          "bn": "ScF₃ ১১০০ K পর্যন্ত উত্তপ্ত হলে সংকুচিত হয়, একটি বিরল নেতিবাচক তাপীয় সম্প্রসারণ যা শূন্য-সম্প্রসারণ যৌগ ডিজাইনের জন্য দরকারী।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which scandium radioisotope is being developed for cancer theranostics?",
+          "bn": "কোন স্ক্যান্ডিয়াম তেজস্ক্রিয় আইসোটোপ ক্যান্সার থেরানস্টিক্সের জন্য উন্নত করা হচ্ছে?"
+        },
+        "options": [
+          {
+            "en": "Sc-44 and Sc-47",
+            "bn": "Sc-44 এবং Sc-47"
+          },
+          {
+            "en": "Sc-45",
+            "bn": "Sc-45"
+          },
+          {
+            "en": "Sc-50",
+            "bn": "Sc-50"
+          },
+          {
+            "en": "Sc-39",
+            "bn": "Sc-39"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Sc-44 (β+) is used for PET imaging and Sc-47 (β-) for therapy, forming an ideal theranostic pair with identical chemistry.",
+          "bn": "Sc-44 (β+) PET ইমেজিংয়ের জন্য এবং Sc-47 (β-) থেরাপির জন্য ব্যবহৃত হয়, অভিন্ন রসায়ন সহ একটি আদর্শ থেরানস্টিক জুটি গঠন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the density of metallic scandium at room temperature?",
+          "bn": "কক্ষ তাপমাত্রায় ধাতব স্ক্যান্ডিয়ামের ঘনত্ব কত?"
+        },
+        "options": [
+          {
+            "en": "~1.55 g/cm³",
+            "bn": "~১.৫৫ g/cm³"
+          },
+          {
+            "en": "~2.99 g/cm³",
+            "bn": "~২.৯৯ g/cm³"
+          },
+          {
+            "en": "~4.51 g/cm³",
+            "bn": "~৪.৫১ g/cm³"
+          },
+          {
+            "en": "~7.87 g/cm³",
+            "bn": "~৭.৮৭ g/cm³"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Scandium's density (~2.985 g/cm³) is exceptionally low for a transition metal, contributing to its aerospace utility.",
+          "bn": "স্ক্যান্ডিয়ামের ঘনত্ব (~২.৯৮৫ g/cm³) একটি অবস্থান্তর ধাতুর জন্য ব্যতিক্রমীভাবে কম, যা এর মহাকাশ উপযোগিতায় অবদান রাখে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does the Sc³⁺ ion form colorless compounds (unlike most transition metal ions)?",
+          "bn": "Sc³⁺ আয়ন কেন বর্ণহীন যৌগ গঠন করে (বেশিরভাগ অবস্থান্তর ধাতু আয়নের বিপরীতে)?"
+        },
+        "options": [
+          {
+            "en": "Empty d-orbitals prevent d-d electronic transitions",
+            "bn": "খালি d-অরবিটাল d-d ইলেকট্রনিক রূপান্তর প্রতিরোধ করে"
+          },
+          {
+            "en": "It is too small to absorb light",
+            "bn": "এটি আলো শোষণের জন্য খুব ছোট"
+          },
+          {
+            "en": "All compounds reflect all wavelengths",
+            "bn": "সমস্ত যৌগ সমস্ত তরঙ্গদৈর্ঘ্য প্রতিফলিত করে"
+          },
+          {
+            "en": "It is paramagnetic",
+            "bn": "এটি প্যারাম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Sc³⁺ has no d-electrons (d⁰ configuration), so it cannot undergo d-d transitions in the visible spectrum, leaving compounds colorless.",
+          "bn": "Sc³⁺ এর কোনো d-ইলেকট্রন নেই (d⁰ বিন্যাস), তাই এটি দৃশ্যমান বর্ণালীতে d-d রূপান্তর সহ্য করতে পারে না, যৌগগুলিকে বর্ণহীন রেখে দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In Solid Oxide Fuel Cells, scandia-stabilized zirconia (ScSZ) is preferred over yttria-stabilized zirconia (YSZ) because:",
+          "bn": "সলিড অক্সাইড ফুয়েল সেলগুলিতে, ইট্রিয়া-স্থিতিশীল জিরকোনিয়া (YSZ) এর চেয়ে স্ক্যান্ডিয়া-স্থিতিশীল জিরকোনিয়া (ScSZ) কেন পছন্দ করা হয়:"
+        },
+        "options": [
+          {
+            "en": "It is cheaper",
+            "bn": "এটি সস্তা"
+          },
+          {
+            "en": "Higher ionic conductivity allows lower operating temperatures",
+            "bn": "উচ্চতর আয়নিক পরিবাহিতা কম অপারেটিং তাপমাত্রার অনুমতি দেয়"
+          },
+          {
+            "en": "Better optical properties",
+            "bn": "ভাল অপটিক্যাল বৈশিষ্ট্য"
+          },
+          {
+            "en": "It is denser",
+            "bn": "এটি ঘন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "ScSZ provides ~2x higher oxygen-ion conductivity than YSZ, enabling SOFCs to operate efficiently at ~700-800°C.",
+          "bn": "ScSZ YSZ এর চেয়ে ~২x বেশি অক্সিজেন-আয়ন পরিবাহিতা প্রদান করে, SOFCs কে ~৭০০-৮০০°C তে দক্ষতার সাথে কাজ করতে সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the primary mineral source from which scandium is currently extracted in commercial quantities?",
+          "bn": "বর্তমানে বাণিজ্যিক পরিমাণে স্ক্যান্ডিয়াম যে প্রাথমিক খনিজ উৎস থেকে আহরণ করা হয় তা কী?"
+        },
+        "options": [
+          {
+            "en": "Pure scandium ore",
+            "bn": "বিশুদ্ধ স্ক্যান্ডিয়াম আকরিক"
+          },
+          {
+            "en": "Thortveitite, with by-product recovery from uranium, REE, and nickel laterite ores",
+            "bn": "থরভেইটাইট, ইউরেনিয়াম, REE এবং নিকেল ল্যাটেরাইট আকরিক থেকে উপজাত পুনরুদ্ধার সহ"
+          },
+          {
+            "en": "Quartz",
+            "bn": "কোয়ার্টজ"
+          },
+          {
+            "en": "Coal",
+            "bn": "কয়লা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Thortveitite (Sc₂Si₂O₇) is the richest mineral but is extremely rare; most production is by-product recovery.",
+          "bn": "থরভেইটাইট (Sc₂Si₂O₇) সবচেয়ে সমৃদ্ধ খনিজ কিন্তু অত্যন্ত বিরল; বেশিরভাগ উৎপাদন উপজাত পুনরুদ্ধার।"
+        }
+      },
+      {
+        "question": {
+          "en": "Approximately how much scandium oxide (Sc₂O₃) does the global market consume per year?",
+          "bn": "প্রতি বছর বৈশ্বিক বাজার আনুমানিক কত স্ক্যান্ডিয়াম অক্সাইড (Sc₂O₃) ব্যবহার করে?"
+        },
+        "options": [
+          {
+            "en": "<50 tonnes",
+            "bn": "<৫০ টন"
+          },
+          {
+            "en": "~500 tonnes",
+            "bn": "~৫০০ টন"
+          },
+          {
+            "en": "~5,000 tonnes",
+            "bn": "~৫,০০০ টন"
+          },
+          {
+            "en": "~50,000 tonnes",
+            "bn": "~৫০,০০০ টন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The global scandium market is tiny (~30-40 tonnes/year of Sc₂O₃), making it one of the most supply-constrained critical materials.",
+          "bn": "বৈশ্বিক স্ক্যান্ডিয়াম বাজার ক্ষুদ্র (Sc₂O₃ এর ~৩০-৪০ টন/বছর), যা এটিকে সবচেয়ে সরবরাহ-সীমাবদ্ধ গুরুত্বপূর্ণ উপকরণগুলির মধ্যে একটি করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Crystalline metallic scandium adopts which structure at standard ambient conditions?",
+          "bn": "স্ফটিক ধাতব স্ক্যান্ডিয়াম আদর্শ পরিবেষ্টিত অবস্থায় কোন গঠন গ্রহণ করে?"
+        },
+        "options": [
+          {
+            "en": "FCC",
+            "bn": "FCC"
+          },
+          {
+            "en": "BCC",
+            "bn": "BCC"
+          },
+          {
+            "en": "HCP",
+            "bn": "HCP"
+          },
+          {
+            "en": "Diamond cubic",
+            "bn": "ডায়মন্ড কিউবিক"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Scandium crystallizes in hexagonal close-packed (HCP) structure (α-Sc) below ~1337°C, similar to other Group 3 metals.",
+          "bn": "স্ক্যান্ডিয়াম ~১৩৩৭°C এর নিচে ষড়ভুজাকার ঘনিষ্ঠ-প্যাকড (HCP) গঠনে (α-Sc) স্ফটিকীকৃত হয়, অন্যান্য গ্রুপ ৩ ধাতুর মতো।"
+        }
+      },
+      {
+        "question": {
+          "en": "Scandium hydroxide Sc(OH)₃ is best described chemically as:",
+          "bn": "স্ক্যান্ডিয়াম হাইড্রক্সাইড Sc(OH)₃ রাসায়নিকভাবে সবচেয়ে ভালভাবে বর্ণনা করা হয়:"
+        },
+        "options": [
+          {
+            "en": "Strongly basic",
+            "bn": "দৃঢ়ভাবে ক্ষারীয়"
+          },
+          {
+            "en": "Strongly acidic",
+            "bn": "দৃঢ়ভাবে অম্লীয়"
+          },
+          {
+            "en": "Amphoteric",
+            "bn": "উভধর্মী"
+          },
+          {
+            "en": "Neutral",
+            "bn": "নিরপেক্ষ"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Sc(OH)₃ dissolves in both acids (forming Sc³⁺ salts) and strong bases (forming scandate ions), making it amphoteric like Al(OH)₃.",
+          "bn": "Sc(OH)₃ অ্যাসিড (Sc³⁺ লবণ গঠন করে) এবং শক্তিশালী ক্ষার (স্ক্যান্ডেট আয়ন গঠন করে) উভয়েই দ্রবীভূত হয়, যা এটিকে Al(OH)₃ এর মতো উভধর্মী করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the principal reason scandium remains so expensive despite its 22 ppm crustal abundance?",
+          "bn": "২২ ppm ভূত্বক প্রাচুর্য সত্ত্বেও স্ক্যান্ডিয়াম এত ব্যয়বহুল থাকার প্রধান কারণ কী?"
+        },
+        "options": [
+          {
+            "en": "It is radioactive",
+            "bn": "এটি তেজস্ক্রিয়"
+          },
+          {
+            "en": "It rarely concentrates in mineable ore deposits",
+            "bn": "এটি খনিযোগ্য আকরিক জমাতে খুব কমই ঘনীভূত হয়"
+          },
+          {
+            "en": "It evaporates easily",
+            "bn": "এটি সহজে বাষ্পীভূত হয়"
+          },
+          {
+            "en": "Only one country mines it",
+            "bn": "শুধুমাত্র একটি দেশ এটি খনন করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Scandium is dispersed throughout the crust but rarely forms its own ore bodies, so it must be extracted as a costly by-product.",
+          "bn": "স্ক্যান্ডিয়াম সমগ্র ভূত্বক জুড়ে বিচ্ছুরিত কিন্তু খুব কমই নিজস্ব আকরিক বডি গঠন করে, তাই এটিকে একটি ব্যয়বহুল উপজাত হিসেবে আহরণ করতে হয়।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Scandium is a 'lanthanide'—it is actually a Group 3 d-block element grouped with REEs only by similar chemistry.",
+        "bn": "স্ক্যান্ডিয়াম একটি 'ল্যান্থানাইড'—এটি আসলে একটি গ্রুপ ৩ d-ব্লক উপাদান যা শুধুমাত্র অনুরূপ রসায়ন দ্বারা REEs এর সাথে শ্রেণীবদ্ধ।"
+      },
+      {
+        "en": "Scandium is extremely rare in the crust—it is more abundant than lead, but rarely concentrated.",
+        "bn": "স্ক্যান্ডিয়াম ভূত্বকে অত্যন্ত বিরল—এটি সীসার চেয়ে বেশি প্রচুর, কিন্তু কদাচিৎ ঘনীভূত।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember Sc (21) sits just after Ca (20) and starts the first row of transition metals—it has one extra d-electron.",
+        "bn": "মনে রাখুন Sc (২১) ঠিক Ca (২০) এর পরে বসে এবং অবস্থান্তর ধাতুর প্রথম সারি শুরু করে—এর একটি অতিরিক্ত d-ইলেকট্রন রয়েছে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "4Sc + 3O₂ → 2Sc₂O₃",
+        "description": {
+          "en": "Combustion of scandium in oxygen produces white scandium(III) oxide.",
+          "bn": "অক্সিজেনে স্ক্যান্ডিয়ামের দহনে সাদা স্ক্যান্ডিয়াম(III) অক্সাইড উৎপন্ন হয়।"
+        }
+      },
+      {
+        "equation": "2Sc + 6HCl → 2ScCl₃ + 3H₂↑",
+        "description": {
+          "en": "Scandium dissolves in hydrochloric acid forming scandium chloride and hydrogen gas.",
+          "bn": "স্ক্যান্ডিয়াম হাইড্রোক্লোরিক অ্যাসিডে দ্রবীভূত হয়ে স্ক্যান্ডিয়াম ক্লোরাইড এবং হাইড্রোজেন গ্যাস গঠন করে।"
+        }
+      },
+      {
+        "equation": "2Sc + 3F₂ → 2ScF₃",
+        "description": {
+          "en": "Direct combination of scandium with fluorine yields scandium trifluoride.",
+          "bn": "ফ্লোরিনের সাথে স্ক্যান্ডিয়ামের সরাসরি সংমিশ্রণে স্ক্যান্ডিয়াম ট্রাইফ্লোরাইড উৎপন্ন হয়।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Sc → Sc³⁺ + 3e⁻",
+        "description": {
+          "en": "Scandium loses three valence electrons to achieve the stable noble-gas [Ar] configuration.",
+          "bn": "স্ক্যান্ডিয়াম স্থিতিশীল নোবেল-গ্যাস [Ar] বিন্যাস অর্জনের জন্য তিনটি যোজ্যতা ইলেকট্রন হারায়।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Sc³⁺ + 3e⁻ → Sc",
+        "description": {
+          "en": "Reduction of Sc³⁺ ions at the cathode during molten ScCl₃/KCl electrolysis produces metallic scandium.",
+          "bn": "গলিত ScCl₃/KCl তড়িৎ বিশ্লেষণের সময় ক্যাথোডে Sc³⁺ আয়নের বিজারণে ধাতব স্ক্যান্ডিয়াম উৎপন্ন হয়।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "Sc₂O₃",
+        "description": {
+          "en": "Scandium transfers electrons to oxygen forming an ionic lattice in scandium(III) oxide.",
+          "bn": "স্ক্যান্ডিয়াম অক্সিজেনে ইলেকট্রন স্থানান্তর করে স্ক্যান্ডিয়াম(III) অক্সাইডে আয়নিক জালি গঠন করে।"
+        }
+      },
+      {
+        "bondType": {
+          "en": "Polar Covalent / Metallic Alloy Bond",
+          "bn": "মেরু সমযোজী / ধাতব অ্যালয় বন্ধন"
+        },
+        "molecule": "Al₃Sc",
+        "description": {
+          "en": "Sc forms coherent Al₃Sc nanoprecipitates in Al matrix, strengthening aerospace alloys via Orowan and coherency mechanisms.",
+          "bn": "Sc Al ম্যাট্রিক্সে সুসঙ্গত Al₃Sc ন্যানোপ্রিসিপিটেট গঠন করে, ওরোয়ান এবং সংগতি প্রক্রিয়ার মাধ্যমে মহাকাশ অ্যালয়কে শক্তিশালী করে।"
+        }
+      }
+    ]
+  }
+}

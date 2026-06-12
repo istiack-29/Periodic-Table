@@ -1,0 +1,1036 @@
+{
+  "elementId": 19,
+  "basicInformation": {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "name": {
+      "en": "Potassium",
+      "bn": "পটাশিয়াম"
+    },
+    "pronunciation": {
+      "en": "/pəˈtæsiəm/",
+      "bn": "পটা-শি-য়াম"
+    },
+    "atomicMass": 39.0983,
+    "category": {
+      "en": "Alkali metal",
+      "bn": "ক্ষারীয় ধাতু"
+    },
+    "group": 1,
+    "period": 4,
+    "block": "s",
+    "phase": {
+      "en": "Solid",
+      "bn": "কঠিন"
+    },
+    "appearance": {
+      "en": "Soft, silvery-white metal that quickly tarnishes",
+      "bn": "নরম, রূপালী-সাদা ধাতু যা দ্রুত মলিন হয়"
+    },
+    "color": {
+      "en": "Silvery white",
+      "bn": "রূপালী সাদা"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial (with trace radioactive ⁴⁰K)",
+      "bn": "আদিম (অল্প তেজস্ক্রিয় ⁴⁰K সহ)"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Sir Humphry Davy",
+      "bn": "স্যার হামফ্রি ডেভি"
+    },
+    "discoveryYear": 1807,
+    "discoveryLocation": {
+      "en": "United Kingdom",
+      "bn": "যুক্তরাজ্য"
+    },
+    "discoveryStory": {
+      "en": "Davy isolated potassium by electrolysis of molten caustic potash (KOH) — the first metal ever isolated by electrolysis, demonstrating the power of the new electrochemistry.",
+      "bn": "ডেভি গলিত কস্টিক পটাশ (KOH) তড়িৎবিশ্লেষণ করে পটাশিয়াম পৃথক করেন — তড়িৎবিশ্লেষণে প্রথম পৃথক হওয়া ধাতু, যা নতুন তড়িৎরসায়নের শক্তি প্রদর্শন করে।"
+    },
+    "historicalUses": {
+      "en": "Potash (K₂CO₃) from wood ashes used for soap, glass, and gunpowder since ancient times.",
+      "bn": "কাঠের ছাই থেকে পটাশ (K₂CO₃) প্রাচীনকাল থেকেই সাবান, কাচ ও বারুদে ব্যবহৃত।"
+    },
+    "famousExperiments": {
+      "en": "Davy's electrolysis of molten KOH (1807), which inspired his later isolation of Na, Ca, Mg, Sr, and Ba.",
+      "bn": "ডেভির গলিত KOH তড়িৎবিশ্লেষণ (১৮০৭), যা পরবর্তীতে Na, Ca, Mg, Sr, Ba পৃথকীকরণে অনুপ্রাণিত করে।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 19,
+    "neutrons": 20,
+    "electrons": 19,
+    "valenceElectrons": 1,
+    "shells": 4,
+    "shellDistribution": [
+      2,
+      8,
+      8,
+      1
+    ],
+    "electronConfiguration": "[Ar] 4s¹",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 6,
+      "4s": 1
+    },
+    "oxidationStates": [
+      1
+    ],
+    "quantumNumbers": {
+      "principal": 4,
+      "azimuthal": 0,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.862,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 336.7,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 1032,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 227,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 203,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 275,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 102.5,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": {
+      "value": 13900000.0,
+      "unit": "S/m"
+    },
+    "specificHeat": {
+      "value": 0.757,
+      "unit": "J/(g·K)"
+    },
+    "hardness": {
+      "value": 0.4,
+      "unit": "Mohs"
+    },
+    "crystalStructure": {
+      "en": "Body-centered cubic",
+      "bn": "দেহ-কেন্দ্রিক কিউবিক"
+    },
+    "magneticOrdering": {
+      "en": "Paramagnetic",
+      "bn": "প্যারাম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 0.82,
+    "ionizationEnergy": {
+      "value": 418.8,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": 48.4,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Extremely reactive; ignites spontaneously in moist air, reacts violently with water producing H₂.",
+      "bn": "অত্যন্ত প্রতিক্রিয়াশীল; আর্দ্র বাতাসে স্বতঃস্ফূর্তভাবে জ্বলে, জলের সাথে প্রচণ্ডভাবে বিক্রিয়া করে H₂ উৎপন্ন করে।"
+    },
+    "commonCompounds": [
+      "KCl",
+      "KOH",
+      "K₂CO₃",
+      "KNO₃",
+      "KMnO₄"
+    ],
+    "flameTestColor": {
+      "en": "Lilac / violet",
+      "bn": "লাইলাক / বেগুনি"
+    },
+    "spectralLines": [
+      "404.4nm",
+      "404.7nm",
+      "766.5nm",
+      "769.9nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Potash fertilizers (KCl, K₂SO₄) — ~95% of mined potassium goes to agriculture.",
+      "bn": "পটাশ সার (KCl, K₂SO₄) — খনিজাত পটাশিয়ামের ~৯৫% কৃষিতে যায়।"
+    },
+    "commercialUses": {
+      "en": "KOH for soft soaps and biodiesel transesterification; KNO₃ in fireworks and matches.",
+      "bn": "নরম সাবান ও বায়োডিজেল ট্রান্সএস্টেরিফিকেশনে KOH; আতশবাজি ও দিয়াশলাইয়ে KNO₃।"
+    },
+    "electronicsUses": {
+      "en": "Potassium-doped photocathodes in photomultiplier tubes and image intensifiers.",
+      "bn": "ফটোমাল্টিপ্লায়ার টিউব ও ইমেজ ইনটেনসিফায়ারে পটাশিয়াম-ডোপড ফটোক্যাথোড।"
+    },
+    "semiconductorUses": {
+      "en": "K-ion intercalation studied in 2D semiconductor research and emerging K-ion batteries.",
+      "bn": "২ডি অর্ধপরিবাহী গবেষণা ও উদীয়মান K-আয়ন ব্যাটারিতে K-আয়ন ইন্টারক্যালেশন।"
+    },
+    "aerospaceUses": {
+      "en": "Sodium-potassium (NaK) liquid alloy as coolant in nuclear-electric space propulsion concepts.",
+      "bn": "পারমাণবিক-বৈদ্যুতিক মহাকাশ প্রপালশন ধারণায় কুল্যান্ট হিসেবে সোডিয়াম-পটাশিয়াম (NaK) তরল সংকর।"
+    },
+    "batteryUses": {
+      "en": "Potassium-ion (K-ion) batteries: low-cost alternative to Li-ion for grid storage.",
+      "bn": "পটাশিয়াম-আয়ন (K-আয়ন) ব্যাটারি: গ্রিড সঞ্চয়ের জন্য Li-আয়ন এর কম খরচের বিকল্প।"
+    },
+    "aiHardwareUses": {
+      "en": "KTaO₃ and KNbO₃ studied for non-volatile memristive elements in neuromorphic AI chips.",
+      "bn": "নিউরোমর্ফিক AI চিপে অ-উদ্বায়ী মেমরিস্টিভ উপাদানের জন্য KTaO₃ ও KNbO₃ গবেষণাধীন।"
+    },
+    "renewableEnergyUses": {
+      "en": "Molten KNO₃-NaNO₃ ('solar salt') stores thermal energy in concentrated solar power (CSP) plants.",
+      "bn": "ঘনীভূত সৌর শক্তি (CSP) প্ল্যান্টে গলিত KNO₃-NaNO₃ ('সৌর লবণ') তাপশক্তি সঞ্চয় করে।"
+    },
+    "nanotechnologyUses": {
+      "en": "K intercalation creates exfoliable graphite and graphene precursors.",
+      "bn": "K ইন্টারক্যালেশন এক্সফোলিয়েবল গ্রাফাইট ও গ্রাফিন পূর্বসূরী তৈরি করে।"
+    },
+    "nuclearUses": {
+      "en": "⁴⁰K is a major natural source of background radiation and a key isotope in K-Ar geochronology.",
+      "bn": "⁴⁰K পটভূমি বিকিরণের প্রধান প্রাকৃতিক উৎস ও K-Ar কালনির্ণয়ের মূল আইসোটোপ।"
+    },
+    "militaryUses": {
+      "en": "KNO₃ component of black powder; KClO₃/KClO₄ in pyrotechnics and propellants.",
+      "bn": "কালো বারুদের KNO₃ উপাদান; পাইরোটেকনিক ও প্রপেল্যান্টে KClO₃/KClO₄।"
+    },
+    "medicalUses": {
+      "en": "Oral and IV KCl supplementation for hypokalemia; KI prophylaxis against radioactive iodine exposure.",
+      "bn": "হাইপোক্যালিমিয়ায় মৌখিক ও IV KCl সম্পূরক; তেজস্ক্রিয় আয়োডিন এক্সপোজার বিরুদ্ধে KI প্রতিরোধ।"
+    },
+    "foodIndustryUses": {
+      "en": "KCl as low-sodium salt substitute; potassium sorbate as preservative (E202).",
+      "bn": "কম-সোডিয়াম লবণ বিকল্প হিসেবে KCl; সংরক্ষক হিসেবে পটাশিয়াম সরবেট (E202)।"
+    },
+    "constructionUses": {
+      "en": "Potassium silicate-based mineral paints and fire-resistant coatings; K activator in geopolymer cements.",
+      "bn": "পটাশিয়াম সিলিকেট-ভিত্তিক খনিজ পেইন্ট ও অগ্নি-প্রতিরোধী আবরণ; জিওপলিমার সিমেন্টে K অ্যাক্টিভেটর।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "Essential macronutrient for all life; major intracellular cation, critical for nerve and muscle function.",
+      "bn": "সমস্ত প্রাণের জন্য অপরিহার্য ম্যাক্রোনিউট্রিয়েন্ট; প্রধান আন্তঃকোষীয় ক্যাটায়ন, স্নায়ু ও পেশী ক্রিয়ার জন্য গুরুত্বপূর্ণ।"
+    },
+    "humanBodyRole": {
+      "en": "~0.20% body mass; sets resting membrane potential, drives Na/K-ATPase pump, regulates blood pressure.",
+      "bn": "শরীরের ভরের ~০.২০%; বিশ্রাম ঝিল্লি বিভব নির্ধারণ করে, Na/K-ATPase পাম্প চালায়, রক্তচাপ নিয়ন্ত্রণ করে।"
+    },
+    "toxicity": {
+      "en": "Hyperkalemia (>5.5 mmol/L serum) causes cardiac arrhythmia and arrest; severe hypokalemia equally fatal.",
+      "bn": "হাইপারক্যালিমিয়া (>৫.৫ mmol/L সিরাম) হৃদ্‌অরিথমিয়া ও কার্ডিয়াক অ্যারেস্ট ঘটায়; তীব্র হাইপোক্যালিমিয়াও সমানভাবে মারাত্মক।"
+    },
+    "environmentalImpact": {
+      "en": "Potassium is a key soil nutrient; excess runoff is less harmful than nitrogen or phosphorus.",
+      "bn": "পটাশিয়াম একটি প্রধান মাটির পুষ্টি; অতিরিক্ত রানঅফ নাইট্রোজেন বা ফসফরাসের চেয়ে কম ক্ষতিকর।"
+    },
+    "pollutionRisks": {
+      "en": "Mining brine disposal can salinize freshwater; ⁴⁰K contributes minor background radiation.",
+      "bn": "খনি ব্রাইন নিষ্কাশন তাজা জল লবণাক্ত করতে পারে; ⁴⁰K সামান্য পটভূমি বিকিরণ যোগ করে।"
+    },
+    "recyclingMethods": {
+      "en": "Potash recovered from agricultural runoff and brines; KOH regenerated from industrial waste streams.",
+      "bn": "কৃষি রানঅফ ও ব্রাইন থেকে পটাশ পুনরুদ্ধার; শিল্প বর্জ্য প্রবাহ থেকে KOH পুনরুজ্জীবন।"
+    },
+    "sustainabilityScore": 8.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Canada",
+        "bn": "কানাডা"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Belarus",
+        "bn": "বেলারুশ"
+      },
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Underground and solution mining of sylvite (KCl) and carnallite (KMgCl₃·6H₂O); evaporite extraction from brines.",
+      "bn": "সিলভাইট (KCl) ও কার্নালাইট (KMgCl₃·6H₂O) এর ভূগর্ভস্থ ও দ্রবণ খনন; ব্রাইন থেকে বাষ্পীভূত নিষ্কাশন।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "3 ppm by mass",
+        "bn": "ভর অনুযায়ী ৩ পিপিএম"
+      },
+      "earthCrust": {
+        "en": "2.09% by mass (7th most abundant)",
+        "bn": "ভর অনুযায়ী ২.০৯% (৭ম সর্বাধিক প্রচুর)"
+      },
+      "oceans": {
+        "en": "399 mg/L (as K⁺)",
+        "bn": "৩৯৯ মিগ্রা/লি (K⁺ হিসেবে)"
+      }
+    },
+    "marketValue": {
+      "en": "Potash (KCl) fertilizer ~$300–$800 per metric ton; metallic K ~$1000+ per kg.",
+      "bn": "পটাশ (KCl) সার ~$৩০০–$৮০০ প্রতি মেট্রিক টন; ধাতব K ~$১০০০+ প্রতি কেজি।"
+    },
+    "futureDemand": {
+      "en": "Strong steady demand from global food security needs; emerging K-ion battery sector adding growth.",
+      "bn": "বৈশ্বিক খাদ্য নিরাপত্তা প্রয়োজন থেকে শক্তিশালী চাহিদা; উদীয়মান K-আয়ন ব্যাটারি খাত বৃদ্ধি যোগ করছে।"
+    },
+    "globalImportance": {
+      "en": "Among the 'big three' fertilizer nutrients (N, P, K); critical for global agriculture.",
+      "bn": "'বড় তিন' সার পুষ্টির (N, P, K) একটি; বৈশ্বিক কৃষির জন্য গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Pyrophoric; ignites in moist air. Reacts explosively with water producing H₂ that ignites. Forms shock-sensitive peroxides on aging.",
+      "bn": "পাইরোফোরিক; আর্দ্র বাতাসে জ্বলে। জলের সাথে বিস্ফোরকভাবে বিক্রিয়া করে H₂ উৎপন্ন করে যা জ্বলে। পুরনো হলে শক-সংবেদনশীল পারঅক্সাইড গঠন করে।"
+    },
+    "storageRequirements": {
+      "en": "Store under dry mineral oil or kerosene in airtight containers, away from water.",
+      "bn": "জল থেকে দূরে শুষ্ক খনিজ তেল বা কেরোসিনের নিচে বায়ুরোধী পাত্রে সংরক্ষণ।"
+    },
+    "handlingProcedures": {
+      "en": "Cut and weigh under inert atmosphere or oil; use dry chemical (Class D) extinguishers — never water.",
+      "bn": "নিষ্ক্রিয় বায়ুমণ্ডল বা তেলের নিচে কাটুন ও ওজন করুন; শুকনো রাসায়নিক (ক্লাস D) নির্বাপক ব্যবহার করুন — কখনোই জল নয়।"
+    },
+    "exposureRisks": {
+      "en": "Skin contact causes severe alkali burns from KOH formed by reaction with skin moisture.",
+      "bn": "ত্বকের আর্দ্রতার সাথে বিক্রিয়ায় গঠিত KOH থেকে ত্বকের সংস্পর্শ মারাত্মক ক্ষারীয় পোড়া ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Very High Risk (Pyrophoric / Water-Reactive)",
+      "bn": "অত্যন্ত উচ্চ ঝুঁকি (পাইরোফোরিক / জল-প্রতিক্রিয়াশীল)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Water-Reactive",
+        "bn": "জল-প্রতিক্রিয়াশীল"
+      },
+      {
+        "en": "Pyrophoric Solid",
+        "bn": "পাইরোফোরিক কঠিন"
+      },
+      {
+        "en": "Corrosive",
+        "bn": "ক্ষয়কারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Potassium is a soft silvery metal so reactive it ignites in water. As K⁺ ion, it's a vital nutrient for plants and animals.",
+      "bn": "পটাশিয়াম একটি নরম রূপালী ধাতু যা এত প্রতিক্রিয়াশীল যে জলে জ্বলে ওঠে। K⁺ আয়ন হিসেবে এটি গাছ ও প্রাণীর জন্য অত্যাবশ্যক পুষ্টি।"
+    },
+    "advancedExplanation": {
+      "en": "Group 1 alkali metal with a single 4s¹ valence electron, lost easily (IE 418.8 kJ/mol) to form K⁺. Drives cellular electrochemistry through Na⁺/K⁺-ATPase and supports plant osmoregulation, making it the second most-mined fertilizer element after N.",
+      "bn": "একটি 4s¹ যোজ্যতা ইলেক্ট্রনযুক্ত গ্রুপ ১ ক্ষারীয় ধাতু, সহজে হারিয়ে (IE ৪১৮.৮ kJ/mol) K⁺ গঠন করে। Na⁺/K⁺-ATPase মাধ্যমে কোষীয় তড়িৎরসায়ন চালায় এবং উদ্ভিদ অসমোরেগুলেশন সমর্থন করে, এটিকে N এর পরে দ্বিতীয় সর্বাধিক খনিজাত সার মৌল করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Bananas are slightly radioactive because of natural ⁴⁰K — the 'banana equivalent dose' is a unit of radiation comparison.",
+        "bn": "প্রাকৃতিক ⁴⁰K এর কারণে কলা সামান্য তেজস্ক্রিয়— 'কলা সমতুল্য মাত্রা' বিকিরণ তুলনার একটি একক।"
+      },
+      {
+        "en": "The symbol 'K' comes from Latin 'kalium', derived from Arabic 'al-qalyah' meaning 'plant ashes'.",
+        "bn": "প্রতীক 'K' এসেছে লাতিন 'কালিয়াম' থেকে, আরবি 'আল-কালিয়াহ' থেকে উদ্ভূত যার অর্থ 'উদ্ভিদের ছাই'।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 11,
+        "relation": {
+          "en": "Sodium and potassium are both Group 1 alkali metals, but K is larger, more reactive, and dominant inside cells (Na dominates outside).",
+          "bn": "সোডিয়াম ও পটাশিয়াম উভয়ই গ্রুপ ১ ক্ষারীয় ধাতু, কিন্তু K বড়, বেশি প্রতিক্রিয়াশীল এবং কোষের ভিতরে প্রধান (Na বাইরে প্রধান)।"
+        }
+      }
+    ],
+    "relatedElements": [
+      3,
+      11,
+      20,
+      37
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "Why does the symbol for potassium begin with 'K'?",
+          "bn": "পটাশিয়ামের প্রতীক 'K' দিয়ে কেন শুরু হয়?"
+        },
+        "options": [
+          {
+            "en": "Discovered in Kenya",
+            "bn": "কেনিয়ায় আবিষ্কৃত"
+          },
+          {
+            "en": "From Latin 'kalium', from Arabic for plant ashes",
+            "bn": "লাতিন 'কালিয়াম' থেকে, আরবিতে উদ্ভিদ ছাই অর্থে"
+          },
+          {
+            "en": "Random choice",
+            "bn": "এলোমেলো পছন্দ"
+          },
+          {
+            "en": "Named after Kepler",
+            "bn": "কেপলারের নামে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Historical IUPAC convention preserved 'kalium' from the Arabic-origin Latin term.",
+          "bn": "ঐতিহাসিক IUPAC প্রথা আরবি-উৎস লাতিন শব্দ 'কালিয়াম' সংরক্ষণ করেছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which alkali metal reaction with water is more vigorous: Na or K?",
+          "bn": "জলের সাথে কোন ক্ষারীয় ধাতুর বিক্রিয়া বেশি প্রবল: Na না K?"
+        },
+        "options": [
+          {
+            "en": "Na",
+            "bn": "Na"
+          },
+          {
+            "en": "K (ignites the H₂ produced)",
+            "bn": "K (উৎপন্ন H₂ জ্বালিয়ে দেয়)"
+          },
+          {
+            "en": "Both identical",
+            "bn": "উভয় একই"
+          },
+          {
+            "en": "Neither reacts",
+            "bn": "কোনটিই বিক্রিয়া করে না"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Reactivity increases down Group 1; K reacts so exothermically it ignites the H₂ gas with a lilac flame.",
+          "bn": "গ্রুপ ১ এ নিচের দিকে প্রতিক্রিয়াশীলতা বাড়ে; K এতই তাপমোচী যে এটি H₂ গ্যাসকে লাইলাক শিখায় জ্বালায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What flame test color identifies potassium?",
+          "bn": "পটাশিয়াম শনাক্তকারী শিখা পরীক্ষার রঙ?"
+        },
+        "options": [
+          {
+            "en": "Yellow",
+            "bn": "হলুদ"
+          },
+          {
+            "en": "Lilac / violet",
+            "bn": "লাইলাক / বেগুনি"
+          },
+          {
+            "en": "Crimson red",
+            "bn": "টকটকে লাল"
+          },
+          {
+            "en": "Apple green",
+            "bn": "আপেল সবুজ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "View through cobalt-blue glass to filter out Na contamination and see K's characteristic lilac color.",
+          "bn": "Na দূষণ ফিল্টার করে K এর চারিত্রিক লাইলাক রঙ দেখতে কোবাল্ট-নীল কাচের মাধ্যমে দেখুন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which enzyme uses ATP to pump 3 Na⁺ out and 2 K⁺ into cells?",
+          "bn": "কোন এনজাইম ATP ব্যবহার করে কোষের বাইরে ৩টি Na⁺ ও কোষে ২টি K⁺ পাম্প করে?"
+        },
+        "options": [
+          {
+            "en": "Hexokinase",
+            "bn": "হেক্সোকাইনেজ"
+          },
+          {
+            "en": "Na⁺/K⁺-ATPase",
+            "bn": "Na⁺/K⁺-ATPase"
+          },
+          {
+            "en": "ATP synthase",
+            "bn": "ATP সিনথেজ"
+          },
+          {
+            "en": "DNA polymerase",
+            "bn": "DNA পলিমারেজ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "This pump establishes membrane potential and consumes ~25% of basal metabolic energy.",
+          "bn": "এই পাম্প ঝিল্লি বিভব স্থাপন করে এবং বেসাল বিপাকীয় শক্তির ~২৫% ব্যবহার করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which isotope of potassium is naturally radioactive?",
+          "bn": "পটাশিয়ামের কোন আইসোটোপ প্রাকৃতিকভাবে তেজস্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "³⁹K",
+            "bn": "³⁹K"
+          },
+          {
+            "en": "⁴⁰K",
+            "bn": "⁴⁰K"
+          },
+          {
+            "en": "⁴¹K",
+            "bn": "⁴¹K"
+          },
+          {
+            "en": "⁴²K",
+            "bn": "⁴²K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "⁴⁰K (~0.012% natural abundance) decays by β⁻ to ⁴⁰Ca and by electron capture to ⁴⁰Ar; half-life 1.25 Gyr.",
+          "bn": "⁴⁰K (~০.০১২% প্রাকৃতিক প্রাচুর্য) β⁻ এ ⁴⁰Ca তে এবং ইলেক্ট্রন ক্যাপচারে ⁴⁰Ar তে ক্ষয় হয়; অর্ধ-জীবন ১.২৫ Gyr।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which fertilizer salt provides the highest mass fraction of K?",
+          "bn": "কোন সার লবণ K এর সর্বোচ্চ ভর ভগ্নাংশ সরবরাহ করে?"
+        },
+        "options": [
+          {
+            "en": "KNO₃",
+            "bn": "KNO₃"
+          },
+          {
+            "en": "KCl (sylvite, ~52% K)",
+            "bn": "KCl (সিলভাইট, ~৫২% K)"
+          },
+          {
+            "en": "K₂SO₄",
+            "bn": "K₂SO₄"
+          },
+          {
+            "en": "K₂CO₃",
+            "bn": "K₂CO₃"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "KCl is the dominant potash fertilizer because of cost and high K content.",
+          "bn": "খরচ ও উচ্চ K কন্টেন্টের কারণে KCl প্রধান পটাশ সার।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the typical extracellular vs intracellular concentration of K⁺ in mammals?",
+          "bn": "স্তন্যপায়ীতে K⁺ এর সাধারণ বহিঃ ও আন্তঃকোষীয় ঘনত্ব?"
+        },
+        "options": [
+          {
+            "en": "High outside, low inside",
+            "bn": "বাইরে বেশি, ভেতরে কম"
+          },
+          {
+            "en": "Low outside (~4 mM), high inside (~140 mM)",
+            "bn": "বাইরে কম (~৪ mM), ভেতরে বেশি (~১৪০ mM)"
+          },
+          {
+            "en": "Equal everywhere",
+            "bn": "সর্বত্র সমান"
+          },
+          {
+            "en": "Only in bone",
+            "bn": "শুধু হাড়ে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "This 30-fold gradient drives the resting membrane potential of ~-70 mV in neurons.",
+          "bn": "এই ৩০-গুণ গ্রেডিয়েন্ট নিউরনে ~-৭০ mV বিশ্রাম ঝিল্লি বিভব চালায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In CSP solar plants, why is molten KNO₃/NaNO₃ ('solar salt') used?",
+          "bn": "CSP সৌর প্ল্যান্টে গলিত KNO₃/NaNO₃ ('সৌর লবণ') কেন ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "To absorb light",
+            "bn": "আলো শোষণ করতে"
+          },
+          {
+            "en": "High specific heat and wide liquid range for thermal energy storage",
+            "bn": "তাপশক্তি সঞ্চয়ের জন্য উচ্চ নির্দিষ্ট তাপ ও বিস্তৃত তরল রেঞ্জ"
+          },
+          {
+            "en": "To corrode pipes",
+            "bn": "পাইপ ক্ষয় করতে"
+          },
+          {
+            "en": "To produce H₂",
+            "bn": "H₂ উৎপাদনে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Solar salt is liquid between ~220°C and ~600°C, allowing efficient round-the-clock thermal storage.",
+          "bn": "সৌর লবণ ~২২০°C ও ~৬০০°C এর মধ্যে তরল, কার্যকর ২৪-ঘণ্টা তাপ সঞ্চয় সম্ভব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why must potassium be stored under oil?",
+          "bn": "পটাশিয়াম তেলের নিচে কেন সংরক্ষণ করতে হয়?"
+        },
+        "options": [
+          {
+            "en": "To keep it cold",
+            "bn": "ঠাণ্ডা রাখতে"
+          },
+          {
+            "en": "To exclude moisture and O₂ which cause ignition and peroxide formation",
+            "bn": "জ্বালানি ও পারঅক্সাইড গঠনকারী আর্দ্রতা ও O₂ বাদ দিতে"
+          },
+          {
+            "en": "To make it pretty",
+            "bn": "সুন্দর রাখতে"
+          },
+          {
+            "en": "For lubrication",
+            "bn": "লুব্রিকেশনের জন্য"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Exposure forms KOH and shock-sensitive KO₂/K₂O₂ peroxides; mineral oil prevents both.",
+          "bn": "এক্সপোজার KOH ও শক-সংবেদনশীল KO₂/K₂O₂ পারঅক্সাইড গঠন করে; খনিজ তেল উভয়ই প্রতিরোধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Davy isolated potassium in 1807 using which method?",
+          "bn": "ডেভি ১৮০৭ সালে কোন পদ্ধতিতে পটাশিয়াম পৃথক করেন?"
+        },
+        "options": [
+          {
+            "en": "Hydrogen reduction",
+            "bn": "হাইড্রোজেন বিজারণ"
+          },
+          {
+            "en": "Electrolysis of molten KOH",
+            "bn": "গলিত KOH এর তড়িৎবিশ্লেষণ"
+          },
+          {
+            "en": "Distillation",
+            "bn": "পাতন"
+          },
+          {
+            "en": "Acid leaching",
+            "bn": "অ্যাসিড নিষ্কাশন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Davy used a voltaic pile to electrolyze molten potash (KOH), the first metal isolated electrochemically.",
+          "bn": "ডেভি ভোল্টাইক পাইল দিয়ে গলিত পটাশ (KOH) তড়িৎবিশ্লেষণ করেন, প্রথম তড়িৎরাসায়নিকভাবে পৃথক ধাতু।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which K compound is used as a strong oxidizer in titrations?",
+          "bn": "কোন K যৌগ টাইট্রেশনে শক্তিশালী জারক হিসেবে ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "KCl",
+            "bn": "KCl"
+          },
+          {
+            "en": "KMnO₄ (potassium permanganate)",
+            "bn": "KMnO₄ (পটাশিয়াম পারম্যাঙ্গানেট)"
+          },
+          {
+            "en": "K₂CO₃",
+            "bn": "K₂CO₃"
+          },
+          {
+            "en": "KI",
+            "bn": "KI"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "KMnO₄ is intensely purple; its loss of color marks the redox endpoint without an indicator.",
+          "bn": "KMnO₄ তীব্র বেগুনি; এর রঙ হারানো নির্দেশকের প্রয়োজন ছাড়াই রেডক্স শেষ বিন্দু নির্দেশ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What does potassium iodide (KI) do during nuclear emergencies?",
+          "bn": "পারমাণবিক জরুরী অবস্থায় পটাশিয়াম আয়োডাইড (KI) কী করে?"
+        },
+        "options": [
+          {
+            "en": "Neutralizes gamma rays",
+            "bn": "গামা রশ্মি নিরপেক্ষ করে"
+          },
+          {
+            "en": "Saturates thyroid with stable I⁻, blocking radioiodine uptake",
+            "bn": "থাইরয়েডকে স্থিতিশীল I⁻ দিয়ে সম্পৃক্ত করে, রেডিওআয়োডিন গ্রহণ প্রতিরোধ করে"
+          },
+          {
+            "en": "Cures cancer",
+            "bn": "ক্যান্সার নিরাময়"
+          },
+          {
+            "en": "Removes radioactivity from blood",
+            "bn": "রক্ত থেকে তেজস্ক্রিয়তা সরায়"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Stable iodide floods the thyroid so it cannot absorb cancer-causing radioactive ¹³¹I.",
+          "bn": "স্থিতিশীল আয়োডাইড থাইরয়েডকে প্লাবিত করে যাতে এটি ক্যান্সার সৃষ্টিকারী তেজস্ক্রিয় ¹³¹I শোষণ করতে না পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In black gunpowder, what is the role of KNO₃?",
+          "bn": "কালো বারুদে KNO₃ এর ভূমিকা?"
+        },
+        "options": [
+          {
+            "en": "Binder",
+            "bn": "বাইন্ডার"
+          },
+          {
+            "en": "Oxidizer supplying O for rapid combustion of S and C",
+            "bn": "S ও C এর দ্রুত দহনের জন্য O সরবরাহকারী জারক"
+          },
+          {
+            "en": "Fuel",
+            "bn": "জ্বালানী"
+          },
+          {
+            "en": "Stabilizer",
+            "bn": "স্থিতিশীলক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "KNO₃ decomposes on heating to release O₂, driving combustion of sulfur and charcoal fuel.",
+          "bn": "গরম করলে KNO₃ পচে O₂ মুক্ত করে, সালফার ও কাঠকয়লা জ্বালানীর দহন চালায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is K's first ionization energy lower than Na's?",
+          "bn": "K এর প্রথম আয়নীকরণ শক্তি Na এর চেয়ে কেন কম?"
+        },
+        "options": [
+          {
+            "en": "Fewer protons",
+            "bn": "কম প্রোটন"
+          },
+          {
+            "en": "Valence electron is in larger 4s orbital, farther from nucleus and more shielded",
+            "bn": "যোজ্যতা ইলেক্ট্রন বৃহত্তর 4s অরবিটালে, নিউক্লিয়াস থেকে দূরে ও বেশি ঢাকা"
+          },
+          {
+            "en": "K is heavier",
+            "bn": "K ভারী"
+          },
+          {
+            "en": "K has d-electrons",
+            "bn": "K এর d-ইলেক্ট্রন আছে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "IE decreases down Group 1 because outer electron is farther out and more shielded by inner shells.",
+          "bn": "গ্রুপ ১ এ নিচের দিকে IE কমে কারণ বাইরের ইলেক্ট্রন আরও দূরে ও ভেতরের শেল দ্বারা বেশি ঢাকা।"
+        }
+      },
+      {
+        "question": {
+          "en": "What clinical condition is caused by serum K⁺ above ~5.5 mmol/L?",
+          "bn": "সিরাম K⁺ ~৫.৫ mmol/L এর উপরে কোন ক্লিনিকাল অবস্থা সৃষ্টি হয়?"
+        },
+        "options": [
+          {
+            "en": "Hyponatremia",
+            "bn": "হাইপোনাট্রেমিয়া"
+          },
+          {
+            "en": "Hyperkalemia (risk of cardiac arrest)",
+            "bn": "হাইপারক্যালিমিয়া (কার্ডিয়াক অ্যারেস্ট ঝুঁকি)"
+          },
+          {
+            "en": "Hypoglycemia",
+            "bn": "হাইপোগ্লাইসেমিয়া"
+          },
+          {
+            "en": "Anemia",
+            "bn": "অ্যানিমিয়া"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Excess extracellular K⁺ depolarizes cardiac myocytes, causing arrhythmia and possible asystole.",
+          "bn": "অতিরিক্ত বহিঃকোষীয় K⁺ হৃদ্‌মায়োসাইট ডিপোলারাইজ করে, অ্যারিথমিয়া ও সম্ভাব্য অ্যাসিস্টোল ঘটায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why are Na-K liquid alloys useful as coolants in some reactors?",
+          "bn": "কিছু চুল্লিতে Na-K তরল সংকর কেন কুল্যান্ট হিসেবে উপযোগী?"
+        },
+        "options": [
+          {
+            "en": "Boil at low temperature",
+            "bn": "কম তাপমাত্রায় ফোটে"
+          },
+          {
+            "en": "Liquid over very wide temperature range with excellent thermal conductivity",
+            "bn": "অত্যন্ত বিস্তৃত তাপমাত্রা রেঞ্জে তরল ও চমৎকার তাপ পরিবাহিতা"
+          },
+          {
+            "en": "Non-flammable",
+            "bn": "অদাহ্য"
+          },
+          {
+            "en": "Cheap",
+            "bn": "সস্তা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Eutectic NaK (78% K) is liquid from ~-12°C to 785°C and conducts heat extremely well; ideal for fast reactors.",
+          "bn": "ইউটেক্টিক NaK (৭৮% K) ~-১২°C থেকে ৭৮৫°C তরল ও অত্যন্ত ভাল তাপ পরিবহন করে; দ্রুত চুল্লির জন্য আদর্শ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which structural unit gives feldspar its potassium content?",
+          "bn": "ফেল্ডস্পারকে এর পটাশিয়াম কন্টেন্ট কোন কাঠামোগত একক দেয়?"
+        },
+        "options": [
+          {
+            "en": "Sulfate",
+            "bn": "সালফেট"
+          },
+          {
+            "en": "KAlSi₃O₈ aluminosilicate framework",
+            "bn": "KAlSi₃O₈ অ্যালুমিনোসিলিকেট কাঠামো"
+          },
+          {
+            "en": "Carbonate",
+            "bn": "কার্বনেট"
+          },
+          {
+            "en": "Phosphate",
+            "bn": "ফসফেট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "K-feldspar (orthoclase) makes up a large fraction of Earth's crust and weathers to release K⁺ to soils.",
+          "bn": "K-ফেল্ডস্পার (অর্থোক্লেজ) পৃথিবীর ভূত্বকের একটি বড় অংশ গঠন করে এবং আবহাওয়ার ফলে K⁺ মাটিতে মুক্ত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is K-ion battery research growing as an alternative to Li-ion?",
+          "bn": "K-আয়ন ব্যাটারি গবেষণা Li-আয়ন এর বিকল্প হিসেবে কেন বাড়ছে?"
+        },
+        "options": [
+          {
+            "en": "Higher voltage than Li",
+            "bn": "Li এর চেয়ে বেশি ভোল্টেজ"
+          },
+          {
+            "en": "Potassium is much cheaper and far more abundant than lithium",
+            "bn": "পটাশিয়াম লিথিয়ামের চেয়ে অনেক সস্তা ও অনেক বেশি প্রচুর"
+          },
+          {
+            "en": "K is non-toxic only",
+            "bn": "K শুধু অ-বিষাক্ত"
+          },
+          {
+            "en": "K does not react with electrolytes",
+            "bn": "K ইলেক্ট্রোলাইটের সাথে বিক্রিয়া করে না"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "K is ~1000× more abundant than Li in Earth's crust and avoids costly cobalt-based cathodes.",
+          "bn": "পৃথিবীর ভূত্বকে K, Li এর চেয়ে ~১০০০ গুণ বেশি প্রচুর এবং ব্যয়বহুল কোবাল্ট-ভিত্তিক ক্যাথোড এড়ায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What does 'banana equivalent dose' (BED) refer to?",
+          "bn": "'কলা সমতুল্য মাত্রা' (BED) কী বোঝায়?"
+        },
+        "options": [
+          {
+            "en": "Sugar content",
+            "bn": "চিনির পরিমাণ"
+          },
+          {
+            "en": "~0.1 μSv radiation dose from ⁴⁰K in one banana",
+            "bn": "একটি কলায় ⁴⁰K থেকে ~০.১ μSv বিকিরণ মাত্রা"
+          },
+          {
+            "en": "Daily calcium intake",
+            "bn": "দৈনিক ক্যালসিয়াম গ্রহণ"
+          },
+          {
+            "en": "A unit of weight",
+            "bn": "ওজনের একক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "BED illustrates everyday natural radiation exposure; a banana delivers ~0.1 μSv from natural ⁴⁰K.",
+          "bn": "BED দৈনন্দিন প্রাকৃতিক বিকিরণ এক্সপোজার চিত্রিত করে; একটি কলা প্রাকৃতিক ⁴⁰K থেকে ~০.১ μSv দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In Group 1, which property INCREASES going down (Li → Cs)?",
+          "bn": "গ্রুপ ১ এ নিচের দিকে যেতে (Li → Cs) কোন বৈশিষ্ট্য বৃদ্ধি পায়?"
+        },
+        "options": [
+          {
+            "en": "Ionization energy",
+            "bn": "আয়নীকরণ শক্তি"
+          },
+          {
+            "en": "Atomic radius and reactivity with water",
+            "bn": "পারমাণবিক ব্যাসার্ধ ও জলের সাথে প্রতিক্রিয়াশীলতা"
+          },
+          {
+            "en": "Electronegativity",
+            "bn": "তড়িৎঋণাত্মকতা"
+          },
+          {
+            "en": "Melting point",
+            "bn": "গলনাঙ্ক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Down Group 1, atoms get bigger, valence electrons more shielded → easier ionization → more violent water reaction.",
+          "bn": "গ্রুপ ১ এ নিচে গেলে পরমাণু বড় হয়, যোজ্যতা ইলেক্ট্রন বেশি ঢাকা → সহজ আয়নীকরণ → জলের সাথে বেশি প্রবল বিক্রিয়া।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Potassium and sodium are interchangeable in the body — actually they have opposite intracellular/extracellular distributions and dedicated transport proteins.",
+        "bn": "শরীরে পটাশিয়াম ও সোডিয়াম বিনিময়যোগ্য — আসলে তাদের বিপরীত আন্তঃ/বহিঃকোষীয় বিতরণ ও নিবেদিত পরিবহন প্রোটিন রয়েছে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember 'K is for Krebs and cardiac muscle' — its concentration gradient powers electrical excitability.",
+        "bn": "মনে রাখুন 'K হল ক্রেবস ও হৃদ্‌পেশীর জন্য' — এর ঘনত্ব গ্রেডিয়েন্ট বৈদ্যুতিক উত্তেজনা চালায়।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "2K + 2H₂O → 2KOH + H₂↑",
+        "description": {
+          "en": "Violent reaction of potassium with water; H₂ ignites from the heat.",
+          "bn": "জলের সাথে পটাশিয়ামের প্রবল বিক্রিয়া; তাপ থেকে H₂ জ্বলে ওঠে।"
+        }
+      },
+      {
+        "equation": "4K + O₂ → 2K₂O",
+        "description": {
+          "en": "Potassium burns in limited O₂ to form potassium oxide.",
+          "bn": "সীমিত O₂ এ পটাশিয়াম জ্বলে পটাশিয়াম অক্সাইড গঠন করে।"
+        }
+      },
+      {
+        "equation": "K + O₂ → KO₂",
+        "description": {
+          "en": "In excess oxygen, potassium forms the unusual superoxide KO₂ — used as an O₂ source in submarines and spacecraft.",
+          "bn": "অতিরিক্ত অক্সিজেনে পটাশিয়াম অস্বাভাবিক সুপারঅক্সাইড KO₂ গঠন করে — সাবমেরিন ও মহাকাশযানে O₂ উৎস হিসেবে ব্যবহৃত।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "K → K⁺ + e⁻",
+        "description": {
+          "en": "Single-electron oxidation defining alkali metal chemistry.",
+          "bn": "ক্ষারীয় ধাতু রসায়ন নির্ধারণকারী এক-ইলেক্ট্রন জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "K⁺ + e⁻ → K (at cathode in molten KCl electrolysis)",
+        "description": {
+          "en": "Cathodic reduction in industrial production of metallic potassium.",
+          "bn": "ধাতব পটাশিয়াম শিল্প উৎপাদনে ক্যাথোডিক বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Ionic Bond",
+          "bn": "আয়নিক বন্ধন"
+        },
+        "molecule": "KCl",
+        "description": {
+          "en": "K donates its 4s¹ electron to Cl, forming a stable K⁺Cl⁻ ionic lattice.",
+          "bn": "K তার 4s¹ ইলেক্ট্রন Cl কে দান করে, স্থিতিশীল K⁺Cl⁻ আয়নিক জালি গঠন করে।"
+        }
+      }
+    ]
+  }
+}

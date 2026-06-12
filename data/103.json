@@ -1,0 +1,933 @@
+{
+"elementId": 103,
+"basicInformation": {
+"atomicNumber": 103,
+"symbol": "Lr",
+"name": {
+"en": "Lawrencium",
+"bn": "লরেনসিয়াম"
+},
+"pronunciation": {
+"en": "/ləˈrɛnsiəm/",
+"bn": "ল-রেন-সি-য়াম"
+},
+"atomicMass": 266.120,
+"category": {
+"en": "Actinide",
+"bn": "অ্যাক্টিনাইড"
+},
+"group": 3,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Unknown, predicted silvery-white or gray",
+"bn": "অজানা, সম্ভবত রূপালী-সাদা বা ধূসর"
+},
+"color": {
+"en": "Silvery-white (predicted)",
+"bn": "রূপালী-সাদা (আনুমানিক)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "সংশ্লেষিত"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Albert Ghiorso, Torbjørn Sikkeland, Almon Larsh, Robert M. Latimer",
+"bn": "আলবার্ট গিওর্সো, টরবজর্ন সিক্কিল্যান্ড, অ্যালমন লার্শ, রবার্ট এম. ল্যাটিমার"
+},
+"discoveryYear": 1961,
+"discoveryLocation": {
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+"discoveryStory": {
+"en": "Synthesized at the Lawrence Radiation Laboratory by bombarding a californium target with boron ions. It is the final element of the actinide series.",
+"bn": "লরেন্স রেডিয়েশন ল্যাবরেটরিতে ক্যালিফোর্নিয়াম টার্গেটকে বোরন আয়ন দ্বারা আঘাত করে সংশ্লেষিত হয়। এটি অ্যাক্টিনাইড সিরিজের চূড়ান্ত উপাদান।"
+},
+"historicalUses": {
+"en": "Used strictly for theoretical and applied heavy-ion physics research.",
+"bn": "কঠোরভাবে তাত্ত্বিক এবং ফলিত হেভি-আয়ন পদার্থবিদ্যা গবেষণার জন্য ব্যবহৃত হয়।"
+},
+"famousExperiments": {
+"en": "Aqueous chemistry experiments in the 1970s confirming its behavior as a trivalent actinide, analogous to lutetium.",
+"bn": "১৯৭০-এর দশকে জলীয় রসায়নের পরীক্ষা যা লুটেসিয়ামের অনুরূপ একটি ট্রাইভ্যালেন্ট অ্যাক্টিনাইড হিসাবে এর আচরণ নিশ্চিত করে।"
+}
+},
+"atomicStructure": {
+"protons": 103,
+"neutrons": 163,
+"electrons": 103,
+"valenceElectrons": 3,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 8, 3],
+"electronConfiguration": "[Rn] 5f¹⁴ 7s² 7p¹",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"4s": 2,
+"3d": 10,
+"4p": 6,
+"5s": 2,
+"4d": 10,
+"5p": 6,
+"6s": 2,
+"4f": 14,
+"5d": 10,
+"6p": 6,
+"7s": 2,
+"5f": 14,
+"7p": 1
+},
+"oxidationStates": [3],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 1,
+"magnetic": -1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 15.6,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1900,
+"unit": "K"
+},
+"boilingPoint": null,
+"atomicRadius": {
+"value": 270,
+"unit": "pm"
+},
+"covalentRadius": null,
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Hexagonal close-packed (predicted)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (আনুমানিক)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (predicted)",
+"bn": "প্যারাম্যাগনেটিক (আনুমানিক)"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.3,
+"ionizationEnergy": {
+"value": 470.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Highly reactive, predicted to quickly form oxides and halides. Exhibits a strict preference for the +3 oxidation state, analogous to heavy lanthanides.",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল, দ্রুত অক্সাইড এবং হ্যালাইড গঠন করবে বলে ধারণা করা হয়। ভারী ল্যান্থানাইডের অনুরূপ, এটি +৩ জারণ অবস্থার প্রতি কঠোর পছন্দ প্রদর্শন করে।"
+},
+"commonCompounds": ["Lr₂O³", "LrCl³", "Lr(OH)³"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Synthesized in ultra-trace amounts.",
+"bn": "কিছুই না। অতি-ট্রেস পরিমাণে সংশ্লেষিত হয়।"
+},
+"commercialUses": {
+"en": "No commercial applications.",
+"bn": "কোনো বাণিজ্যিক ব্যবহার নেই।"
+},
+"electronicsUses": null,
+"semiconductorUses": null,
+"aerospaceUses": null,
+"batteryUses": null,
+"aiHardwareUses": null,
+"renewableEnergyUses": null,
+"nanotechnologyUses": null,
+"nuclearUses": {
+"en": "Analyzed theoretically to study the boundaries of the actinide series and relativistic effects on electron orbitals.",
+"bn": "অ্যাক্টিনাইড সিরিজের সীমানা এবং ইলেকট্রন অরবিটালে রিলেটিভিস্টিক প্রভাব অধ্যয়নের জন্য তাত্ত্বিকভাবে বিশ্লেষণ করা হয়।"
+},
+"militaryUses": null,
+"medicalUses": null,
+"foodIndustryUses": null,
+"constructionUses": null
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "None. Has no biological role.",
+"bn": "কিছুই না। এর কোনো জৈবিক ভূমিকা নেই।"
+},
+"humanBodyRole": {
+"en": "Does not exist in the human body.",
+"bn": "মানবদেহে এর কোনো অস্তিত্ব নেই।"
+},
+"toxicity": {
+"en": "Presents an extreme radiological hazard due to intense alpha emissions and short half-lives.",
+"bn": "তীব্র আলফা নির্গমন এবং সংক্ষিপ্ত অর্ধায়ুর কারণে এটি একটি চরম রেডিওলজিক্যাল ঝুঁকি উপস্থাপন করে।"
+},
+"environmentalImpact": {
+"en": "Zero environmental presence; localized exclusively to accelerator laboratories.",
+"bn": "পরিবেশে এর কোনো উপস্থিতি নেই; একচেটিয়াভাবে ত্বরক গবেষণাগারে স্থানীয়করণ করা হয়েছে।"
+},
+"pollutionRisks": null,
+"recyclingMethods": null,
+"sustainabilityScore": 0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "Japan",
+"bn": "জাপান"
+}
+],
+"miningMethods": {
+"en": "Produced synthetically via nuclear transmutation in particle accelerators.",
+"bn": "কণা ত্বরক যন্ত্রে পারমাণবিক রূপান্তরের মাধ্যমে কৃত্রিমভাবে উৎপাদিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Priceless. Not commercially available.",
+"bn": "অমূল্য। বাণিজ্যিকভাবে উপলব্ধ নয়।"
+},
+"futureDemand": {
+"en": "Required strictly for fundamental relativistic quantum chemistry.",
+"bn": "মৌলিক রিলেটিভিস্টিক কোয়ান্টাম রসায়নের জন্য কঠোরভাবে প্রয়োজনীয়।"
+},
+"globalImportance": {
+"en": "Key to verifying the architecture of the periodic table's final transition into the transactinides.",
+"bn": "পর্যায় সারণীর ট্রান্সঅ্যাক্টিনাইডসে চূড়ান্ত রূপান্তরের কাঠামো যাচাই করার চাবিকাঠি।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Lethal radiation exposure. Disintegrates rapidly, emitting highly damaging ionizing radiation.",
+"bn": "মারাত্মক বিকিরণ এক্সপোজার। অত্যন্ত ক্ষতিকারক আয়নাইজিং বিকিরণ নির্গত করে দ্রুত বিচ্ছিন্ন হয়ে যায়।"
+},
+"storageRequirements": {
+"en": "Cannot be stored due to its short half-life (~11 hours for Lr-266). Must be analyzed immediately upon synthesis.",
+"bn": "সংক্ষিপ্ত অর্ধায়ুর (Lr-266 এর জন্য ~১১ ঘন্টা) কারণে এটি সংরক্ষণ করা যায় না। সংশ্লেষণের পরপরই অবশ্যই বিশ্লেষণ করতে হবে।"
+},
+"handlingProcedures": {
+"en": "Automated microscopic manipulation in highly shielded radiochemical cells.",
+"bn": "উচ্চ আচ্ছাদিত রেডিওকেমিক্যাল কোষে স্বয়ংক্রিয় আণুবীক্ষণিক ম্যানিপুলেশন।"
+},
+"exposureRisks": {
+"en": "Causes fatal acute radiation syndrome and severe chromosomal damage.",
+"bn": "মারাত্মক তীব্র বিকিরণ সিন্ড্রোম এবং গুরুতর ক্রোমোজোম ক্ষতির কারণ হয়।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Lawrencium is the very last element in the actinide row at the bottom of the periodic table. It is highly radioactive, artificially made in labs, and vanishes in hours.",
+"bn": "লরেনসিয়াম হলো পর্যায় সারণীর একেবারে নীচের অ্যাক্টিনাইড সারির সর্বশেষ উপাদান। এটি অত্যন্ত তেজস্ক্রিয়, গবেষণাগারে কৃত্রিমভাবে তৈরি হয় এবং কয়েক ঘন্টার মধ্যে অদৃশ্য হয়ে যায়।"
+},
+"advancedExplanation": {
+"en": "As the final actinide (Z=103), lawrencium's ground-state electron configuration is anomalously [Rn] 5f¹⁴ 7s² 7p¹ due to strong relativistic spin-orbit coupling, which dramatically lowers the energy of the 7p orbital below the expected 6d orbital.",
+"bn": "চূড়ান্ত অ্যাক্টিনাইড (Z=103) হিসাবে, শক্তিশালী রিলেটিভিস্টিক স্পিন-অরবিট কাপলিংয়ের কারণে লরেনসিয়ামের গ্রাউন্ড-স্টেট ইলেকট্রন কনফিগারেশনটি অস্বাভাবিকভাবে [Rn] 5f¹⁴ 7s² 7p¹, যা প্রত্যাশিত 6d অরবিটালের নীচে 7p অরবিটালের শক্তি নাটকীয়ভাবে কমিয়ে দেয়।"
+},
+"funFacts": [
+{
+"en": "Its unusually low first ionization energy makes it the easiest element in the periodic table to strip a single electron from its outermost shell.",
+"bn": "এর অস্বাভাবিকভাবে কম প্রথম আয়নীকরণ শক্তি এটিকে পর্যায় সারণীর এমন উপাদানে পরিণত করে যার বাইরের শেল থেকে একটি একক ইলেকট্রন সবচেয়ে সহজে অপসারণ করা যায়।"
+},
+{
+"en": "It is named after the inventor of the cyclotron, a type of particle accelerator that made the discovery of many artificial elements possible.",
+"bn": "সাইক্লোট্রনের আবিষ্কারকের নামানুসারে এর নামকরণ করা হয়েছে, এটি এক ধরণের কণা ত্বরক যা অনেক কৃত্রিম উপাদান আবিষ্কার সম্ভব করেছে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 71,
+"relation": {
+"en": "Lawrencium is the heavier homolog of Lutetium. Both are the last elements of their respective f-block series and strongly prefer a +3 oxidation state.",
+"bn": "লরেনসিয়াম হলো লুটেসিয়ামের ভারী সমগোত্রীয়। উভয়ই তাদের নিজ নিজ f-ব্লক সিরিজের শেষ উপাদান এবং +৩ জারণ অবস্থাকে দৃঢ়ভাবে পছন্দ করে।"
+}
+}
+],
+"relatedElements": [102, 104, 71],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Lawrencium?",
+"bn": "লরেনসিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "101",
+"bn": "১০১"
+},
+{
+"en": "102",
+"bn": "১০২"
+},
+{
+"en": "103",
+"bn": "১০৩"
+},
+{
+"en": "104",
+"bn": "১০৪"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Lawrencium is element number 103, marking the end of the actinide series.",
+"bn": "লরেনসিয়াম হলো ১০৩ নম্বর উপাদান, যা অ্যাক্টিনাইড সিরিজের সমাপ্তি নির্দেশ করে।"
+}
+},
+{
+"question": {
+"en": "Lawrencium was named in honor of Ernest O. Lawrence. What did he invent?",
+"bn": "আর্নেস্ট ও. লরেন্সের সম্মানে লরেনসিয়ামের নামকরণ করা হয়েছিল। তিনি কী আবিষ্কার করেছিলেন?"
+},
+"options": [
+{
+"en": "The Geiger Counter",
+"bn": "গাইগার কাউন্টার"
+},
+{
+"en": "The Cyclotron",
+"bn": "সাইক্লোট্রন"
+},
+{
+"en": "The Electron Microscope",
+"bn": "ইলেকট্রন মাইক্রোস্কোপ"
+},
+{
+"en": "The Nuclear Reactor",
+"bn": "নিউক্লিয়ার রিঅ্যাক্টর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Lawrence invented the cyclotron, a circular particle accelerator crucial to synthetic element discovery.",
+"bn": "লরেন্স সাইক্লোট্রন আবিষ্কার করেছিলেন, একটি বৃত্তাকার কণা ত্বরক যা কৃত্রিম উপাদান আবিষ্কারের জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+}
+},
+{
+"question": {
+"en": "Which of these represents Lawrencium's most stable oxidation state?",
+"bn": "এর মধ্যে কোনটি লরেনসিয়ামের সবচেয়ে স্থিতিশীল জারণ অবস্থাকে উপস্থাপন করে?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like its lanthanide counterpart lutetium, lawrencium heavily favors the +3 oxidation state.",
+"bn": "এর ল্যান্থানাইড প্রতিরূপ লুটেসিয়ামের মতো, লরেনসিয়াম +৩ জারণ অবস্থাকে ব্যাপকভাবে পছন্দ করে।"
+}
+},
+{
+"question": {
+"en": "Due to relativistic effects, the final electron in Lawrencium is uniquely expected to enter which orbital instead of the 6d orbital?",
+"bn": "রিলেটিভিস্টিক প্রভাবের কারণে, লরেনসিয়ামের চূড়ান্ত ইলেকট্রনটি 6d অরবিটালের পরিবর্তে অনন্যভাবে কোন অরবিটালে প্রবেশ করবে বলে আশা করা হয়?"
+},
+"options": [
+{
+"en": "7s",
+"bn": "7s"
+},
+{
+"en": "7p",
+"bn": "7p"
+},
+{
+"en": "5f",
+"bn": "5f"
+},
+{
+"en": "8s",
+"bn": "8s"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Theoretical chemistry indicates the 7p orbital becomes lower in energy than the 6d orbital for element 103, resulting in a [Rn] 5f14 7s2 7p1 configuration.",
+"bn": "তাত্ত্বিক রসায়ন ইঙ্গিত দেয় যে ১০৩ নং উপাদানের জন্য 7p অরবিটাল 6d অরবিটালের চেয়ে শক্তিতে কম হয়ে যায়, যার ফলে [Rn] 5f14 7s2 7p1 কনফিগারেশন তৈরি হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary method used to initially synthesize Lawrencium?",
+"bn": "লরেনসিয়াম প্রাথমিকভাবে সংশ্লেষণ করতে ব্যবহৃত প্রধান পদ্ধতি কোনটি?"
+},
+"options": [
+{
+"en": "Neutron capture in a reactor",
+"bn": "চুল্লিতে নিউট্রন ক্যাপচার"
+},
+{
+"en": "Bombarding Californium with Boron ions",
+"bn": "ক্যালিফোর্নিয়ামকে বোরন আয়ন দিয়ে আঘাত করে"
+},
+{
+"en": "Uranium fission",
+"bn": "ইউরেনিয়াম ফিশন"
+},
+{
+"en": "Alpha decay of Rutherfordium",
+"bn": "রাদারফোর্ডিয়ামের আলফা ক্ষয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The original synthesis was achieved by bombarding a californium target with boron nuclei.",
+"bn": "আসল সংশ্লেষণটি বোরন নিউক্লিয়াস দিয়ে ক্যালিফোর্নিয়াম টার্গেটকে আঘাত করে অর্জিত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Which block of the periodic table does IUPAC generally categorize Lawrencium into, despite its unique electron configuration?",
+"bn": "এর অনন্য ইলেকট্রন কনফিগারেশন সত্ত্বেও, IUPAC সাধারণত লরেনসিয়ামকে পর্যায় সারণীর কোন ব্লকে শ্রেণীবদ্ধ করে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "s-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "p-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "d-ব্লক"
+},
+{
+"en": "f-block (Actinides)",
+"bn": "f-ব্লক (অ্যাক্টিনাইডস)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "While structurally it marks the beginning of the 6d series, it is traditionally grouped as the final member of the f-block actinide series.",
+"bn": "যদিও কাঠামোগতভাবে এটি 6d সিরিজের সূচনা চিহ্নিত করে, তবে এটি ঐতিহ্যগতভাবে f-ব্লক অ্যাক্টিনাইড সিরিজের চূড়ান্ত সদস্য হিসাবে গোষ্ঠীভুক্ত।"
+}
+},
+{
+"question": {
+"en": "What is the approximate half-life of the most stable known isotope of Lawrencium (Lr-266)?",
+"bn": "লরেনসিয়ামের সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপের (Lr-266) আনুমানিক অর্ধায়ু কত?"
+},
+"options": [
+{
+"en": "11 milliseconds",
+"bn": "১১ মিলিসেকেন্ড"
+},
+{
+"en": "11 seconds",
+"bn": "১১ সেকেন্ড"
+},
+{
+"en": "11 hours",
+"bn": "১১ ঘন্টা"
+},
+{
+"en": "11 days",
+"bn": "১১ দিন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Lr-266 is the longest-lived isotope, with a half-life of approximately 11 hours.",
+"bn": "Lr-266 হলো দীর্ঘতম আয়ুষ্কালের আইসোটোপ, যার অর্ধায়ু প্রায় ১১ ঘন্টা।"
+}
+},
+{
+"question": {
+"en": "Which lanthanide element is considered the direct chemical homolog to Lawrencium?",
+"bn": "কোন ল্যান্থানাইড উপাদানটিকে লরেনসিয়ামের সরাসরি রাসায়নিক সমগোত্রীয় বলে মনে করা হয়?"
+},
+"options": [
+{
+"en": "Cerium",
+"bn": "সিরিয়াম"
+},
+{
+"en": "Europium",
+"bn": "ইউরোপিয়াম"
+},
+{
+"en": "Erbium",
+"bn": "আরবিয়াম"
+},
+{
+"en": "Lutetium",
+"bn": "লুটেসিয়াম"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Lutetium sits directly above Lawrencium in group 3 and is the last of the lanthanides, just as Lawrencium is the last of the actinides.",
+"bn": "লুটেসিয়াম গ্রুপ ৩ এ সরাসরি লরেনসিয়ামের উপরে অবস্থিত এবং ল্যান্থানাইডগুলির মধ্যে সর্বশেষ, ঠিক যেমন লরেনসিয়াম অ্যাক্টিনাইডগুলির মধ্যে সর্বশেষ।"
+}
+},
+{
+"question": {
+"en": "How many neutrons are present in the nucleus of Lawrencium-266?",
+"bn": "লরেনসিয়াম-২৬৬ এর নিউক্লিয়াসে কয়টি নিউট্রন উপস্থিত থাকে?"
+},
+"options": [
+{
+"en": "103",
+"bn": "১০৩"
+},
+{
+"en": "163",
+"bn": "১৬৩"
+},
+{
+"en": "266",
+"bn": "২৬৬"
+},
+{
+"en": "369",
+"bn": "৩৬৯"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The number of neutrons is mass number minus atomic number: 266 - 103 = 163.",
+"bn": "নিউট্রনের সংখ্যা হলো ভর সংখ্যা বিয়োগ পারমাণবিক সংখ্যা: ২৬৬ - ১০৩ = ১৬৩।"
+}
+},
+{
+"question": {
+"en": "What physical state is Lawrencium expected to have at absolute zero?",
+"bn": "পরম শূন্য তাপমাত্রায় লরেনসিয়ামের কোন ভৌত অবস্থা থাকবে বলে আশা করা হয়?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Bose-Einstein Condensate",
+"bn": "বোস-আইনস্টাইন কনডেনসেট"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like all metals and actinides, it is a solid at room temperature and below.",
+"bn": "সমস্ত ধাতু এবং অ্যাক্টিনাইডগুলির মতো, এটি ঘরের তাপমাত্রায় এবং তার নীচে একটি কঠিন পদার্থ।"
+}
+},
+{
+"question": {
+"en": "Lawrencium's first ionization energy was measured experimentally and found to be unusually low. What causes this?",
+"bn": "লরেনসিয়ামের প্রথম আয়নীকরণ শক্তি পরীক্ষামূলকভাবে পরিমাপ করা হয়েছিল এবং দেখা গেছে এটি অস্বাভাবিকভাবে কম। এর কারণ কী?"
+},
+"options": [
+{
+"en": "The completely full 5f subshell shields the nucleus perfectly",
+"bn": "সম্পূর্ণ পূর্ণ 5f সাবশেল নিউক্লিয়াসকে নিখুঁতভাবে রক্ষা করে"
+},
+{
+"en": "Its outermost electron resides in a high-energy 7p orbital",
+"bn": "এর বাইরের ইলেকট্রন একটি উচ্চ-শক্তির 7p অরবিটালে অবস্থান করে"
+},
+{
+"en": "It is highly electronegative",
+"bn": "এটি অত্যন্ত তড়িৎঋণাত্মক"
+},
+{
+"en": "It naturally forms covalent bonds",
+"bn": "এটি প্রাকৃতিকভাবে সমযোজী বন্ধন তৈরি করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The lone electron in the 7p orbital is very loosely bound and requires only about ~4.9 eV to be removed.",
+"bn": "7p অরবিটালের একমাত্র ইলেকট্রনটি খুব আলগাভাবে আবদ্ধ থাকে এবং এটি অপসারণ করতে মাত্র ~৪.৯ eV শক্তির প্রয়োজন হয়।"
+}
+},
+{
+"question": {
+"en": "Because of its intense radioactivity and scarcity, which of these fields currently utilizes Lawrencium commercially?",
+"bn": "তীব্র তেজস্ক্রিয়তা এবং দুষ্প্রাপ্যতার কারণে, বর্তমান যুগে কোন ক্ষেত্রটি বাণিজ্যিকভাবে লরেনসিয়াম ব্যবহার করে?"
+},
+"options": [
+{
+"en": "Medical oncology",
+"bn": "মেডিকেল অনকোলজি"
+},
+{
+"en": "Aerospace engineering",
+"bn": "অ্যারোস্পেস ইঞ্জিনিয়ারিং"
+},
+{
+"en": "Quantum computing",
+"bn": "কোয়ান্টাম কম্পিউটিং"
+},
+{
+"en": "None, it is strictly for research",
+"bn": "কোনটিই নয়, এটি কঠোরভাবে গবেষণার জন্য"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Lawrencium has absolutely no commercial or practical use outside of scientific discovery.",
+"bn": "বৈজ্ঞানিক আবিষ্কারের বাইরে লরেনসিয়ামের একেবারেই কোনো বাণিজ্যিক বা ব্যবহারিক প্রয়োগ নেই।"
+}
+},
+{
+"question": {
+"en": "Lawrencium completes which specific actinide electron subshell?",
+"bn": "লরেনসিয়াম কোন নির্দিষ্ট অ্যাক্টিনাইড ইলেকট্রন সাবশেল সম্পূর্ণ করে?"
+},
+"options": [
+{
+"en": "4f",
+"bn": "4f"
+},
+{
+"en": "5d",
+"bn": "5d"
+},
+{
+"en": "5f",
+"bn": "5f"
+},
+{
+"en": "6p",
+"bn": "6p"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Being the final actinide, it contains a full 5f shell (14 electrons).",
+"bn": "চূড়ান্ত অ্যাক্টিনাইড হওয়ার কারণে, এতে একটি সম্পূর্ণ 5f শেল (১৪টি ইলেকট্রন) রয়েছে।"
+}
+},
+{
+"question": {
+"en": "Lawrencium isotopes decay primarily through which radioactive processes?",
+"bn": "লরেনসিয়ামের আইসোটোপগুলো প্রাথমিকভাবে কোন তেজস্ক্রিয় প্রক্রিয়ার মাধ্যমে ক্ষয়প্রাপ্ত হয়?"
+},
+"options": [
+{
+"en": "Alpha decay and spontaneous fission",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন"
+},
+{
+"en": "Beta decay exclusively",
+"bn": "শুধুমাত্র বিটা ক্ষয়"
+},
+{
+"en": "Gamma emission exclusively",
+"bn": "শুধুমাত্র গামা নির্গমন"
+},
+{
+"en": "Stable, does not decay",
+"bn": "স্থিতিশীল, ক্ষয়প্রাপ্ত হয় না"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Like most heavy transuranic elements, Lawrencium atoms decay by emitting an alpha particle or splitting apart entirely.",
+"bn": "বেশিরভাগ ভারী ট্রান্সইউরেনিক উপাদানগুলির মতো, লরেনসিয়াম পরমাণুগুলো একটি আলফা কণা নির্গত করে বা সম্পূর্ণরূপে বিভক্ত হয়ে ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "In what specific location was Lawrencium first synthesized?",
+"bn": "কোন নির্দিষ্ট স্থানে লরেনসিয়াম প্রথম সংশ্লেষিত হয়েছিল?"
+},
+"options": [
+{
+"en": "CERN in Switzerland",
+"bn": "সুইজারল্যান্ডের সার্ন (CERN)"
+},
+{
+"en": "JINR in Dubna, Russia",
+"bn": "রাশিয়ার ডুবনায় জেআইএনআর"
+},
+{
+"en": "Lawrence Berkeley National Laboratory, USA",
+"bn": "লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরি, মার্কিন যুক্তরাষ্ট্র"
+},
+{
+"en": "RIKEN in Japan",
+"bn": "জাপানের রিকেন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The element was synthesized at the Lawrence Radiation Laboratory (now LBNL) in Berkeley, California.",
+"bn": "উপাদানটি ক্যালিফোর্নিয়ার বার্কলেতে লরেন্স রেডিয়েশন ল্যাবরেটরিতে (বর্তমানে LBNL) সংশ্লেষিত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What is the theoretical density of Lawrencium compared to water (1 g/cm³)?",
+"bn": "জলের (১ গ্রাম/সেমি³) তুলনায় লরেনসিয়ামের তাত্ত্বিক ঘনত্ব কত?"
+},
+"options": [
+{
+"en": "Lighter than water",
+"bn": "জলের চেয়ে হালকা"
+},
+{
+"en": "Slightly heavier (~3 g/cm³)",
+"bn": "সামান্য ভারী (~৩ গ্রাম/সেমি³)"
+},
+{
+"en": "Extremely dense (~15.6 g/cm³)",
+"bn": "অত্যন্ত ঘন (~১৫.৬ গ্রাম/সেমি³)"
+},
+{
+"en": "Denser than Osmium (~30 g/cm³)",
+"bn": "অসমিয়ামের চেয়েও ঘন (~৩০ গ্রাম/সেমি³)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Calculations predict a density of 15.6 to 16.6 g/cm³, making it very dense like many heavy metals.",
+"bn": "গণনায় ১৫.৬ থেকে ১৬.৬ গ্রাম/সেমি³ ঘনত্বের পূর্বাভাস দেওয়া হয়েছে, যা একে অনেক ভারী ধাতুর মতো খুব ঘন করে তোলে।"
+}
+},
+{
+"question": {
+"en": "If Lawrencium were to form a chloride compound, what would be the expected formula based on its oxidation state?",
+"bn": "লরেনসিয়াম যদি একটি ক্লোরাইড যৌগ গঠন করে, তবে এর জারণ অবস্থার উপর ভিত্তি করে প্রত্যাশিত সূত্র কী হবে?"
+},
+"options": [
+{
+"en": "LrCl",
+"bn": "LrCl"
+},
+{
+"en": "LrCl2",
+"bn": "LrCl2"
+},
+{
+"en": "LrCl3",
+"bn": "LrCl3"
+},
+{
+"en": "LrCl4",
+"bn": "LrCl4"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Since its stable oxidation state is +3, it would pair with three chlorine anions (each -1) to form LrCl3.",
+"bn": "যেহেতু এর স্থিতিশীল জারণ অবস্থা +৩, তাই এটি তিনটি ক্লোরিন অ্যানায়নের (প্রতিটি -১) সাথে মিলে LrCl3 গঠন করবে।"
+}
+},
+{
+"question": {
+"en": "Which of these elements is found immediately before Lawrencium on the periodic table?",
+"bn": "পর্যায় সারণীতে লরেনসিয়ামের ঠিক আগে নিচের কোন উপাদানটি পাওয়া যায়?"
+},
+"options": [
+{
+"en": "Mendelevium",
+"bn": "মেন্ডেলিভিয়াম"
+},
+{
+"en": "Nobelium",
+"bn": "নোবেলিয়াম"
+},
+{
+"en": "Rutherfordium",
+"bn": "রাদারফোর্ডিয়াম"
+},
+{
+"en": "Actinium",
+"bn": "অ্যাক্টিনিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Element 102, Nobelium, is right before element 103, Lawrencium.",
+"bn": "১০২ নং উপাদান, নোবেলিয়াম, ১০৩ নং উপাদান, লরেনসিয়ামের ঠিক আগে।"
+}
+},
+{
+"question": {
+"en": "What group of the periodic table does IUPAC officially place Lawrencium into?",
+"bn": "IUPAC আনুষ্ঠানিকভাবে লরেনসিয়ামকে পর্যায় সারণীর কোন গ্রুপে স্থান দেয়?"
+},
+"options": [
+{
+"en": "Group 1",
+"bn": "গ্রুপ ১"
+},
+{
+"en": "Group 3",
+"bn": "গ্রুপ ৩"
+},
+{
+"en": "Group 13",
+"bn": "গ্রুপ ১৩"
+},
+{
+"en": "It has no group number",
+"bn": "এর কোনো গ্রুপ নম্বর নেই"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Most modern periodic tables place Lutetium and Lawrencium in Group 3 under Scandium and Yttrium.",
+"bn": "বেশিরভাগ আধুনিক পর্যায় সারণী লুটেসিয়াম এবং লরেনসিয়ামকে স্ক্যান্ডিয়াম এবং ইট্রিয়ামের অধীনে গ্রুপ ৩ এ স্থান দেয়।"
+}
+},
+{
+"question": {
+"en": "The relativistic contraction in Lawrencium makes its 7s electrons harder to remove, making it behave similarly to an element with an inert pair effect. Which orbital provides its most reactive valence electron?",
+"bn": "লরেনসিয়ামের রিলেটিভিস্টিক সংকোচনের কারণে এর 7s ইলেকট্রনগুলোকে অপসারণ করা কঠিন হয়ে পড়ে, যা একে নিষ্ক্রিয় জোড় প্রভাবযুক্ত উপাদানের মতো আচরণ করতে বাধ্য করে। কোন অরবিটালটি এর সবচেয়ে প্রতিক্রিয়াশীল যোজ্যতা ইলেকট্রন প্রদান করে?"
+},
+"options": [
+{
+"en": "5f",
+"bn": "5f"
+},
+{
+"en": "6d",
+"bn": "6d"
+},
+{
+"en": "7s",
+"bn": "7s"
+},
+{
+"en": "7p",
+"bn": "7p"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The single 7p electron is bound very weakly and represents the highest energy electron, dominating the initial stage of its reactivity.",
+"bn": "একক 7p ইলেকট্রনটি খুব দুর্বলভাবে আবদ্ধ থাকে এবং এটি সর্বোচ্চ শক্তির ইলেকট্রনকে উপস্থাপন করে, যা এর প্রতিক্রিয়ার প্রাথমিক স্তরে আধিপত্য বিস্তার করে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "It is completely useless to science because it disappears so fast.",
+"bn": "এটি খুব দ্রুত অদৃশ্য হয়ে যায় বলে এটি বিজ্ঞানের কাছে সম্পূর্ণ অকেজো।"
+},
+{
+"en": "As an actinide, its outermost electron is in a d-orbital.",
+"bn": "একটি অ্যাক্টিনাইড হিসাবে, এর বাইরের ইলেকট্রনটি একটি d-অরবিটালে থাকে।"
+}
+],
+"learningTips": [
+{
+"en": "Remember Lawrencium (Lr) as the 'last act'. It is atomic number 103, marking the absolute end of the actinide series.",
+"bn": "লরেনসিয়াম (Lr) কে 'শেষ অংক' বা 'লাস্ট অ্যাক্ট' হিসেবে মনে রাখুন। এটি পারমাণবিক সংখ্যা ১০৩, যা অ্যাক্টিনাইড সিরিজের চূড়ান্ত সমাপ্তি নির্দেশ করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Lr + 3Cl₂ → 2LrCl³",
+"description": {
+"en": "Theoretical formation of lawrencium(III) chloride.",
+"bn": "লরেনসিয়াম(III) ক্লোরাইডের তাত্ত্বিক গঠন।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Lr → Lr³⁺ + 3e⁻",
+"description": {
+"en": "Oxidation of lawrencium to its stable +3 state in aqueous solution.",
+"bn": "জলীয় দ্রবণে লরেনসিয়ামের এর স্থিতিশীল +৩ অবস্থায় জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Lr³⁺ + 3e⁻ → Lr",
+"description": {
+"en": "Theoretical reduction of lawrencium ions back to metallic state.",
+"bn": "লরেনসিয়াম আয়নকে ধাতব অবস্থায় ফিরিয়ে আনার তাত্ত্বিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic Bond",
+"bn": "আয়নিক বন্ধন"
+},
+"molecule": "Lr₂O³",
+"description": {
+"en": "Lawrencium forms strong ionic bonds with oxygen, behaving much like lutetium oxide.",
+"bn": "লরেনসিয়াম অক্সিজেনের সাথে শক্তিশালী আয়নিক বন্ধন গঠন করে, যা অনেকটাই লুটেসিয়াম অক্সাইডের মতো আচরণ করে।"
+}
+}
+]
+}
+}

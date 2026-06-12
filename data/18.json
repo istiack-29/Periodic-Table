@@ -1,0 +1,991 @@
+{
+  "elementId": 18,
+  "basicInformation": {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "name": {
+      "en": "Argon",
+      "bn": "আর্গন"
+    },
+    "pronunciation": {
+      "en": "/ˈɑːrɡɒn/",
+      "bn": "আর-গন"
+    },
+    "atomicMass": 39.948,
+    "category": {
+      "en": "Noble gas",
+      "bn": "নিষ্ক্রিয় গ্যাস"
+    },
+    "group": 18,
+    "period": 3,
+    "block": "p",
+    "phase": {
+      "en": "Gas",
+      "bn": "গ্যাস"
+    },
+    "appearance": {
+      "en": "Colorless gas; lilac/violet glow when ionized",
+      "bn": "বর্ণহীন গ্যাস; আয়নিত হলে লাইলাক/বেগুনি আভা"
+    },
+    "color": {
+      "en": "Colorless",
+      "bn": "বর্ণহীন"
+    },
+    "radioactive": false,
+    "naturalOccurrence": {
+      "en": "Primordial (mostly radiogenic ⁴⁰Ar from K decay)",
+      "bn": "আদিম (বেশিরভাগ K ক্ষয় থেকে রেডিওজেনিক ⁴⁰Ar)"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Lord Rayleigh and Sir William Ramsay",
+      "bn": "লর্ড র‍্যালি এবং স্যার উইলিয়াম র‍্যামজে"
+    },
+    "discoveryYear": 1894,
+    "discoveryLocation": {
+      "en": "United Kingdom",
+      "bn": "যুক্তরাজ্য"
+    },
+    "discoveryStory": {
+      "en": "Rayleigh noticed atmospheric nitrogen was denser than chemically prepared nitrogen. With Ramsay, he isolated argon (Greek 'argos' = lazy/inactive) — the first noble gas discovered.",
+      "bn": "র‍্যালি লক্ষ্য করেন বায়ুমণ্ডলীয় নাইট্রোজেন রাসায়নিকভাবে প্রস্তুত নাইট্রোজেনের চেয়ে ঘন। র‍্যামজের সাথে তিনি আর্গন (গ্রিক 'আর্গোস' = অলস/নিষ্ক্রিয়) পৃথক করেন — প্রথম আবিষ্কৃত নিষ্ক্রিয় গ্যাস।"
+    },
+    "historicalUses": {
+      "en": "Early incandescent light bulb fills; first noble gas to prove the existence of a new periodic table group.",
+      "bn": "প্রাথমিক উদ্ভাসিত বাল্ব পূরণ; পর্যায় সারণিতে নতুন গ্রুপের অস্তিত্ব প্রমাণকারী প্রথম নিষ্ক্রিয় গ্যাস।"
+    },
+    "famousExperiments": {
+      "en": "Rayleigh-Ramsay density experiment comparing atmospheric vs synthesized nitrogen, leading to Nobel Prizes in 1904.",
+      "bn": "র‍্যালি-র‍্যামজে বায়ুমণ্ডলীয় বনাম সংশ্লেষিত নাইট্রোজেনের ঘনত্ব তুলনার পরীক্ষা, যা ১৯০৪ সালে নোবেল পুরস্কারে পরিণত হয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 18,
+    "neutrons": 22,
+    "electrons": 18,
+    "valenceElectrons": 8,
+    "shells": 3,
+    "shellDistribution": [
+      2,
+      8,
+      8
+    ],
+    "electronConfiguration": "[Ne] 3s² 3p⁶",
+    "orbitalConfiguration": {
+      "1s": 2,
+      "2s": 2,
+      "2p": 6,
+      "3s": 2,
+      "3p": 6
+    },
+    "oxidationStates": [
+      0
+    ],
+    "quantumNumbers": {
+      "principal": 3,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 0.001784,
+      "unit": "g/cm³"
+    },
+    "meltingPoint": {
+      "value": 83.81,
+      "unit": "K"
+    },
+    "boilingPoint": {
+      "value": 87.3,
+      "unit": "K"
+    },
+    "atomicRadius": {
+      "value": 71,
+      "unit": "pm"
+    },
+    "covalentRadius": {
+      "value": 106,
+      "unit": "pm"
+    },
+    "vanDerWaalsRadius": {
+      "value": 188,
+      "unit": "pm"
+    },
+    "thermalConductivity": {
+      "value": 0.01772,
+      "unit": "W/(m·K)"
+    },
+    "electricalConductivity": null,
+    "specificHeat": {
+      "value": 0.5203,
+      "unit": "J/(g·K)"
+    },
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic (solid)",
+      "bn": "ফেস-কেন্দ্রিক কিউবিক (কঠিন)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic",
+      "bn": "ডায়াম্যাগনেটিক"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": null,
+    "ionizationEnergy": {
+      "value": 1520.6,
+      "unit": "kJ/mol"
+    },
+    "electronAffinity": {
+      "value": -96,
+      "unit": "kJ/mol"
+    },
+    "reactivity": {
+      "en": "Essentially inert under normal conditions; only HArF (argon fluorohydride) confirmed at cryogenic temperatures.",
+      "bn": "সাধারণ অবস্থায় মূলত নিষ্ক্রিয়; শুধু HArF (আর্গন ফ্লুরোহাইড্রাইড) ক্রায়োজেনিক তাপমাত্রায় নিশ্চিত।"
+    },
+    "commonCompounds": [
+      "HArF"
+    ],
+    "flameTestColor": {
+      "en": "Lilac / violet (in plasma)",
+      "bn": "লাইলাক / বেগুনি (প্লাজমায়)"
+    },
+    "spectralLines": [
+      "696.5nm",
+      "706.7nm",
+      "738.4nm",
+      "763.5nm",
+      "811.5nm"
+    ]
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "Inert shielding gas in arc welding (TIG, MIG); inert atmosphere for growing silicon and germanium single crystals.",
+      "bn": "আর্ক ওয়েল্ডিংয়ে (TIG, MIG) নিষ্ক্রিয় ঢাল গ্যাস; সিলিকন ও জার্মেনিয়াম একক স্ফটিক বৃদ্ধির জন্য নিষ্ক্রিয় বায়ুমণ্ডল।"
+    },
+    "commercialUses": {
+      "en": "Inert fill in incandescent and fluorescent bulbs; insulating gas between double-glazed window panes.",
+      "bn": "উদ্ভাসিত ও ফ্লুরোসেন্ট বাল্বে নিষ্ক্রিয় পূরণ; ডাবল-গ্লেজড জানালার মধ্যে নিরোধক গ্যাস।"
+    },
+    "electronicsUses": {
+      "en": "Carrier gas in plasma displays and certain laser systems.",
+      "bn": "প্লাজমা ডিসপ্লে ও নির্দিষ্ট লেজার সিস্টেমে বাহক গ্যাস।"
+    },
+    "semiconductorUses": {
+      "en": "Sputter target carrier and inert ambient for high-purity wafer processing.",
+      "bn": "উচ্চ-বিশুদ্ধতা ওয়েফার প্রক্রিয়াকরণে স্পাটার টার্গেট বাহক ও নিষ্ক্রিয় বায়ুমণ্ডল।"
+    },
+    "aerospaceUses": {
+      "en": "Cryogenic Ar used in ground testing of rocket components; spacecraft attitude-control thrusters research.",
+      "bn": "রকেট উপাদানের গ্রাউন্ড পরীক্ষায় ক্রায়োজেনিক Ar; মহাকাশযান অ্যাটিটিউড-কন্ট্রোল থ্রাস্টার গবেষণা।"
+    },
+    "batteryUses": {
+      "en": "Inert atmosphere in lithium-metal battery assembly to prevent oxidation.",
+      "bn": "লিথিয়াম-ধাতু ব্যাটারি সংযোজনে জারণ প্রতিরোধে নিষ্ক্রিয় বায়ুমণ্ডল।"
+    },
+    "aiHardwareUses": {
+      "en": "Argon plasma etching/sputtering in fabrication of advanced AI accelerator chips.",
+      "bn": "উন্নত AI অ্যাক্সিলারেটর চিপ তৈরিতে আর্গন প্লাজমা এচিং/স্পাটারিং।"
+    },
+    "renewableEnergyUses": {
+      "en": "Inert ambient during Czochralski growth of monocrystalline silicon solar cells.",
+      "bn": "মনোক্রিস্টালাইন সিলিকন সৌর কোষের চকরালস্কি বৃদ্ধির সময় নিষ্ক্রিয় বায়ুমণ্ডল।"
+    },
+    "nanotechnologyUses": {
+      "en": "Ar ion beam milling for sub-nanometer precision in TEM sample preparation.",
+      "bn": "TEM নমুনা প্রস্তুতিতে সাব-ন্যানোমিটার নির্ভুলতার জন্য Ar আয়ন বিম মিলিং।"
+    },
+    "nuclearUses": {
+      "en": "Liquid argon used as detector medium in particle physics experiments (ICARUS, DUNE).",
+      "bn": "কণা পদার্থবিজ্ঞান পরীক্ষায় (ICARUS, DUNE) ডিটেক্টর মাধ্যম হিসেবে তরল আর্গন।"
+    },
+    "militaryUses": {
+      "en": "Cooling gas for infrared homing missile seekers (Joule-Thomson coolers).",
+      "bn": "ইনফ্রারেড হোমিং মিসাইল সিকারের শীতলকরণ গ্যাস (জুল-থমসন কুলার)।"
+    },
+    "medicalUses": {
+      "en": "Argon plasma coagulation (APC) used endoscopically to stop GI bleeding.",
+      "bn": "আর্গন প্লাজমা কোয়াগুলেশন (APC) এন্ডোস্কোপিকভাবে GI রক্তপাত বন্ধে ব্যবহৃত।"
+    },
+    "foodIndustryUses": {
+      "en": "Modified atmosphere packaging to displace oxygen and extend shelf life of wines and meats.",
+      "bn": "ওয়াইন ও মাংসের সংরক্ষণ মেয়াদ বাড়াতে অক্সিজেন সরিয়ে পরিবর্তিত বায়ুমণ্ডল প্যাকেজিং।"
+    },
+    "constructionUses": {
+      "en": "Filling gas in insulated glazing units (IGUs) for energy-efficient windows.",
+      "bn": "শক্তি-দক্ষ জানালার জন্য নিরোধক গ্লেজিং ইউনিটে (IGU) পূরণ গ্যাস।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "No known biological function; chemically inert in the body.",
+      "bn": "কোনো পরিচিত জৈবিক কার্য নেই; দেহে রাসায়নিকভাবে নিষ্ক্রিয়।"
+    },
+    "humanBodyRole": {
+      "en": "Trace amounts dissolved in blood at normal pressures; no metabolic role.",
+      "bn": "স্বাভাবিক চাপে রক্তে অল্প পরিমাণে দ্রবীভূত; কোনো বিপাকীয় ভূমিকা নেই।"
+    },
+    "toxicity": {
+      "en": "Non-toxic but acts as a simple asphyxiant by displacing oxygen.",
+      "bn": "অ-বিষাক্ত কিন্তু অক্সিজেন প্রতিস্থাপন করে শ্বাসরোধকারী হিসেবে কাজ করে।"
+    },
+    "environmentalImpact": {
+      "en": "Inert and harmless to atmosphere; ~0.93% of Earth's air by volume.",
+      "bn": "বায়ুমণ্ডলে নিষ্ক্রিয় ও ক্ষতিকর নয়; পৃথিবীর বায়ুর ~০.৯৩% আয়তন অনুযায়ী।"
+    },
+    "pollutionRisks": {
+      "en": "None directly; recovered as byproduct of air separation with minimal environmental footprint.",
+      "bn": "সরাসরি নেই; বায়ু পৃথকীকরণের উপজাত হিসেবে পুনরুদ্ধার, ন্যূনতম পরিবেশগত পদচিহ্ন।"
+    },
+    "recyclingMethods": {
+      "en": "Recovered and purified via pressure swing adsorption and cryogenic distillation from industrial air separation units.",
+      "bn": "শিল্প বায়ু পৃথকীকরণ ইউনিট থেকে চাপ সুইং শোষণ ও ক্রায়োজেনিক পাতনের মাধ্যমে পুনরুদ্ধার ও বিশুদ্ধকরণ।"
+    },
+    "sustainabilityScore": 9.0
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "China",
+        "bn": "চীন"
+      },
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      },
+      {
+        "en": "Ukraine",
+        "bn": "ইউক্রেন"
+      }
+    ],
+    "miningMethods": {
+      "en": "Fractional distillation of liquid air; argon boils between O₂ and N₂.",
+      "bn": "তরল বায়ুর আংশিক পাতন; আর্গন O₂ ও N₂ এর মধ্যবর্তী তাপমাত্রায় ফোটে।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "0.02% by mass",
+        "bn": "ভর অনুযায়ী ০.০২%"
+      },
+      "earthCrust": {
+        "en": "3.5 ppm",
+        "bn": "৩.৫ পিপিএম"
+      },
+      "oceans": {
+        "en": "0.45 ppm",
+        "bn": "০.৪৫ পিপিএম"
+      }
+    },
+    "marketValue": {
+      "en": "Bulk argon ~$0.50–$2.00 per cubic meter depending on purity grade.",
+      "bn": "বিশুদ্ধতা গ্রেড অনুযায়ী বাল্ক আর্গন ~$০.৫০–$২.০০ প্রতি ঘনমিটার।"
+    },
+    "futureDemand": {
+      "en": "Growing demand from semiconductor fabrication and dark matter / neutrino detection physics.",
+      "bn": "অর্ধপরিবাহী উৎপাদন ও ডার্ক ম্যাটার/নিউট্রিনো শনাক্তকরণ পদার্থবিজ্ঞান থেকে চাহিদা বাড়ছে।"
+    },
+    "globalImportance": {
+      "en": "Indispensable for advanced semiconductor lithography, welding, and frontier physics experiments.",
+      "bn": "উন্নত অর্ধপরিবাহী লিথোগ্রাফি, ওয়েল্ডিং ও সীমান্ত পদার্থবিজ্ঞান পরীক্ষার জন্য অপরিহার্য।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Simple asphyxiant; heavier than air, accumulates in low-lying confined spaces.",
+      "bn": "সাধারণ শ্বাসরোধক; বাতাসের চেয়ে ভারী, নিচু আবদ্ধ স্থানে জমা হয়।"
+    },
+    "storageRequirements": {
+      "en": "Store in pressurized cylinders or cryogenic dewars in well-ventilated areas.",
+      "bn": "চাপযুক্ত সিলিন্ডার বা ক্রায়োজেনিক ডিউয়ারে বায়ুচলাচলযুক্ত স্থানে সংরক্ষণ করুন।"
+    },
+    "handlingProcedures": {
+      "en": "Ensure oxygen monitors in enclosed work areas; use insulated gloves for liquid argon.",
+      "bn": "আবদ্ধ কর্মক্ষেত্রে অক্সিজেন মনিটর নিশ্চিত করুন; তরল আর্গনের জন্য নিরোধক গ্লাভস ব্যবহার করুন।"
+    },
+    "exposureRisks": {
+      "en": "High concentrations cause rapid asphyxiation without warning since argon is odorless and colorless.",
+      "bn": "আর্গন গন্ধহীন ও বর্ণহীন হওয়ায় উচ্চ ঘনত্ব সতর্কতা ছাড়াই দ্রুত শ্বাসরোধ ঘটায়।"
+    },
+    "safetyLevel": {
+      "en": "Low Risk (Asphyxiation hazard in confined spaces)",
+      "bn": "কম ঝুঁকি (আবদ্ধ স্থানে শ্বাসরোধ ঝুঁকি)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Compressed Gas",
+        "bn": "সংকুচিত গ্যাস"
+      },
+      {
+        "en": "Simple Asphyxiant",
+        "bn": "সাধারণ শ্বাসরোধক"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Argon is a noble gas that doesn't react with anything. It fills light bulbs and protects metals while welding.",
+      "bn": "আর্গন একটি নিষ্ক্রিয় গ্যাস যা কিছুর সাথেই বিক্রিয়া করে না। এটি বাল্ব পূরণ করে এবং ওয়েল্ডিংয়ের সময় ধাতু রক্ষা করে।"
+    },
+    "advancedExplanation": {
+      "en": "A closed-shell noble gas with a complete 3s²3p⁶ configuration giving it the highest stability and ionization energy among period-3 elements. Its inertness, density, and low cost make it the workhorse inert atmosphere of industry.",
+      "bn": "একটি বদ্ধ-শেল নিষ্ক্রিয় গ্যাস যার সম্পূর্ণ 3s²3p⁶ কনফিগারেশন এটিকে পিরিয়ড-৩ এর মৌলগুলির মধ্যে সর্বোচ্চ স্থিতিশীলতা ও আয়নীকরণ শক্তি দেয়। এর নিষ্ক্রিয়তা, ঘনত্ব ও কম খরচ এটিকে শিল্পের প্রধান নিষ্ক্রিয় বায়ুমণ্ডল করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Most argon on Earth is ⁴⁰Ar, produced by radioactive decay of ⁴⁰K in rocks — used for K-Ar geochronology.",
+        "bn": "পৃথিবীর বেশিরভাগ আর্গন হল ⁴⁰Ar, শিলায় ⁴⁰K এর তেজস্ক্রিয় ক্ষয়ে উৎপন্ন — K-Ar কালনির্ণয়ে ব্যবহৃত।"
+      },
+      {
+        "en": "HArF, the only confirmed neutral argon compound, was synthesized in 2000 at 17 K.",
+        "bn": "HArF, একমাত্র নিশ্চিত নিরপেক্ষ আর্গন যৌগ, ২০০০ সালে ১৭ K এ সংশ্লেষিত হয়েছিল।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 10,
+        "relation": {
+          "en": "Both argon and neon are noble gases, but argon is far cheaper and more abundant in Earth's atmosphere, making it the industrial choice for inert environments.",
+          "bn": "আর্গন ও নিয়ন উভয়ই নিষ্ক্রিয় গ্যাস, কিন্তু আর্গন অনেক সস্তা ও পৃথিবীর বায়ুমণ্ডলে বেশি প্রচুর, ফলে নিষ্ক্রিয় পরিবেশের শিল্প পছন্দ।"
+        }
+      }
+    ],
+    "relatedElements": [
+      10,
+      17,
+      19,
+      36
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What percentage of Earth's atmosphere is argon by volume?",
+          "bn": "আয়তন অনুযায়ী পৃথিবীর বায়ুমণ্ডলের কত শতাংশ আর্গন?"
+        },
+        "options": [
+          {
+            "en": "0.04%",
+            "bn": "০.০৪%"
+          },
+          {
+            "en": "0.93%",
+            "bn": "০.৯৩%"
+          },
+          {
+            "en": "5%",
+            "bn": "৫%"
+          },
+          {
+            "en": "21%",
+            "bn": "২১%"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Argon is the third most abundant atmospheric gas after N₂ (78%) and O₂ (21%), at ~0.93%.",
+          "bn": "আর্গন N₂ (৭৮%) ও O₂ (২১%) এর পর তৃতীয় সর্বাধিক বায়ুমণ্ডলীয় গ্যাস, ~০.৯৩%।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is argon chemically inert?",
+          "bn": "আর্গন রাসায়নিকভাবে কেন নিষ্ক্রিয়?"
+        },
+        "options": [
+          {
+            "en": "It has no electrons",
+            "bn": "এর কোন ইলেক্ট্রন নেই"
+          },
+          {
+            "en": "Complete 3s²3p⁶ valence shell",
+            "bn": "সম্পূর্ণ 3s²3p⁶ যোজ্যতা শেল"
+          },
+          {
+            "en": "It is radioactive",
+            "bn": "এটি তেজস্ক্রিয়"
+          },
+          {
+            "en": "Has lone pairs only",
+            "bn": "শুধু একাকী জোড় আছে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "A filled octet leaves no energetically accessible orbitals for bonding under normal conditions.",
+          "bn": "ভরাট অষ্টক সাধারণ অবস্থায় বন্ধনের জন্য শক্তিগতভাবে অভিগম্য কোনো অরবিটাল রাখে না।"
+        }
+      },
+      {
+        "question": {
+          "en": "How is argon industrially produced?",
+          "bn": "আর্গন শিল্পভাবে কীভাবে উৎপাদিত হয়?"
+        },
+        "options": [
+          {
+            "en": "Electrolysis of brine",
+            "bn": "ব্রাইন তড়িৎবিশ্লেষণ"
+          },
+          {
+            "en": "Cryogenic fractional distillation of liquefied air",
+            "bn": "তরলীকৃত বায়ুর ক্রায়োজেনিক আংশিক পাতন"
+          },
+          {
+            "en": "Decomposition of KArO₃",
+            "bn": "KArO₃ এর বিয়োজন"
+          },
+          {
+            "en": "Steam reforming",
+            "bn": "স্টিম রিফর্মিং"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Liquid air is fractionally distilled; argon condenses between N₂ (77K) and O₂ (90K) at 87.3K.",
+          "bn": "তরল বায়ু আংশিকভাবে পাতিত হয়; আর্গন N₂ (৭৭K) ও O₂ (৯০K) এর মধ্যে ৮৭.৩K এ ঘনীভূত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which dominant argon isotope on Earth comes from radiogenic decay?",
+          "bn": "পৃথিবীতে কোন প্রধান আর্গন আইসোটোপ রেডিওজেনিক ক্ষয় থেকে আসে?"
+        },
+        "options": [
+          {
+            "en": "³⁶Ar",
+            "bn": "³⁶Ar"
+          },
+          {
+            "en": "³⁸Ar",
+            "bn": "³⁸Ar"
+          },
+          {
+            "en": "⁴⁰Ar from ⁴⁰K",
+            "bn": "⁴⁰K থেকে ⁴⁰Ar"
+          },
+          {
+            "en": "⁴²Ar",
+            "bn": "⁴²Ar"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "⁴⁰K undergoes electron capture to form ⁴⁰Ar with a half-life of 1.25 Gyr, used in K-Ar dating.",
+          "bn": "⁴⁰K ইলেক্ট্রন ক্যাপচারে ⁴⁰Ar গঠন করে, অর্ধ-জীবন ১.২৫ গিগা-বছর, K-Ar কালনির্ণয়ে ব্যবহৃত।"
+        }
+      },
+      {
+        "question": {
+          "en": "In TIG welding, what role does argon play?",
+          "bn": "TIG ওয়েল্ডিংয়ে আর্গনের ভূমিকা কী?"
+        },
+        "options": [
+          {
+            "en": "Fuel gas",
+            "bn": "জ্বালানী গ্যাস"
+          },
+          {
+            "en": "Inert shielding to prevent weld oxidation",
+            "bn": "ওয়েল্ড জারণ প্রতিরোধে নিষ্ক্রিয় ঢাল"
+          },
+          {
+            "en": "Catalyst",
+            "bn": "অনুঘটক"
+          },
+          {
+            "en": "Slag former",
+            "bn": "স্ল্যাগ গঠনকারী"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Argon's inert blanket displaces O₂ and N₂ from the molten weld pool, preventing brittle oxides and nitrides.",
+          "bn": "আর্গনের নিষ্ক্রিয় আবরণ গলিত ওয়েল্ড পুল থেকে O₂ ও N₂ সরিয়ে ভঙ্গুর অক্সাইড ও নাইট্রাইড প্রতিরোধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the only well-characterized neutral argon compound?",
+          "bn": "একমাত্র সুনির্দিষ্ট নিরপেক্ষ আর্গন যৌগ কী?"
+        },
+        "options": [
+          {
+            "en": "ArF₂",
+            "bn": "ArF₂"
+          },
+          {
+            "en": "HArF",
+            "bn": "HArF"
+          },
+          {
+            "en": "Ar₂O",
+            "bn": "Ar₂O"
+          },
+          {
+            "en": "ArCl",
+            "bn": "ArCl"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "HArF (argon fluorohydride) was synthesized at 17 K in a frozen matrix in 2000 by Khriachtchev et al.",
+          "bn": "HArF (আর্গন ফ্লুরোহাইড্রাইড) ২০০০ সালে Khriachtchev এর দল ১৭K এ হিমায়িত ম্যাট্রিক্সে সংশ্লেষণ করেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is argon preferred over nitrogen for filling premium incandescent bulbs?",
+          "bn": "প্রিমিয়াম উদ্ভাসিত বাল্ব পূরণে নাইট্রোজেনের চেয়ে আর্গন কেন পছন্দ?"
+        },
+        "options": [
+          {
+            "en": "It is cheaper",
+            "bn": "এটি সস্তা"
+          },
+          {
+            "en": "Lower thermal conductivity reduces heat loss from filament",
+            "bn": "কম তাপ পরিবাহিতা ফিলামেন্ট থেকে তাপ ক্ষয় কমায়"
+          },
+          {
+            "en": "It glows brighter",
+            "bn": "এটি বেশি উজ্জ্বল জ্বলে"
+          },
+          {
+            "en": "Reacts with tungsten",
+            "bn": "টাংস্টেনের সাথে বিক্রিয়া করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Argon's thermal conductivity is ~30% lower than N₂, increasing filament temperature and luminous efficiency.",
+          "bn": "আর্গনের তাপ পরিবাহিতা N₂ এর চেয়ে ~৩০% কম, ফিলামেন্ট তাপমাত্রা ও আলো দক্ষতা বাড়ায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What color does ionized argon glow in a discharge tube?",
+          "bn": "ডিসচার্জ টিউবে আয়নিত আর্গন কী রঙ দেয়?"
+        },
+        "options": [
+          {
+            "en": "Orange-red",
+            "bn": "কমলা-লাল"
+          },
+          {
+            "en": "Lilac / violet",
+            "bn": "লাইলাক / বেগুনি"
+          },
+          {
+            "en": "Yellow",
+            "bn": "হলুদ"
+          },
+          {
+            "en": "Green",
+            "bn": "সবুজ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Excited Ar emits characteristic lilac/violet lines in the visible range plus strong IR emission.",
+          "bn": "উত্তেজিত Ar দৃশ্যমান রেঞ্জে চারিত্রিক লাইলাক/বেগুনি রেখা এবং শক্তিশালী IR নির্গমন দেয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "In particle physics, what makes liquid argon a great detector medium?",
+          "bn": "কণা পদার্থবিজ্ঞানে তরল আর্গনকে চমৎকার ডিটেক্টর মাধ্যম কী করে?"
+        },
+        "options": [
+          {
+            "en": "It is radioactive",
+            "bn": "এটি তেজস্ক্রিয়"
+          },
+          {
+            "en": "Dense, transparent to its own scintillation light, and chemically inert",
+            "bn": "ঘন, নিজস্ব সিনটিলেশন আলোর জন্য স্বচ্ছ ও রাসায়নিকভাবে নিষ্ক্রিয়"
+          },
+          {
+            "en": "Conducts electricity well",
+            "bn": "ভাল বিদ্যুৎ পরিবহন করে"
+          },
+          {
+            "en": "Easily ionized by neutrinos only",
+            "bn": "শুধু নিউট্রিনো দ্বারা সহজে আয়নিত"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Experiments like DUNE use LAr TPCs because Ar's high density and scintillation transparency allow precise tracking of charged particles.",
+          "bn": "DUNE এর মত পরীক্ষায় LAr TPC ব্যবহৃত হয় কারণ Ar এর উচ্চ ঘনত্ব ও সিনটিলেশন স্বচ্ছতা চার্জযুক্ত কণার নির্ভুল ট্র্যাকিং সম্ভব করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the IUPAC group number for argon?",
+          "bn": "আর্গনের IUPAC গ্রুপ নম্বর কত?"
+        },
+        "options": [
+          {
+            "en": "16",
+            "bn": "১৬"
+          },
+          {
+            "en": "17",
+            "bn": "১৭"
+          },
+          {
+            "en": "18",
+            "bn": "১৮"
+          },
+          {
+            "en": "0",
+            "bn": "০"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Argon is in Group 18, the noble gases (historically called Group 0 or Group VIIIA).",
+          "bn": "আর্গন গ্রুপ ১৮ এ, নিষ্ক্রিয় গ্যাস (ঐতিহাসিকভাবে গ্রুপ ০ বা গ্রুপ VIIIA নামে পরিচিত)।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does argon have a negative electron affinity (~ -96 kJ/mol)?",
+          "bn": "আর্গনের ইলেক্ট্রন আসক্তি কেন ঋণাত্মক (~ -96 kJ/mol)?"
+        },
+        "options": [
+          {
+            "en": "Closed shell repels additional electrons",
+            "bn": "বদ্ধ শেল অতিরিক্ত ইলেক্ট্রন বিকর্ষণ করে"
+          },
+          {
+            "en": "Strong nuclear pull",
+            "bn": "শক্তিশালী নিউক্লিয়ার আকর্ষণ"
+          },
+          {
+            "en": "Empty d orbitals",
+            "bn": "খালি d অরবিটাল"
+          },
+          {
+            "en": "Low effective nuclear charge",
+            "bn": "কম কার্যকর নিউক্লিয়ার চার্জ"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Adding an electron would force it into the higher-energy 4s orbital, which is energetically unfavorable.",
+          "bn": "ইলেক্ট্রন যোগ করলে তা উচ্চ-শক্তির 4s অরবিটালে যেতে বাধ্য হবে, যা শক্তিগতভাবে অনুকূল নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Argon's first ionization energy (1520 kJ/mol) is higher than chlorine's (1251 kJ/mol). Why?",
+          "bn": "আর্গনের প্রথম আয়নীকরণ শক্তি (১৫২০ kJ/mol) ক্লোরিনের (১২৫১ kJ/mol) চেয়ে বেশি। কেন?"
+        },
+        "options": [
+          {
+            "en": "Larger atomic radius",
+            "bn": "বড় পারমাণবিক ব্যাসার্ধ"
+          },
+          {
+            "en": "Filled 3p subshell adds extra stability and higher effective nuclear charge",
+            "bn": "ভরাট 3p উপশেল অতিরিক্ত স্থিতিশীলতা ও বেশি কার্যকর নিউক্লিয়ার চার্জ যোগ করে"
+          },
+          {
+            "en": "Lighter mass",
+            "bn": "হালকা ভর"
+          },
+          {
+            "en": "Has unpaired electron",
+            "bn": "অযুগ্ম ইলেক্ট্রন আছে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Across a period IE increases; a closed-shell noble configuration adds extra stability further raising IE.",
+          "bn": "একটি পর্যায় জুড়ে IE বাড়ে; বদ্ধ-শেল নিষ্ক্রিয় কনফিগারেশন অতিরিক্ত স্থিতিশীলতা যোগ করে IE আরও বাড়ায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which radiometric dating method uses argon?",
+          "bn": "কোন রেডিওমেট্রিক কালনির্ণয় পদ্ধতি আর্গন ব্যবহার করে?"
+        },
+        "options": [
+          {
+            "en": "Carbon-14",
+            "bn": "কার্বন-১৪"
+          },
+          {
+            "en": "K-Ar / ⁴⁰Ar-³⁹Ar",
+            "bn": "K-Ar / ⁴⁰Ar-³⁹Ar"
+          },
+          {
+            "en": "Rb-Sr",
+            "bn": "Rb-Sr"
+          },
+          {
+            "en": "U-Pb",
+            "bn": "U-Pb"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "K-Ar and the refined ⁴⁰Ar/³⁹Ar method date volcanic rocks via accumulated radiogenic ⁴⁰Ar.",
+          "bn": "K-Ar ও পরিমার্জিত ⁴⁰Ar/³⁹Ar পদ্ধতি সঞ্চিত রেডিওজেনিক ⁴⁰Ar দ্বারা আগ্নেয় শিলার বয়স নির্ণয় করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the boiling point of argon?",
+          "bn": "আর্গনের স্ফুটনাঙ্ক কত?"
+        },
+        "options": [
+          {
+            "en": "77 K",
+            "bn": "৭৭ K"
+          },
+          {
+            "en": "87.3 K",
+            "bn": "৮৭.৩ K"
+          },
+          {
+            "en": "90 K",
+            "bn": "৯০ K"
+          },
+          {
+            "en": "273 K",
+            "bn": "২৭৩ K"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Argon boils at 87.3 K (-185.85°C), conveniently between N₂ (77K) and O₂ (90K) for separation.",
+          "bn": "আর্গন ৮৭.৩ K (-১৮৫.৮৫°C) এ ফোটে, পৃথকীকরণের জন্য সুবিধাজনকভাবে N₂ (৭৭K) ও O₂ (৯০K) এর মধ্যে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is argon used inside double-pane insulated windows?",
+          "bn": "ডাবল-প্যান নিরোধক জানালার ভেতরে আর্গন কেন ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "To filter UV",
+            "bn": "UV ফিল্টার করতে"
+          },
+          {
+            "en": "Lower thermal conductivity than air, reducing heat transfer",
+            "bn": "বাতাসের চেয়ে কম তাপ পরিবাহিতা, তাপ স্থানান্তর কমায়"
+          },
+          {
+            "en": "To color the glass",
+            "bn": "কাচ রঙ করতে"
+          },
+          {
+            "en": "To prevent fog",
+            "bn": "কুয়াশা প্রতিরোধে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Argon's thermal conductivity is ~67% of air's, significantly improving the insulating R-value of IGUs.",
+          "bn": "আর্গনের তাপ পরিবাহিতা বাতাসের ~৬৭%, IGU এর R-মান উল্লেখযোগ্যভাবে উন্নত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "In medical practice, what is Argon Plasma Coagulation (APC) used for?",
+          "bn": "চিকিৎসা অনুশীলনে আর্গন প্লাজমা কোয়াগুলেশন (APC) কী জন্য ব্যবহৃত?"
+        },
+        "options": [
+          {
+            "en": "Imaging",
+            "bn": "ইমেজিং"
+          },
+          {
+            "en": "Non-contact electrocoagulation of bleeding tissue via ionized argon jet",
+            "bn": "আয়নিত আর্গন জেটের মাধ্যমে রক্তপাতকারী টিস্যুর অ-যোগাযোগ ইলেক্ট্রোকোয়াগুলেশন"
+          },
+          {
+            "en": "Anesthesia",
+            "bn": "অবেদন"
+          },
+          {
+            "en": "Sterilization",
+            "bn": "জীবাণুমুক্তকরণ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "APC delivers high-frequency current via ionized argon plasma to coagulate tissue without direct probe contact.",
+          "bn": "APC আয়নিত আর্গন প্লাজমার মাধ্যমে উচ্চ-কম্পাঙ্কের কারেন্ট দিয়ে সরাসরি স্পর্শ ছাড়াই টিস্যু কোয়াগুলেট করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What family of compounds is the most chemically reactive among noble gases — explaining why argon is less so?",
+          "bn": "নিষ্ক্রিয় গ্যাসগুলির মধ্যে কোন পরিবার সবচেয়ে বেশি প্রতিক্রিয়াশীল — ব্যাখ্যা করে কেন আর্গন কম?"
+        },
+        "options": [
+          {
+            "en": "Helium",
+            "bn": "হিলিয়াম"
+          },
+          {
+            "en": "Xenon (forms XeF₂, XeO₃, etc.)",
+            "bn": "জেনন (XeF₂, XeO₃ ইত্যাদি গঠন করে)"
+          },
+          {
+            "en": "Neon",
+            "bn": "নিয়ন"
+          },
+          {
+            "en": "Radon",
+            "bn": "র‍্যাডন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Xe has lower ionization energy due to larger size and electron shielding, enabling bonding with strong oxidizers; Ar is much harder to ionize.",
+          "bn": "Xe এর বড় আকার ও ইলেক্ট্রন শিল্ডিংয়ের কারণে কম আয়নীকরণ শক্তি, শক্তিশালী জারকের সাথে বন্ধন সম্ভব করে; Ar আয়নীকরণ অনেক কঠিন।"
+        }
+      },
+      {
+        "question": {
+          "en": "During synthesis of single-crystal silicon (Czochralski method), what is the function of argon?",
+          "bn": "একক-স্ফটিক সিলিকন সংশ্লেষণে (চকরালস্কি পদ্ধতি) আর্গনের কাজ কী?"
+        },
+        "options": [
+          {
+            "en": "Reactant",
+            "bn": "বিক্রিয়ক"
+          },
+          {
+            "en": "Inert atmosphere preventing contamination/oxidation of molten silicon",
+            "bn": "গলিত সিলিকনের দূষণ/জারণ প্রতিরোধে নিষ্ক্রিয় বায়ুমণ্ডল"
+          },
+          {
+            "en": "Catalyst",
+            "bn": "অনুঘটক"
+          },
+          {
+            "en": "Cooling agent",
+            "bn": "শীতলকারী এজেন্ট"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "High-purity Si crystals require Ar atmosphere to prevent oxygen and nitrogen incorporation into the growing crystal.",
+          "bn": "উচ্চ-বিশুদ্ধ Si স্ফটিকের বৃদ্ধিতে অক্সিজেন ও নাইট্রোজেন প্রবেশ রোধে Ar বায়ুমণ্ডল প্রয়োজন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Argon's name derives from Greek 'argos' meaning what?",
+          "bn": "আর্গনের নাম গ্রিক 'আর্গোস' থেকে এসেছে যার অর্থ কী?"
+        },
+        "options": [
+          {
+            "en": "Bright",
+            "bn": "উজ্জ্বল"
+          },
+          {
+            "en": "Lazy / inactive",
+            "bn": "অলস / নিষ্ক্রিয়"
+          },
+          {
+            "en": "New",
+            "bn": "নতুন"
+          },
+          {
+            "en": "Hidden",
+            "bn": "লুকানো"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Rayleigh and Ramsay named it 'argos' (lazy) because of its conspicuous lack of chemical reactivity.",
+          "bn": "র‍্যালি ও র‍্যামজে এর স্পষ্ট রাসায়নিক প্রতিক্রিয়াশীলতার অভাবের কারণে 'আর্গোস' (অলস) নাম দেন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is argon a better arc-welding shield than helium for thick stainless steel?",
+          "bn": "মোটা স্টেইনলেস স্টিলের জন্য হিলিয়ামের চেয়ে আর্গন কেন ভালো আর্ক-ওয়েল্ডিং ঢাল?"
+        },
+        "options": [
+          {
+            "en": "It is less dense",
+            "bn": "এটি কম ঘন"
+          },
+          {
+            "en": "Heavier than air, blankets the weld pool more effectively at lower flow rates",
+            "bn": "বাতাসের চেয়ে ভারী, কম প্রবাহ হারে ওয়েল্ড পুলকে ভালোভাবে আবৃত করে"
+          },
+          {
+            "en": "It conducts heat better",
+            "bn": "এটি ভাল তাপ পরিবহন করে"
+          },
+          {
+            "en": "It is cheaper than nitrogen",
+            "bn": "নাইট্রোজেনের চেয়ে সস্তা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Argon's density (1.78 g/L) is ~1.4× air, forming a stable protective blanket; He floats away and needs higher flow.",
+          "bn": "আর্গনের ঘনত্ব (১.৭৮ g/L) বাতাসের ~১.৪ গুণ, স্থিতিশীল সুরক্ষামূলক আবরণ গঠন করে; He ভেসে যায় ও বেশি প্রবাহ প্রয়োজন।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Noble gases are completely inert — actually heavier ones (Kr, Xe) form real compounds, and even Ar forms HArF at cryogenic temperatures.",
+        "bn": "নিষ্ক্রিয় গ্যাসগুলি সম্পূর্ণ নিষ্ক্রিয় — আসলে ভারীগুলি (Kr, Xe) প্রকৃত যৌগ গঠন করে, এমনকি Ar ক্রায়োজেনিক তাপমাত্রায় HArF গঠন করে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Argon = 'A' for Atmosphere — it's the third gas in our air, after nitrogen and oxygen.",
+        "bn": "আর্গন = 'A' মানে বায়ুমণ্ডল — এটি আমাদের বাতাসের তৃতীয় গ্যাস, নাইট্রোজেন ও অক্সিজেনের পর।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "HF + Ar → HArF (at 17 K)",
+        "description": {
+          "en": "Cryogenic matrix synthesis of the only neutral argon compound.",
+          "bn": "একমাত্র নিরপেক্ষ আর্গন যৌগের ক্রায়োজেনিক ম্যাট্রিক্স সংশ্লেষণ।"
+        }
+      }
+    ],
+    "oxidationExamples": [],
+    "reductionExamples": [],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Van der Waals (dispersion)",
+          "bn": "ভ্যান ডার ওয়াল্স (ডিসপারশন)"
+        },
+        "molecule": "Ar (liquid/solid)",
+        "description": {
+          "en": "Argon atoms condense via weak induced-dipole forces only — no covalent or ionic bonds.",
+          "bn": "আর্গন পরমাণু শুধু দুর্বল আবিষ্ট-দ্বিমেরু বল দ্বারা ঘনীভূত হয় — কোনো সমযোজী বা আয়নিক বন্ধন নেই।"
+        }
+      }
+    ]
+  }
+}

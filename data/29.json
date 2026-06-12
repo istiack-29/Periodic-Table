@@ -1,0 +1,1021 @@
+{
+"elementId": 29,
+"basicInformation": {
+"atomicNumber": 29,
+"symbol": "Cu",
+"name": {
+"en": "Copper",
+"bn": "তামা"
+},
+"pronunciation": {
+"en": "/ˈkɒpər/",
+"bn": "ক-পার"
+},
+"atomicMass": 63.546,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 11,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Red-orange metallic luster",
+"bn": "লালচে-কমলা ধাতব দীপ্তি"
+},
+"color": {
+"en": "Red-orange",
+"bn": "লালচে-কমলা"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Ancient Middle Eastern Civilizations",
+"bn": "প্রাচীন মধ্যপ্রাচ্যের সভ্যতা"
+},
+"discoveryYear": null,
+"discoveryLocation": {
+"en": "Middle East",
+"bn": "মধ্যপ্রাচ্য"
+},
+"discoveryStory": {
+"en": "Copper is one of the few metals that can occur in nature in a directly usable metallic form. It was the first metal to be smelted from its ore (c. 5000 BC), the first to be cast into a shape in a mold (c. 4000 BC), and the first to be purposefully alloyed with another metal, tin, to create bronze (c. 3500 BC).",
+"bn": "তামা এমন কয়েকটি ধাতুর মধ্যে একটি যা প্রকৃতিতে সরাসরি ব্যবহারযোগ্য ধাতব আকারে পাওয়া যায়। এটি আকরিক থেকে গলানো প্রথম ধাতু (আনুমানিক ৫০০০ খ্রিস্টপূর্বাব্দ), ছাঁচে ঢালাই করা প্রথম ধাতু (আনুমানিক ৪০০০ খ্রিস্টপূর্বাব্দ) এবং ব্রোঞ্জ তৈরি করতে টিনের সাথে মিশ্রিত করা প্রথম ধাতু (আনুমানিক ৩৫০০ খ্রিস্টপূর্বাব্দ)।"
+},
+"historicalUses": {
+"en": "Used extensively in antiquity to make weapons, tools, armor, and artwork. The Romans mined it mainly in Cyprus, originating the name 'aes cyprium', later corrupted to 'cuprum'.",
+"bn": "প্রাচীনকালে অস্ত্র, সরঞ্জাম, বর্ম এবং শিল্পকর্ম তৈরিতে ব্যাপকভাবে ব্যবহৃত হতো। রোমানরা মূলত সাইপ্রাসে এটি খনন করত, যেখান থেকে 'অ্যাস সাইপ্রিয়ম' (aes cyprium) নামটি এসেছে, যা পরে 'কুপ্রাম' (cuprum) এ পরিবর্তিত হয়।"
+},
+"famousExperiments": {
+"en": "Alessandro Volta used alternating discs of copper and zinc, separated by cloth soaked in saltwater, to invent the world's first electrical battery (the Voltaic pile) in 1800.",
+"bn": "আলেসান্দ্রো ভোল্টা ১৮০০ সালে বিশ্বের প্রথম বৈদ্যুতিক ব্যাটারি (ভোল্টাইক পাইল) আবিষ্কার করতে লবণ জলে ভেজানো কাপড় দ্বারা পৃথক করা তামা এবং দস্তার বিকল্প ডিস্ক ব্যবহার করেছিলেন।"
+}
+},
+"atomicStructure": {
+"protons": 29,
+"neutrons": 35,
+"electrons": 29,
+"valenceElectrons": 1,
+"shells": 4,
+"shellDistribution": [
+2,
+8,
+18,
+1
+],
+"electronConfiguration": "[Ar] 3d¹⁰ 4s¹",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 10,
+"4s": 1
+},
+"oxidationStates": [
+1,
+2,
+3,
+4
+],
+"quantumNumbers": {
+"principal": 4,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 8.96,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1357.77,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 2835,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 145,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 132,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 140,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 401.0,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 59600000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.385,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 3.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Face-centered cubic",
+"bn": "পৃষ্ঠকেন্দ্রিক ঘনক"
+},
+"magneticOrdering": {
+"en": "Diamagnetic",
+"bn": "ডায়াম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.90,
+"ionizationEnergy": {
+"value": 745.5,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 119.2,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Relatively unreactive. Does not react with water or dilute non-oxidizing acids. Slowly reacts with atmospheric oxygen to form a brown-black oxide, and forms a green verdigris (carbonate) in moist air.",
+"bn": "তুলনামূলকভাবে কম প্রতিক্রিয়াশীল। জল বা লঘু নন-অক্সিডাইজিং অ্যাসিডের সাথে বিক্রিয়া করে না। ধীরে ধীরে বায়ুমণ্ডলীয় অক্সিজেনের সাথে বিক্রিয়া করে বাদামী-কালো অক্সাইড তৈরি করে এবং আর্দ্র বাতাসে সবুজ ভার্ডিগ্রিস (কার্বনেট) তৈরি করে।"
+},
+"commonCompounds": [
+"CuO",
+"Cu₂O",
+"CuSO₄",
+"CuCl₂",
+"Cu(NO₃)₂"
+],
+"flameTestColor": {
+"en": "Blue-green",
+"bn": "নীলচে-সবুজ"
+},
+"spectralLines": [
+"324.75nm",
+"327.40nm",
+"510.55nm",
+"578.21nm"
+]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Electrical generation and transmission, industrial machinery, heat exchangers, and major alloys like brass and bronze.",
+"bn": "বিদ্যুৎ উৎপাদন এবং সঞ্চালন, শিল্প যন্ত্রপাতি, হিট এক্সচেঞ্জার এবং ব্রাস ও ব্রোঞ্জের মতো প্রধান সংকর ধাতু।"
+},
+"commercialUses": {
+"en": "Plumbing pipes, roofing, cookware, coins, and high-end architectural fixtures.",
+"bn": "প্লাম্বিং পাইপ, ছাদ, রান্নার পাত্র, মুদ্রা এবং উন্নতমানের স্থাপত্য ফিক্সচার।"
+},
+"electronicsUses": {
+"en": "Printed circuit boards, electromagnets, electric motors, and general electrical wiring.",
+"bn": "প্রিন্টেড সার্কিট বোর্ড, ইলেক্ট্রোম্যাগনেট, বৈদ্যুতিক মোটর এবং সাধারণ বৈদ্যুতিক তার।"
+},
+"semiconductorUses": {
+"en": "Microchip interconnects, replacing aluminum due to its superior electrical conductivity and resistance to electromigration.",
+"bn": "মাইক্রোচিপ ইন্টারকানেক্টস, উচ্চতর বৈদ্যুতিক পরিবাহিতা এবং ইলেক্ট্রোমাইগ্রেশনের প্রতিরোধের কারণে অ্যালুমিনিয়ামকে প্রতিস্থাপন করছে।"
+},
+"aerospaceUses": {
+"en": "Avionics wiring, thermal control systems, and cooling matrices in spacecraft.",
+"bn": "অ্যাভিওনিক্স ওয়্যারিং, তাপ নিয়ন্ত্রণ ব্যবস্থা এবং মহাকাশযানে কুলিং ম্যাট্রিক্স।"
+},
+"batteryUses": {
+"en": "Serves as the vital anode current collector in virtually all lithium-ion batteries.",
+"bn": "কার্যত সমস্ত লিথিয়াম-আয়ন ব্যাটারিতে অত্যাবশ্যক অ্যানোড কারেন্ট কালেক্টর হিসাবে কাজ করে।"
+},
+"aiHardwareUses": {
+"en": "Massive highly-conductive vapor chambers, micro-channel cold plates, and power delivery planes in ultra-high TDP AI accelerators and GPUs.",
+"bn": "আল্ট্রা-হাই টিডিপি এআই এক্সিলারেটর এবং জিপিইউগুলিতে বিশাল উচ্চ-পরিবাহী ভ্যাপোর চেম্বার, মাইক্রো-চ্যানেল কোল্ড প্লেট এবং পাওয়ার ডেলিভারি প্লেন।"
+},
+"renewableEnergyUses": {
+"en": "Wind turbine generators, solar panel wiring, and the stators/rotors of electric vehicle (EV) motors.",
+"bn": "উইন্ড টারবাইন জেনারেটর, সোলার প্যানেল ওয়্যারিং এবং বৈদ্যুতিক গাড়ির (EV) মোটরের স্টেটর/রোটর।"
+},
+"nanotechnologyUses": {
+"en": "Copper nanoparticles are used in conductive inks for printed electronics and advanced antimicrobial coatings.",
+"bn": "মুদ্রিত ইলেকট্রনিক্স এবং উন্নত অ্যান্টিমাইক্রোবিয়াল আবরণের জন্য পরিবাহী কালিতে তামার ন্যানো পার্টিকেল ব্যবহার করা হয়।"
+},
+"nuclearUses": {
+"en": "Used in the condenser tubes of cooling water systems in nuclear power plants due to corrosion resistance.",
+"bn": "ক্ষয় প্রতিরোধের কারণে পারমাণবিক বিদ্যুৎ কেন্দ্রগুলিতে কুলিং ওয়াটার সিস্টেমের কনডেনসার টিউবগুলিতে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Bullet jackets, brass ammunition casings, and anti-biofouling sheathing on the hulls of naval vessels.",
+"bn": "বুলেট জ্যাকেট, পিতলের গোলাবারুদের আবরণ এবং নৌবাহিনীর জাহাজের খোলে অ্যান্টি-বায়োফাউলিং শিথিং।"
+},
+"medicalUses": {
+"en": "Antimicrobial touch surfaces in hospitals (kills MRSA), copper-T intrauterine devices (IUDs) for contraception.",
+"bn": "হাসপাতালগুলোতে অ্যান্টিমাইক্রোবিয়াল সারফেস (MRSA ধ্বংস করে), গর্ভনিরোধের জন্য কপার-টি ইন্ট্রাইউটেরিন ডিভাইস (IUDs)।"
+},
+"foodIndustryUses": {
+"en": "Traditional brewing and distillation vats (whiskey/cognac), which help remove sulfur compounds.",
+"bn": "ঐতিহ্যবাহী মদ তৈরি এবং পাতন পাত্র (হুইস্কি/কগনাক), যা সালফার যৌগ অপসারণে সাহায্য করে।"
+},
+"constructionUses": {
+"en": "Water distribution lines, flashing, gutters, and weather-resistant architectural domes.",
+"bn": "জল বন্টন লাইন, ফ্ল্যাশিং, গটার এবং আবহাওয়া-প্রতিরোধী স্থাপত্য গম্বুজ।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Crucial trace dietary mineral. Serves as a cofactor for essential enzymes like cytochrome c oxidase (for cellular energy) and superoxide dismutase (antioxidant).",
+"bn": "অত্যন্ত গুরুত্বপূর্ণ ট্রেস ডায়েটারি খনিজ। সেলুলার শক্তির জন্য সাইটোক্রোম সি অক্সিডেস এবং অ্যান্টিঅক্সিডেন্ট হিসাবে সুপারঅক্সাইড ডিসম্যুটেজের মতো প্রয়োজনীয় এনজাইমের কোফ্যাক্টর হিসাবে কাজ করে।"
+},
+"humanBodyRole": {
+"en": "Helps form red blood cells, maintains healthy bones, blood vessels, nerves, and immune function, and contributes to iron absorption.",
+"bn": "লোহিত রক্তকণিকা গঠনে সাহায্য করে, সুস্থ হাড়, রক্তনালী, স্নায়ু এবং রোগ প্রতিরোধ ক্ষমতা বজায় রাখে এবং লোহা শোষণে অবদান রাখে।"
+},
+"toxicity": {
+"en": "Toxic in high concentrations. Genetic disorders like Wilson's disease prevent the body from excreting copper, causing toxic accumulation in the liver and brain.",
+"bn": "উচ্চ ঘনত্বের ক্ষেত্রে বিষাক্ত। উইলসনের রোগের মতো জিনগত ব্যাধি শরীরকে তামা নিঃসরণে বাধা দেয়, যার ফলে যকৃত এবং মস্তিষ্কে বিষাক্ত পদার্থ জমা হয়।"
+},
+"environmentalImpact": {
+"en": "Mining operations can produce acid mine drainage, severely impacting local water quality.",
+"bn": "খনন কার্যক্রমে অ্যাসিড মাইন ড্রেনেজ তৈরি হতে পারে, যা স্থানীয় জলের গুণমানকে মারাত্মকভাবে প্রভাবিত করে।"
+},
+"pollutionRisks": {
+"en": "High concentrations of soluble copper from industrial runoff are highly toxic to aquatic life, particularly invertebrates and amphibians.",
+"bn": "শিল্পের বর্জ্য থেকে নির্গত দ্রবণীয় তামার উচ্চ ঘনত্ব জলজ প্রাণীদের, বিশেষত অমেরুদণ্ডী প্রাণী এবং উভচরদের জন্য অত্যন্ত বিষাক্ত।"
+},
+"recyclingMethods": {
+"en": "One of the most extensively recycled metals worldwide; it can be remelted and electro-refined repeatedly without losing any of its performance properties.",
+"bn": "বিশ্বব্যাপী সবচেয়ে ব্যাপকভাবে পুনর্ব্যবহৃত ধাতুগুলোর একটি; এর কার্যক্ষমতার কোনো বৈশিষ্ট্য না হারিয়ে এটি বারবার গলানো এবং ইলেকট্রো-রিফাইন করা যায়।"
+},
+"sustainabilityScore": 8.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Chile",
+"bn": "চিলি"
+},
+{
+"en": "Peru",
+"bn": "পেরু"
+},
+{
+"en": "China",
+"bn": "চীন"
+}
+],
+"miningMethods": {
+"en": "Mainly open-pit mining of porphyry copper deposits. Extraction involves crushing, froth flotation, smelting, and electrolytic refining. Low-grade ores use heap leaching and solvent extraction.",
+"bn": "প্রধানত পোরফিরি কপার জমার ওপেন-পিট মাইনিং। নিষ্কাশনের মধ্যে ক্রাশিং, ফ্রথ ফ্লোটেশন, স্মেল্টিং এবং ইলেক্ট্রোলাইটিক পরিশোধন অন্তর্ভুক্ত। নিম্নমানের আকরিকগুলোতে হিপ লিচিং এবং সলভেন্ট এক্সট্রাকশন ব্যবহার করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.000006% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০৬%"
+},
+"earthCrust": {
+"en": "0.0068% by mass",
+"bn": "ভর অনুযায়ী ০.০০৬৮%"
+},
+"oceans": {
+"en": "0.000000025% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০০২৫%"
+}
+},
+"marketValue": {
+"en": "Historically volatile but high; ranges between $8,000 to $10,000+ per metric ton depending on global economic cycles.",
+"bn": "ঐতিহাসিকভাবে পরিবর্তনশীল তবে উচ্চ; বিশ্বব্যাপী অর্থনৈতিক চক্রের উপর নির্ভর করে মেট্রিক টন প্রতি $৮,০০০ থেকে $১০,০০০+ এর মধ্যে থাকে।"
+},
+"futureDemand": {
+"en": "Forecasted to face massive supply deficits due to its irreplaceable role in renewable energy generation, electric vehicle manufacturing, and power grid modernization.",
+"bn": "নবায়নযোগ্য শক্তি উৎপাদন, বৈদ্যুতিক যান তৈরি এবং পাওয়ার গ্রিড আধুনিকীকরণে এর অপরিহার্য ভূমিকার কারণে বিশাল সরবরাহের ঘাটতির সম্মুখীন হবে বলে পূর্বাভাস দেওয়া হয়েছে।"
+},
+"globalImportance": {
+"en": "Colloquially known as 'Dr. Copper' by economists because its market price is considered a reliable indicator of the overall health of the global economy.",
+"bn": "অর্থনীতিবিদরা একে সাধারণত 'ড. কপার' বলে ডাকেন কারণ এর বাজার মূল্য বিশ্ব অর্থনীতির সামগ্রিক স্বাস্থ্যের একটি নির্ভরযোগ্য সূচক হিসেবে বিবেচিত হয়।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Solid copper is safe. However, copper dust and fumes can cause severe irritation. Ingesting large amounts of copper salts causes gastrointestinal distress and organ damage.",
+"bn": "কঠিন তামা নিরাপদ। তবে, তামার ধূলিকণা এবং ধোঁয়া তীব্র জ্বালা সৃষ্টি করতে পারে। প্রচুর পরিমাণে তামার লবণ গ্রহণ করলে গ্যাস্ট্রোইনটেস্টাইনাল সমস্যা এবং অঙ্গের ক্ষতি হয়।"
+},
+"storageRequirements": {
+"en": "Store away from strong oxidizing agents, strong acids, and halogens to prevent hazardous reactions or corrosion.",
+"bn": "বিপজ্জনক প্রতিক্রিয়া বা ক্ষয় রোধ করতে শক্তিশালী জারক এজেন্ট, শক্তিশালী অ্যাসিড এবং হ্যালোজেন থেকে দূরে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Use proper local exhaust ventilation when welding, cutting, or grinding copper. Wash hands after handling soluble copper salts.",
+"bn": "তামা ঢালাই, কাটা বা গ্রাইন্ডিং করার সময় সঠিক বায়ুচলাচল ব্যবস্থা ব্যবহার করুন। দ্রবণীয় তামার লবণ স্পর্শ করার পরে হাত ধুয়ে নিন।"
+},
+"exposureRisks": {
+"en": "Inhalation of copper fumes during welding or smelting can lead to 'Metal Fume Fever', characterized by flu-like symptoms, fever, and chills.",
+"bn": "ঢালাই বা গলানোর সময় তামার ধোঁয়া শ্বাস নিলে 'মেটাল ফিউম ফিভার' হতে পারে, যার লক্ষণগুলো হলো ফ্লু-এর মতো উপসর্গ, জ্বর এবং ঠান্ডা লাগা।"
+},
+"safetyLevel": {
+"en": "Low (Solid) / Moderate (Dust/Fume/Salts)",
+"bn": "নিম্ন (কঠিন) / মাঝারি (ধূলিকণা/ধোঁয়া/লবণ)"
+},
+"hazardClassifications": [
+{
+"en": "Irritant (Respiratory/Eye)",
+"bn": "জ্বালাময়ী (শ্বাসতন্ত্র/চোখ)"
+},
+{
+"en": "Aquatic Toxicity (Acute)",
+"bn": "জলজ বিষাক্ততা (তীব্র)"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Copper is a reddish-orange metal that is excellent at carrying heat and electricity. It is used to make wires, pipes, pennies, and was one of the first metals humans ever used.",
+"bn": "তামা হলো একটি লালচে-কমলা ধাতু যা তাপ এবং বিদ্যুৎ পরিবহনে চমৎকার। এটি তার, পাইপ, পয়সা তৈরি করতে ব্যবহৃত হয় এবং মানুষের ব্যবহার করা প্রথম ধাতুগুলোর মধ্যে একটি।"
+},
+"advancedExplanation": {
+"en": "A Group 11 transition metal, copper has an anomalous electron configuration ([Ar] 3d10 4s1) where a 4s electron jumps to fully fill the 3d subshell, providing exceptional stability. This structure gives rise to its extraordinarily high thermal and electrical conductivity, surpassed only by silver.",
+"bn": "গ্রুপ ১১-এর একটি অবস্থান্তর ধাতু, তামার একটি ব্যতিক্রমী ইলেকট্রন কনফিগারেশন ([Ar] 3d10 4s1) রয়েছে যেখানে একটি 4s ইলেকট্রন লাফ দিয়ে 3d সাবশেল সম্পূর্ণরূপে পূর্ণ করে, যা ব্যতিক্রমী স্থিতিশীলতা প্রদান করে। এই কাঠামোটি এর অসাধারণভাবে উচ্চ তাপীয় এবং বৈদ্যুতিক পরিবাহিতার জন্ম দেয়, যা কেবল রূপার চেয়ে কম।"
+},
+"funFacts": [
+{
+"en": "The Statue of Liberty is made of 179,000 pounds of copper. It appears green because of a thin layer of oxidation (patina) that protects the metal underneath from further corrosion.",
+"bn": "স্ট্যাচু অব লিবার্টি ১৭৯,০০০ পাউন্ড তামা দিয়ে তৈরি। জারণের (প্যাটিনা) একটি পাতলা স্তরের কারণে এটিকে সবুজ দেখায় যা এর ভেতরের ধাতুকে আরও ক্ষয় থেকে রক্ষা করে।"
+},
+{
+"en": "Unlike humans who use iron-based hemoglobin, octopuses, squid, and horseshoe crabs use copper-based hemocyanin to carry oxygen, giving them blue blood.",
+"bn": "মানুষের লোহা-ভিত্তিক হিমোগ্লোবিন ব্যবহারের বিপরীতে অক্টোপাস, স্কুইড এবং হর্সশু কাঁকড়ারা অক্সিজেন বহন করার জন্য তামা-ভিত্তিক হিমোসায়ানিন ব্যবহার করে, যার কারণে তাদের রক্তের রঙ নীল হয়।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 47,
+"relation": {
+"en": "Silver is the only element that conducts electricity better than Copper. However, Copper is drastically cheaper, making it the global standard for wiring.",
+"bn": "রূপা হলো একমাত্র উপাদান যা তামার চেয়ে ভালোভাবে বিদ্যুৎ পরিবহন করে। তবে, তামা অনেক সস্তা, যা এটিকে ওয়্যারিংয়ের ক্ষেত্রে বিশ্বব্যাপী মানদণ্ডে পরিণত করেছে।"
+}
+}
+],
+"relatedElements": [
+47,
+79,
+30,
+28
+],
+"quizQuestions": [
+{
+"question": {
+"en": "Which of the following explains why Copper's electron configuration is [Ar] 3d¹⁰ 4s¹ instead of the expected [Ar] 3d⁹ 4s²?",
+"bn": "নিচের কোনটি ব্যাখ্যা করে যে কেন তামার ইলেকট্রন কনফিগারেশন প্রত্যাশিত [Ar] 3d⁹ 4s² এর পরিবর্তে [Ar] 3d¹⁰ 4s¹ হয়?"
+},
+"options": [
+{
+"en": "The 4s orbital is too small to hold two electrons.",
+"bn": "দুটি ইলেকট্রন ধরে রাখার জন্য 4s অরবিটাল খুব ছোট।"
+},
+{
+"en": "A completely filled d-subshell (3d10) is significantly more energetically stable.",
+"bn": "একটি সম্পূর্ণ পূর্ণ d-সাবশেল (3d10) শক্তির দিক থেকে উল্লেখযোগ্যভাবে বেশি স্থিতিশীল।"
+},
+{
+"en": "The element undergoes rapid radioactive decay without this arrangement.",
+"bn": "এই বিন্যাস ছাড়া উপাদানটি দ্রুত তেজস্ক্রিয় ক্ষয়ের শিকার হয়।"
+},
+{
+"en": "It has an abnormally high electronegativity.",
+"bn": "এর একটি অস্বাভাবিক উচ্চ তড়িৎ ঋণাত্মকতা রয়েছে।"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Moving one electron from the 4s orbital to the 3d orbital gives copper a completely filled 3d subshell, which creates a highly stable, low-energy state.",
+"bn": "4s অরবিটাল থেকে একটি ইলেকট্রন 3d অরবিটালে নিয়ে যাওয়ার ফলে তামা একটি সম্পূর্ণরূপে পূর্ণ 3d সাবশেল পায়, যা একটি অত্যন্ত স্থিতিশীল, কম-শক্তির অবস্থা তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "When copper is alloyed primarily with tin, what famous historic alloy is produced?",
+"bn": "যখন তামা প্রাথমিকভাবে টিনের সাথে মিশ্রিত করা হয়, তখন কোন বিখ্যাত ঐতিহাসিক সংকর ধাতু তৈরি হয়?"
+},
+"options": [
+{
+"en": "Brass",
+"bn": "পিতল (ব্রাস)"
+},
+{
+"en": "Steel",
+"bn": "ইস্পাত (স্টিল)"
+},
+{
+"en": "Bronze",
+"bn": "ব্রোঞ্জ"
+},
+{
+"en": "Pewter",
+"bn": "পিউটার"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Bronze is primarily an alloy of copper and tin. This invention was so revolutionary it defined an entire era of human history (The Bronze Age).",
+"bn": "ব্রোঞ্জ হলো মূলত তামা এবং টিনের একটি সংকর ধাতু। এই আবিষ্কারটি এতটাই বৈপ্লবিক ছিল যে এটি মানব ইতিহাসের একটি সম্পূর্ণ যুগকে (ব্রোঞ্জ যুগ) সংজ্ঞায়িত করেছিল।"
+}
+},
+{
+"question": {
+"en": "Brass, widely used for musical instruments and decorative plumbing, is an alloy of copper and which other element?",
+"bn": "ব্রাস (পিতল), যা বাদ্যযন্ত্র এবং আলংকারিক প্লাম্বিংয়ের জন্য ব্যাপকভাবে ব্যবহৃত হয়, তা তামা এবং অন্য কোন উপাদানের সংকর ধাতু?"
+},
+"options": [
+{
+"en": "Zinc",
+"bn": "দস্তা (জিঙ্ক)"
+},
+{
+"en": "Lead",
+"bn": "সীসা (লেড)"
+},
+{
+"en": "Nickel",
+"bn": "নিকেল"
+},
+{
+"en": "Iron",
+"bn": "লোহা (আয়রন)"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Brass is created by alloying copper with zinc, which improves its malleability and gives it a bright, gold-like appearance.",
+"bn": "তামার সাথে দস্তা মিশিয়ে পিতল তৈরি করা হয়, যা এর নমনীয়তা উন্নত করে এবং একে একটি উজ্জ্বল, সোনার মতো রূপ দেয়।"
+}
+},
+{
+"question": {
+"en": "What unique role does copper play in the biology of octopuses, squids, and some arthropods?",
+"bn": "অক্টোপাস, স্কুইড এবং কিছু আর্থ্রোপডের জীববিজ্ঞানে তামা কোন অনন্য ভূমিকা পালন করে?"
+},
+"options": [
+{
+"en": "It makes their bones unbreakable.",
+"bn": "এটি তাদের হাড়কে অবিচ্ছেদ্য করে তোলে।"
+},
+{
+"en": "It is the central atom in hemocyanin, a protein that transports oxygen in their blood.",
+"bn": "এটি হিমোসায়ানিনের কেন্দ্রীয় পরমাণু, একটি প্রোটিন যা তাদের রক্তে অক্সিজেন পরিবহন করে।"
+},
+{
+"en": "It acts as a bioluminescent compound.",
+"bn": "এটি একটি বায়োলুমিনেসেন্ট যৌগ হিসেবে কাজ করে।"
+},
+{
+"en": "It renders them immune to all marine toxins.",
+"bn": "এটি তাদের সমস্ত সামুদ্রিক বিষের প্রতি প্রতিরোধী করে তোলে।"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Unlike our iron-based hemoglobin, these creatures use copper-based hemocyanin to bind and transport oxygen, making their blood appear blue.",
+"bn": "আমাদের লোহা-ভিত্তিক হিমোগ্লোবিনের বিপরীতে, এই প্রাণীগুলো অক্সিজেন বাঁধতে এবং পরিবহন করতে তামা-ভিত্তিক হিমোসায়ানিন ব্যবহার করে, যার ফলে তাদের রক্ত নীল দেখায়।"
+}
+},
+{
+"question": {
+"en": "The Statue of Liberty is made of pure copper. Why does it appear green today?",
+"bn": "স্ট্যাচু অব লিবার্টি খাঁটি তামা দিয়ে তৈরি। আজ একে সবুজ দেখায় কেন?"
+},
+"options": [
+{
+"en": "It was painted green in 1920 to protect it from the ocean air.",
+"bn": "সমুদ্রের বাতাস থেকে রক্ষা করার জন্য ১৯২০ সালে একে সবুজ রঙ করা হয়েছিল।"
+},
+{
+"en": "Algae growth from the high humidity in New York harbor.",
+"bn": "নিউ ইয়র্ক হারবারে উচ্চ আর্দ্রতা থেকে শেত্তলাগুলির বৃদ্ধি।"
+},
+{
+"en": "The formation of a protective patina, primarily consisting of copper carbonates and sulfates.",
+"bn": "একটি প্রতিরক্ষামূলক প্যাটিনা তৈরি হওয়া, যা মূলত কপার কার্বনেট এবং সালফেটের সমন্বয়ে গঠিত।"
+},
+{
+"en": "The copper evaporated, leaving a green iron skeleton.",
+"bn": "তামা বাষ্পীভূত হয়ে একটি সবুজ লোহার কঙ্কাল ফেলে গেছে।"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copper reacts with oxygen, water, and carbon dioxide in the air to slowly form a thin, green layer called a patina or verdigris.",
+"bn": "বাতাসের অক্সিজেন, জল এবং কার্বন ডাই অক্সাইডের সাথে বিক্রিয়া করে তামা ধীরে ধীরে প্যাটিনা বা ভার্ডিগ্রিস নামক একটি পাতলা, সবুজ স্তর তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Which rare genetic disorder causes toxic levels of copper to accumulate in the liver, brain, and other vital organs?",
+"bn": "কোন বিরল জিনগত ব্যাধির কারণে যকৃত, মস্তিষ্ক এবং অন্যান্য অত্যাবশ্যক অঙ্গে বিষাক্ত মাত্রার তামা জমা হয়?"
+},
+"options": [
+{
+"en": "Hemochromatosis",
+"bn": "হিমোক্রোমাটোসিস"
+},
+{
+"en": "Cystic Fibrosis",
+"bn": "সিস্টিক ফাইব্রোসিস"
+},
+{
+"en": "Wilson's Disease",
+"bn": "উইলসনের রোগ (Wilson's Disease)"
+},
+{
+"en": "Parkinson's Disease",
+"bn": "পারকিনসন রোগ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Wilson's disease is an inherited disorder that prevents the body from properly processing and excreting copper, leading to life-threatening toxicity.",
+"bn": "উইলসনের রোগ হলো একটি বংশগত ব্যাধি যা শরীরকে সঠিকভাবে তামা প্রক্রিয়া করতে এবং নির্গত করতে বাধা দেয়, যার ফলে জীবনঘাতী বিষাক্ততা দেখা দেয়।"
+}
+},
+{
+"question": {
+"en": "Why has the semiconductor industry largely replaced aluminum with copper for the interconnects within microchips?",
+"bn": "কেন সেমিকন্ডাক্টর শিল্প মাইক্রোচিপের অভ্যন্তরে ইন্টারকানেক্টের জন্য অ্যালুমিনিয়ামের পরিবর্তে মূলত তামা ব্যবহার করছে?"
+},
+"options": [
+{
+"en": "Copper is completely transparent to silicon.",
+"bn": "সিলিকনের কাছে তামা সম্পূর্ণ স্বচ্ছ।"
+},
+{
+"en": "Copper has superior electrical conductivity and higher resistance to electromigration.",
+"bn": "তামার উচ্চতর বৈদ্যুতিক পরিবাহিতা এবং ইলেক্ট্রোমাইগ্রেশনের উচ্চ প্রতিরোধ ক্ষমতা রয়েছে।"
+},
+{
+"en": "Copper is much cheaper than aluminum.",
+"bn": "অ্যালুমিনিয়ামের চেয়ে তামা অনেক সস্তা।"
+},
+{
+"en": "Copper acts as a natural insulator at microscopic scales.",
+"bn": "মাইক্রোস্কোপিক স্কেলে তামা প্রাকৃতিক নিরোধক হিসাবে কাজ করে।"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Copper allows for faster electrical signals and can carry higher current densities without degrading (electromigration), permitting smaller and faster computer chips.",
+"bn": "তামা দ্রুত বৈদ্যুতিক সংকেত চলাচলের অনুমতি দেয় এবং ক্ষয়প্রাপ্ত (ইলেক্ট্রোমাইগ্রেশন) না হয়ে উচ্চ ঘনত্বের কারেন্ট বহন করতে পারে, যা ছোট এবং দ্রুত কম্পিউটার চিপ তৈরির সুযোগ দেয়।"
+}
+},
+{
+"question": {
+"en": "In modern lithium-ion batteries, thin copper foil is strictly utilized for what specific component?",
+"bn": "আধুনিক লিথিয়াম-আয়ন ব্যাটারিতে, পাতলা তামার ফয়েল কঠোরভাবে কোন নির্দিষ্ট উপাদানের জন্য ব্যবহৃত হয়?"
+},
+"options": [
+{
+"en": "The cathode current collector",
+"bn": "ক্যাথোড কারেন্ট কালেক্টর"
+},
+{
+"en": "The liquid electrolyte",
+"bn": "তরল ইলেক্ট্রোলাইট"
+},
+{
+"en": "The anode current collector",
+"bn": "অ্যানোড কারেন্ট কালেক্টর"
+},
+{
+"en": "The porous separator membrane",
+"bn": "ছিদ্রযুক্ত বিভাজক ঝিল্লি (সেপারেটর মেমব্রেন)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copper is used as the current collector on the anode side (usually coated with graphite) because it is highly conductive and electrochemically stable at low potentials.",
+"bn": "তামাকে অ্যানোডের দিকে (সাধারণত গ্রাফাইট প্রলেপযুক্ত) কারেন্ট সংগ্রাহক হিসাবে ব্যবহার করা হয় কারণ এটি অত্যন্ত পরিবাহী এবং নিম্ন বিভবে ইলেক্ট্রোকেমিক্যালভাবে স্থিতিশীল।"
+}
+},
+{
+"question": {
+"en": "What is the most abundant and economically significant ore mineral from which copper is mined globally?",
+"bn": "বিশ্বব্যাপী তামা খনন করা হয় এমন সবচেয়ে প্রচুর এবং অর্থনৈতিকভাবে গুরুত্বপূর্ণ আকরিক খনিজ কোনটি?"
+},
+"options": [
+{
+"en": "Bauxite",
+"bn": "বক্সাইট"
+},
+{
+"en": "Hematite",
+"bn": "হেমাটাইট"
+},
+{
+"en": "Chalcopyrite",
+"bn": "চ্যালকোপাইরাইট"
+},
+{
+"en": "Sphalerite",
+"bn": "স্ফ্যালেরাইট"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Chalcopyrite (CuFeS2) is a copper iron sulfide mineral and is the most important ore of copper, accounting for roughly 70% of the world's copper production.",
+"bn": "চ্যালকোপাইরাইট (CuFeS2) হলো একটি কপার আয়রন সালফাইড খনিজ এবং এটি তামার সবচেয়ে গুরুত্বপূর্ণ আকরিক, যা বিশ্বের প্রায় ৭০% তামা উৎপাদনের জন্য দায়ী।"
+}
+},
+{
+"question": {
+"en": "Unlike metals like zinc or iron, pure copper will NOT react with dilute hydrochloric acid (HCl) to produce hydrogen gas. Why?",
+"bn": "দস্তা বা লোহার মতো ধাতুর বিপরীতে, বিশুদ্ধ তামা হাইড্রোজেন গ্যাস তৈরি করতে লঘু হাইড্রোক্লোরিক অ্যাসিডের (HCl) সাথে বিক্রিয়া করবে না। কেন?"
+},
+"options": [
+{
+"en": "Copper is a noble gas.",
+"bn": "তামা একটি নোবেল গ্যাস।"
+},
+{
+"en": "Copper has a positive standard reduction potential, making it less reactive than hydrogen.",
+"bn": "তামার একটি ধনাত্মক স্ট্যান্ডার্ড রিডাকশন পটেনশিয়াল রয়েছে, যা একে হাইড্রোজেনের চেয়ে কম প্রতিক্রিয়াশীল করে তোলে।"
+},
+{
+"en": "Copper instantly forms an impenetrable chloride shell.",
+"bn": "তামা সাথে সাথে একটি অভেদ্য ক্লোরাইড শেল তৈরি করে।"
+},
+{
+"en": "Hydrochloric acid is not a real acid.",
+"bn": "হাইড্রোক্লোরিক অ্যাসিড একটি আসল অ্যাসিড নয়।"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Copper is below hydrogen in the reactivity series. Therefore, it cannot displace hydrogen ions from dilute non-oxidizing acids.",
+"bn": "সক্রিয়তা সিরিজে তামা হাইড্রোজেনের নিচে অবস্থান করে। অতএব, এটি লঘু নন-অক্সিডাইজিং অ্যাসিড থেকে হাইড্রোজেন আয়নকে প্রতিস্থাপন করতে পারে না।"
+}
+},
+{
+"question": {
+"en": "When copper compounds are introduced into a flame, what distinct color does the flame turn?",
+"bn": "যখন তামার যৌগগুলি আগুনে নিক্ষেপ করা হয়, তখন শিখাটি কোন স্বতন্ত্র রঙে পরিণত হয়?"
+},
+"options": [
+{
+"en": "Crimson red",
+"bn": "ক্রিমসন লাল"
+},
+{
+"en": "Bright yellow",
+"bn": "উজ্জ্বল হলুদ"
+},
+{
+"en": "Blue-green",
+"bn": "নীলচে-সবুজ"
+},
+{
+"en": "Pure white",
+"bn": "বিশুদ্ধ সাদা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copper atoms get excited by the heat and release energy as photons in the blue and green wavelengths of the visible light spectrum.",
+"bn": "তামার পরমাণুগুলো তাপে উত্তেজিত হয় এবং দৃশ্যমান আলোর বর্ণালীর নীল এবং সবুজ তরঙ্গদৈর্ঘ্যে ফোটন হিসাবে শক্তি নির্গত করে।"
+}
+},
+{
+"question": {
+"en": "Among all the elements in the periodic table, copper holds what rank in terms of electrical conductivity at standard room temperature?",
+"bn": "পর্যায় সারণীর সমস্ত উপাদানের মধ্যে, আদর্শ কক্ষ তাপমাত্রায় বৈদ্যুতিক পরিবাহিতার দিক থেকে তামার স্থান কত?"
+},
+"options": [
+{
+"en": "First",
+"bn": "প্রথম"
+},
+{
+"en": "Second",
+"bn": "দ্বিতীয়"
+},
+{
+"en": "Fifth",
+"bn": "পঞ্চম"
+},
+{
+"en": "Tenth",
+"bn": "দশম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Copper is second only to silver (Ag) in electrical conductivity. Because silver is much more expensive, copper is the practical choice for wiring.",
+"bn": "বৈদ্যুতিক পরিবাহিতার ক্ষেত্রে তামা রূপার (Ag) পরেই দ্বিতীয় স্থানে রয়েছে। যেহেতু রূপার দাম অনেক বেশি, তাই তারের জন্য তামা হলো ব্যবহারিক পছন্দ।"
+}
+},
+{
+"question": {
+"en": "When solid copper(II) sulfate (CuSO4) is dissolved in water, the hydrated Cu2+ ions give the solution a very strong, distinct color. What color is it?",
+"bn": "কঠিন কপার(II) সালফেট (CuSO4) জলে দ্রবীভূত হলে, হাইড্রেটেড Cu2+ আয়ন দ্রবণটিকে একটি খুব শক্তিশালী, স্বতন্ত্র রঙ দেয়। এটার রঙ কি?"
+},
+"options": [
+{
+"en": "Vibrant Blue",
+"bn": "উজ্জ্বল নীল"
+},
+{
+"en": "Deep Red",
+"bn": "গাড় লাল"
+},
+{
+"en": "Yellow",
+"bn": "হলুদ"
+},
+{
+"en": "Colorless",
+"bn": "বর্ণহীন"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "The hexaaquacopper(II) complex ion [Cu(H2O)6]2+ absorbs light in the red/orange region, making the transmitted light appear a vibrant, striking blue.",
+"bn": "হেক্সাকোয়াকপার(II) কমপ্লেক্স আয়ন [Cu(H2O)6]2+ লাল/কমলা অঞ্চলে আলো শোষণ করে, যার ফলে প্রেরিত আলো একটি উজ্জ্বল, আকর্ষণীয় নীল রঙের দেখায়।"
+}
+},
+{
+"question": {
+"en": "Why do many modern hospitals install unvarnished copper alloys on high-touch surfaces like doorknobs and bed rails?",
+"bn": "কেন অনেক আধুনিক হাসপাতাল ডোরনবের মতো বেশি স্পর্শ করা পৃষ্ঠতলগুলোতে আনভার্নিশড তামার সংকর ধাতু ব্যবহার করে?"
+},
+"options": [
+{
+"en": "It does not build up static electricity.",
+"bn": "এটি স্ট্যাটিক ইলেকট্রিসিটি তৈরি করে না।"
+},
+{
+"en": "It is entirely scratch-proof.",
+"bn": "এটি সম্পূর্ণ স্ক্র্যাচ-প্রুফ।"
+},
+{
+"en": "Copper exhibits the oligodynamic effect, inherently destroying bacteria and viruses on contact.",
+"bn": "তামা অলিগোডাইনামিক প্রভাব প্রদর্শন করে, যা সংস্পর্শে আসা ব্যাকটেরিয়া এবং ভাইরাসকে জন্মগতভাবেই ধ্বংস করে।"
+},
+{
+"en": "It prevents the building's magnetic field from interfering with MRI machines.",
+"bn": "এটি ভবনের চৌম্বকীয় ক্ষেত্রকে এমআরআই মেশিনে হস্তক্ষেপ করতে বাধা দেয়।"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copper ions punch holes in bacterial cell membranes and destroy viral RNA/DNA, rapidly killing superbags like MRSA on contact.",
+"bn": "তামার আয়নগুলো ব্যাকটেরিয়ার কোষের ঝিল্লিতে ছিদ্র তৈরি করে এবং ভাইরাসের আরএনএ/ডিএনএ ধ্বংস করে, যার ফলে এমআরএসএ (MRSA)-এর মতো সুপারবাগগুলো সংস্পর্শে আসামাত্রই দ্রুত মারা যায়।"
+}
+},
+{
+"question": {
+"en": "In 1800, Alessandro Volta created the first device capable of producing a steady electrical current (the Voltaic pile). He alternated discs of zinc with discs of what other metal?",
+"bn": "১৮০০ সালে, আলেসান্দ্রো ভোল্টা প্রথম স্থিতিশীল বৈদ্যুতিক প্রবাহ তৈরি করতে সক্ষম ডিভাইস তৈরি করেন (ভোল্টাইক পাইল)। তিনি দস্তার ডিস্কের সাথে আর কোন ধাতুর ডিস্ক বিকল্প হিসেবে ব্যবহার করেছিলেন?"
+},
+"options": [
+{
+"en": "Iron",
+"bn": "লোহা"
+},
+{
+"en": "Silver",
+"bn": "রূপা"
+},
+{
+"en": "Copper",
+"bn": "তামা"
+},
+{
+"en": "Gold",
+"bn": "সোনা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Volta built his battery by piling alternating layers of zinc and copper, separated by cloth soaked in saltwater (an electrolyte).",
+"bn": "ভোল্টা দস্তা এবং তামার পর্যায়ক্রমিক স্তর সাজিয়ে এবং সেগুলোকে লবণ জলে ভেজানো কাপড় (একটি ইলেক্ট্রোলাইট) দিয়ে পৃথক করে তার ব্যাটারি তৈরি করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "At the microscopic level, copper atoms pack together tightly in what specific crystal lattice structure, which gives the metal its excellent ductility?",
+"bn": "মাইক্রোস্কোপিক স্তরে, তামার পরমাণুগুলো কোন নির্দিষ্ট স্ফটিক জালি কাঠামোতে শক্তভাবে প্যাক করা থাকে, যা ধাতুটিকে তার চমৎকার নমনীয়তা প্রদান করে?"
+},
+"options": [
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টার্ড কিউবিক (BCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+},
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টার্ড কিউবিক (FCC) / পৃষ্ঠকেন্দ্রিক ঘনক"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The face-centered cubic structure allows layers of atoms to slide past each other easily without breaking bonds, making copper highly ductile (easy to pull into wires).",
+"bn": "পৃষ্ঠকেন্দ্রিক ঘনক কাঠামো পরমাণুর স্তরগুলোকে বন্ধন না ভেঙেই একে অপরের পাশ দিয়ে সহজে স্লাইড করতে সাহায্য করে, যা তামাকে অত্যন্ত নমনীয় করে তোলে (সহজেই তারে টানা যায়)।"
+}
+},
+{
+"question": {
+"en": "To achieve the 99.99% purity required for modern electrical wiring, blister copper (which is ~99% pure) must undergo a final purification step. What is this step?",
+"bn": "আধুনিক বৈদ্যুতিক ওয়্যারিংয়ের জন্য প্রয়োজনীয় ৯৯.৯৯% বিশুদ্ধতা অর্জনের জন্য, ব্লিস্টার তামাকে (যা প্রায় ৯৯% বিশুদ্ধ) একটি চূড়ান্ত পরিশোধন ধাপের মধ্য দিয়ে যেতে হয়। এই ধাপটি কী?"
+},
+"options": [
+{
+"en": "Electrolytic refining",
+"bn": "ইলেক্ট্রোলাইটিক পরিশোধন"
+},
+{
+"en": "Fractional distillation",
+"bn": "আংশিক পাতন"
+},
+{
+"en": "Zone melting",
+"bn": "জোন মেল্টিং"
+},
+{
+"en": "Reverse osmosis",
+"bn": "বিপরীত আস্রবণ"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "In electrolytic refining, impure copper acts as the anode, and pure copper plates out on the cathode in a sulfuric acid bath, leaving impurities behind as 'anode slime'.",
+"bn": "ইলেক্ট্রোলাইটিক পরিশোধনে, অশুদ্ধ তামা অ্যানোড হিসাবে কাজ করে এবং বিশুদ্ধ তামা সালফিউরিক অ্যাসিড স্নানে ক্যাথোডের গায়ে লেগে যায়, যার ফলে অশুদ্ধিগুলো 'অ্যানোড স্লাইম' হিসাবে পড়ে থাকে।"
+}
+},
+{
+"question": {
+"en": "Financial analysts and investors often refer to this element as 'Doctor ___' because its global demand accurately diagnoses the health of the worldwide manufacturing economy.",
+"bn": "আর্থিক বিশ্লেষক এবং বিনিয়োগকারীরা প্রায়শই এই উপাদানটিকে 'ডাক্তার ___' হিসাবে উল্লেখ করেন কারণ এর বৈশ্বিক চাহিদা বিশ্বব্যাপী উৎপাদন অর্থনীতির স্বাস্থ্য সঠিকভাবে নির্ণয় করে।"
+},
+"options": [
+{
+"en": "Doctor Iron",
+"bn": "ডাক্তার লোহা"
+},
+{
+"en": "Doctor Silicon",
+"bn": "ডাক্তার সিলিকন"
+},
+{
+"en": "Doctor Copper",
+"bn": "ডাক্তার কপার"
+},
+{
+"en": "Doctor Gold",
+"bn": "ডাক্তার সোনা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because copper is used in nearly every sector of an industrialized economy (construction, tech, vehicles), a drop in its price often signals an impending economic recession.",
+"bn": "যেহেতু তামা একটি শিল্পোন্নত অর্থনীতির প্রায় প্রতিটি ক্ষেত্রেই (নির্মাণ, প্রযুক্তি, যানবাহন) ব্যবহৃত হয়, তাই এর দাম কমে গেলে তা প্রায়শই আসন্ন অর্থনৈতিক মন্দার ইঙ্গিত দেয়।"
+}
+},
+{
+"question": {
+"en": "In old chemical nomenclature, what does the term 'cuprous' signify compared to 'cupric'?",
+"bn": "পুরানো রাসায়নিক নামকরণে, 'কিউপ্রিক'-এর তুলনায় 'কিউপ্রাস' শব্দটি কী নির্দেশ করে?"
+},
+"options": [
+{
+"en": "Cuprous means it is an alloy; cupric means pure metal.",
+"bn": "কিউপ্রাস মানে এটি একটি সংকর ধাতু; কিউপ্রিক মানে খাঁটি ধাতু।"
+},
+{
+"en": "Cuprous refers to Copper(I) with a +1 oxidation state; cupric is Copper(II) with a +2 state.",
+"bn": "কিউপ্রাস বলতে +১ জারণ অবস্থাযুক্ত কপার(I)-কে বোঝায়; কিউপ্রিক হলো +২ অবস্থাযুক্ত কপার(II)।"
+},
+{
+"en": "Cuprous is liquid copper; cupric is solid.",
+"bn": "কিউপ্রাস হলো তরল তামা; কিউপ্রিক হলো কঠিন।"
+},
+{
+"en": "Cuprous is radioactive; cupric is stable.",
+"bn": "কিউপ্রাস তেজস্ক্রিয়; কিউপ্রিক স্থিতিশীল।"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The '-ous' suffix indicates the lower oxidation state (+1), while the '-ic' suffix indicates the higher oxidation state (+2).",
+"bn": "'-আস' (-ous) প্রত্যয়টি নিম্ন জারণ অবস্থা (+১) নির্দেশ করে, অন্যদিকে '-ইক' (-ic) প্রত্যয়টি উচ্চ জারণ অবস্থা (+২) নির্দেশ করে।"
+}
+},
+{
+"question": {
+"en": "While pure copper does not react with dilute non-oxidizing acids, it reacts violently with concentrated nitric acid (HNO3). What toxic, reddish-brown gas is produced in this reaction?",
+"bn": "যদিও বিশুদ্ধ তামা লঘু নন-অক্সিডাইজিং অ্যাসিডের সাথে বিক্রিয়া করে না, তবে এটি ঘনীভূত নাইট্রিক অ্যাসিডের (HNO3) সাথে তীব্রভাবে বিক্রিয়া করে। এই বিক্রিয়ায় কোন বিষাক্ত, লালচে-বাদামী গ্যাস উৎপন্ন হয়?"
+},
+"options": [
+{
+"en": "Chlorine gas (Cl2)",
+"bn": "ক্লোরিন গ্যাস (Cl2)"
+},
+{
+"en": "Hydrogen sulfide (H2S)",
+"bn": "হাইড্রোজেন সালফাইড (H2S)"
+},
+{
+"en": "Sulfur dioxide (SO2)",
+"bn": "সালফার ডাই অক্সাইড (SO2)"
+},
+{
+"en": "Nitrogen dioxide (NO2)",
+"bn": "নাইট্রোজেন ডাই অক্সাইড (NO2)"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Nitric acid acts as a strong oxidizing agent, oxidizing the copper metal while itself being reduced to toxic, reddish-brown nitrogen dioxide gas (NO2).",
+"bn": "নাইট্রিক অ্যাসিড একটি শক্তিশালী অক্সিডাইজিং এজেন্ট হিসাবে কাজ করে, তামা ধাতুকে জারিত করে এবং নিজে বিষাক্ত, লালচে-বাদামী নাইট্রোজেন ডাই অক্সাইড গ্যাসে (NO2) বিজারিত হয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Pennies are made of solid copper. In reality, modern US pennies are 97.5% zinc with only a microscopically thin copper plating.",
+"bn": "পয়সাগুলো শক্ত তামা দিয়ে তৈরি। বাস্তবে, আধুনিক মার্কিন পয়সাগুলো ৯৭.৫% দস্তা দিয়ে তৈরি যার উপরে তামার একটি মাইক্রোস্কোপিক পাতলা প্রলেপ থাকে।"
+}
+],
+"learningTips": [
+{
+"en": "Remember the symbol Cu comes from 'Cuprum'. Think of the 'Bronze Age' to remember how historically important it has been.",
+"bn": "মনে রাখবেন Cu প্রতীকটি এসেছে 'কুপ্রাম' (Cuprum) থেকে। এটি ঐতিহাসিকভাবে কতটা গুরুত্বপূর্ণ ছিল তা মনে রাখার জন্য 'ব্রোঞ্জ যুগ'-এর কথা চিন্তা করুন।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Cu + O₂ → 2CuO",
+"description": {
+"en": "Heating copper strongly in the presence of oxygen forms black copper(II) oxide.",
+"bn": "অক্সিজেনের উপস্থিতিতে তামাকে শক্তভাবে গরম করলে কালো কপার(II) অক্সাইড তৈরি হয়।"
+}
+},
+{
+"equation": "Cu + 4HNO₃(conc) → Cu(NO₃)₂ + 2NO₂ + 2H₂O",
+"description": {
+"en": "Copper reacts with concentrated nitric acid to yield copper(II) nitrate, water, and toxic nitrogen dioxide gas.",
+"bn": "তামা ঘনীভূত নাইট্রিক অ্যাসিডের সাথে বিক্রিয়া করে কপার(II) নাইট্রেট, জল এবং বিষাক্ত নাইট্রোজেন ডাই অক্সাইড গ্যাস তৈরি করে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Cu → Cu²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation of solid copper to copper(II) ions, occurring at the anode during electrolytic refining.",
+"bn": "কঠিন তামার কপার(II) আয়নে জারণ, যা ইলেক্ট্রোলাইটিক পরিশোধন চলাকালীন অ্যানোডে ঘটে।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Cu²⁺ + 2e⁻ → Cu",
+"description": {
+"en": "Reduction of copper(II) ions to metallic copper at the cathode during electrolysis.",
+"bn": "তড়িৎ বিশ্লেষণের সময় ক্যাথোডে কপার(II) আয়ন বিজারিত হয়ে ধাতব তামায় পরিণত হয়।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Metallic Bond",
+"bn": "ধাতব বন্ধন"
+},
+"molecule": "Cu(s)",
+"description": {
+"en": "A lattice of positively charged copper ions submerged in a 'sea' of highly mobile, delocalized electrons, granting exceptional conductivity.",
+"bn": "ধনাত্মক চার্জযুক্ত তামার আয়নগুলির একটি জালি যা অত্যন্ত সচল, ডিলোকালাইজড ইলেকট্রনের 'সমুদ্রে' নিমজ্জিত থাকে, যা একে ব্যতিক্রমী পরিবাহিতা প্রদান করে।"
+}
+}
+]
+}
+}

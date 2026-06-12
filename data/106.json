@@ -1,0 +1,963 @@
+{
+"elementId": 106,
+"basicInformation": {
+"atomicNumber": 106,
+"symbol": "Sg",
+"name": {
+"en": "Seaborgium",
+"bn": "সিবার্গিয়াম"
+},
+"pronunciation": {
+"en": "/siːˈbɔːrɡiəm/",
+"bn": "সি-বোর-গিয়াম"
+},
+"atomicMass": 269,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 6,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (predicted)",
+"bn": "কঠিন (অনুমিত)"
+},
+"appearance": {
+"en": "Unknown, but predicted to be a silvery-white or metallic gray solid",
+"bn": "অজানা, তবে রূপালী-সাদা বা ধাতব ধূসর কঠিন পদার্থ হবে বলে ধারণা করা হয়"
+},
+"color": {
+"en": "Unknown (predicted silvery metallic)",
+"bn": "অজানা (রূপালী ধাতব অনুমিত)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Albert Ghiorso, Yuri Oganessian, et al. (Joint LBNL and JINR discovery)",
+"bn": "অ্যালবার্ট ঘিওরসো, ইউরি ওগানেসিয়ান এবং অন্যান্য (LBNL এবং JINR এর যৌথ আবিষ্কার)"
+},
+"discoveryYear": 1974,
+"discoveryLocation": {
+"en": "United States and Soviet Union",
+"bn": "যুক্তরাষ্ট্র এবং সোভিয়েত ইউনিয়ন"
+},
+"discoveryStory": {
+"en": "Synthesized independently by Albert Ghiorso's team at Lawrence Berkeley National Laboratory (USA) and Yuri Oganessian's team at the Joint Institute for Nuclear Research (USSR). The naming sparked the 'Transfermium Wars' because it was the first element ever named after a living person, American chemist Glenn T. Seaborg.",
+"bn": "লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরিতে (যুক্তরাষ্ট্র) অ্যালবার্ট ঘিওরসোর দল এবং জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (সোভিয়েত ইউনিয়ন)-এ ইউরি ওগানেসিয়ানের দল দ্বারা স্বাধীনভাবে সংশ্লেষিত হয়েছিল। এর নামকরণ 'ট্রান্সফারমিয়াম যুদ্ধ'-এর জন্ম দিয়েছিল কারণ এটিই প্রথম মৌল যার নামকরণ একজন জীবিত ব্যক্তির (মার্কিন রসায়নবিদ গ্লেন টি. সিবার্গ) নামে করা হয়েছিল।"
+},
+"historicalUses": {
+"en": "No historical uses outside of foundational nuclear physics and theoretical chemistry.",
+"bn": "মৌলিক পারমাণবিক পদার্থবিদ্যা এবং তাত্ত্বিক রসায়নের বাইরে এর কোনো ঐতিহাসিক ব্যবহার নেই।"
+},
+"famousExperiments": {
+"en": "The LBNL experiment involved bombarding a Californium-249 target with Oxygen-18 ions using the SuperHILAC accelerator to create Seaborgium-263.",
+"bn": "এলবিএনএল-এর পরীক্ষায় সুপারহাইলাক (SuperHILAC) অ্যাক্সিলারেটর ব্যবহার করে ক্যালিফোর্নিয়াম-২৪৯ লক্ষ্যবস্তুকে অক্সিজেন-১৮ আয়ন দ্বারা আঘাত করে সিবার্গিয়াম-২৬৩ তৈরি করা হয়েছিল।"
+}
+},
+"atomicStructure": {
+"protons": 106,
+"neutrons": 163,
+"electrons": 106,
+"valenceElectrons": 6,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 12, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d⁴ 7s²",
+"orbitalConfiguration": {
+"7s": 2,
+"6d": 4,
+"5f": 14,
+"6p": 6,
+"6s": 2,
+"5d": 10
+},
+"oxidationStates": [6, 5, 4, 3, 0],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 2,
+"magnetic": 2,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 35.0,
+"unit": "g/cm³ (predicted)"
+},
+"meltingPoint": null,
+"boilingPoint": null,
+"atomicRadius": {
+"value": 132,
+"unit": "pm (predicted)"
+},
+"covalentRadius": {
+"value": 143,
+"unit": "pm (predicted)"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Body-centered cubic (predicted)",
+"bn": "দেহ-কেন্দ্রিক ঘনক (অনুমিত)"
+},
+"magneticOrdering": {
+"en": "Unknown",
+"bn": "অজানা"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 752.6,
+"unit": "kJ/mol (predicted)"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Predicted to be highly reactive, behaving similarly to its lighter homologue Tungsten. Forms stable hexavalent compounds like SgO₂Cl₂.",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল বলে ধারণা করা হয়, যা এর হালকা সমগোত্রীয় টাংস্টেনের মতো আচরণ করে। এটি SgO₂Cl₂ এর মতো স্থিতিশীল হেক্সাভ্যালেন্ট যৌগ গঠন করে।"
+},
+"commonCompounds": ["SgO₂Cl₂", "SgO₃", "SgO₂F₂", "Sg(CO)₆"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Synthesized in micro-quantities and decays too quickly for industrial use.",
+"bn": "কোনোটিই নয়। অত্যন্ত ক্ষুদ্র পরিমাণে সংশ্লেষিত হয় এবং শিল্পে ব্যবহারের জন্য খুব দ্রুত ক্ষয়প্রাপ্ত হয়।"
+},
+"commercialUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"electronicsUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"semiconductorUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"aerospaceUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"aiHardwareUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"nanotechnologyUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"nuclearUses": {
+"en": "Used to study the physics of superheavy elements, shell structure, and the island of stability.",
+"bn": "সুপারহেভি উপাদান, শেল গঠন এবং স্ট্যাবিলিটি আইল্যান্ডের পদার্থবিদ্যা অধ্যয়নের জন্য ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"medicalUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No biological role. Highly toxic due to extreme radioactivity.",
+"bn": "কোনো জৈবিক ভূমিকা নেই। চরম তেজস্ক্রিয়তার কারণে অত্যন্ত বিষাক্ত।"
+},
+"humanBodyRole": {
+"en": "Not found in the human body.",
+"bn": "মানবদেহে পাওয়া যায় না।"
+},
+"toxicity": {
+"en": "Lethal radiation hazard. Any biological contact would result in severe radiation poisoning.",
+"bn": "মারাত্মক তেজস্ক্রিয়তার ঝুঁকি। যেকোনো জৈবিক যোগাযোগের ফলে গুরুতর রেডিয়েশন বিষক্রিয়া ঘটবে।"
+},
+"environmentalImpact": {
+"en": "None. Does not exist in nature and decays away within minutes in laboratory environments.",
+"bn": "কোনোটিই নয়। প্রকৃতিতে এর অস্তিত্ব নেই এবং পরীক্ষাগারের পরিবেশে কয়েক মিনিটের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+},
+"pollutionRisks": {
+"en": "Zero risk of widespread pollution due to single-atom synthesis and short half-life.",
+"bn": "একক পরমাণু সংশ্লেষণ এবং সংক্ষিপ্ত অর্ধায়ুর কারণে ব্যাপক দূষণের শূন্য ঝুঁকি।"
+},
+"recyclingMethods": {
+"en": "Not applicable. Atoms physically cease to exist via radioactive decay.",
+"bn": "প্রযোজ্য নয়। তেজস্ক্রিয় ক্ষয়ের মাধ্যমে পরমাণুগুলোর অস্তিত্ব শারীরিকভাবে বিলুপ্ত হয়ে যায়।"
+},
+"sustainabilityScore": 0.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "United States (LBNL)",
+"bn": "যুক্তরাষ্ট্র (LBNL)"
+},
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+},
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Created exclusively in particle accelerators via nuclear fusion.",
+"bn": "খনন করা যায় না। পারমাণবিক ফিউশনের মাধ্যমে একচেটিয়াভাবে পার্টিকেল অ্যাক্সিলারেটরে তৈরি করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not applicable. Unsellable due to atomic-scale production and immediate decay.",
+"bn": "প্রযোজ্য নয়। পারমাণবিক-স্কেল উৎপাদন এবং তাৎক্ষণিক ক্ষয়ের কারণে বিক্রি অযোগ্য।"
+},
+"futureDemand": {
+"en": "Purely academic interest for expanding the periodic table and understanding relativistic quantum chemistry.",
+"bn": "পর্যায় সারণি সম্প্রসারণ এবং আপেক্ষিক কোয়ান্টাম রসায়ন বোঝার জন্য সম্পূর্ণরূপে তাত্ত্বিক আগ্রহ।"
+},
+"globalImportance": {
+"en": "Crucial for verifying theoretical models of atomic nuclei and the fundamental limits of matter.",
+"bn": "পারমাণবিক নিউক্লিয়াসের তাত্ত্বিক মডেল এবং পদার্থের মৌলিক সীমা যাচাই করার জন্য গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Intense ionizing radiation. Spontaneous fission and alpha decay create severe secondary radiation.",
+"bn": "তীব্র আয়োনাইজিং বিকিরণ। স্বতঃস্ফূর্ত ফিউশন এবং আলফা ক্ষয় গুরুতর গৌণ বিকিরণ তৈরি করে।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Handled in specialized hot cells for the fractions of a second or minutes it exists.",
+"bn": "সংরক্ষণ করা যায় না। এটি সেকেন্ডের ভগ্নাংশ বা কয়েক মিনিটের জন্য টিকে থাকে এবং বিশেষায়িত হট সেল-এ পরিচালনা করা হয়।"
+},
+"handlingProcedures": {
+"en": "Automated radiochemistry systems and heavy shielding. No human contact.",
+"bn": "স্বয়ংক্রিয় রেডিওকেমিস্ট্রি সিস্টেম এবং ভারী শিল্ডিং। মানব স্পর্শ নিষেধ।"
+},
+"exposureRisks": {
+"en": "Lethal acute radiation syndrome.",
+"bn": "মারাত্মক একিউট রেডিয়েশন সিনড্রোম।"
+},
+"safetyLevel": {
+"en": "Extreme Radiation Hazard",
+"bn": "চরম তেজস্ক্রিয়তার ঝুঁকি"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Seaborgium is a superheavy, man-made element that only exists for a few minutes in advanced laboratories. It is highly radioactive.",
+"bn": "সিবার্গিয়াম হলো একটি সুপারহেভি, মানবসৃষ্ট উপাদান যা কেবল উন্নত পরীক্ষাগারে কয়েক মিনিটের জন্য বিদ্যমান থাকে। এটি অত্যন্ত তেজস্ক্রিয়।"
+},
+"advancedExplanation": {
+"en": "A synthetic transactinide element belonging to group 6. Studies of Sg highlight the increasing influence of relativistic effects on electron orbitals, which alter its chemical properties compared to purely extrapolated periodic trends.",
+"bn": "গ্রুপ ৬ এর অন্তর্গত একটি কৃত্রিম ট্রান্সঅ্যাক্টিনাইড উপাদান। সিবার্গিয়ামের অধ্যয়ন ইলেকট্রন অরবিটালগুলোর ওপর আপেক্ষিক প্রভাবের ক্রমবর্ধমান প্রভাবকে তুলে ধরে, যা সম্পূর্ণরূপে এক্সট্রাপোলেটেড পর্যায়বৃত্ত প্রবণতার তুলনায় এর রাসায়নিক বৈশিষ্ট্যগুলিকে পরিবর্তন করে।"
+},
+"funFacts": [
+{
+"en": "Seaborgium was the center of a massive naming controversy because it was named after Glenn T. Seaborg while he was still alive.",
+"bn": "সিবার্গিয়াম একটি বিশাল নামকরণের বিতর্কের কেন্দ্রবিন্দু ছিল কারণ এটি গ্লেন টি. সিবার্গ বেঁচে থাকতেই তাঁর নামে নামকরণ করা হয়েছিল।"
+},
+{
+"en": "Despite its short life, scientists have successfully performed complex chemistry on Seaborgium to prove it behaves like Tungsten.",
+"bn": "স্বল্প জীবনকাল হওয়া সত্ত্বেও, বিজ্ঞানীরা সিবার্গিয়ামের উপর সফলভাবে জটিল রসায়ন প্রয়োগ করেছেন প্রমাণ করার জন্য যে এটি টাংস্টেনের মতো আচরণ করে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 74,
+"relation": {
+"en": "Tungsten is the lighter homologue of Seaborgium. Both form similar hexavalent oxides and halides, confirming Sg belongs in Group 6.",
+"bn": "টাংস্টেন হলো সিবার্গিয়ামের একটি হালকা সমগোত্রীয় মৌল। উভয়ই অনুরূপ হেক্সাভ্যালেন্ট অক্সাইড এবং হ্যালাইড গঠন করে, যা নিশ্চিত করে যে সিবার্গিয়াম গ্রুপ ৬ এর অন্তর্গত।"
+}
+}
+],
+"relatedElements": [74, 105, 107, 42],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Seaborgium?",
+"bn": "সিবার্গিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "104",
+"bn": "১০৪"
+},
+{
+"en": "105",
+"bn": "১০৫"
+},
+{
+"en": "106",
+"bn": "১০৬"
+},
+{
+"en": "107",
+"bn": "১০৭"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Seaborgium has 106 protons, making it element number 106.",
+"bn": "সিবার্গিয়ামের ১০৬টি প্রোটন রয়েছে, যা এটিকে ১০৬ নম্বর মৌল হিসেবে তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Seaborgium was the first element to be named after what kind of person?",
+"bn": "সিবার্গিয়াম কোন ধরনের ব্যক্তির নামে নামকরণ করা প্রথম উপাদান ছিল?"
+},
+"options": [
+{
+"en": "A politician",
+"bn": "একজন রাজনীতিবিদ"
+},
+{
+"en": "A living person",
+"bn": "একজন জীবিত ব্যক্তি"
+},
+{
+"en": "A Russian scientist",
+"bn": "একজন রাশিয়ান বিজ্ঞানী"
+},
+{
+"en": "An astronaut",
+"bn": "একজন মহাকাশচারী"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It was named after American chemist Glenn T. Seaborg while he was still alive, causing significant controversy in the scientific community.",
+"bn": "মার্কিন রসায়নবিদ গ্লেন টি. সিবার্গ বেঁচে থাকতেই তাঁর নামে এর নামকরণ করা হয়েছিল, যা বৈজ্ঞানিক মহলে ব্যাপক বিতর্কের জন্ম দিয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Which element is located directly above Seaborgium in the periodic table, acting as its lighter chemical homologue?",
+"bn": "পর্যায় সারণিতে সিবার্গিয়ামের ঠিক উপরে কোন উপাদানটি অবস্থিত, যা এর হালকা রাসায়নিক সমগোত্রীয় হিসেবে কাজ করে?"
+},
+"options": [
+{
+"en": "Molybdenum",
+"bn": "মলিবডেনাম"
+},
+{
+"en": "Uranium",
+"bn": "ইউরেনিয়াম"
+},
+{
+"en": "Tungsten",
+"bn": "টাংস্টেন"
+},
+{
+"en": "Rutherfordium",
+"bn": "রাদারফোর্ডিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Tungsten (W) is the group 6 element directly above Seaborgium, sharing similar chemical properties.",
+"bn": "টাংস্টেন (W) হলো গ্রুপ ৬ এর উপাদান যা সিবার্গিয়ামের ঠিক উপরে অবস্থিত এবং একই ধরনের রাসায়নিক বৈশিষ্ট্য শেয়ার করে।"
+}
+},
+{
+"question": {
+"en": "What block of the periodic table does Seaborgium belong to?",
+"bn": "সিবার্গিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a transition metal in group 6, Seaborgium's differentiating electrons fill the 6d subshell, placing it in the d-block.",
+"bn": "গ্রুপ ৬-এর একটি অবস্থান্তর ধাতু হিসেবে, সিবার্গিয়ামের পার্থক্যকারী ইলেকট্রনগুলি 6d সাবশেল পূরণ করে, যা একে ডি-ব্লকে রাখে।"
+}
+},
+{
+"question": {
+"en": "The name of the international dispute over the naming of elements 104 to 106 is known as what?",
+"bn": "১০৪ থেকে ১০৬ নং উপাদানগুলির নামকরণ নিয়ে আন্তর্জাতিক বিবাদের নাম কী?"
+},
+"options": [
+{
+"en": "The Cold War",
+"bn": "স্নায়ুযুদ্ধ"
+},
+{
+"en": "The Transactinide Conflict",
+"bn": "ট্রান্সঅ্যাক্টিনাইড সংঘাত"
+},
+{
+"en": "The IUPAC Schism",
+"bn": "IUPAC বিভাজন"
+},
+{
+"en": "The Transfermium Wars",
+"bn": "ট্রান্সফারমিয়াম যুদ্ধ"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "The debate over naming rights between American and Soviet labs for elements past Fermium was dubbed the 'Transfermium Wars'.",
+"bn": "ফার্মিয়ামের পরের উপাদানগুলির জন্য আমেরিকান এবং সোভিয়েত ল্যাবগুলির মধ্যে নামকরণের অধিকার নিয়ে বিতর্কটি 'ট্রান্সফারমিয়াম যুদ্ধ' নামে পরিচিত ছিল।"
+}
+},
+{
+"question": {
+"en": "What is the primary method of decay for the most stable isotope of Seaborgium?",
+"bn": "সিবার্গিয়ামের সবচেয়ে স্থিতিশীল আইসোটোপের ক্ষয়ের প্রাথমিক পদ্ধতি কী?"
+},
+"options": [
+{
+"en": "Beta emission",
+"bn": "বিটা নির্গমন"
+},
+{
+"en": "Alpha decay and spontaneous fission",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিউশন"
+},
+{
+"en": "Electron capture",
+"bn": "ইলেকট্রন ক্যাপচার"
+},
+{
+"en": "Gamma radiation",
+"bn": "গামা বিকিরণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Superheavy elements like Seaborgium predominantly decay via alpha particle emission or by splitting apart completely in spontaneous fission.",
+"bn": "সিবার্গিয়ামের মতো সুপারহেভি উপাদানগুলো প্রধানত আলফা কণা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয় অথবা স্বতঃস্ফূর্ত ফিউশনে পুরোপুরি বিভক্ত হয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "In what physical state is Seaborgium predicted to be at standard room temperature?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় সিবার্গিয়াম কোন ভৌত অবস্থায় থাকবে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Based on its position in the transition metals, Seaborgium is projected to be a solid under standard conditions.",
+"bn": "অবস্থান্তর ধাতুর মধ্যে এর অবস্থানের উপর ভিত্তি করে, সিবার্গিয়ামকে আদর্শ অবস্থায় কঠিন বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What phenomenon heavily influences the behavior of valence electrons in superheavy elements like Seaborgium, shrinking its s and p orbitals?",
+"bn": "সিবার্গিয়ামের মতো সুপারহেভি উপাদানগুলোতে যোজ্যতা ইলেকট্রনের আচরণকে কোন ঘটনাটি ব্যাপকভাবে প্রভাবিত করে, যা এর s এবং p অরবিটালগুলোকে সংকুচিত করে?"
+},
+"options": [
+{
+"en": "Zeeman effect",
+"bn": "জিম্যান প্রভাব"
+},
+{
+"en": "Relativistic effects",
+"bn": "আপেক্ষিক প্রভাব"
+},
+{
+"en": "Photoelectric effect",
+"bn": "আলোকতড়িৎ প্রভাব"
+},
+{
+"en": "Compton scattering",
+"bn": "কম্পটন বিক্ষেপণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because inner electrons move at significant fractions of the speed of light due to massive nuclear charge, relativistic effects alter the atom's orbital structure.",
+"bn": "বিশাল পারমাণবিক চার্জের কারণে ভিতরের ইলেকট্রনগুলো আলোর গতির একটি উল্লেখযোগ্য ভগ্নাংশে চলে বলে, আপেক্ষিক প্রভাব পরমাণুর অরবিটাল গঠনকে পরিবর্তন করে।"
+}
+},
+{
+"question": {
+"en": "Which stable oxidation state is Seaborgium most likely to exhibit based on chemical experiments?",
+"bn": "রাসায়নিক পরীক্ষার ওপর ভিত্তি করে সিবার্গিয়াম কোন স্থিতিশীল জারণ অবস্থা সবচেয়ে বেশি প্রদর্শন করতে পারে?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+},
+{
+"en": "+8",
+"bn": "+৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like Tungsten, Seaborgium forms stable compounds in the +6 oxidation state, such as SgO2Cl2.",
+"bn": "টাংস্টেনের মতো, সিবার্গিয়াম +৬ জারণ অবস্থায় স্থিতিশীল যৌগ তৈরি করে, যেমন SgO2Cl2।"
+}
+},
+{
+"question": {
+"en": "What technique was necessary to prove the chemical properties of Seaborgium?",
+"bn": "সিবার্গিয়ামের রাসায়নিক বৈশিষ্ট্য প্রমাণ করতে কোন পদ্ধতির প্রয়োজন ছিল?"
+},
+"options": [
+{
+"en": "Titration",
+"bn": "টাইট্রেশন"
+},
+{
+"en": "Gas chromatography of single atoms",
+"bn": "একক পরমাণুর গ্যাস ক্রোমাটোগ্রাফি"
+},
+{
+"en": "X-ray crystallography",
+"bn": "এক্স-রে ক্রিস্টালোগ্রাফি"
+},
+{
+"en": "Mass spectrometry of bulk powder",
+"bn": "বাল্ক পাউডারের ভর স্পেকট্রোমেট্রি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because it decays in seconds or minutes and is produced one atom at a time, scientists used fast, automated gas phase chromatography to study Sg molecules.",
+"bn": "যেহেতু এটি সেকেন্ড বা মিনিটের মধ্যে ক্ষয়প্রাপ্ত হয় এবং একবারে একটি পরমাণু উৎপাদিত হয়, বিজ্ঞানীরা সিবার্গিয়াম অণু অধ্যয়ন করতে দ্রুত, স্বয়ংক্রিয় গ্যাস ফেজ ক্রোমাটোগ্রাফি ব্যবহার করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "Which of the following targets was bombarded by Oxygen-18 to synthesize Seaborgium at LBNL?",
+"bn": "LBNL-এ সিবার্গিয়াম সংশ্লেষণ করার জন্য অক্সিজেন-১৮ দ্বারা নিচের কোন লক্ষ্যবস্তুতে আঘাত করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Uranium-238",
+"bn": "ইউরেনিয়াম-২৩৮"
+},
+{
+"en": "Plutonium-244",
+"bn": "প্লুটোনিয়াম-২৪৪"
+},
+{
+"en": "Californium-249",
+"bn": "ক্যালিফোর্নিয়াম-২৪৯"
+},
+{
+"en": "Lead-208",
+"bn": "সীসা-২০৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The reaction ²⁴⁹Cf + ¹⁸O → ²⁶³Sg + 4¹n was used by the American team to definitively produce element 106.",
+"bn": "²⁴⁹Cf + ¹⁸O → ²⁶³Sg + 4¹n বিক্রিয়াটি আমেরিকান দল নিশ্চিতভাবে ১০৬ নং উপাদান তৈরি করতে ব্যবহার করেছিল।"
+}
+},
+{
+"question": {
+"en": "In what year was the discovery of Seaborgium officially acknowledged and accepted by IUPAC?",
+"bn": "কোন সালে সিবার্গিয়াম আবিষ্কার আনুষ্ঠানিকভাবে IUPAC দ্বারা স্বীকৃত এবং গৃহীত হয়েছিল?"
+},
+"options": [
+{
+"en": "1974",
+"bn": "১৯৭৪"
+},
+{
+"en": "1993",
+"bn": "১৯৯৩"
+},
+{
+"en": "1985",
+"bn": "১৯৮৫"
+},
+{
+"en": "2001",
+"bn": "২০০১"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Though first synthesized in 1974, the discovery was not officially credited until 1993 by the IUPAC/IUPAP Transfermium Working Group.",
+"bn": "যদিও প্রথম ১৯৭৪ সালে সংশ্লেষিত হয়েছিল, আবিষ্কারটি আনুষ্ঠানিকভাবে ১৯৯৩ সাল পর্যন্ত IUPAC/IUPAP ট্রান্সফারমিয়াম ওয়ার্কিং গ্রুপ কর্তৃক স্বীকৃতি পায়নি।"
+}
+},
+{
+"question": {
+"en": "What is the expected principal quantum number (n) for the outermost valence s-electrons in Seaborgium?",
+"bn": "সিবার্গিয়ামের সবচেয়ে বাইরের যোজ্যতা s-ইলেকট্রনগুলোর প্রত্যাশিত প্রধান কোয়ান্টাম সংখ্যা (n) কত?"
+},
+"options": [
+{
+"en": "5",
+"bn": "৫"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "7",
+"bn": "৭"
+},
+{
+"en": "8",
+"bn": "৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Seaborgium is in period 7, so its outermost s-electrons occupy the 7s shell.",
+"bn": "সিবার্গিয়াম ৭ম পর্যায়ে রয়েছে, তাই এর সবচেয়ে বাইরের s-ইলেকট্রনগুলো 7s শেল দখল করে।"
+}
+},
+{
+"question": {
+"en": "Why can't scientists accurately measure the melting point of Seaborgium?",
+"bn": "বিজ্ঞানীরা কেন সিবার্গিয়ামের গলনাঙ্ক সঠিকভাবে পরিমাপ করতে পারেন না?"
+},
+"options": [
+{
+"en": "It is completely invisible",
+"bn": "এটি সম্পূর্ণ অদৃশ্য"
+},
+{
+"en": "It immediately sublimates into a gas",
+"bn": "এটি তাৎক্ষণিকভাবে গ্যাসে পরিণত হয়"
+},
+{
+"en": "Not enough atoms can be created simultaneously to form a measurable bulk solid",
+"bn": "পরিমাপযোগ্য বাল্ক কঠিন পদার্থ তৈরি করার জন্য একসাথে পর্যাপ্ত পরমাণু তৈরি করা যায় না"
+},
+{
+"en": "Its melting point is higher than the core of the sun",
+"bn": "এর গলনাঙ্ক সূর্যের কোরের চেয়েও বেশি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Superheavy elements are produced in such minuscule amounts (often one atom at a time) that bulk properties like melting points cannot be physically measured.",
+"bn": "সুপারহেভি উপাদানগুলো এতই নগণ্য পরিমাণে উৎপাদিত হয় (প্রায়শই একবারে একটি পরমাণু) যে গলনাঙ্কের মতো বাল্ক বৈশিষ্ট্যগুলো শারীরিকভাবে পরিমাপ করা যায় না।"
+}
+},
+{
+"question": {
+"en": "What volatile compound did researchers successfully create to prove Seaborgium behaves like a Group 6 element?",
+"bn": "সিবার্গিয়াম যে গ্রুপ ৬ উপাদানের মতো আচরণ করে তা প্রমাণ করতে গবেষকরা সফলভাবে কোন উদ্বায়ী যৌগ তৈরি করেছেন?"
+},
+"options": [
+{
+"en": "SgCl4",
+"bn": "SgCl4"
+},
+{
+"en": "SgO2Cl2",
+"bn": "SgO2Cl2"
+},
+{
+"en": "SgO4",
+"bn": "SgO4"
+},
+{
+"en": "SgF6",
+"bn": "SgF6"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Scientists successfully synthesized Seaborgium oxychloride (SgO2Cl2), mirroring the behavior of Tungsten oxychloride.",
+"bn": "বিজ্ঞানীরা সফলভাবে সিবার্গিয়াম অক্সিক্লোরাইড (SgO2Cl2) সংশ্লেষিত করেছেন, যা টাংস্টেন অক্সিক্লোরাইডের আচরণের অনুরূপ।"
+}
+},
+{
+"question": {
+"en": "How many neutrons does the most stable isotope of Seaborgium (Sg-269) possess?",
+"bn": "সিবার্গিয়ামের সবচেয়ে স্থিতিশীল আইসোটোপের (Sg-269) কতগুলো নিউট্রন আছে?"
+},
+"options": [
+{
+"en": "106",
+"bn": "১০৬"
+},
+{
+"en": "163",
+"bn": "১৬৩"
+},
+{
+"en": "269",
+"bn": "২৬৯"
+},
+{
+"en": "150",
+"bn": "১৫০"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Neutrons = Mass Number (269) - Atomic Number (106) = 163.",
+"bn": "নিউট্রন = ভর সংখ্যা (২৬৯) - পারমাণবিক সংখ্যা (১০৬) = ১৬৩।"
+}
+},
+{
+"question": {
+"en": "What is the predicted density of Seaborgium compared to Osmium (the densest naturally occurring element)?",
+"bn": "অসমিয়ামের (সবচেয়ে ঘন প্রাকৃতিকভাবে ঘটিত উপাদান) তুলনায় সিবার্গিয়ামের অনুমিত ঘনত্ব কত?"
+},
+"options": [
+{
+"en": "About the same",
+"bn": "প্রায় একই"
+},
+{
+"en": "Significantly lower",
+"bn": "উল্লেখযোগ্যভাবে কম"
+},
+{
+"en": "Significantly higher (~35 g/cm³)",
+"bn": "উল্লেখযোগ্যভাবে বেশি (~৩৫ গ্রাম/ঘন সেমি)"
+},
+{
+"en": "It has no density",
+"bn": "এর কোনো ঘনত্ব নেই"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Due to its high atomic mass and the contraction of its electron cloud via relativistic effects, Sg is predicted to be extremely dense, around 35 g/cm³.",
+"bn": "উচ্চ পারমাণবিক ভর এবং আপেক্ষিক প্রভাবের মাধ্যমে এর ইলেকট্রন ক্লাউডের সংকোচনের কারণে, Sg-এর ঘনত্ব প্রায় ৩৫ গ্রাম/ঘন সেমি হবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "In the initial Soviet synthesis of element 106, which element was used to bombard Lead-208 targets?",
+"bn": "১০৬ নং উপাদানের প্রাথমিক সোভিয়েত সংশ্লেষণে, সীসা-২০৮ লক্ষ্যবস্তুতে আঘাত করার জন্য কোন উপাদান ব্যবহার করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Carbon-12",
+"bn": "কার্বন-১২"
+},
+{
+"en": "Oxygen-18",
+"bn": "অক্সিজেন-১৮"
+},
+{
+"en": "Chromium-54",
+"bn": "ক্রোমিয়াম-৫৪"
+},
+{
+"en": "Iron-58",
+"bn": "আয়রন-৫৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The team at Dubna used 'cold fusion' reactions by firing Chromium-54 ions at Lead-208 targets.",
+"bn": "ডুবনার দলটি সীসা-২০৮ লক্ষ্যবস্তুতে ক্রোমিয়াম-৫৪ আয়ন নিক্ষেপ করে 'কোল্ড ফিউশন' বিক্রিয়া ব্যবহার করেছিল।"
+}
+},
+{
+"question": {
+"en": "Which noble gas represents the core electron configuration of Seaborgium?",
+"bn": "কোন নিষ্ক্রিয় গ্যাস সিবার্গিয়ামের মূল ইলেকট্রন কনফিগারেশন উপস্থাপন করে?"
+},
+"options": [
+{
+"en": "Xenon",
+"bn": "জেনন"
+},
+{
+"en": "Radon",
+"bn": "রেডন"
+},
+{
+"en": "Krypton",
+"bn": "ক্রিপ্টন"
+},
+{
+"en": "Oganesson",
+"bn": "ওগানেসন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Seaborgium's electron configuration starts with the core of Radon [Rn], followed by 5f14 6d4 7s2.",
+"bn": "সিবার্গিয়ামের ইলেকট্রন কনফিগারেশন রেডন [Rn] এর কোর দিয়ে শুরু হয়, এরপর 5f14 6d4 7s2।"
+}
+},
+{
+"question": {
+"en": "Which famous scientist was Seaborgium named after?",
+"bn": "কোন বিখ্যাত বিজ্ঞানীর নামে সিবার্গিয়ামের নামকরণ করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Ernest Rutherford",
+"bn": "আর্নেস্ট রাদারফোর্ড"
+},
+{
+"en": "Niels Bohr",
+"bn": "নিলস বোর"
+},
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Glenn T. Seaborg",
+"bn": "গ্লেন টি. সিবার্গ"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "It was named in honor of Glenn T. Seaborg, an American chemist who was pivotal in discovering numerous transuranium elements.",
+"bn": "মার্কিন রসায়নবিদ গ্লেন টি. সিবার্গের সম্মানে এর নামকরণ করা হয়েছিল, যিনি অনেকগুলো ট্রান্সইউরেনিয়াম মৌল আবিষ্কারে গুরুত্বপূর্ণ ভূমিকা রেখেছিলেন।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Seaborgium can be mined on other planets or meteors.",
+"bn": "সিবার্গিয়াম অন্য গ্রহ বা উল্কাগুলোতে খনন করা যায়।"
+},
+{
+"en": "Because it's a metal, it is used to build strong materials like spacecraft hulls.",
+"bn": "যেহেতু এটি একটি ধাতু, তাই এটি মহাকাশযানের আবরণের মতো শক্তিশালী উপকরণ তৈরি করতে ব্যবহৃত হয়।"
+}
+],
+"learningTips": [
+{
+"en": "To remember its group, note that Seaborgium (106) sits exactly under Tungsten (74) in Group 6. Both share a +6 oxidation state.",
+"bn": "এর গ্রুপ মনে রাখার জন্য খেয়াল করুন যে, সিবার্গিয়াম (১০৬) গ্রুপ ৬-এ টাংস্টেনের (৭৪) ঠিক নিচে বসে আছে। উভয়ই +৬ জারণ অবস্থা শেয়ার করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "²⁴⁹Cf + ¹⁸O → ²⁶³Sg + 4¹n",
+"description": {
+"en": "The synthesis reaction performed at LBNL to create Seaborgium-263.",
+"bn": "এলবিএনএল-এ সিবার্গিয়াম-২৬৩ তৈরি করার জন্য সম্পাদিত সংশ্লেষণ বিক্রিয়া।"
+}
+},
+{
+"equation": "²⁰⁸Pb + ⁵⁴Cr → ²⁶⁰Sg + 2¹n",
+"description": {
+"en": "The synthesis reaction performed at JINR (Dubna) using cold fusion to create Seaborgium-260.",
+"bn": "জেআইএনআর (ডুবনা)-এ সিবার্গিয়াম-২৬০ তৈরি করার জন্য কোল্ড ফিউশন ব্যবহার করে সম্পাদিত সংশ্লেষণ বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Sg + O₂ + Cl₂ → SgO₂Cl₂ (predicted framework)",
+"description": {
+"en": "Formation of Seaborgium oxychloride, demonstrating its +6 oxidation state similar to Tungsten.",
+"bn": "সিবার্গিয়াম অক্সিক্লোরাইড গঠন, যা টাংস্টেনের মতো এর +৬ জারণ অবস্থা প্রদর্শন করে।"
+}
+}
+],
+"reductionExamples": [],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Coordination Bond",
+"bn": "সমযোজী সন্নিবেশ বন্ধন"
+},
+"molecule": "Sg(CO)₆",
+"description": {
+"en": "Predicted and experimentally confirmed volatile hexacarbonyl complex where Sg bonds with six carbon monoxide ligands.",
+"bn": "অনুমিত এবং পরীক্ষামূলকভাবে নিশ্চিত উদ্বায়ী হেক্সাকার্বনিল কমপ্লেক্স যেখানে Sg ছয়টি কার্বন মনোক্সাইড লিগ্যান্ডের সাথে বন্ধন গঠন করে।"
+}
+}
+]
+}
+}

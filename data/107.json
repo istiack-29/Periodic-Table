@@ -1,0 +1,956 @@
+{
+"elementId": 107,
+"basicInformation": {
+"atomicNumber": 107,
+"symbol": "Bh",
+"name": {
+"en": "Bohrium",
+"bn": "বোরিয়াম"
+},
+"pronunciation": {
+"en": "/ˈbɔːriəm/",
+"bn": "বো-রি-য়াম"
+},
+"atomicMass": 270.0,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 7,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (predicted)",
+"bn": "কঠিন (অনুমিত)"
+},
+"appearance": {
+"en": "Unknown, but predicted to be a silvery-white or metallic gray solid",
+"bn": "অজানা, তবে রূপালী-সাদা বা ধাতব ধূসর কঠিন পদার্থ হবে বলে ধারণা করা হয়"
+},
+"color": {
+"en": "Unknown (predicted silvery metallic)",
+"bn": "অজানা (রূপালী ধাতব অনুমিত)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Peter Armbruster, Gottfried Münzenberg, and the GSI team",
+"bn": "পিটার আর্মব্রাস্টার, গটফ্রিড মুনজেনবার্গ এবং জিএসআই (GSI) দল"
+},
+"discoveryYear": 1981,
+"discoveryLocation": {
+"en": "Darmstadt, Germany",
+"bn": "ডার্মস্ট্যাড, জার্মানি"
+},
+"discoveryStory": {
+"en": "First conclusively synthesized by a German team at the GSI Helmholtz Centre for Heavy Ion Research. They bombarded a Bismuth-209 target with Chromium-54 nuclei. It was named in honor of Danish physicist Niels Bohr. The initial proposed name was 'Nielsbohrium', but IUPAC eventually shortened it to 'Bohrium'.",
+"bn": "জার্মানির জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চ-এর একটি দল প্রথম নিশ্চিতভাবে এটি সংশ্লেষণ করে। তারা বিসমাথ-২০৯ লক্ষ্যবস্তুতে ক্রোমিয়াম-৫৪ নিউক্লিয়াস দ্বারা আঘাত করেছিল। ড্যানিশ পদার্থবিজ্ঞানী নিলস বোরের সম্মানে এর নামকরণ করা হয়। প্রাথমিকভাবে প্রস্তাবিত নাম ছিল 'নিলসবোরিয়াম', তবে আইইউপিএসি (IUPAC) পরে এটি ছোট করে 'বোরিয়াম' রাখে।"
+},
+"historicalUses": {
+"en": "No historical uses. Exists only for scientific research.",
+"bn": "কোনো ঐতিহাসিক ব্যবহার নেই। শুধুমাত্র বৈজ্ঞানিক গবেষণার জন্য বিদ্যমান।"
+},
+"famousExperiments": {
+"en": "Gas-phase thermochromatography experiments proved that Bohrium behaves chemically like a typical group 7 element, forming volatile oxychlorides like BhO₃Cl.",
+"bn": "গ্যাস-ফেজ থার্মোক্রোমাটোগ্রাফি পরীক্ষাগুলো প্রমাণ করেছে যে বোরিয়াম রাসায়নিকভাবে একটি সাধারণ গ্রুপ ৭ উপাদানের মতো আচরণ করে, যা BhO₃Cl-এর মতো উদ্বায়ী অক্সিক্লোরাইড তৈরি করে।"
+}
+},
+"atomicStructure": {
+"protons": 107,
+"neutrons": 163,
+"electrons": 107,
+"valenceElectrons": 7,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 13, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d⁵ 7s²",
+"orbitalConfiguration": {
+"7s": 2,
+"6d": 5,
+"5f": 14,
+"6p": 6,
+"6s": 2,
+"5d": 10
+},
+"oxidationStates": [7, 5, 4, 3],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 2,
+"magnetic": 2,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 37.1,
+"unit": "g/cm³ (predicted)"
+},
+"meltingPoint": null,
+"boilingPoint": null,
+"atomicRadius": {
+"value": 128,
+"unit": "pm (predicted)"
+},
+"covalentRadius": {
+"value": 141,
+"unit": "pm (predicted)"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Hexagonal close-packed (predicted)",
+"bn": "ষড়ভুজাকার ক্লোজ-প্যাকড (অনুমিত)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (predicted)",
+"bn": "প্যারাম্যাগনেটিক (অনুমিত)"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 742.9,
+"unit": "kJ/mol (predicted)"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Predicted to be highly reactive, functioning as the heavier homologue of Rhenium. Readily forms hexavalent and heptavalent compounds.",
+"bn": "রেনিয়ামের ভারী সমগোত্রীয় হিসাবে কাজ করে এটি অত্যন্ত প্রতিক্রিয়াশীল বলে ধারণা করা হয়। সহজেই হেক্সাভ্যালেন্ট এবং হেপ্টাভ্যালেন্ট যৌগ গঠন করে।"
+},
+"commonCompounds": ["BhO₃Cl", "Bh₂O₇", "BhO₂"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Only an infinitesimal amount of Bohrium has ever been created.",
+"bn": "কোনোটিই নয়। বোরিয়ামের কেবলমাত্র একটি অতি ক্ষুদ্র পরিমাণই তৈরি করা হয়েছে।"
+},
+"commercialUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"electronicsUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"semiconductorUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"aerospaceUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"aiHardwareUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"nanotechnologyUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"nuclearUses": {
+"en": "Strictly used in fundamental nuclear physics to chart the periodic table's furthest reaches and test superheavy stability models.",
+"bn": "পর্যায় সারণির দূরতম সীমানা মানচিত্র করতে এবং সুপারহেভি স্থিতিশীলতা মডেল পরীক্ষা করার জন্য মৌলিক পারমাণবিক পদার্থবিজ্ঞানে কঠোরভাবে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"medicalUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "কোনোটিই নয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Absolutely no biological role. Dangerously radioactive.",
+"bn": "একেবারেই কোনো জৈবিক ভূমিকা নেই। বিপজ্জনকভাবে তেজস্ক্রিয়।"
+},
+"humanBodyRole": {
+"en": "Does not exist in the human body.",
+"bn": "মানবদেহে এর কোনো অস্তিত্ব নেই।"
+},
+"toxicity": {
+"en": "Lethal due to intense radiation if a macroscopic amount were ever to exist.",
+"bn": "যদি কখনো ম্যাক্রোস্কোপিক পরিমাণে বিদ্যমান থাকে, তবে তীব্র বিকিরণের কারণে এটি মারাত্মক হবে।"
+},
+"environmentalImpact": {
+"en": "No environmental impact as it degrades back into lighter elements within seconds or minutes.",
+"bn": "কোনো পরিবেশগত প্রভাব নেই কারণ এটি কয়েক সেকেন্ড বা মিনিটের মধ্যে হালকা উপাদানগুলোতে ক্ষয়প্রাপ্ত হয়।"
+},
+"pollutionRisks": {
+"en": "Zero pollution risk outside of isolated high-energy physics laboratory targets.",
+"bn": "বিচ্ছিন্ন উচ্চ-শক্তির পদার্থবিদ্যা পরীক্ষাগারের লক্ষ্যবস্তুর বাইরে দূষণের ঝুঁকি শূন্য।"
+},
+"recyclingMethods": {
+"en": "Impossible to recycle. It ceases to exist via rapid alpha decay and spontaneous fission.",
+"bn": "পুনর্ব্যবহার করা অসম্ভব। দ্রুত আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশনের মাধ্যমে এর অস্তিত্ব শেষ হয়ে যায়।"
+},
+"sustainabilityScore": 0.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+},
+{
+"en": "United States (LBNL)",
+"bn": "যুক্তরাষ্ট্র (LBNL)"
+},
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Must be synthesized artificially in particle accelerators.",
+"bn": "খনন করা যায় না। পার্টিকেল অ্যাক্সিলারেটরে কৃত্রিমভাবে সংশ্লেষণ করতে হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not applicable. Billions of dollars are spent on accelerator facilities just to create a few atoms.",
+"bn": "প্রযোজ্য নয়। মাত্র কয়েকটি পরমাণু তৈরির জন্যই অ্যাক্সিলারেটর সুবিধাগুলোর পেছনে বিলিয়ন ডলার ব্যয় করা হয়।"
+},
+"futureDemand": {
+"en": "Remains an object of pure theoretical and foundational chemical research.",
+"bn": "এটি খাঁটি তাত্ত্বিক এবং মৌলিক রাসায়নিক গবেষণার একটি বিষয় হিসাবে রয়ে গেছে।"
+},
+"globalImportance": {
+"en": "Key to extending the known bounds of chemistry and analyzing relativistic quantum mechanics.",
+"bn": "রসায়নের পরিচিত সীমানা প্রসারিত করতে এবং আপেক্ষিক কোয়ান্টাম মেকানিক্স বিশ্লেষণের জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Severe radiation hazard. Decays rapidly, emitting high-energy alpha particles and initiating fission cascades.",
+"bn": "তীব্র বিকিরণের ঝুঁকি। দ্রুত ক্ষয়প্রাপ্ত হয়, উচ্চ-শক্তির আলফা কণা নির্গত করে এবং ফিশন ক্যাসকেড শুরু করে।"
+},
+"storageRequirements": {
+"en": "Cannot be stored in a traditional sense. Handled implicitly during synthesis inside heavily shielded particle detection arrays.",
+"bn": "প্রথাগত অর্থে সংরক্ষণ করা যায় না। ভারী শিল্ডযুক্ত পার্টিকেল ডিটেকশন অ্যারের ভেতরে সংশ্লেষণের সময় পরোক্ষভাবে পরিচালনা করা হয়।"
+},
+"handlingProcedures": {
+"en": "Analyzed entirely by specialized robotic and fast-computing sensor equipment.",
+"bn": "সম্পূর্ণরূপে বিশেষায়িত রোবোটিক এবং দ্রুত-গণনাকারী সেন্সর সরঞ্জাম দ্বারা বিশ্লেষণ করা হয়।"
+},
+"exposureRisks": {
+"en": "Profound radiation poisoning from alpha decay if physiological exposure were possible.",
+"bn": "যদি শারীরবৃত্তীয় সংস্পর্শ সম্ভব হতো, তবে আলফা ক্ষয় থেকে গভীর রেডিয়েশন বিষক্রিয়া ঘটত।"
+},
+"safetyLevel": {
+"en": "Extreme Radiation Hazard",
+"bn": "চরম তেজস্ক্রিয়তার ঝুঁকি"
+},
+"hazardClassifications": [
+{
+"en": "Highly Radioactive",
+"bn": "অত্যন্ত তেজস্ক্রিয়"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Bohrium is a highly radioactive, man-made element named after the famous scientist Niels Bohr. It only exists for a very short time in science labs before turning into smaller elements.",
+"bn": "বোরিয়াম হলো একটি অত্যন্ত তেজস্ক্রিয়, মানবসৃষ্ট উপাদান যার নামকরণ করা হয়েছে বিখ্যাত বিজ্ঞানী নিলস বোরের নামে। এটি ছোট উপাদানে পরিণত হওয়ার আগে বিজ্ঞান পরীক্ষাগারগুলোতে খুব অল্প সময়ের জন্য বিদ্যমান থাকে।"
+},
+"advancedExplanation": {
+"en": "A superheavy transactinide belonging to Group 7. Bohrium's chemistry is heavily influenced by relativistic effects, which cause its 7s electrons to be pulled closer to the nucleus, yet it still manages to form volatile +7 oxychlorides exactly like its lighter homologue Rhenium.",
+"bn": "গ্রুপ ৭-এর অন্তর্গত একটি সুপারহেভি ট্রান্সঅ্যাক্টিনাইড। বোরিয়ামের রসায়ন আপেক্ষিক প্রভাব দ্বারা ব্যাপকভাবে প্রভাবিত, যা এর 7s ইলেকট্রনগুলোকে নিউক্লিয়াসের কাছাকাছি টেনে আনে, তবুও এটি তার হালকা সমগোত্রীয় রেনিয়ামের মতোই উদ্বায়ী +৭ অক্সিক্লোরাইড গঠন করতে সক্ষম।"
+},
+"funFacts": [
+{
+"en": "IUPAC initially rejected the name 'Nielsbohrium' because they felt a first name shouldn't be included, leading to 'Bohrium'.",
+"bn": "আইইউপিএসি (IUPAC) প্রাথমিকভাবে 'নিলসবোরিয়াম' নামটিকে প্রত্যাখ্যান করেছিল কারণ তারা মনে করেছিল যে নামের প্রথম অংশ অন্তর্ভুক্ত করা উচিত নয়, যার ফলে এর নাম হয় 'বোরিয়াম'।"
+},
+{
+"en": "If you could somehow gather enough Bohrium, it is predicted to be one of the densest materials in the universe at ~37 g/cm³.",
+"bn": "যদি আপনি কোনোভাবে পর্যাপ্ত বোরিয়াম সংগ্রহ করতে পারতেন, তবে এটি প্রায় ৩৭ গ্রাম/ঘন সেমি ঘনত্ব সহ মহাবিশ্বের অন্যতম ঘন পদার্থ হতো বলে ধারণা করা হয়।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 75,
+"relation": {
+"en": "Rhenium (Re) is Bohrium's lighter homologue. Both sit in Group 7 and form similar volatile oxygen-chlorine compounds.",
+"bn": "রেনিয়াম (Re) হলো বোরিয়ামের হালকা সমগোত্রীয়। উভয়ই গ্রুপ ৭ এ বসে এবং একই রকম উদ্বায়ী অক্সিজেন-ক্লোরিন যৌগ তৈরি করে।"
+}
+}
+],
+"relatedElements": [75, 106, 108, 43],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Bohrium?",
+"bn": "বোরিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "106",
+"bn": "১০৬"
+},
+{
+"en": "107",
+"bn": "১০৭"
+},
+{
+"en": "108",
+"bn": "১০৮"
+},
+{
+"en": "105",
+"bn": "১০৫"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Bohrium has exactly 107 protons, defining it as element 107 on the periodic table.",
+"bn": "বোরিয়ামের ঠিক ১০৭টি প্রোটন রয়েছে, যা এটিকে পর্যায় সারণিতে ১০৭ নম্বর মৌল হিসেবে সংজ্ঞায়িত করে।"
+}
+},
+{
+"question": {
+"en": "After which famous physicist is Bohrium named?",
+"bn": "কোন বিখ্যাত পদার্থবিজ্ঞানীর নামে বোরিয়ামের নামকরণ করা হয়েছে?"
+},
+"options": [
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Niels Bohr",
+"bn": "নিলস বোর"
+},
+{
+"en": "Max Planck",
+"bn": "ম্যাক্স প্ল্যাঙ্ক"
+},
+{
+"en": "Erwin Schrödinger",
+"bn": "আরউইন শ্রোডিঙ্গার"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Bohrium honors Niels Bohr, the Danish physicist known for his foundational contributions to atomic structure and quantum theory.",
+"bn": "ড্যানিশ পদার্থবিজ্ঞানী নিলস বোরের সম্মানে বোরিয়ামের নামকরণ করা হয়েছে, যিনি পারমাণবিক গঠন এবং কোয়ান্টাম তত্ত্বে তার মৌলিক অবদানের জন্য পরিচিত।"
+}
+},
+{
+"question": {
+"en": "What was the initially proposed name for element 107 before it was shortened by IUPAC?",
+"bn": "আইইউপিএসি (IUPAC) কর্তৃক সংক্ষিপ্ত করার আগে ১০৭ নং উপাদানের প্রাথমিকভাবে প্রস্তাবিত নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Bohrian",
+"bn": "বোরিয়ান"
+},
+{
+"en": "Nielsbohrium",
+"bn": "নিলসবোরিয়াম"
+},
+{
+"en": "Danishium",
+"bn": "ড্যানিশিয়াম"
+},
+{
+"en": "Quantumium",
+"bn": "কোয়ান্টামিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The discovering German team proposed 'Nielsbohrium' (Ns), but IUPAC ruled that element names should only use the last name.",
+"bn": "আবিষ্কারকারী জার্মান দলটি 'নিলসবোরিয়াম' (Ns) প্রস্তাব করেছিল, কিন্তু IUPAC রায় দিয়েছিল যে উপাদানগুলোর নামে কেবল শেষ নাম ব্যবহার করা উচিত।"
+}
+},
+{
+"question": {
+"en": "Which laboratory is officially credited with the discovery of Bohrium?",
+"bn": "কোন পরীক্ষাগারকে আনুষ্ঠানিকভাবে বোরিয়াম আবিষ্কারের কৃতিত্ব দেওয়া হয়?"
+},
+"options": [
+{
+"en": "Lawrence Berkeley National Laboratory (USA)",
+"bn": "লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরি (যুক্তরাষ্ট্র)"
+},
+{
+"en": "Joint Institute for Nuclear Research (Russia)",
+"bn": "জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (রাশিয়া)"
+},
+{
+"en": "GSI Helmholtz Centre (Germany)",
+"bn": "জিএসআই হেল্মহোল্টজ সেন্টার (জার্মানি)"
+},
+{
+"en": "CERN (Switzerland)",
+"bn": "সার্ন (সুইজারল্যান্ড)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Peter Armbruster and Gottfried Münzenberg's team at GSI in Darmstadt, Germany, conclusively created and identified element 107 in 1981.",
+"bn": "১৯৮১ সালে জার্মানির ডার্মস্ট্যাডে জিএসআই (GSI)-তে পিটার আর্মব্রাস্টার এবং গটফ্রিড মুনজেনবার্গের দল চূড়ান্তভাবে ১০৭ নং উপাদান তৈরি ও শনাক্ত করেছিল।"
+}
+},
+{
+"question": {
+"en": "What is the chemical symbol for Bohrium?",
+"bn": "বোরিয়ামের রাসায়নিক প্রতীক কী?"
+},
+"options": [
+{
+"en": "Bo",
+"bn": "Bo"
+},
+{
+"en": "Bh",
+"bn": "Bh"
+},
+{
+"en": "Br",
+"bn": "Br"
+},
+{
+"en": "Bm",
+"bn": "Bm"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The recognized IUPAC chemical symbol for Bohrium is Bh.",
+"bn": "বোরিয়ামের স্বীকৃত IUPAC রাসায়নিক প্রতীক হলো Bh।"
+}
+},
+{
+"question": {
+"en": "Which of these pairs of elements were smashed together to successfully synthesize Bohrium-262 at GSI?",
+"bn": "GSI-তে বোরিয়াম-২৬২ সফলভাবে সংশ্লেষিত করতে নিচের কোন উপাদান জোড়াকে একত্রে আঘাত করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Uranium and Carbon",
+"bn": "ইউরেনিয়াম এবং কার্বন"
+},
+{
+"en": "Plutonium and Oxygen",
+"bn": "প্লুটোনিয়াম এবং অক্সিজেন"
+},
+{
+"en": "Bismuth and Chromium",
+"bn": "বিসমাথ এবং ক্রোমিয়াম"
+},
+{
+"en": "Lead and Iron",
+"bn": "সীসা এবং আয়রন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The reaction involved cold fusion of a Bismuth-209 target bombarded by Chromium-54 ions.",
+"bn": "এই বিক্রিয়ায় ক্রোমিয়াম-৫৪ আয়ন দ্বারা বিসমাথ-২০৯ লক্ষ্যবস্তুতে আঘাত করে কোল্ড ফিউশন ঘটানো হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What group in the periodic table does Bohrium belong to?",
+"bn": "পর্যায় সারণিতে বোরিয়াম কোন গ্রুপের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Group 5",
+"bn": "গ্রুপ ৫"
+},
+{
+"en": "Group 6",
+"bn": "গ্রুপ ৬"
+},
+{
+"en": "Group 7",
+"bn": "গ্রুপ ৭"
+},
+{
+"en": "Group 8",
+"bn": "গ্রুপ ৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Bohrium has 7 valence electrons and lies below Manganese, Technetium, and Rhenium, placing it in Group 7.",
+"bn": "বোরিয়ামের ৭টি যোজ্যতা ইলেকট্রন রয়েছে এবং এটি ম্যাঙ্গানিজ, টেকনেশিয়াম এবং রেনিয়ামের নিচে অবস্থিত, যা এটিকে গ্রুপ ৭-এ স্থান দেয়।"
+}
+},
+{
+"question": {
+"en": "Which transition metal is considered the direct lighter homologue of Bohrium?",
+"bn": "কোন অবস্থান্তর ধাতুকে বোরিয়ামের সরাসরি হালকা সমগোত্রীয় বলে মনে করা হয়?"
+},
+"options": [
+{
+"en": "Tungsten",
+"bn": "টাংস্টেন"
+},
+{
+"en": "Rhenium",
+"bn": "রেনিয়াম"
+},
+{
+"en": "Osmium",
+"bn": "অসমিয়াম"
+},
+{
+"en": "Manganese",
+"bn": "ম্যাঙ্গানিজ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Rhenium (Re) is located immediately above Bohrium in Group 7 and dictates many of Bohrium's expected chemical behaviors.",
+"bn": "রেনিয়াম (Re) গ্রুপ ৭-এ বোরিয়ামের ঠিক উপরে অবস্থিত এবং বোরিয়ামের প্রত্যাশিত অনেক রাসায়নিক আচরণ নির্দেশ করে।"
+}
+},
+{
+"question": {
+"en": "To which block of the periodic table does Bohrium belong?",
+"bn": "বোরিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Bohrium is a transactinide and a transition metal whose outermost filling electrons are in the 6d orbital, placing it in the d-block.",
+"bn": "বোরিয়াম হলো একটি ট্রান্সঅ্যাক্টিনাইড এবং একটি অবস্থান্তর ধাতু যার সবচেয়ে বাইরের পূরণকারী ইলেকট্রনগুলো 6d অরবিটালে থাকে, যা এটিকে ডি-ব্লকে স্থান দেয়।"
+}
+},
+{
+"question": {
+"en": "What volatile compound of Bohrium was definitively synthesized to prove its chemical similarity to Rhenium?",
+"bn": "রেনিয়ামের সাথে এর রাসায়নিক সাদৃশ্য প্রমাণ করতে বোরিয়ামের কোন উদ্বায়ী যৌগটি নিশ্চিতভাবে সংশ্লেষিত হয়েছিল?"
+},
+"options": [
+{
+"en": "Bohrium hexafluoride",
+"bn": "বোরিয়াম হেক্সাফ্লুরোরাইড"
+},
+{
+"en": "Bohrium oxychloride (BhO3Cl)",
+"bn": "বোরিয়াম অক্সিক্লোরাইড (BhO3Cl)"
+},
+{
+"en": "Bohrium dioxide",
+"bn": "বোরিয়াম ডাইঅক্সাইড"
+},
+{
+"en": "Bohrium pentacarbonyl",
+"bn": "বোরিয়াম পেন্টাকার্বনিল"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Researchers managed to create molecules of Bohrium oxychloride (BhO3Cl), behaving exactly like Rhenium oxychloride in gas thermochromatography.",
+"bn": "গবেষকরা গ্যাস থার্মোক্রোমাটোগ্রাফিতে রেনিয়াম অক্সিক্লোরাইডের মতো হুবহু আচরণকারী বোরিয়াম অক্সিক্লোরাইড (BhO3Cl) অণু তৈরি করতে সক্ষম হয়েছেন।"
+}
+},
+{
+"question": {
+"en": "What is the expected physical phase of Bohrium under standard room conditions?",
+"bn": "আদর্শ কক্ষ পরিস্থিতিতে বোরিয়ামের প্রত্যাশিত ভৌত অবস্থা কী?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like all other transition metals in its vicinity on the periodic table, Bohrium is projected to be a dense solid at room temperature.",
+"bn": "পর্যায় সারণিতে এর আশেপাশের অন্যান্য সমস্ত অবস্থান্তর ধাতুর মতো, বোরিয়াম কক্ষ তাপমাত্রায় একটি ঘন কঠিন পদার্থ হবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the highest and most common expected oxidation state for Bohrium?",
+"bn": "বোরিয়ামের জন্য সর্বোচ্চ এবং সবচেয়ে সাধারণ প্রত্যাশিত জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+5",
+"bn": "+৫"
+},
+{
+"en": "+7",
+"bn": "+৭"
+},
+{
+"en": "+8",
+"bn": "+৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Matching Group 7 trends, Bohrium achieves its most stable known complex configurations in the +7 oxidation state.",
+"bn": "গ্রুপ ৭-এর প্রবণতার সাথে মিল রেখে, বোরিয়াম +৭ জারণ অবস্থায় এর সর্বাধিক স্থিতিশীল পরিচিত জটিল বিন্যাসগুলো অর্জন করে।"
+}
+},
+{
+"question": {
+"en": "Approximately what is the predicted density of Bohrium?",
+"bn": "বোরিয়ামের আনুমানিক অনুমিত ঘনত্ব কত?"
+},
+"options": [
+{
+"en": "10 g/cm³",
+"bn": "১০ গ্রাম/ঘন সেমি"
+},
+{
+"en": "22.6 g/cm³ (same as Osmium)",
+"bn": "২২.৬ গ্রাম/ঘন সেমি (অসমিয়ামের মতো)"
+},
+{
+"en": "37.1 g/cm³",
+"bn": "৩৭.১ গ্রাম/ঘন সেমি"
+},
+{
+"en": "45.5 g/cm³",
+"bn": "৪৫.৫ গ্রাম/ঘন সেমি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Due to massive relativistic contraction of its inner electron orbitals, Bohrium's predicted density is a staggering ~37 g/cm³, far heavier than Osmium.",
+"bn": "এর অভ্যন্তরীণ ইলেকট্রন অরবিটালগুলোর ব্যাপক আপেক্ষিক সংকোচনের কারণে, বোরিয়ামের অনুমিত ঘনত্ব প্রায় ৩৭ গ্রাম/ঘন সেমি, যা অসমিয়ামের চেয়ে অনেক ভারী।"
+}
+},
+{
+"question": {
+"en": "Which noble gas core does Bohrium's electron configuration build upon?",
+"bn": "বোরিয়ামের ইলেকট্রন কনফিগারেশন কোন নিষ্ক্রিয় গ্যাসের কোরের ওপর ভিত্তি করে তৈরি?"
+},
+"options": [
+{
+"en": "Xenon",
+"bn": "জেনন"
+},
+{
+"en": "Radon",
+"bn": "রেডন"
+},
+{
+"en": "Krypton",
+"bn": "ক্রিপ্টন"
+},
+{
+"en": "Oganesson",
+"bn": "ওগানেসন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Bohrium is in period 7, so its inner electrons form a Radon [Rn] core before filling the 5f, 6d, and 7s orbitals.",
+"bn": "বোরিয়াম ৭ম পর্যায়ে রয়েছে, তাই 5f, 6d এবং 7s অরবিটালগুলো পূরণ করার আগে এর অভ্যন্তরীণ ইলেকট্রনগুলো একটি রেডন [Rn] কোর গঠন করে।"
+}
+},
+{
+"question": {
+"en": "How many neutrons are in the most stable known isotope of Bohrium (Bohrium-270)?",
+"bn": "বোরিয়ামের সবচেয়ে পরিচিত স্থিতিশীল আইসোটোপে (বোরিয়াম-২৭০) কতগুলো নিউট্রন থাকে?"
+},
+"options": [
+{
+"en": "107",
+"bn": "১০৭"
+},
+{
+"en": "163",
+"bn": "১৬৩"
+},
+{
+"en": "270",
+"bn": "২৭০"
+},
+{
+"en": "150",
+"bn": "১৫০"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Subtracting the atomic number (107 protons) from the mass number (270) gives 163 neutrons.",
+"bn": "ভর সংখ্যা (২৭০) থেকে পারমাণবিক সংখ্যা (১০৭ প্রোটন) বিয়োগ করলে ১৬৩টি নিউট্রন পাওয়া যায়।"
+}
+},
+{
+"question": {
+"en": "What is the primary method by which Bohrium isotopes decay?",
+"bn": "বোরিয়াম আইসোটোপগুলো মূলত কোন পদ্ধতিতে ক্ষয়প্রাপ্ত হয়?"
+},
+"options": [
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Positron emission",
+"bn": "পজিট্রন নির্গমন"
+},
+{
+"en": "Alpha decay and spontaneous fission",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিউশন"
+},
+{
+"en": "Neutron emission",
+"bn": "নিউট্রন নির্গমন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Superheavy elements predominantly decay by shedding massive alpha particles or breaking entirely apart via spontaneous fission.",
+"bn": "সুপারহেভি উপাদানগুলো প্রধানত বিশাল আলফা কণা ঝরিয়ে বা স্বতঃস্ফূর্ত ফিউশনের মাধ্যমে সম্পূর্ণ ভেঙে গিয়ে ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "What does theoretical physics suggest about the volatility of Bohrium compounds compared to its lighter homologues due to relativistic effects?",
+"bn": "আপেক্ষিক প্রভাবের কারণে হালকা সমগোত্রীয়গুলোর তুলনায় বোরিয়াম যৌগের উদ্বায়িতা সম্পর্কে তাত্ত্বিক পদার্থবিজ্ঞান কী পরামর্শ দেয়?"
+},
+"options": [
+{
+"en": "It is much more volatile",
+"bn": "এটি অনেক বেশি উদ্বায়ী"
+},
+{
+"en": "It is slightly less volatile",
+"bn": "এটি কিছুটা কম উদ্বায়ী"
+},
+{
+"en": "It becomes completely inert",
+"bn": "এটি সম্পূর্ণ নিষ্ক্রিয় হয়ে যায়"
+},
+{
+"en": "It violently explodes on contact",
+"bn": "এটি সংস্পর্শে এলে মারাত্মকভাবে বিস্ফোরিত হয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Relativistic effects contract the atomic orbitals, making Bohrium oxychloride slightly less volatile (higher boiling point) than Rhenium oxychloride.",
+"bn": "আপেক্ষিক প্রভাব পারমাণবিক অরবিটালগুলোকে সংকুচিত করে, যা বোরিয়াম অক্সিক্লোরাইডকে রেনিয়াম অক্সিক্লোরাইডের চেয়ে কিছুটা কম উদ্বায়ী (উচ্চ গলনাঙ্ক) করে তোলে।"
+}
+},
+{
+"question": {
+"en": "How many valence electrons does a neutral Bohrium atom possess?",
+"bn": "একটি নিরপেক্ষ বোরিয়াম পরমাণুর কতগুলো যোজ্যতা ইলেকট্রন থাকে?"
+},
+"options": [
+{
+"en": "5",
+"bn": "৫"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "7",
+"bn": "৭"
+},
+{
+"en": "8",
+"bn": "৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "With an outer configuration involving 6d5 and 7s2 electrons, Bohrium has a total of 7 valence electrons.",
+"bn": "6d5 এবং 7s2 ইলেকট্রনের বাইরের কনফিগারেশনসহ, বোরিয়ামের মোট ৭টি যোজ্যতা ইলেকট্রন রয়েছে।"
+}
+},
+{
+"question": {
+"en": "What crystal structure is Bohrium predicted to form if bulk amounts could be observed?",
+"bn": "যদি বাল্ক পরিমাণে বোরিয়াম পর্যবেক্ষণ করা যেত, তবে এটি কোন স্ফটিক কাঠামো গঠন করবে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+},
+{
+"en": "Hexagonal close-packed",
+"bn": "ষড়ভুজাকার ক্লোজ-প্যাকড"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like its homologue Rhenium, Bohrium is predicted to pack its atoms in a highly dense Hexagonal Close-Packed (hcp) formation.",
+"bn": "এর সমগোত্রীয় রেনিয়ামের মতো, বোরিয়াম তার পরমাণুগুলোকে অত্যন্ত ঘন হেক্সাগোনাল ক্লোজ-প্যাকড (hcp) গঠনে প্যাক করবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "Why isn't Bohrium used in medical radiology despite its intense radiation?",
+"bn": "তীব্র বিকিরণ থাকা সত্ত্বেও চিকিৎসা রেডিওলজিতে কেন বোরিয়াম ব্যবহৃত হয় না?"
+},
+"options": [
+{
+"en": "Its radiation is too weak to penetrate skin",
+"bn": "ত্বক ভেদ করার জন্য এর বিকিরণ খুব দুর্বল"
+},
+{
+"en": "It evaporates instantly",
+"bn": "এটি সাথে সাথে বাষ্পীভূত হয়"
+},
+{
+"en": "Its half-life is far too short, and it is impossible to produce in usable quantities",
+"bn": "এর অর্ধায়ু অনেক ছোট এবং ব্যবহারযোগ্য পরিমাণে উৎপাদন করা অসম্ভব"
+},
+{
+"en": "It bonds permanently to human DNA",
+"bn": "এটি মানব ডিএনএ-র সাথে স্থায়ীভাবে যুক্ত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Bohrium decays in mere minutes or seconds, and synthesizing even a single atom requires immense particle accelerators, making practical use impossible.",
+"bn": "বোরিয়াম মাত্র কয়েক মিনিট বা সেকেন্ডের মধ্যে ক্ষয়প্রাপ্ত হয় এবং এমনকি একটি একক পরমাণু সংশ্লেষণ করতে বিশাল পার্টিকেল অ্যাক্সিলারেটরের প্রয়োজন হয়, যা এর ব্যবহারিক প্রয়োগকে অসম্ভব করে তোলে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Bohrium can be found naturally deep inside the Earth's core.",
+"bn": "বোরিয়াম প্রাকৃতিকভাবে পৃথিবীর কোরের গভীরে পাওয়া যায়।"
+},
+{
+"en": "Bohrium's primary use is as a fuel for next-generation nuclear reactors.",
+"bn": "বোরিয়ামের প্রাথমিক ব্যবহার হলো পরবর্তী প্রজন্মের পারমাণবিক চুল্লির জ্বালানি হিসেবে।"
+}
+],
+"learningTips": [
+{
+"en": "Associate Bohrium (107) with Niels Bohr, and remember it sits directly under Rhenium (75) to understand its +7 chemical properties.",
+"bn": "বোরিয়ামকে (১০৭) নিলস বোরের সাথে যুক্ত করুন, এবং এর +৭ রাসায়নিক বৈশিষ্ট্য বোঝার জন্য মনে রাখুন যে এটি সরাসরি রেনিয়ামের (৭৫) নিচে বসে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "²⁰⁹Bi + ⁵⁴Cr → ²⁶²Bh + ¹n",
+"description": {
+"en": "The landmark cold fusion reaction executed by the GSI team to synthesize the first definitive atoms of Bohrium.",
+"bn": "বোরিয়ামের প্রথম নির্দিষ্ট পরমাণু সংশ্লেষণ করার জন্য জিএসআই (GSI) দল কর্তৃক পরিচালিত যুগান্তকারী কোল্ড ফিউশন বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "2Bh + 3O₂ + Cl₂ → 2BhO₃Cl (predicted/trace-observed framework)",
+"description": {
+"en": "Formation of volatile Bohrium oxychloride in gas-phase chemistry experiments, confirming a +7 oxidation state.",
+"bn": "গ্যাস-ফেজ রসায়ন পরীক্ষায় উদ্বায়ী বোরিয়াম অক্সিক্লোরাইড গঠন, যা এর +৭ জারণ অবস্থা নিশ্চিত করে।"
+}
+}
+],
+"reductionExamples": [],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Coordination Bond",
+"bn": "সমযোজী সন্নিবেশ বন্ধন"
+},
+"molecule": "BhO₃Cl",
+"description": {
+"en": "Bohrium shares electrons with highly electronegative oxygen and chlorine atoms to form a stable, volatile complex.",
+"bn": "বোরিয়াম একটি স্থিতিশীল, উদ্বায়ী কমপ্লেক্স তৈরি করতে উচ্চ তড়িৎঋণাত্মক অক্সিজেন এবং ক্লোরিন পরমাণুর সাথে ইলেকট্রন ভাগ করে।"
+}
+}
+]
+}
+}

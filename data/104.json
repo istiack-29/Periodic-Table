@@ -1,0 +1,985 @@
+{
+"elementId": 104,
+"basicInformation": {
+"atomicNumber": 104,
+"symbol": "Rf",
+"name": {
+"en": "Rutherfordium",
+"bn": "রাদারফোর্ডিয়াম"
+},
+"pronunciation": {
+"en": "/ˌrʌðərˈfɔːrdiəm/",
+"bn": "রা-দার-ফোর-ডি-য়াম"
+},
+"atomicMass": 267.0,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 4,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (predicted)",
+"bn": "কঠিন (অনুমিত)"
+},
+"appearance": {
+"en": "Unknown, predicted to be silvery-white or metallic gray",
+"bn": "অজ্ঞাত, সম্ভবত রূপালী-সাদা বা ধাতব ধূসর বলে অনুমিত"
+},
+"color": {
+"en": "Unknown",
+"bn": "অজ্ঞাত"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Joint Institute for Nuclear Research (JINR) and Lawrence Berkeley National Laboratory (LBNL)",
+"bn": "জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (JINR) এবং লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরি (LBNL)"
+},
+"discoveryYear": 1964,
+"discoveryLocation": {
+"en": "Dubna, Soviet Union / Berkeley, California, USA",
+"bn": "দুবনা, সোভিয়েত ইউনিয়ন / বার্কলে, ক্যালিফোর্নিয়া, যুক্তরাষ্ট্র"
+},
+"discoveryStory": {
+"en": "Discovered almost simultaneously by Soviet scientists in Dubna (1964) and American scientists in Berkeley (1969). This sparked the 'Transfermium Wars', a naming dispute that lasted until IUPAC officially named it Rutherfordium in 1997.",
+"bn": "১৯৬৪ সালে দুবনায় সোভিয়েত বিজ্ঞানীরা এবং ১৯৬৯ সালে বার্কলেতে আমেরিকান বিজ্ঞানীরা প্রায় একই সাথে আবিষ্কার করেন। এটি 'ট্রান্সফারমিয়াম যুদ্ধ' নামে একটি নামকরণ বিতর্কের জন্ম দেয়, যা ১৯৯৭ সালে আইইউপিএসি আনুষ্ঠানিকভাবে এর নাম রাদারফোর্ডিয়াম রাখার আগ পর্যন্ত স্থায়ী ছিল।"
+},
+"historicalUses": {
+"en": "Has no historical or practical uses outside of scientific research due to its extreme instability and short half-life.",
+"bn": "এর চরম অস্থিরতা এবং সংক্ষিপ্ত অর্ধায়ুর কারণে বৈজ্ঞানিক গবেষণার বাইরে এর কোনো ঐতিহাসিক বা ব্যবহারিক প্রয়োগ নেই।"
+},
+"famousExperiments": {
+"en": "Bombardment of Plutonium-242 with Neon-22 ions (Dubna), and Californium-249 with Carbon-12 and Carbon-13 ions (Berkeley).",
+"bn": "নিয়ন-২২ আয়ন দিয়ে প্লুটোনিয়াম-২৪২ (দুবনা) এবং কার্বন-১২ ও কার্বন-১৩ আয়ন দিয়ে ক্যালিফোর্নিয়াম-২৪৯ (বার্কলে) এর উপর বোমাবর্ষণ।"
+}
+},
+"atomicStructure": {
+"protons": 104,
+"neutrons": 163,
+"electrons": 104,
+"valenceElectrons": 4,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 10, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d² 7s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 10,
+"4s": 2,
+"4p": 6,
+"4d": 10,
+"4f": 14,
+"5s": 2,
+"5p": 6,
+"5d": 10,
+"5f": 14,
+"6s": 2,
+"6p": 6,
+"6d": 2,
+"7s": 2
+},
+"oxidationStates": [4, 3, 0],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 23.2,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 2400,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 5800,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 150,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 150,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Hexagonal close-packed (predicted)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (অনুমিত)"
+},
+"magneticOrdering": {
+"en": "Unknown",
+"bn": "অজ্ঞাত"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 580.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Extremely radioactive. Chemically, it is expected to behave as a heavier homolog to hafnium, easily forming volatile tetrahydrides and tetrahalides.",
+"bn": "অত্যন্ত তেজস্ক্রিয়। রাসায়নিকভাবে, এটি হ্যাফনিয়ামের ভারী সমগোত্রীয় হিসাবে আচরণ করবে বলে আশা করা হয়, যা সহজেই উদ্বায়ী টেট্রাহাইড্রাইড এবং টেট্রাহ্যালাইড গঠন করে।"
+},
+"commonCompounds": ["RfCl₄", "RfBr₄", "RfO₂", "K₂RfCl₆"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Produced only in vanishingly small quantities for theoretical and experimental physics.",
+"bn": "নেই। তাত্ত্বিক এবং পরীক্ষামূলক পদার্থবিজ্ঞানের জন্য কেবল অতি নগণ্য পরিমাণে উৎপাদিত হয়।"
+},
+"commercialUses": {
+"en": "Not applicable due to extreme radioactivity and a half-life measured in minutes or seconds.",
+"bn": "চরম তেজস্ক্রিয়তা এবং মিনিট বা সেকেন্ডে পরিমাপ করা অর্ধায়ুর কারণে প্রযোজ্য নয়।"
+},
+"electronicsUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"semiconductorUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"aerospaceUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"batteryUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"aiHardwareUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"renewableEnergyUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"nanotechnologyUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"nuclearUses": {
+"en": "Studied intensely in advanced nuclear physics to probe the limits of nuclear stability and test the 'Island of Stability' hypothesis.",
+"bn": "'আইল্যান্ড অফ স্টেবিলিটি' বা স্থিতিশীলতার দ্বীপ অনুকল্প পরীক্ষা করতে এবং পারমাণবিক স্থিতিশীলতার সীমা তদন্ত করতে উন্নত পারমাণবিক পদার্থবিজ্ঞানে নিবিড়ভাবে অধ্যয়ন করা হয়েছে।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"medicalUses": {
+"en": "None. Its radiation is universally lethal to biological tissue.",
+"bn": "নেই। এর বিকিরণ জৈবিক টিস্যুর জন্য সর্বজনীনভাবে মারাত্মক।"
+},
+"foodIndustryUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"constructionUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Absolutely none. It is an artificial, highly unstable element.",
+"bn": "একেবারেই নেই। এটি একটি কৃত্রিম, অত্যন্ত অস্থিতিশীল উপাদান।"
+},
+"humanBodyRole": {
+"en": "Does not exist in the human body.",
+"bn": "মানবদেহে এর কোনো অস্তিত্ব নেই।"
+},
+"toxicity": {
+"en": "Intensely radiotoxic. Even trace hypothetical exposure would result in severe, fatal radiation poisoning.",
+"bn": "তীব্রভাবে রেডিওটক্সিক। এমনকি সামান্য অনুমানমূলক এক্সপোজারের ফলেও মারাত্মক বিকিরণ বিষক্রিয়া হতে পারে।"
+},
+"environmentalImpact": {
+"en": "Zero. It does not exist in nature and atoms synthesized in laboratories decay almost immediately.",
+"bn": "শূন্য। প্রকৃতিতে এর কোনো অস্তিত্ব নেই এবং পরীক্ষাগারে সংশ্লেষিত পরমাণুগুলো প্রায় সাথে সাথেই ক্ষয়প্রাপ্ত হয়।"
+},
+"pollutionRisks": {
+"en": "No broad environmental risk; handled strictly within closed particle accelerator facilities.",
+"bn": "ব্যাপক পরিবেশগত ঝুঁকি নেই; শুধুমাত্র বন্ধ পার্টিকেল এক্সিলারেটর সুবিধার মধ্যে কঠোরভাবে পরিচালিত হয়।"
+},
+"recyclingMethods": {
+"en": "Impossible. Decays via spontaneous fission and alpha emission into lighter, stable elements rapidly.",
+"bn": "অসম্ভব। স্বতঃস্ফূর্ত ফিশন এবং আলফা নির্গমনের মাধ্যমে এটি দ্রুত হালকা ও স্থিতিশীল উপাদানে ক্ষয়প্রাপ্ত হয়।"
+},
+"sustainabilityScore": null
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "United States (LBNL)",
+"bn": "যুক্তরাষ্ট্র (LBNL)"
+},
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Created entirely synthetically through heavy-ion fusion reactions in linear accelerators.",
+"bn": "খনন করা যায় না। লিনিয়ার এক্সিলারেটরে ভারী-আয়ন ফিউশন প্রতিক্রিয়ার মাধ্যমে সম্পূর্ণ কৃত্রিমভাবে তৈরি করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Commercially priceless and completely unavailable. Generating a single atom costs millions of dollars in electricity and facility runtime.",
+"bn": "বাণিজ্যিকভাবে অমূল্য এবং সম্পূর্ণ অনুপলব্ধ। একটি একক পরমাণু তৈরি করতে বিদ্যুৎ এবং সুবিধা চালানোর জন্য লক্ষ লক্ষ ডলার খরচ হয়।"
+},
+"futureDemand": {
+"en": "Exclusively driven by pure scientific curiosity in quantum chemistry and heavy nuclear physics.",
+"bn": "একচেটিয়াভাবে কোয়ান্টাম রসায়ন এবং ভারী পারমাণবিক পদার্থবিজ্ঞানের বিশুদ্ধ বৈজ্ঞানিক কৌতূহল দ্বারা পরিচালিত।"
+},
+"globalImportance": {
+"en": "Crucial for verifying relativistic quantum chemistry models and the predictive nature of the periodic table's 7th row.",
+"bn": "আপেক্ষিক কোয়ান্টাম রসায়ন মডেল এবং পর্যায় সারণির ৭ম সারির ভবিষ্যদ্বাণীমূলক প্রকৃতি যাচাই করার জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radioactive hazard emitting lethal ionizing radiation (alpha particles, neutrons from fission).",
+"bn": "চরম তেজস্ক্রিয় বিপত্তি যা মারাত্মক আয়নাইজিং বিকিরণ নির্গত করে (আলফা কণা, ফিশন থেকে নিউট্রন)।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Atoms decay away in fractions of a second to roughly an hour (depending on the isotope).",
+"bn": "সংরক্ষণ করা যায় না। পরমাণুগুলো সেকেন্ডের ভগ্নাংশ থেকে প্রায় এক ঘন্টার মধ্যে (আইসোটোপের উপর নির্ভর করে) ক্ষয়প্রাপ্ত হয়।"
+},
+"handlingProcedures": {
+"en": "Requires automated robotic systems, heavily shielded hot cells, and computerized spectroscopic detection.",
+"bn": "স্বয়ংক্রিয় রোবোটিক সিস্টেম, ভারী আচ্ছাদিত হট সেল এবং কম্পিউটারাইজড স্পেকট্রোস্কোপিক সনাক্তকরণ প্রয়োজন।"
+},
+"exposureRisks": {
+"en": "Lethal acute radiation syndrome.",
+"bn": "মারাত্মক তীব্র বিকিরণ সিনড্রোম।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Rutherfordium is an artificial, superheavy element created by smashing lighter atoms together at high speeds. It breaks apart almost as soon as it is made.",
+"bn": "রাদারফোর্ডিয়াম একটি কৃত্রিম, অতিভারী উপাদান যা হালকা পরমাণুগুলোকে উচ্চ গতিতে একত্রে ভেঙে তৈরি করা হয়। এটি তৈরি হওয়ার প্রায় সাথে সাথেই ভেঙে যায়।"
+},
+"advancedExplanation": {
+"en": "Rutherfordium (Element 104) is the first transactinide element. Its position below Hafnium implies Group 4 chemical properties. Its brief existence limits analysis, but gas-phase thermochromatography of its volatile chlorides has proven its chemistry matches periodic table predictions, despite heavy relativistic effects on its electron orbitals.",
+"bn": "রাদারফোর্ডিয়াম (উপাদান ১০৪) হলো প্রথম ট্রান্সঅ্যাক্টিনাইড উপাদান। হ্যাফনিয়ামের নিচে এর অবস্থান গ্রুপ ৪ এর রাসায়নিক বৈশিষ্ট্যগুলোকে নির্দেশ করে। এর সংক্ষিপ্ত অস্তিত্ব বিশ্লেষণকে সীমাবদ্ধ করে, কিন্তু এর উদ্বায়ী ক্লোরাইডগুলির গ্যাস-ফেজ থার্মোক্রোমাটোগ্রাফি প্রমাণ করেছে যে এর ইলেকট্রন অরবিটালগুলোর ওপর ভারী আপেক্ষিক প্রভাব থাকা সত্ত্বেও এর রসায়ন পর্যায় সারণির ভবিষ্যদ্বাণীগুলোর সাথে মিলে যায়।"
+},
+"funFacts": [
+{
+"en": "It was named after Ernest Rutherford, the 'father of nuclear physics'.",
+"bn": "এর নামকরণ করা হয়েছে 'পারমাণবিক পদার্থবিজ্ঞানের জনক' আর্নেস্ট রাদারফোর্ডের নামে।"
+},
+{
+"en": "For 30 years, it was known as 'Kurchatovium' in the Soviet Union and 'Rutherfordium' in the US.",
+"bn": "৩০ বছর ধরে এটি সোভিয়েত ইউনিয়নে 'কুরচাটোভিয়াম' এবং মার্কিন যুক্তরাষ্ট্রে 'রাদারফোর্ডিয়াম' নামে পরিচিত ছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 72,
+"relation": {
+"en": "Rutherfordium is a heavier homolog to Hafnium, sharing the +4 oxidation state and forming similar tetrahedral volatile compounds.",
+"bn": "রাদারফোর্ডিয়াম হ্যাফনিয়ামের একটি ভারী সমগোত্রীয়, যা +৪ জারণ অবস্থা ভাগ করে নেয় এবং অনুরূপ টেট্রাহেড্রাল উদ্বায়ী যৌগ গঠন করে।"
+}
+}
+],
+"relatedElements": [72, 40, 105, 106],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Rutherfordium?",
+"bn": "রাদারফোর্ডিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "100",
+"bn": "১০০"
+},
+{
+"en": "102",
+"bn": "১০২"
+},
+{
+"en": "104",
+"bn": "১০৪"
+},
+{
+"en": "106",
+"bn": "১০৬"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Rutherfordium is the 104th element on the periodic table.",
+"bn": "রাদারফোর্ডিয়াম পর্যায় সারণির ১০৪তম উপাদান।"
+}
+},
+{
+"question": {
+"en": "Who is the element Rutherfordium named after?",
+"bn": "কোন ব্যক্তির নামানুসারে রাদারফোর্ডিয়াম উপাদানের নামকরণ করা হয়েছে?"
+},
+"options": [
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Ernest Rutherford",
+"bn": "আর্নেস্ট রাদারফোর্ড"
+},
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+},
+{
+"en": "Igor Kurchatov",
+"bn": "ইগর কুরচাটোভ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It honors Ernest Rutherford, a pioneer of nuclear physics who discovered the atomic nucleus.",
+"bn": "এটি পারমাণবিক পদার্থবিজ্ঞানের পথপ্রদর্শক আর্নেস্ট রাদারফোর্ডকে সম্মান জানায় যিনি পরমাণুর নিউক্লিয়াস আবিষ্কার করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "Rutherfordium belongs to which group in the periodic table?",
+"bn": "রাদারফোর্ডিয়াম পর্যায় সারণির কোন গ্রুপের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Group 2",
+"bn": "গ্রুপ ২"
+},
+{
+"en": "Group 4",
+"bn": "গ্রুপ ৪"
+},
+{
+"en": "Group 6",
+"bn": "গ্রুপ ৬"
+},
+{
+"en": "Group 8",
+"bn": "গ্রুপ ৮"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It sits directly below Titanium, Zirconium, and Hafnium in Group 4.",
+"bn": "এটি গ্রুপ ৪ এ টাইটানিয়াম, জিরকোনিয়াম এবং হ্যাফনিয়ামের ঠিক নিচে অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "What was the proposed name for Element 104 by the Soviet scientists before IUPAC intervened?",
+"bn": "IUPAC হস্তক্ষেপ করার আগে সোভিয়েত বিজ্ঞানীদের দ্বারা ১০৪তম উপাদানের প্রস্তাবিত নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Dubnium",
+"bn": "দুবনিয়াম"
+},
+{
+"en": "Seaborgium",
+"bn": "সিবোরজিয়াম"
+},
+{
+"en": "Kurchatovium",
+"bn": "কুরচাটোভিয়াম"
+},
+{
+"en": "Bohrium",
+"bn": "বোরিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Soviet researchers at JINR proposed 'Kurchatovium' in honor of Igor Kurchatov, head of the Soviet nuclear research program.",
+"bn": "JINR-এ সোভিয়েত গবেষকরা সোভিয়েত পারমাণবিক গবেষণা কর্মসূচির প্রধান ইগর কুরচাটোভের সম্মানে 'কুরচাটোভিয়াম' প্রস্তাব করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "Rutherfordium is formally recognized as the very first element of which series?",
+"bn": "রাদারফোর্ডিয়াম আনুষ্ঠানিকভাবে কোন সিরিজের প্রথম উপাদান হিসাবে স্বীকৃত?"
+},
+"options": [
+{
+"en": "Actinides",
+"bn": "অ্যাক্টিনাইডস"
+},
+{
+"en": "Lanthanides",
+"bn": "ল্যান্থানাইডস"
+},
+{
+"en": "Transactinides",
+"bn": "ট্রান্সঅ্যাক্টিনাইডস"
+},
+{
+"en": "Halogens",
+"bn": "হ্যালোজেন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It begins the transactinide series, which follows the actinide series ending at Lawrencium (103).",
+"bn": "এটি ট্রান্সঅ্যাক্টিনাইড সিরিজ শুরু করে, যা লরেনসিয়াম (১০৩) এ সমাপ্ত হওয়া অ্যাক্টিনাইড সিরিজের ঠিক পরে আসে।"
+}
+},
+{
+"question": {
+"en": "What is the primary physical state of Rutherfordium expected to be at standard room temperature?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় রাদারফোর্ডিয়ামের প্রাথমিক ভৌত অবস্থা কেমন হবে বলে আশা করা হয়?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Based on its placement in the transition metals, it is universally predicted to be a solid metal at room temperature.",
+"bn": "অবস্থান্তর ধাতুর শ্রেণিতে এর অবস্থানের উপর ভিত্তি করে, এটি কক্ষ তাপমাত্রায় একটি কঠিন ধাতু হবে বলে সর্বজনীনভাবে ভবিষ্যদ্বাণী করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary method used to synthesize atoms of Rutherfordium?",
+"bn": "রাদারফোর্ডিয়ামের পরমাণু সংশ্লেষণ করতে ব্যবহৃত প্রাথমিক পদ্ধতি কোনটি?"
+},
+"options": [
+{
+"en": "Neutron capture in nuclear reactors",
+"bn": "পারমাণবিক চুল্লিতে নিউট্রন ক্যাপচার"
+},
+{
+"en": "Alpha decay of Uranium",
+"bn": "ইউরেনিয়ামের আলফা ক্ষয়"
+},
+{
+"en": "Heavy ion bombardment in particle accelerators",
+"bn": "পার্টিকেল এক্সিলারেটরে ভারী আয়ন বোমাবর্ষণ"
+},
+{
+"en": "Chemical isolation from Hafnium ores",
+"bn": "হ্যাফনিয়াম আকরিক থেকে রাসায়নিক বিচ্ছিন্নকরণ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Superheavy elements like Rf are made by accelerating lighter ions and colliding them into heavy actinide targets.",
+"bn": "Rf-এর মতো অতিভারী উপাদানগুলো হালকা আয়নকে ত্বরান্বিত করে ভারী অ্যাক্টিনাইড লক্ষ্যবস্তুতে সংঘর্ষের মাধ্যমে তৈরি করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the most stable known isotope of Rutherfordium and its approximate half-life?",
+"bn": "রাদারফোর্ডিয়ামের সর্বাধিক স্থিতিশীল পরিচিত আইসোটোপ এবং এর আনুমানিক অর্ধায়ু কত?"
+},
+"options": [
+{
+"en": "Rf-267 (~1.3 hours)",
+"bn": "Rf-267 (~১.৩ ঘন্টা)"
+},
+{
+"en": "Rf-261 (~1.2 minutes)",
+"bn": "Rf-261 (~১.২ মিনিট)"
+},
+{
+"en": "Rf-255 (~2 seconds)",
+"bn": "Rf-255 (~২ সেকেন্ড)"
+},
+{
+"en": "Rf-269 (~10 days)",
+"bn": "Rf-269 (~১০ দিন)"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Rf-267 is the most stable isotope discovered so far, with a half-life of roughly 1.3 hours.",
+"bn": "Rf-267 এখন পর্যন্ত আবিষ্কৃত সবচেয়ে স্থিতিশীল আইসোটোপ, যার অর্ধায়ু প্রায় ১.৩ ঘণ্টা।"
+}
+},
+{
+"question": {
+"en": "Rutherfordium atoms frequently decay via a unique and catastrophic mode where the heavy nucleus splits into two roughly equal lighter nuclei. What is this called?",
+"bn": "রাদারফোর্ডিয়াম পরমাণুগুলো প্রায়শই একটি অনন্য এবং বিপর্যয়কর মোডের মাধ্যমে ক্ষয়প্রাপ্ত হয় যেখানে ভারী নিউক্লিয়াস দুটি মোটামুটি সমান হালকা নিউক্লিয়াসে বিভক্ত হয়। একে কী বলা হয়?"
+},
+"options": [
+{
+"en": "Beta emission",
+"bn": "বিটা নির্গমন"
+},
+{
+"en": "Positron capture",
+"bn": "পজিট্রন ক্যাপচার"
+},
+{
+"en": "Spontaneous fission",
+"bn": "স্বতঃস্ফূর্ত ফিশন"
+},
+{
+"en": "Gamma radiation",
+"bn": "গামা বিকিরণ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Spontaneous fission is highly common in superheavy elements because the strong nuclear force struggles to hold the massive nucleus together.",
+"bn": "অতিভারী উপাদানগুলোতে স্বতঃস্ফূর্ত ফিশন অত্যন্ত সাধারণ কারণ শক্তিশালী পারমাণবিক বল বিশাল নিউক্লিয়াসকে একত্রে ধরে রাখতে হিমশিম খায়।"
+}
+},
+{
+"question": {
+"en": "What predicted phenomenon alters the orbital energies of superheavy elements like Rutherfordium, causing slight deviations from periodic trends?",
+"bn": "কোন অনুমিত ঘটনাটি রাদারফোর্ডিয়ামের মতো অতিভারী উপাদানগুলোর অরবিটাল শক্তিকে পরিবর্তন করে, যা পর্যায়ক্রমিক প্রবণতা থেকে সামান্য বিচ্যুতির কারণ হয়?"
+},
+"options": [
+{
+"en": "Magnetic resonance",
+"bn": "ম্যাগনেটিক রেজোন্যান্স"
+},
+{
+"en": "Relativistic effects",
+"bn": "আপেক্ষিক প্রভাব"
+},
+{
+"en": "Isotope fractionalization",
+"bn": "আইসোটোপ ফ্র্যাকশনালাইজেশন"
+},
+{
+"en": "Electron shielding collapse",
+"bn": "ইলেকট্রন শিল্ডিং কলাপ্স"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Relativistic effects occur because the high positive charge of the nucleus accelerates inner electrons close to the speed of light, contracting s and p orbitals.",
+"bn": "আপেক্ষিক প্রভাব ঘটে কারণ নিউক্লিয়াসের উচ্চ ধনাত্মক আধান ভিতরের ইলেকট্রনগুলোকে আলোর গতির কাছাকাছি ত্বরান্বিত করে, যা s এবং p অরবিটালগুলোকে সংকুচিত করে।"
+}
+},
+{
+"question": {
+"en": "Based on its periodic placement, what is the most stable predicted oxidation state for Rutherfordium in compounds?",
+"bn": "এর পর্যায়ক্রমিক অবস্থানের উপর ভিত্তি করে, যৌগগুলিতে রাদারফোর্ডিয়ামের জন্য সর্বাধিক স্থিতিশীল অনুমিত জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like Titanium, Zirconium, and Hafnium, Rutherfordium preferentially loses its four valence electrons to achieve a +4 oxidation state.",
+"bn": "টাইটানিয়াম, জিরকোনিয়াম এবং হ্যাফনিয়ামের মতো, রাদারফোর্ডিয়াম +৪ জারণ অবস্থা অর্জনের জন্য পছন্দসইভাবে এর চারটি যোজ্যতা ইলেকট্রন হারায়।"
+}
+},
+{
+"question": {
+"en": "Which physical property of Rutherfordium makes it impossible to measure macroscopic properties like bulk density or melting point?",
+"bn": "রাদারফোর্ডিয়ামের কোন ভৌত বৈশিষ্ট্যের কারণে এর বাল্ক ঘনত্ব বা গলনাঙ্কের মতো ম্যাক্রোস্কোপিক বৈশিষ্ট্যগুলো পরিমাপ করা অসম্ভব হয়ে পড়ে?"
+},
+"options": [
+{
+"en": "It is completely transparent",
+"bn": "এটি সম্পূর্ণ স্বচ্ছ"
+},
+{
+"en": "It is highly magnetic",
+"bn": "এটি অত্যন্ত চৌম্বকীয়"
+},
+{
+"en": "It violently reacts with air",
+"bn": "এটি বাতাসের সাথে তীব্রভাবে প্রতিক্রিয়া করে"
+},
+{
+"en": "It is synthesized one atom at a time and decays quickly",
+"bn": "এটি একবারে একটি পরমাণু সংশ্লেষিত হয় এবং দ্রুত ক্ষয়প্রাপ্ত হয়"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Since only a few atoms have ever existed simultaneously, large-scale properties must be predicted mathematically rather than measured.",
+"bn": "যেহেতু একসাথে মাত্র কয়েকটি পরমাণু তৈরি করা সম্ভব হয়েছে, তাই বড় আকারের বৈশিষ্ট্যগুলো পরিমাপ করার পরিবর্তে গাণিতিকভাবে ভবিষ্যদ্বাণী করতে হয়।"
+}
+},
+{
+"question": {
+"en": "What type of chemical bond is expected to form when Rutherfordium reacts with Chlorine to form RfCl4?",
+"bn": "রাদারফোর্ডিয়াম ক্লোরিনের সাথে বিক্রিয়া করে RfCl4 গঠন করার সময় কোন ধরনের রাসায়নিক বন্ধন তৈরি হবে বলে আশা করা হয়?"
+},
+"options": [
+{
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+{
+"en": "Pure Ionic Bond",
+"bn": "বিশুদ্ধ আয়নিক বন্ধন"
+},
+{
+"en": "Metallic Bond",
+"bn": "ধাতব বন্ধন"
+},
+{
+"en": "Hydrogen Bond",
+"bn": "হাইড্রোজেন বন্ধন"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "The Group 4 tetrahalides (like TiCl4, ZrCl4, and HfCl4) form largely covalent, highly volatile molecular geometries.",
+"bn": "গ্রুপ ৪ এর টেট্রাহ্যালাইডগুলো (যেমন TiCl4, ZrCl4, এবং HfCl4) মূলত সমযোজী এবং অত্যন্ত উদ্বায়ী আণবিক জ্যামিতি গঠন করে।"
+}
+},
+{
+"question": {
+"en": "Which block of the periodic table does Rutherfordium formally reside in?",
+"bn": "পর্যায় সারণির কোন ব্লকে রাদারফোর্ডিয়াম আনুষ্ঠানিকভাবে অবস্থান করে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Despite its high atomic mass, its outermost electrons are filling the 6d subshell, placing it firmly in the d-block.",
+"bn": "এর উচ্চ পারমাণবিক ভর থাকা সত্ত্বেও, এর বাইরের ইলেকট্রনগুলো 6d সাবশেল পূরণ করে, যা একে দৃঢ়ভাবে ডি-ব্লকে স্থাপন করে।"
+}
+},
+{
+"question": {
+"en": "Which analytical technique is used by scientists to study the chemical properties of superheavy elements like Rutherfordium?",
+"bn": "রাদারফোর্ডিয়ামের মতো অতিভারী উপাদানগুলোর রাসায়নিক বৈশিষ্ট্য অধ্যয়নের জন্য বিজ্ঞানীরা কোন বিশ্লেষণাত্মক কৌশল ব্যবহার করেন?"
+},
+"options": [
+{
+"en": "Mass Spectrometry alone",
+"bn": "শুধুমাত্র ভর স্পেকট্রোমেট্রি"
+},
+{
+"en": "Gas-phase thermochromatography",
+"bn": "গ্যাস-ফেজ থার্মোক্রোমাটোগ্রাফি"
+},
+{
+"en": "X-ray Crystallography",
+"bn": "এক্স-রে ক্রিস্টালোগ্রাফি"
+},
+{
+"en": "Nuclear Magnetic Resonance",
+"bn": "নিউক্লিয়ার ম্যাগনেটিক রেজোন্যান্স"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Gas-phase thermochromatography allows scientists to observe the volatility and interactions of single atoms of Rf bonded to halogens as they travel down a temperature gradient.",
+"bn": "গ্যাস-ফেজ থার্মোক্রোমাটোগ্রাফির সাহায্যে বিজ্ঞানীরা হ্যালোজেনের সাথে যুক্ত Rf এর একক পরমাণুর উদ্বায়ীতা এবং মিথস্ক্রিয়া পর্যবেক্ষণ করতে পারেন যখন তারা একটি তাপমাত্রার গ্রেডিয়েন্ট দিয়ে ভ্রমণ করে।"
+}
+},
+{
+"question": {
+"en": "If a visible sample of Rutherfordium could be created, why would it likely be incredibly hot to the touch before vaporizing?",
+"bn": "যদি রাদারফোর্ডিয়ামের একটি দৃশ্যমান নমুনা তৈরি করা যেত, তবে বাষ্পীভূত হওয়ার আগে এটি স্পর্শ করলে কেন এটি অবিশ্বাস্যভাবে গরম অনুভূত হতো?"
+},
+"options": [
+{
+"en": "It has an abnormally high specific heat capacity",
+"bn": "এর অস্বাভাবিকভাবে উচ্চ আপেক্ষিক তাপ ক্ষমতা রয়েছে"
+},
+{
+"en": "Intense decay heat from constant radioactive breakdown",
+"bn": "ক্রমাগত তেজস্ক্রিয় ভাঙ্গনের ফলে তীব্র ক্ষয় তাপ"
+},
+{
+"en": "It rapidly absorbs infrared radiation",
+"bn": "এটি দ্রুত ইনফ্রারেড বিকিরণ শোষণ করে"
+},
+{
+"en": "Exothermic reaction with airborne nitrogen",
+"bn": "বাতাসবাহিত নাইট্রোজেনের সাথে এক্সোথার্মিক বিক্রিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The sheer volume of alpha decay and spontaneous fission would generate massive amounts of thermal energy, melting or vaporizing the sample instantly.",
+"bn": "বিপুল পরিমাণ আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন প্রচুর পরিমাণে তাপীয় শক্তি উৎপন্ন করবে, যা নমুনাটিকে তাত্ক্ষণিকভাবে গলিয়ে বা বাষ্পীভূত করে দেবে।"
+}
+},
+{
+"question": {
+"en": "In what year was the 'Transfermium Wars' naming dispute officially resolved, awarding the name Rutherfordium?",
+"bn": "কোন সালে 'ট্রান্সফারমিয়াম যুদ্ধ' নামকরণ বিতর্কের আনুষ্ঠানিকভাবে সমাধান করা হয়েছিল এবং রাদারফোর্ডিয়াম নামটি পুরস্কৃত করা হয়েছিল?"
+},
+"options": [
+{
+"en": "1969",
+"bn": "১৯৬৯"
+},
+{
+"en": "1985",
+"bn": "১৯৮৫"
+},
+{
+"en": "1997",
+"bn": "১৯৯৭"
+},
+{
+"en": "2010",
+"bn": "২০১০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "IUPAC finally resolved the decades-long dispute over elements 104-106 in 1997.",
+"bn": "IUPAC শেষপর্যন্ত ১৯৯৭ সালে ১০৪-১০৬ উপাদান নিয়ে কয়েক দশকের পুরনো বিতর্কের সমাধান করে।"
+}
+},
+{
+"question": {
+"en": "What is the expected molecular geometry of Rutherfordium tetrachloride (RfCl4)?",
+"bn": "রাদারফোর্ডিয়াম টেট্রাক্লোরাইডের (RfCl4) প্রত্যাশিত আণবিক জ্যামিতি কী?"
+},
+"options": [
+{
+"en": "Linear",
+"bn": "রৈখিক"
+},
+{
+"en": "Square planar",
+"bn": "স্কয়ার প্ল্যানার"
+},
+{
+"en": "Tetrahedral",
+"bn": "টেট্রাহেড্রাল"
+},
+{
+"en": "Octahedral",
+"bn": "অক্টাহেড্রাল"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Based on VSEPR theory and the +4 oxidation state, RfCl4 will adopt a tetrahedral geometry, much like Titanium and Hafnium tetrachlorides.",
+"bn": "VSEPR তত্ত্ব এবং +৪ জারণ অবস্থার ওপর ভিত্তি করে, RfCl4 টাইটানিয়াম এবং হ্যাফনিয়াম টেট্রাক্লোরাইডের মতোই একটি টেট্রাহেড্রাল জ্যামিতি গ্রহণ করবে।"
+}
+},
+{
+"question": {
+"en": "Which specific laboratory in Russia co-discovered Rutherfordium?",
+"bn": "রাশিয়ার কোন নির্দিষ্ট গবেষণাগারটি রাদারফোর্ডিয়ামের সহ-আবিষ্কারক?"
+},
+"options": [
+{
+"en": "Moscow State University",
+"bn": "মস্কো স্টেট বিশ্ববিদ্যালয়"
+},
+{
+"en": "Joint Institute for Nuclear Research (JINR) in Dubna",
+"bn": "দুবনায় জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (JINR)"
+},
+{
+"en": "Kurchatov Institute in Moscow",
+"bn": "মস্কোর কুরচাটোভ ইনস্টিটিউট"
+},
+{
+"en": "Novosibirsk State University",
+"bn": "নোভোসিবিরস্ক স্টেট বিশ্ববিদ্যালয়"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The JINR in Dubna, Russia, has been instrumental in the discovery of many superheavy elements.",
+"bn": "রাশিয়ার দুবনায় অবস্থিত JINR অনেক অতিভারী উপাদান আবিষ্কারে গুরুত্বপূর্ণ ভূমিকা পালন করেছে।"
+}
+},
+{
+"question": {
+"en": "What happens to a Rutherfordium atom when it undergoes alpha decay?",
+"bn": "রাদারফোর্ডিয়ামের পরমাণু যখন আলফা ক্ষয় প্রক্রিয়ার মধ্য দিয়ে যায় তখন কী ঘটে?"
+},
+"options": [
+{
+"en": "It turns into an isotope of Nobelium (element 102)",
+"bn": "এটি নোবেলিয়ামের (উপাদান ১০২) একটি আইসোটোপে পরিণত হয়"
+},
+{
+"en": "It loses exactly one proton",
+"bn": "এটি ঠিক একটি প্রোটন হারায়"
+},
+{
+"en": "It absorbs an electron and becomes Lawrencium",
+"bn": "এটি একটি ইলেকট্রন শোষণ করে এবং লরেনসিয়ামে পরিণত হয়"
+},
+{
+"en": "It splits into Barium and Krypton",
+"bn": "এটি বেরিয়াম এবং ক্রিপ্টনে বিভক্ত হয়"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Alpha decay involves the ejection of a helium nucleus (2 protons, 2 neutrons), reducing the atomic number by 2 (104 -> 102).",
+"bn": "আলফা ক্ষয়ের মধ্যে একটি হিলিয়াম নিউক্লিয়াসের (২ প্রোটন, ২ নিউট্রন) নির্গমন জড়িত, যা পারমাণবিক সংখ্যা ২ (১০৪ -> ১০২) কমিয়ে দেয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "You can find Rutherfordium in deep space.",
+"bn": "আপনি গভীর মহাকাশে রাদারফোর্ডিয়াম খুঁজে পেতে পারেন।"
+},
+{
+"en": "Rutherfordium can be mined if we dig deep enough.",
+"bn": "আমরা যদি যথেষ্ট গভীরে খনন করি তবে রাদারফোর্ডিয়াম খনন করা যেতে পারে।"
+}
+],
+"learningTips": [
+{
+"en": "Remember the element by connecting its position (Group 4) to its 4 valence electrons, helping you predict its +4 oxidation state.",
+"bn": "পর্যায় সারণিতে এর অবস্থান (গ্রুপ ৪) এবং এর ৪টি ভ্যালেন্স ইলেকট্রনের মধ্যে সংযোগ স্থাপন করে উপাদানটি মনে রাখুন, যা আপনাকে এর +৪ জারণ অবস্থার ভবিষ্যদ্বাণী করতে সাহায্য করবে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Rf + 2Cl₂ → RfCl₄",
+"description": {
+"en": "Predicted formation of Rutherfordium tetrachloride from pure elements.",
+"bn": "বিশুদ্ধ উপাদান থেকে রাদারফোর্ডিয়াম টেট্রাক্লোরাইড গঠনের ভবিষ্যদ্বাণী।"
+}
+},
+{
+"equation": "Rf + 2O₂ → RfO₂ + 2O",
+"description": {
+"en": "Expected formation of Rutherfordium dioxide in oxygen-rich environments.",
+"bn": "অক্সিজেন সমৃদ্ধ পরিবেশে রাদারফোর্ডিয়াম ডাই অক্সাইড গঠনের প্রত্যাশা।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Rf → Rf⁴⁺ + 4e⁻",
+"description": {
+"en": "Oxidation of Rutherfordium metal to its most stable +4 ionic state.",
+"bn": "রাদারফোর্ডিয়াম ধাতুকে এর সবচেয়ে স্থিতিশীল +৪ আয়নিক অবস্থায় জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Rf⁴⁺ + 4e⁻ → Rf",
+"description": {
+"en": "Hypothetical reduction of Rutherfordium ions back to elemental solid state.",
+"bn": "রাদারফোর্ডিয়াম আয়নকে আবার মৌলিক কঠিন অবস্থায় নিয়ে আসার অনুমানমূলক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "RfCl₄",
+"description": {
+"en": "Rutherfordium shares electrons with four Chlorine atoms to form a volatile tetrahedral molecule.",
+"bn": "রাদারফোর্ডিয়াম একটি উদ্বায়ী টেট্রাহেড্রাল অণু গঠন করতে চারটি ক্লোরিন পরমাণুর সাথে ইলেকট্রন ভাগ করে নেয়।"
+}
+}
+]
+}
+}

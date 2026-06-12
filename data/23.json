@@ -1,0 +1,1025 @@
+{
+"elementId": 23,
+"basicInformation": {
+"atomicNumber": 23,
+"symbol": "V",
+"name": {
+"en": "Vanadium",
+"bn": "ভ্যানাডিয়াম"
+},
+"pronunciation": {
+"en": "/vəˈneɪdiəm/",
+"bn": "ভ্যানেডিয়াম"
+},
+"atomicMass": 50.9415,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 5,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Blue-silvery grey metal",
+"bn": "নীলচে-রূপালি ধূসর ধাতু"
+},
+"color": {
+"en": "Silver",
+"bn": "রূপালি"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Andrés Manuel del Río",
+"bn": "আন্দ্রেস ম্যানুয়েল দেল রিও"
+},
+"discoveryYear": 1801,
+"discoveryLocation": {
+"en": "Mexico",
+"bn": "মেক্সিকো"
+},
+"discoveryStory": {
+"en": "Discovered by del Río in 1801 as 'erythronium', but he was falsely convinced by other chemists that it was merely impure chromium. It was rediscovered in 1830 by Nils Gabriel Sefström, who named it after Vanadis, the Norse goddess of beauty, due to its vividly colored chemical compounds.",
+"bn": "১৮০১ সালে দেল রিও 'এরিথ্রোনিয়াম' হিসেবে এটি আবিষ্কার করেন, কিন্তু অন্যান্য রসায়নবিদরা তাকে ভুলভাবে বিশ্বাস করান যে এটি কেবল অশুদ্ধ ক্রোমিয়াম। ১৮৩০ সালে নিলস গ্যাব্রিয়েল সেফস্ট্রোম এটি পুনরায় আবিষ্কার করেন এবং এর উজ্জ্বল রঙিন রাসায়নিক যৌগগুলোর কারণে নর্স সৌন্দর্যের দেবী ভ্যানাডিস এর নামানুসারে এর নামকরণ করেন।"
+},
+"historicalUses": {
+"en": "It became famous in the early 20th century when Henry Ford used vanadium steel alloys to make the chassis of the Model T lighter and vastly stronger than competitors.",
+"bn": "বিংশ শতাব্দীর গোড়ার দিকে এটি বিখ্যাত হয়ে ওঠে যখন হেনরি ফোর্ড ফোর্ড মডেল টি (Model T) এর চ্যাসিসকে হালকা এবং প্রতিযোগীদের তুলনায় অনেক বেশি শক্তিশালী করতে ভ্যানাডিয়াম স্টিল অ্যালয় ব্যবহার করেন।"
+},
+"famousExperiments": {
+"en": "Henry Enfield Roscoe's 1867 isolation of pure vanadium metal by hydrogen reduction of vanadium(II) chloride (VCl2), proving previous samples were actually vanadium nitride.",
+"bn": "১৮৬৭ সালে হেনরি এনফিল্ড রোস্কো ভ্যানাডিয়াম(II) ক্লোরাইডের (VCl2) হাইড্রোজেন বিজারণ দ্বারা বিশুদ্ধ ভ্যানাডিয়াম ধাতু আলাদা করেন, যা প্রমাণ করে যে পূর্ববর্তী নমুনাগুলি আসলে ভ্যানাডিয়াম নাইট্রাইড ছিল।"
+}
+},
+"atomicStructure": {
+"protons": 23,
+"neutrons": 28,
+"electrons": 23,
+"valenceElectrons": 5,
+"shells": 4,
+"shellDistribution": [2, 8, 11, 2],
+"electronConfiguration": "[Ar] 3d³ 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 3,
+"4s": 2
+},
+"oxidationStates": [5, 4, 3, 2],
+"quantumNumbers": {
+"principal": 3,
+"azimuthal": 2,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 6.00,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 2183,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 3680,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 134,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 153,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": {
+"value": 30.7,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 5000000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.489,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 6.7,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টারড কিউবিক"
+},
+"magneticOrdering": {
+"en": "Paramagnetic",
+"bn": "প্যারাম্যাগনেটিক"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.63,
+"ionizationEnergy": {
+"value": 650.9,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 50.6,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Forms a passivating oxide layer. Resists attack by alkalis, hydrochloric acid, and sulfuric acid, but dissolves in nitric acid and hydrofluoric acid.",
+"bn": "একটি প্যাসিভেটিং অক্সাইড স্তর গঠন করে। ক্ষার, হাইড্রোক্লোরিক অ্যাসিড এবং সালফিউরিক অ্যাসিডের আক্রমণ প্রতিরোধ করে, তবে নাইট্রিক অ্যাসিড এবং হাইড্রোফ্লুরিক অ্যাসিডে দ্রবীভূত হয়।"
+},
+"commonCompounds": [
+"V₂O₅",
+"VO₂",
+"VCl₄",
+"VOSO₄",
+"NaVO₃"
+],
+"flameTestColor": {
+"en": "Greenish-yellow",
+"bn": "সবুজাভ-হলুদ"
+},
+"spectralLines": [
+"437.92nm",
+"438.47nm",
+"440.85nm"
+]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Production of high-strength, low-alloy (HSLA) steels via ferrovanadium addition. Vanadium pentoxide is the primary catalyst in the Contact Process for sulfuric acid manufacturing.",
+"bn": "ফেরোভ্যানাডিয়াম যোগ করার মাধ্যমে উচ্চ-শক্তির, কম-অ্যালয় (HSLA) স্টিল তৈরি। সালফিউরিক অ্যাসিড তৈরির কন্টাক্ট প্রক্রিয়ায় ভ্যানাডিয়াম পেন্টোক্সাইড প্রাথমিক অনুঘটক।"
+},
+"commercialUses": {
+"en": "Chrome-vanadium steel is the global standard for high-durability hand tools, axles, and gears.",
+"bn": "উচ্চ-স্থায়িত্বের হাতুড়ি/রেঞ্চ, এক্সেল এবং গিয়ার তৈরির জন্য ক্রোম-ভ্যানাডিয়াম স্টিল হল বিশ্বব্যাপী মানদণ্ড।"
+},
+"electronicsUses": {
+"en": "Vanadium dioxide (VO2) thin films are used in smart windows and thermal sensors due to temperature-dependent phase shifting.",
+"bn": "তাপমাত্রা-নির্ভর ফেজ পরিবর্তনের কারণে ভ্যানাডিয়াম ডাই অক্সাইড (VO2) পাতলা ফিল্মগুলো স্মার্ট উইন্ডো এবং থার্মাল সেন্সরে ব্যবহৃত হয়।"
+},
+"semiconductorUses": {
+"en": "Exploratory use in neuromorphic (brain-like) computing circuits utilizing the metal-insulator transition of VO2.",
+"bn": "VO2 এর মেটাল-ইনসুলেটর রূপান্তরকে কাজে লাগিয়ে নিউরোমরফিক (মস্তিষ্কের মতো) কম্পিউটিং সার্কিটগুলোতে পরীক্ষামূলক ব্যবহার।"
+},
+"aerospaceUses": {
+"en": "Alloyed with titanium and aluminum (Ti-6Al-4V) to form extreme high-strength, heat-resistant components for jet engines and missiles.",
+"bn": "জেট ইঞ্জিন এবং মিসাইলগুলোর জন্য চরম উচ্চ-শক্তির, তাপ-প্রতিরোধী উপাদান তৈরি করতে টাইটানিয়াম এবং অ্যালুমিনিয়ামের সাথে সংকরিত (Ti-6Al-4V) করা হয়।"
+},
+"batteryUses": {
+"en": "The definitive core component of Vanadium Redox Flow Batteries (VRFBs) for massive grid-scale energy storage.",
+"bn": "বিশাল গ্রিড-স্কেল এনার্জি স্টোরেজের জন্য ভ্যানাডিয়াম রেডক্স ফ্লো ব্যাটারির (VRFBs) নির্দিষ্ট মূল উপাদান।"
+},
+"aiHardwareUses": {
+"en": "Mott insulator phase-change memristors for ultra-low power AI hardware architectures.",
+"bn": "অতি-নিম্ন শক্তির এআই হার্ডওয়্যার আর্কিটেকচারের জন্য মট ইনসুলেটর ফেজ-চেঞ্জ মেমরিস্টর।"
+},
+"renewableEnergyUses": {
+"en": "Essential for smoothing out intermittent solar and wind power generation via infinite-cycle grid flow batteries.",
+"bn": "অসীম-চক্রের গ্রিড ফ্লো ব্যাটারির মাধ্যমে বিরতিহীন সৌর এবং বায়ু শক্তি উৎপাদনকে মসৃণ করার জন্য অপরিহার্য।"
+},
+"nanotechnologyUses": {
+"en": "Vanadium pentoxide nanowires used in advanced chemical sensors and next-generation supercapacitors.",
+"bn": "ভ্যানাডিয়াম পেন্টোক্সাইড ন্যানোয়ারগুলো উন্নত রাসায়নিক সেন্সর এবং পরবর্তী প্রজন্মের সুপারক্যাপাসিটরে ব্যবহৃত হয়।"
+},
+"nuclearUses": {
+"en": "Used in nuclear reactor structural components because of its extremely low neutron-absorbing cross-section.",
+"bn": "এর অত্যন্ত কম নিউট্রন-শোষণকারী ক্রস-সেকশনের কারণে পারমাণবিক চুল্লির কাঠামোগত উপাদানগুলোতে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "Armor plating, ballistic helmets, and artillery due to massive impact strength and fracture toughness.",
+"bn": "বিশাল প্রভাব শক্তি এবং ফ্র্যাকচার দৃঢ়তার কারণে বর্ম প্লেটিং, ব্যালিস্টিক হেলমেট এবং আর্টিলারি।"
+},
+"medicalUses": {
+"en": "Experimental use of vanadyl sulfate as an insulin mimic in the treatment of Type 2 diabetes.",
+"bn": "টাইপ ২ ডায়াবেটিসের চিকিৎসায় ইনসুলিন মিমিক হিসাবে ভ্যানাডিল সালফেটের পরীক্ষামূলক ব্যবহার।"
+},
+"foodIndustryUses": null,
+"constructionUses": {
+"en": "Rebar micro-alloying to dramatically increase the tensile strength and seismic resistance of skyscrapers.",
+"bn": "গগনচুম্বী ভবনের প্রসার্য শক্তি এবং ভূমিকম্প প্রতিরোধ ক্ষমতা নাটকীয়ভাবে বাড়াতে রিবার মাইক্রো-অ্যালয়িং।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Essential for some marine life. Ascidians (sea squirts) concentrate vanadium in their blood as 'hemovanadin'. Trace essential element for humans.",
+"bn": "কিছু সামুদ্রিক জীবের জন্য অপরিহার্য। অ্যাসিডিয়ানরা (সি স্কুইর্ট) তাদের রক্তে 'হিমোভ্যানাডিন' হিসাবে ভ্যানাডিয়াম ঘনীভূত করে। মানুষের জন্য ট্রেস অপরিহার্য উপাদান।"
+},
+"humanBodyRole": {
+"en": "Present in trace amounts (~1 mg total in body), possibly involved in lipid and cholesterol metabolism, though exact mechanism is disputed.",
+"bn": "খুব সামান্য পরিমাণে উপস্থিত (শরীরে মোট ~১ মিগ্রা), সম্ভবত লিপিড এবং কোলেস্টেরল বিপাকের সাথে জড়িত, যদিও এর সঠিক প্রক্রিয়া নিয়ে বিতর্ক রয়েছে।"
+},
+"toxicity": {
+"en": "High toxicity in pentavalent forms (like V2O5 dust). Inhalation causes severe respiratory tract irritation, chronic bronchitis, and green discoloration of the tongue.",
+"bn": "পেন্টাভ্যালেন্ট আকারে উচ্চ বিষাক্ততা (যেমন V2O5 ধুলো)। শ্বাসগ্রহণের ফলে শ্বাসযন্ত্রের তীব্র জ্বালা, দীর্ঘস্থায়ী ব্রঙ্কাইটিস এবং জিহ্বার সবুজ বিবর্ণতা দেখা দেয়।"
+},
+"environmentalImpact": {
+"en": "Fossil fuel combustion releases vanadium into the atmosphere, which acts as a catalyst in the conversion of SO2 to acid rain components.",
+"bn": "জীবাশ্ম জ্বালানী পোড়ানোর ফলে বায়ুমণ্ডলে ভ্যানাডিয়াম নির্গত হয়, যা SO2 কে অ্যাসিড বৃষ্টির উপাদানে রূপান্তর করতে অনুঘটক হিসেবে কাজ করে।"
+},
+"pollutionRisks": {
+"en": "Oil refinery ash and coal fly ash are major sources of concentrated, leachable vanadium soil pollution.",
+"bn": "তেল শোধনাগারের ছাই এবং কয়লার ফ্লাই অ্যাশ ঘনীভূত এবং ছড়িয়ে পড়া ভ্যানাডিয়াম মাটি দূষণের প্রধান উৎস।"
+},
+"recyclingMethods": {
+"en": "Electrolytes in VRFBs do not degrade and are 100% physically recoverable and endlessly recyclable. Steel scrap is remelted constantly.",
+"bn": "VRFBs এর ইলেক্ট্রোলাইটগুলির কার্যক্ষমতা কমে না এবং এগুলো ১০০% শারীরিকভাবে পুনরুদ্ধারযোগ্য ও অনন্তকাল পুনর্ব্যবহারযোগ্য। স্টিল স্ক্র্যাপ ক্রমাগত গলানো হয়।"
+},
+"sustainabilityScore": 8.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "China",
+"bn": "চীন"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "South Africa",
+"bn": "দক্ষিণ আফ্রিকা"
+},
+{
+"en": "Brazil",
+"bn": "ব্রাজিল"
+}
+],
+"miningMethods": {
+"en": "Rarely mined directly. Primarily recovered as a valuable by-product from steel smelter slag, uranium mining (carnotite), and heavy oil fly ash.",
+"bn": "সরাসরি খনন করা খুব বিরল। প্রাথমিকভাবে স্টিল স্মেল্টার স্ল্যাগ, ইউরেনিয়াম খনি (কার্নোটাইট) এবং ভারী তেলের ফ্লাই অ্যাশ থেকে একটি মূল্যবান উপজাত হিসেবে উদ্ধার করা হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.0001% by mass",
+"bn": "ভর অনুযায়ী ০.০০০১%"
+},
+"earthCrust": {
+"en": "0.012% by mass (120 ppm)",
+"bn": "ভর অনুযায়ী ০.০১২% (১২০ পিপিএম)"
+},
+"oceans": {
+"en": "0.00000015% by mass",
+"bn": "ভর অনুযায়ী ০.০০০০০০১৫%"
+}
+},
+"marketValue": {
+"en": "Vanadium pentoxide (V2O5) fluctuates significantly, generally ranging from $15.00 to $30.00 per kg based on steel industry demands.",
+"bn": "ভ্যানাডিয়াম পেন্টোক্সাইডের (V2O5) দাম উল্লেখযোগ্যভাবে ওঠানামা করে, সাধারণত স্টিল শিল্পের চাহিদার উপর ভিত্তি করে প্রতি কেজি $১৫.০০ থেকে $৩০.০০ পর্যন্ত হয়।"
+},
+"futureDemand": {
+"en": "Projected to double over the next decade, driven by grid-scale energy storage solutions (VRFBs) for renewable infrastructure.",
+"bn": "নবায়নযোগ্য অবকাঠামোর জন্য গ্রিড-স্কেল এনার্জি স্টোরেজ সলিউশন (VRFBs) এর কারণে আগামী দশকে এর চাহিদা দ্বিগুণ হবে বলে ধারণা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "Crucial strategic resource for construction integrity, aerospace defense components, and the transition to a sustainable power grid.",
+"bn": "নির্মাণ অখণ্ডতা, মহাকাশ প্রতিরক্ষা উপাদান এবং একটি টেকসই পাওয়ার গ্রিডে পরিবর্তনের জন্য গুরুত্বপূর্ণ কৌশলগত সম্পদ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Inhalation of vanadium dust causes acute toxic effects. Powdered elemental vanadium is highly combustible.",
+"bn": "ভ্যানাডিয়াম ধুলো শ্বাসগ্রহণের ফলে তীব্র বিষাক্ত প্রভাব দেখা দেয়। গুঁড়ো মৌলিক ভ্যানাডিয়াম অত্যন্ত দাহ্য।"
+},
+"storageRequirements": {
+"en": "Keep dry and separated from strong oxidizing agents. Store vanadium compounds in strictly sealed containers.",
+"bn": "শুকনো রাখুন এবং শক্তিশালী অক্সিডাইজিং এজেন্ট থেকে আলাদা করুন। ভ্যানাডিয়াম যৌগগুলোকে কঠোরভাবে সিল করা পাত্রে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Use rigorous local exhaust ventilation, NIOSH-approved respirators, and impervious protective clothing when handling compounds.",
+"bn": "যৌগগুলো পরিচালনার সময় কঠোর স্থানীয় বায়ু নিষ্কাশন ব্যবস্থা, NIOSH-অনুমোদিত শ্বাসযন্ত্র এবং অভেদ্য প্রতিরক্ষামূলক পোশাক ব্যবহার করুন।"
+},
+"exposureRisks": {
+"en": "Chronic exposure leads to asthma-like symptoms, conjunctivitis, skin rashes, and characteristic green discoloration of the tongue.",
+"bn": "দীর্ঘস্থায়ী এক্সপোজারের ফলে হাঁপানির মতো লক্ষণ, কনজেক্টিভাইটিস, ত্বকের ফুসকুড়ি এবং জিহ্বার বৈশিষ্ট্যগত সবুজ বিবর্ণতা দেখা দেয়।"
+},
+"safetyLevel": {
+"en": "Moderate to High Risk (Toxic by Inhalation)",
+"bn": "মাঝারি থেকে উচ্চ ঝুঁকি (শ্বাসগ্রহণের মাধ্যমে বিষাক্ত)"
+},
+"hazardClassifications": [
+{
+"en": "Acute Toxicity",
+"bn": "তীব্র বিষাক্ততা"
+},
+{
+"en": "Respiratory Irritant",
+"bn": "শ্বাসযন্ত্রের উদ্দীপক"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Vanadium is a hard, silvery metal that acts like vitamins for steel. Adding just a tiny pinch makes steel incredibly strong. It is also famous for making beautiful rainbow-colored chemical liquids.",
+"bn": "ভ্যানাডিয়াম হল একটি শক্ত, রূপালী ধাতু যা স্টিলের জন্য ভিটামিনের মতো কাজ করে। মাত্র এক চিমটি যোগ করলে স্টিল অবিশ্বাস্যভাবে শক্তিশালী হয়। এটি সুন্দর রংধনু-রঙের রাসায়নিক তরল তৈরির জন্যও বিখ্যাত।"
+},
+"advancedExplanation": {
+"en": "A Group 5 transition metal characterized by its complex solution chemistry and multitude of accessible stable oxidation states (+2 to +5). In metallurgy, it forms highly stable carbonitrides in steel, dramatically inhibiting grain growth and improving tensile strength.",
+"bn": "একটি গ্রুপ 5 অবস্থান্তর ধাতু যা এর জটিল দ্রবণ রসায়ন এবং একাধিক স্থিতিশীল জারণ অবস্থার (+2 থেকে +5) দ্বারা চিহ্নিত। ধাতুবিদ্যায়, এটি স্টিলে অত্যন্ত স্থিতিশীল কার্বোনাইট্রাইড গঠন করে, যা শস্যের বৃদ্ধি নাটকীয়ভাবে বাধা দেয় এবং প্রসার্য শক্তি উন্নত করে।"
+},
+"funFacts": [
+{
+"en": "Certain sea squirts have blood with vanadium concentrations over a million times higher than the surrounding seawater.",
+"bn": "কিছু সি স্কুইর্টের রক্তে আশেপাশের সমুদ্রের জলের তুলনায় এক মিলিয়ন গুণ বেশি ভ্যানাডিয়ামের ঘনত্ব থাকে।"
+},
+{
+"en": "If you dissolve vanadium in acid and slowly change its electrons, the liquid shifts through vivid colors: yellow, blue, green, and finally purple.",
+"bn": "আপনি যদি অ্যাসিডে ভ্যানাডিয়াম দ্রবীভূত করেন এবং ধীরে ধীরে এর ইলেকট্রনগুলো পরিবর্তন করেন, তবে তরলটি উজ্জ্বল রঙের মধ্য দিয়ে পরিবর্তিত হয়: হলুদ, নীল, সবুজ এবং সবশেষে বেগুনি।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 26,
+"relation": {
+"en": "Iron is the base metal of civilization, but Vanadium is the secret spice that transforms basic iron into high-strength, unbreakable steel.",
+"bn": "লোহা হলো সভ্যতার মূল ধাতু, কিন্তু ভ্যানাডিয়াম হলো সেই গোপন মশলা যা সাধারণ লোহাকে উচ্চ-শক্তির, অবিচ্ছেদ্য স্টিলে রূপান্তরিত করে।"
+}
+},
+{
+"compareWithId": 22,
+"relation": {
+"en": "Titanium is light and strong, but blending just 4% Vanadium into it creates the ultimate aerospace super-alloy.",
+"bn": "টাইটানিয়াম হালকা এবং শক্তিশালী, কিন্তু এতে মাত্র ৪% ভ্যানাডিয়াম মিশ্রিত করলে এটি চূড়ান্ত অ্যারোস্পেস সুপার-অ্যালয় তৈরি করে।"
+}
+}
+],
+"relatedElements": [22, 24, 41, 26],
+"quizQuestions": [
+{
+"question": {
+"en": "Who is credited with the first discovery of vanadium in 1801, though he was later persuaded to retract his claim?",
+"bn": "১৮০১ সালে ভ্যানাডিয়ামের প্রথম আবিষ্কারের কৃতিত্ব কাকে দেওয়া হয়, যদিও তাকে পরে তার দাবি প্রত্যাহার করতে রাজি করানো হয়েছিল?"
+},
+"options": [
+{
+"en": "Nils Gabriel Sefström",
+"bn": "নিলস গ্যাব্রিয়েল সেফস্ট্রোম"
+},
+{
+"en": "Andrés Manuel del Río",
+"bn": "আন্দ্রেস ম্যানুয়েল দেল রিও"
+},
+{
+"en": "Henry Cavendish",
+"bn": "হেনরি ক্যাভেন্ডিশ"
+},
+{
+"en": "Antoine Lavoisier",
+"bn": "অ্যান্টোইন ল্যাভয়সিয়ে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Andrés Manuel del Río discovered it in Mexican brown lead ore but falsely concluded it was impure chromium after criticism from other chemists.",
+"bn": "আন্দ্রেস ম্যানুয়েল দেল রিও মেক্সিকান ব্রাউন লিড আকরিক থেকে এটি আবিষ্কার করেছিলেন তবে অন্যান্য রসায়নবিদদের সমালোচনার পর তিনি ভুলভাবে সিদ্ধান্তে এসেছিলেন যে এটি অশুদ্ধ ক্রোমিয়াম।"
+}
+},
+{
+"question": {
+"en": "Vanadium is named after 'Vanadis'. Who is Vanadis in mythology?",
+"bn": "ভ্যানাডিয়ামের নাম 'ভ্যানাডিস' এর নামানুসারে রাখা হয়েছে। পুরাণে ভ্যানাডিস কে?"
+},
+"options": [
+{
+"en": "The Greek God of the Underworld",
+"bn": "পাতালের গ্রিক দেবতা"
+},
+{
+"en": "The Roman Goddess of War",
+"bn": "যুদ্ধের রোমান দেবী"
+},
+{
+"en": "The Norse Goddess of Beauty (Freyja)",
+"bn": "সৌন্দর্যের নর্স দেবী (ফ্রেয়া)"
+},
+{
+"en": "The Egyptian God of the Sun",
+"bn": "সূর্যের মিশরীয় দেবতা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Sefström named it after the Norse goddess of beauty because of the stunning, multi-colored compounds the element produced.",
+"bn": "সেফস্ট্রোম এর সুন্দর এবং বহু রঙের যৌগের কারণে নর্স সৌন্দর্যের দেবীর নামানুসারে এর নামকরণ করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial application of vanadium, accounting for roughly 85% of its consumption?",
+"bn": "ভ্যানাডিয়ামের প্রাথমিক শিল্প প্রয়োগ কী, যা এর ব্যবহারের প্রায় ৮৫%?"
+},
+"options": [
+{
+"en": "Making specialized glass",
+"bn": "বিশেষ কাঁচ তৈরি করা"
+},
+{
+"en": "Alloying with steel to increase strength",
+"bn": "শক্তি বাড়াতে স্টিলের সাথে সংকরকরণ"
+},
+{
+"en": "Manufacturing jet fuels",
+"bn": "জেট ফুয়েল তৈরি করা"
+},
+{
+"en": "Producing agricultural fertilizers",
+"bn": "কৃষি সার উৎপাদন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Most vanadium is converted into ferrovanadium and used to produce high-strength steel alloys for construction and tools.",
+"bn": "বেশিরভাগ ভ্যানাডিয়াম ফেরোভ্যানাডিয়ামে রূপান্তরিত হয় এবং নির্মাণ এবং সরঞ্জামগুলোর জন্য উচ্চ-শক্তির স্টিল অ্যালয় তৈরি করতে ব্যবহৃত হয়।"
+}
+},
+{
+"question": {
+"en": "Which famous historical automobile famously utilized vanadium steel to create a lightweight, rugged chassis?",
+"bn": "কোন বিখ্যাত ঐতিহাসিক অটোমোবাইল হালকা, মজবুত চ্যাসিস তৈরি করতে ভ্যানাডিয়াম স্টিল ব্যবহার করেছিল?"
+},
+"options": [
+{
+"en": "Volkswagen Beetle",
+"bn": "ভক্সওয়াগেন বিটল"
+},
+{
+"en": "Ford Model T",
+"bn": "ফোর্ড মডেল টি"
+},
+{
+"en": "Aston Martin DB5",
+"bn": "অ্যাস্টন মার্টিন ডিবি৫"
+},
+{
+"en": "Chevrolet Corvette",
+"bn": "শেভ্রোলেট করভেট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Henry Ford used French metallurgical techniques to incorporate vanadium into the Model T, making it strong enough to handle poor early roads.",
+"bn": "হেনরি ফোর্ড ফরাসি ধাতব কৌশল ব্যবহার করে মডেল টি-তে ভ্যানাডিয়াম অন্তর্ভুক্ত করেছিলেন, যা এটিকে প্রথম দিকের খারাপ রাস্তাগুলো সামলানোর মতো শক্তিশালী করে তুলেছিল।"
+}
+},
+{
+"question": {
+"en": "Vanadium pentoxide (V2O5) is the crucial catalyst in the 'Contact Process'. What widely used industrial chemical does this process produce?",
+"bn": "ভ্যানাডিয়াম পেন্টোক্সাইড (V2O5) হলো 'কন্টাক্ট প্রসেস'-এর অত্যন্ত গুরুত্বপূর্ণ অনুঘটক। এই প্রক্রিয়ায় কোন ব্যাপকভাবে ব্যবহৃত শিল্প রাসায়নিক তৈরি হয়?"
+},
+"options": [
+{
+"en": "Hydrochloric Acid",
+"bn": "হাইড্রোক্লোরিক অ্যাসিড"
+},
+{
+"en": "Ammonia",
+"bn": "অ্যামোনিয়া"
+},
+{
+"en": "Nitric Acid",
+"bn": "নাইট্রিক অ্যাসিড"
+},
+{
+"en": "Sulfuric Acid",
+"bn": "সালফিউরিক অ্যাসিড"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "V2O5 acts as a highly efficient catalyst to oxidize sulfur dioxide into sulfur trioxide, the key step in manufacturing sulfuric acid.",
+"bn": "V2O5 সালফার ডাই অক্সাইডকে সালফার ট্রাইঅক্সাইডে অক্সিডাইজ করার জন্য একটি অত্যন্ত দক্ষ অনুঘটক হিসেবে কাজ করে, যা সালফিউরিক অ্যাসিড তৈরির মূল পদক্ষেপ।"
+}
+},
+{
+"question": {
+"en": "What unique advantage do Vanadium Redox Flow Batteries (VRFBs) have over traditional Lithium-ion batteries?",
+"bn": "ঐতিহ্যবাহী লিথিয়াম-আয়ন ব্যাটারির তুলনায় ভ্যানাডিয়াম রেডক্স ফ্লো ব্যাটারি (VRFBs) এর অনন্য সুবিধা কী?"
+},
+"options": [
+{
+"en": "They fit in mobile phones",
+"bn": "তারা মোবাইল ফোনে ফিট করে"
+},
+{
+"en": "They charge in milliseconds",
+"bn": "তারা মিলি সেকেন্ডের মধ্যে চার্জ হয়"
+},
+{
+"en": "They experience almost zero degradation over tens of thousands of cycles",
+"bn": "হাজার হাজার চক্রের পরেও এগুলোর কার্যক্ষমতা প্রায় শূন্যের কাছাকাছি হ্রাস পায়"
+},
+{
+"en": "They are much lighter in weight",
+"bn": "ওজনে এগুলো অনেক হালকা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because both sides of the VRFB use vanadium in different oxidation states, cross-contamination is irrelevant, giving them a near-infinite cycle life.",
+"bn": "যেহেতু VRFB এর উভয় দিকে বিভিন্ন জারণ অবস্থায় ভ্যানাডিয়াম ব্যবহার করা হয়, তাই ক্রস-দূষণ এখানে অপ্রাসঙ্গিক, যা এদেরকে প্রায় অনন্তকালীন জীবনচক্র প্রদান করে।"
+}
+},
+{
+"question": {
+"en": "Which marine organism is famously known to naturally extract and concentrate high levels of vanadium from seawater into its blood?",
+"bn": "কোন সামুদ্রিক জীব সমুদ্রের জল থেকে প্রাকৃতিকভাবে উচ্চ মাত্রায় ভ্যানাডিয়াম নিষ্কাশন করে তার রক্তে ঘনীভূত করার জন্য বিখ্যাত?"
+},
+"options": [
+{
+"en": "Octopus",
+"bn": "অক্টোপাস"
+},
+{
+"en": "Sea squirts (Ascidians)",
+"bn": "সি স্কুইর্ট (অ্যাসিডিয়ান)"
+},
+{
+"en": "Coral polyps",
+"bn": "কোরাল পলিপ"
+},
+{
+"en": "Horseshoe crabs",
+"bn": "হর্সশো কাঁকড়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Sea squirts utilize vanadium binding proteins (vanabins) to concentrate the element to extreme levels, though its biological purpose remains a mystery.",
+"bn": "সি স্কুইর্টগুলো চরম মাত্রায় এই উপাদানটিকে ঘনীভূত করার জন্য ভ্যানাডিয়াম বাইন্ডিং প্রোটিন (ভ্যানাবিন) ব্যবহার করে, যদিও এর জৈবিক উদ্দেশ্য এখনও একটি রহস্য।"
+}
+},
+{
+"question": {
+"en": "A classic visual symptom of severe industrial exposure to vanadium dust is the discoloration of what body part?",
+"bn": "ভ্যানাডিয়াম ধুলোর সংস্পর্শে তীব্র শিল্পজনিত এক্সপোজারের একটি ধ্রুপদী দৃশ্যমান লক্ষণ হলো শরীরের কোন অংশের বিবর্ণতা?"
+},
+"options": [
+{
+"en": "Blue fingertips",
+"bn": "নীল আঙুলের ডগা"
+},
+{
+"en": "Green tongue",
+"bn": "সবুজ জিহ্বা"
+},
+{
+"en": "Yellow corneas",
+"bn": "হলুদ কর্নিয়া"
+},
+{
+"en": "Black fingernails",
+"bn": "কালো হাতের নখ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Inhalation and deposition of toxic vanadium pentoxide dust historically resulted in a distinct green discoloration of workers' tongues.",
+"bn": "বিষাক্ত ভ্যানাডিয়াম পেন্টোক্সাইড ধূলিকণা নিঃশ্বাসের মাধ্যমে প্রবেশ করলে ঐতিহাসিকভাবে শ্রমিকদের জিহ্বা স্পষ্ট সবুজ বিবর্ণ হয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "What is the ground-state electron configuration of a neutral Vanadium atom?",
+"bn": "একটি নিরপেক্ষ ভ্যানাডিয়াম পরমাণুর গ্রাউন্ড-স্টেট ইলেকট্রন বিন্যাস কী?"
+},
+"options": [
+{
+"en": "[Ar] 3d¹ 4s²",
+"bn": "[Ar] 3d¹ 4s²"
+},
+{
+"en": "[Ar] 3d² 4s²",
+"bn": "[Ar] 3d² 4s²"
+},
+{
+"en": "[Ar] 3d³ 4s²",
+"bn": "[Ar] 3d³ 4s²"
+},
+{
+"en": "[Ar] 3d⁵ 4s⁰",
+"bn": "[Ar] 3d⁵ 4s⁰"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As the 23rd element, Vanadium builds upon Argon (18) with 2 electrons in the 4s orbital and 3 electrons in the 3d orbital.",
+"bn": "২৩তম উপাদান হিসেবে, ভ্যানাডিয়াম আর্গন (১৮) এর উপর 4s অরবিটালে ২ টি এবং 3d অরবিটালে ৩ টি ইলেকট্রন নিয়ে গঠিত হয়।"
+}
+},
+{
+"question": {
+"en": "Aqueous solutions of vanadium ions display a sequence of distinct colors across its +2, +3, +4, and +5 oxidation states. Which sequence is generally correct?",
+"bn": "ভ্যানাডিয়াম আয়নের জলীয় দ্রবণগুলো এর +২, +৩, +৪ এবং +৫ জারণ অবস্থা জুড়ে স্বতন্ত্র রঙের একটি ক্রম প্রদর্শন করে। কোনটি সাধারণত সঠিক ক্রম?"
+},
+"options": [
+{
+"en": "Red, Orange, Yellow, Green",
+"bn": "লাল, কমলা, হলুদ, সবুজ"
+},
+{
+"en": "Purple (+2), Green (+3), Blue (+4), Yellow (+5)",
+"bn": "বেগুনি (+২), সবুজ (+৩), নীল (+৪), হলুদ (+৫)"
+},
+{
+"en": "Colorless (+2), Red (+3), Blue (+4), Black (+5)",
+"bn": "বর্ণহীন (+২), লাল (+৩), নীল (+৪), কালো (+৫)"
+},
+{
+"en": "Green (+2), Yellow (+3), Purple (+4), Blue (+5)",
+"bn": "সবুজ (+২), হলুদ (+৩), বেগুনি (+৪), নীল (+৫)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "This beautiful spectrum of colors during oxidation/reduction is exactly why Sefström named it after the goddess of beauty.",
+"bn": "জারণ/বিজারণের সময় রঙের এই সুন্দর বর্ণালীর কারণেই সেফস্ট্রোম সৌন্দর্যের দেবীর নামানুসারে এর নামকরণ করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "Vanadium dioxide (VO2) is being highly researched for smart windows and advanced computing because of what unusual physical property at roughly 68°C?",
+"bn": "ভ্যানাডিয়াম ডাই অক্সাইড (VO2) স্মার্ট উইন্ডো এবং উন্নত কম্পিউটিংয়ের জন্য ব্যাপকভাবে গবেষণাধীন কারণ প্রায় 68°C এ এর কোন অস্বাভাবিক ভৌত বৈশিষ্ট্য রয়েছে?"
+},
+"options": [
+{
+"en": "It violently explodes",
+"bn": "এটি হিংস্রভাবে বিস্ফোরিত হয়"
+},
+{
+"en": "It turns completely invisible",
+"bn": "এটি সম্পূর্ণ অদৃশ্য হয়ে যায়"
+},
+{
+"en": "It rapidly transitions from an electrical insulator to a conductor",
+"bn": "এটি দ্রুত একটি বৈদ্যুতিক ইনসুলেটর থেকে কন্ডাক্টরে রূপান্তরিত হয়"
+},
+{
+"en": "It generates a strong magnetic field",
+"bn": "এটি একটি শক্তিশালী চৌম্বক ক্ষেত্র তৈরি করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "VO2 undergoes a phase transition at ~68°C where its crystal structure changes, abruptly switching it from transparent to infrared-reflective metallic.",
+"bn": "VO2 ~68°C তাপমাত্রায় ফেজ ট্রানজিশনের মধ্য দিয়ে যায় যেখানে এর স্ফটিক কাঠামোর পরিবর্তন ঘটে, আকস্মিকভাবে এটি স্বচ্ছ থেকে ইনফ্রারেড-রিফ্লেক্টিভ মেটালিকে রূপান্তরিত হয়।"
+}
+},
+{
+"question": {
+"en": "In medicine, experimental vanadyl sulfate compounds are being researched for their ability to mimic which essential hormone?",
+"bn": "চিকিৎসাবিজ্ঞানে, পরীক্ষামূলক ভ্যানাডিল সালফেট যৌগগুলি কোন অপরিহার্য হরমোনের অনুকরণ করার ক্ষমতার জন্য গবেষণা করা হচ্ছে?"
+},
+"options": [
+{
+"en": "Adrenaline",
+"bn": "অ্যাড্রেনালিন"
+},
+{
+"en": "Insulin",
+"bn": "ইনসুলিন"
+},
+{
+"en": "Testosterone",
+"bn": "টেস্টোস্টেরন"
+},
+{
+"en": "Thyroxine",
+"bn": "থাইরক্সিন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Certain vanadium compounds act as insulin mimetics, lowering blood glucose levels, making them of deep interest for Type 2 diabetes treatment.",
+"bn": "নির্দিষ্ট কিছু ভ্যানাডিয়াম যৌগ ইনসুলিনের মিমিক হিসেবে কাজ করে যা রক্তে গ্লুকোজের মাত্রা কমায়, তাই এগুলো টাইপ ২ ডায়াবেটিসের চিকিৎসার জন্য গভীর আগ্রহের বিষয়।"
+}
+},
+{
+"question": {
+"en": "What is the most widely used aerospace titanium alloy that depends heavily on the addition of vanadium?",
+"bn": "মহাকাশে সর্বাধিক ব্যবহৃত টাইটানিয়াম সংকর ধাতু কোনটি যা ভ্যানাডিয়ামের সংযোজনের উপর ব্যাপকভাবে নির্ভরশীল?"
+},
+"options": [
+{
+"en": "Ti-6Al-4V",
+"bn": "Ti-6Al-4V"
+},
+{
+"en": "Al-Cu-Li",
+"bn": "Al-Cu-Li"
+},
+{
+"en": "Fe-Cr-Ni",
+"bn": "Fe-Cr-Ni"
+},
+{
+"en": "Mg-Al-Zn",
+"bn": "Mg-Al-Zn"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Grade 5 Titanium (Ti-6Al-4V) uses 4% vanadium to stabilize its highly-desirable Beta phase, resulting in immense strength.",
+"bn": "গ্রেড ৫ টাইটানিয়াম (Ti-6Al-4V) এর অত্যন্ত আকাঙ্ক্ষিত বিটা ফেজ স্থিতিশীল করতে ৪% ভ্যানাডিয়াম ব্যবহার করে, যার ফলে এটি বিপুল শক্তির অধিকারী হয়।"
+}
+},
+{
+"question": {
+"en": "What is the formal oxidation state of vanadium in the vanadyl ion, VO(2+)?",
+"bn": "ভ্যানাডিল আয়নে, VO(2+), ভ্যানাডিয়ামের ফর্মাল জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+5",
+"bn": "+৫"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Oxygen has a -2 charge. For the total ion charge to be +2, the Vanadium atom must be at a +4 oxidation state (+4 - 2 = +2).",
+"bn": "অক্সিজেনের চার্জ -২। মোট আয়ন চার্জ +২ হওয়ার জন্য, ভ্যানাডিয়াম পরমাণুকে অবশ্যই একটি +৪ জারণ অবস্থায় থাকতে হবে (+৪ - ২ = +২)।"
+}
+},
+{
+"question": {
+"en": "How exactly does adding a fraction of a percent of vanadium physically strengthen structural steel?",
+"bn": "এক শতাংশের সামান্য ভগ্নাংশ ভ্যানাডিয়াম যোগ করা কিভাবে কাঠামোগত স্টিলকে শারীরিকভাবে শক্তিশালী করে?"
+},
+"options": [
+{
+"en": "It makes the steel magnetic",
+"bn": "এটি স্টিলকে চৌম্বকীয় করে তোলে"
+},
+{
+"en": "It traps air bubbles inside the matrix",
+"bn": "এটি ম্যাট্রিক্সের ভিতরে বায়ু বুদবুদ আটকে রাখে"
+},
+{
+"en": "It precipitates microscopic carbonitrides that lock the crystalline grain boundaries",
+"bn": "এটি মাইক্রোস্কোপিক কার্বোনাইট্রাইড প্রক্ষেপণ করে যা স্ফটিক শস্যের সীমানা আটকে রাখে"
+},
+{
+"en": "It coats the outside to prevent rust",
+"bn": "এটি মরিচা প্রতিরোধ করার জন্য বাইরের দিকে আবৃত করে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Vanadium forces the steel's internal crystal grains to remain very small by pinning the boundaries with ultra-hard carbonitride molecules.",
+"bn": "ভ্যানাডিয়াম অতি-শক্ত কার্বোনাইট্রাইড অণুগুলোর মাধ্যমে সীমানাগুলোকে পিন করে স্টিলের অভ্যন্তরীণ স্ফটিক শস্যগুলোকে খুব ছোট রাখতে বাধ্য করে।"
+}
+},
+{
+"question": {
+"en": "From which secondary industrial source is the majority of the world's commercial vanadium currently extracted?",
+"bn": "বর্তমানে বিশ্বের বাণিজ্যিক ভ্যানাডিয়ামের বেশিরভাগ অংশ কোন মাধ্যমিক শিল্প উৎস থেকে নিষ্কাশন করা হয়?"
+},
+"options": [
+{
+"en": "Deep-sea manganese nodules",
+"bn": "গভীর সমুদ্রের ম্যাঙ্গানিজ নডিউল"
+},
+{
+"en": "Slag from iron and steel smelting",
+"bn": "লোহা এবং স্টিল গলানোর স্ল্যাগ"
+},
+{
+"en": "Meteorite fragments",
+"bn": "উল্কা খণ্ড"
+},
+{
+"en": "Atmospheric filtration",
+"bn": "বায়ুমণ্ডলীয় পরিস্রাবণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because dedicated vanadium mines are rare, most of it is economically recovered by processing the waste slag left over from iron foundries.",
+"bn": "যেহেতু নিবেদিত ভ্যানাডিয়াম খনি বিরল, তাই লোহার ফাউন্ড্রিগুলো থেকে অবশিষ্ট বর্জ্য স্ল্যাগ প্রক্রিয়াজাত করে এর বেশিরভাগই অর্থনৈতিকভাবে পুনরুদ্ধার করা হয়।"
+}
+},
+{
+"question": {
+"en": "What name did Andrés Manuel del Río originally assign to his discovery, inspired by the red color of its heated salts?",
+"bn": "আন্দ্রেস ম্যানুয়েল দেল রিও মূলত তার আবিষ্কারের কী নাম দিয়েছিলেন, যা এর উত্তপ্ত লবণের লাল রঙ দ্বারা অনুপ্রাণিত হয়েছিল?"
+},
+"options": [
+{
+"en": "Rubidium",
+"bn": "রুবিডিয়াম"
+},
+{
+"en": "Erythronium",
+"bn": "এরিথ্রোনিয়াম"
+},
+{
+"en": "Rhodium",
+"bn": "রোডিয়াম"
+},
+{
+"en": "Crimsonium",
+"bn": "ক্রিমসোনিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "He named it 'Erythronium' from the Greek word 'erythros' meaning red, after noting its salts turned red upon heating.",
+"bn": "এর লবণ গরম করার সময় লাল হয়ে যায় তা লক্ষ্য করার পরে তিনি গ্রীক শব্দ 'এরিথ্রোস' থেকে এর নাম 'এরিথ্রোনিয়াম' রেখেছিলেন, যার অর্থ লাল।"
+}
+},
+{
+"question": {
+"en": "At room temperature, elemental vanadium possesses which crystalline structure?",
+"bn": "ঘরের তাপমাত্রায়, মৌলিক ভ্যানাডিয়ামের কোন স্ফটিক কাঠামো থাকে?"
+},
+"options": [
+{
+"en": "Face-centered cubic (FCC)",
+"bn": "ফেস-সেন্টারড কিউবিক (FCC)"
+},
+{
+"en": "Hexagonal close-packed (HCP)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (HCP)"
+},
+{
+"en": "Body-centered cubic (BCC)",
+"bn": "বডি-সেন্টারড কিউবিক (BCC)"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like its neighbors in Group 5 and Group 6, pure solid vanadium arranges itself in a body-centered cubic lattice.",
+"bn": "গ্রুপ 5 এবং গ্রুপ 6-এ এর প্রতিবেশীদের মতো, বিশুদ্ধ কঠিন ভ্যানাডিয়াম একটি বডি-সেন্টারড কিউবিক জালিকায় নিজেকে সাজায়।"
+}
+},
+{
+"question": {
+"en": "Which natural isotope of Vanadium constitutes roughly 0.25% of all natural samples and is technically radioactive, though its half-life is billions of times older than the universe?",
+"bn": "ভ্যানাডিয়ামের কোন প্রাকৃতিক আইসোটোপ সমস্ত প্রাকৃতিক নমুনার প্রায় ০.২৫% গঠন করে এবং এটি প্রযুক্তিগতভাবে তেজস্ক্রিয়, যদিও এর অর্ধ-জীবন মহাবিশ্বের চেয়ে বিলিয়ন গুণ বেশি পুরানো?"
+},
+"options": [
+{
+"en": "Vanadium-49",
+"bn": "ভ্যানাডিয়াম-৪৯"
+},
+{
+"en": "Vanadium-50",
+"bn": "ভ্যানাডিয়াম-৫০"
+},
+{
+"en": "Vanadium-51",
+"bn": "ভ্যানাডিয়াম-৫১"
+},
+{
+"en": "Vanadium-52",
+"bn": "ভ্যানাডিয়াম-৫২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Vanadium-50 is naturally occurring and radioactive, but with a half-life of 1.4 × 10^17 years, it poses zero radiation hazard.",
+"bn": "ভ্যানাডিয়াম-৫০ প্রাকৃতিকভাবে ঘটে এবং তেজস্ক্রিয়, তবে ১.৪ × ১০^১৭ বছর এর অর্ধ-জীবনের সাথে, এটি শূন্য বিকিরণ ঝুঁকি তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Why are vanadium compounds sometimes deliberately added to ceramics and glasses during the manufacturing process?",
+"bn": "কেন উৎপাদন প্রক্রিয়ার সময় কখনও কখনও সিরামিক এবং গ্লাসে ইচ্ছাকৃতভাবে ভ্যানাডিয়াম যৌগ যোগ করা হয়?"
+},
+"options": [
+{
+"en": "To make the glass bulletproof",
+"bn": "কাঁচকে বুলেটপ্রুফ করতে"
+},
+{
+"en": "To lower the melting point drastically",
+"bn": "গলনাঙ্ক উল্লেখযোগ্যভাবে কমাতে"
+},
+{
+"en": "To act as a colorant (yellow/green) and to block UV radiation",
+"bn": "রং (হলুদ/সবুজ) হিসেবে কাজ করতে এবং অতিবেগুনী বিকিরণ অবরুদ্ধ করতে"
+},
+{
+"en": "To make it electrically conductive",
+"bn": "এটিকে বৈদ্যুতিক পরিবাহী করতে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Depending on the oxidation state, vanadium imparts brilliant green or yellow colors to glass while also heavily absorbing ultraviolet light.",
+"bn": "জারণ অবস্থার উপর নির্ভর করে, ভ্যানাডিয়াম কাঁচে উজ্জ্বল সবুজ বা হলুদ রঙ প্রদান করে এবং অতিবেগুনী আলো ব্যাপকভাবে শোষণ করে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Vanadium is extremely rare.",
+"bn": "ভ্যানাডিয়াম অত্যন্ত বিরল।"
+},
+{
+"en": "Vanadium batteries are highly explosive like some lithium batteries.",
+"bn": "কিছু লিথিয়াম ব্যাটারির মতো ভ্যানাডিয়াম ব্যাটারিগুলো অত্যন্ত বিস্ফোরক।"
+}
+],
+"learningTips": [
+{
+"en": "Think of Vanadium as 'Vitamins for Steel' (both start with V). Also remember its beautiful colors with the word 'Vanity' (Beauty).",
+"bn": "ভ্যানাডিয়ামকে 'স্টিল এর জন্য ভিটামিন' (দুটিই V দিয়ে শুরু) হিসেবে চিন্তা করুন। 'Vanity' (সৌন্দর্য) শব্দের মাধ্যমে এর সুন্দর রংগুলোও মনে রাখতে পারেন।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2SO₂ + O₂ ⇌ 2SO₃",
+"description": {
+"en": "Catalyzed by V2O5: The defining step of the Contact Process for manufacturing sulfuric acid.",
+"bn": "V2O5 দ্বারা অনুঘটককৃত: সালফিউরিক অ্যাসিড তৈরির কন্টাক্ট প্রসেসের সংজ্ঞায়িত পদক্ষেপ।"
+}
+},
+{
+"equation": "VO₂⁺ + V³⁺ + H⁺ ⇌ VO²⁺ + V⁴⁺ + H₂O",
+"description": {
+"en": "Generalized concept of Vanadium's multi-state redox capability, central to the operation of VRFBs.",
+"bn": "ভ্যানাডিয়ামের বহু-অবস্থার রেডক্স ক্ষমতার সাধারণ ধারণা, যা VRFB-এর কার্যকারিতার মূল।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "V²⁺ → V³⁺ + e⁻",
+"description": {
+"en": "Oxidation of the purple Vanadium(II) ion to the green Vanadium(III) ion.",
+"bn": "বেগুনি ভ্যানাডিয়াম(II) আয়নের সবুজ ভ্যানাডিয়াম(III) আয়নে জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "VO₂⁺ + 2H⁺ + e⁻ → VO²⁺ + H₂O",
+"description": {
+"en": "Reduction of the yellow dioxovanadium(V) ion to the blue vanadyl(IV) ion.",
+"bn": "হলুদ ডাইঅক্সোভ্যানাডিয়াম(V) আয়নের নীল ভ্যানাডিল(IV) আয়নে বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Metallic Bond",
+"bn": "ধাতব বন্ধন"
+},
+"molecule": "V(s)",
+"description": {
+"en": "Delocalized d-orbital electrons create exceptionally strong metallic bonds, contributing to its high melting point and strength.",
+"bn": "ডিলোকালাইজড ডি-অরবিটাল ইলেকট্রনগুলো ব্যতিক্রমী শক্তিশালী ধাতব বন্ধন তৈরি করে, যা এর উচ্চ গলনাঙ্ক এবং শক্তিতে অবদান রাখে।"
+}
+},
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "VCl₄",
+"description": {
+"en": "Vanadium covalently bonds with four chlorine atoms to form a reactive, volatile liquid.",
+"bn": "ভ্যানাডিয়াম চারটি ক্লোরিন পরমাণুর সাথে সমযোজী বন্ধনে আবদ্ধ হয়ে একটি প্রতিক্রিয়াশীল, উদ্বায়ী তরল গঠন করে।"
+}
+}
+]
+}
+}

@@ -1,0 +1,995 @@
+{
+"elementId": 25,
+"basicInformation": {
+"atomicNumber": 25,
+"symbol": "Mn",
+"name": {
+"en": "Manganese",
+"bn": "ম্যাঙ্গানিজ"
+},
+"pronunciation": {
+"en": "/ˈmæŋɡəniːz/",
+"bn": "ম্যাঙ্গানিজ"
+},
+"atomicMass": 54.938044,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 7,
+"period": 4,
+"block": "d",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Silvery metallic, hard and very brittle",
+"bn": "রূপালী ধাতব, শক্ত এবং অত্যন্ত ভঙ্গুর"
+},
+"color": {
+"en": "Silver",
+"bn": "রূপালী"
+},
+"radioactive": false,
+"naturalOccurrence": {
+"en": "Primordial",
+"bn": "আদিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Johan Gottlieb Gahn",
+"bn": "জোহান গটলিব গান"
+},
+"discoveryYear": 1774,
+"discoveryLocation": {
+"en": "Sweden",
+"bn": "সুইডেন"
+},
+"discoveryStory": {
+"en": "Carl Wilhelm Scheele recognized that pyrolusite contained a unique new element but was unable to isolate it. He prompted Gahn, who successfully isolated the metal by reducing manganese dioxide (pyrolusite) with carbon (charcoal).",
+"bn": "কার্ল উইলহেম শিলে প্রথম বুঝতে পারেন যে পাইরোলুসাইটে একটি অনন্য নতুন উপাদান রয়েছে তবে তিনি তা আলাদা করতে পারেননি। তিনি গানকে উৎসাহিত করেন, যিনি সফলভাবে কার্বন (চারকোল) দিয়ে ম্যাঙ্গানিজ ডাইঅক্সাইড বিজারিত করে ধাতুটিকে আলাদা করেন।"
+},
+"historicalUses": {
+"en": "Historically utilized by ancient glassmakers to decolorize glass by neutralizing the green tint of iron impurities; it was colloquially referred to as 'glassmakers' soap'.",
+"bn": "ঐতিহাসিকভাবে প্রাচীন কাচ নির্মাতারা লোহার অপদ্রব্যের সবুজ আভা নিষ্ক্রিয় করে কাচকে বর্ণহীন করতে এটি ব্যবহার করতেন; এটিকে কথ্য ভাষায় 'কাচ নির্মাতাদের সাবান' বলা হতো।"
+},
+"famousExperiments": {
+"en": "Gahn's crucible experiment where he mixed pyrolusite with oil and charcoal, heating it intensely to yield small buttons of a brittle metallic element.",
+"bn": "একটি ক্রুসিবলে গানের পরীক্ষা যেখানে তিনি পাইরোলুসাইটের সাথে তেল এবং চারকোল মিশ্রিত করেন এবং একটি ভঙ্গুর ধাতব উপাদানের ছোট বোতাম তৈরি করতে এটিকে তীব্রভাবে উত্তপ্ত করেন।"
+}
+},
+"atomicStructure": {
+"protons": 25,
+"neutrons": 30,
+"electrons": 25,
+"valenceElectrons": 7,
+"shells": 4,
+"shellDistribution": [2, 8, 13, 2],
+"electronConfiguration": "[Ar] 3d⁵ 4s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"3d": 5,
+"4s": 2
+},
+"oxidationStates": [7, 6, 5, 4, 3, 2, 1, -1, -2, -3],
+"quantumNumbers": {
+"principal": 4,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 7.21,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1519.0,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 2334.0,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 139,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 139,
+"unit": "pm"
+},
+"vanDerWaalsRadius": {
+"value": 197,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": 19.1,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": {
+"value": 620000.0,
+"unit": "S/m"
+},
+"specificHeat": {
+"value": 0.479,
+"unit": "J/(g·K)"
+},
+"hardness": {
+"value": 6.0,
+"unit": "Mohs"
+},
+"crystalStructure": {
+"en": "Cubic body-centered (Alpha polymorph)",
+"bn": "ঘনকাকার দেহ-কেন্দ্রিক (আলফা পলিমর্ফ)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (Antiferromagnetic below 100 K)",
+"bn": "প্যারাম্যাগনেটিক (১০০ K এর নিচে অ্যান্টিফেরোম্যাগনেটিক)"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.55,
+"ionizationEnergy": {
+"value": 717.3,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 0.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Oxidizes superficially in air, decomposes water slowly when cold but rapidly upon heating, dissolves readily in dilute acids releasing hydrogen.",
+"bn": "বাতাসে উপরিভাগ জারিত হয়, ঠাণ্ডা অবস্থায় জলকে ধীরে ধীরে কিন্তু উত্তপ্ত করলে দ্রুত বিশ্লিষ্ট করে, লঘু অ্যাসিডে সহজেই দ্রবীভূত হয়ে হাইড্রোজেন মুক্ত করে।"
+},
+"commonCompounds": ["MnO₂", "KMnO₄", "MnSO₄", "MnCl₂", "Mn₂O₇", "K₂MnO₄"],
+"flameTestColor": {
+"en": "Yellowish-green sparks (Borax bead test yields an amethyst/violet bead in oxidizing flame)",
+"bn": "হলুদাভ-সবুজ স্ফুলিঙ্গ (বোরাক্স বিড টেস্ট জারণ শিখায় একটি অ্যামেথিস্ট/বেগুনী পুঁতি দেয়)"
+},
+"spectralLines": ["403.08nm", "403.31nm", "403.45nm", "404.14nm"]
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Indispensable alloying element in steel manufacturing to eliminate sulfur impurities and act as a heavy-duty deoxidizer.",
+"bn": "সালফারের অপদ্রব্য দূর করতে এবং একটি হেভি-ডিউটি ডিয়ক্সিডাইজার হিসাবে কাজ করতে ইস্পাত উৎপাদনে অপরিহার্য সংকর উপাদান।"
+},
+"commercialUses": {
+"en": "Cathode depolarizer in classic Leclanché dry cell batteries and modern zinc-carbon/alkaline batteries.",
+"bn": "ক্লাসিক ল্যাকল্যান্স ড্রাই সেল ব্যাটারি এবং আধুনিক জিংক-কার্বন/অ্যালকালাইন ব্যাটারিতে ক্যাথোড ডিপোলারাইজার।"
+},
+"electronicsUses": {
+"en": "Production of ceramic manganese-zinc ferrites utilized as high-permeability magnetic cores for electronic inductors.",
+"bn": "ইলেকট্রনিক ইন্ডাক্টরের জন্য উচ্চ-ভেদ্যতা সম্পন্ন চৌম্বকীয় কোর হিসাবে ব্যবহৃত সিরামিক ম্যাঙ্গানিজ-জিংক ফেরাইট উৎপাদন।"
+},
+"semiconductorUses": {
+"en": "Key dopant in dilute magnetic semiconductors (DMS) investigated for spin-polarized electron transport in spintronics.",
+"bn": "স্পিনট্রনিক্সে স্পিন-পোলারাইজড ইলেকট্রন পরিবহনের জন্য অন্বেষণ করা ডিল্যুট ম্যাগনেটিক সেমিকন্ডাক্টরে (DMS) প্রধান ডোপ্যান্ট।"
+},
+"aerospaceUses": {
+"en": "Alloying agent in structural aluminum-manganese components requiring superior anti-corrosion properties under atmospheric stress.",
+"bn": "বায়ুমণ্ডলীয় চাপের অধীনে উন্নত ক্ষয়-বিরোধী বৈশিষ্ট্যের জন্য কাঠামোগত অ্যালুমিনিয়াম-ম্যাঙ্গানিজ উপাদানের সংকর এজেন্ট।"
+},
+"batteryUses": {
+"en": "Critical component in Lithium Nickel Manganese Cobalt Oxide (NMC) and Lithium Manganese Oxide (LMO) electric vehicle batteries.",
+"bn": "বৈদ্যুতিক যানবাহনের লিথিয়াম নিকেল ম্যাঙ্গানিজ কোবাল্ট অক্সাইড (NMC) এবং লিথিয়াম ম্যাঙ্গানিজ অক্সাইড (LMO) ব্যাটারির একটি গুরুত্বপূর্ণ উপাদান।"
+},
+"aiHardwareUses": {
+"en": "Manganese oxide thin films utilized in fabricating artificial synaptic memristors for deep learning neuromorphic chips.",
+"bn": "গভীর শিক্ষার নিউরোমরফিক চিপসের জন্য কৃত্রিম সিন্যাপটিক মেমরিস্টর তৈরিতে ব্যবহৃত ম্যাঙ্গানিজ অক্সাইডের পাতলা আস্তরণ।"
+},
+"renewableEnergyUses": {
+"en": "Biomimetic molecular manganese catalysts engineered for artificial photosynthesis and green water splitting systems.",
+"bn": "কৃত্রিম সালোকসংশ্লেষণ এবং সবুজ জল বিভাজন ব্যবস্থার জন্য ডিজাইন করা বায়োমিমেটিক আণবিক ম্যাঙ্গানিজ অনুঘটক।"
+},
+"nanotechnologyUses": {
+"en": "Paramagnetic manganese-doped quantum dots implemented in bio-imaging tracking and advanced nanoscale sensors.",
+"bn": "বায়ো-ইমেজিং ট্র্যাকিং এবং উন্নত ন্যানোস্কেল সেন্সরে প্রয়োগ করা প্যারাম্যাগনেটিক ম্যাঙ্গানিজ-ডোপড কোয়ান্টাম ডটস।"
+},
+"nuclearUses": {
+"en": "Activation tracking element where Manganese-56 acts as a short-lived diagnostic tracer isotope in reactor structural integrity studies.",
+"bn": "অ্যাক্টিভেশন ট্র্যাকিং উপাদান যেখানে ম্যাঙ্গানিজ-৫৬ রিয়্যাক্টর কাঠামোগত অখণ্ডতা গবেষণায় একটি স্বল্পস্থায়ী ডায়াগনস্টিক ট্রেসার আইসোটোপ হিসাবে কাজ করে।"
+},
+"militaryUses": {
+"en": "Hadfield steel (12-14% Mn) utilized in military helmets, combat armor plating, and tank tracks due to high work-hardening capacity.",
+"bn": "উচ্চ ওয়ার্ক-হার্ডেনিং ক্ষমতার কারণে সামরিক হেলমেট, যুদ্ধাস্ত্রের আর্মার প্লেটিং এবং ট্যাঙ্কের ট্র্যাকে ব্যবহৃত হ্যাডফিল্ড স্টিল (১২-১৪% Mn)।"
+},
+"medicalUses": {
+"en": "Mangafodipir contrast agent used in magnetic resonance imaging (MRI) for liver pathology detection.",
+"bn": "যকৃতের রোগ সনাক্তকরণের জন্য ম্যাগনেটিক রেজোন্যান্স ইমেজিং (MRI)-এ ব্যবহৃত ম্যাঙ্গাফোডিপির কনট্রাস্ট এজেন্ট।"
+},
+"foodIndustryUses": {
+"en": "Trace mineral fortification agent in livestock feed blends and fortified human dietary products.",
+"bn": "পশুখাদ্যের মিশ্রণ এবং সমৃদ্ধ মানব খাদ্য পণ্যে ট্রেস খনিজ শক্তিশালীকরণ এজেন্ট।"
+},
+"constructionUses": {
+"en": "Ultra-tough manganese steel components for heavy excavation machinery, rock crushers, and railway track switches.",
+"bn": "ভারী খনন যন্ত্রপাতি, পাথর চূর্ণকারী এবং রেলওয়ে ট্র্যাক সুইচের জন্য আল্ট্রা-টাফ ম্যাঙ্গানিজ স্টিলের উপাদান।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "An essential trace cofactor for enzymes including oxidoreductases, transferases, and hydrolases in all forms of life.",
+"bn": "জীবনের সমস্ত রূপে অক্সিডোরেডাক্টেস, ট্রান্সফারেস এবং হাইড্রোলেস সহ এনজাইমগুলোর জন্য একটি অপরিহার্য ট্রেস কোফ্যাক্টর।"
+},
+"humanBodyRole": {
+"en": "Serves as the catalytic core of manganese superoxide dismutase (MnSOD), protecting cells from cytotoxic mitochondrial free radical accumulation.",
+"bn": "ম্যাঙ্গানিজ সুপারঅক্সাইড ডিসমিউটেজ (MnSOD) এর অনুঘটক কোর হিসাবে কাজ করে, কোষকে সাইটোটক্সিক মাইটোকন্ড্রিয়াল মুক্ত র্যাডিকালের সঞ্চয় থেকে রক্ষা করে।"
+},
+"toxicity": {
+"en": "Inhalation of industrial dust causes 'manganism', a severe neurodegenerative disorder clinically mirroring Parkinson's disease.",
+"bn": "শিল্প ধূলিকণার শ্বাসগ্রহণের ফলে 'ম্যাঙ্গানিজম' হয়, একটি মারাত্মক নিউরোডিজেনারেটিভ ব্যাধি যা ক্লিনিক্যালি পার্কিনসন রোগের অনুকরণ করে।"
+},
+"environmentalImpact": {
+"en": "Industrial smelting emissions can cause regional atmospheric deposition, accumulating in soils and degrading freshwater ecology.",
+"bn": "শিল্প গলানোর নির্গমন আঞ্চলিক বায়ুমণ্ডলীয় অবক্ষেপণ ঘটাতে পারে, যা মাটিতে জমা হয় এবং স্বাদু জলের বাস্তুতন্ত্রের ক্ষতি করে।"
+},
+"pollutionRisks": {
+"en": "Leaching from consumer battery waste landfills risks releasing manganese ions into local aquifers, degrading drinking water.",
+"bn": "ভোক্তা ব্যাটারি বর্জ্য ল্যান্ডফিল থেকে ক্ষরণের ফলে স্থানীয় জলস্তরে ম্যাঙ্গানিজ আয়ন মুক্ত হওয়ার ঝুঁকি থাকে, যা পানীয় জলের গুণমান নষ্ট করে।"
+},
+"recyclingMethods": {
+"en": "Hydrometallurgical chemical extraction techniques combined with solvent separation loops to reclaim battery-grade manganese salts.",
+"bn": "ব্যাটারি-গ্রেড ম্যাঙ্গানিজ লবণ পুনরুদ্ধার করার জন্য দ্রাবক পৃথকীকরণ লুপের সাথে মিলিত হাইড্রোমেটালার্জিক্যাল রাসায়নিক নিষ্কাশন কৌশল।"
+},
+"sustainabilityScore": 7.5
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "South Africa",
+"bn": "দক্ষিণ আফ্রিকা"
+},
+{
+"en": "Gabon",
+"bn": "গ্যাবন"
+},
+{
+"en": "Australia",
+"bn": "অস্ট্রেলিয়া"
+}
+],
+"miningMethods": {
+"en": "Largely executed via mechanized open-pit mining operations targeting stratiform pyrolusite and rhodochrosite sedimentary deposits.",
+"bn": "প্রধানত স্ট্রেটিফর্ম পাইরোলুসাইট এবং রোডোক্রোসাইট পাললিক আমানত লক্ষ্য করে যান্ত্রিক ওপেন-পিট খনি খনন অপারেশনের মাধ্যমে সম্পাদিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0.0008% by mass",
+"bn": "ভর অনুযায়ী ০.০০০৮%"
+},
+"earthCrust": {
+"en": "0.1% by mass",
+"bn": "ভর অনুযায়ী ০.১%"
+},
+"oceans": {
+"en": "0.0000002% by mass",
+"bn": "ভর অনুযায়ী ০.০০MDA০০০২%"
+}
+},
+"marketValue": {
+"en": "Manganese ore prices vary significantly based on manganese concentration, typically priced at $4.00 - $7.50 per dry metric ton unit (dmtu).",
+"bn": "ম্যাঙ্গানিজ ঘনত্বের উপর ভিত্তি করে ম্যাঙ্গানিজ আকরিকের দাম উল্লেখযোগ্যভাবে পরিবর্তিত হয়, সাধারণত প্রতি ড্রাই মেট্রিক টন ইউনিটে (dmtu) $৪.০০ - $৭.৫০ মূল্য নির্ধারণ করা হয়।"
+},
+"futureDemand": {
+"en": "Anticipated to experience rapid structural growth due to its expanding utilization in cost-effective lithium-ion chemistry alternatives.",
+"bn": "সাশ্রয়ী লিথিয়াম-আয়ন রসায়নের বিকল্পগুলোতে এর বর্ধিত ব্যবহারের কারণে দ্রুত কাঠামোগত বৃদ্ধির অভিজ্ঞতা লাভ করবে বলে ধারণা করা হচ্ছে।"
+},
+"globalImportance": {
+"en": "Considered a highly critical industrial defense asset because there are no viable substitutes to replicate its functions in steel.",
+"bn": "একটি অত্যন্ত গুরুত্বপূর্ণ শিল্প প্রতিরক্ষা সম্পদ হিসাবে বিবেচিত কারণ ইস্পাতে এর কার্যকারিতা প্রতিলিপি করার মতো কোনো কার্যকর বিকল্প নেই।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Finely divided elemental manganese powder acts as a flammable solid. Inhalation of processing fumes causes central nervous system lesions.",
+"bn": "সূক্ষ্মভাবে বিভক্ত মৌলিক ম্যাঙ্গানিজ পাউডার একটি দাহ্য কঠিন পদার্থ হিসাবে কাজ করে। প্রক্রিয়াকরণের ধোঁয়া শ্বাসগ্রহণের ফলে কেন্দ্রীয় স্নায়ুতন্ত্রের ক্ষতি হয়।"
+},
+"storageRequirements": {
+"en": "Store in hermetically sealed containers within a cool, dry environment separate from strong mineral acids and halogens.",
+"bn": "শক্তিশালী খনিজ অ্যাসিড এবং হ্যালোজেন থেকে পৃথক একটি শীতল, শুষ্ক পরিবেশের মধ্যে বায়ুরুদ্ধ পাত্রে সংরক্ষণ করুন।"
+},
+"handlingProcedures": {
+"en": "Implement local source capture ventilation, deploy positive pressure respiratory protective configurations, and enforce routine biological monitoring.",
+"bn": "স্থানীয় উৎস ক্যাপচার বায়ুচলাচল প্রয়োগ করুন, ইতিবাচক চাপের শ্বাসযন্ত্রের সুরক্ষামূলক কনফিগারেশন স্থাপন করুন এবং নিয়মিত জৈবিক পর্যবেক্ষণ কার্যকর করুন।"
+},
+"exposureRisks": {
+"en": "Long-term occupational exposure inflicts motor skill deficits, speech impediments, muscle rigidity, and psychological changes.",
+"bn": "দীর্ঘমেয়াদী পেশাগত এক্সপোজার মোটর দক্ষতা ঘাটতি, বাক প্রতিবন্ধকতা, পেশী শক্ত হয়ে যাওয়া এবং মনস্তাত্ত্বিক পরিবর্তন ঘটায়।"
+},
+"safetyLevel": {
+"en": "Moderate Risk (Severe neurotoxic dust hazards)",
+"bn": "মাঝারি ঝুঁকি (গুরুতর নিউরোটক্সিক ধুলোর ঝুঁকি)"
+},
+"hazardClassifications": [
+{
+"en": "Specific Target Organ Toxicity - Repeated Exposure Category 2",
+"bn": "নির্দিষ্ট টার্গেট অর্গান টক্সিসিটি - পুনরাবৃত্ত এক্সপোজার ক্যাটাগরি ২"
+},
+{
+"en": "Combustible Dust",
+"bn": "দাহ্য ধুলো"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Manganese is a hard, brittle metal that acts as a structural muscle for steel. It keeps buildings and train tracks from cracking, while also acting as a key shield inside human cells against cellular damage.",
+"bn": "ম্যাঙ্গানিজ একটি শক্ত, ভঙ্গুর ধাতু যা ইস্পাতের কাঠামোগত পেশী হিসাবে কাজ করে। এটি ভবন এবং ট্রেনের লাইনকে ফেটে যাওয়া থেকে রক্ষা করে, পাশাপাশি কোষের ক্ষতি রোধে মানব কোষের অভ্যন্তরে একটি প্রধান ঢাল হিসাবে কাজ করে।"
+},
+"advancedExplanation": {
+"en": "Manganese possesses a symmetrical, half-filled d-subshell ([Ar] 3d⁵ 4s²). This specific configuration grants it a remarkable range of stable oxidation states spanning from -3 to +7, making its coordination complexes essential players in advanced redox chemistry and biological electron transport.",
+"bn": "ম্যাঙ্গানিজের একটি সুষম, অর্ধ-পূর্ণ d-সাবশেল ([Ar] 3d⁵ 4s²) রয়েছে। এই নির্দিষ্ট কনফিগারেশনটি এটিকে -৩ থেকে +৭ পর্যন্ত বিস্তৃত স্থিতিশীল জারণ অবস্থা প্রদান করে, যা এর জটিল যৌগগুলোকে উন্নত রেডক্স রসায়ন এবং জৈবিক ইলেকট্রন পরিবহনে অপরিহার্য ভূমিকা পালনকারী করে তোলে।"
+},
+"funFacts": [
+{
+"en": "Ocean floors contain vast reserves of manganese in the form of mysterious, slowly growing 'manganese nodules'.",
+"bn": "মহাসাগরের তলদেশে রহস্যময়, ধীরে ধীরে বর্ধনশীল 'ম্যাঙ্গানিজ নোডিউল' আকারে ম্যাঙ্গানিজের বিশাল মজুদ রয়েছে।"
+},
+{
+"en": "Manganese heptoxide (Mn₂O₇) is a volatile green liquid that explodes violently upon contact with even tiny traces of organic materials.",
+"bn": "ম্যাঙ্গানিজ হেপ্টক্সাইড (Mn₂O₇) একটি উদ্বায়ী সবুজ তরল যা সামান্যতম জৈব পদার্থের সংস্পর্শে আসলেই মারাত্মকভাবে বিস্ফোরিত হয়।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 24,
+"relation": {
+"en": "While Chromium (Z=24) optimizes its anomalous electron configuration as 3d⁵ 4s¹ to achieve maximum corrosion passivation, Manganese (Z=25) retains a standard 3d⁵ 4s² configuration, maximizing oxidation state versatility.",
+"bn": "যেখানে ক্রোমিয়াম (Z=24) সর্বাধিক ক্ষয় নিষ্ক্রিয়করণ অর্জনের জন্য তার ব্যতিক্রমী ইলেকট্রন বিন্যাসকে 3d⁵ 4s¹ হিসাবে অপ্টিমাইজ করে, সেখানে ম্যাঙ্গানিজ (Z=25) একটি স্ট্যান্ডার্ড 3d⁵ 4s² বিন্যাস বজায় রাখে, যা জারণ অবস্থার বহুমুখিতাকে সর্বাধিক করে তোলে।"
+}
+}
+],
+"relatedElements": [24, 26, 43, 75],
+"quizQuestions": [
+{
+"question": {
+"en": "What governs the stability of the highly characteristic +2 oxidation state observed in gaseous Manganese ions?",
+"bn": "গ্যাসীয় ম্যাঙ্গানিজ আয়নে পরিলক্ষিত অত্যন্ত বৈশিষ্ট্যপূর্ণ +২ জারণ অবস্থার স্থায়িত্ব কীসের দ্বারা নিয়ন্ত্রিত হয়?"
+},
+"options": [
+{
+"en": "Complete vacancy of the outermost shell",
+"bn": "সবচেয়ে বাইরের শেলের সম্পূর্ণ শূন্যতা"
+},
+{
+"en": "Symmetrical, quantum exchange-stabilized half-filled 3d⁵ subshell",
+"bn": "সুষম, কোয়ান্টাম বিনিময়-স্থিতিশীল অর্ধ-পূর্ণ 3d⁵ সাবশেল"
+},
+{
+"en": "High electronegativity value",
+"bn": "উচ্চ তড়িৎঋণাত্মকতার মান"
+},
+{
+"en": "Strong pairing energy within d-orbitals",
+"bn": "d-অরবিটালগুলোর ভিতরে শক্তিশালী পেয়ারিং এনার্জি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The loss of two 4s electrons yields the Mn²⁺ ion, leaving an unperturbed 3d⁵ system which possesses maximum exchange energy and spherical charge symmetry.",
+"bn": "দুটি 4s ইলেকট্রন হারানোর ফলে Mn²⁺ আয়ন তৈরি হয়, যা একটি অপরিবর্তিত 3d⁵ সিস্টেম রেখে যায় যার সর্বোচ্চ বিনিময় শক্তি এবং বৃত্তাকার আধান সুষমতা রয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which specific polynuclear metal cluster features manganese at its active core to catalyze the light-driven oxidation of water in Photosystem II?",
+"bn": "ফটোসিস্টেম II-এ আলোর সাহায্যে জলের জারণকে অনুঘটিত করতে কোন নির্দিষ্ট বহুকেন্দ্রিক ধাতু ক্লাস্টারের সক্রিয় কোরে ম্যাঙ্গানিজ থাকে?"
+},
+"options": [
+{
+"en": "Mn₄CaO₅ cluster",
+"bn": "Mn₄CaO₅ ক্লাস্টার"
+},
+{
+"en": "Mn₂Fe₂S₄ cluster",
+"bn": "Mn₂Fe₂S₄ ক্লাস্টার"
+},
+{
+"en": "MnMg₃O₄ cluster",
+"bn": "MnMg₃O₄ ক্লাস্টার"
+},
+{
+"en": "Mn₆O₈ cluster",
+"bn": "Mn₆O₈ ক্লাস্টার"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "The oxygen-evolving complex (OEC) in chloroplasts uses an asymmetric Mn₄CaO₅ distorted chair-like cluster to sequentially strip electrons from water.",
+"bn": "ক্লোরোপ্লাস্টের অক্সিজেন-বিবর্তনীয় কমপ্লেক্স (OEC) জল থেকে ক্রমান্বয়ে ইলেকট্রন অপসারণ করতে একটি অসম Mn₄CaO₅ বিকৃত চেয়ার-সদৃশ ক্লাস্টার ব্যবহার করে।"
+}
+},
+{
+"question": {
+"en": "Why do aqueous solutions containing hexaaquamanganese(II) ions, [Mn(H₂O)₆]²⁺, display an exceptionally pale, near-colorless pink hue?",
+"bn": "কেন হেক্সাঅ্যাকুয়াম্যাঙ্গানিজ(II) আয়ন, [Mn(H₂O)₆]²⁺ ধারণকারী জলীয় দ্রবণগুলো একটি ব্যতিক্রমী ফ্যাকাশে, প্রায় বর্ণহীন গোলাপী আভা প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "The transitions are Laporte-allowed but spin-forbidden",
+"bn": "রূপান্তরগুলো ল্যাপোর্ট-অনুমোদিত কিন্তু স্পিন-নিষিদ্ধ"
+},
+{
+"en": "The d-orbitals are completely empty",
+"bn": "d-অরবিটালগুলো সম্পূর্ণ খালি"
+},
+{
+"en": "The d-d electronic transitions are both Laporte-forbidden and spin-forbidden",
+"bn": "d-d ইলেকট্রনিক রূপান্তরগুলো ল্যাপোর্ট-নিষিদ্ধ এবং স্পিন-নিষিদ্ধ উভয়ই"
+},
+{
+"en": "Water acts as a strong-field ligand causing complete quenching",
+"bn": "জল একটি স্ট্রং-ফিল্ড লিগ্যান্ড হিসাবে কাজ করে সম্পূর্ণ কুয়েনচিং ঘটায়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because high-spin d⁵ systems require an electron spin-flip to undergo a d-d transition, the excitation is spin-forbidden, resulting in incredibly low molar absorptivity.",
+"bn": "যেহেতু হাই-স্পিন d⁵ সিস্টেমগুলোর একটি d-d রূপান্তরের মধ্য দিয়ে যেতে ইলেকট্রন স্পিন-ফ্লিপের প্রয়োজন হয়, তাই উত্তেজনাটি স্পিন-নিষিদ্ধ, যার ফলে অবিশ্বাস্যভাবে কম মোলার শোষণ ক্ষমতা দেখা যায়।"
+}
+},
+{
+"question": {
+"en": "What dangerous physical state and color is associated with pure manganese heptoxide (Mn₂O₇)?",
+"bn": "বিশুদ্ধ ম্যাঙ্গানিজ হেপ্টক্সাইডের (Mn₂O₇) সাথে কোন বিপজ্জনক ভৌত অবস্থা এবং রঙ যুক্ত?"
+},
+"options": [
+{
+"en": "Colorless, inert gas",
+"bn": "বর্ণহীন, নিষ্ক্রিয় গ্যাস"
+},
+{
+"en": "Volatile, highly explosive green oil",
+"bn": "উদ্বায়ী, অত্যন্ত বিস্ফোরক সবুজ তেল"
+},
+{
+"en": "Stable, bright purple crystalline solid",
+"bn": "স্থিতিশীল, উজ্জ্বল বেগুনী স্ফটিক কঠিন"
+},
+{
+"en": "Yellow pyrophoric powder",
+"bn": "হলুদ পাইরোফোরিক পাউডার"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Mn₂O₇ is a highly unstable, dark green oily liquid at room temperature that acts as a catastrophic oxidizer, detaching violently upon contact with organic matter.",
+"bn": "Mn₂O₇ হলো কক্ষ তাপমাত্রায় একটি অত্যন্ত অস্থিতিশীল, গাঢ় সবুজ তৈলাক্ত তরল যা একটি বিপর্যয়কর জারক হিসাবে কাজ করে, জৈব পদার্থের সংস্পর্শে আসলে মারাত্মকভাবে বিস্ফোরিত হয়।"
+}
+},
+{
+"question": {
+"en": "What chemical equilibrium transformation dictates the color change when a green potassium manganate (K₂MnO₄) solution is acidified?",
+"bn": "যখন একটি সবুজ পটাসিয়াম ম্যাঙ্গানেট (K₂MnO₄) দ্রবণকে অম্লীয় করা হয় তখন কোন রাসায়নিক ভারসাম্য রূপান্তর রঙের পরিবর্তন নিয়ন্ত্রণ করে?"
+},
+"options": [
+{
+"en": "Precipitation of white Mn(OH)₂",
+"bn": "সাদা Mn(OH)₂ এর অধঃক্ষেপণ"
+},
+{
+"en": "Disproportionation into purple permanganate (MnO₄⁻) and brown manganese dioxide (MnO₂)",
+"bn": "বেগুনী পারম্যাঙ্গানেট (MnO₄⁻) এবং বাদামী ম্যাঙ্গানিজ ডাইঅক্সাইড (MnO₂)-এ অসমঞ্জসন বিক্রিয়া"
+},
+{
+"en": "Complexation into a stable blue sulfate matrix",
+"bn": "একটি স্থিতিশীল নীল সালফেট ম্যাট্রিক্সে জটিল যৌগ গঠন"
+},
+{
+"en": "Reduction to colorless Mn²⁺ ions exclusively",
+"bn": "একচেটিয়াভাবে বর্ণহীন Mn²⁺ আয়নে বিজারণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In acidic media, the Mn(VI) state in manganate is unstable and spontaneously disproportionates into the purple Mn(VII) species and the insoluble brown Mn(IV) oxide.",
+"bn": "অম্লীয় মাধ্যমে, ম্যাঙ্গানেটে থাকা Mn(VI) অবস্থা অস্থিতিশীল এবং স্বতঃস্ফূর্তভাবে বেগুনী Mn(VII) উপাদান এবং অদ্রবণীয় বাদামী Mn(IV) অক্সাইডে অসমঞ্জসিত হয়।"
+}
+},
+{
+"question": {
+"en": "In classic alkaline battery cells, what chemical reduction reaction occurs at the cathode during discharge?",
+"bn": "ক্লাসিক অ্যালকালাইন ব্যাটারি কোষে, ডিসচার্জের সময় ক্যাথোডে কোন রাসায়নিক বিজারণ বিক্রিয়া ঘটে?"
+},
+"options": [
+{
+"en": "MnO₂ + H₂O + e⁻ → MnO(OH) + OH⁻",
+"bn": "MnO₂ + H₂O + e⁻ → MnO(OH) + OH⁻"
+},
+{
+"en": "Mn²⁺ + 2e⁻ → Mn",
+"bn": "Mn²⁺ + 2e⁻ → Mn"
+},
+{
+"en": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O",
+"bn": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O"
+},
+{
+"en": "Mn₂O₃ + H₂O → 2MnO₂ + 2H⁺ + 2e⁻",
+"bn": "Mn₂O₃ + H₂O → 2MnO₂ + 2H⁺ + 2e⁻"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Manganese dioxide (MnO₂) functions as the cathode material, accepting electrons and undergoing solid-state reduction to manganese oxyhydroxide, MnO(OH).",
+"bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড (MnO₂) ক্যাথোড উপাদান হিসাবে কাজ করে, ইলেকট্রন গ্রহণ করে এবং ম্যাঙ্গানিজ অক্সিহাইড্রোক্সাইড, MnO(OH)-এ কঠিন-দশা বিজারণের মধ্য দিয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "What is the calculated spin-only magnetic moment for a high-spin coordination complex of Manganese(II)?",
+"bn": "ম্যাঙ্গানিজ(II) এর একটি হাই-স্পিন জটিল যৌগের জন্য হিসাবকৃত স্পিন-অনলি চৌম্বক মোমেন্ট কত?"
+},
+"options": [
+{
+"en": "1.73 BM",
+"bn": "১.৭৩ BM"
+},
+{
+"en": "3.87 BM",
+"bn": "৩.৮৭ BM"
+},
+{
+"en": "4.90 BM",
+"bn": "৪.৯০ BM"
+},
+{
+"en": "5.92 BM",
+"bn": "৫.৯২ BM"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "High-spin Mn²⁺ contains 5 unpaired electrons. Using the spin-only formula μ = sqrt(n(n+2)), where n=5, yields sqrt(35) ≈ 5.92 Bohr Magnetons.",
+"bn": "হাই-স্পিন Mn²⁺-এ ৫টি বিজোড় ইলেকট্রন থাকে। স্পিন-অনলি সূত্র μ = রুট(n(n+2)) ব্যবহার করে, যেখানে n=5, রুট(৩৫) ≈ ৫.৯২ বোর ম্যাগনেটন পাওয়া যায়।"
+}
+},
+{
+"question": {
+"en": "Which low-spin coordination configuration represents the complex anion hexacyanomanganate(II), [Mn(CN)₆]⁴⁻?",
+"bn": "কোন লো-স্পিন সমন্বয় কনফিগারেশনটি হেক্সাসায়ানোম্যাঙ্গানেট(II) জটিল অ্যানায়ন, [Mn(CN)₆]⁴⁻ কে নির্দেশ করে?"
+},
+"options": [
+{
+"en": "t₂g³ eg²",
+"bn": "t₂g³ eg²"
+},
+{
+"en": "t₂g⁵ eg⁰",
+"bn": "t₂g⁵ eg⁰"
+},
+{
+"en": "t₂g⁴ eg¹",
+"bn": "t₂g⁴ eg¹"
+},
+{
+"en": "t₂g⁶ eg¹",
+"bn": "t₂g⁶ eg¹"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cyanide (CN⁻) is a strong field ligand that forces the pairing of d-electrons, driving all 5 d-electrons of Mn²⁺ into the lower energy t₂g subshell, leaving 1 unpaired electron.",
+"bn": "সায়ানাইড (CN⁻) একটি স্ট্রং ফিল্ড লিগ্যান্ড যা d-ইলেকট্রনগুলোর জোড়াবদ্ধকরণে বাধ্য করে, Mn²⁺-এর সমস্ত ৫টি d-ইলেকট্রনকে নিম্ন শক্তির t₂g সাবশেলে পাঠায়, যার ফলে ১টি বিজোড় ইলেকট্রন অবশিষ্ট থাকে।"
+}
+},
+{
+"question": {
+"en": "The intense purple color of the permanganate anion (MnO₄⁻) originates from which specific electronic transition mechanism?",
+"bn": "পারম্যাঙ্গানেট অ্যানায়নের (MnO₄⁻) তীব্র বেগুনী রঙ কোন নির্দিষ্ট ইলেকট্রনিক রূপান্তর প্রক্রিয়ার মাধ্যমে উৎপন্ন হয়?"
+},
+"options": [
+{
+"en": "Spin-forbidden d-d transition",
+"bn": "স্পিন-নিষিদ্ধ d-d রূপান্তর"
+},
+{
+"en": "Ligand-to-Metal Charge Transfer (LMCT)",
+"bn": "লিগ্যান্ড-টু-মেটাল চার্জ ট্রান্সফার (LMCT)"
+},
+{
+"en": "Metal-to-Ligand Charge Transfer (MLCT)",
+"bn": "মেটাল-টু-লিগ্যান্ড চার্জ ট্রান্সফার (MLCT)"
+},
+{
+"en": "Inter-valence charge transfer",
+"bn": "ইন্টার-ভ্যালেন্স চার্জ ট্রান্সফার"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Since Mn(VII) has a d⁰ configuration, d-d transitions are impossible. The intense coloration is caused by an electron shifting from the oxygen ligand lone pairs to the empty d-orbitals of manganese (LMCT).",
+"bn": "যেহেতু Mn(VII) এর একটি d⁰ বিন্যাস রয়েছে, তাই d-d রূপান্তর অসম্ভব। তীব্র রঙটি অক্সিজেন লিগ্যান্ডের নিঃসঙ্গ ইলেকট্রন জোড় থেকে ম্যাঙ্গানিজের খালি d-অরবিটালে ইলেকট্রন স্থানান্তরের (LMCT) কারণে ঘটে।"
+}
+},
+{
+"question": {
+"en": "What metallurgical phenomenon gives Hadfield steel its world-renowned durability and extreme resistance to mechanical impact?",
+"bn": "কোন মেটালার্জিক্যাল ঘটনাটি হ্যাডফিল্ড স্টিলকে তার বিশ্বখ্যাত স্থায়িত্ব এবং যান্ত্রিক ইমপ্যাক্টের প্রতি চরম প্রতিরোধ ক্ষমতা প্রদান করে?"
+},
+"options": [
+{
+"en": "Rapid thermal precipitation hardening",
+"bn": "দ্রুত তাপীয় অবক্ষেপণ শক্তকরণ"
+},
+{
+"en": "Dynamic work-hardening via deformation-induced twinning",
+"bn": "বিকৃতি-প্ররোচিত টুইনিংয়ের মাধ্যমে গতিশীল ওয়ার্ক-হার্ডেনিং"
+},
+{
+"en": "Interstitial graphitization",
+"bn": "ইন্টারস্টিশিয়াল গ্রাফিটাইজেশন"
+},
+{
+"en": "Formation of isolated chromium carbide networks",
+"bn": "বিচ্ছিন্ন ক্রোমিয়াম কার্বাইড নেটওয়ার্ক গঠন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hadfield steel remains tough but rapidly hardens at its surface under impact mechanical stress due to structural twinning distortions in its austenitic crystal structure.",
+"bn": "হ্যাডফিল্ড স্টিল তার অস্টেনিটিক ক্রিস্টাল গঠনে কাঠামোগত টুইনিং বিকৃতির কারণে ইমপ্যাক্ট যান্ত্রিক চাপের অধীনে উপরিভাগে শক্ত থাকে কিন্তু দ্রুত কঠিন হয়ে ওঠে।"
+}
+},
+{
+"question": {
+"en": "In analytical titrations utilizing potassium permanganate, why is it unnecessary to introduce an external indicator to determine the endpoint?",
+"bn": "পটাসিয়াম পারম্যাঙ্গানেট ব্যবহার করে বিশ্লেষণাত্মক টাইট্রেশনে, এন্ডপয়েন্ট নির্ধারণের জন্য কেন একটি বাহ্যিক নির্দেশক প্রবর্তন করা অপ্রয়োজনীয়?"
+},
+"options": [
+{
+"en": "The reaction produces a gas that signals completion",
+"bn": "বিক্রিয়াটি একটি গ্যাস উৎপন্ন করে যা সমাপ্তির সংকেত দেয়"
+},
+{
+"en": "The product forms a bright yellow precipitate",
+"bn": "উৎপাদটি একটি উজ্জ্বল হলুদ অধঃক্ষেপ গঠন করে"
+},
+{
+"en": "Permanganate acts as a self-indicator, clearing dramatically as it reduces to pale Mn²⁺",
+"bn": "পারম্যাঙ্গানেট একটি স্ব-নির্দেশক হিসাবে কাজ করে, ফ্যাকাশে Mn²⁺-এ বিজারিত হওয়ার সাথে সাথে নাটকীয়ভাবে বর্ণহীন হয়ে যায়"
+},
+{
+"en": "The pH transitions instantly to neutrality",
+"bn": "pH তাৎক্ষণিকভাবে নিরপেক্ষতায় স্থানান্তরিত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "KMnO₄ is intensely purple. Once the reducing agent is fully consumed, the first excess drop of permanganate imparts a permanent pink coloration, making it a highly accurate self-indicator.",
+"bn": "KMnO₄ তীব্র বেগুনী রঙের। একবার বিজারণ এজেন্ট সম্পূর্ণরূপে শেষ হয়ে গেলে, পারম্যাঙ্গানেটের প্রথম অতিরিক্ত ফোঁটা একটি স্থায়ী গোলাপী রঙ প্রদান করে, যা এটিকে একটি অত্যন্ত সঠিক স্ব-নির্দেশক করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What neurological symptom set characterizes the chronic toxicological affliction known as Manganism?",
+"bn": "কোন স্নায়বিক উপসর্গ সেটটি ম্যাঙ্গানিজম নামে পরিচিত দীর্ঘস্থায়ী টক্সিকোলজিক্যাল যন্ত্রণাকে চিহ্নিত করে?"
+},
+"options": [
+{
+"en": "Peripheral demyelination and loss of tactile sensation",
+"bn": "পেরিফেরাল ডিমাইলিনেশন এবং স্পর্শকাতর অনুভূতি হ্রাস"
+},
+{
+"en": "Severe intentional tremors and lower motor neuron paralysis",
+"bn": "গুরুতর ইচ্ছাকৃত কাঁপুনি এবং নিম্ন মোটর নিউরন পক্ষাঘাত"
+},
+{
+"en": "Parkinsonian-like mask-like face, tremors, and rigid shuffling gait",
+"bn": "পার্কিনসনের মতো মাস্ক-সদৃশ মুখমণ্ডল, কাঁপুনি এবং শক্ত হয়ে হাঁটার গতি"
+},
+{
+"en": "Acute blindness and localized auditory cortex degeneration",
+"bn": "তীব্র অন্ধত্ব এবং স্থানীয় শ্রবণ কর্টেক্স অবক্ষয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Manganese toxicity selectively damages the basal ganglia in the brain, inducing neurological motor dysfunction that highly mimics idiopathic Parkinson's disease.",
+"bn": "ম্যাঙ্গানিজ বিষাক্ততা বেছে বেছে মস্তিষ্কের বেসাল গ্যাংগ্লিয়াকে ক্ষতিগ্রস্ত করে, যা ইডিওপ্যাথিক পার্কিনসন রোগের অনুকরণে স্নায়বিক মোটর কর্মহীনতা তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "Which major mineral ore serves as the primary global economic source for extracting metallic manganese?",
+"bn": "কোন প্রধান খনিজ আকরিকটি ধাতব ম্যাঙ্গানিজ নিষ্কাশনের জন্য প্রাথমিক বৈশ্বিক অর্থনৈতিক উৎস হিসাবে কাজ করে?"
+},
+"options": [
+{
+"en": "Rhodochrosite",
+"bn": "রোডোক্রোসাইট"
+},
+{
+"en": "Pyrolusite",
+"bn": "পাইরোলুসাইট"
+},
+{
+"en": "Manganite",
+"bn": "ম্যাঙ্গানাইট"
+},
+{
+"en": "Hausmannite",
+"bn": "হাউসম্যানাইট"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Pyrolusite (MnO₂) is the most widespread and abundant manganese mineral ore mined commercially worldwide.",
+"bn": "পাইরোলুসাইট (MnO₂) হলো বিশ্বব্যাপী বাণিজ্যিকভাবে উত্তোলিত সবচেয়ে বিস্তৃত এবং প্রচুর পরিমাণে পাওয়া ম্যাঙ্গানিজ খনিজ আকরিক।"
+}
+},
+{
+"question": {
+"en": "What behavior does Manganese display in an oxidizing flame during a standard borax bead analytical test?",
+"bn": "একটি স্ট্যান্ডার্ড বোরাক্স বিড বিশ্লেষণাত্মক পরীক্ষার সময় জারণ শিখায় ম্যাঙ্গানিজ কোন আচরণ প্রদর্শন করে?"
+},
+"options": [
+{
+"en": "Forms a blue opaque bead",
+"bn": "একটি নীল অস্বচ্ছ পুঁতি গঠন করে"
+},
+{
+"en": "Forms an amethyst-colored/violet bead",
+"bn": "একটি অ্যামেথিস্ট-রঙের/বেগুনী পুঁতি গঠন করে"
+},
+{
+"en": "Becomes completely clear and colorless",
+"bn": "সম্পূর্ণ স্বচ্ছ এবং বর্ণহীন হয়ে যায়"
+},
+{
+"en": "Emits bright green luminescent sparks",
+"bn": "উজ্জ্বল সবুজ দীপ্তিময় স্ফুলিঙ্গ নির্গত করে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "In an oxidizing flame, manganese ions are oxidized to the Mn(III) state, which absorbs visible light to yield a distinctive amethyst/violet coloration in the borax matrix.",
+"bn": "একটি জারণ শিখায়, ম্যাঙ্গানিজ আয়নগুলো Mn(III) অবস্থায় জারিত হয়, যা বোরাক্স ম্যাট্রিক্সে একটি স্বতন্ত্র অ্যামেথিস্ট/বেগুনী রঙ তৈরি করতে দৃশ্যমান আলো শোষণ করে।"
+}
+},
+{
+"question": {
+"en": "What are the precise values for the total number of subatomic particles within the nucleus of the most stable isotope of Manganese, Manganese-55?",
+"bn": "ম্যাঙ্গানিজের সবচেয়ে স্থিতিশীল আইসোটোপ, ম্যাঙ্গানিজ-৫৫-এর নিউক্লিয়াসের ভিতরে মোট উপপারমাণবিক কণার সংখ্যার সুনির্দিষ্ট মান কত?"
+},
+"options": [
+{
+"en": "25 Protons, 25 Neutrons",
+"bn": "২৫টি প্রোটন, ২৫টি নিউট্রন"
+},
+{
+"en": "25 Protons, 30 Neutrons",
+"bn": "২৫টি প্রোটন, ৩০টি নিউট্রন"
+},
+{
+"en": "30 Protons, 25 Neutrons",
+"bn": "৩০টি প্রোটন, ২৫টি নিউট্রন"
+},
+{
+"en": "25 Protons, 35 Neutrons",
+"bn": "২৫টি প্রোটন, ৩৫টি নিউট্রন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Manganese-55 is the sole stable primordial isotope, possessing an atomic number of 25 (protons) and a mass number of 55, giving it 55 - 25 = 30 neutrons.",
+"bn": "ম্যাঙ্গানিজ-৫৫ হলো একমাত্র স্থিতিশীল আদিম আইসোটোপ, যার পারমাণবিক সংখ্যা ২৫ (প্রোটন) এবং ভর সংখ্যা ৫৫, অর্থাৎ এতে ৫৫ - ২৫ = ৩০টি নিউট্রন রয়েছে।"
+}
+},
+{
+"question": {
+"en": "In coordination chemistry, why does Manganese(III) readily undergo significant Jahn-Teller distortion in high-spin octahedral complexes?",
+"bn": "সমন্বয় রসায়নে, হাই-স্পিন অষ্টতলকীয় জটিল যৌগগুলোতে কেন ম্যাঙ্গানিজ(III) সহজেই উল্লেখযোগ্য জন-টেলার বিকৃতির মধ্য দিয়ে যায়?"
+},
+"options": [
+{
+"en": "It has a symmetrically filled t₂g subshell",
+"bn": "এর একটি সুষমভাবে পূর্ণ t₂g সাবশেল রয়েছে"
+},
+{
+"en": "It possesses an asymmetrically occupied eg subshell (d⁴ high-spin)",
+"bn": "এটির একটি অসমভাবে দখলকৃত eg সাবশেল রয়েছে (d⁴ হাই-স্পিন)"
+},
+{
+"en": "It lacks any d-shell electrons",
+"bn": "এর কোনো d-শেল ইলেকট্রন নেই"
+},
+{
+"en": "It has an exceptionally low ionic charge density",
+"bn": "এর আয়নিক আধান ঘনত্ব ব্যতিক্রমীভাবে কম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "High-spin Mn³⁺ has a d⁴ electronic structure configuration of (t₂g³ eg¹). The asymmetric population of the degenerate eg electronic levels induces structural geometric distortion to minimize system energy.",
+"bn": "হাই-স্পিন Mn³⁺-এর একটি (t₂g³ eg¹) d⁴ ইলেকট্রনিক কাঠামো বিন্যাস রয়েছে। ডিজেনারেট eg ইলেকট্রনিক স্তরের অসম বিন্যাস সিস্টেমের শক্তি কমাতে কাঠামোগত জ্যামিতিক বিকৃতি ঘটায়।"
+}
+},
+{
+"question": {
+"en": "Which compound is acting as a highly efficient laboratory catalyst during the thermal decomposition of potassium chlorate to produce oxygen?",
+"bn": "অক্সিজেন তৈরির জন্য পটাসিয়াম ক্লোরেটের তাপীয় বিয়োজনের সময় কোন যৌগটি একটি অত্যন্ত দক্ষ পরীক্ষাগার অনুঘটক হিসাবে কাজ করে?"
+},
+"options": [
+{
+"en": "KMnO₄",
+"bn": "KMnO₄"
+},
+{
+"en": "MnSO₄",
+"bn": "MnSO₄"
+},
+{
+"en": "MnO₂",
+"bn": "MnO₂"
+},
+{
+"en": "Mn₂O₇",
+"bn": "Mn₂O₇"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Manganese dioxide (MnO₂) dramatically reduces the activation energy barrier for the decomposition of KClO₃, remaining chemically unconsumed at the reaction's conclusion.",
+"bn": "ম্যাঙ্গানিজ ডাইঅক্সাইড (MnO₂) KClO₃-এর বিয়োজনের জন্য সক্রিয়করণ শক্তি বাধা নাটকীয়ভাবে হ্রাস করে, বিক্রিয়ার শেষে রাসায়নিকভাবে অপরিবর্তিত থাকে।"
+}
+},
+{
+"question": {
+"en": "What is the structural oxidation state mapping of manganese atoms within the mixed-valence oxide compound Hausmannite (Mn₃O₄)?",
+"bn": "মিশ্র-যোজ্যতা অক্সাইড যৌগ হাউসম্যানাইট (Mn₃O₄)-এর ভিতরে ম্যাঙ্গানিজ পরমাণুর কাঠামোগত জারণ অবস্থার ম্যাপিং কী?"
+},
+"options": [
+{
+"en": "All manganese atoms are +2.66",
+"bn": "সমস্ত ম্যাঙ্গানিজ পরমাণু হলো +২.৬৬"
+},
+{
+"en": "One Mn²⁺ and two Mn³⁺ centers",
+"bn": "একটি Mn²⁺ এবং দুটি Mn³⁺ কেন্দ্র"
+},
+{
+"en": "Two Mn²⁺ and one Mn⁴⁺ centers",
+"bn": "দুটি Mn²⁺ এবং একটি Mn⁴⁺ কেন্দ্র"
+},
+{
+"en": "One Mn⁴⁺ and two Mn³⁺ centers",
+"bn": "একটি Mn⁴⁺ এবং দুটি Mn³⁺ কেন্দ্র"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hausmannite is a mixed-valence spinel mineral structurally formulated as Mn²⁺Mn³⁺₂O₄, containing distinct divalent and trivalent manganese coordination sites.",
+"bn": "হাউসম্যানাইট হলো একটি মিশ্র-যোজ্যতা স্পিনেল খনিজ যা কাঠামোগতভাবে Mn²⁺Mn³⁺₂O₄ হিসাবে গঠিত, যাতে স্বতন্ত্র দ্বিজোজী এবং ত্রিজোজী ম্যাঙ্গানিজ সমন্বয় সাইট থাকে।"
+}
+},
+{
+"question": {
+"en": "What baseline chemical parameter defines the fundamental reason why manganese cannot be safely extracted via carbon reduction from its oxide ores to high purity?",
+"bn": "কোন মৌলিক রাসায়নিক প্যারামিটারটি প্রধান কারণ নির্ধারণ করে যার জন্য ম্যাঙ্গানিজকে তার অক্সাইড আকরিক থেকে কার্বন বিজারণের মাধ্যমে উচ্চ বিশুদ্ধতায় নিরাপদে নিষ্কাশন করা যায় না?"
+},
+"options": [
+{
+"en": "Manganese forms highly stable carbide phases (like Mn₇C₃) at elevated temperatures",
+"bn": "ম্যাঙ্গানিজ উচ্চ তাপমাত্রায় অত্যন্ত স্থিতিশীল কার্বাইড দশা (যেমন Mn₇C₃) গঠন করে"
+},
+{
+"en": "Manganese has zero affinity for oxygen",
+"bn": "অক্সিজেনের প্রতি ম্যাঙ্গানিজের শূন্য আসক্তি রয়েছে"
+},
+{
+"en": "The oxide forms volatile gases instantly",
+"bn": "অক্সাইডটি তাৎক্ষণিকভাবে উদ্বায়ী গ্যাস গঠন করে"
+},
+{
+"en": "Carbon acts as a catalyst rather than a reducing agent",
+"bn": "কার্বন একটি বিজারণ এজেন্টের পরিবর্তে অনুঘটক হিসাবে কাজ করে"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Carbothermic reduction of pure manganese ores leads directly to contamination by stable manganese carbide networks, necessitating aluminothermic reduction to yield high-purity elemental manganese.",
+"bn": "বিশুদ্ধ ম্যাঙ্গানিজ আকরিকের কার্বোথার্মিক বিজারণ সরাসরি স্থিতিশীল ম্যাঙ্গানিজ কার্বাইড নেটওয়ার্ক দ্বারা দূষণের দিকে পরিচালিত করে, যার ফলে উচ্চ-বিশুদ্ধতার মৌলিক ম্যাঙ্গানিজ পেতে অ্যালুমিনোথার্মিক বিজারণের প্রয়োজন হয়।"
+}
+},
+{
+"question": {
+"en": "Which transition metal family group contains Manganese within the standard periodic table architecture?",
+"bn": "আদর্শ পর্যায় সারণী কাঠামোতে কোন অবস্থান্তর ধাতু গ্রুপে ম্যাঙ্গানিজ অবস্থিত?"
+},
+"options": [
+{
+"en": "Group 5",
+"bn": "গ্রুপ ৫"
+},
+{
+"en": "Group 6",
+"bn": "গ্রুপ ৬"
+},
+{
+"en": "Group 7",
+"bn": "গ্রুপ ৭"
+},
+{
+"en": "Group 8",
+"bn": "গ্রুপ ৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Manganese sits in Group 7, vertically aligned above Technetium (Tc) and Rhenium (Re) within the d-block transition element matrices.",
+"bn": "ম্যাঙ্গানিজ গ্রুপ ৭-এ অবস্থিত, যা d-ব্লক অবস্থান্তর উপাদান ম্যাট্রিক্সের মধ্যে টেকনেটিয়াম (Tc) এবং রেনিয়াম (Re)-এর উপরে লম্বালম্বিভাবে সারিবদ্ধ।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Manganese is exactly the same as magnesium due to their phonetically similar names.",
+"bn": "উচ্চারণগতভাবে মিল থাকার কারণে ম্যাঙ্গানিজ এবং ম্যাগনেসিয়াম হুবহু একই উপাদান।"
+}
+],
+"learningTips": [
+{
+"en": "Associate Manganese with the number 7. It resides in Group 7, has up to 7 valence electrons, and reaches a maximum stable oxidation state of +7 in permanganate.",
+"bn": "ম্যাঙ্গানিজকে ৭ সংখ্যার সাথে যুক্ত করুন। এটি গ্রুপ ৭-এ অবস্থিত, এতে ৭টি পর্যন্ত যোজ্যতা ইলেকট্রন থাকতে পারে এবং পারম্যাঙ্গানেটে সর্বোচ্চ স্থিতিশীল +৭ জারণ অবস্থায় পৌঁছায়।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Mn + O₂ → MnO₂",
+"description": {
+"en": "Direct oxidation reaction of highly divided manganese powder with atmospheric oxygen under thermal initiation.",
+"bn": "তাপীয় সূচনার অধীনে বায়ুমণ্ডলীয় অক্সিজেনের সাথে সূক্ষ্মভাবে বিভক্ত ম্যাঙ্গানিজ পাউডারের সরাসরি জারণ বিক্রিয়া।"
+}
+},
+{
+"equation": "Mn + 2HCl → MnCl₂ + H₂",
+"description": {
+"en": "Dissolution reaction of metallic manganese in hydrochloric acid to generate manganese(II) chloride and hydrogen gas gas evolution.",
+"bn": "ম্যাঙ্গানিজ(II) ক্লোরাইড এবং হাইড্রোজেন গ্যাস তৈরি করতে হাইড্রোক্লোরিক অ্যাসিডে ধাতব ম্যাঙ্গানিজের দ্রবীভূতকরণ বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Mn²⁺ + 4H₂O → MnO₄⁻ + 8H⁺ + 5e⁻",
+"description": {
+"en": "Oxidation half-reaction converting pale divalent manganese ions to the deep-purple heptavalent permanganate system.",
+"bn": "ফ্যাকাশে দ্বিজোজী ম্যাঙ্গানিজ আয়নকে গাঢ়-বেগুনী সপ্তযোজী পারম্যাঙ্গানেট সিস্টেমে রূপান্তর করার জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "MnO₂ + 4H⁺ + 2e⁻ → Mn²⁺ + 2H₂O",
+"description": {
+"en": "Reduction half-reaction of solid manganese dioxide in acidic conditions inside storage cells.",
+"bn": "স্টোরেজ কোষের ভিতরে অম্লীয় পরিস্থিতিতে কঠিন ম্যাঙ্গানিজ ডাইঅক্সাইডের বিজারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond with Ionic Character",
+"bn": "আয়নিক বৈশিষ্ট্যযুক্ত সমযোজী বন্ধন"
+},
+"molecule": "KMnO₄",
+"description": {
+"en": "Highly polarized covalent bonds bond the central manganese atom to four oxygen ligands inside the permanganate cluster matrix.",
+"bn": "পারম্যাঙ্গানেট ক্লাস্টার ম্যাট্রিক্সের ভিতরে কেন্দ্রীয় ম্যাঙ্গানিজ পরমাণুকে চারটি অক্সিজেন লিগ্যান্ডের সাথে অত্যন্ত পোলারাইজড সমযোজী বন্ধনে আবদ্ধ করে।"
+}
+}
+]
+}
+}

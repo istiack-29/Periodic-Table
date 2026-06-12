@@ -1,0 +1,932 @@
+{
+"elementId": 102,
+"basicInformation": {
+"atomicNumber": 102,
+"symbol": "No",
+"name": {
+"en": "Nobelium",
+"bn": "নোবেলিয়াম"
+},
+"pronunciation": {
+"en": "/noʊˈbɛliəm/",
+"bn": "নো-বে-লি-য়াম"
+},
+"atomicMass": 259.101,
+"category": {
+"en": "Actinide",
+"bn": "অ্যাক্টিনাইড"
+},
+"group": 3,
+"period": 7,
+"block": "f",
+"phase": {
+"en": "Solid",
+"bn": "কঠিন"
+},
+"appearance": {
+"en": "Unknown, predicted silvery-white or gray",
+"bn": "অজানা, সম্ভবত রূপালী-সাদা বা ধূসর"
+},
+"color": {
+"en": "Silvery-white (predicted)",
+"bn": "রূপালী-সাদা (আনুমানিক)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "সংশ্লেষিত"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Albert Ghiorso, Glenn T. Seaborg, Torbjørn Sikkeland, John R. Walton",
+"bn": "আলবার্ট গিওর্সো, গ্লেন টি. সিবোর্গ, টরবজর্ন সিক্কিল্যান্ড, জন আর. ওয়ালটন"
+},
+"discoveryYear": 1958,
+"discoveryLocation": {
+"en": "United States / Soviet Union",
+"bn": "যুক্তরাষ্ট্র / সোভিয়েত ইউনিয়ন"
+},
+"discoveryStory": {
+"en": "Discovered unambiguously by the team at Lawrence Berkeley National Laboratory in 1958 by bombarding curium with carbon ions. A prior disputed claim was made by the Nobel Institute in Sweden, leading to its name.",
+"bn": "১৯৫৮ সালে লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরির দল কিউরিয়ামকে কার্বন আয়ন দ্বারা আঘাত করে এটি দ্ব্যর্থহীনভাবে আবিষ্কার করে। সুইডেনের নোবেল ইনস্টিটিউট পূর্বে একটি বিতর্কিত দাবি করেছিল, যার ফলে এর নামকরণ করা হয়।"
+},
+"historicalUses": {
+"en": "Never used outside of fundamental heavy-ion scientific research.",
+"bn": "মৌলিক ভারী-আয়ন বৈজ্ঞানিক গবেষণা ছাড়া বাইরে কখনও ব্যবহৃত হয়নি।"
+},
+"famousExperiments": {
+"en": "Elution experiments using cation-exchange chromatography that proved nobelium's unique preference for the +2 oxidation state among late actinides.",
+"bn": "ক্যাটায়ন-এক্সচেঞ্জ ক্রোমাটোগ্রাফি ব্যবহার করে ইলিউশন পরীক্ষা যা শেষ দিকের অ্যাক্টিনাইডগুলোর মধ্যে +২ জারণ অবস্থার প্রতি নোবেলিয়ামের অনন্য পছন্দ প্রমাণ করে।"
+}
+},
+"atomicStructure": {
+"protons": 102,
+"neutrons": 157,
+"electrons": 102,
+"valenceElectrons": 2,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 8, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 7s²",
+"orbitalConfiguration": {
+"1s": 2,
+"2s": 2,
+"2p": 6,
+"3s": 2,
+"3p": 6,
+"4s": 2,
+"3d": 10,
+"4p": 6,
+"5s": 2,
+"4d": 10,
+"5p": 6,
+"6s": 2,
+"4f": 14,
+"5d": 10,
+"6p": 6,
+"7s": 2,
+"5f": 14
+},
+"oxidationStates": [2, 3],
+"quantumNumbers": {
+"principal": 5,
+"azimuthal": 3,
+"magnetic": 3,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 9.9,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 1100,
+"unit": "K"
+},
+"boilingPoint": null,
+"atomicRadius": {
+"value": 285,
+"unit": "pm"
+},
+"covalentRadius": null,
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Face-centered cubic (predicted)",
+"bn": "ফলক-কেন্দ্রিক ঘনক (আনুমানিক)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (predicted)",
+"bn": "প্যারাম্যাগনেটিক (আনুমানিক)"
+}
+},
+"chemicalProperties": {
+"electronegativity": 1.3,
+"ionizationEnergy": {
+"value": 642.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Highly reactive, behaving chemically more like an alkaline earth metal (like strontium) due to its highly stable +2 oxidation state.",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল, এর অত্যন্ত স্থিতিশীল +২ জারণ অবস্থার কারণে রাসায়নিকভাবে ক্ষারীয় মৃত্তিকা ধাতুর (যেমন স্ট্রনসিয়াম) মতো আচরণ করে।"
+},
+"commonCompounds": ["NoO", "NoCl₂"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Produced in microscopic quantities only.",
+"bn": "কিছুই না। শুধুমাত্র অতি ক্ষুদ্র আণুবীক্ষণিক পরিমাণে উৎপাদিত হয়।"
+},
+"commercialUses": {
+"en": "No commercial applications exist.",
+"bn": "কোনো বাণিজ্যিক ব্যবহার নেই।"
+},
+"electronicsUses": null,
+"semiconductorUses": null,
+"aerospaceUses": null,
+"batteryUses": null,
+"aiHardwareUses": null,
+"renewableEnergyUses": null,
+"nanotechnologyUses": null,
+"nuclearUses": {
+"en": "Used exclusively for nuclear chemistry experiments to understand the limits of the periodic table.",
+"bn": "পর্যায় সারণীর সীমাবদ্ধতা বোঝার জন্য একচেটিয়াভাবে পারমাণবিক রসায়ন পরীক্ষায় ব্যবহৃত হয়।"
+},
+"militaryUses": null,
+"medicalUses": null,
+"foodIndustryUses": null,
+"constructionUses": null
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "None. Not found in biological organisms.",
+"bn": "কিছুই না। জৈবিক প্রাণীতে পাওয়া যায় না।"
+},
+"humanBodyRole": {
+"en": "No physiological role.",
+"bn": "কোনো শারীরবৃত্তীয় ভূমিকা নেই।"
+},
+"toxicity": {
+"en": "Extreme radiation hazard. Its intense radioactivity destroys biological tissue instantly on proximity.",
+"bn": "চরম বিকিরণ ঝুঁকি। এর তীব্র তেজস্ক্রিয়তা কাছাকাছি থাকা জৈবিক টিস্যুকে তাৎক্ষণিকভাবে ধ্বংস করে।"
+},
+"environmentalImpact": {
+"en": "Does not exist in nature, poses zero environmental threat outside of secure particle accelerator facilities.",
+"bn": "প্রকৃতিতে এর কোনো অস্তিত্ব নেই, সুরক্ষিত কণা ত্বরক সুবিধার বাইরে কোনো পরিবেশগত ঝুঁকি তৈরি করে না।"
+},
+"pollutionRisks": null,
+"recyclingMethods": null,
+"sustainabilityScore": 0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "Germany",
+"bn": "জার্মানি"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Synthesized atom-by-atom in heavy-ion linear accelerators.",
+"bn": "খনন করা যায় না। হেভি-আয়ন লিনিয়ার অ্যাক্সিলারেটরে পরমাণু-পরমাণু করে সংশ্লেষিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Invaluable. Not commercially produced or sold.",
+"bn": "অমূল্য। বাণিজ্যিকভাবে উৎপাদিত বা বিক্রি হয় না।"
+},
+"futureDemand": {
+"en": "Strictly limited to fundamental scientific research into superheavy elements.",
+"bn": "সুপারহেভি উপাদানগুলির মৌলিক বৈজ্ঞানিক গবেষণার মধ্যে কঠোরভাবে সীমাবদ্ধ।"
+},
+"globalImportance": {
+"en": "Essential for confirming relativistic quantum chemical models and the architecture of the periodic table.",
+"bn": "রিলেটিভিস্টিক কোয়ান্টাম রাসায়নিক মডেল এবং পর্যায় সারণীর গঠন নিশ্চিত করার জন্য অপরিহার্য।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Lethal ionizing radiation. Emits high-energy alpha particles and undergoes spontaneous fission.",
+"bn": "মারাত্মক আয়নাইজিং বিকিরণ। উচ্চ-শক্তির আলফা কণা নির্গত করে এবং স্বতঃস্ফূর্ত ফিশনের মধ্য দিয়ে যায়।"
+},
+"storageRequirements": {
+"en": "Cannot be stored due to short half-life (~58 minutes for No-259). Handled in specialized robotic hot cells.",
+"bn": "সংক্ষিপ্ত অর্ধায়ুর (No-259 এর জন্য ~৫৮ মিনিট) কারণে সংরক্ষণ করা যায় না। বিশেষ রোবোটিক হট সেলে পরিচালনা করা হয়।"
+},
+"handlingProcedures": {
+"en": "Strict remote manipulation in highly shielded nuclear facilities.",
+"bn": "উচ্চ আচ্ছাদিত পারমাণবিক স্থাপনায় কঠোর রিমোট ম্যানিপুলেশন।"
+},
+"exposureRisks": {
+"en": "Severe radiation sickness, DNA mutation, and extreme cancer risk upon any exposure.",
+"bn": "যেকোনো এক্সপোজারে তীব্র বিকিরণ অসুস্থতা, ডিএনএ মিউটেশন এবং ক্যান্সারের চরম ঝুঁকি।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Nobelium is an artificial, highly radioactive metal that does not exist in nature. Scientists make it by crashing smaller atoms together at high speeds. It disappears very quickly.",
+"bn": "নোবেলিয়াম একটি কৃত্রিম, অত্যন্ত তেজস্ক্রিয় ধাতু যা প্রকৃতিতে বিদ্যমান নেই। বিজ্ঞানীরা উচ্চ গতিতে ছোট পরমাণুগুলোকে একসাথে সংঘর্ষ ঘটিয়ে এটি তৈরি করেন। এটি খুব দ্রুত অদৃশ্য হয়ে যায়।"
+},
+"advancedExplanation": {
+"en": "Nobelium (Z=102) is a synthetic transfermium element in the actinide series. Unlike most actinides that favor the +3 oxidation state, nobelium is unusually stable in the +2 state because this leaves it with a full 5f¹⁴ electron subshell.",
+"bn": "নোবেলিয়াম (Z=102) হল অ্যাক্টিনাইড সিরিজের একটি কৃত্রিম ট্রান্সফার্মিয়াম উপাদান। বেশিরভাগ অ্যাক্টিনাইডের বিপরীতে যা +৩ জারণ অবস্থা পছন্দ করে, নোবেলিয়াম +২ অবস্থায় অস্বাভাবিকভাবে স্থিতিশীল কারণ এটিতে একটি পূর্ণ 5f¹⁴ ইলেকট্রন সাবশেল থাকে।"
+},
+"funFacts": [
+{
+"en": "It is named in honor of Alfred Nobel, the inventor of dynamite and benefactor of the Nobel Prizes.",
+"bn": "ডিনামাইটের আবিষ্কারক এবং নোবেল পুরস্কারের প্রবর্তক আলফ্রেড নোবেলের সম্মানে এর নামকরণ করা হয়েছে।"
+},
+{
+"en": "It was the first element discovered whose most common oxidation state was +2 instead of the typical +3 for actinides.",
+"bn": "এটি আবিষ্কৃত প্রথম উপাদান যার সবচেয়ে সাধারণ জারণ অবস্থা অ্যাক্টিনাইডগুলোর সাধারণ +৩ এর পরিবর্তে +২ ছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 101,
+"relation": {
+"en": "Unlike Mendelevium (101) which prefers a +3 state, Nobelium strictly prefers a +2 state due to its completely filled 5f electron shell.",
+"bn": "মেন্ডেলিভিয়াম (১০১) এর বিপরীতে যা একটি +৩ অবস্থা পছন্দ করে, নোবেলিয়াম এর সম্পূর্ণ পূর্ণ 5f ইলেকট্রন শেলের কারণে কঠোরভাবে +২ অবস্থা পছন্দ করে।"
+}
+}
+],
+"relatedElements": [100, 101, 103, 38],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Nobelium?",
+"bn": "নোবেলিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "100",
+"bn": "১০০"
+},
+{
+"en": "101",
+"bn": "১০১"
+},
+{
+"en": "102",
+"bn": "১০২"
+},
+{
+"en": "103",
+"bn": "১০৩"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Nobelium is the 102nd element on the periodic table.",
+"bn": "নোবেলিয়াম পর্যায় সারণীর ১০২তম উপাদান।"
+}
+},
+{
+"question": {
+"en": "Nobelium is named in honor of which historical figure?",
+"bn": "নোবেলিয়ামের নামকরণ কোন ঐতিহাসিক ব্যক্তির সম্মানে করা হয়েছে?"
+},
+"options": [
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Alfred Nobel",
+"bn": "আলফ্রেড নোবেল"
+},
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+},
+{
+"en": "Isaac Newton",
+"bn": "আইজ্যাক নিউটন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It was named after Alfred Nobel, the inventor of dynamite and founder of the Nobel Prizes.",
+"bn": "এর নামকরণ করা হয়েছে ডিনামাইটের আবিষ্কারক এবং নোবেল পুরস্কারের প্রতিষ্ঠাতা আলফ্রেড নোবেলের নামানুসারে।"
+}
+},
+{
+"question": {
+"en": "Which block of the periodic table does Nobelium belong to?",
+"bn": "নোবেলিয়াম পর্যায় সারণীর কোন ব্লকের অন্তর্গত?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "s-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "p-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "d-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "f-ব্লক"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Nobelium is an actinide, which places it in the f-block of the periodic table.",
+"bn": "নোবেলিয়াম একটি অ্যাক্টিনাইড, যা একে পর্যায় সারণীর f-ব্লকে রাখে।"
+}
+},
+{
+"question": {
+"en": "Unlike most actinides, what is the most stable oxidation state of Nobelium in aqueous solution?",
+"bn": "অধিকাংশ অ্যাক্টিনাইডের বিপরীতে, জলীয় দ্রবণে নোবেলিয়ামের সবচেয়ে স্থিতিশীল জারণ অবস্থা কোনটি?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+4",
+"bn": "+৪"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nobelium prefers the +2 state because it leaves a perfectly full and stable 5f14 electron subshell.",
+"bn": "নোবেলিয়াম +২ অবস্থা পছন্দ করে কারণ এটি একটি সম্পূর্ণ পূর্ণ এবং স্থিতিশীল 5f14 ইলেকট্রন সাবশেল রেখে যায়।"
+}
+},
+{
+"question": {
+"en": "How is Nobelium typically produced?",
+"bn": "কীভাবে সাধারণত নোবেলিয়াম উৎপাদিত হয়?"
+},
+"options": [
+{
+"en": "Mining deep underground",
+"bn": "মাটির গভীরে খনন করে"
+},
+{
+"en": "Extracting from ocean water",
+"bn": "সমুদ্রের জল থেকে নিষ্কাশন করে"
+},
+{
+"en": "Bombarding Curium with Carbon ions",
+"bn": "কিউরিয়ামকে কার্বন আয়ন দ্বারা আঘাত করে"
+},
+{
+"en": "Fission of Uranium in standard reactors",
+"bn": "স্ট্যান্ডার্ড চুল্লিতে ইউরেনিয়ামের ফিশন দ্বারা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It is synthesized in particle accelerators by bombarding a curium target with carbon ions.",
+"bn": "এটি কণা ত্বরকগুলিতে কার্বন আয়ন দিয়ে কিউরিয়াম টার্গেটকে আঘাত করে সংশ্লেষিত হয়।"
+}
+},
+{
+"question": {
+"en": "Which electron subshell is completely filled when Nobelium is in its +2 oxidation state?",
+"bn": "নোবেলিয়াম যখন তার +২ জারণ অবস্থায় থাকে তখন কোন ইলেকট্রন সাবশেল সম্পূর্ণ পূর্ণ থাকে?"
+},
+"options": [
+{
+"en": "4f",
+"bn": "4f"
+},
+{
+"en": "5d",
+"bn": "5d"
+},
+{
+"en": "5f",
+"bn": "5f"
+},
+{
+"en": "6p",
+"bn": "6p"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "In the +2 state, Nobelium loses its two 7s electrons, leaving a completely full 5f14 subshell.",
+"bn": "+২ অবস্থায়, নোবেলিয়াম তার দুটি 7s ইলেকট্রন হারায়, যার ফলে একটি সম্পূর্ণ পূর্ণ 5f14 সাবশেল অবশিষ্ট থাকে।"
+}
+},
+{
+"question": {
+"en": "What is the half-life of Nobelium's most stable isotope, No-259?",
+"bn": "নোবেলিয়ামের সবচেয়ে স্থিতিশীল আইসোটোপ No-259 এর অর্ধায়ু কত?"
+},
+"options": [
+{
+"en": "58 milliseconds",
+"bn": "৫৮ মিলিসেকেন্ড"
+},
+{
+"en": "58 seconds",
+"bn": "৫৮ সেকেন্ড"
+},
+{
+"en": "58 minutes",
+"bn": "৫৮ মিনিট"
+},
+{
+"en": "58 days",
+"bn": "৫৮ দিন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "No-259 is the most stable isotope of Nobelium with a half-life of approximately 58 minutes.",
+"bn": "No-259 হলো নোবেলিয়ামের সবচেয়ে স্থিতিশীল আইসোটোপ যার অর্ধায়ু প্রায় ৫৮ মিনিট।"
+}
+},
+{
+"question": {
+"en": "Which country's research institute incorrectly claimed the discovery of Nobelium first?",
+"bn": "কোন দেশের গবেষণা প্রতিষ্ঠান ভুলভাবে প্রথমে নোবেলিয়াম আবিষ্কারের দাবি করেছিল?"
+},
+"options": [
+{
+"en": "Germany",
+"bn": "জার্মানি"
+},
+{
+"en": "Sweden",
+"bn": "সুইডেন"
+},
+{
+"en": "France",
+"bn": "ফ্রান্স"
+},
+{
+"en": "Japan",
+"bn": "জাপান"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The Nobel Institute in Sweden initially claimed discovery, leading to the name Nobelium, but this was later proven incorrect.",
+"bn": "সুইডেনের নোবেল ইনস্টিটিউট প্রাথমিকভাবে আবিষ্কারের দাবি করেছিল, যা নোবেলিয়াম নামের দিকে পরিচালিত করে, কিন্তু পরে এটি ভুল প্রমাণিত হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary mode of decay for Nobelium isotopes?",
+"bn": "নোবেলিয়াম আইসোটোপগুলির প্রাথমিক ক্ষয় মোড কোনটি?"
+},
+"options": [
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Positron emission",
+"bn": "পজিট্রন নির্গমন"
+},
+{
+"en": "Alpha decay and spontaneous fission",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন"
+},
+{
+"en": "Gamma emission",
+"bn": "গামা নির্গমন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Being a superheavy artificial element, it decays rapidly via alpha particle emission or by splitting apart (spontaneous fission).",
+"bn": "একটি সুপারহেভি কৃত্রিম উপাদান হওয়ায়, এটি আলফা কণা নির্গমনের মাধ্যমে বা বিভক্ত হয়ে (স্বতঃস্ফূর্ত ফিশন) দ্রুত ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "How many neutrons are in the most stable isotope of Nobelium, No-259?",
+"bn": "নোবেলিয়ামের সবচেয়ে স্থিতিশীল আইসোটোপ No-259 এ কতটি নিউট্রন আছে?"
+},
+"options": [
+{
+"en": "102",
+"bn": "১০২"
+},
+{
+"en": "157",
+"bn": "১৫৭"
+},
+{
+"en": "259",
+"bn": "২৫৯"
+},
+{
+"en": "55",
+"bn": "৫৫"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Mass number (259) minus atomic number (102) equals 157 neutrons.",
+"bn": "ভর সংখ্যা (২৫৯) থেকে পারমাণবিক সংখ্যা (১০২) বিয়োগ করলে ১৫৭ টি নিউট্রন হয়।"
+}
+},
+{
+"question": {
+"en": "Chemically, Nobelium in its +2 state behaves most similarly to which of the following elements?",
+"bn": "রাসায়নিকভাবে, +২ অবস্থায় নোবেলিয়াম নিচের কোন উপাদানের মতো সবচেয়ে বেশি আচরণ করে?"
+},
+"options": [
+{
+"en": "Uranium",
+"bn": "ইউরেনিয়াম"
+},
+{
+"en": "Gold",
+"bn": "সোনা"
+},
+{
+"en": "Strontium / Alkaline earth metals",
+"bn": "স্ট্রনসিয়াম / ক্ষারীয় মৃত্তিকা ধাতু"
+},
+{
+"en": "Iron",
+"bn": "লোহা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because of its highly stable +2 state, its chemistry is homologous to the alkaline earth metals like Strontium and Barium.",
+"bn": "এর অত্যন্ত স্থিতিশীল +২ অবস্থার কারণে, এর রসায়ন স্ট্রনসিয়াম এবং বেরিয়ামের মতো ক্ষারীয় মৃত্তিকা ধাতুগুলির সমতুল্য।"
+}
+},
+{
+"question": {
+"en": "In what physical state is Nobelium predicted to exist at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় নোবেলিয়াম কোন ভৌত অবস্থায় থাকতে পারে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like all other actinide metals, nobelium is predicted to be a solid at standard room temperature.",
+"bn": "অন্যান্য সমস্ত অ্যাক্টিনাইড ধাতুর মতো, নোবেলিয়াম আদর্শ কক্ষ তাপমাত্রায় কঠিন পদার্থ বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the symbol for Nobelium?",
+"bn": "নোবেলিয়ামের প্রতীক কী?"
+},
+"options": [
+{
+"en": "Nb",
+"bn": "Nb"
+},
+{
+"en": "Nl",
+"bn": "Nl"
+},
+{
+"en": "No",
+"bn": "No"
+},
+{
+"en": "Nm",
+"bn": "Nm"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The chemical symbol for Nobelium is 'No'. Nb is for Niobium.",
+"bn": "নোবেলিয়ামের রাসায়নিক প্রতীক হলো 'No'। Nb হলো নিওবিয়ামের জন্য।"
+}
+},
+{
+"question": {
+"en": "What category of elements does Nobelium belong to?",
+"bn": "নোবেলিয়াম কোন শ্রেণীর উপাদানের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Lanthanide",
+"bn": "ল্যান্থানাইড"
+},
+{
+"en": "Actinide",
+"bn": "অ্যাক্টিনাইড"
+},
+{
+"en": "Halogen",
+"bn": "হ্যালোজেন"
+},
+{
+"en": "Transition Metal",
+"bn": "অবস্থান্তর ধাতু"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nobelium is the 14th and penultimate member of the actinide series.",
+"bn": "নোবেলিয়াম অ্যাক্টিনাইড সিরিজের ১৪ তম এবং শেষদিকের সদস্য।"
+}
+},
+{
+"question": {
+"en": "How many valence electrons does a neutral Nobelium atom have?",
+"bn": "একটি নিরপেক্ষ নোবেলিয়াম পরমাণুর কয়টি যোজ্যতা ইলেকট্রন আছে?"
+},
+"options": [
+{
+"en": "1",
+"bn": "১"
+},
+{
+"en": "2",
+"bn": "২"
+},
+{
+"en": "3",
+"bn": "৩"
+},
+{
+"en": "14",
+"bn": "১৪"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Its valence shell configuration is 7s2, giving it 2 valence electrons.",
+"bn": "এর যোজ্যতা শেল কনফিগারেশন হলো 7s2, যা এটিকে ২ টি যোজ্যতা ইলেকট্রন দেয়।"
+}
+},
+{
+"question": {
+"en": "What crystal structure is Nobelium predicted to have in solid form?",
+"bn": "কঠিন রূপে নোবেলিয়ামের কোন স্ফটিক গঠন থাকবে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টারড কিউবিক"
+},
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+},
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টারড কিউবিক"
+},
+{
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Based on its chemistry and relation to alkaline earth metals, it is predicted to have a face-centered cubic structure.",
+"bn": "এর রসায়ন এবং ক্ষারীয় মৃত্তিকা ধাতুর সাথে সম্পর্কের ওপর ভিত্তি করে, এটি ফেস-সেন্টারড কিউবিক গঠন ধারণ করবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial use of Nobelium?",
+"bn": "নোবেলিয়ামের প্রাথমিক শিল্প ব্যবহার কী?"
+},
+"options": [
+{
+"en": "Nuclear power plant fuel",
+"bn": "পারমাণবিক বিদ্যুৎ কেন্দ্রের জ্বালানী"
+},
+{
+"en": "Medical imaging",
+"bn": "মেডিকেল ইমেজিং"
+},
+{
+"en": "Semiconductor manufacturing",
+"bn": "সেমিকন্ডাক্টর উত্পাদন"
+},
+{
+"en": "None, it is used only for scientific research",
+"bn": "কিছুই না, এটি শুধুমাত্র বৈজ্ঞানিক গবেষণার জন্য ব্যবহৃত হয়"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Because it is highly radioactive, incredibly difficult to produce, and has a very short half-life, it has no commercial or industrial uses.",
+"bn": "যেহেতু এটি অত্যন্ত তেজস্ক্রিয়, উৎপাদন করা অবিশ্বাস্যরকম কঠিন এবং এর অর্ধায়ু খুব কম, তাই এর কোনো বাণিজ্যিক বা শিল্প ব্যবহার নেই।"
+}
+},
+{
+"question": {
+"en": "What technique was crucial to studying the chemistry of Nobelium despite its short half-life?",
+"bn": "সংক্ষিপ্ত অর্ধায়ু সত্ত্বেও নোবেলিয়ামের রসায়ন অধ্যয়নের জন্য কোন কৌশলটি অত্যন্ত গুরুত্বপূর্ণ ছিল?"
+},
+"options": [
+{
+"en": "Crystallography",
+"bn": "ক্রিস্টালোগ্রাফি"
+},
+{
+"en": "Atom-at-a-time chemistry",
+"bn": "এটম-এট-এ-টাইম রসায়ন"
+},
+{
+"en": "Mass spectrometry of bulk samples",
+"bn": "বাল্ক নমুনার ভর স্পেকট্রোমেট্রি"
+},
+{
+"en": "Neutron diffraction",
+"bn": "নিউট্রন বিচ্ছুরণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because it decays so fast, researchers had to use fast chemical separation techniques studying literally one atom at a time.",
+"bn": "যেহেতু এটি খুব দ্রুত ক্ষয়প্রাপ্ত হয়, তাই গবেষকদের একবারে আক্ষরিক অর্থে একটি পরমাণু অধ্যয়ন করে দ্রুত রাসায়নিক পৃথকীকরণ কৌশল ব্যবহার করতে হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "In what year was the first unambiguous discovery of Nobelium made at Berkeley?",
+"bn": "কোন বছরে বার্কলেতে নোবেলিয়ামের প্রথম দ্ব্যর্থহীন আবিষ্কার হয়েছিল?"
+},
+"options": [
+{
+"en": "1940",
+"bn": "১৯৪০"
+},
+{
+"en": "1958",
+"bn": "১৯৫৮"
+},
+{
+"en": "1966",
+"bn": "১৯৬৬"
+},
+{
+"en": "1974",
+"bn": "১৯৭৪"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Albert Ghiorso's team at Lawrence Berkeley National Laboratory officially and cleanly synthesized it in 1958.",
+"bn": "লরেন্স বার্কলে ন্যাশনাল ল্যাবরেটরিতে আলবার্ট গিওর্সোর দল ১৯৫৮ সালে এটিকে আনুষ্ঠানিকভাবে এবং পরিষ্কারভাবে সংশ্লেষিত করেছিল।"
+}
+},
+{
+"question": {
+"en": "The 'transfermium wars' involved a discovery dispute over Nobelium between the United States and which other entity?",
+"bn": "মার্কিন যুক্তরাষ্ট্র এবং অন্য কোন সত্তার মধ্যে নোবেলিয়াম নিয়ে আবিষ্কারের বিরোধে 'ট্রান্সফার্মিয়াম যুদ্ধ' জড়িত ছিল?"
+},
+"options": [
+{
+"en": "United Kingdom",
+"bn": "যুক্তরাজ্য"
+},
+{
+"en": "Soviet Union (JINR in Dubna)",
+"bn": "সোভিয়েত ইউনিয়ন (ডুবনায় জেআইএনআর)"
+},
+{
+"en": "CERN",
+"bn": "সার্ন (CERN)"
+},
+{
+"en": "China",
+"bn": "চীন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Both Berkeley Lab (USA) and the Joint Institute for Nuclear Research (USSR) made competing claims for discovering element 102.",
+"bn": "বার্কলে ল্যাব (মার্কিন যুক্তরাষ্ট্র) এবং জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (ইউএসএসআর) উভয়ই ১০২ নং উপাদান আবিষ্কারের প্রতিযোগী দাবি করেছিল।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Because it is named after Alfred Nobel, it is related to explosives.",
+"bn": "যেহেতু আলফ্রেড নোবেলের নামানুসারে এর নামকরণ করা হয়েছে, তাই এটি বিস্ফোরক পদার্থের সাথে সম্পর্কিত।"
+},
+{
+"en": "It can be found in nature if dug deep enough.",
+"bn": "যথেষ্ট গভীরে খনন করা হলে এটি প্রকৃতিতে পাওয়া যেতে পারে।"
+}
+],
+"learningTips": [
+{
+"en": "Remember No = 102. It's the 'NO' element, as in 'NO commercial uses' because it decays almost instantly.",
+"bn": "মনে রাখবেন No = ১০২। এটি হলো 'NO' উপাদান, ঠিক যেমন 'কোনো বাণিজ্যিক ব্যবহার নেই' (NO commercial uses) কারণ এটি প্রায় সাথে সাথেই ক্ষয়প্রাপ্ত হয়।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "No + 2HCl → NoCl₂ + H₂",
+"description": {
+"en": "Theoretical reaction of metallic nobelium with hydrochloric acid forming nobelium(II) chloride.",
+"bn": "হাইড্রোক্লোরিক অ্যাসিডের সাথে ধাতব নোবেলিয়ামের তাত্ত্বিক বিক্রিয়া যা নোবেলিয়াম(II) ক্লোরাইড গঠন করে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "No → No²⁺ + 2e⁻",
+"description": {
+"en": "Oxidation of nobelium to its highly stable +2 state.",
+"bn": "নোবেলিয়ামের তার অত্যন্ত স্থিতিশীল +২ অবস্থায় জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "No³⁺ + e⁻ → No²⁺",
+"description": {
+"en": "Reduction of nobelium(III) to nobelium(II), demonstrating its strong preference for the +2 state in aqueous solutions.",
+"bn": "জলীয় দ্রবণে +২ অবস্থার প্রতি এর দৃঢ় পছন্দ প্রদর্শন করে নোবেলিয়াম(III) থেকে নোবেলিয়াম(II) এ বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic Bond",
+"bn": "আয়নিক বন্ধন"
+},
+"molecule": "NoCl₂",
+"description": {
+"en": "Nobelium transfers two electrons to chlorine atoms to form a stable ionic compound.",
+"bn": "নোবেলিয়াম একটি স্থিতিশীল আয়নিক যৌগ গঠনের জন্য ক্লোরিন পরমাণুতে দুটি ইলেকট্রন স্থানান্তর করে।"
+}
+}
+]
+}
+}
