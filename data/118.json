@@ -1,0 +1,1031 @@
+{
+  "elementId": 118,
+  "basicInformation": {
+    "atomicNumber": 118,
+    "symbol": "Og",
+    "name": {
+      "en": "Oganesson",
+      "bn": "ওগানেসন"
+    },
+    "pronunciation": {
+      "en": "/ˌoʊɡəˈnɛsɒn/",
+      "bn": "ও-গা-নে-সন"
+    },
+    "atomicMass": 294,
+    "category": {
+      "en": "Noble gas / Post-transition element (predicted solid)",
+      "bn": "উৎকৃষ্ট গ্যাস / উত্তর-অবস্থান্তর মৌল (পূর্বাভাসিত কঠিন)"
+    },
+    "group": 18,
+    "period": 7,
+    "block": "p",
+    "phase": {
+      "en": "Solid (predicted, not gas)",
+      "bn": "কঠিন (পূর্বাভাসিত, গ্যাস নয়)"
+    },
+    "appearance": {
+      "en": "Unknown, predicted to be a semi-conductive solid",
+      "bn": "অজানা, অর্ধপরিবাহী কঠিন বলে অনুমান করা হয়"
+    },
+    "color": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "JINR Dubna and Lawrence Livermore National Laboratory (led by Yuri Oganessian)",
+      "bn": "JINR ডুবনা এবং লরেন্স লিভারমোর জাতীয় গবেষণাগার (ইউরি ওগানেসিয়ানের নেতৃত্বে)"
+    },
+    "discoveryYear": 2002,
+    "discoveryLocation": {
+      "en": "Dubna, Russia",
+      "bn": "ডুবনা, রাশিয়া"
+    },
+    "discoveryStory": {
+      "en": "First synthesized in 2002 (and confirmed in 2005) by bombarding californium-249 with calcium-48 ions, producing Og-294. Named in 2016 to honor physicist Yuri Oganessian, only the second element ever named after a living person.",
+      "bn": "ক্যালিফোর্নিয়াম-২৪৯ এর উপর ক্যালসিয়াম-৪৮ আয়ন নিক্ষেপ করে ২০০২ সালে প্রথম সংশ্লেষিত (এবং ২০০৫ সালে নিশ্চিত) হয়েছিল, Og-২৯৪ উৎপন্ন করে। পদার্থবিদ ইউরি ওগানেসিয়ানকে সম্মান জানিয়ে ২০১৬ সালে নামকরণ করা হয়, একজন জীবিত ব্যক্তির নামে নামকরণ করা মাত্র দ্বিতীয় মৌল।"
+    },
+    "historicalUses": {
+      "en": "No historical uses. Previously known as ununoctium (Uuo); briefly the subject of a fraudulent 1999 'discovery' claim that was later retracted.",
+      "bn": "কোনো ঐতিহাসিক ব্যবহার নেই। পূর্বে আনআনঅক্টিয়াম (Uuo) নামে পরিচিত ছিল; সংক্ষিপ্তভাবে ১৯৯৯ সালের প্রতারণামূলক 'আবিষ্কার' দাবির বিষয় ছিল যা পরে প্রত্যাহার করা হয়েছিল।"
+    },
+    "famousExperiments": {
+      "en": "The 2002/2005 Dubna ²⁴⁹Cf(⁴⁸Ca, 3n)²⁹⁴Og experiment, identified through correlated alpha-decay chains terminating in known nuclides.",
+      "bn": "২০০২/২০০৫ সালের ডুবনার ²⁴⁹Cf(⁴⁸Ca, 3n)²⁹⁴Og পরীক্ষা, পরিচিত নিউক্লাইডে শেষ হওয়া সম্পর্কযুক্ত আলফা-ক্ষয় শৃঙ্খলের মাধ্যমে চিহ্নিত।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 118,
+    "neutrons": 176,
+    "electrons": 118,
+    "valenceElectrons": 8,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      8
+    ],
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+    "orbitalConfiguration": {
+      "7s": 2,
+      "7p": 6
+    },
+    "oxidationStates": [
+      -1,
+      0,
+      1,
+      2,
+      4,
+      6
+    ],
+    "quantumNumbers": {
+      "principal": 7,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": -0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 7,
+      "unit": "g/cm³ (predicted solid)"
+    },
+    "meltingPoint": {
+      "value": 325,
+      "unit": "K (predicted)"
+    },
+    "boilingPoint": {
+      "value": 450,
+      "unit": "K (predicted)"
+    },
+    "atomicRadius": {
+      "value": 152,
+      "unit": "pm (predicted)"
+    },
+    "covalentRadius": {
+      "value": 157,
+      "unit": "pm (predicted)"
+    },
+    "vanDerWaalsRadius": {
+      "value": 230,
+      "unit": "pm (predicted)"
+    },
+    "thermalConductivity": null,
+    "electricalConductivity": null,
+    "specificHeat": null,
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic (predicted)",
+      "bn": "ফেস-কেন্দ্রিক ঘনক (পূর্বাভাসিত)"
+    },
+    "magneticOrdering": {
+      "en": "Diamagnetic (predicted)",
+      "bn": "ডায়াম্যাগনেটিক (পূর্বাভাসিত)"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": null,
+    "ionizationEnergy": {
+      "value": 839.4,
+      "unit": "kJ/mol (predicted)"
+    },
+    "electronAffinity": {
+      "value": 5.4,
+      "unit": "kJ/mol (predicted, weakly bound)"
+    },
+    "reactivity": {
+      "en": "Predicted to be unusually reactive for a noble gas; relativistic effects break the closed-shell noble-gas paradigm, allowing fluorides and chlorides.",
+      "bn": "একটি উৎকৃষ্ট গ্যাসের জন্য অস্বাভাবিকভাবে প্রতিক্রিয়াশীল বলে অনুমান করা হয়; আপেক্ষিক প্রভাব বদ্ধ-শেল উৎকৃষ্ট-গ্যাস দৃষ্টান্তকে ভেঙে দেয়, ফ্লোরাইড এবং ক্লোরাইডের অনুমতি দেয়।"
+    },
+    "commonCompounds": [],
+    "flameTestColor": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "spectralLines": []
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "None. Only a handful of atoms have ever existed.",
+      "bn": "নেই। শুধুমাত্র কয়েকটি পরমাণু কখনো বিদ্যমান ছিল।"
+    },
+    "commercialUses": {
+      "en": "No commercial application possible.",
+      "bn": "কোনো বাণিজ্যিক প্রয়োগ সম্ভব নয়।"
+    },
+    "electronicsUses": {
+      "en": "None known.",
+      "bn": "কোনোটি জানা নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None known, though models suggest Og itself would be a semiconductor in bulk.",
+      "bn": "কোনোটি জানা নেই, যদিও মডেল পরামর্শ দেয় যে Og নিজে বাল্কে একটি অর্ধপরিবাহী হবে।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "Indirect — its quantum-chemical modelling pushes relativistic DFT methods used in next-gen AI material discovery.",
+      "bn": "পরোক্ষ — এর কোয়ান্টাম-রাসায়নিক মডেলিং পরবর্তী প্রজন্মের এআই উপাদান আবিষ্কারে ব্যবহৃত আপেক্ষিক DFT পদ্ধতিগুলিকে এগিয়ে নিয়ে যায়।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Theoretical interest only; relevant if a long-lived isotope near N=184 is ever reached.",
+      "bn": "শুধুমাত্র তাত্ত্বিক আগ্রহ; প্রাসঙ্গিক যদি N=১৮৪-এর কাছাকাছি একটি দীর্ঘস্থায়ী আইসোটোপ কখনো পৌঁছানো যায়।"
+    },
+    "nuclearUses": {
+      "en": "Currently the heaviest synthesized element; benchmark target for testing nuclear-structure models.",
+      "bn": "বর্তমানে সংশ্লেষিত সবচেয়ে ভারী মৌল; পারমাণবিক-কাঠামো মডেল পরীক্ষার জন্য বেঞ্চমার্ক লক্ষ্য।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "medicalUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "None; no biological role and existence is too brief to interact with biology.",
+      "bn": "নেই; কোনো জৈবিক ভূমিকা নেই এবং অস্তিত্ব জীববিজ্ঞানের সাথে মিথস্ক্রিয়া করার জন্য অত্যন্ত সংক্ষিপ্ত।"
+    },
+    "humanBodyRole": {
+      "en": "Absent from the human body.",
+      "bn": "মানবদেহে অনুপস্থিত।"
+    },
+    "toxicity": {
+      "en": "Presumed extremely radiotoxic, but no realistic exposure pathway exists.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়-বিষাক্ত বলে অনুমিত, কিন্তু কোনো বাস্তবসম্মত এক্সপোজার পথ বিদ্যমান নেই।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible; produced only inside vacuum recoil chambers.",
+      "bn": "নগণ্য; শুধুমাত্র শূন্য রিকয়েল চেম্বারের ভিতরে উৎপাদিত হয়।"
+    },
+    "pollutionRisks": {
+      "en": "Effectively zero given attogram-scale yields.",
+      "bn": "অ্যাটোগ্রাম-স্কেল ফলন বিবেচনা করে কার্যত শূন্য।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; isotopes decay within sub-milliseconds.",
+      "bn": "প্রযোজ্য নয়; আইসোটোপ উপ-মিলিসেকেন্ডের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+    },
+    "sustainabilityScore": 0.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined. Produced atom-by-atom by fusing californium-249 with calcium-48 beams.",
+      "bn": "খনন করা হয় না। ক্যালসিয়াম-৪৮ বিমের সাথে ক্যালিফোর্নিয়াম-২৪৯ ফিউজ করে পরমাণু-ভিত্তিক উৎপাদিত হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "earthCrust": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "oceans": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      }
+    },
+    "marketValue": {
+      "en": "Not commercially traded; effective per-atom cost is astronomical.",
+      "bn": "বাণিজ্যিকভাবে লেনদেন হয় না; কার্যকর প্রতি-পরমাণু খরচ জ্যোতির্বৈজ্ঞানিক।"
+    },
+    "futureDemand": {
+      "en": "Limited to fundamental research at heavy-ion accelerator facilities.",
+      "bn": "ভারী-আয়ন এক্সিলারেটর সুবিধাগুলিতে মৌলিক গবেষণায় সীমাবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Marks the current upper boundary of the periodic table; benchmarks limits of nuclear and relativistic chemistry.",
+      "bn": "পর্যায় সারণির বর্তমান ঊর্ধ্ব সীমা চিহ্নিত করে; পারমাণবিক এবং আপেক্ষিক রসায়নের সীমা চিহ্নিত করে।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intense alpha radiation from extremely short-lived isotopes; only isolated atoms have ever existed.",
+      "bn": "অত্যন্ত স্বল্পস্থায়ী আইসোটোপ থেকে তীব্র আলফা বিকিরণ; শুধুমাত্র বিচ্ছিন্ন পরমাণু কখনো বিদ্যমান ছিল।"
+    },
+    "storageRequirements": {
+      "en": "Cannot be stored; Og-294 decays in less than a millisecond.",
+      "bn": "সংরক্ষণ করা যায় না; Og-২৯৪ এক মিলিসেকেন্ডেরও কম সময়ে ক্ষয়প্রাপ্ত হয়।"
+    },
+    "handlingProcedures": {
+      "en": "Detected indirectly behind heavy shielding using silicon-strip detector arrays.",
+      "bn": "সিলিকন-স্ট্রিপ ডিটেক্টর অ্যারে ব্যবহার করে ভারী আবরণের পিছনে পরোক্ষভাবে সনাক্ত করা হয়।"
+    },
+    "exposureRisks": {
+      "en": "Theoretical only; researchers are completely isolated from the recoil chamber.",
+      "bn": "শুধুমাত্র তাত্ত্বিক; গবেষকরা রিকয়েল চেম্বার থেকে সম্পূর্ণভাবে বিচ্ছিন্ন।"
+    },
+    "safetyLevel": {
+      "en": "Extreme (Radiological, research-controlled)",
+      "bn": "চরম (তেজস্ক্রিয়, গবেষণা-নিয়ন্ত্রিত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Highly Radioactive",
+        "bn": "অত্যন্ত তেজস্ক্রিয়"
+      },
+      {
+        "en": "Alpha Emitter",
+        "bn": "আলফা নির্গমনকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Oganesson is the heaviest element ever made. It sits with the noble gases, but predictions say it would actually be a solid that can react chemically.",
+      "bn": "ওগানেসন এ পর্যন্ত তৈরি সবচেয়ে ভারী মৌল। এটি উৎকৃষ্ট গ্যাসের সাথে বসে, কিন্তু ভবিষ্যদ্বাণী বলে এটি আসলে একটি কঠিন হবে যা রাসায়নিকভাবে বিক্রিয়া করতে পারে।"
+    },
+    "advancedExplanation": {
+      "en": "Z=118 with configuration [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶. Extreme spin-orbit splitting smears the electron density into a nearly uniform 'Fermi-gas-like' shell, lowering ionization energy below xenon's and predicting non-zero electron affinity and bulk semiconducting behavior.",
+      "bn": "Z=১১৮ কনফিগারেশন [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶ সহ। চরম স্পিন-অরবিট বিভাজন ইলেকট্রন ঘনত্বকে প্রায় অভিন্ন 'ফার্মি-গ্যাস-সদৃশ' শেলে ছড়িয়ে দেয়, জেননের নিচে আয়নীকরণ শক্তি কমায় এবং অশূন্য ইলেকট্রন আসক্তি ও বাল্ক অর্ধপরিবাহী আচরণের পূর্বাভাস দেয়।"
+    },
+    "funFacts": [
+      {
+        "en": "Oganesson is only the second element ever named after a living person — the other being seaborgium (Glenn T. Seaborg).",
+        "bn": "ওগানেসন একজন জীবিত ব্যক্তির নামে নামকরণ করা মাত্র দ্বিতীয় মৌল — অন্যটি সিবোর্জিয়াম (গ্লেন টি. সিবোর্গ)।"
+      },
+      {
+        "en": "Despite being placed under the noble gases, predictions strongly suggest Og would be a reactive solid, not a gas.",
+        "bn": "উৎকৃষ্ট গ্যাসের নিচে স্থাপন করা সত্ত্বেও, ভবিষ্যদ্বাণী দৃঢ়ভাবে পরামর্শ দেয় যে Og একটি প্রতিক্রিয়াশীল কঠিন হবে, গ্যাস নয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 86,
+        "relation": {
+          "en": "Radon, the noble gas above Og, is a gas at room temperature; oganesson is predicted to be a solid with reactive halide chemistry.",
+          "bn": "রেডন, Og-এর উপরের উৎকৃষ্ট গ্যাস, কক্ষ তাপমাত্রায় একটি গ্যাস; ওগানেসন প্রতিক্রিয়াশীল হ্যালাইড রসায়নসহ একটি কঠিন হবে বলে অনুমান করা হয়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      86,
+      115,
+      116,
+      117
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of oganesson?",
+          "bn": "ওগানেসনের পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "116",
+            "bn": "১১৬"
+          },
+          {
+            "en": "117",
+            "bn": "১১৭"
+          },
+          {
+            "en": "118",
+            "bn": "১১৮"
+          },
+          {
+            "en": "119",
+            "bn": "১১৯"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Oganesson has 118 protons, making it the heaviest element with a confirmed synthesis.",
+          "bn": "ওগানেসনের ১১৮টি প্রোটন রয়েছে, যা একে নিশ্চিত সংশ্লেষণসহ সবচেয়ে ভারী মৌল করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Oganesson is named after which living physicist?",
+          "bn": "ওগানেসনের নামকরণ কোন জীবিত পদার্থবিদের নামে করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Glenn Seaborg",
+            "bn": "গ্লেন সিবোর্গ"
+          },
+          {
+            "en": "Yuri Oganessian",
+            "bn": "ইউরি ওগানেসিয়ান"
+          },
+          {
+            "en": "Albert Ghiorso",
+            "bn": "অ্যালবার্ট গিওর্সো"
+          },
+          {
+            "en": "Sigurd Hofmann",
+            "bn": "সিগার্ড হফম্যান"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Yuri Oganessian, who led the JINR team that discovered several superheavy elements, was honored in 2016.",
+          "bn": "ইউরি ওগানেসিয়ান, যিনি বেশ কয়েকটি অতিভারী মৌল আবিষ্কারকারী JINR দলের নেতৃত্ব দিয়েছিলেন, ২০১৬ সালে সম্মানিত হন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which target/projectile combination first produced oganesson?",
+          "bn": "কোন লক্ষ্য/প্রজেক্টাইল সংমিশ্রণ প্রথম ওগানেসন উৎপাদন করেছিল?"
+        },
+        "options": [
+          {
+            "en": "²⁴⁹Cf + ⁴⁸Ca",
+            "bn": "²⁴⁹Cf + ⁴⁸Ca"
+          },
+          {
+            "en": "²⁴⁹Bk + ⁴⁸Ca",
+            "bn": "²⁴⁹Bk + ⁴⁸Ca"
+          },
+          {
+            "en": "²⁴⁸Cm + ⁴⁸Ca",
+            "bn": "²⁴⁸Cm + ⁴⁸Ca"
+          },
+          {
+            "en": "²⁴³Am + ⁴⁸Ca",
+            "bn": "²⁴³Am + ⁴⁸Ca"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Californium-249 bombarded with ⁴⁸Ca produced Og-294 in the original Dubna experiment.",
+          "bn": "ক্যালসিয়াম-৪৮ দিয়ে আঘাত করা ক্যালিফোর্নিয়াম-২৪৯ মূল ডুবনা পরীক্ষায় Og-২৯৪ উৎপন্ন করেছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is oganesson's predicted ground-state electron configuration?",
+          "bn": "ওগানেসনের পূর্বাভাসিত মৌলিক-অবস্থা ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶ 8s¹",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶ 8s¹"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d⁹ 7s² 7p⁶",
+            "bn": "[Rn] 5f¹⁴ 6d⁹ 7s² 7p⁶"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Og closes the 7p shell with the closed-shell configuration [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶.",
+          "bn": "Og বদ্ধ-শেল কনফিগারেশন [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶ সহ 7p শেল বন্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What surprising prediction distinguishes oganesson from other noble gases?",
+          "bn": "কোন আশ্চর্যজনক ভবিষ্যদ্বাণী ওগানেসনকে অন্যান্য উৎকৃষ্ট গ্যাস থেকে আলাদা করে?"
+        },
+        "options": [
+          {
+            "en": "It is predicted to be a gas at 0 K",
+            "bn": "এটি ০ K-তে গ্যাস হবে বলে অনুমান করা হয়"
+          },
+          {
+            "en": "It is predicted to be a reactive solid with non-zero electron affinity",
+            "bn": "এটি অশূন্য ইলেকট্রন আসক্তি সহ একটি প্রতিক্রিয়াশীল কঠিন হবে বলে অনুমান করা হয়"
+          },
+          {
+            "en": "It has no inner shells",
+            "bn": "এর কোনো অভ্যন্তরীণ শেল নেই"
+          },
+          {
+            "en": "It is paramagnetic",
+            "bn": "এটি প্যারাম্যাগনেটিক"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Relativistic effects make Og's electron shell behave nearly uniformly, predicting solid-state and chemical reactivity unlike lighter noble gases.",
+          "bn": "আপেক্ষিক প্রভাব Og-এর ইলেকট্রন শেলকে প্রায় অভিন্নভাবে আচরণ করতে বাধ্য করে, হালকা উৎকৃষ্ট গ্যাসের বিপরীতে কঠিন-অবস্থা এবং রাসায়নিক প্রতিক্রিয়াশীলতার ভবিষ্যদ্বাণী করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the daughter element when Og-294 undergoes alpha decay?",
+          "bn": "Og-২৯৪ যখন আলফা ক্ষয়ের মধ্য দিয়ে যায় তখন কন্যা মৌল কী?"
+        },
+        "options": [
+          {
+            "en": "Tennessine (117)",
+            "bn": "টেনেসিন (১১৭)"
+          },
+          {
+            "en": "Livermorium (116)",
+            "bn": "লিভারমোরিয়াম (১১৬)"
+          },
+          {
+            "en": "Moscovium (115)",
+            "bn": "মস্কোভিয়াম (১১৫)"
+          },
+          {
+            "en": "Flerovium (114)",
+            "bn": "ফ্লেরোভিয়াম (১১৪)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Alpha decay reduces Z by 2, so Og (Z=118) becomes Lv (Z=116).",
+          "bn": "আলফা ক্ষয় Z-কে ২ কমায়, তাই Og (Z=১১৮) Lv (Z=১১৬) হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate half-life of Og-294?",
+          "bn": "Og-২৯৪ এর আনুমানিক অর্ধ-জীবন কত?"
+        },
+        "options": [
+          {
+            "en": "~ 0.7 milliseconds",
+            "bn": "~ ০.৭ মিলিসেকেন্ড"
+          },
+          {
+            "en": "~ 1 second",
+            "bn": "~ ১ সেকেন্ড"
+          },
+          {
+            "en": "~ 30 seconds",
+            "bn": "~ ৩০ সেকেন্ড"
+          },
+          {
+            "en": "~ 1 hour",
+            "bn": "~ ১ ঘণ্টা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Og-294 decays by alpha emission with a half-life on the order of 0.7 ms.",
+          "bn": "Og-২৯৪ প্রায় ০.৭ মিলিসেকেন্ড অর্ধ-জীবন সহ আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What systematic name did oganesson carry before 2016?",
+          "bn": "২০১৬ সালের আগে ওগানেসন কোন পদ্ধতিগত নাম বহন করেছিল?"
+        },
+        "options": [
+          {
+            "en": "Ununseptium",
+            "bn": "আনআনসেপ্টিয়াম"
+          },
+          {
+            "en": "Ununoctium (Uuo)",
+            "bn": "আনআনঅক্টিয়াম (Uuo)"
+          },
+          {
+            "en": "Ununhexium",
+            "bn": "আনআনহেক্সিয়াম"
+          },
+          {
+            "en": "Eka-radon",
+            "bn": "ইকা-রেডন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Element 118 was provisionally called ununoctium with symbol Uuo until 2016.",
+          "bn": "মৌল ১১৮ ২০১৬ সাল পর্যন্ত Uuo প্রতীক সহ অস্থায়ীভাবে আনআনঅক্টিয়াম বলা হত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which earlier 'discovery' claim for element 118 was later found to be fraudulent?",
+          "bn": "মৌল ১১৮ এর জন্য কোন পূর্ববর্তী 'আবিষ্কার' দাবিটি পরে প্রতারণামূলক বলে প্রমাণিত হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "The 1999 Berkeley claim by Victor Ninov",
+            "bn": "ভিক্টর নিনভ দ্বারা ১৯৯৯ সালের বার্কলে দাবি"
+          },
+          {
+            "en": "The 1968 Dubna claim",
+            "bn": "১৯৬৮ সালের ডুবনা দাবি"
+          },
+          {
+            "en": "The 1985 GSI claim",
+            "bn": "১৯৮৫ সালের GSI দাবি"
+          },
+          {
+            "en": "The 1972 CERN claim",
+            "bn": "১৯৭২ সালের সার্ন দাবি"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Berkeley retracted its 1999 paper in 2002 after data fabrication by Ninov was uncovered.",
+          "bn": "নিনভ দ্বারা ডেটা জালিয়াতি প্রকাশের পর বার্কলে ২০০২ সালে তার ১৯৯৯ সালের গবেষণাপত্র প্রত্যাহার করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is oganesson NOT expected to behave as a true noble gas chemically?",
+          "bn": "কেন ওগানেসন রাসায়নিকভাবে একটি প্রকৃত উৎকৃষ্ট গ্যাসের মতো আচরণ করবে বলে আশা করা হয় না?"
+        },
+        "options": [
+          {
+            "en": "It has unpaired electrons",
+            "bn": "এর অজোড় ইলেকট্রন রয়েছে"
+          },
+          {
+            "en": "Relativistic effects flatten its electron shells and reduce its ionization energy",
+            "bn": "আপেক্ষিক প্রভাব এর ইলেকট্রন শেলকে সমতল করে এবং এর আয়নীকরণ শক্তি কমায়"
+          },
+          {
+            "en": "It has too many neutrons",
+            "bn": "এর অনেক বেশি নিউট্রন রয়েছে"
+          },
+          {
+            "en": "It is an alkali metal",
+            "bn": "এটি একটি ক্ষারীয় ধাতু"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Strong spin-orbit coupling lowers IE to ~839 kJ/mol — below xenon's — enabling chemical reactivity.",
+          "bn": "শক্তিশালী স্পিন-অরবিট সংযোগ IE-কে ~৮৩৯ kJ/mol-এ কমিয়ে দেয় — জেননের নিচে — রাসায়নিক প্রতিক্রিয়াশীলতা সক্ষম করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Approximately how many oganesson atoms have been confirmed to date?",
+          "bn": "আজ পর্যন্ত আনুমানিক কতটি ওগানেসন পরমাণু নিশ্চিত হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "About 1,000,000",
+            "bn": "প্রায় ১,০০০,০০০"
+          },
+          {
+            "en": "About 1,000",
+            "bn": "প্রায় ১,০০০"
+          },
+          {
+            "en": "Fewer than a dozen",
+            "bn": "এক ডজনের কম"
+          },
+          {
+            "en": "Exactly 1",
+            "bn": "ঠিক ১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Worldwide, only on the order of single-digit numbers of Og atoms have been confirmed.",
+          "bn": "বিশ্বব্যাপী, মাত্র একক-সংখ্যার ক্রমে Og পরমাণু নিশ্চিত হয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does Og-294 contain?",
+          "bn": "Og-২৯৪ এ কতটি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "174",
+            "bn": "১৭৪"
+          },
+          {
+            "en": "175",
+            "bn": "১৭৫"
+          },
+          {
+            "en": "176",
+            "bn": "১৭৬"
+          },
+          {
+            "en": "177",
+            "bn": "১৭৭"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "294 − 118 = 176 neutrons in Og-294.",
+          "bn": "Og-২৯৪ এ ২৯৪ − ১১৮ = ১৭৬ নিউট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Oganesson currently completes which row of the periodic table?",
+          "bn": "ওগানেসন বর্তমানে পর্যায় সারণির কোন সারি সম্পূর্ণ করে?"
+        },
+        "options": [
+          {
+            "en": "Period 6",
+            "bn": "পর্যায় ৬"
+          },
+          {
+            "en": "Period 7",
+            "bn": "পর্যায় ৭"
+          },
+          {
+            "en": "Period 8",
+            "bn": "পর্যায় ৮"
+          },
+          {
+            "en": "Period 9",
+            "bn": "পর্যায় ৯"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Og fills the 7p shell and currently closes period 7 of the periodic table.",
+          "bn": "Og 7p শেল পূরণ করে এবং বর্তমানে পর্যায় সারণির পর্যায় ৭ বন্ধ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which hypothetical compound of oganesson has been studied in relativistic quantum-chemistry calculations?",
+          "bn": "ওগানেসনের কোন অনুমানিক যৌগ আপেক্ষিক কোয়ান্টাম-রসায়ন গণনায় অধ্যয়ন করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "OgF₂ and OgF₄",
+            "bn": "OgF₂ এবং OgF₄"
+          },
+          {
+            "en": "OgH₄",
+            "bn": "OgH₄"
+          },
+          {
+            "en": "Og₂O",
+            "bn": "Og₂O"
+          },
+          {
+            "en": "OgN",
+            "bn": "OgN"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "OgF₂ and OgF₄ are predicted stable fluorides — unprecedented for a 'noble' gas analog.",
+          "bn": "OgF₂ এবং OgF₄ স্থিতিশীল ফ্লোরাইড বলে অনুমান করা হয় — একটি 'উৎকৃষ্ট' গ্যাস অ্যানালগের জন্য অভূতপূর্ব।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why might the electronic structure of Og be described as 'Thomas-Fermi-like'?",
+          "bn": "কেন Og-এর ইলেকট্রনিক কাঠামোকে 'টমাস-ফার্মি-সদৃশ' হিসাবে বর্ণনা করা যেতে পারে?"
+        },
+        "options": [
+          {
+            "en": "All shells are equally spaced",
+            "bn": "সমস্ত শেল সমানভাবে ব্যবধানযুক্ত"
+          },
+          {
+            "en": "Strong relativistic and electron-correlation effects wash out discrete shell structure into a more uniform distribution",
+            "bn": "শক্তিশালী আপেক্ষিক এবং ইলেকট্রন-সম্পর্ক প্রভাব পৃথক শেল কাঠামোকে আরও অভিন্ন বিতরণে মুছে ফেলে"
+          },
+          {
+            "en": "It has no protons",
+            "bn": "এর কোনো প্রোটন নেই"
+          },
+          {
+            "en": "It only contains s-electrons",
+            "bn": "এটি শুধুমাত্র s-ইলেকট্রন ধারণ করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Calculations show Og's outer electron density approximating a smooth Fermi-gas-like cloud rather than sharply quantized shells.",
+          "bn": "গণনা দেখায় Og-এর বাইরের ইলেকট্রন ঘনত্ব তীব্রভাবে কোয়ান্টাইজড শেলের পরিবর্তে একটি মসৃণ ফার্মি-গ্যাস-সদৃশ মেঘের অনুরূপ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which two laboratories' collaboration produced and named oganesson?",
+          "bn": "কোন দুটি গবেষণাগারের সহযোগিতা ওগানেসন উৎপাদন এবং নামকরণ করেছিল?"
+        },
+        "options": [
+          {
+            "en": "CERN and Fermilab",
+            "bn": "সার্ন এবং ফার্মিল্যাব"
+          },
+          {
+            "en": "JINR (Dubna) and LLNL",
+            "bn": "JINR (ডুবনা) এবং LLNL"
+          },
+          {
+            "en": "GSI and RIKEN",
+            "bn": "GSI এবং রাইকেন"
+          },
+          {
+            "en": "Berkeley and Brookhaven",
+            "bn": "বার্কলে এবং ব্রুকহ্যাভেন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "JINR Dubna and Lawrence Livermore jointly synthesized and proposed the name oganesson.",
+          "bn": "JINR ডুবনা এবং লরেন্স লিভারমোর যৌথভাবে ওগানেসন নামটি সংশ্লেষণ এবং প্রস্তাব করেছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which exotic property of Og's predicted condensed phase is most notable?",
+          "bn": "Og-এর পূর্বাভাসিত ঘনীভূত পর্যায়ের কোন বহিরাগত বৈশিষ্ট্য সবচেয়ে উল্লেখযোগ্য?"
+        },
+        "options": [
+          {
+            "en": "Superconductivity at room temperature",
+            "bn": "কক্ষ তাপমাত্রায় অতিপরিবাহিতা"
+          },
+          {
+            "en": "Semiconducting behavior, unlike any other noble-gas element",
+            "bn": "অন্য কোনো উৎকৃষ্ট-গ্যাস মৌলের বিপরীতে অর্ধপরিবাহী আচরণ"
+          },
+          {
+            "en": "Ferromagnetic order at 300 K",
+            "bn": "৩০০ K-তে ফেরোম্যাগনেটিক ক্রম"
+          },
+          {
+            "en": "Naturally fluorescent",
+            "bn": "প্রাকৃতিকভাবে প্রতিপ্রভ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Models predict bulk Og to behave as a semiconductor — a stark break from inert-gas tradition.",
+          "bn": "মডেল বাল্ক Og-কে একটি অর্ধপরিবাহী হিসাবে আচরণ করবে বলে অনুমান করে — নিষ্ক্রিয়-গ্যাস ঐতিহ্য থেকে একটি স্পষ্ট বিচ্ছেদ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is direct chemical study of oganesson impossible with current technology?",
+          "bn": "বর্তমান প্রযুক্তির সাথে ওগানেসনের সরাসরি রাসায়নিক অধ্যয়ন কেন অসম্ভব?"
+        },
+        "options": [
+          {
+            "en": "Its half-life of ~0.7 ms is far too short for any wet-chemistry method",
+            "bn": "এর ~০.৭ মিসে অর্ধ-জীবন যেকোনো ভেজা-রসায়ন পদ্ধতির জন্য অত্যন্ত সংক্ষিপ্ত"
+          },
+          {
+            "en": "It is too cold to react",
+            "bn": "এটি বিক্রিয়া করার জন্য অত্যন্ত ঠান্ডা"
+          },
+          {
+            "en": "It only reacts with antimatter",
+            "bn": "এটি শুধুমাত্র অ্যান্টিম্যাটারের সাথে বিক্রিয়া করে"
+          },
+          {
+            "en": "It is opaque to all detectors",
+            "bn": "এটি সমস্ত ডিটেক্টরে অস্বচ্ছ"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Even gas-chromatography techniques used for Cn and Fl are inapplicable at sub-millisecond lifetimes.",
+          "bn": "এমনকি Cn এবং Fl-এর জন্য ব্যবহৃত গ্যাস-ক্রোমাটোগ্রাফি কৌশলগুলি উপ-মিলিসেকেন্ড আয়ুতে প্রযোজ্য নয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What does oganesson's existence demonstrate about the periodic table?",
+          "bn": "ওগানেসনের অস্তিত্ব পর্যায় সারণি সম্পর্কে কী প্রদর্শন করে?"
+        },
+        "options": [
+          {
+            "en": "Period 7 can be completed with synthetic chemistry",
+            "bn": "কৃত্রিম রসায়নের মাধ্যমে পর্যায় ৭ সম্পূর্ণ করা যেতে পারে"
+          },
+          {
+            "en": "There are no more elements possible",
+            "bn": "আর কোনো মৌল সম্ভব নয়"
+          },
+          {
+            "en": "Quantum mechanics is incorrect",
+            "bn": "কোয়ান্টাম বলবিদ্যা ভুল"
+          },
+          {
+            "en": "Heavy elements are infinitely stable",
+            "bn": "ভারী মৌল অসীমভাবে স্থিতিশীল"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Og demonstrated that period 7 could be fully completed, motivating ongoing searches for period-8 elements.",
+          "bn": "Og দেখিয়েছিল যে পর্যায় ৭ সম্পূর্ণরূপে সম্পন্ন করা যেতে পারে, পর্যায়-৮ মৌলের জন্য চলমান অনুসন্ধানকে অনুপ্রাণিত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which element would extend the periodic table to period 8 if successfully synthesized?",
+          "bn": "সফলভাবে সংশ্লেষিত হলে কোন মৌল পর্যায় সারণিকে পর্যায় ৮-এ প্রসারিত করবে?"
+        },
+        "options": [
+          {
+            "en": "Element 117",
+            "bn": "মৌল ১১৭"
+          },
+          {
+            "en": "Element 118",
+            "bn": "মৌল ১১৮"
+          },
+          {
+            "en": "Element 119 (ununennium)",
+            "bn": "মৌল ১১৯ (আনআনএনিয়াম)"
+          },
+          {
+            "en": "Element 121",
+            "bn": "মৌল ১২১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Element 119 would begin period 8 by filling the 8s shell, but has not yet been synthesized.",
+          "bn": "মৌল ১১৯ 8s শেল পূরণ করে পর্যায় ৮ শুরু করবে, কিন্তু এখনো সংশ্লেষিত হয়নি।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the most likely reason oganesson is currently the heaviest synthesized element?",
+          "bn": "ওগানেসন বর্তমানে সবচেয়ে ভারী সংশ্লেষিত মৌল হওয়ার সবচেয়ে সম্ভাব্য কারণ কী?"
+        },
+        "options": [
+          {
+            "en": "Fusion cross-sections drop sharply beyond Z=118 with available ⁴⁸Ca beams and actinide targets",
+            "bn": "উপলব্ধ ⁴⁸Ca বিম এবং অ্যাক্টিনাইড লক্ষ্যের সাথে Z=১১৮ এর বাইরে ফিউশন ক্রস-সেকশন তীব্রভাবে হ্রাস পায়"
+          },
+          {
+            "en": "No physics motivation to go further",
+            "bn": "আরও এগোনোর কোনো পদার্থবিদ্যা প্রেরণা নেই"
+          },
+          {
+            "en": "It is forbidden by IUPAC",
+            "bn": "এটি IUPAC দ্বারা নিষিদ্ধ"
+          },
+          {
+            "en": "All heavier nuclei fission instantly",
+            "bn": "সমস্ত ভারী নিউক্লিয়াস তাৎক্ষণিকভাবে বিভক্ত হয়"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Reaching Z=119 needs new projectile-target combinations (e.g. ⁵⁰Ti + Bk) with cross-sections orders of magnitude smaller, requiring new accelerator capability.",
+          "bn": "Z=১১৯-এ পৌঁছানোর জন্য নতুন প্রজেক্টাইল-লক্ষ্য সংমিশ্রণ (যেমন ⁵⁰Ti + Bk) প্রয়োজন যার ক্রস-সেকশন অনেক বেশি ছোট, নতুন এক্সিলারেটর সক্ষমতা প্রয়োজন।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Oganesson is a gas like all other noble gases.",
+        "bn": "ওগানেসন অন্যান্য সমস্ত উৎকৃষ্ট গ্যাসের মতো একটি গ্যাস।"
+      },
+      {
+        "en": "Oganesson is completely chemically inert.",
+        "bn": "ওগানেসন রাসায়নিকভাবে সম্পূর্ণরূপে নিষ্ক্রিয়।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Symbol 'Og' for Oganesson. Remember: it sits at the bottom-right of the periodic table — the current heaviest known element.",
+        "bn": "ওগানেসনের প্রতীক 'Og'। মনে রাখবেন: এটি পর্যায় সারণির নিচের-ডানদিকে বসে — বর্তমান সবচেয়ে ভারী পরিচিত মৌল।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴⁹Cf + ⁴⁸Ca → ²⁹⁴Og + 3n",
+        "description": {
+          "en": "Hot-fusion synthesis of oganesson-294 at JINR Dubna.",
+          "bn": "JINR ডুবনায় ওগানেসন-২৯৪-এর হট-ফিউশন সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁹⁴Og → ²⁹⁰Lv + α",
+        "description": {
+          "en": "Alpha decay of Og-294 producing livermorium-290.",
+          "bn": "Og-২৯৪-এর আলফা ক্ষয় লিভারমোরিয়াম-২৯০ উৎপন্ন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Og → Og²⁺ + 2e⁻",
+        "description": {
+          "en": "Predicted two-electron oxidation accessible due to relativistic lowering of the ionization energy.",
+          "bn": "আয়নীকরণ শক্তির আপেক্ষিক হ্রাসের কারণে অ্যাক্সেসযোগ্য পূর্বাভাসিত দ্বি-ইলেকট্রন জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Og + e⁻ → Og⁻",
+        "description": {
+          "en": "Unique among noble gases: Og is predicted to bind an extra electron with small but non-zero affinity (~5 kJ/mol).",
+          "bn": "উৎকৃষ্ট গ্যাসগুলির মধ্যে অনন্য: Og ছোট কিন্তু অশূন্য আসক্তি (~৫ kJ/mol) সহ একটি অতিরিক্ত ইলেকট্রন আবদ্ধ করবে বলে অনুমান করা হয়।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar covalent (predicted)",
+          "bn": "মেরু সমযোজী (পূর্বাভাসিত)"
+        },
+        "molecule": "OgF₄ (hypothetical)",
+        "description": {
+          "en": "Predicted tetrahedral fluoride analogous to XeF₄ but with much stronger relativistic distortions in bonding.",
+          "bn": "XeF₄ এর অনুরূপ কিন্তু বন্ধনে অনেক বেশি শক্তিশালী আপেক্ষিক বিকৃতি সহ পূর্বাভাসিত চতুস্তলকীয় ফ্লোরাইড।"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,941 @@
+{
+"elementId": 111,
+"basicInformation": {
+"atomicNumber": 111,
+"symbol": "Rg",
+"name": {
+"en": "Roentgenium",
+"bn": "রন্টজেনিয়াম"
+},
+"pronunciation": {
+"en": "/rɛntˈɡɛniəm/",
+"bn": "রন্ট-জেন-ই-য়াম"
+},
+"atomicMass": 282.1,
+"category": {
+"en": "Transition metal (predicted)",
+"bn": "অবস্থান্তর ধাতু (প্রত্যাশিত)"
+},
+"group": 11,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (predicted)",
+"bn": "কঠিন (প্রত্যাশিত)"
+},
+"appearance": {
+"en": "Unknown, predicted to be silvery or golden metallic",
+"bn": "অজানা, রূপালী বা সোনালী ধাতব হতে পারে বলে ধারণা করা হয়"
+},
+"color": null,
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Sigurd Hofmann and the GSI Helmholtz Centre for Heavy Ion Research",
+"bn": "সিগার্ড হফম্যান এবং জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চ"
+},
+"discoveryYear": 1994,
+"discoveryLocation": {
+"en": "Darmstadt, Germany",
+"bn": "ডার্মস্টাড, জার্মানি"
+},
+"discoveryStory": {
+"en": "First synthesized by a team led by Sigurd Hofmann at GSI by bombarding a Bismuth-209 target with accelerated Nickel-64 nuclei.",
+"bn": "জিএসআই-তে সিগার্ড হফম্যানের নেতৃত্বে একটি দল বিসমাথ-২০৯ লক্ষ্যবস্তুতে ত্বরান্বিত নিকেল-৬৪ নিউক্লিয়াস দিয়ে আঘাত করে এটি প্রথম সংশ্লেষণ করেছিল।"
+},
+"historicalUses": {
+"en": "No historical uses; created entirely for the advancement of fundamental nuclear physics.",
+"bn": "কোন ঐতিহাসিক ব্যবহার নেই; মৌলিক পারমাণবিক পদার্থবিজ্ঞানের উন্নতির জন্য সম্পূর্ণভাবে তৈরি করা হয়েছে।"
+},
+"famousExperiments": {
+"en": "The synthesis experiment using the Universal Linear Accelerator (UNILAC) at GSI, identifying three atoms of Rg-272.",
+"bn": "জিএসআই-তে ইউনিভার্সাল লিনিয়ার এক্সিলারেটর (UNILAC) ব্যবহার করে সংশ্লেষণ পরীক্ষা, যেখানে Rg-272 এর তিনটি পরমাণু সনাক্ত করা হয়েছিল।"
+}
+},
+"atomicStructure": {
+"protons": 111,
+"neutrons": 171,
+"electrons": 111,
+"valenceElectrons": 3,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 17, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d⁹ 7s²",
+"orbitalConfiguration": {
+"7s": 2,
+"6d": 9,
+"5f": 14
+},
+"oxidationStates": [1, 3, 5],
+"quantumNumbers": {
+"principal": 6,
+"azimuthal": 2,
+"magnetic": 1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 28.7,
+"unit": "g/cm³"
+},
+"meltingPoint": null,
+"boilingPoint": null,
+"atomicRadius": null,
+"covalentRadius": {
+"value": 121,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Body-centered cubic (predicted)",
+"bn": "দেহ-কেন্দ্রিক ঘনক (প্রত্যাশিত)"
+},
+"magneticOrdering": {
+"en": "Unknown",
+"bn": "অজানা"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 1022.7,
+"unit": "kJ/mol"
+},
+"electronAffinity": {
+"value": 151.0,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Predicted to be an extremely noble metal, potentially even less reactive than gold due to strong relativistic stabilization of the 7s electrons.",
+"bn": "একটি অত্যন্ত নিষ্ক্রিয় ধাতু হওয়ার পূর্বাভাস দেওয়া হয়েছে, 7s ইলেকট্রনগুলির শক্তিশালী আপেক্ষিক স্থিতিশীলতার কারণে সম্ভবত সোনার চেয়েও কম প্রতিক্রিয়াশীল।"
+},
+"commonCompounds": ["RgF₃", "RgF₅", "RgCl₃"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Not applicable due to microscopic production levels and extreme radioactive instability.",
+"bn": "মাইক্রোস্কোপিক উৎপাদন স্তর এবং চরম তেজস্ক্রিয় অস্থিতিশীলতার কারণে প্রযোজ্য নয়।"
+},
+"commercialUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"electronicsUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"semiconductorUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"aerospaceUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"aiHardwareUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"nanotechnologyUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"nuclearUses": {
+"en": "Used exclusively in fundamental nuclear chemistry and physics research to study transactinide stability limits.",
+"bn": "ট্রান্সঅ্যাক্টিনাইডের স্থিতিশীলতার সীমা অধ্যয়নের জন্য একচেটিয়াভাবে মৌলিক পারমাণবিক রসায়ন এবং পদার্থবিজ্ঞান গবেষণায় ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"medicalUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Absolutely no biological role. Entirely synthetic.",
+"bn": "একেবারে কোন জৈবিক ভূমিকা নেই। সম্পূর্ণ কৃত্রিম।"
+},
+"humanBodyRole": {
+"en": "Not present in the human body.",
+"bn": "মানবদেহে উপস্থিত নেই।"
+},
+"toxicity": {
+"en": "Extremely radiotoxic due to severe ionizing alpha and spontaneous fission radiation.",
+"bn": "তীব্র আয়নাইজিং আলফা এবং স্বতঃস্ফূর্ত ফিশন বিকিরণের কারণে অত্যন্ত রেডিওটক্সিক।"
+},
+"environmentalImpact": {
+"en": "Zero environmental impact; it does not exist outside of specialized heavy-ion accelerators.",
+"bn": "পরিবেশগত প্রভাব শূন্য; এটি বিশেষায়িত ভারী-আয়ন এক্সিলারেটরের বাইরে বিদ্যমান নেই।"
+},
+"pollutionRisks": {
+"en": "Non-existent risk due to production quantities being limited to individual atoms that decay instantly.",
+"bn": "তাত্ক্ষণিকভাবে ক্ষয়প্রাপ্ত হওয়া পৃথক পরমাণুর মধ্যে উৎপাদন সীমাবদ্ধ থাকায় দূষণের ঝুঁকি নেই।"
+},
+"recyclingMethods": {
+"en": "Cannot be recycled. Decays completely into lighter, stable elements in seconds.",
+"bn": "পুনর্ব্যবহারযোগ্য নয়। কয়েক সেকেন্ডের মধ্যে সম্পূর্ণভাবে হালকা, স্থিতিশীল উপাদানে ক্ষয়প্রাপ্ত হয়।"
+},
+"sustainabilityScore": null
+},
+"miningAndEconomics": {
+"majorProducingCountries": [],
+"miningMethods": {
+"en": "Cannot be mined. Synthesized atom-by-atom in advanced nuclear physics laboratories.",
+"bn": "খনন করা যায় না। উন্নত পারমাণবিক পদার্থবিজ্ঞান গবেষণাগারে পরমাণু-দ্বারা-পরমাণু সংশ্লেষিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not a commercially traded substance. Invaluable to scientific research.",
+"bn": "বাণিজ্যিকভাবে লেনদেনযোগ্য পদার্থ নয়। বৈজ্ঞানিক গবেষণার জন্য অমূল্য।"
+},
+"futureDemand": {
+"en": "Restricted exclusively to experimental verification of the Island of Stability theories.",
+"bn": "শুধুমাত্র আইল্যান্ড অফ স্ট্যাবিলিটি তত্ত্বের পরীক্ষামূলক যাচাইকরণের মধ্যে সীমাবদ্ধ।"
+},
+"globalImportance": {
+"en": "Crucial for expanding humanity's understanding of extreme nuclear forces and quantum chemistry.",
+"bn": "চরম পারমাণবিক শক্তি এবং কোয়ান্টাম রসায়ন সম্পর্কে মানবতার বোঝাপড়া প্রসারিত করার জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiation hazard from highly energetic alpha decay and spontaneous fission processes.",
+"bn": "উচ্চ শক্তির আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন প্রক্রিয়া থেকে চরম বিকিরণ বিপদ।"
+},
+"storageRequirements": {
+"en": "Impossible to store. It ceases to exist shortly after being synthesized inside a detector array.",
+"bn": "সংরক্ষণ করা অসম্ভব। একটি ডিটেক্টর অ্যারের ভিতরে সংশ্লেষিত হওয়ার কিছুক্ষণ পরেই এর অস্তিত্ব শেষ হয়ে যায়।"
+},
+"handlingProcedures": {
+"en": "Detected entirely through remote automated sensors inside highly shielded particle accelerators.",
+"bn": "অত্যন্ত সুরক্ষিত কণা এক্সিলারেটরের ভিতরে রিমোট স্বয়ংক্রিয় সেন্সরের মাধ্যমে সম্পূর্ণরূপে সনাক্ত করা হয়।"
+},
+"exposureRisks": {
+"en": "No practical risk of human exposure exists, as it can only be made in atom-sized quantities in isolated environments.",
+"bn": "মানুষের সংস্পর্শে আসার কোন ব্যবহারিক ঝুঁকি নেই, কারণ এটি শুধুমাত্র বিচ্ছিন্ন পরিবেশে পরমাণুর আকারের পরিমাণে তৈরি করা যেতে পারে।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Highly Radioactive",
+"bn": "উচ্চমাত্রায় তেজস্ক্রিয়"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Roentgenium is a superheavy, man-made element that only exists for a few seconds in a laboratory. It is named after the scientist who discovered X-rays.",
+"bn": "রন্টজেনিয়াম একটি অতিভারী, মানবসৃষ্ট উপাদান যা শুধুমাত্র পরীক্ষাগারে কয়েক সেকেন্ডের জন্য বিদ্যমান থাকে। এক্স-রে আবিষ্কারকারী বিজ্ঞানীর নামানুসারে এর নামকরণ করা হয়েছে।"
+},
+"advancedExplanation": {
+"en": "As a superheavy transactinide in group 11, Roentgenium is a homologue to Gold. However, immense relativistic effects stabilize its 7s orbital, leading to a predicted [Rn] 5f¹⁴ 6d⁹ 7s² electron configuration, diverging from the typical s¹ d¹⁰ anomaly seen in lighter group 11 metals like Copper, Silver, and Gold.",
+"bn": "গ্রুপ ১১-এ একটি অতিভারী ট্রান্সঅ্যাক্টিনাইড হিসাবে, রন্টজেনিয়াম সোনার একটি হোমোলগ। যাইহোক, অপরিসীম আপেক্ষিক প্রভাব এর 7s অরবিটালকে স্থিতিশীল করে, যার ফলে প্রত্যাশিত [Rn] 5f¹⁴ 6d⁹ 7s² ইলেক্ট্রন কনফিগারেশন তৈরি হয়, যা তামা, রূপা এবং সোনার মতো হালকা গ্রুপ ১১ ধাতুগুলিতে দেখা সাধারণ s¹ d¹⁰ অসঙ্গতি থেকে বিচ্যুত হয়।"
+},
+"funFacts": [
+{
+"en": "It was named in honor of Wilhelm Conrad Röntgen, the Nobel Prize-winning physicist who discovered X-rays.",
+"bn": "নোবেল বিজয়ী পদার্থবিজ্ঞানী উইলহেম কনরাড রন্টজেন, যিনি এক্স-রে আবিষ্কার করেছিলেন, তার সম্মানে এর নামকরণ করা হয়েছিল।"
+},
+{
+"en": "Its theoretical density of 28.7 g/cm³ makes it significantly denser than Osmium, the densest naturally occurring element.",
+"bn": "এর তাত্ত্বিক ঘনত্ব ২৮.৭ গ্রাম/ঘন সেমি এটিকে প্রাকৃতিকভাবে সৃষ্ট সবচেয়ে ঘন উপাদান অসমিয়ামের চেয়ে উল্লেখযোগ্যভাবে বেশি ঘন করে তোলে।"
+},
+{
+"en": "Before receiving its official name in 2004, it was known by the systematic placeholder name 'Unununium' (Uuu).",
+"bn": "২০০৪ সালে এর আনুষ্ঠানিক নাম পাওয়ার আগে, এটি পদ্ধতিগত প্লেসহোল্ডার নাম 'আনুনুনিয়াম' (Uuu) দ্বারা পরিচিত ছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 79,
+"relation": {
+"en": "Roentgenium sits directly below Gold (79) on the periodic table and is predicted to share its noble, unreactive metallic characteristics, but exaggerated by relativistic physics.",
+"bn": "রন্টজেনিয়াম পর্যায় সারণিতে সোনার (৭৯) সরাসরি নীচে বসে এবং আপেক্ষিক পদার্থবিজ্ঞানের দ্বারা অতিরঞ্জিত এর নিষ্ক্রিয় ধাতব বৈশিষ্ট্যগুলি ভাগ করবে বলে ধারণা করা হয়।"
+}
+}
+],
+"relatedElements": [79, 47, 29, 110, 112],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Roentgenium?",
+"bn": "রন্টজেনিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "109",
+"bn": "১০৯"
+},
+{
+"en": "110",
+"bn": "১১০"
+},
+{
+"en": "111",
+"bn": "১১১"
+},
+{
+"en": "112",
+"bn": "১১২"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Roentgenium has 111 protons, making its atomic number 111.",
+"bn": "রন্টজেনিয়ামে ১১১টি প্রোটন রয়েছে, যার কারণে এর পারমাণবিক সংখ্যা ১১১।"
+}
+},
+{
+"question": {
+"en": "Who is the element Roentgenium named after?",
+"bn": "কার নামানুসারে রন্টজেনিয়াম উপাদানটির নামকরণ করা হয়েছে?"
+},
+"options": [
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Wilhelm Conrad Röntgen",
+"bn": "উইলহেম কনরাড রন্টজেন"
+},
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+},
+{
+"en": "Niels Bohr",
+"bn": "নিলস বোর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It honors Wilhelm Röntgen, the German mechanical engineer and physicist who produced and detected X-rays.",
+"bn": "এটি জার্মান মেকানিক্যাল ইঞ্জিনিয়ার এবং পদার্থবিজ্ঞানী উইলহেম রন্টজেনকে সম্মান জানায় যিনি এক্স-রে তৈরি এবং সনাক্ত করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "What was Wilhelm Röntgen's most famous discovery, for which he won the first Nobel Prize in Physics?",
+"bn": "উইলহেম রন্টজেনের সবচেয়ে বিখ্যাত আবিষ্কার কী ছিল, যার জন্য তিনি পদার্থবিজ্ঞানে প্রথম নোবেল পুরস্কার জিতেছিলেন?"
+},
+"options": [
+{
+"en": "Radioactivity",
+"bn": "তেজস্ক্রিয়তা"
+},
+{
+"en": "The Electron",
+"bn": "ইলেকট্রন"
+},
+{
+"en": "X-rays",
+"bn": "এক্স-রে"
+},
+{
+"en": "Nuclear Fission",
+"bn": "পারমাণবিক ফিশন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Röntgen discovered electromagnetic radiation in a wavelength range known today as X-rays or Röntgen rays.",
+"bn": "রন্টজেন এমন একটি তরঙ্গদৈর্ঘ্য পরিসরে ইলেক্ট্রোম্যাগনেটিক বিকিরণ আবিষ্কার করেছিলেন যা আজ এক্স-রে বা রন্টজেন রশ্মি নামে পরিচিত।"
+}
+},
+{
+"question": {
+"en": "What was the provisional, systematic IUPAC name for element 111 before it was officially named?",
+"bn": "আনুষ্ঠানিকভাবে নামকরণের আগে উপাদান ১১১ এর অস্থায়ী, পদ্ধতিগত IUPAC নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Ununnilium",
+"bn": "আনুননিলিয়াম"
+},
+{
+"en": "Ununbium",
+"bn": "আনুনবিয়াম"
+},
+{
+"en": "Unununium",
+"bn": "আনুনুনিয়াম"
+},
+{
+"en": "Ununoctium",
+"bn": "আনুনঅক্টিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Unununium (Uuu) translates directly to 'one-one-one-ium' in IUPAC systematic naming conventions.",
+"bn": "IUPAC পদ্ধতিগত নামকরণের নিয়মে আনুনুনিয়াম (Uuu) সরাসরি 'ওয়ান-ওয়ান-ওয়ান-িয়াম'-এ অনুবাদিত হয়।"
+}
+},
+{
+"question": {
+"en": "Which group of the periodic table does Roentgenium belong to?",
+"bn": "রন্টজেনিয়াম পর্যায় সারণির কোন গ্রুপের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Group 9",
+"bn": "গ্রুপ ৯"
+},
+{
+"en": "Group 10",
+"bn": "গ্রুপ ১০"
+},
+{
+"en": "Group 11",
+"bn": "গ্রুপ ১১"
+},
+{
+"en": "Group 12",
+"bn": "গ্রুপ ১২"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It is placed in group 11, the group traditionally known as the coinage metals.",
+"bn": "এটি গ্রুপ ১১-এ রাখা হয়েছে, যেটিকে ঐতিহ্যগতভাবে মুদ্রা ধাতু হিসেবে পরিচিত।"
+}
+},
+{
+"question": {
+"en": "Roentgenium is considered to be a heavier homologue of which well-known precious metal?",
+"bn": "রন্টজেনিয়ামকে কোন সুপরিচিত মূল্যবান ধাতুর ভারী হোমোলগ বলে মনে করা হয়?"
+},
+"options": [
+{
+"en": "Silver",
+"bn": "রূপা"
+},
+{
+"en": "Gold",
+"bn": "সোনা"
+},
+{
+"en": "Platinum",
+"bn": "প্ল্যাটিনাম"
+},
+{
+"en": "Mercury",
+"bn": "পারদ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Gold is located directly above Roentgenium in Group 11 of the periodic table.",
+"bn": "সোনা পর্যায় সারণির গ্রুপ ১১-এ রন্টজেনিয়ামের ঠিক উপরে অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "What was the target and projectile combination used by the GSI team to first synthesize Roentgenium?",
+"bn": "প্রথম রন্টজেনিয়াম সংশ্লেষণ করতে জিএসআই দল কোন লক্ষ্যবস্তু এবং প্রজেক্টাইলের সংমিশ্রণ ব্যবহার করেছিল?"
+},
+"options": [
+{
+"en": "Lead-208 + Iron-58",
+"bn": "সীসা-২০৮ + আয়রন-৫৮"
+},
+{
+"en": "Bismuth-209 + Nickel-64",
+"bn": "বিসমাথ-২০৯ + নিকেল-৬৪"
+},
+{
+"en": "Plutonium-244 + Calcium-48",
+"bn": "প্লুটোনিয়াম-২৪৪ + ক্যালসিয়াম-৪৮"
+},
+{
+"en": "Uranium-238 + Neon-22",
+"bn": "ইউরেনিয়াম-২৩৮ + নিয়ন-২২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Bombarding Bismuth-209 with Nickel-64 nuclei resulted in the fusion reaction that created Roentgenium-272.",
+"bn": "বিসমাথ-২০৯-এ নিকেল-৬৪ নিউক্লিয়াস দিয়ে আঘাত করার ফলে একটি ফিউশন বিক্রিয়া ঘটে যা রন্টজেনিয়াম-২৭২ তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "What is the predicted physical state of Roentgenium at standard room temperature?",
+"bn": "স্ট্যান্ডার্ড কক্ষ তাপমাত্রায় রন্টজেনিয়ামের প্রত্যাশিত ভৌত অবস্থা কী?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like gold, silver, and copper in its group, it is predicted to be a solid transition metal.",
+"bn": "এর গ্রুপের সোনা, রূপা এবং তামার মতো, এটি একটি কঠিন অবস্থান্তর ধাতু হবে বলে ভবিষ্যদ্বাণী করা হয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which scientific facility in Germany is credited with the discovery of Roentgenium?",
+"bn": "জার্মানির কোন বৈজ্ঞানিক সুবিধাকে রন্টজেনিয়াম আবিষ্কারের কৃতিত্ব দেওয়া হয়?"
+},
+"options": [
+{
+"en": "Max Planck Institute",
+"bn": "ম্যাক্স প্ল্যাঙ্ক ইনস্টিটিউট"
+},
+{
+"en": "CERN",
+"bn": "সার্ন (CERN)"
+},
+{
+"en": "GSI Helmholtz Centre for Heavy Ion Research",
+"bn": "জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চ"
+},
+{
+"en": "DESY",
+"bn": "ডেসি (DESY)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The GSI Helmholtz Centre in Darmstadt, Germany, discovered elements 107 through 112.",
+"bn": "জার্মানির ডার্মস্টাডের জিএসআই হেল্মহোল্টজ সেন্টার ১০৭ থেকে ১১২ পর্যন্ত উপাদানগুলি আবিষ্কার করেছে।"
+}
+},
+{
+"question": {
+"en": "What is the computationally predicted electron configuration of Roentgenium?",
+"bn": "রন্টজেনিয়ামের গণনামূলকভাবে প্রত্যাশিত ইলেকট্রন কনফিগারেশন কী?"
+},
+"options": [
+{
+"en": "[Rn] 5f¹⁴ 6d¹⁰ 7s¹",
+"bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s¹"
+},
+{
+"en": "[Rn] 5f¹⁴ 6d⁹ 7s²",
+"bn": "[Rn] 5f¹⁴ 6d⁹ 7s²"
+},
+{
+"en": "[Rn] 5f¹⁴ 6d⁸ 7s² 7p¹",
+"bn": "[Rn] 5f¹⁴ 6d⁸ 7s² 7p¹"
+},
+{
+"en": "[Rn] 5f¹⁴ 6d¹⁰",
+"bn": "[Rn] 5f¹⁴ 6d¹⁰"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Unlike lighter group 11 metals (which end in s¹ d¹⁰), relativistic effects in superheavy elements stabilize the 7s orbital, leading to a predicted [Rn] 5f¹⁴ 6d⁹ 7s² configuration.",
+"bn": "হালকা গ্রুপ ১১ ধাতুগুলির (যা s¹ d¹⁰ এ শেষ হয়) বিপরীতে, অতিভারী উপাদানগুলিতে আপেক্ষিক প্রভাব 7s অরবিটালকে স্থিতিশীল করে, যার ফলে একটি প্রত্যাশিত [Rn] 5f¹⁴ 6d⁹ 7s² কনফিগারেশন তৈরি হয়।"
+}
+},
+{
+"question": {
+"en": "Why does the predicted electron configuration of Roentgenium differ from the typical pattern seen in Gold and Silver?",
+"bn": "রন্টজেনিয়ামের প্রত্যাশিত ইলেক্ট্রন কনফিগারেশন সোনা এবং রূপায় দেখা সাধারণ প্যাটার্ন থেকে কেন আলাদা?"
+},
+"options": [
+{
+"en": "Magnetic shielding",
+"bn": "ম্যাগনেটিক শিল্ডিং"
+},
+{
+"en": "Strong relativistic effects on the inner electrons",
+"bn": "অভ্যন্তরীণ ইলেকট্রনের উপর শক্তিশালী আপেক্ষিক প্রভাব"
+},
+{
+"en": "It has no neutrons in its most stable isotope",
+"bn": "এর সবচেয়ে স্থিতিশীল আইসোটোপে কোন নিউট্রন নেই"
+},
+{
+"en": "It is an alkaline earth metal",
+"bn": "এটি একটি মৃত্তিকা ক্ষার ধাতু"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Relativistic contraction strongly stabilizes the 7s shell, making it more favorable for electrons to occupy the 7s orbital completely before filling the 6d.",
+"bn": "আপেক্ষিক সংকোচন দৃঢ়ভাবে 7s শেলটিকে স্থিতিশীল করে, যা 6d পূরণের আগে ইলেকট্রনগুলিকে 7s অরবিটাল সম্পূর্ণভাবে দখল করতে বেশি অনুকূল করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Which of the following is the most stable known isotope of Roentgenium?",
+"bn": "নিচের কোনটি রন্টজেনিয়ামের সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপ?"
+},
+"options": [
+{
+"en": "Rg-272",
+"bn": "Rg-২৭২"
+},
+{
+"en": "Rg-279",
+"bn": "Rg-২৭৯"
+},
+{
+"en": "Rg-282",
+"bn": "Rg-২৮২"
+},
+{
+"en": "Rg-290",
+"bn": "Rg-২৯০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Roentgenium-282 is the most stable isotope currently known, with a significantly longer half-life than its lighter variants.",
+"bn": "রন্টজেনিয়াম-২৮২ বর্তমানে পরিচিত সবচেয়ে স্থিতিশীল আইসোটোপ, যার অর্ধায়ু এর হালকা রূপগুলির তুলনায় উল্লেখযোগ্যভাবে দীর্ঘ।"
+}
+},
+{
+"question": {
+"en": "Approximately how long is the half-life of Roentgenium-282?",
+"bn": "রন্টজেনিয়াম-২৮২ এর অর্ধায়ু প্রায় কতক্ষণ?"
+},
+"options": [
+{
+"en": "1.6 milliseconds",
+"bn": "১.৬ মিলি সেকেন্ড"
+},
+{
+"en": "100 seconds (1.6 minutes)",
+"bn": "১০০ সেকেন্ড (১.৬ মিনিট)"
+},
+{
+"en": "16 hours",
+"bn": "১৬ ঘন্টা"
+},
+{
+"en": "16 days",
+"bn": "১৬ দিন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Rg-282 has a half-life of approximately 100 seconds, making it one of the longer-lived superheavy isotopes.",
+"bn": "Rg-282 এর অর্ধায়ু প্রায় ১০০ সেকেন্ড, যা একে দীর্ঘজীবী অতিভারী আইসোটোপগুলির মধ্যে একটি করে তোলে।"
+}
+},
+{
+"question": {
+"en": "What type of radioactive decay is most common for Roentgenium isotopes?",
+"bn": "রন্টজেনিয়াম আইসোটোপগুলির জন্য কোন ধরণের তেজস্ক্রিয় ক্ষয় সবচেয়ে সাধারণ?"
+},
+"options": [
+{
+"en": "Alpha decay and spontaneous fission",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন"
+},
+{
+"en": "Beta minus decay",
+"bn": "বিটা মাইনাস ক্ষয়"
+},
+{
+"en": "Electron capture",
+"bn": "ইলেকট্রন ক্যাপচার"
+},
+{
+"en": "Positron emission",
+"bn": "পজিট্রন নির্গমন"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Like most superheavy transactinides, Roentgenium decays primarily by emitting alpha particles or spontaneously splitting into lighter nuclei.",
+"bn": "বেশিরভাগ অতিভারী ট্রান্সঅ্যাক্টিনাইডের মতো, রন্টজেনিয়াম প্রাথমিকভাবে আলফা কণা নির্গত করে বা স্বতঃস্ফূর্তভাবে হালকা নিউক্লিয়াসে বিভক্ত হয়ে ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "Based on periodic trends, what is the expected density of Roentgenium compared to naturally occurring elements?",
+"bn": "পর্যায়ক্রমিক প্রবণতার উপর ভিত্তি করে, প্রাকৃতিকভাবে সৃষ্ট উপাদানগুলির তুলনায় রন্টজেনিয়ামের প্রত্যাশিত ঘনত্ব কী?"
+},
+"options": [
+{
+"en": "Lighter than water",
+"bn": "জলের চেয়ে হালকা"
+},
+{
+"en": "Similar to Iron",
+"bn": "লোহার মতো"
+},
+{
+"en": "Denser than Osmium and Iridium",
+"bn": "অসমিয়াম এবং ইরিডিয়ামের চেয়ে ঘন"
+},
+{
+"en": "The least dense transition metal",
+"bn": "সবচেয়ে কম ঘন অবস্থান্তর ধাতু"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Its predicted density of 28.7 g/cm³ would make it significantly denser than Osmium (~22.6 g/cm³), the densest naturally occurring element.",
+"bn": "এর প্রত্যাশিত ঘনত্ব ২৮.৭ গ্রাম/ঘন সেমি এটিকে প্রাকৃতিকভাবে সৃষ্ট সবচেয়ে ঘন উপাদান অসমিয়ামের (~২২.৬ গ্রাম/ঘন সেমি) চেয়ে উল্লেখযোগ্যভাবে বেশি ঘন করে তুলবে।"
+}
+},
+{
+"question": {
+"en": "What block of the periodic table does Roentgenium reside in?",
+"bn": "রন্টজেনিয়াম পর্যায় সারণির কোন ব্লকে থাকে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a transition metal, its outermost energetic electrons are predicted to occupy the d-orbital space.",
+"bn": "একটি অবস্থান্তর ধাতু হিসাবে, এর সর্ববহিঃস্থ শক্তির ইলেকট্রনগুলি ডি-অরবিটাল স্থান দখল করবে বলে আশা করা হয়।"
+}
+},
+{
+"question": {
+"en": "Elements with atomic numbers strictly greater than 103 (Lawrencium) are broadly classified as what?",
+"bn": "১০৩ (লরেনসিয়াম) এর বেশি পারমাণবিক সংখ্যা বিশিষ্ট উপাদানগুলিকে বিস্তৃতভাবে কীভাবে শ্রেণীবদ্ধ করা হয়?"
+},
+"options": [
+{
+"en": "Lanthanides",
+"bn": "ল্যান্থানাইড"
+},
+{
+"en": "Actinides",
+"bn": "অ্যাক্টিনাইড"
+},
+{
+"en": "Transactinides",
+"bn": "ট্রান্সঅ্যাক্টিনাইড"
+},
+{
+"en": "Halogens",
+"bn": "হ্যালোজেন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "They are known as transactinides or superheavy elements, following the actinide series.",
+"bn": "অ্যাক্টিনাইড সিরিজের অনুসরণ করে এদের ট্রান্সঅ্যাক্টিনাইড বা অতিভারী উপাদান বলা হয়।"
+}
+},
+{
+"question": {
+"en": "Because of relativistic effects, Roentgenium is predicted to be chemically:",
+"bn": "আপেক্ষিক প্রভাবের কারণে, রন্টজেনিয়াম রাসায়নিকভাবে কেমন হতে পারে বলে পূর্বাভাস দেওয়া হয়েছে?"
+},
+"options": [
+{
+"en": "Extremely reactive like Potassium",
+"bn": "পটাসিয়ামের মতো অত্যন্ত প্রতিক্রিয়াশীল"
+},
+{
+"en": "Highly reactive with Oxygen like Iron",
+"bn": "লোহার মতো অক্সিজেনের সাথে অত্যন্ত প্রতিক্রিয়াশীল"
+},
+{
+"en": "Extremely noble and unreactive, potentially more so than gold",
+"bn": "অত্যন্ত নিষ্ক্রিয় এবং অ-প্রতিক্রিয়াশীল, সম্ভাব্যভাবে সোনার চেয়েও বেশি"
+},
+{
+"en": "A highly flammable gas",
+"bn": "একটি অত্যন্ত দাহ্য গ্যাস"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Relativistic stabilization of valence electrons makes superheavy transition metals exceptionally unreactive or 'noble'.",
+"bn": "যোজ্যতা ইলেকট্রনের আপেক্ষিক স্থিতিশীলতা অতিভারী অবস্থান্তর ধাতুগুলিকে ব্যতিক্রমীভাবে অ-প্রতিক্রিয়াশীল বা 'নিষ্ক্রিয়' করে তোলে।"
+}
+},
+{
+"question": {
+"en": "While silver predominantly shows a +1 oxidation state, what is the predicted most common oxidation state for Roentgenium in stable compounds?",
+"bn": "যদিও রূপা প্রধানত একটি +১ জারণ অবস্থা দেখায়, স্থিতিশীল যৌগগুলিতে রন্টজেনিয়ামের জন্য প্রত্যাশিত সবচেয়ে সাধারণ জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "-1",
+"bn": "-১"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Similar to gold, Roentgenium is predicted to favor a +3 oxidation state, though it may also show +5 due to the destabilization of its d-electrons.",
+"bn": "সোনার অনুরূপ, রন্টজেনিয়াম +৩ জারণ অবস্থা পছন্দ করবে বলে পূর্বাভাস দেওয়া হয়েছে, যদিও এর ডি-ইলেকট্রনের অস্থিতিশীলতার কারণে এটি +৫ ও দেখাতে পারে।"
+}
+},
+{
+"question": {
+"en": "Is there any known biological role for Roentgenium?",
+"bn": "রন্টজেনিয়ামের কি কোন পরিচিত জৈবিক ভূমিকা আছে?"
+},
+"options": [
+{
+"en": "Yes, in oxygen transport",
+"bn": "হ্যাঁ, অক্সিজেন পরিবহনে"
+},
+{
+"en": "Yes, in deep sea bacteria",
+"bn": "হ্যাঁ, গভীর সমুদ্রের ব্যাকটেরিয়ায়"
+},
+{
+"en": "No, it is purely synthetic and highly radioactive",
+"bn": "না, এটি সম্পূর্ণ কৃত্রিম এবং অত্যন্ত তেজস্ক্রিয়"
+},
+{
+"en": "Yes, as a trace mineral in humans",
+"bn": "হ্যাঁ, মানুষের মধ্যে একটি ট্রেস খনিজ হিসাবে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Being a highly radioactive synthetic element with a lifespan measured in seconds, it plays no part in biology.",
+"bn": "সেকেন্ডে পরিমাপ করা আয়ুষ্কাল সহ একটি অত্যন্ত তেজস্ক্রিয় কৃত্রিম উপাদান হওয়ায় এটি জীববিজ্ঞানে কোনো ভূমিকা পালন করে না।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Because it is named after Röntgen, people sometimes think Roentgenium itself is used to generate X-rays for medical imaging. It is not; standard X-ray tubes use heavy, stable metals like Tungsten.",
+"bn": "রন্টজেনের নামানুসারে এর নামকরণ করা হয়েছে বলে মানুষ মাঝে মাঝে মনে করে রন্টজেনিয়াম নিজেই মেডিকেল ইমেজিংয়ের জন্য এক্স-রে তৈরি করতে ব্যবহৃত হয়। এটি তা নয়; স্ট্যান্ডার্ড এক্স-রে টিউবগুলি টংস্টেনের মতো ভারী, স্থিতিশীল ধাতু ব্যবহার করে।"
+}
+],
+"learningTips": [
+{
+"en": "To remember its group, think of the 'Coinage Metals': Copper, Silver, Gold... and the purely synthetic Roentgenium at the bottom.",
+"bn": "এর গ্রুপটি মনে রাখার জন্য, 'মুদ্রা ধাতু'-এর কথা ভাবুন: তামা, রূপা, সোনা... এবং একেবারে নিচে সম্পূর্ণ কৃত্রিম রন্টজেনিয়াম।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "2Rg + 3F₂ → 2RgF₃ (predicted)",
+"description": {
+"en": "Theoretical formation of Roentgenium trifluoride, highlighting its expected +3 oxidation state.",
+"bn": "এর প্রত্যাশিত +৩ জারণ অবস্থাকে তুলে ধরে রন্টজেনিয়াম ট্রাইফ্লুরাইডের তাত্ত্বিক গঠন।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Rg → Rg³⁺ + 3e⁻ (predicted)",
+"description": {
+"en": "Theoretical oxidation of Roentgenium to its +3 state.",
+"bn": "রন্টজেনিয়ামকে এর +৩ অবস্থায় তাত্ত্বিক জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Rg³⁺ + 3e⁻ → Rg (predicted)",
+"description": {
+"en": "Theoretical reduction of Roentgenium ions back to the elemental metal.",
+"bn": "রন্টজেনিয়াম আয়নগুলিকে আবার মৌলিক ধাতুতে তাত্ত্বিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "RgF₅",
+"description": {
+"en": "Predicted formation of Roentgenium pentafluoride, enabled by relativistic destabilization of the 6d orbital.",
+"bn": "6d অরবিটালের আপেক্ষিক অস্থিতিশীলতা দ্বারা সক্ষম রন্টজেনিয়াম পেন্টাফ্লুরাইডের প্রত্যাশিত গঠন।"
+}
+}
+]
+}
+}

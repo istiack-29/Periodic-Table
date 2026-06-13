@@ -1,0 +1,938 @@
+{
+"elementId": 110,
+"basicInformation": {
+"atomicNumber": 110,
+"symbol": "Ds",
+"name": {
+"en": "Darmstadtium",
+"bn": "ডার্মস্টাডটিয়াম"
+},
+"pronunciation": {
+"en": "/dɑːrmˈstætəm/ or /dɑːrmˈstɑːtiəm/",
+"bn": "ডার্ম-স্ট্যাট-ই-য়াম"
+},
+"atomicMass": 281.1,
+"category": {
+"en": "Transition metal (predicted)",
+"bn": "অবস্থান্তর ধাতু (প্রত্যাশিত)"
+},
+"group": 10,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (predicted)",
+"bn": "কঠিন (প্রত্যাশিত)"
+},
+"appearance": {
+"en": "Unknown, predicted to be silvery-white or grey metallic",
+"bn": "অজানা, রূপালী-সাদা বা ধূসর ধাতব হতে পারে বলে ধারণা করা হয়"
+},
+"color": null,
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Sigurd Hofmann and the GSI Helmholtz Centre for Heavy Ion Research",
+"bn": "সিগার্ড হফম্যান এবং জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চ"
+},
+"discoveryYear": 1994,
+"discoveryLocation": {
+"en": "Darmstadt, Germany",
+"bn": "ডার্মস্টাড, জার্মানি"
+},
+"discoveryStory": {
+"en": "Created in a heavy ion accelerator by bombarding a Lead-208 target with accelerated Nickel-62 nuclei, resulting in a single atom of Darmstadtium-269.",
+"bn": "একটি হেভি আয়ন এক্সিলারেটরে সীসা-২০৮ লক্ষ্যবস্তুতে ত্বরান্বিত নিকেল-৬২ নিউক্লিয়াস দিয়ে আঘাত করে ডার্মস্টাডটিয়াম-২৬৯ এর একটি একক পরমাণু তৈরি করা হয়েছিল।"
+},
+"historicalUses": {
+"en": "No historical uses; produced strictly for theoretical physics and the expansion of the periodic table.",
+"bn": "কোন ঐতিহাসিক ব্যবহার নেই; শুধুমাত্র তাত্ত্বিক পদার্থবিজ্ঞান এবং পর্যায় সারণির সম্প্রসারণের জন্য উৎপাদিত।"
+},
+"famousExperiments": {
+"en": "The cold fusion reaction of 208Pb and 62Ni at the UNILAC accelerator to prove the existence of element 110.",
+"bn": "উপাদান ১১০ এর অস্তিত্ব প্রমাণের জন্য UNILAC এক্সিলারেটরে 208Pb এবং 62Ni এর কোল্ড ফিউশন বিক্রিয়া।"
+}
+},
+"atomicStructure": {
+"protons": 110,
+"neutrons": 171,
+"electrons": 110,
+"valenceElectrons": 2,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 17, 1],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d⁹ 7s¹",
+"orbitalConfiguration": {
+"7s": 1,
+"6d": 9,
+"5f": 14
+},
+"oxidationStates": [2, 4, 6, 8],
+"quantumNumbers": {
+"principal": 6,
+"azimuthal": 2,
+"magnetic": 1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 34.8,
+"unit": "g/cm³"
+},
+"meltingPoint": null,
+"boilingPoint": null,
+"atomicRadius": null,
+"covalentRadius": {
+"value": 128,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Body-centered cubic (predicted)",
+"bn": "দেহ-কেন্দ্রিক ঘনক (প্রত্যাশিত)"
+},
+"magneticOrdering": {
+"en": "Unknown",
+"bn": "অজানা"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 955.0,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Predicted to be a noble metal with reactivity similar to platinum, though relativistic effects may alter its chemistry.",
+"bn": "প্লাটিনামের মতো প্রতিক্রিয়াশীলতা সহ একটি নিষ্ক্রিয় ধাতু হওয়ার পূর্বাভাস দেওয়া হয়েছে, যদিও আপেক্ষিক প্রভাবগুলি এর রসায়ন পরিবর্তন করতে পারে।"
+},
+"commonCompounds": ["DsO₄", "DsF₆", "DsCl₆"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "Not applicable due to extreme instability and sub-minute half-life.",
+"bn": "অত্যন্ত অস্থিতিশীলতা এবং এক মিনিটের কম অর্ধায়ুর কারণে প্রযোজ্য নয়।"
+},
+"commercialUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"electronicsUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"semiconductorUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"aerospaceUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"aiHardwareUses": {
+"en": "No theoretical applications in current AI hardware paradigms.",
+"bn": "বর্তমান এআই হার্ডওয়্যার প্যারাদিগমে কোন তাত্ত্বিক প্রয়োগ নেই।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"nanotechnologyUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"nuclearUses": {
+"en": "Studied exclusively in advanced nuclear physics to understand nuclear shell structures and the island of stability.",
+"bn": "নিউক্লিয়ার শেল কাঠামো এবং আইল্যান্ড অফ স্ট্যাবিলিটি বোঝার জন্য একচেটিয়াভাবে উন্নত পারমাণবিক পদার্থবিজ্ঞানে অধ্যয়ন করা হয়েছে।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"medicalUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "কোনটিই নয়।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No biological role. Element does not exist in nature.",
+"bn": "কোন জৈবিক ভূমিকা নেই। উপাদানটি প্রকৃতিতে বিদ্যমান নেই।"
+},
+"humanBodyRole": {
+"en": "Not present in the human body.",
+"bn": "মানবদেহে উপস্থিত নেই।"
+},
+"toxicity": {
+"en": "Highly radiotoxic due to severe ionizing radiation from alpha decay and spontaneous fission.",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন থেকে নির্গত তীব্র বিকিরণের কারণে অত্যন্ত রেডিওটক্সিক।"
+},
+"environmentalImpact": {
+"en": "Negligible environmental impact as it only exists within specialized laboratory environments.",
+"bn": "পরিবেশগত প্রভাব নগণ্য কারণ এটি শুধুমাত্র বিশেষ পরীক্ষাগার পরিবেশের মধ্যে বিদ্যমান।"
+},
+"pollutionRisks": {
+"en": "Zero risk of environmental pollution under current production limits (measured in atoms).",
+"bn": "বর্তমান উৎপাদন সীমার অধীনে পরিবেশ দূষণের ঝুঁকি শূন্য (পরমাণুতে পরিমাপ করা হয়)।"
+},
+"recyclingMethods": {
+"en": "Cannot be recycled. Decays completely into other elements almost instantly.",
+"bn": "পুনর্ব্যবহারযোগ্য নয়। প্রায় সঙ্গে সঙ্গে সম্পূর্ণভাবে অন্য উপাদানে ক্ষয়প্রাপ্ত হয়।"
+},
+"sustainabilityScore": null
+},
+"miningAndEconomics": {
+"majorProducingCountries": [],
+"miningMethods": {
+"en": "Cannot be mined. Synthesized atom-by-atom in particle accelerators.",
+"bn": "খনন করা যায় না। কণা এক্সিলারেটরে পরমাণু-দ্বারা-পরমাণু সংশ্লেষিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Invaluable. Not a commercially traded substance.",
+"bn": "অমূল্য। বাণিজ্যিকভাবে লেনদেনযোগ্য পদার্থ নয়।"
+},
+"futureDemand": {
+"en": "Demand is restricted entirely to advanced scientific research institutions.",
+"bn": "এর চাহিদা সম্পূর্ণরূপে উন্নত বৈজ্ঞানিক গবেষণা প্রতিষ্ঠানের মধ্যে সীমাবদ্ধ।"
+},
+"globalImportance": {
+"en": "Critical only for the theoretical understanding of quantum mechanics and strong nuclear forces in superheavy elements.",
+"bn": "শুধুমাত্র কোয়ান্টাম মেকানিক্স এবং অতিভারী উপাদানে শক্তিশালী পারমাণবিক শক্তির তাত্ত্বিক বোঝার জন্য গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiation hazard. Decays via highly energetic alpha particle emission and spontaneous nuclear fission.",
+"bn": "চরম বিকিরণ বিপদ। উচ্চ শক্তির আলফা কণা নির্গমন এবং স্বতঃস্ফূর্ত পারমাণবিক ফিশনের মাধ্যমে ক্ষয় হয়।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Atoms decay in fractions of a second inside the detector apparatus.",
+"bn": "সংরক্ষণ করা যায় না। সনাক্তকারী যন্ত্রের ভিতরে এক সেকেন্ডের ভগ্নাংশের মধ্যেই পরমাণুগুলি ক্ষয়প্রাপ্ত হয়।"
+},
+"handlingProcedures": {
+"en": "Handled strictly through remote automated detection equipment in shielded accelerator facilities.",
+"bn": "ঝালরযুক্ত এক্সিলারেটর সুবিধাগুলিতে রিমোট স্বয়ংক্রিয় সনাক্তকরণ সরঞ্জামের মাধ্যমে কঠোরভাবে পরিচালনা করা হয়।"
+},
+"exposureRisks": {
+"en": "Direct exposure to macroscopic quantities would be instantly lethal, though macroscopic quantities are impossible to synthesize.",
+"bn": "ম্যাক্রোস্কোপিক পরিমাণের সরাসরি সংস্পর্শ তাৎক্ষণিকভাবে প্রাণঘাতী হবে, যদিও ম্যাক্রোস্কোপিক পরিমাণ সংশ্লেষণ করা অসম্ভব।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Highly Radioactive",
+"bn": "উচ্চমাত্রায় তেজস্ক্রিয়"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Darmstadtium is a superheavy, artificial element created in a lab. It exists for only a few seconds before breaking apart into lighter elements.",
+"bn": "ডার্মস্টাডটিয়াম একটি অতিভারী, পরীক্ষাগারে তৈরি কৃত্রিম উপাদান। হালকা উপাদানগুলিতে ভেঙে যাওয়ার আগে এটি কেবল কয়েক সেকেন্ডের জন্য বিদ্যমান থাকে।"
+},
+"advancedExplanation": {
+"en": "As a transactinide and member of the 7th period, Darmstadtium is expected to be a heavier homolog of Platinum. Its extreme nuclear mass induces strong relativistic effects, fundamentally altering the energy levels of its inner electron orbitals compared to lighter group 10 metals.",
+"bn": "ট্রান্সঅ্যাক্টিনাইড এবং সপ্তম পর্যায়ের সদস্য হিসাবে, ডার্মস্টাডটিয়াম প্ল্যাটিনামের একটি ভারী হোমোলগ হবে বলে আশা করা হয়। এর চরম পারমাণবিক ভর শক্তিশালী আপেক্ষিক প্রভাব প্ররোচিত করে, যা হালকা গ্রুপ ১০ ধাতুর তুলনায় এর অভ্যন্তরীণ ইলেকট্রন অরবিটালের শক্তির স্তরগুলিকে মৌলিকভাবে পরিবর্তন করে।"
+},
+"funFacts": [
+{
+"en": "It is named after the city of Darmstadt, Germany, where it was first synthesized.",
+"bn": "জার্মানির ডার্মস্টাড শহরের নামানুসারে এর নামকরণ করা হয়েছে, যেখানে এটি প্রথম সংশ্লেষিত হয়েছিল।"
+},
+{
+"en": "Its theoretical density is 34.8 g/cm³, which would make it one of the densest materials in the universe if a solid chunk could ever be formed.",
+"bn": "এর তাত্ত্বিক ঘনত্ব ৩৪.৮ গ্রাম/ঘন সেমি, যা এটিকে মহাবিশ্বের সবচেয়ে ঘন পদার্থগুলির মধ্যে একটি করে তুলবে যদি কখনও এর একটি কঠিন খণ্ড তৈরি করা সম্ভব হয়।"
+},
+{
+"en": "Element 110 was provisionally called Ununnilium before being officially named.",
+"bn": "উপাদান ১১০ আনুষ্ঠানিকভাবে নাম পাওয়ার আগে অস্থায়ীভাবে আনুননিলিয়াম নামে পরিচিত ছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 78,
+"relation": {
+"en": "Darmstadtium is placed directly below Platinum (78) in the periodic table, suggesting they would have similar chemical properties.",
+"bn": "ডার্মস্টাডটিয়াম পর্যায় সারণিতে সরাসরি প্লাটিনামের (৭৮) নীচে স্থাপন করা হয়েছে, যা নির্দেশ করে যে তাদের রাসায়নিক বৈশিষ্ট্য একই রকম হতে পারে।"
+}
+}
+],
+"relatedElements": [78, 46, 28, 109, 111],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Darmstadtium?",
+"bn": "ডার্মস্টাডটিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "108",
+"bn": "১০৮"
+},
+{
+"en": "110",
+"bn": "১১০"
+},
+{
+"en": "112",
+"bn": "১১২"
+},
+{
+"en": "114",
+"bn": "১১৪"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Darmstadtium occupies position 110 on the periodic table.",
+"bn": "ডার্মস্টাডটিয়াম পর্যায় সারণিতে ১১০ তম স্থানে রয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which German city is Darmstadtium named after?",
+"bn": "জার্মানির কোন শহরের নামানুসারে ডার্মস্টাডটিয়ামের নামকরণ করা হয়েছে?"
+},
+"options": [
+{
+"en": "Berlin",
+"bn": "বার্লিন"
+},
+{
+"en": "Munich",
+"bn": "মিউনিখ"
+},
+{
+"en": "Darmstadt",
+"bn": "ডার্মস্টাড"
+},
+{
+"en": "Frankfurt",
+"bn": "ফ্রাঙ্কফুর্ট"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It is named after Darmstadt, the location of the GSI Helmholtz Centre for Heavy Ion Research.",
+"bn": "এটি জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চের অবস্থান ডার্মস্টাড-এর নামানুসারে নামকরণ করা হয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which element group does Darmstadtium belong to?",
+"bn": "ডার্মস্টাডটিয়াম কোন উপাদান গ্রুপের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Group 8",
+"bn": "গ্রুপ ৮"
+},
+{
+"en": "Group 9",
+"bn": "গ্রুপ ৯"
+},
+{
+"en": "Group 10",
+"bn": "গ্রুপ ১০"
+},
+{
+"en": "Group 11",
+"bn": "গ্রুপ ১১"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It is a group 10 transition metal, falling under Nickel, Palladium, and Platinum.",
+"bn": "এটি একটি গ্রুপ ১০ অবস্থান্তর ধাতু, যা নিকেল, প্যালাডিয়াম এবং প্ল্যাটিনামের নিচে পড়ে।"
+}
+},
+{
+"question": {
+"en": "What reaction was used to first synthesize Darmstadtium?",
+"bn": "ডার্মস্টাডটিয়াম প্রথম সংশ্লেষণ করতে কোন বিক্রিয়া ব্যবহার করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Lead-208 + Nickel-62",
+"bn": "সীসা-২০৮ + নিকেল-৬২"
+},
+{
+"en": "Bismuth-209 + Iron-58",
+"bn": "বিসমাথ-২০৯ + আয়রন-৫৮"
+},
+{
+"en": "Plutonium-244 + Calcium-48",
+"bn": "প্লুটোনিয়াম-২৪৪ + ক্যালসিয়াম-৪৮"
+},
+{
+"en": "Uranium-238 + Neon-22",
+"bn": "ইউরেনিয়াম-২৩৮ + নিয়ন-২২"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Scientists bombarded a Lead-208 target with Nickel-62 ions to create Darmstadtium-269.",
+"bn": "বিজ্ঞানীরা ডার্মস্টাডটিয়াম-২৬৯ তৈরি করতে সীসা-২০৮ লক্ষ্যবস্তুতে নিকেল-৬২ আয়ন দিয়ে আঘাত করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "In what year was Darmstadtium officially discovered?",
+"bn": "কোন বছরে ডার্মস্টাডটিয়াম আনুষ্ঠানিকভাবে আবিষ্কৃত হয়েছিল?"
+},
+"options": [
+{
+"en": "1984",
+"bn": "১৯৮৪"
+},
+{
+"en": "1994",
+"bn": "১৯৯৪"
+},
+{
+"en": "2004",
+"bn": "২০০৪"
+},
+{
+"en": "2010",
+"bn": "২০১০"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It was discovered on November 9, 1994, by the team at GSI in Germany.",
+"bn": "এটি জার্মানির জিএসআই দলের দ্বারা ৯ নভেম্বর, ১৯৯৪ সালে আবিষ্কৃত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What is the primary mode of decay for Darmstadtium isotopes?",
+"bn": "ডার্মস্টাডটিয়াম আইসোটোপগুলির ক্ষয়ের প্রাথমিক পদ্ধতি কী?"
+},
+"options": [
+{
+"en": "Beta emission",
+"bn": "বিটা নির্গমন"
+},
+{
+"en": "Electron capture",
+"bn": "ইলেকট্রন ক্যাপচার"
+},
+{
+"en": "Alpha decay and spontaneous fission",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন"
+},
+{
+"en": "Gamma radiation only",
+"bn": "শুধুমাত্র গামা বিকিরণ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Due to its superheavy nature, it stabilizes by ejecting alpha particles or spontaneously splitting into lighter elements.",
+"bn": "এর অতিভারী প্রকৃতির কারণে, এটি আলফা কণা নির্গত করে বা স্বতঃস্ফূর্তভাবে হালকা উপাদানে বিভক্ত হয়ে স্থিতিশীল হয়।"
+}
+},
+{
+"question": {
+"en": "What was the provisional, systematic name for Darmstadtium before it was officially named?",
+"bn": "আনুষ্ঠানিকভাবে নামকরণ করার আগে ডার্মস্টাডটিয়ামের অস্থায়ী, নিয়মতান্ত্রিক নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Ununbium",
+"bn": "আনুনবিয়াম"
+},
+{
+"en": "Ununnilium",
+"bn": "আনুননিলিয়াম"
+},
+{
+"en": "Ununoctium",
+"bn": "আনুনঅক্টিয়াম"
+},
+{
+"en": "Ununquadium",
+"bn": "আনুনকোয়াডিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ununnilium (Uun) was the systematic IUPAC placeholder name for element 110.",
+"bn": "আনুননিলিয়াম (Uun) ছিল উপাদান ১১০ এর জন্য নিয়মতান্ত্রিক IUPAC প্লেসহোল্ডার নাম।"
+}
+},
+{
+"question": {
+"en": "Darmstadtium is expected to be a heavier homologue of which well-known precious metal?",
+"bn": "ডার্মস্টাডটিয়াম কোন সুপরিচিত মূল্যবান ধাতুর ভারী হোমোলগ হবে বলে আশা করা হচ্ছে?"
+},
+"options": [
+{
+"en": "Gold",
+"bn": "সোনা"
+},
+{
+"en": "Silver",
+"bn": "রূপা"
+},
+{
+"en": "Platinum",
+"bn": "প্ল্যাটিনাম"
+},
+{
+"en": "Palladium",
+"bn": "প্যালাডিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Platinum is directly above Darmstadtium in group 10.",
+"bn": "গ্রুপ ১০ এ প্ল্যাটিনাম সরাসরি ডার্মস্টাডটিয়ামের ঠিক উপরে থাকে।"
+}
+},
+{
+"question": {
+"en": "What is the expected physical state of Darmstadtium at standard room temperature?",
+"bn": "স্ট্যান্ডার্ড কক্ষ তাপমাত্রায় ডার্মস্টাডটিয়ামের প্রত্যাশিত ভৌত অবস্থা কী?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like all other elements in group 10, it is predicted to be a solid metallic element at room temperature.",
+"bn": "গ্রুপ ১০-এর অন্যান্য সমস্ত উপাদানের মতো, এটি ঘরের তাপমাত্রায় একটি কঠিন ধাতব উপাদান হবে বলে ভবিষ্যদ্বাণী করা হয়েছে।"
+}
+},
+{
+"question": {
+"en": "Approximately how long is the half-life of Darmstadtium's most stable known isotope (Ds-281)?",
+"bn": "ডার্মস্টাডটিয়ামের সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপের (Ds-281) অর্ধায়ু প্রায় কতদিন?"
+},
+"options": [
+{
+"en": "14 microseconds",
+"bn": "১৪ মাইক্রোসেকেন্ড"
+},
+{
+"en": "14 seconds",
+"bn": "১৪ সেকেন্ড"
+},
+{
+"en": "14 hours",
+"bn": "১৪ ঘন্টা"
+},
+{
+"en": "14 days",
+"bn": "১৪ দিন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ds-281 has a half-life of approximately 12.7 to 14 seconds, which is unusually long for superheavy elements.",
+"bn": "Ds-281 এর অর্ধায়ু প্রায় ১২.৭ থেকে ১৪ সেকেন্ড, যা অতিভারী উপাদানের ক্ষেত্রে অস্বাভাবিকভাবে দীর্ঘ।"
+}
+},
+{
+"question": {
+"en": "Why are the chemical properties of Darmstadtium largely unverified?",
+"bn": "কেন ডার্মস্টাডটিয়ামের রাসায়নিক বৈশিষ্ট্যগুলি মূলত যাচাই করা হয়নি?"
+},
+"options": [
+{
+"en": "It is completely inert and refuses to react",
+"bn": "এটি সম্পূর্ণ নিষ্ক্রিয় এবং প্রতিক্রিয়া করতে অস্বীকার করে"
+},
+{
+"en": "It decays too quickly to conduct standard chemical experiments",
+"bn": "স্ট্যান্ডার্ড রাসায়নিক পরীক্ষা চালানোর জন্য এটি খুব দ্রুত ক্ষয়প্রাপ্ত হয়"
+},
+{
+"en": "It destroys laboratory equipment",
+"bn": "এটি পরীক্ষাগারের সরঞ্জাম ধ্বংস করে"
+},
+{
+"en": "It can only exist at absolute zero",
+"bn": "এটি শুধুমাত্র পরম শূন্য তাপমাত্রায় থাকতে পারে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Its incredibly short half-life means atoms decay before meaningful macroscopic chemical reactions can be observed.",
+"bn": "এর অবিশ্বাস্যভাবে সংক্ষিপ্ত অর্ধায়ুর অর্থ হলো অর্থপূর্ণ ম্যাক্রোস্কোপিক রাসায়নিক বিক্রিয়া পর্যবেক্ষণ করার আগেই পরমাণুগুলি ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "Based on its predicted density of ~34.8 g/cm³, how does Darmstadtium compare to Osmium, the densest naturally occurring element?",
+"bn": "এর আনুমানিক ~৩৪.৮ গ্রাম/ঘন সেমি ঘনত্বের উপর ভিত্তি করে, প্রাকৃতিকভাবে সৃষ্ট সবচেয়ে ঘন উপাদান অসমিয়ামের সাথে ডার্মস্টাডটিয়ামের তুলনা কেমন?"
+},
+"options": [
+{
+"en": "It is much lighter than Osmium",
+"bn": "এটি অসমিয়ামের চেয়ে অনেক হালকা"
+},
+{
+"en": "They have the exact same density",
+"bn": "তাদের ঘনত্ব ঠিক একই"
+},
+{
+"en": "It is nearly 1.5 times denser than Osmium",
+"bn": "এটি অসমিয়ামের চেয়ে প্রায় ১.৫ গুণ বেশি ঘন"
+},
+{
+"en": "It is 10 times denser than Osmium",
+"bn": "এটি অসমিয়ামের চেয়ে ১০ গুণ বেশি ঘন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Osmium has a density of roughly 22.59 g/cm³. Darmstadtium's predicted density of 34.8 g/cm³ makes it significantly denser.",
+"bn": "অসমিয়ামের ঘনত্ব প্রায় ২২.৫৯ গ্রাম/ঘন সেমি। ডার্মস্টাডটিয়ামের প্রত্যাশিত ঘনত্ব ৩৪.৮ গ্রাম/ঘন সেমি এটিকে উল্লেখযোগ্যভাবে বেশি ঘন করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Which physical phenomenon is expected to heavily influence the chemical bonding of Darmstadtium?",
+"bn": "কোন ভৌত ঘটনা ডার্মস্টাডটিয়ামের রাসায়নিক বন্ধনকে ব্যাপকভাবে প্রভাবিত করবে বলে আশা করা হয়?"
+},
+"options": [
+{
+"en": "Superconductivity",
+"bn": "সুপারকন্ডাক্টিভিটি"
+},
+{
+"en": "Relativistic effects",
+"bn": "আপেক্ষিক প্রভাব"
+},
+{
+"en": "Ferromagnetism",
+"bn": "ফেরোম্যাগনেটিজম"
+},
+{
+"en": "Zeeman effect",
+"bn": "জিম্যান প্রভাব"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The immense positive charge in superheavy nuclei accelerates inner electrons to significant fractions of light speed, fundamentally altering orbital shapes.",
+"bn": "অতিভারী নিউক্লিয়াসে অপরিসীম ধনাত্মক আধান অভ্যন্তরীণ ইলেকট্রনগুলিকে আলোর গতির একটি উল্লেখযোগ্য ভগ্নাংশে ত্বরান্বিত করে, যা মৌলিকভাবে অরবিটালের আকার পরিবর্তন করে।"
+}
+},
+{
+"question": {
+"en": "How many neutrons does the isotope Darmstadtium-281 contain?",
+"bn": "ডার্মস্টাডটিয়াম-২৮১ আইসোটোপে কতটি নিউট্রন থাকে?"
+},
+"options": [
+{
+"en": "110",
+"bn": "১১০"
+},
+{
+"en": "171",
+"bn": "১৭১"
+},
+{
+"en": "281",
+"bn": "২৮১"
+},
+{
+"en": "391",
+"bn": "৩৯১"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Neutrons = Mass Number (281) - Atomic Number (110) = 171.",
+"bn": "নিউট্রন = ভর সংখ্যা (২৮১) - পারমাণবিক সংখ্যা (১১০) = ১৭১।"
+}
+},
+{
+"question": {
+"en": "What block of the periodic table does Darmstadtium belong to?",
+"bn": "ডার্মস্টাডটিয়াম পর্যায় সারণির কোন ব্লকের অন্তর্গত?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a transition metal in group 10, its highest energy electrons are predicted to populate the d-orbitals.",
+"bn": "গ্রুপ ১০-এর একটি অবস্থান্তর ধাতু হিসাবে, এর সর্বোচ্চ শক্তির ইলেকট্রনগুলি ডি-অরবিটালগুলি পূরণ করবে বলে পূর্বাভাস দেওয়া হয়েছে।"
+}
+},
+{
+"question": {
+"en": "What category of elements does Darmstadtium fall under?",
+"bn": "ডার্মস্টাডটিয়াম কোন উপাদান বিভাগের আওতায় পড়ে?"
+},
+"options": [
+{
+"en": "Actinide",
+"bn": "অ্যাক্টিনাইড"
+},
+{
+"en": "Transactinide",
+"bn": "ট্রান্সঅ্যাক্টিনাইড"
+},
+{
+"en": "Lanthanide",
+"bn": "ল্যান্থানাইড"
+},
+{
+"en": "Alkaline earth metal",
+"bn": "মৃত্তিকা ক্ষার ধাতু"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Elements with atomic numbers strictly greater than 103 (Lawrencium) are classified as transactinides.",
+"bn": "১০৩ (লরেনসিয়াম) এর বেশি পারমাণবিক সংখ্যা বিশিষ্ট উপাদানগুলিকে ট্রান্সঅ্যাক্টিনাইড হিসাবে শ্রেণীবদ্ধ করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the expected maximum oxidation state of Darmstadtium?",
+"bn": "ডার্মস্টাডটিয়ামের প্রত্যাশিত সর্বোচ্চ জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+},
+{
+"en": "+8",
+"bn": "+৮"
+},
+{
+"en": "+10",
+"bn": "+১০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like its lighter homologue Ruthenium (Group 8) and Osmium (Group 8) which reach +8, elements approaching Group 10 like Darmstadtium are theoretically predicted to potentially access the +8 state under extreme conditions, or more commonly +6 and +4.",
+"bn": "এর হালকা হোমোলগ রুথেনিয়াম এবং অসমিয়ামের মতো, চরম পরিস্থিতিতে ডার্মস্টাডটিয়াম তাত্ত্বিকভাবে +৮ অবস্থা, বা আরও সাধারণত +৬ এবং +৪ অবস্থা অ্যাক্সেস করতে পারে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "Is Darmstadtium found naturally on Earth?",
+"bn": "পৃথিবীতে কি প্রাকৃতিকভাবে ডার্মস্টাডটিয়াম পাওয়া যায়?"
+},
+"options": [
+{
+"en": "Yes, in deep ocean trenches",
+"bn": "হ্যাঁ, গভীর সমুদ্র খাতে"
+},
+{
+"en": "Yes, mixed with Uranium ore",
+"bn": "হ্যাঁ, ইউরেনিয়াম আকরিকের সাথে মিশ্রিত"
+},
+{
+"en": "No, it is strictly synthesized in laboratories",
+"bn": "না, এটি কঠোরভাবে পরীক্ষাগারে সংশ্লেষিত হয়"
+},
+{
+"en": "Yes, but only in the upper atmosphere",
+"bn": "হ্যাঁ, তবে শুধুমাত্র বায়ুমণ্ডলের উপরিভাগে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Due to its immense instability and short half-life, any primordial Darmstadtium would have decayed billions of years ago.",
+"bn": "এর অপরিমেয় অস্থিতিশীলতা এবং সংক্ষিপ্ত অর্ধায়ুর কারণে, যে কোন আদিম ডার্মস্টাডটিয়াম কোটি কোটি বছর আগে ক্ষয়প্রাপ্ত হয়ে যেত।"
+}
+},
+{
+"question": {
+"en": "Which period of the periodic table contains Darmstadtium?",
+"bn": "পর্যায় সারণির কোন পর্যায়ে ডার্মস্টাডটিয়াম রয়েছে?"
+},
+"options": [
+{
+"en": "Period 5",
+"bn": "পর্যায় ৫"
+},
+{
+"en": "Period 6",
+"bn": "পর্যায় ৬"
+},
+{
+"en": "Period 7",
+"bn": "পর্যায় ৭"
+},
+{
+"en": "Period 8",
+"bn": "পর্যায় ৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Darmstadtium is located in the 7th period, which contains the heaviest known synthetic elements.",
+"bn": "ডার্মস্টাডটিয়াম ৭ম পর্যায়ে অবস্থিত, যেখানে সবচেয়ে ভারী পরিচিত সিন্থেটিক উপাদান রয়েছে।"
+}
+},
+{
+"question": {
+"en": "Which particle accelerator facility is credited with creating Darmstadtium?",
+"bn": "কোন কণা এক্সিলারেটর সুবিধাকে ডার্মস্টাডটিয়াম তৈরির কৃতিত্ব দেওয়া হয়?"
+},
+"options": [
+{
+"en": "CERN in Switzerland",
+"bn": "সুইজারল্যান্ডের সার্ন (CERN)"
+},
+{
+"en": "Fermilab in the USA",
+"bn": "যুক্তরাষ্ট্রের ফার্মিল্যাব"
+},
+{
+"en": "GSI in Germany",
+"bn": "জার্মানির জিএসআই (GSI)"
+},
+{
+"en": "JINR in Russia",
+"bn": "রাশিয়ার জাইএনআর (JINR)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany synthesized the element.",
+"bn": "জার্মানির ডার্মস্টাডে জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চ উপাদানটি সংশ্লেষণ করেছিল।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "People often assume synthetic elements like Darmstadtium can be used to make powerful nuclear weapons. In reality, they decay far too quickly to be weaponized.",
+"bn": "মানুষ প্রায়শই ধারণা করে যে ডার্মস্টাডটিয়ামের মতো সিন্থেটিক উপাদানগুলি শক্তিশালী পারমাণবিক অস্ত্র তৈরিতে ব্যবহার করা যেতে পারে। বাস্তবে, এগুলি অস্ত্র তৈরি করার জন্য খুব দ্রুত ক্ষয়প্রাপ্ত হয়।"
+}
+],
+"learningTips": [
+{
+"en": "Remember the symbol 'Ds' and its group 10 placement under Platinum. This tells you it is a heavy transition metal.",
+"bn": "'Ds' প্রতীক এবং প্ল্যাটিনামের নিচে গ্রুপ ১০ এ এর অবস্থান মনে রাখুন। এটি আপনাকে বলে যে এটি একটি ভারী অবস্থান্তর ধাতু।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Ds + 3F₂ → DsF₆ (predicted)",
+"description": {
+"en": "Theoretical reaction of Darmstadtium with fluorine gas to form Darmstadtium hexafluoride.",
+"bn": "ডার্মস্টাডটিয়াম হেক্সাফ্লুরাইড তৈরি করতে ফ্লোরিন গ্যাসের সাথে ডার্মস্টাডটিয়ামের তাত্ত্বিক বিক্রিয়া।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Ds → Ds²⁺ + 2e⁻ (predicted)",
+"description": {
+"en": "Theoretical oxidation of Darmstadtium to the +2 state, mirroring platinum chemistry.",
+"bn": "প্ল্যাটিনামের রসায়নের অনুরূপ ডার্মস্টাডটিয়ামের +২ অবস্থায় তাত্ত্বিক জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Ds²⁺ + 2e⁻ → Ds (predicted)",
+"description": {
+"en": "Theoretical reduction of Darmstadtium ions back to pure metal.",
+"bn": "ডার্মস্টাডটিয়াম আয়নগুলিকে আবার বিশুদ্ধ ধাতুতে তাত্ত্বিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "DsF₆",
+"description": {
+"en": "Predicted highly volatile, covalent molecule formed at high oxidation states.",
+"bn": "উচ্চ জারণ অবস্থায় গঠিত প্রত্যাশিত অত্যন্ত উদ্বায়ী, সমযোজী অণু।"
+}
+}
+]
+}
+}

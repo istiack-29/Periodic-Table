@@ -1,0 +1,969 @@
+{
+"elementId": 114,
+"basicInformation": {
+"atomicNumber": 114,
+"symbol": "Fl",
+"name": {
+"en": "Flerovium",
+"bn": "ফ্লেরোভিয়াম"
+},
+"pronunciation": {
+"en": "/flɪˈroʊviəm/",
+"bn": "ফ্লে-রো-ভি-য়াম"
+},
+"atomicMass": 289.191,
+"category": {
+"en": "Post-transition metal",
+"bn": "অবস্থান্তর-পরবর্তী ধাতু"
+},
+"group": 14,
+"period": 7,
+"block": "p",
+"phase": {
+"en": "Predicted solid (potentially volatile)",
+"bn": "অনুমানকৃত কঠিন (সম্ভাব্য উদ্বায়ী)"
+},
+"appearance": {
+"en": "Unknown, predicted silvery-white or metallic grey",
+"bn": "অজানা, অনুমানকৃত রূপালী-সাদা বা ধাতব ধূসর"
+},
+"color": {
+"en": "Unknown",
+"bn": "অজানা"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Joint Institute for Nuclear Research (JINR) and Lawrence Livermore National Laboratory (LLNL)",
+"bn": "জয়েন্ট ইনস্টিটিউট ফর নিউক্লিয়ার রিসার্চ (JINR) এবং লরেন্স লিভারমোর ন্যাশনাল ল্যাবরেটরি (LLNL)"
+},
+"discoveryYear": 1998,
+"discoveryLocation": {
+"en": "Dubna, Russia",
+"bn": "দুবনা, রাশিয়া"
+},
+"discoveryStory": {
+"en": "First synthesized by a Russian-American collaboration in Dubna. They bombarded a Plutonium-244 target with Calcium-48 ions, resulting in a single atom of Flerovium-289, which decayed via alpha emission.",
+"bn": "দুবনায় একটি রুশ-মার্কিন যৌথ গবেষণায় প্রথম সংশ্লেষিত হয়। তারা প্লুটোনিয়াম-২৪৪ লক্ষ্যবস্তুতে ক্যালসিয়াম-৪৮ আয়ন দ্বারা আঘাত করে, যার ফলে ফ্লেরোভিয়াম-২৮৯ এর একটি একক পরমাণু তৈরি হয়, যা আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়।"
+},
+"historicalUses": {
+"en": "Since its discovery, its sole use has been in advanced nuclear physics to prove the existence of the 'Island of Stability'.",
+"bn": "এর আবিষ্কারের পর থেকে, এর একমাত্র ব্যবহার হলো 'স্থিতিশীলতার দ্বীপ' এর অস্তিত্ব প্রমাণের জন্য উন্নত পারমাণবিক পদার্থবিজ্ঞানে গবেষণা।"
+},
+"famousExperiments": {
+"en": "The 1998 bombardment of ²⁴⁴Pu with ⁴⁸Ca ions in the U400 cyclotron, which isolated element 114 for the first time.",
+"bn": "১৯৯৮ সালে U400 সাইক্লোট্রনে ক্যালসিয়াম-৪৮ আয়ন দিয়ে প্লুটোনিয়াম-২৪৪-কে আঘাত করার পরীক্ষা, যা প্রথমবারের মতো ১১৪ তম মৌলটিকে আলাদা করে।"
+}
+},
+"atomicStructure": {
+"protons": 114,
+"neutrons": 175,
+"electrons": 114,
+"valenceElectrons": 4,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 18, 4],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²",
+"orbitalConfiguration": {
+"7s": 2,
+"7p": 2
+},
+"oxidationStates": [2, 4, 0],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 1,
+"magnetic": 0,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 14.0,
+"unit": "g/cm³"
+},
+"meltingPoint": {
+"value": 284,
+"unit": "K"
+},
+"boilingPoint": {
+"value": 420,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 175,
+"unit": "pm"
+},
+"covalentRadius": {
+"value": 143,
+"unit": "pm"
+},
+"vanDerWaalsRadius": null,
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Predicted Face-centered cubic",
+"bn": "অনুমানকৃত ফেস-সেন্টার্ড কিউবিক"
+},
+"magneticOrdering": {
+"en": "Unknown",
+"bn": "অজানা"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 823.9,
+"unit": "kJ/mol"
+},
+"electronAffinity": null,
+"reactivity": {
+"en": "Predicted to be highly unreactive. Extreme relativistic effects cause the 7p(1/2) subshell to close, making it behave similarly to a noble gas.",
+"bn": "অত্যন্ত নিষ্ক্রিয় বলে অনুমান করা হয়। চরম আপেক্ষিক প্রভাব 7p(1/2) সাবশেলকে বন্ধ করে দেয়, যা এটিকে নিষ্ক্রিয় গ্যাসের মতো আচরণ করতে বাধ্য করে।"
+},
+"commonCompounds": ["FlCl₂", "FlO"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Flerovium only exists for mere seconds and is restricted purely to scientific research.",
+"bn": "কিছুই না। ফ্লেরোভিয়াম মাত্র কয়েক সেকেন্ডের জন্য বিদ্যমান থাকে এবং এটি সম্পূর্ণরূপে বৈজ্ঞানিক গবেষণায় সীমাবদ্ধ।"
+},
+"commercialUses": {
+"en": "No commercial applications exist due to extreme radioactivity and infinitesimal production yields.",
+"bn": "চরম তেজস্ক্রিয়তা এবং অতি নগণ্য উৎপাদন হারের কারণে এর কোনো বাণিজ্যিক প্রয়োগ নেই।"
+},
+"electronicsUses": {
+"en": "None currently. It provides a theoretical framework for understanding quantum dynamics in superheavy configurations.",
+"bn": "বর্তমানে কিছুই নেই। এটি অতিভারী কনফিগারেশনে কোয়ান্টাম ডাইনামিক্স বোঝার জন্য একটি তাত্ত্বিক কাঠামো প্রদান করে।"
+},
+"semiconductorUses": {
+"en": "Not applicable. Relativistic band-gap shifts are studied only computationally.",
+"bn": "প্রযোজ্য নয়। আপেক্ষিক ব্যান্ড-গ্যাপ শিফট শুধুমাত্র কম্পিউটেশনালভাবে অধ্যয়ন করা হয়।"
+},
+"aerospaceUses": {
+"en": "Theoretical only: if an incredibly stable isotope from the Island of Stability is found, it could revolutionize high-density nuclear aerospace propulsion.",
+"bn": "শুধুমাত্র তাত্ত্বিক: যদি 'স্থিতিশীলতার দ্বীপ' থেকে একটি অবিশ্বাস্যভাবে স্থিতিশীল আইসোটোপ পাওয়া যায়, তবে এটি মহাকাশের জন্য উচ্চ-ঘনত্বের পারমাণবিক প্রপালশনে বিপ্লব ঘটাতে পারে।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "কিছুই না।"
+},
+"aiHardwareUses": {
+"en": "Advanced AI physics engines are heavily deployed to simulate Flerovium's relativistic electron clouds and predict its chemical properties.",
+"bn": "ফ্লেরোভিয়ামের আপেক্ষিক ইলেকট্রন ক্লাউড অনুকরণ করতে এবং এর রাসায়নিক বৈশিষ্ট্যগুলির পূর্বাভাস দিতে উন্নত এআই ফিজিক্স ইঞ্জিনগুলি ব্যাপকভাবে মোতায়েন করা হয়।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "কিছুই না।"
+},
+"nanotechnologyUses": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"nuclearUses": {
+"en": "Used exclusively as a stepping stone to study the nuclear shell model and synthesis of even heavier elements.",
+"bn": "পারমাণবিক শেল মডেল এবং আরও ভারী মৌলের সংশ্লেষণ অধ্যয়নের জন্য একচেটিয়াভাবে একটি সোপান হিসাবে ব্যবহৃত হয়।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "কিছুই না।"
+},
+"medicalUses": {
+"en": "None. Its extreme radioactivity is universally lethal at macroscopic scales.",
+"bn": "কিছুই না। ম্যাক্রোস্কোপিক স্কেলে এর চরম তেজস্ক্রিয়তা সর্বজনীনভাবে মারাত্মক।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "কিছুই না।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "কিছুই না।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "Absolutely none. It has no biological role and does not exist in nature.",
+"bn": "একেবারেই নেই। এর কোনো জৈবিক ভূমিকা নেই এবং প্রকৃতিতে এর অস্তিত্ব নেই।"
+},
+"humanBodyRole": {
+"en": "Absent from the human body.",
+"bn": "মানবদেহে অনুপস্থিত।"
+},
+"toxicity": {
+"en": "Hypothetically highly toxic due to intense ionizing radiation (alpha decay), which instantly destroys cellular DNA.",
+"bn": "তীব্র আয়নাইজিং বিকিরণের (আলফা ক্ষয়) কারণে তাত্ত্বিকভাবে অত্যন্ত বিষাক্ত, যা তাৎক্ষণিকভাবে সেলুলার ডিএনএ ধ্বংস করে।"
+},
+"environmentalImpact": {
+"en": "Zero environmental impact. Any atom created in a lab decays within seconds into lighter elements.",
+"bn": "পরিবেশগত প্রভাব শূন্য। ল্যাবে তৈরি যেকোনো পরমাণু কয়েক সেকেন্ডের মধ্যে হালকা মৌলে পরিণত হয়।"
+},
+"pollutionRisks": {
+"en": "No pollution risk due to its synthetic, short-lived nature.",
+"bn": "এর কৃত্রিম এবং স্বল্পস্থায়ী প্রকৃতির কারণে কোনো দূষণের ঝুঁকি নেই।"
+},
+"recyclingMethods": {
+"en": "Not applicable.",
+"bn": "প্রযোজ্য নয়।"
+},
+"sustainabilityScore": 0.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "United States (LLNL)",
+"bn": "যুক্তরাষ্ট্র (LLNL)"
+},
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+}
+],
+"miningMethods": {
+"en": "Not mined. Synthesized via nuclear fusion in specialized particle accelerators.",
+"bn": "খনি থেকে তোলা হয় না। বিশেষায়িত পার্টিকেল এক্সিলারেটরে পারমাণবিক ফিউশনের মাধ্যমে সংশ্লেষিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Priceless. Cannot be bought or sold. Costs billions to maintain the facilities required to produce a single atom.",
+"bn": "অমূল্য। কেনা বা বেচা যায় না। একটি মাত্র পরমাণু তৈরি করার সুবিধাগুলি বজায় রাখতে কোটি কোটি ডলার খরচ হয়।"
+},
+"futureDemand": {
+"en": "In high demand purely within the theoretical physics community for superheavy element research.",
+"bn": "অতিভারী মৌল গবেষণার জন্য তাত্ত্বিক পদার্থবিজ্ঞান সম্প্রদায়ের মধ্যে অত্যন্ত বেশি চাহিদা রয়েছে।"
+},
+"globalImportance": {
+"en": "Crucial for understanding the absolute limits of nuclear stability and the structure of the periodic table.",
+"bn": "পারমাণবিক স্থিতিশীলতার পরম সীমা এবং পর্যায় সারণির গঠন বোঝার জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiation hazard. Emits high-energy alpha particles during decay.",
+"bn": "চরম বিকিরণ বিপত্তি। ক্ষয় হওয়ার সময় উচ্চ-শক্তির আলফা কণা নির্গত করে।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Decays entirely into Copernicium within seconds.",
+"bn": "সংরক্ষণ করা যায় না। কয়েক সেকেন্ডের মধ্যে সম্পূর্ণ ক্ষয় হয়ে কোপার্নিসিয়ামে পরিণত হয়।"
+},
+"handlingProcedures": {
+"en": "Handled computationally or via strictly isolated detectors in particle accelerator vacuum chambers.",
+"bn": "কম্পিউটেশনালভাবে বা পার্টিকেল অ্যাক্সিলারেটরের ভ্যাকুয়াম চেম্বারে কঠোরভাবে বিচ্ছিন্ন ডিটেক্টরের মাধ্যমে পরিচালিত হয়।"
+},
+"exposureRisks": {
+"en": "Direct exposure to macroscopic quantities (impossible to create) would result in instant, fatal acute radiation syndrome.",
+"bn": "ম্যাক্রোস্কোপিক পরিমাণের (তৈরি করা অসম্ভব) সরাসরি এক্সপোজারের ফলে তাৎক্ষণিক, মারাত্মক তীব্র বিকিরণ সিন্ড্রোম দেখা দেবে।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Highly Radioactive",
+"bn": "অত্যন্ত তেজস্ক্রিয়"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Flerovium is an extremely heavy, human-made element. It is created in giant machines by smashing atoms together, but it only exists for a few seconds before breaking apart.",
+"bn": "ফ্লেরোভিয়াম একটি অত্যন্ত ভারী, মানবসৃষ্ট মৌল। এটি বিশাল মেশিনে পরমাণুগুলোকে একসাথে গুঁড়িয়ে তৈরি করা হয়, তবে এটি ভেঙে যাওয়ার আগে মাত্র কয়েক সেকেন্ডের জন্য বিদ্যমান থাকে।"
+},
+"advancedExplanation": {
+"en": "Flerovium (Z=114) lies on the predicted 'Island of Stability'. Despite being in Group 14 (like Carbon and Lead), extreme relativistic velocities of its core electrons cause a strong spin-orbit splitting, making its 7p(1/2) subshell unusually stable. This causes Flerovium to theoretically behave more like an inert noble gas than a standard metal.",
+"bn": "ফ্লেরোভিয়াম (Z=114) অনুমানকৃত 'স্থিতিশীলতার দ্বীপ'-এ অবস্থিত। গ্রুপ ১৪-তে (কার্বন এবং সীসার মতো) থাকা সত্ত্বেও, এর কোর ইলেকট্রনের চরম আপেক্ষিক বেগের কারণে একটি শক্তিশালী স্পিন-অরবিট বিভাজন ঘটে, যা এর 7p(1/2) সাবশেলকে অস্বাভাবিকভাবে স্থিতিশীল করে তোলে। এর ফলে তাত্ত্বিকভাবে ফ্লেরোভিয়াম একটি সাধারণ ধাতুর পরিবর্তে একটি নিষ্ক্রিয় গ্যাসের মতো আচরণ করে।"
+},
+"funFacts": [
+{
+"en": "It was named after physicist Georgy Flyorov, founder of the Flerov Laboratory of Nuclear Reactions.",
+"bn": "এর নামকরণ করা হয়েছে পদার্থবিজ্ঞানী জর্জি ফ্লাইওরভের নামে, যিনি ফ্লেরোভ ল্যাবরেটরি অফ নিউক্লিয়ার রিঅ্যাকশন প্রতিষ্ঠা করেছিলেন।"
+},
+{
+"en": "Scientists had to fire a beam of Calcium atoms at a Plutonium target continuously for 40 days just to create a single atom of Flerovium.",
+"bn": "ফ্লেরোভিয়ামের একটি মাত্র পরমাণু তৈরি করতে বিজ্ঞানীদের একটানা ৪০ দিন ধরে প্লুটোনিয়াম লক্ষ্যবস্তুতে ক্যালসিয়াম পরমাণুর রশ্মি নিক্ষেপ করতে হয়েছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 82,
+"relation": {
+"en": "Although directly below Lead (82) in the periodic table, relativistic effects mean Flerovium is predicted to be much less reactive, potentially acting like a volatile gas instead of a solid metal.",
+"bn": "যদিও এটি পর্যায় সারণিতে সীসার (৮২) ঠিক নিচে অবস্থিত, আপেক্ষিক প্রভাবের কারণে ফ্লেরোভিয়াম অনেক কম প্রতিক্রিয়াশীল বলে অনুমান করা হয়, যা কঠিন ধাতুর পরিবর্তে একটি উদ্বায়ী গ্যাসের মতো কাজ করতে পারে।"
+}
+}
+],
+"relatedElements": [82, 112, 116, 118],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Flerovium?",
+"bn": "ফ্লেরোভিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "112",
+"bn": "১১২"
+},
+{
+"en": "114",
+"bn": "১১৪"
+},
+{
+"en": "116",
+"bn": "১১৬"
+},
+{
+"en": "118",
+"bn": "১১৮"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Flerovium is element 114, placing it in Group 14 of the periodic table.",
+"bn": "ফ্লেরোভিয়াম হলো ১১৪ তম মৌল, যা একে পর্যায় সারণির ১৪ নম্বর গ্রুপে স্থান দেয়।"
+}
+},
+{
+"question": {
+"en": "Which theoretical physics concept suggests that isotopes of Flerovium with around 184 neutrons might have significantly longer half-lives?",
+"bn": "কোন তাত্ত্বিক পদার্থবিজ্ঞানের ধারণাটি পরামর্শ দেয় যে ১৮৪ টি নিউট্রনযুক্ত ফ্লেরোভিয়ামের আইসোটোপগুলির অর্ধায়ু উল্লেখযোগ্যভাবে বেশি হতে পারে?"
+},
+"options": [
+{
+"en": "The String Theory",
+"bn": "স্ট্রিং থিওরি"
+},
+{
+"en": "The Heisenberg Uncertainty Principle",
+"bn": "হাইজেনবার্গের অনিশ্চয়তা নীতি"
+},
+{
+"en": "The Island of Stability",
+"bn": "স্থিতিশীলতার দ্বীপ"
+},
+{
+"en": "The Alpha-Beta Sequence",
+"bn": "আলফা-বিটা সিকোয়েন্স"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The 'Island of Stability' predicts that superheavy elements with 'magic numbers' of protons (like 114) and neutrons (like 184) will be unusually stable.",
+"bn": "'স্থিতিশীলতার দ্বীপ' ভবিষ্যদ্বাণী করে যে 'ম্যাজিক সংখ্যা' এর প্রোটন (যেমন ১১৪) এবং নিউট্রন (যেমন ১৮৪) বিশিষ্ট অতিভারী মৌলগুলো অস্বাভাবিকভাবে স্থিতিশীল হবে।"
+}
+},
+{
+"question": {
+"en": "What specific projectile was accelerated into a Plutonium-244 target to synthesize Flerovium for the first time?",
+"bn": "প্রথমবার ফ্লেরোভিয়াম সংশ্লেষ করার জন্য কোন নির্দিষ্ট বস্তুকে ত্বরান্বিত করে প্লুটোনিয়াম-২৪৪ লক্ষ্যবস্তুতে নিক্ষেপ করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Carbon-12",
+"bn": "কার্বন-১২"
+},
+{
+"en": "Calcium-48",
+"bn": "ক্যালসিয়াম-৪৮"
+},
+{
+"en": "Zinc-64",
+"bn": "জিঙ্ক-৬৪"
+},
+{
+"en": "Iron-56",
+"bn": "আয়রন-৫৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Calcium-48 is uniquely neutron-rich and stable (doubly magic), making it the perfect projectile to reach neutron-heavy superheavy elements.",
+"bn": "ক্যালসিয়াম-৪৮ অনন্যভাবে নিউট্রন-সমৃদ্ধ এবং স্থিতিশীল (দ্বিগুণ ম্যাজিক), যা একে নিউট্রন-ভারী অতিভারী মৌলগুলোতে পৌঁছানোর জন্য উপযুক্ত প্রজেক্টাইলে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "Flerovium sits below Lead in Group 14. Due to extreme relativistic effects, Flerovium is theoretically predicted to behave more like a:",
+"bn": "ফ্লেরোভিয়াম গ্রুপ ১৪-তে সীসার নিচে অবস্থিত। চরম আপেক্ষিক প্রভাবের কারণে, তাত্ত্বিকভাবে ফ্লেরোভিয়াম কিসের মতো আচরণ করবে বলে অনুমান করা হয়?"
+},
+"options": [
+{
+"en": "Highly reactive alkali metal",
+"bn": "অত্যন্ত প্রতিক্রিয়াশীল ক্ষার ধাতু"
+},
+{
+"en": "Halogen",
+"bn": "হ্যালোজেন"
+},
+{
+"en": "Noble gas",
+"bn": "নিষ্ক্রিয় গ্যাস"
+},
+{
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Relativistic contraction of the 7p(1/2) orbital gives it a closed-shell-like configuration, making it chemically inert, similar to a noble gas.",
+"bn": "7p(1/2) অরবিটালের আপেক্ষিক সংকোচনের কারণে এটি একটি ক্লোজড-শেল-এর মতো রূপ পায়, যা এটিকে রাসায়নিকভাবে নিষ্ক্রিয় করে তোলে, অনেকটা নিষ্ক্রিয় গ্যাসের মতো।"
+}
+},
+{
+"question": {
+"en": "By what primary process does Flerovium-289 decay?",
+"bn": "কোন প্রাথমিক প্রক্রিয়ার মাধ্যমে ফ্লেরোভিয়াম-২৮৯ ক্ষয়প্রাপ্ত হয়?"
+},
+"options": [
+{
+"en": "Alpha emission",
+"bn": "আলফা নির্গমন"
+},
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Gamma emission",
+"bn": "গামা নির্গমন"
+},
+{
+"en": "Electron capture",
+"bn": "ইলেকট্রন ক্যাপচার"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Flerovium-289 decays by emitting an alpha particle (two protons and two neutrons) to become Copernicium-285.",
+"bn": "ফ্লেরোভিয়াম-২৮৯ একটি আলফা কণা (দুটি প্রোটন এবং দুটি নিউট্রন) নির্গত করে কোপার্নিসিয়াম-২৮৫ এ পরিণত হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary reason the 7s and 7p orbitals in Flerovium contract and stabilize so dramatically?",
+"bn": "ফ্লেরোভিয়ামে 7s এবং 7p অরবিটালগুলো এত নাটকীয়ভাবে সংকুচিত এবং স্থিতিশীল হওয়ার প্রাথমিক কারণ কী?"
+},
+"options": [
+{
+"en": "Low atomic mass",
+"bn": "কম পারমাণবিক ভর"
+},
+{
+"en": "Lack of neutrons",
+"bn": "নিউট্রনের অভাব"
+},
+{
+"en": "Relativistic speeds of core electrons",
+"bn": "কোর ইলেকট্রনগুলির আপেক্ষিক গতি"
+},
+{
+"en": "Covalent bonding",
+"bn": "সমযোজী বন্ধন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The massive positive charge of the Z=114 nucleus forces core electrons to move at significant fractions of the speed of light, increasing their relativistic mass and shrinking their orbits.",
+"bn": "Z=114 নিউক্লিয়াসের বিশাল ধনাত্মক আধান কোর ইলেকট্রনগুলোকে আলোর গতির কাছাকাছি চলতে বাধ্য করে, যার ফলে তাদের আপেক্ষিক ভর বৃদ্ধি পায় এবং তাদের কক্ষপথ সঙ্কুচিত হয়।"
+}
+},
+{
+"question": {
+"en": "Who is Flerovium named after?",
+"bn": "কার নামে ফ্লেরোভিয়ামের নামকরণ করা হয়েছে?"
+},
+"options": [
+{
+"en": "Enrico Fermi",
+"bn": "এনরিকো ফার্মি"
+},
+{
+"en": "Georgy Flyorov",
+"bn": "জর্জি ফ্লাইওরভ"
+},
+{
+"en": "Lise Meitner",
+"bn": "লিস মাইটনার"
+},
+{
+"en": "Yuri Oganessian",
+"bn": "ইউরি ওগানেসিয়ান"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It is named after Soviet physicist Georgy Flyorov, whose work paved the way for superheavy element synthesis in Dubna.",
+"bn": "এটি সোভিয়েত পদার্থবিজ্ঞানী জর্জি ফ্লাইওরভের নামে নামকরণ করা হয়েছে, যার কাজ দুবনায় অতিভারী মৌল সংশ্লেষণের পথ প্রশস্ত করেছিল।"
+}
+},
+{
+"question": {
+"en": "In what year was the first successful synthesis of Flerovium published?",
+"bn": "কোন সালে ফ্লেরোভিয়ামের প্রথম সফল সংশ্লেষণ প্রকাশিত হয়েছিল?"
+},
+"options": [
+{
+"en": "1945",
+"bn": "১৯৪৫"
+},
+{
+"en": "1969",
+"bn": "১৯৬৯"
+},
+{
+"en": "1999",
+"bn": "১৯৯৯"
+},
+{
+"en": "2015",
+"bn": "২০১৫"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The experiment took place in late 1998, and the discovery of element 114 was published in January 1999.",
+"bn": "পরীক্ষাটি ১৯৯৮ সালের শেষের দিকে হয়েছিল এবং ১১৯ তম মৌলের আবিষ্কারটি ১৯৯৯ সালের জানুয়ারিতে প্রকাশিত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Due to the 'inert pair effect', what is the most stable predicted oxidation state of Flerovium in compounds?",
+"bn": "'নিষ্ক্রিয় জোড় প্রভাব'-এর কারণে, যৌগগুলোতে ফ্লেরোভিয়ামের সবচেয়ে স্থিতিশীল অনুমানকৃত জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "-2",
+"bn": "-২"
+},
+{
+"en": "+1",
+"bn": "+১"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like Lead, Flerovium is expected to strongly favor the +2 state because the two 7s electrons are heavily stabilized and reluctant to participate in bonding.",
+"bn": "সীসার মতো, ফ্লেরোভিয়াম দৃঢ়ভাবে +২ অবস্থাকে সমর্থন করবে বলে আশা করা হয় কারণ দুটি 7s ইলেকট্রন অত্যন্ত স্থিতিশীল এবং বন্ধনে অংশ নিতে অনিচ্ছুক।"
+}
+},
+{
+"question": {
+"en": "Which research institute is credited as a co-discoverer of Flerovium alongside JINR?",
+"bn": "JINR-এর পাশাপাশি কোন গবেষণা প্রতিষ্ঠানকে ফ্লেরোভিয়ামের সহ-আবিষ্কারক হিসেবে স্বীকৃতি দেওয়া হয়?"
+},
+"options": [
+{
+"en": "CERN",
+"bn": "CERN"
+},
+{
+"en": "Fermilab",
+"bn": "Fermilab"
+},
+{
+"en": "Lawrence Livermore National Laboratory (LLNL)",
+"bn": "লরেন্স লিভারমোর ন্যাশনাল ল্যাবরেটরি (LLNL)"
+},
+{
+"en": "Oak Ridge National Laboratory",
+"bn": "ওক রিজ ন্যাশনাল ল্যাবরেটরি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The Lawrence Livermore National Laboratory in the USA collaborated with JINR in Russia to synthesize elements 114 and 116.",
+"bn": "মার্কিন যুক্তরাষ্ট্রের লরেন্স লিভারমোর ন্যাশনাল ল্যাবরেটরি রাশিয়ার JINR-এর সাথে সহযোগিতা করে ১১৪ এবং ১১৬ তম মৌল সংশ্লেষণ করেছিল।"
+}
+},
+{
+"question": {
+"en": "What subshell is completely filled in the electron configuration of a Flerovium atom due to spin-orbit splitting?",
+"bn": "স্পিন-অরবিট বিভাজনের কারণে ফ্লেরোভিয়াম পরমাণুর ইলেকট্রন বিন্যাসে কোন সাবশেলটি সম্পূর্ণভাবে পূর্ণ থাকে?"
+},
+"options": [
+{
+"en": "6d",
+"bn": "6d"
+},
+{
+"en": "7p(1/2)",
+"bn": "7p(1/2)"
+},
+{
+"en": "7p(3/2)",
+"bn": "7p(3/2)"
+},
+{
+"en": "8s",
+"bn": "8s"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Spin-orbit splitting divides the 7p subshell. Flerovium's two 7p electrons completely fill the lower energy 7p(1/2) state, providing unusual stability.",
+"bn": "স্পিন-অরবিট বিভাজন 7p সাবশেলকে বিভক্ত করে। ফ্লেরোভিয়ামের দুটি 7p ইলেকট্রন নিম্ন শক্তির 7p(1/2) অবস্থাকে সম্পূর্ণভাবে পূর্ণ করে, যা এটিকে অস্বাভাবিক স্থিতিশীলতা প্রদান করে।"
+}
+},
+{
+"question": {
+"en": "Flerovium-289 decays into which element after alpha emission?",
+"bn": "আলফা নির্গমনের পর ফ্লেরোভিয়াম-২৮৯ কোন মৌলে পরিণত হয়?"
+},
+"options": [
+{
+"en": "Livermorium (116)",
+"bn": "লিভারমোরিয়াম (১১৬)"
+},
+{
+"en": "Copernicium (112)",
+"bn": "কোপার্নিসিয়াম (১১২)"
+},
+{
+"en": "Nihonium (113)",
+"bn": "নিহোনিয়াম (১১৩)"
+},
+{
+"en": "Roentgenium (111)",
+"bn": "রন্টজেনিয়াম (১১১)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "An alpha particle contains 2 protons. Therefore, element 114 minus 2 protons results in element 112, Copernicium.",
+"bn": "একটি আলফা কণাতে ২ টি প্রোটন থাকে। সুতরাং, ১১৪ তম মৌল থেকে ২ টি প্রোটন বিয়োগ করলে ১১২ তম মৌল কোপার্নিসিয়াম পাওয়া যায়।"
+}
+},
+{
+"question": {
+"en": "Which period of the periodic table does Flerovium belong to?",
+"bn": "ফ্লেরোভিয়াম পর্যায় সারণির কোন পর্যায়ের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Period 6",
+"bn": "পর্যায় ৬"
+},
+{
+"en": "Period 7",
+"bn": "পর্যায় ৭"
+},
+{
+"en": "Period 8",
+"bn": "পর্যায় ৮"
+},
+{
+"en": "Actinides",
+"bn": "অ্যাক্টিনাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Flerovium is situated in Period 7, right at the bottom of the current periodic table.",
+"bn": "ফ্লেরোভিয়াম বর্তমান পর্যায় সারণির একেবারে নিচে, পর্যায় ৭-এ অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "What is the approximate half-life of Flerovium's most stable known isotope (Fl-289)?",
+"bn": "ফ্লেরোভিয়ামের সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপের (Fl-289) আনুমানিক অর্ধায়ু কত?"
+},
+"options": [
+{
+"en": "1.9 seconds",
+"bn": "১.৯ সেকেন্ড"
+},
+{
+"en": "5 years",
+"bn": "৫ বছর"
+},
+{
+"en": "10 milliseconds",
+"bn": "১০ মিলি-সেকেন্ড"
+},
+{
+"en": "3 days",
+"bn": "৩ দিন"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Fl-289 has a half-life of roughly 1.9 seconds, which is surprisingly long for a superheavy element, hinting at the Island of Stability.",
+"bn": "Fl-289 এর অর্ধায়ু প্রায় ১.৯ সেকেন্ড, যা একটি অতিভারী মৌলের জন্য আশ্চর্যজনকভাবে দীর্ঘ, যা স্থিতিশীলতার দ্বীপের ইঙ্গিত দেয়।"
+}
+},
+{
+"question": {
+"en": "Before it was officially named Flerovium, what was the provisional IUPAC name for element 114?",
+"bn": "আনুষ্ঠানিকভাবে ফ্লেরোভিয়াম নামকরণ করার আগে, ১১৪ তম মৌলের অস্থায়ী IUPAC নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Ununquadium",
+"bn": "আনআনকোয়াডিয়াম"
+},
+{
+"en": "Ununbium",
+"bn": "আনআনবিয়াম"
+},
+{
+"en": "Eka-Lead",
+"bn": "একা-সীসা"
+},
+{
+"en": "Ununpentium",
+"bn": "আনআনপেন্টিয়াম"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "The systematic element name was Ununquadium (Uuq), derived from Latin and Greek for 'one-one-four'.",
+"bn": "এর নিয়মতান্ত্রিক নাম ছিল আনআনকোয়াডিয়াম (Uuq), যা লাতিন এবং গ্রীক শব্দ 'এক-এক-চার' থেকে এসেছে।"
+}
+},
+{
+"question": {
+"en": "Flerovium is an incredibly rare synthetic element. About how many atoms of it have been created in human history?",
+"bn": "ফ্লেরোভিয়াম একটি অবিশ্বাস্যরকম দুর্লভ কৃত্রিম মৌল। মানব ইতিহাসে এর প্রায় কতগুলো পরমাণু তৈরি হয়েছে?"
+},
+"options": [
+{
+"en": "Less than 100",
+"bn": "১০০ টির কম"
+},
+{
+"en": "About 1 million",
+"bn": "প্রায় ১ মিলিয়ন"
+},
+{
+"en": "A few grams",
+"bn": "কয়েক গ্রাম"
+},
+{
+"en": "Billions",
+"bn": "কোটি কোটি"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Only about 90 atoms of Flerovium have ever been observed across all physics experiments globally.",
+"bn": "বিশ্বব্যাপী সমস্ত পদার্থবিজ্ঞানের পরীক্ষা জুড়ে এখন পর্যন্ত ফ্লেরোভিয়ামের প্রায় ৯০টি পরমাণু পর্যবেক্ষণ করা হয়েছে।"
+}
+},
+{
+"question": {
+"en": "What state of matter is Flerovium theoretically predicted to be at standard room temperature?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় ফ্লেরোভিয়াম তাত্ত্বিকভাবে কোন অবস্থায় থাকবে বলে অনুমান করা হয়?"
+},
+"options": [
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "A highly volatile solid or gas",
+"bn": "একটি অত্যন্ত উদ্বায়ী কঠিন বা গ্যাস"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "A super-hard crystal",
+"bn": "একটি অতি-কঠিন স্ফটিক"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Due to its predicted weak intermolecular forces, it might be a gas or a very easily melted volatile metal at room temperature.",
+"bn": "এর অনুমানকৃত দুর্বল আন্তঃআণবিক শক্তির কারণে, কক্ষ তাপমাত্রায় এটি একটি গ্যাস বা খুব সহজে গলে যাওয়া উদ্বায়ী ধাতু হতে পারে।"
+}
+},
+{
+"question": {
+"en": "How many valence electrons does a Flerovium atom have in its outermost shell?",
+"bn": "একটি ফ্লেরোভিয়াম পরমাণুর সবচেয়ে বাইরের শেলে কয়টি যোজ্যতা ইলেকট্রন থাকে?"
+},
+"options": [
+{
+"en": "2",
+"bn": "২"
+},
+{
+"en": "4",
+"bn": "৪"
+},
+{
+"en": "8",
+"bn": "৮"
+},
+{
+"en": "14",
+"bn": "১৪"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "As a Group 14 element, it possesses 4 valence electrons (7s² 7p²), though the 7s and 7p electrons behave very differently.",
+"bn": "গ্রুপ ১৪ এর মৌল হিসেবে এর ৪টি যোজ্যতা ইলেকট্রন রয়েছে (7s² 7p²), যদিও 7s এবং 7p ইলেকট্রনগুলো সম্পূর্ণ ভিন্নভাবে আচরণ করে।"
+}
+},
+{
+"question": {
+"en": "Which block of the periodic table contains Flerovium?",
+"bn": "পর্যায় সারণির কোন ব্লকে ফ্লেরোভিয়াম রয়েছে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "s-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "p-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "d-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "f-ব্লক"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It is in the p-block, specifically adding its outermost electrons to the 7p subshell.",
+"bn": "এটি p-ব্লকে রয়েছে, বিশেষ করে এর সর্ববহিঃস্থ ইলেকট্রনগুলো 7p সাবশেলে যুক্ত হয়।"
+}
+},
+{
+"question": {
+"en": "Flerovium is an artificial element, meaning it is not found naturally on Earth. What classification does it fall under?",
+"bn": "ফ্লেরোভিয়াম একটি কৃত্রিম মৌল, অর্থাৎ এটি পৃথিবীতে প্রাকৃতিকভাবে পাওয়া যায় না। এটি কোন শ্রেণীবিভাগের আওতায় পড়ে?"
+},
+"options": [
+{
+"en": "Primordial element",
+"bn": "আদিম মৌল"
+},
+{
+"en": "Cosmogenic element",
+"bn": "কসমোজেনিক মৌল"
+},
+{
+"en": "Synthetic superheavy element",
+"bn": "কৃত্রিম অতিভারী মৌল"
+},
+{
+"en": "Transitional primordial",
+"bn": "ট্রানজিশনাল আদিম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It is classified as a synthetic superheavy element (or transactinide), created only inside specialized particle accelerators.",
+"bn": "একে একটি কৃত্রিম অতিভারী মৌল (বা ট্রান্সঅ্যাক্টিনাইড) হিসাবে শ্রেণীবদ্ধ করা হয়, যা শুধুমাত্র বিশেষায়িত পার্টিকেল এক্সিলারেটরের ভেতরে তৈরি করা হয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Flerovium acts exactly like Lead because it is in the same group.",
+"bn": "ফ্লেরোভিয়াম ঠিক সীসার মতোই কাজ করে কারণ এটি একই গ্রুপে রয়েছে।"
+},
+{
+"en": "Superheavy elements have practical industrial applications.",
+"bn": "অতিভারী মৌলগুলির বাস্তব শিল্প প্রয়োগ রয়েছে।"
+}
+],
+"learningTips": [
+{
+"en": "Think of Flerovium as a 'heavy, noble-gas-like metal'. Relativistic effects twist the normal rules of chemistry for these superheavy elements.",
+"bn": "ফ্লেরোভিয়ামকে একটি 'ভারী, নিষ্ক্রিয়-গ্যাসের মতো ধাতু' হিসাবে ভাবুন। আপেক্ষিক প্রভাবগুলি এই অতিভারী মৌলগুলির জন্য রসায়নের স্বাভাবিক নিয়মগুলোকে বদলে দেয়।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "²⁴⁴Pu + ⁴⁸Ca → ²⁸⁹Fl + 3 ¹n",
+"description": {
+"en": "Nuclear fusion reaction synthesizing Flerovium-289 by bombarding Plutonium with Calcium.",
+"bn": "ক্যালসিয়াম দিয়ে প্লুটোনিয়ামে আঘাত করে ফ্লেরোভিয়াম-২৮৯ সংশ্লেষণের পারমাণবিক ফিউশন বিক্রিয়া।"
+}
+},
+{
+"equation": "²⁸⁹Fl → ²⁸⁵Cn + α",
+"description": {
+"en": "Alpha decay of Flerovium-289 into Copernicium-285.",
+"bn": "ফ্লেরোভিয়াম-২৮৯ এর আলফা ক্ষয়ের মাধ্যমে কোপার্নিসিয়াম-২৮৫ এ রূপান্তর।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Fl → Fl²⁺ + 2e⁻",
+"description": {
+"en": "Theoretical oxidation of Flerovium to its most predicted stable +2 state.",
+"bn": "ফ্লেরোভিয়ামের জারণ হয়ে এর সবচেয়ে প্রত্যাশিত স্থিতিশীল +২ অবস্থায় তাত্ত্বিক রূপান্তর।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Fl²⁺ + 2e⁻ → Fl",
+"description": {
+"en": "Theoretical reduction of Flerovium(II) ions back to elemental Flerovium.",
+"bn": "ফ্লেরোভিয়াম(II) আয়নের পুনরায় মৌলিক ফ্লেরোভিয়ামে তাত্ত্বিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Polar Covalent Bond (Predicted)",
+"bn": "পোলার সমযোজী বন্ধন (অনুমানকৃত)"
+},
+"molecule": "FlCl₂",
+"description": {
+"en": "Flerovium is predicted to form FlCl₂ rather than FlCl₄ due to the strong relativistic inert pair effect on the 7s electrons.",
+"bn": "7s ইলেকট্রনের ওপর শক্তিশালী আপেক্ষিক নিষ্ক্রিয় জোড় প্রভাবের কারণে ফ্লেরোভিয়াম FlCl₄ এর পরিবর্তে FlCl₂ গঠন করবে বলে ধারণা করা হয়।"
+}
+}
+]
+}
+}

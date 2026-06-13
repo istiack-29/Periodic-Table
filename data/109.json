@@ -1,0 +1,978 @@
+{
+"elementId": 109,
+"basicInformation": {
+"atomicNumber": 109,
+"symbol": "Mt",
+"name": {
+"en": "Meitnerium",
+"bn": "মেইটনেরিয়াম"
+},
+"pronunciation": {
+"en": "/maɪtˈnɪəriəm/",
+"bn": "মাইটনেরিয়াম"
+},
+"atomicMass": 278.0,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 9,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (Predicted)",
+"bn": "কঠিন (আনুমানিক)"
+},
+"appearance": {
+"en": "Silvery metallic (Predicted)",
+"bn": "রূপালি ধাতব (আনুমানিক)"
+},
+"color": {
+"en": "Silver (Predicted)",
+"bn": "রূপালি (আনুমানিক)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Peter Armbruster, Gottfried Münzenberg, and the GSI team",
+"bn": "পিটার আর্মব্রাস্টার, গটফ্রিড মুনজেনবার্গ এবং জিএসআই (GSI) দল"
+},
+"discoveryYear": 1982,
+"discoveryLocation": {
+"en": "Darmstadt, Germany",
+"bn": "ডার্মস্ট্যাড, জার্মানি"
+},
+"discoveryStory": {
+"en": "First synthesized at the GSI Helmholtz Centre for Heavy Ion Research by bombarding a target of bismuth-209 with accelerated nuclei of iron-58. It was named in honor of Lise Meitner, a pioneer in radioactivity and nuclear fission.",
+"bn": "জিএসআই হেলমহোল্টজ সেন্টারে আয়রন-৫৮ এর ত্বরান্বিত নিউক্লিয়াস দ্বারা বিসমাথ-২০৯ এর একটি লক্ষ্যবস্তুকে বোমাবর্ষণের মাধ্যমে প্রথম সংশ্লেষিত হয়েছিল। তেজস্ক্রিয়তা এবং পারমাণবিক ফিউশনের অগ্রদূত লিসা মেইটনারের সম্মানে এর নামকরণ করা হয়েছিল।"
+},
+"historicalUses": {
+"en": "No historical uses outside of fundamental nuclear physics research due to its extreme instability.",
+"bn": "অত্যন্ত অস্থিতিশীলতার কারণে মৌলিক পারমাণবিক পদার্থবিদ্যা গবেষণার বাইরে এর কোনো ঐতিহাসিক ব্যবহার নেই।"
+},
+"famousExperiments": {
+"en": "The successful creation of a single atom of meitnerium-266, which decayed after just 5 milliseconds, marking a breakthrough in cold fusion techniques.",
+"bn": "মেইটনেরিয়াম-২৬৬ এর একটি মাত্র পরমাণুর সফল সৃষ্টি, যা মাত্র ৫ মিলিসেকেন্ডের পরে ক্ষয়প্রাপ্ত হয়, এটি কোল্ড ফিউশন কৌশলে একটি যুগান্তকারী পদক্ষেপ।"
+}
+},
+"atomicStructure": {
+"protons": 109,
+"neutrons": 169,
+"electrons": 109,
+"valenceElectrons": 9,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 15, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d⁷ 7s²",
+"orbitalConfiguration": {
+"7s": 2,
+"6d": 7,
+"5f": 14
+},
+"oxidationStates": [9, 8, 6, 4, 3, 1],
+"quantumNumbers": {
+"principal": 6,
+"azimuthal": 2,
+"magnetic": -1,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 37.4,
+"unit": "g/cm³ (Predicted)"
+},
+"meltingPoint": {
+"value": null,
+"unit": "K"
+},
+"boilingPoint": {
+"value": null,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 128,
+"unit": "pm (Predicted)"
+},
+"covalentRadius": {
+"value": 129,
+"unit": "pm (Predicted)"
+},
+"vanDerWaalsRadius": {
+"value": null,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": null,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": null,
+"specificHeat": {
+"value": null,
+"unit": "J/(g·K)"
+},
+"hardness": null,
+"crystalStructure": {
+"en": "Face-centered cubic (Predicted)",
+"bn": "ফেস-সেন্টার্ড কিউবিক (আনুমানিক)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (Predicted)",
+"bn": "প্যারাম্যাগনেটিক (আনুমানিক)"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 800.8,
+"unit": "kJ/mol (Predicted)"
+},
+"electronAffinity": {
+"value": null,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Predicted to be a noble metal, similar to iridium, exhibiting high resistance to corrosion and oxidation.",
+"bn": "ইরিডিয়ামের মতো একটি নোবেল ধাতু হিসাবে ধারণা করা হয়, যা ক্ষয় এবং জারণের প্রতি উচ্চ প্রতিরোধ প্রদর্শন করবে।"
+},
+"commonCompounds": ["MtF₆", "MtO₂"],
+"flameTestColor": {
+"en": "Unknown",
+"bn": "অজানা"
+},
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Exists only in minute quantities for a fraction of a second.",
+"bn": "নেই। শুধুমাত্র এক সেকেন্ডের ভগ্নাংশের জন্য অতি ক্ষুদ্র পরিমাণে বিদ্যমান থাকে।"
+},
+"commercialUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"electronicsUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"semiconductorUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"aerospaceUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"aiHardwareUses": {
+"en": "Currently none; strictly limited to highly specialized quantum and nuclear simulations.",
+"bn": "বর্তমানে নেই; কঠোরভাবে শুধুমাত্র উচ্চ বিশেষায়িত কোয়ান্টাম এবং পারমাণবিক সিমুলেশনের মধ্যে সীমাবদ্ধ।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"nanotechnologyUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"nuclearUses": {
+"en": "Studied extensively in nuclear physics to map the limits of atomic mass and stability.",
+"bn": "পারমাণবিক ভর এবং স্থিতিশীলতার সীমা ম্যাপ করতে পারমাণবিক পদার্থবিজ্ঞানে ব্যাপকভাবে অধ্যয়ন করা হয়।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"medicalUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "নেই।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No known biological role. It is entirely synthetic.",
+"bn": "কোনো পরিচিত জৈবিক ভূমিকা নেই। এটি সম্পূর্ণ কৃত্রিম।"
+},
+"humanBodyRole": {
+"en": "Absent from the human body.",
+"bn": "মানবদেহে অনুপস্থিত।"
+},
+"toxicity": {
+"en": "Highly toxic due to extreme radiation, though practically impossible to encounter.",
+"bn": "চরম বিকিরণের কারণে অত্যন্ত বিষাক্ত, যদিও এর সম্মুখীন হওয়া কার্যত অসম্ভব।"
+},
+"environmentalImpact": {
+"en": "No environmental impact as it does not exist in nature and decays almost instantly upon creation.",
+"bn": "পরিবেশগত কোনো প্রভাব নেই কারণ এটি প্রকৃতিতে বিদ্যমান নেই এবং তৈরির প্রায় সাথে সাথেই ক্ষয়প্রাপ্ত হয়।"
+},
+"pollutionRisks": {
+"en": "Zero risk under normal circumstances. Laboratory containment manages the microscopic amounts synthesized.",
+"bn": "স্বাভাবিক পরিস্থিতিতে শূন্য ঝুঁকি। পরীক্ষাগারের নিয়ন্ত্রণ ব্যবস্থা সংশ্লেষিত অতি ক্ষুদ্র পরিমাণ পরিচালনা করে।"
+},
+"recyclingMethods": {
+"en": "Not applicable. Transmutes rapidly into lighter elements via alpha decay.",
+"bn": "প্রযোজ্য নয়। আলফা ক্ষয়ের মাধ্যমে দ্রুত হালকা উপাদানগুলিতে রূপান্তরিত হয়।"
+},
+"sustainabilityScore": 0.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+},
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Synthesized in particle accelerators via heavy ion fusion.",
+"bn": "খনি থেকে উত্তোলন করা যায় না। ভারী আয়ন ফিউশনের মাধ্যমে পার্টিকেল এক্সিলারেটরে সংশ্লেষিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not commercially available. Priceless in terms of scientific research costs.",
+"bn": "বাণিজ্যিকভাবে উপলব্ধ নয়। বৈজ্ঞানিক গবেষণার খরচের দিক থেকে অমূল্য।"
+},
+"futureDemand": {
+"en": "Demand is strictly academic for theoretical chemistry and nuclear modeling.",
+"bn": "তাত্ত্বিক রসায়ন এবং পারমাণবিক মডেলিংয়ের জন্য চাহিদা কঠোরভাবে একাডেমিক।"
+},
+"globalImportance": {
+"en": "Important for honoring the contributions of female scientists and expanding the periodic table.",
+"bn": "নারী বিজ্ঞানীদের অবদানকে সম্মান জানাতে এবং পর্যায় সারণী প্রসারিত করার জন্য গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiological hazard. Emits high-energy alpha particles and gamma radiation during rapid decay.",
+"bn": "চরম রেডিওলজিক্যাল বিপদ। দ্রুত ক্ষয়ের সময় উচ্চ-শক্তির আলফা কণা এবং গামা বিকিরণ নির্গত করে।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Decays within seconds or fractions of a second.",
+"bn": "সংরক্ষণ করা যায় না। কয়েক সেকেন্ড বা সেকেন্ডের ভগ্নাংশের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+},
+"handlingProcedures": {
+"en": "Handled autonomously by robotic sensors and detectors within heavy-ion collision chambers.",
+"bn": "ভারী-আয়ন সংঘর্ষ চেম্বারের মধ্যে রোবোটিক সেন্সর এবং ডিটেক্টর দ্বারা স্বয়ংক্রিয়ভাবে পরিচালিত হয়।"
+},
+"exposureRisks": {
+"en": "Severe acute radiation syndrome if macro-quantities could hypothetically exist.",
+"bn": "যদি তাত্ত্বিকভাবে ম্যাক্রো-পরিমাণে অস্তিত্ব থাকে, তবে গুরুতর তীব্র বিকিরণ সিনড্রোম হতে পারে।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Meitnerium is a superheavy, human-made element named after the famous scientist Lise Meitner. It only exists for a tiny fraction of a second before breaking apart.",
+"bn": "মেইটনেরিয়াম হলো একটি অতিভারী, মানবসৃষ্ট উপাদান যার নামকরণ করা হয়েছে বিখ্যাত বিজ্ঞানী লিসা মেইটনারের নামে। ভেঙে যাওয়ার আগে এটি কেবল এক সেকেন্ডের অতি ক্ষুদ্র ভগ্নাংশের জন্য বিদ্যমান থাকে।"
+},
+"advancedExplanation": {
+"en": "Meitnerium is element 109, a synthetic transactinide in Group 9. It is expected to share chemical properties with its lighter homologue, iridium. Due to its incredibly short half-life, bulk chemical properties remain purely theoretical, predicted largely via relativistic quantum chemistry.",
+"bn": "মেইটনেরিয়াম হলো ১০৯ নম্বর উপাদান, যা গ্রুপ ৯-এর একটি কৃত্রিম ট্রান্সঅ্যাক্টিনাইড। এটি এর হালকা সমতুল্য ইরিডিয়ামের সাথে রাসায়নিক বৈশিষ্ট্যগুলি ভাগ করবে বলে আশা করা হয়। এর অবিশ্বাস্যভাবে সংক্ষিপ্ত অর্ধায়ুর কারণে, প্রচুর পরিমাণের রাসায়নিক বৈশিষ্ট্যগুলি সম্পূর্ণ তাত্ত্বিক থেকে যায়, যা মূলত আপেক্ষিক কোয়ান্টাম রসায়নের মাধ্যমে অনুমান করা হয়।"
+},
+"funFacts": [
+{
+"en": "Meitnerium is the only element named specifically after a non-mythological woman (Lise Meitner).",
+"bn": "মেইটনেরিয়াম হলো একমাত্র উপাদান যার নামকরণ করা হয়েছে বিশেষভাবে একজন অ-পৌরাণিক নারীর (লিসা মেইটনার) নামে।"
+},
+{
+"en": "The first synthesis of Meitnerium produced exactly ONE atom.",
+"bn": "মেইটনেরিয়ামের প্রথম সংশ্লেষণটি ঠিক একটি মাত্র পরমাণু তৈরি করেছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 77,
+"relation": {
+"en": "Meitnerium is the heavier homologue of Iridium. Both are predicted to be extremely hard, dense, and noble transition metals.",
+"bn": "মেইটনেরিয়াম হলো ইরিডিয়ামের ভারী সমতুল্য। উভয়ই অত্যন্ত শক্ত, ঘন এবং নোবেল অবস্থান্তর ধাতু হবে বলে ধারণা করা হয়।"
+}
+}
+],
+"relatedElements": [77, 45, 27, 108, 110],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Meitnerium?",
+"bn": "মেইটনেরিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "109",
+"bn": "১০৯"
+},
+{
+"en": "108",
+"bn": "১০৮"
+},
+{
+"en": "110",
+"bn": "১১০"
+},
+{
+"en": "107",
+"bn": "১০৭"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Meitnerium has 109 protons, making it element number 109.",
+"bn": "মেইটনেরিয়ামের ১০৯টি প্রোটন রয়েছে, যা এটিকে ১০৯ নম্বর উপাদানে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "Who is Meitnerium named after?",
+"bn": "মেইটনেরিয়ামের নামকরণ কার নামে করা হয়েছে?"
+},
+"options": [
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+},
+{
+"en": "Lise Meitner",
+"bn": "লিসা মেইটনার"
+},
+{
+"en": "Albert Einstein",
+"bn": "আলবার্ট আইনস্টাইন"
+},
+{
+"en": "Dmitri Mendeleev",
+"bn": "দিমিত্রি মেন্ডেলিভ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It was named in honor of Austrian physicist Lise Meitner, a co-discoverer of nuclear fission.",
+"bn": "পারমাণবিক বিভাজনের সহ-আবিষ্কারক অস্ট্রিয়ান পদার্থবিজ্ঞানী লিসা মেইটনারের সম্মানে এর নামকরণ করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "In which group of the periodic table is Meitnerium located?",
+"bn": "পর্যায় সারণীর কোন গ্রুপে মেইটনেরিয়াম অবস্থিত?"
+},
+"options": [
+{
+"en": "Group 7",
+"bn": "গ্রুপ ৭"
+},
+{
+"en": "Group 8",
+"bn": "গ্রুপ ৮"
+},
+{
+"en": "Group 9",
+"bn": "গ্রুপ ৯"
+},
+{
+"en": "Group 10",
+"bn": "গ্রুপ ১০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Meitnerium is located in Group 9, directly below Cobalt, Rhodium, and Iridium.",
+"bn": "মেইটনেরিয়াম গ্রুপ ৯-এ অবস্থিত, যা কোবাল্ট, রোডিয়াম এবং ইরিডিয়ামের ঠিক নিচে অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "What is the lighter homologue of Meitnerium, expected to share similar chemical properties?",
+"bn": "মেইটনেরিয়ামের হালকা সমতুল্য উপাদান কোনটি, যা অনুরূপ রাসায়নিক বৈশিষ্ট্যগুলি ভাগ করবে বলে আশা করা হয়?"
+},
+"options": [
+{
+"en": "Osmium",
+"bn": "অসমিয়াম"
+},
+{
+"en": "Iridium",
+"bn": "ইরিডিয়াম"
+},
+{
+"en": "Platinum",
+"bn": "প্ল্যাটিনাম"
+},
+{
+"en": "Gold",
+"bn": "সোনা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Iridium is directly above Meitnerium in Group 9, meaning they belong to the same chemical family.",
+"bn": "ইরিডিয়াম গ্রুপ ৯-এ মেইটনেরিয়ামের ঠিক উপরে রয়েছে, যার অর্থ তারা একই রাসায়নিক পরিবারের অন্তর্গত।"
+}
+},
+{
+"question": {
+"en": "Where was Meitnerium first synthesized?",
+"bn": "কোথায় মেইটনেরিয়াম প্রথম সংশ্লেষিত হয়েছিল?"
+},
+"options": [
+{
+"en": "CERN, Switzerland",
+"bn": "সার্ন, সুইজারল্যান্ড"
+},
+{
+"en": "Fermilab, USA",
+"bn": "ফার্মিল্যাব, মার্কিন যুক্তরাষ্ট্র"
+},
+{
+"en": "GSI, Germany",
+"bn": "জিএসআই, জার্মানি"
+},
+{
+"en": "JINR, Russia",
+"bn": "জেআইএনআর, রাশিয়া"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It was discovered at the GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany.",
+"bn": "এটি জার্মানির ডার্মস্ট্যাডে জিএসআই হেলমহোল্টজ সেন্টারে আবিষ্কৃত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Which two elements were fused together to create the first atom of Meitnerium?",
+"bn": "মেইটনেরিয়ামের প্রথম পরমাণু তৈরি করতে কোন দুটি উপাদানকে একত্রিত করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Lead and Nickel",
+"bn": "সীসা এবং নিকেল"
+},
+{
+"en": "Bismuth and Iron",
+"bn": "বিসমাথ এবং আয়রন"
+},
+{
+"en": "Uranium and Carbon",
+"bn": "ইউরেনিয়াম এবং কার্বন"
+},
+{
+"en": "Plutonium and Calcium",
+"bn": "প্লুটোনিয়াম এবং ক্যালসিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "A target of Bismuth-209 was bombarded with Iron-58 nuclei to create Meitnerium-266.",
+"bn": "মেইটনেরিয়াম-২৬৬ তৈরি করতে বিসমাথ-২০৯ এর একটি লক্ষ্যবস্তুকে আয়রন-৫৮ নিউক্লিয়াস দ্বারা বোমাবর্ষণ করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "In what year was Meitnerium officially discovered?",
+"bn": "মেইটনেরিয়াম আনুষ্ঠানিকভাবে কোন সালে আবিষ্কৃত হয়?"
+},
+"options": [
+{
+"en": "1974",
+"bn": "১৯৭৪"
+},
+{
+"en": "1982",
+"bn": "১৯৮২"
+},
+{
+"en": "1994",
+"bn": "১৯৯৪"
+},
+{
+"en": "2006",
+"bn": "২০০৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The single atom of Meitnerium-266 was detected on August 29, 1982.",
+"bn": "২৯ আগস্ট, ১৯৮২ সালে মেইটনেরিয়াম-২৬৬ এর একটিমাত্র পরমাণু শনাক্ত করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What is the expected state of matter of Meitnerium at room temperature?",
+"bn": "কক্ষ তাপমাত্রায় মেইটনেরিয়ামের প্রত্যাশিত পদার্থের অবস্থা কী?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like other transition metals in the d-block, Meitnerium is predicted to be a solid.",
+"bn": "ডি-ব্লকের অন্যান্য অবস্থান্তর ধাতুগুলির মতো, মেইটনেরিয়ামও কঠিন হবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "Lise Meitner, the namesake of element 109, is primarily famous for her work in which field?",
+"bn": "১০৯ নম্বর উপাদানের নাম যার নামে, সেই লিসা মেইটনার মূলত কোন ক্ষেত্রে তার কাজের জন্য বিখ্যাত?"
+},
+"options": [
+{
+"en": "Quantum Electrodynamics",
+"bn": "কোয়ান্টাম ইলেক্ট্রোডাইনামিক্স"
+},
+{
+"en": "Nuclear Fission",
+"bn": "পারমাণবিক বিভাজন"
+},
+{
+"en": "String Theory",
+"bn": "স্ট্রিং থিওরি"
+},
+{
+"en": "Organic Chemistry",
+"bn": "জৈব রসায়ন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Lise Meitner provided the first theoretical explanation of nuclear fission.",
+"bn": "লিসা মেইটনার পারমাণবিক বিভাজনের প্রথম তাত্ত্বিক ব্যাখ্যা দিয়েছিলেন।"
+}
+},
+{
+"question": {
+"en": "What is the primary mode of decay for Meitnerium isotopes?",
+"bn": "মেইটনেরিয়াম আইসোটোপের ক্ষয়ের প্রাথমিক রূপ কোনটি?"
+},
+"options": [
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Gamma emission",
+"bn": "গামা নির্গমন"
+},
+{
+"en": "Alpha decay",
+"bn": "আলফা ক্ষয়"
+},
+{
+"en": "Positron emission",
+"bn": "পজিট্রন নির্গমন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a superheavy synthetic element, Meitnerium primarily undergoes alpha decay into Bohrium.",
+"bn": "একটি অতিভারী কৃত্রিম উপাদান হিসাবে, মেইটনেরিয়াম প্রাথমিকভাবে বোরিয়ামে রূপান্তরিত হতে আলফা ক্ষয়ের মধ্য দিয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "What was the temporary IUPAC systematic name for element 109 before it was officially named Meitnerium?",
+"bn": "আনুষ্ঠানিকভাবে মেইটনেরিয়াম নামকরণ করার আগে ১০৯ নম্বর উপাদানের অস্থায়ী IUPAC পদ্ধতিগত নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Unnilennium",
+"bn": "আননিলেনিয়াম"
+},
+{
+"en": "Ununoctium",
+"bn": "আনুনঅক্টিয়াম"
+},
+{
+"en": "Ununnilium",
+"bn": "আনাননিলিয়াম"
+},
+{
+"en": "Eka-Iridium",
+"bn": "একা-ইরিডিয়াম"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Based on IUPAC nomenclature rules for unnamed elements, 1-0-9 translates to Un-nil-enn-ium.",
+"bn": "নামহীন উপাদানগুলির জন্য IUPAC নামকরণের নিয়মের ওপর ভিত্তি করে, ১-০-৯ এর অনুবাদ আন-নিল-এন-িয়াম।"
+}
+},
+{
+"question": {
+"en": "What is the expected density of Meitnerium compared to water?",
+"bn": "জলের তুলনায় মেইটনেরিয়ামের প্রত্যাশিত ঘনত্ব কত?"
+},
+"options": [
+{
+"en": "Roughly equal to water",
+"bn": "মোটামুটি জলের সমান"
+},
+{
+"en": "Around 10 times denser",
+"bn": "প্রায় ১০ গুণ ঘন"
+},
+{
+"en": "Over 37 times denser",
+"bn": "৩৭ গুণেরও বেশি ঘন"
+},
+{
+"en": "Less dense than water",
+"bn": "জলের চেয়ে কম ঘন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Theoretical calculations suggest Meitnerium has an incredibly high density of ~37.4 g/cm³, making it over 37 times denser than water.",
+"bn": "তাত্ত্বিক গণনা থেকে ধারণা করা হয় যে মেইটনেরিয়ামের ঘনত্ব অবিশ্বাস্যভাবে উচ্চ, প্রায় ~৩৭.৪ g/cm³, যা এটিকে জলের চেয়ে ৩৭ গুণেরও বেশি ঘন করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Why is Meitnerium not used in commercial applications?",
+"bn": "মেইটনেরিয়াম বাণিজ্যিক প্রয়োগে কেন ব্যবহৃত হয় না?"
+},
+"options": [
+{
+"en": "It is too expensive to mine",
+"bn": "এটি খনি থেকে উত্তোলন করা খুব ব্যয়বহুল"
+},
+{
+"en": "It rusts instantly in air",
+"bn": "এটি বাতাসে সাথে সাথে মরিচা ধরে"
+},
+{
+"en": "It only exists for fractions of a second",
+"bn": "এটি শুধুমাত্র এক সেকেন্ডের ভগ্নাংশের জন্য বিদ্যমান থাকে"
+},
+{
+"en": "It has poor electrical conductivity",
+"bn": "এর দুর্বল বৈদ্যুতিক পরিবাহিতা রয়েছে"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Its extreme instability means it decays before it can be used for anything outside of atomic research.",
+"bn": "এর চরম অস্থিতিশীলতার অর্থ হলো পারমাণবিক গবেষণার বাইরে কোনো কিছুর জন্য ব্যবহার করার আগেই এটি ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "How many valence electrons does Meitnerium possess?",
+"bn": "মেইটনেরিয়ামের কয়টি যোজনী ইলেকট্রন রয়েছে?"
+},
+"options": [
+{
+"en": "7",
+"bn": "৭"
+},
+{
+"en": "8",
+"bn": "৮"
+},
+{
+"en": "9",
+"bn": "৯"
+},
+{
+"en": "10",
+"bn": "১০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a Group 9 element, it possesses 9 valence electrons (configuration ending in 6d⁷ 7s²).",
+"bn": "গ্রুপ ৯-এর একটি উপাদান হিসেবে, এর ৯টি যোজনী ইলেকট্রন রয়েছে (৬ডি৭ ৭এস২-তে কনফিগারেশন শেষ হয়)।"
+}
+},
+{
+"question": {
+"en": "If observable, what is the predicted crystal structure of Meitnerium?",
+"bn": "যদি পর্যবেক্ষণযোগ্য হয়, তবে মেইটনেরিয়ামের প্রত্যাশিত স্ফটিক কাঠামো কী?"
+},
+"options": [
+{
+"en": "Simple cubic",
+"bn": "সিম্পল কিউবিক"
+},
+{
+"en": "Body-centered cubic",
+"bn": "বডি-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Face-centered cubic",
+"bn": "ফেস-সেন্টার্ড কিউবিক"
+},
+{
+"en": "Hexagonal close-packed",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Following the trend of its homologue Iridium, it is predicted to crystalize in a face-centered cubic structure.",
+"bn": "এর সমতুল্য ইরিডিয়ামের প্রবণতা অনুসরণ করে, এটি একটি ফেস-সেন্টার্ড কিউবিক কাঠামোতে স্ফটিকীভূত হবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the expected chemical reactivity of Meitnerium?",
+"bn": "মেইটনেরিয়ামের প্রত্যাশিত রাসায়নিক প্রতিক্রিয়াশীলতা কী?"
+},
+"options": [
+{
+"en": "Highly reactive with water",
+"bn": "জলের সাথে অত্যন্ত প্রতিক্রিয়াশীল"
+},
+{
+"en": "A noble metal, highly resistant to corrosion",
+"bn": "একটি নোবেল ধাতু, ক্ষয়ের প্রতি অত্যন্ত প্রতিরোধী"
+},
+{
+"en": "Extremely flammable in oxygen",
+"bn": "অক্সিজেনে অত্যন্ত দাহ্য"
+},
+{
+"en": "Inert gas behavior",
+"bn": "নিষ্ক্রিয় গ্যাসের আচরণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like Iridium, it is expected to be a noble transition metal that naturally resists oxidation.",
+"bn": "ইরিডিয়ামের মতো, এটি একটি নোবেল অবস্থান্তর ধাতু হবে বলে ধারণা করা হয় যা প্রাকৃতিকভাবে জারণ প্রতিরোধ করে।"
+}
+},
+{
+"question": {
+"en": "What environmental impact does Meitnerium have?",
+"bn": "মেইটনেরিয়ামের পরিবেশগত প্রভাব কী?"
+},
+"options": [
+{
+"en": "Causes severe ozone depletion",
+"bn": "গুরুতর ওজোন হ্রাসের কারণ"
+},
+{
+"en": "Pollutes groundwater",
+"bn": "ভূগর্ভস্থ জল দূষিত করে"
+},
+{
+"en": "Emits greenhouse gases",
+"bn": "গ্রিনহাউস গ্যাস নির্গত করে"
+},
+{
+"en": "None, as it does not exist naturally",
+"bn": "কিছুই না, কারণ এটি প্রাকৃতিকভাবে বিদ্যমান নেই"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Since Meitnerium is entirely synthetic and decays almost instantly, it poses zero environmental risk.",
+"bn": "যেহেতু মেইটনেরিয়াম সম্পূর্ণ কৃত্রিম এবং প্রায় সাথে সাথেই ক্ষয়প্রাপ্ত হয়, তাই এটি পরিবেশগত শূন্য ঝুঁকি তৈরি করে।"
+}
+},
+{
+"question": {
+"en": "What block of the periodic table does Meitnerium reside in?",
+"bn": "মেইটনেরিয়াম পর্যায় সারণির কোন ব্লকে অবস্থান করে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক (s-block)"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক (p-block)"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক (d-block)"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক (f-block)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Meitnerium is a transition metal, placing it firmly in the d-block of the periodic table.",
+"bn": "মেইটনেরিয়াম একটি অবস্থান্তর ধাতু, যা এটিকে পর্যায় সারণীর ডি-ব্লকে দৃঢ়ভাবে স্থাপন করে।"
+}
+},
+{
+"question": {
+"en": "How many naturally occurring isotopes of Meitnerium exist?",
+"bn": "প্রকৃতিতে মেইটনেরিয়ামের কয়টি আইসোটোপ বিদ্যমান?"
+},
+"options": [
+{
+"en": "Zero",
+"bn": "শূন্য"
+},
+{
+"en": "One",
+"bn": "একটি"
+},
+{
+"en": "Two",
+"bn": "দুটি"
+},
+{
+"en": "Ten",
+"bn": "দশটি"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Meitnerium cannot be found in nature; all known isotopes are artificially synthesized in labs.",
+"bn": "প্রকৃতিতে মেইটনেরিয়াম পাওয়া যায় না; সমস্ত পরিচিত আইসোটোপ কৃত্রিমভাবে পরীক্ষাগারে সংশ্লেষিত হয়।"
+}
+},
+{
+"question": {
+"en": "Which of the following predicted oxidation states is expected to be stable for Meitnerium, similar to Iridium?",
+"bn": "ইরিডিয়ামের মতো, নিচের কোন প্রত্যাশিত জারণ অবস্থাটি মেইটনেরিয়ামের জন্য স্থিতিশীল হবে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "-2",
+"bn": "-২"
+},
+{
+"en": "+9",
+"bn": "+৯"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like Iridium, the +3 (as well as +4 and +6) oxidation states are expected to be the most stable for Meitnerium.",
+"bn": "ইরিডিয়ামের মতো, মেইটনেরিয়ামের জন্য +৩ (পাশাপাশি +৪ এবং +৬) জারণ অবস্থাকে সবচেয়ে স্থিতিশীল বলে আশা করা হয়।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Meitnerium was discovered by Lise Meitner.",
+"bn": "মেইটনেরিয়াম আবিষ্কার করেছেন লিসা মেইটনার।"
+},
+{
+"en": "Scientists can create large blocks of Meitnerium to study.",
+"bn": "বিজ্ঞানীরা অধ্যয়নের জন্য মেইটনেরিয়ামের বড় ব্লক তৈরি করতে পারেন।"
+}
+],
+"learningTips": [
+{
+"en": "Remember that elements 104 through 118 are synthetic superheavy elements that usually last only for milliseconds.",
+"bn": "মনে রাখবেন যে ১০৪ থেকে ১১৮ নম্বর উপাদানগুলি হলো কৃত্রিম অতিভারী উপাদান যা সাধারণত কেবল মিলিসেকেন্ডের জন্য স্থায়ী হয়।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Mt + 3F₂ → MtF₆",
+"description": {
+"en": "Theoretical formation of Meitnerium hexafluoride, similar to Iridium's reaction with fluorine.",
+"bn": "ইরিডিয়ামের ফ্লোরিনের সাথে প্রতিক্রিয়ার মতো, তাত্ত্বিকভাবে মেইটনেরিয়াম হেক্সাফ্লুরাইড গঠন।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Mt → Mt³⁺ + 3e⁻",
+"description": {
+"en": "Theoretical oxidation of Meitnerium to its most expected stable +3 state.",
+"bn": "মেইটনেরিয়ামকে তার সবচেয়ে প্রত্যাশিত স্থিতিশীল +৩ অবস্থায় তাত্ত্বিক জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "Mt³⁺ + 3e⁻ → Mt",
+"description": {
+"en": "Theoretical reduction of Meitnerium ions back to elemental Meitnerium.",
+"bn": "মেইটনেরিয়াম আয়ন থেকে মৌলিক মেইটনেরিয়ামে তাত্ত্বিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "MtF₆",
+"description": {
+"en": "Meitnerium is expected to share electrons with halogens to form complex covalent molecules.",
+"bn": "জটিল সমযোজী অণু গঠনের জন্য মেইটনেরিয়াম হ্যালোজেনগুলির সাথে ইলেকট্রন ভাগ করবে বলে আশা করা হয়।"
+}
+}
+]
+}
+}

@@ -1,0 +1,1024 @@
+{
+  "elementId": 116,
+  "basicInformation": {
+    "atomicNumber": 116,
+    "symbol": "Lv",
+    "name": {
+      "en": "Livermorium",
+      "bn": "লিভারমোরিয়াম"
+    },
+    "pronunciation": {
+      "en": "/ˌlɪvərˈmɔːriəm/",
+      "bn": "লিভ-আর-মো-রি-আম"
+    },
+    "atomicMass": 293,
+    "category": {
+      "en": "Post-transition metal (predicted)",
+      "bn": "উত্তর-অবস্থান্তর ধাতু (পূর্বাভাসিত)"
+    },
+    "group": 16,
+    "period": 7,
+    "block": "p",
+    "phase": {
+      "en": "Solid (predicted)",
+      "bn": "কঠিন (পূর্বাভাসিত)"
+    },
+    "appearance": {
+      "en": "Unknown, presumed metallic",
+      "bn": "অজানা, ধাতব বলে অনুমিত"
+    },
+    "color": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Joint Institute for Nuclear Research (JINR) and Lawrence Livermore National Laboratory",
+      "bn": "যৌথ পারমাণবিক গবেষণা ইনস্টিটিউট (JINR) এবং লরেন্স লিভারমোর জাতীয় গবেষণাগার"
+    },
+    "discoveryYear": 2000,
+    "discoveryLocation": {
+      "en": "Dubna, Russia",
+      "bn": "ডুবনা, রাশিয়া"
+    },
+    "discoveryStory": {
+      "en": "First synthesized in July 2000 by bombarding curium-248 with calcium-48 ions, producing livermorium-293. The element was named in 2012 to honor Lawrence Livermore National Laboratory.",
+      "bn": "জুলাই ২০০০ সালে কিউরিয়াম-২৪৮ এর উপর ক্যালসিয়াম-৪৮ আয়ন নিক্ষেপ করে প্রথম সংশ্লেষিত হয়েছিল, লিভারমোরিয়াম-২৯৩ উৎপন্ন করে। লরেন্স লিভারমোর জাতীয় গবেষণাগারকে সম্মান জানিয়ে ২০১২ সালে মৌলটির নামকরণ করা হয়।"
+    },
+    "historicalUses": {
+      "en": "No historical uses. Provisionally called ununhexium (Uuh) prior to its 2012 naming.",
+      "bn": "কোনো ঐতিহাসিক ব্যবহার নেই। ২০১২ সালে নামকরণের আগে অস্থায়ীভাবে আনআনহেক্সিয়াম (Uuh) বলা হত।"
+    },
+    "famousExperiments": {
+      "en": "The Dubna ²⁴⁸Cm(⁴⁸Ca, xn) reactions producing Lv-292, Lv-293 and Lv-294, later confirmed by GSI Darmstadt.",
+      "bn": "ডুবনার ²⁴⁸Cm(⁴⁸Ca, xn) বিক্রিয়া Lv-২৯২, Lv-২৯৩ এবং Lv-২৯৪ উৎপাদন করে, পরে GSI ডার্মস্ট্যাডট দ্বারা নিশ্চিত করা হয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 116,
+    "neutrons": 177,
+    "electrons": 116,
+    "valenceElectrons": 6,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      6
+    ],
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+    "orbitalConfiguration": {
+      "7s": 2,
+      "7p": 4
+    },
+    "oxidationStates": [
+      2,
+      4
+    ],
+    "quantumNumbers": {
+      "principal": 7,
+      "azimuthal": 1,
+      "magnetic": -1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 12.9,
+      "unit": "g/cm³ (predicted)"
+    },
+    "meltingPoint": {
+      "value": 709,
+      "unit": "K (predicted)"
+    },
+    "boilingPoint": {
+      "value": 1085,
+      "unit": "K (predicted)"
+    },
+    "atomicRadius": {
+      "value": 183,
+      "unit": "pm (predicted)"
+    },
+    "covalentRadius": {
+      "value": 175,
+      "unit": "pm (predicted)"
+    },
+    "vanDerWaalsRadius": null,
+    "thermalConductivity": null,
+    "electricalConductivity": null,
+    "specificHeat": null,
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Body-centered cubic (predicted)",
+      "bn": "দেহ-কেন্দ্রিক ঘনক (পূর্বাভাসিত)"
+    },
+    "magneticOrdering": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 723.6,
+      "unit": "kJ/mol (predicted)"
+    },
+    "electronAffinity": {
+      "value": 75,
+      "unit": "kJ/mol (predicted)"
+    },
+    "reactivity": {
+      "en": "Predicted to behave more like a heavy metal than a typical chalcogen; +2 state is expected to be dominant due to spin-orbit splitting of 7p.",
+      "bn": "সাধারণ চ্যালকোজেনের চেয়ে ভারী ধাতুর মতো আচরণ করবে বলে অনুমান করা হয়; 7p-এর স্পিন-অরবিট বিভাজনের কারণে +২ অবস্থা প্রভাবশালী হবে বলে আশা করা হয়।"
+    },
+    "commonCompounds": [],
+    "flameTestColor": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "spectralLines": []
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "None. Produced only as single atoms in heavy-ion accelerators for nuclear physics research.",
+      "bn": "নেই। পারমাণবিক পদার্থবিদ্যা গবেষণার জন্য ভারী-আয়ন এক্সিলারেটরে শুধুমাত্র একক পরমাণু হিসাবে উৎপাদিত হয়।"
+    },
+    "commercialUses": {
+      "en": "No commercial application possible due to vanishingly small quantities and short half-lives.",
+      "bn": "অত্যন্ত স্বল্প পরিমাণ এবং সংক্ষিপ্ত অর্ধ-জীবনের কারণে কোনো বাণিজ্যিক প্রয়োগ সম্ভব নয়।"
+    },
+    "electronicsUses": {
+      "en": "None known.",
+      "bn": "কোনোটি জানা নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None known, though computational models test relativistic chalcogen analogs.",
+      "bn": "কোনোটি জানা নেই, যদিও গণনামূলক মডেল আপেক্ষিক চ্যালকোজেন অ্যানালগ পরীক্ষা করে।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "Indirect contribution via relativistic DFT benchmarks used to design ultra-dense memory and quantum-error simulations.",
+      "bn": "আল্ট্রা-ডেন্স মেমরি এবং কোয়ান্টাম-ত্রুটি সিমুলেশন ডিজাইনে ব্যবহৃত আপেক্ষিক DFT বেঞ্চমার্কের মাধ্যমে পরোক্ষ অবদান।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Theoretical only; relevant if hypothetical long-lived isotopes are reached near N=184.",
+      "bn": "শুধুমাত্র তাত্ত্বিক; প্রাসঙ্গিক যদি N=১৮৪-এর কাছাকাছি অনুমানিক দীর্ঘস্থায়ী আইসোটোপ পৌঁছানো যায়।"
+    },
+    "nuclearUses": {
+      "en": "Studied as a stepping stone toward the predicted island of stability and superheavy-element systematics.",
+      "bn": "পূর্বাভাসিত স্থিতিশীলতার দ্বীপ এবং অতিভারী-মৌল পদ্ধতিগত অধ্যয়নের দিকে একটি ধাপ হিসাবে অধ্যয়ন করা হয়।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "medicalUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "None; not present in any organism and incompatible with biological timescales.",
+      "bn": "নেই; কোনো জীবে উপস্থিত নয় এবং জৈবিক সময়সীমার সাথে অসামঞ্জস্যপূর্ণ।"
+    },
+    "humanBodyRole": {
+      "en": "Absent from the human body.",
+      "bn": "মানবদেহে অনুপস্থিত।"
+    },
+    "toxicity": {
+      "en": "Presumed extremely radiotoxic, but no realistic exposure pathway exists.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়-বিষাক্ত বলে অনুমিত, কিন্তু কোনো বাস্তবসম্মত এক্সপোজার পথ বিদ্যমান নেই।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible; never released outside research vacuum chambers.",
+      "bn": "নগণ্য; গবেষণা শূন্য চেম্বারের বাইরে কখনো নির্গত হয় না।"
+    },
+    "pollutionRisks": {
+      "en": "Effectively zero given attogram-scale production.",
+      "bn": "অ্যাটোগ্রাম-স্কেল উৎপাদন বিবেচনা করে কার্যত শূন্য।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; isotopes decay too quickly to recover.",
+      "bn": "প্রযোজ্য নয়; আইসোটোপ পুনরুদ্ধারের জন্য খুব দ্রুত ক্ষয়প্রাপ্ত হয়।"
+    },
+    "sustainabilityScore": 0.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined. Synthesized atom-by-atom by fusing curium-248 targets with calcium-48 beams in cyclotrons.",
+      "bn": "খনন করা হয় না। সাইক্লোট্রনে কিউরিয়াম-২৪৮ লক্ষ্যকে ক্যালসিয়াম-৪৮ বিমের সাথে ফিউজ করে পরমাণু-ভিত্তিক সংশ্লেষিত হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "earthCrust": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "oceans": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      }
+    },
+    "marketValue": {
+      "en": "Not commercially traded; effective production cost is astronomical per atom.",
+      "bn": "বাণিজ্যিকভাবে লেনদেন হয় না; কার্যকর উৎপাদন খরচ প্রতি পরমাণু জ্যোতির্বৈজ্ঞানিক।"
+    },
+    "futureDemand": {
+      "en": "Limited to fundamental research; no industrial demand foreseeable.",
+      "bn": "মৌলিক গবেষণায় সীমাবদ্ধ; কোনো শিল্প চাহিদা পূর্বাভাসযোগ্য নয়।"
+    },
+    "globalImportance": {
+      "en": "Important for completing period 7 and probing the heavy-end of the periodic table.",
+      "bn": "পর্যায় ৭ সম্পূর্ণ করতে এবং পর্যায় সারণির ভারী-প্রান্ত অনুসন্ধানে গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intense alpha radiation from extremely short-lived isotopes; only atoms have ever existed.",
+      "bn": "অত্যন্ত স্বল্পস্থায়ী আইসোটোপ থেকে তীব্র আলফা বিকিরণ; শুধুমাত্র পরমাণু কখনো বিদ্যমান ছিল।"
+    },
+    "storageRequirements": {
+      "en": "Cannot be stored; isotopes decay within milliseconds.",
+      "bn": "সংরক্ষণ করা যায় না; আইসোটোপ মিলিসেকেন্ডের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+    },
+    "handlingProcedures": {
+      "en": "Detected indirectly inside shielded recoil separators with semiconductor detector arrays.",
+      "bn": "অর্ধপরিবাহী ডিটেক্টর অ্যারে সহ আবৃত রিকয়েল বিভাজকের ভিতরে পরোক্ষভাবে সনাক্ত করা হয়।"
+    },
+    "exposureRisks": {
+      "en": "Theoretical only; researchers are physically isolated from the recoil chamber.",
+      "bn": "শুধুমাত্র তাত্ত্বিক; গবেষকরা রিকয়েল চেম্বার থেকে শারীরিকভাবে বিচ্ছিন্ন।"
+    },
+    "safetyLevel": {
+      "en": "Extreme (Radiological, research-controlled)",
+      "bn": "চরম (তেজস্ক্রিয়, গবেষণা-নিয়ন্ত্রিত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Highly Radioactive",
+        "bn": "অত্যন্ত তেজস্ক্রিয়"
+      },
+      {
+        "en": "Alpha Emitter",
+        "bn": "আলফা নির্গমনকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Livermorium is a synthetic superheavy element with atomic number 116. Only a few atoms have ever been made, each disappearing in milliseconds.",
+      "bn": "লিভারমোরিয়াম পারমাণবিক সংখ্যা ১১৬ সহ একটি কৃত্রিম অতিভারী মৌল। মাত্র কয়েকটি পরমাণু কখনো তৈরি হয়েছে, প্রতিটি মিলিসেকেন্ডে অদৃশ্য হয়ে যায়।"
+    },
+    "advancedExplanation": {
+      "en": "Element 116 sits in group 16 below polonium. Strong relativistic spin-orbit splitting of the 7p shell stabilizes the 7p₁/₂² subshell, making the +2 oxidation state energetically preferred over the +4 and -2 states typical of lighter chalcogens.",
+      "bn": "মৌল ১১৬ পোলোনিয়ামের নিচে গ্রুপ ১৬-এ অবস্থিত। 7p শেলের শক্তিশালী আপেক্ষিক স্পিন-অরবিট বিভাজন 7p₁/₂² সাবশেলকে স্থিতিশীল করে, হালকা চ্যালকোজেনের সাধারণ +৪ এবং -২ অবস্থার চেয়ে +২ জারণ অবস্থাকে শক্তিগতভাবে অগ্রাধিকার দেয়।"
+    },
+    "funFacts": [
+      {
+        "en": "Livermorium was named to honor the city of Livermore, California — making it one of only a few elements named after a U.S. location.",
+        "bn": "লিভারমোরিয়ামের নামকরণ করা হয়েছে ক্যালিফোর্নিয়ার লিভারমোর শহরকে সম্মান জানাতে — এটিকে একটি মার্কিন স্থানের নামে নামকরণ করা কয়েকটি মৌলের মধ্যে একটি করে তুলেছে।"
+      },
+      {
+        "en": "All known isotopes of livermorium decay into flerovium via alpha emission.",
+        "bn": "লিভারমোরিয়ামের সমস্ত পরিচিত আইসোটোপ আলফা নির্গমনের মাধ্যমে ফ্লেরোভিয়ামে ক্ষয়প্রাপ্ত হয়।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 84,
+        "relation": {
+          "en": "Polonium, sitting directly above Lv, is a known toxic alpha emitter; Lv is similarly an alpha emitter but exists only as transient atoms.",
+          "bn": "পোলোনিয়াম, Lv-এর ঠিক উপরে অবস্থিত, একটি পরিচিত বিষাক্ত আলফা নির্গমনকারী; Lv একইভাবে একটি আলফা নির্গমনকারী কিন্তু শুধুমাত্র ক্ষণস্থায়ী পরমাণু হিসেবে বিদ্যমান।"
+        }
+      }
+    ],
+    "relatedElements": [
+      114,
+      115,
+      117,
+      118
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of livermorium?",
+          "bn": "লিভারমোরিয়ামের পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "114",
+            "bn": "১১৪"
+          },
+          {
+            "en": "115",
+            "bn": "১১৫"
+          },
+          {
+            "en": "116",
+            "bn": "১১৬"
+          },
+          {
+            "en": "117",
+            "bn": "১১৭"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Livermorium has 116 protons and belongs to group 16 of period 7.",
+          "bn": "লিভারমোরিয়ামের ১১৬টি প্রোটন রয়েছে এবং এটি পর্যায় ৭-এর গ্রুপ ১৬-এ অন্তর্গত।"
+        }
+      },
+      {
+        "question": {
+          "en": "After which laboratory is livermorium named?",
+          "bn": "কোন গবেষণাগারের নামে লিভারমোরিয়ামের নামকরণ করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Brookhaven National Laboratory",
+            "bn": "ব্রুকহ্যাভেন জাতীয় গবেষণাগার"
+          },
+          {
+            "en": "Lawrence Livermore National Laboratory",
+            "bn": "লরেন্স লিভারমোর জাতীয় গবেষণাগার"
+          },
+          {
+            "en": "Argonne National Laboratory",
+            "bn": "আর্গন জাতীয় গবেষণাগার"
+          },
+          {
+            "en": "Oak Ridge National Laboratory",
+            "bn": "ওক রিজ জাতীয় গবেষণাগার"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The name honors LLNL in Livermore, California, a key collaborator with JINR in superheavy element research.",
+          "bn": "নামটি ক্যালিফোর্নিয়ার লিভারমোরে অবস্থিত LLNL-কে সম্মান জানায়, যা অতিভারী মৌল গবেষণায় JINR-এর একটি প্রধান সহযোগী।"
+        }
+      },
+      {
+        "question": {
+          "en": "Livermorium is classified in which periodic-table family?",
+          "bn": "লিভারমোরিয়াম পর্যায়-সারণির কোন পরিবারে শ্রেণীবদ্ধ?"
+        },
+        "options": [
+          {
+            "en": "Pnictogens (group 15)",
+            "bn": "নিকোজেন (গ্রুপ ১৫)"
+          },
+          {
+            "en": "Chalcogens (group 16)",
+            "bn": "চ্যালকোজেন (গ্রুপ ১৬)"
+          },
+          {
+            "en": "Halogens (group 17)",
+            "bn": "হ্যালোজেন (গ্রুপ ১৭)"
+          },
+          {
+            "en": "Noble gases (group 18)",
+            "bn": "উৎকৃষ্ট গ্যাস (গ্রুপ ১৮)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "With 6 valence electrons (7s² 7p⁴), Lv belongs to the chalcogens, directly below polonium.",
+          "bn": "৬টি যোজ্যতা ইলেকট্রন (7s² 7p⁴) সহ, Lv চ্যালকোজেনের অন্তর্গত, পোলোনিয়ামের ঠিক নিচে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which nuclear reaction was used to first synthesize livermorium in 2000?",
+          "bn": "২০০০ সালে প্রথম লিভারমোরিয়াম সংশ্লেষণ করতে কোন পারমাণবিক বিক্রিয়া ব্যবহৃত হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "²⁴⁸Cm + ⁴⁸Ca → ²⁹³Lv + 3n",
+            "bn": "²⁴⁸Cm + ⁴⁸Ca → ²⁹³Lv + 3n"
+          },
+          {
+            "en": "²⁴³Am + ⁴⁸Ca → ²⁸⁸Lv + 3n",
+            "bn": "²⁴³Am + ⁴⁸Ca → ²⁸⁸Lv + 3n"
+          },
+          {
+            "en": "²⁵²Cf + ⁴⁸Ca → ²⁹⁶Lv + 4n",
+            "bn": "²⁵²Cf + ⁴⁸Ca → ²⁹⁶Lv + 4n"
+          },
+          {
+            "en": "²⁰⁸Pb + ⁵⁸Fe → ²⁶⁴Lv + 2n",
+            "bn": "²⁰⁸Pb + ⁵⁸Fe → ²⁶⁴Lv + 2n"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Curium-248 bombarded with calcium-48 produced Lv-293 (plus 3 neutrons) in the original Dubna experiment.",
+          "bn": "ক্যালসিয়াম-৪৮ দিয়ে আঘাত করা কিউরিয়াম-২৪৮ মূল ডুবনা পরীক্ষায় Lv-২৯৩ (এবং ৩টি নিউট্রন) উৎপন্ন করেছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the predicted ground-state electron configuration of livermorium?",
+          "bn": "লিভারমোরিয়ামের পূর্বাভাসিত মৌলিক-অবস্থা ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Four 7p electrons added to the filled radon core plus 5f and 6d give the chalcogen-like configuration.",
+          "bn": "পূর্ণ রেডন কোর এবং 5f ও 6d-এর সাথে চারটি 7p ইলেকট্রন যুক্ত করলে চ্যালকোজেন-সদৃশ কনফিগারেশন পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which daughter element results from alpha decay of livermorium?",
+          "bn": "লিভারমোরিয়ামের আলফা ক্ষয় থেকে কোন কন্যা মৌল উৎপন্ন হয়?"
+        },
+        "options": [
+          {
+            "en": "Nihonium (113)",
+            "bn": "নাইহোনিয়াম (১১৩)"
+          },
+          {
+            "en": "Flerovium (114)",
+            "bn": "ফ্লেরোভিয়াম (১১৪)"
+          },
+          {
+            "en": "Moscovium (115)",
+            "bn": "মস্কোভিয়াম (১১৫)"
+          },
+          {
+            "en": "Oganesson (118)",
+            "bn": "ওগানেসন (১১৮)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Alpha emission reduces Z by 2, transforming Lv (Z=116) into flerovium (Z=114).",
+          "bn": "আলফা নির্গমন Z-কে ২ কমিয়ে দেয়, Lv (Z=১১৬) কে ফ্লেরোভিয়াম (Z=১১৪) তে রূপান্তরিত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Approximately how long is the half-life of Lv-293, the most studied isotope?",
+          "bn": "Lv-২৯৩, সবচেয়ে অধ্যয়িত আইসোটোপের অর্ধ-জীবন আনুমানিক কত?"
+        },
+        "options": [
+          {
+            "en": "~ 60 milliseconds",
+            "bn": "~ ৬০ মিলিসেকেন্ড"
+          },
+          {
+            "en": "~ 30 minutes",
+            "bn": "~ ৩০ মিনিট"
+          },
+          {
+            "en": "~ 5 hours",
+            "bn": "~ ৫ ঘণ্টা"
+          },
+          {
+            "en": "~ 10 days",
+            "bn": "~ ১০ দিন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Lv-293 decays by alpha emission with a half-life on the order of 60 ms.",
+          "bn": "Lv-২৯৩ প্রায় ৬০ মিলিসেকেন্ড অর্ধ-জীবন সহ আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What was livermorium's IUPAC systematic placeholder name before 2012?",
+          "bn": "২০১২ সালের আগে লিভারমোরিয়ামের IUPAC পদ্ধতিগত প্রতিস্থাপন নাম কী ছিল?"
+        },
+        "options": [
+          {
+            "en": "Ununpentium",
+            "bn": "আনআনপেন্টিয়াম"
+          },
+          {
+            "en": "Ununhexium (Uuh)",
+            "bn": "আনআনহেক্সিয়াম (Uuh)"
+          },
+          {
+            "en": "Ununseptium",
+            "bn": "আনআনসেপ্টিয়াম"
+          },
+          {
+            "en": "Ununoctium",
+            "bn": "আনআনঅক্টিয়াম"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "It was called ununhexium with symbol Uuh until receiving the formal name livermorium in 2012.",
+          "bn": "২০১২ সালে লিভারমোরিয়াম আনুষ্ঠানিক নাম পাওয়ার আগে এটিকে Uuh প্রতীক সহ আনআনহেক্সিয়াম বলা হত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which oxidation state is predicted to be most stable for livermorium?",
+          "bn": "লিভারমোরিয়ামের জন্য কোন জারণ অবস্থা সবচেয়ে স্থিতিশীল বলে অনুমান করা হয়?"
+        },
+        "options": [
+          {
+            "en": "-2",
+            "bn": "-২"
+          },
+          {
+            "en": "+2",
+            "bn": "+২"
+          },
+          {
+            "en": "+4",
+            "bn": "+৪"
+          },
+          {
+            "en": "+6",
+            "bn": "+৬"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Strong relativistic stabilization of the 7p₁/₂ subshell makes +2 the most favored oxidation state.",
+          "bn": "7p₁/₂ সাবশেলের শক্তিশালী আপেক্ষিক স্থিতিশীলতা +২ কে সবচেয়ে অনুকূল জারণ অবস্থা করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is calcium-48 ideal for synthesizing Lv and similar superheavy elements?",
+          "bn": "Lv এবং অনুরূপ অতিভারী মৌল সংশ্লেষণের জন্য ক্যালসিয়াম-৪৮ কেন আদর্শ?"
+        },
+        "options": [
+          {
+            "en": "Its low atomic number reduces Coulomb repulsion compared to heavier projectiles, while its doubly-magic, neutron-rich nucleus aids fusion",
+            "bn": "এর কম পারমাণবিক সংখ্যা ভারী প্রজেক্টাইলের তুলনায় কুলম্ব বিকর্ষণ কমায়, যখন এর দ্বিগুণ-ম্যাজিক, নিউট্রন-সমৃদ্ধ নিউক্লিয়াস ফিউশনে সহায়তা করে"
+          },
+          {
+            "en": "It is unstable and decays rapidly",
+            "bn": "এটি অস্থিতিশীল এবং দ্রুত ক্ষয়প্রাপ্ত হয়"
+          },
+          {
+            "en": "It has only one electron",
+            "bn": "এর শুধুমাত্র একটি ইলেকট্রন আছে"
+          },
+          {
+            "en": "It is the heaviest stable element",
+            "bn": "এটি সবচেয়ে ভারী স্থিতিশীল মৌল"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "⁴⁸Ca's magic numbers (Z=20, N=28) and high neutron excess increase fusion cross-sections needed for superheavy synthesis.",
+          "bn": "⁴⁸Ca-এর ম্যাজিক সংখ্যা (Z=২০, N=২৮) এবং উচ্চ নিউট্রন অতিরিক্ত অতিভারী সংশ্লেষণের জন্য প্রয়োজনীয় ফিউশন ক্রস-সেকশন বাড়ায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does isotope Lv-293 contain?",
+          "bn": "Lv-২৯৩ আইসোটোপে কতটি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "175",
+            "bn": "১৭৫"
+          },
+          {
+            "en": "176",
+            "bn": "১৭৬"
+          },
+          {
+            "en": "177",
+            "bn": "১৭৭"
+          },
+          {
+            "en": "178",
+            "bn": "১৭৮"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "293 − 116 = 177 neutrons in Lv-293.",
+          "bn": "Lv-২৯৩ এ ২৯৩ − ১১৬ = ১৭৭ নিউট্রন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which element is the closest known chemical analog of livermorium?",
+          "bn": "লিভারমোরিয়ামের নিকটতম পরিচিত রাসায়নিক অ্যানালগ কোন মৌল?"
+        },
+        "options": [
+          {
+            "en": "Sulfur",
+            "bn": "সালফার"
+          },
+          {
+            "en": "Selenium",
+            "bn": "সেলেনিয়াম"
+          },
+          {
+            "en": "Tellurium",
+            "bn": "টেলুরিয়াম"
+          },
+          {
+            "en": "Polonium",
+            "bn": "পোলোনিয়াম"
+          }
+        ],
+        "correctOptionIndex": 3,
+        "explanation": {
+          "en": "Polonium sits directly above Lv in group 16 and is its closest periodic neighbor.",
+          "bn": "পোলোনিয়াম গ্রুপ ১৬-এ Lv-এর ঠিক উপরে অবস্থিত এবং এর নিকটতম পর্যায়সারণীয় প্রতিবেশী।"
+        }
+      },
+      {
+        "question": {
+          "en": "What experimental signature is used to identify a single Lv atom?",
+          "bn": "একটি একক Lv পরমাণু সনাক্ত করতে কোন পরীক্ষামূলক স্বাক্ষর ব্যবহৃত হয়?"
+        },
+        "options": [
+          {
+            "en": "Color change in solution",
+            "bn": "দ্রবণে রঙ পরিবর্তন"
+          },
+          {
+            "en": "Time-correlated alpha-decay chains terminating in a known nuclide",
+            "bn": "একটি পরিচিত নিউক্লাইডে শেষ হওয়া সময়-সম্পর্কিত আলফা-ক্ষয় শৃঙ্খল"
+          },
+          {
+            "en": "X-ray diffraction pattern",
+            "bn": "এক্স-রে বিচ্ছুরণ প্যাটার্ন"
+          },
+          {
+            "en": "Mass weighing on an analytical balance",
+            "bn": "বিশ্লেষণাত্মক ব্যালেন্সে ভর ওজন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Sequential alpha decays detected in correlated time-position windows uniquely identify the parent atom.",
+          "bn": "সম্পর্কযুক্ত সময়-অবস্থান উইন্ডোতে সনাক্ত করা ক্রমিক আলফা ক্ষয় অনন্যভাবে পিতামাতার পরমাণু সনাক্ত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is the +6 oxidation state (typical for polonium/sulfur) unlikely in livermorium?",
+          "bn": "কেন +৬ জারণ অবস্থা (পোলোনিয়াম/সালফারের জন্য সাধারণ) লিভারমোরিয়ামে অসম্ভাব্য?"
+        },
+        "options": [
+          {
+            "en": "Lv lacks enough electrons",
+            "bn": "Lv-এর পর্যাপ্ত ইলেকট্রন নেই"
+          },
+          {
+            "en": "Relativistic contraction of the 7s shell makes its electrons too tightly bound to ionize easily",
+            "bn": "7s শেলের আপেক্ষিক সংকোচন এর ইলেকট্রনকে সহজে আয়নিত হওয়ার জন্য অত্যন্ত আবদ্ধ করে তোলে"
+          },
+          {
+            "en": "It only forms ionic bonds",
+            "bn": "এটি শুধুমাত্র আয়নিক বন্ধন গঠন করে"
+          },
+          {
+            "en": "Lv is a noble gas",
+            "bn": "Lv একটি উৎকৃষ্ট গ্যাস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Relativistic stabilization of the 7s² pair (inert pair effect) suppresses higher oxidation states.",
+          "bn": "7s² জোড়ার আপেক্ষিক স্থিতিশীলতা (নিষ্ক্রিয় জোড়া প্রভাব) উচ্চতর জারণ অবস্থাগুলিকে দমন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the source of curium-248 targets typically used in Lv synthesis?",
+          "bn": "Lv সংশ্লেষণে সাধারণত ব্যবহৃত কিউরিয়াম-২৪৮ লক্ষ্যের উৎস কী?"
+        },
+        "options": [
+          {
+            "en": "Natural uranium ores",
+            "bn": "প্রাকৃতিক ইউরেনিয়াম আকরিক"
+          },
+          {
+            "en": "High-flux reactor irradiation of plutonium and chemical separation",
+            "bn": "প্লুটোনিয়ামের উচ্চ-প্রবাহ চুল্লি বিকিরণ এবং রাসায়নিক বিচ্ছেদ"
+          },
+          {
+            "en": "Recycled smoke detectors",
+            "bn": "পুনর্ব্যবহৃত ধোঁয়া সনাক্তকারী"
+          },
+          {
+            "en": "Cosmic ray collection",
+            "bn": "মহাজাগতিক রশ্মি সংগ্রহ"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "²⁴⁸Cm is produced in dedicated high-flux reactors like HFIR at Oak Ridge, then separated chemically for use as a target.",
+          "bn": "²⁴⁸Cm ওক রিজে HFIR-এর মতো ডেডিকেটেড উচ্চ-প্রবাহ চুল্লিতে উৎপাদিত হয়, তারপর লক্ষ্য হিসাবে ব্যবহারের জন্য রাসায়নিকভাবে আলাদা করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which famous nuclear-stability concept motivates ongoing research into Lv and its neighbors?",
+          "bn": "কোন বিখ্যাত পারমাণবিক-স্থিতিশীলতা ধারণা Lv এবং এর প্রতিবেশীদের চলমান গবেষণাকে উৎসাহিত করে?"
+        },
+        "options": [
+          {
+            "en": "The valley of beta stability",
+            "bn": "বিটা স্থিতিশীলতার উপত্যকা"
+          },
+          {
+            "en": "The Island of Stability",
+            "bn": "স্থিতিশীলতার দ্বীপ"
+          },
+          {
+            "en": "Magic-number contraction",
+            "bn": "ম্যাজিক-সংখ্যা সংকোচন"
+          },
+          {
+            "en": "Antimatter symmetry",
+            "bn": "অ্যান্টিম্যাটার প্রতিসাম্য"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Theoretical predictions place a region of comparatively long-lived superheavy isotopes near N=184, known as the Island of Stability.",
+          "bn": "তাত্ত্বিক পূর্বাভাস N=১৮৪-এর কাছাকাছি তুলনামূলকভাবে দীর্ঘস্থায়ী অতিভারী আইসোটোপের একটি অঞ্চল স্থাপন করে, যা স্থিতিশীলতার দ্বীপ নামে পরিচিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is no bulk chemistry possible for livermorium?",
+          "bn": "কেন লিভারমোরিয়ামের জন্য কোন বাল্ক রসায়ন সম্ভব নয়?"
+        },
+        "options": [
+          {
+            "en": "It is non-reactive",
+            "bn": "এটি অ-প্রতিক্রিয়াশীল"
+          },
+          {
+            "en": "Its half-life is too short and yields too low (atoms per week)",
+            "bn": "এর অর্ধ-জীবন অত্যন্ত সংক্ষিপ্ত এবং ফলন খুব কম (প্রতি সপ্তাহে পরমাণু)"
+          },
+          {
+            "en": "It is invisible to all instruments",
+            "bn": "এটি সমস্ত যন্ত্রের কাছে অদৃশ্য"
+          },
+          {
+            "en": "It cannot form bonds",
+            "bn": "এটি বন্ধন গঠন করতে পারে না"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "With production rates of only a few atoms per week and millisecond half-lives, no macroscopic sample can be assembled.",
+          "bn": "প্রতি সপ্তাহে মাত্র কয়েকটি পরমাণু এবং মিলিসেকেন্ড অর্ধ-জীবন সহ উৎপাদন হারের কারণে, কোনো ম্যাক্রোস্কোপিক নমুনা সংগ্রহ করা যাবে না।"
+        }
+      },
+      {
+        "question": {
+          "en": "The 2012 official names 'livermorium' and 'flerovium' were approved by which organization?",
+          "bn": "২০১২ সালের আনুষ্ঠানিক নাম 'লিভারমোরিয়াম' এবং 'ফ্লেরোভিয়াম' কোন সংস্থা অনুমোদন করেছিল?"
+        },
+        "options": [
+          {
+            "en": "ASTM International",
+            "bn": "ASTM ইন্টারন্যাশনাল"
+          },
+          {
+            "en": "IUPAC",
+            "bn": "IUPAC"
+          },
+          {
+            "en": "NIST",
+            "bn": "NIST"
+          },
+          {
+            "en": "CERN Council",
+            "bn": "সার্ন কাউন্সিল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "IUPAC has the sole authority to ratify element names and approved both in May 2012.",
+          "bn": "IUPAC-এর মৌলের নাম অনুমোদনের একচেটিয়া কর্তৃত্ব রয়েছে এবং ২০১২ সালের মে মাসে উভয়টি অনুমোদন করেছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Livermorium decay chains have helped confirm the existence of which other elements?",
+          "bn": "লিভারমোরিয়াম ক্ষয় শৃঙ্খল কোন অন্যান্য মৌলের অস্তিত্ব নিশ্চিত করতে সাহায্য করেছে?"
+        },
+        "options": [
+          {
+            "en": "Flerovium and copernicium (via Fl daughter chains)",
+            "bn": "ফ্লেরোভিয়াম এবং কোপারনিসিয়াম (Fl কন্যা শৃঙ্খলের মাধ্যমে)"
+          },
+          {
+            "en": "Iron and nickel",
+            "bn": "লোহা এবং নিকেল"
+          },
+          {
+            "en": "Polonium and astatine",
+            "bn": "পোলোনিয়াম এবং অ্যাস্টাটিন"
+          },
+          {
+            "en": "Gold and platinum",
+            "bn": "সোনা এবং প্ল্যাটিনাম"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Each Lv atom decays through Fl and into lighter superheavies, helping to confirm and characterize them.",
+          "bn": "প্রতিটি Lv পরমাণু Fl এবং হালকা অতিভারীগুলির মধ্য দিয়ে ক্ষয়প্রাপ্ত হয়, যা তাদের নিশ্চিত এবং চিহ্নিত করতে সাহায্য করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which physical effect makes the chemistry of Lv (and other 7p elements) markedly different from lighter homologs?",
+          "bn": "কোন ভৌত প্রভাব Lv (এবং অন্যান্য 7p মৌল) এর রসায়নকে হালকা হোমোলগ থেকে স্পষ্টভাবে ভিন্ন করে তোলে?"
+        },
+        "options": [
+          {
+            "en": "Strong spin-orbit coupling and relativistic effects on 7s/7p orbitals",
+            "bn": "7s/7p অরবিটালের উপর শক্তিশালী স্পিন-অরবিট সংযোগ এবং আপেক্ষিক প্রভাব"
+          },
+          {
+            "en": "Low temperatures in the lab",
+            "bn": "ল্যাবে কম তাপমাত্রা"
+          },
+          {
+            "en": "Lack of inner electrons",
+            "bn": "অভ্যন্তরীণ ইলেকট্রনের অভাব"
+          },
+          {
+            "en": "Magnetic resonance",
+            "bn": "চৌম্বকীয় অনুরণন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Relativistic contraction of 7s and spin-orbit splitting of 7p drastically reshape Lv's predicted chemistry.",
+          "bn": "7s-এর আপেক্ষিক সংকোচন এবং 7p-এর স্পিন-অরবিট বিভাজন Lv-এর পূর্বাভাসিত রসায়নকে ব্যাপকভাবে পুনর্গঠিত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which statement about livermorium in nature is correct?",
+          "bn": "প্রকৃতিতে লিভারমোরিয়াম সম্পর্কে কোন বিবৃতি সঠিক?"
+        },
+        "options": [
+          {
+            "en": "It is found in trace amounts in deep-sea sediments",
+            "bn": "এটি গভীর-সমুদ্রের পলিতে স্বল্প পরিমাণে পাওয়া যায়"
+          },
+          {
+            "en": "It is produced naturally inside the Sun",
+            "bn": "এটি সূর্যের অভ্যন্তরে প্রাকৃতিকভাবে উৎপাদিত হয়"
+          },
+          {
+            "en": "It does not occur naturally and exists only as synthetic atoms",
+            "bn": "এটি প্রাকৃতিকভাবে ঘটে না এবং শুধুমাত্র কৃত্রিম পরমাণু হিসাবে বিদ্যমান"
+          },
+          {
+            "en": "It is mined in small quantities in Siberia",
+            "bn": "এটি সাইবেরিয়ায় অল্প পরিমাণে খনন করা হয়"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Livermorium is entirely synthetic; no natural occurrence has ever been detected.",
+          "bn": "লিভারমোরিয়াম সম্পূর্ণরূপে কৃত্রিম; কখনো কোনো প্রাকৃতিক উপস্থিতি সনাক্ত করা হয়নি।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Livermorium can be purchased or stored as a usable material.",
+        "bn": "লিভারমোরিয়াম একটি ব্যবহারযোগ্য উপাদান হিসাবে কেনা বা সংরক্ষণ করা যেতে পারে।"
+      },
+      {
+        "en": "Livermorium occurs naturally in trace amounts.",
+        "bn": "লিভারমোরিয়াম প্রাকৃতিকভাবে স্বল্প পরিমাণে পাওয়া যায়।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Remember: Lv sits directly below Po (polonium) in group 16, so think of it as a 'super-heavy polonium' shaped by relativistic effects.",
+        "bn": "মনে রাখবেন: Lv গ্রুপ ১৬-এ Po (পোলোনিয়াম) এর ঠিক নিচে বসে, তাই এটিকে আপেক্ষিক প্রভাব দ্বারা গঠিত একটি 'অতিভারী পোলোনিয়াম' হিসাবে ভাবুন।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴⁸Cm + ⁴⁸Ca → ²⁹³Lv + 3n",
+        "description": {
+          "en": "Hot-fusion synthesis of livermorium-293 at JINR Dubna.",
+          "bn": "JINR ডুবনায় লিভারমোরিয়াম-২৯৩-এর হট-ফিউশন সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁹³Lv → ²⁸⁹Fl + α",
+        "description": {
+          "en": "Alpha decay of Lv-293 producing flerovium-289.",
+          "bn": "Lv-২৯৩-এর আলফা ক্ষয় ফ্লেরোভিয়াম-২৮৯ উৎপন্ন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Lv → Lv²⁺ + 2e⁻",
+        "description": {
+          "en": "Predicted dominant two-electron oxidation driven by the inert-pair-like behavior of relativistic 7s².",
+          "bn": "আপেক্ষিক 7s²-এর নিষ্ক্রিয়-জোড়া-সদৃশ আচরণ দ্বারা চালিত পূর্বাভাসিত প্রভাবশালী দ্বি-ইলেকট্রন জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Lv⁴⁺ + 2e⁻ → Lv²⁺",
+        "description": {
+          "en": "Predicted reduction from less stable +4 state to the more favored +2 state.",
+          "bn": "কম স্থিতিশীল +৪ অবস্থা থেকে অপেক্ষাকৃত অনুকূল +২ অবস্থায় পূর্বাভাসিত বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar covalent (predicted)",
+          "bn": "মেরু সমযোজী (পূর্বাভাসিত)"
+        },
+        "molecule": "LvH₂ (hypothetical)",
+        "description": {
+          "en": "Theoretical livermorium dihydride analogous to PoH₂, with strongly bent geometry from relativistic effects.",
+          "bn": "PoH₂-এর সাথে অনুরূপ তাত্ত্বিক লিভারমোরিয়াম ডাইহাইড্রাইড, আপেক্ষিক প্রভাব থেকে দৃঢ়ভাবে বাঁকানো জ্যামিতিসহ।"
+        }
+      }
+    ]
+  }
+}

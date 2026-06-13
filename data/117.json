@@ -1,0 +1,1026 @@
+{
+  "elementId": 117,
+  "basicInformation": {
+    "atomicNumber": 117,
+    "symbol": "Ts",
+    "name": {
+      "en": "Tennessine",
+      "bn": "টেনেসিন"
+    },
+    "pronunciation": {
+      "en": "/ˈtɛnəsiːn/",
+      "bn": "টেন-এ-সিন"
+    },
+    "atomicMass": 294,
+    "category": {
+      "en": "Post-transition metal / Halogen (predicted)",
+      "bn": "উত্তর-অবস্থান্তর ধাতু / হ্যালোজেন (পূর্বাভাসিত)"
+    },
+    "group": 17,
+    "period": 7,
+    "block": "p",
+    "phase": {
+      "en": "Solid (predicted)",
+      "bn": "কঠিন (পূর্বাভাসিত)"
+    },
+    "appearance": {
+      "en": "Unknown, presumed metallic-semimetallic",
+      "bn": "অজানা, ধাতব-অর্ধধাতব বলে অনুমিত"
+    },
+    "color": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "JINR Dubna, Oak Ridge National Laboratory, Vanderbilt University and Lawrence Livermore National Laboratory",
+      "bn": "JINR ডুবনা, ওক রিজ জাতীয় গবেষণাগার, ভ্যান্ডারবিল্ট বিশ্ববিদ্যালয় এবং লরেন্স লিভারমোর জাতীয় গবেষণাগার"
+    },
+    "discoveryYear": 2010,
+    "discoveryLocation": {
+      "en": "Dubna, Russia",
+      "bn": "ডুবনা, রাশিয়া"
+    },
+    "discoveryStory": {
+      "en": "First synthesized in 2010 by bombarding berkelium-249 with calcium-48 ions. Named in 2016 to honor the U.S. state of Tennessee, home to Oak Ridge, Vanderbilt and the University of Tennessee.",
+      "bn": "২০১০ সালে বার্কেলিয়াম-২৪৯ এর উপর ক্যালসিয়াম-৪৮ আয়ন নিক্ষেপ করে প্রথম সংশ্লেষিত হয়েছিল। ওক রিজ, ভ্যান্ডারবিল্ট এবং টেনেসি বিশ্ববিদ্যালয়ের আবাসস্থল মার্কিন রাজ্য টেনেসিকে সম্মান জানিয়ে ২০১৬ সালে নামকরণ করা হয়।"
+    },
+    "historicalUses": {
+      "en": "No historical uses. Previously known as ununseptium (Uus).",
+      "bn": "কোনো ঐতিহাসিক ব্যবহার নেই। পূর্বে আনআনসেপ্টিয়াম (Uus) নামে পরিচিত ছিল।"
+    },
+    "famousExperiments": {
+      "en": "The 2010 Dubna ²⁴⁹Bk(⁴⁸Ca, 3-4n) experiment producing Ts-293 and Ts-294, requiring 6 months of Bk-249 supplied by Oak Ridge.",
+      "bn": "২০১০ সালের ডুবনার ²⁴⁹Bk(⁴⁸Ca, 3-4n) পরীক্ষা Ts-২৯৩ এবং Ts-২৯৪ উৎপাদন করে, যার জন্য ওক রিজ সরবরাহিত Bk-২৪৯ এর ৬ মাস প্রয়োজন ছিল।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 117,
+    "neutrons": 177,
+    "electrons": 117,
+    "valenceElectrons": 7,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      7
+    ],
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+    "orbitalConfiguration": {
+      "7s": 2,
+      "7p": 5
+    },
+    "oxidationStates": [
+      -1,
+      1,
+      3,
+      5
+    ],
+    "quantumNumbers": {
+      "principal": 7,
+      "azimuthal": 1,
+      "magnetic": 0,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 7.17,
+      "unit": "g/cm³ (predicted)"
+    },
+    "meltingPoint": {
+      "value": 723,
+      "unit": "K (predicted)"
+    },
+    "boilingPoint": {
+      "value": 883,
+      "unit": "K (predicted)"
+    },
+    "atomicRadius": {
+      "value": 138,
+      "unit": "pm (predicted)"
+    },
+    "covalentRadius": {
+      "value": 165,
+      "unit": "pm (predicted)"
+    },
+    "vanDerWaalsRadius": null,
+    "thermalConductivity": null,
+    "electricalConductivity": null,
+    "specificHeat": null,
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Unknown (predicted hexagonal or orthorhombic)",
+      "bn": "অজানা (পূর্বাভাসিত ষড়ভুজাকার বা অর্থোরম্বিক)"
+    },
+    "magneticOrdering": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.8,
+    "ionizationEnergy": {
+      "value": 736.6,
+      "unit": "kJ/mol (predicted)"
+    },
+    "electronAffinity": {
+      "value": 165.9,
+      "unit": "kJ/mol (predicted)"
+    },
+    "reactivity": {
+      "en": "Predicted to be a poor halogen; relativistic spin-orbit splitting of the 7p shell suggests metallic behavior with stable +1 and +3 states, unlike chlorine or iodine.",
+      "bn": "একটি দুর্বল হ্যালোজেন বলে অনুমান করা হয়; 7p শেলের আপেক্ষিক স্পিন-অরবিট বিভাজন ক্লোরিন বা আয়োডিনের বিপরীতে স্থিতিশীল +১ এবং +৩ অবস্থার সাথে ধাতব আচরণের পরামর্শ দেয়।"
+    },
+    "commonCompounds": [],
+    "flameTestColor": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "spectralLines": []
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "None. Exists only as individual atoms in heavy-ion accelerator experiments.",
+      "bn": "নেই। শুধুমাত্র ভারী-আয়ন এক্সিলারেটর পরীক্ষায় পৃথক পরমাণু হিসেবে বিদ্যমান।"
+    },
+    "commercialUses": {
+      "en": "No commercial application possible.",
+      "bn": "কোনো বাণিজ্যিক প্রয়োগ সম্ভব নয়।"
+    },
+    "electronicsUses": {
+      "en": "None known.",
+      "bn": "কোনোটি জানা নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None known.",
+      "bn": "কোনোটি জানা নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "Theoretical interest only in relativistic quantum-chemistry benchmarks used in AI-driven materials modelling.",
+      "bn": "এআই-চালিত পদার্থ মডেলিংয়ে ব্যবহৃত আপেক্ষিক কোয়ান্টাম-রসায়ন বেঞ্চমার্কে শুধুমাত্র তাত্ত্বিক আগ্রহ।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Speculative; relevant only if long-lived isotopes near N=184 are ever produced.",
+      "bn": "অনুমানমূলক; প্রাসঙ্গিক শুধুমাত্র যদি N=১৮৪-এর কাছাকাছি দীর্ঘস্থায়ী আইসোটোপ কখনো উৎপাদিত হয়।"
+    },
+    "nuclearUses": {
+      "en": "Studied as a critical stepping stone toward the predicted Island of Stability.",
+      "bn": "পূর্বাভাসিত স্থিতিশীলতার দ্বীপের দিকে একটি সমালোচনামূলক ধাপ হিসাবে অধ্যয়ন করা হয়।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "medicalUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "None; no biological role and incompatible with biological timescales.",
+      "bn": "নেই; কোনো জৈবিক ভূমিকা নেই এবং জৈবিক সময়সীমার সাথে অসামঞ্জস্যপূর্ণ।"
+    },
+    "humanBodyRole": {
+      "en": "Absent from the human body.",
+      "bn": "মানবদেহে অনুপস্থিত।"
+    },
+    "toxicity": {
+      "en": "Presumed extremely radiotoxic; no realistic exposure scenario exists.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়-বিষাক্ত বলে অনুমিত; কোনো বাস্তবসম্মত এক্সপোজার পরিস্থিতি নেই।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible; produced only inside sealed recoil chambers.",
+      "bn": "নগণ্য; শুধুমাত্র সিল করা রিকয়েল চেম্বারের ভিতরে উৎপাদিত হয়।"
+    },
+    "pollutionRisks": {
+      "en": "Effectively zero given attogram-scale yields.",
+      "bn": "অ্যাটোগ্রাম-স্কেল ফলন বিবেচনা করে কার্যত শূন্য।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; isotopes decay too quickly to recover.",
+      "bn": "প্রযোজ্য নয়; আইসোটোপ পুনরুদ্ধারের জন্য খুব দ্রুত ক্ষয়প্রাপ্ত হয়।"
+    },
+    "sustainabilityScore": 0.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined. Synthesized atom-by-atom by fusing berkelium-249 with calcium-48 beams.",
+      "bn": "খনন করা হয় না। ক্যালসিয়াম-৪৮ বিমের সাথে বার্কেলিয়াম-২৪৯ ফিউজ করে পরমাণু-ভিত্তিক সংশ্লেষিত হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "earthCrust": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "oceans": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      }
+    },
+    "marketValue": {
+      "en": "Not commercially traded; production cost is effectively incalculable per atom.",
+      "bn": "বাণিজ্যিকভাবে লেনদেন হয় না; প্রতি পরমাণু উৎপাদন খরচ কার্যত অপরিমেয়।"
+    },
+    "futureDemand": {
+      "en": "Limited to fundamental nuclear-physics research.",
+      "bn": "মৌলিক পারমাণবিক-পদার্থবিদ্যা গবেষণায় সীমাবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Critical for completing period 7 and probing the upper limits of nuclear stability.",
+      "bn": "পর্যায় ৭ সম্পূর্ণ করতে এবং পারমাণবিক স্থিতিশীলতার ঊর্ধ্ব সীমা অনুসন্ধানে গুরুত্বপূর্ণ।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intense alpha radiation from short-lived isotopes; only isolated atoms have ever existed.",
+      "bn": "স্বল্পস্থায়ী আইসোটোপ থেকে তীব্র আলফা বিকিরণ; শুধুমাত্র বিচ্ছিন্ন পরমাণু কখনো বিদ্যমান ছিল।"
+    },
+    "storageRequirements": {
+      "en": "Cannot be stored; isotopes decay within tens of milliseconds.",
+      "bn": "সংরক্ষণ করা যায় না; আইসোটোপ কয়েক দশ মিলিসেকেন্ডের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+    },
+    "handlingProcedures": {
+      "en": "Detected indirectly behind heavy shielding using silicon detector arrays.",
+      "bn": "সিলিকন ডিটেক্টর অ্যারে ব্যবহার করে ভারী আবরণের পিছনে পরোক্ষভাবে সনাক্ত করা হয়।"
+    },
+    "exposureRisks": {
+      "en": "Theoretical only; researchers never come into contact with the atoms.",
+      "bn": "শুধুমাত্র তাত্ত্বিক; গবেষকরা কখনোই পরমাণুর সংস্পর্শে আসেন না।"
+    },
+    "safetyLevel": {
+      "en": "Extreme (Radiological, research-controlled)",
+      "bn": "চরম (তেজস্ক্রিয়, গবেষণা-নিয়ন্ত্রিত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Highly Radioactive",
+        "bn": "অত্যন্ত তেজস্ক্রিয়"
+      },
+      {
+        "en": "Alpha Emitter",
+        "bn": "আলফা নির্গমনকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Tennessine is a synthetic superheavy element. Although it sits in the halogen column, predictions suggest it behaves more like a heavy metal than like iodine.",
+      "bn": "টেনেসিন একটি কৃত্রিম অতিভারী মৌল। যদিও এটি হ্যালোজেন কলামে বসে, ভবিষ্যদ্বাণী অনুসারে এটি আয়োডিনের চেয়ে ভারী ধাতুর মতো আচরণ করে।"
+    },
+    "advancedExplanation": {
+      "en": "Element 117 has the configuration [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵. Strong spin-orbit splitting widens the 7p₁/₂–7p₃/₂ gap, depressing electron affinity below halogen norms and suppressing the −1 oxidation state in favor of low positive states.",
+      "bn": "মৌল ১১৭-এর কনফিগারেশন [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵। শক্তিশালী স্পিন-অরবিট বিভাজন 7p₁/₂–7p₃/₂ ব্যবধানকে প্রশস্ত করে, ইলেকট্রন আসক্তিকে হ্যালোজেন মানদণ্ডের নিচে নামিয়ে দেয় এবং নিম্ন ধনাত্মক অবস্থার পক্ষে -১ জারণ অবস্থা দমন করে।"
+    },
+    "funFacts": [
+      {
+        "en": "Tennessine is the second-heaviest element ever synthesized — only oganesson (Z=118) is heavier.",
+        "bn": "টেনেসিন এ পর্যন্ত সংশ্লেষিত দ্বিতীয়-সবচেয়ে ভারী মৌল — শুধুমাত্র ওগানেসন (Z=১১৮) এর চেয়ে ভারী।"
+      },
+      {
+        "en": "Producing the Bk-249 target took Oak Ridge nearly two years of irradiation in the High Flux Isotope Reactor.",
+        "bn": "Bk-২৪৯ লক্ষ্য তৈরি করতে ওক রিজের হাই ফ্লাক্স আইসোটোপ রিয়েক্টরে প্রায় দুই বছর বিকিরণ লেগেছিল।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 85,
+        "relation": {
+          "en": "Astatine, the halogen above Ts, is already weakly metallic; Ts is predicted to be even more metallic, breaking the classic halogen trend.",
+          "bn": "অ্যাস্টাটিন, Ts-এর উপরের হ্যালোজেন, ইতিমধ্যে দুর্বলভাবে ধাতব; Ts আরও বেশি ধাতব হবে বলে অনুমান করা হয়, ক্লাসিক হ্যালোজেন প্রবণতা ভেঙে দেয়।"
+        }
+      }
+    ],
+    "relatedElements": [
+      85,
+      115,
+      116,
+      118
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of tennessine?",
+          "bn": "টেনেসিনের পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "115",
+            "bn": "১১৫"
+          },
+          {
+            "en": "116",
+            "bn": "১১৬"
+          },
+          {
+            "en": "117",
+            "bn": "১১৭"
+          },
+          {
+            "en": "118",
+            "bn": "১১৮"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Tennessine has 117 protons and occupies group 17 in period 7.",
+          "bn": "টেনেসিনের ১১৭টি প্রোটন রয়েছে এবং এটি পর্যায় ৭-এ গ্রুপ ১৭ দখল করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which target/projectile combination first produced tennessine in 2010?",
+          "bn": "২০১০ সালে কোন লক্ষ্য/প্রজেক্টাইল সংমিশ্রণ প্রথম টেনেসিন উৎপাদন করেছিল?"
+        },
+        "options": [
+          {
+            "en": "²⁴⁹Bk + ⁴⁸Ca",
+            "bn": "²⁴⁹Bk + ⁴⁸Ca"
+          },
+          {
+            "en": "²⁴⁸Cm + ⁴⁸Ca",
+            "bn": "²⁴⁸Cm + ⁴⁸Ca"
+          },
+          {
+            "en": "²⁴³Am + ⁴⁸Ca",
+            "bn": "²⁴³Am + ⁴⁸Ca"
+          },
+          {
+            "en": "²⁵²Cf + ⁵⁰Ti",
+            "bn": "²⁵²Cf + ⁵⁰Ti"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Calcium-48 was accelerated onto a berkelium-249 target supplied by Oak Ridge to make tennessine.",
+          "bn": "টেনেসিন তৈরি করতে ওক রিজ সরবরাহিত একটি বার্কেলিয়াম-২৪৯ লক্ষ্যে ক্যালসিয়াম-৪৮ ত্বরান্বিত করা হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Tennessine is officially classified in which periodic-table group?",
+          "bn": "টেনেসিন আনুষ্ঠানিকভাবে পর্যায়-সারণির কোন গ্রুপে শ্রেণীবদ্ধ?"
+        },
+        "options": [
+          {
+            "en": "Group 15",
+            "bn": "গ্রুপ ১৫"
+          },
+          {
+            "en": "Group 16",
+            "bn": "গ্রুপ ১৬"
+          },
+          {
+            "en": "Group 17 (halogens)",
+            "bn": "গ্রুপ ১৭ (হ্যালোজেন)"
+          },
+          {
+            "en": "Group 18 (noble gases)",
+            "bn": "গ্রুপ ১৮ (উৎকৃষ্ট গ্যাস)"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Ts is placed in the halogen column under astatine, though its chemistry is predicted to be more metallic.",
+          "bn": "Ts অ্যাস্টাটিনের নিচে হ্যালোজেন কলামে স্থাপন করা হয়েছে, যদিও এর রসায়ন আরও ধাতব হবে বলে অনুমান করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which U.S. state is tennessine named after?",
+          "bn": "কোন মার্কিন রাজ্যের নামে টেনেসিনের নামকরণ করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Texas",
+            "bn": "টেক্সাস"
+          },
+          {
+            "en": "Tennessee",
+            "bn": "টেনেসি"
+          },
+          {
+            "en": "Massachusetts",
+            "bn": "ম্যাসাচুসেটস"
+          },
+          {
+            "en": "California",
+            "bn": "ক্যালিফোর্নিয়া"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "It honors Tennessee, home of Oak Ridge, Vanderbilt and the University of Tennessee.",
+          "bn": "এটি টেনেসি রাজ্যকে সম্মান জানায়, যা ওক রিজ, ভ্যান্ডারবিল্ট এবং টেনেসি বিশ্ববিদ্যালয়ের আবাসস্থল।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is tennessine's predicted ground-state electron configuration?",
+          "bn": "টেনেসিনের পূর্বাভাসিত মৌলিক-অবস্থা ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d⁹ 7s² 7p⁶",
+            "bn": "[Rn] 5f¹⁴ 6d⁹ 7s² 7p⁶"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Five 7p electrons added to the radon-like core plus filled 5f and 6d give the halogen-like configuration.",
+          "bn": "রেডন-সদৃশ কোর এবং পূর্ণ 5f ও 6d-এর সাথে পাঁচটি 7p ইলেকট্রন যুক্ত করলে হ্যালোজেন-সদৃশ কনফিগারেশন পাওয়া যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which daughter element results from alpha decay of tennessine?",
+          "bn": "টেনেসিনের আলফা ক্ষয় থেকে কোন কন্যা মৌল উৎপন্ন হয়?"
+        },
+        "options": [
+          {
+            "en": "Flerovium (114)",
+            "bn": "ফ্লেরোভিয়াম (১১৪)"
+          },
+          {
+            "en": "Moscovium (115)",
+            "bn": "মস্কোভিয়াম (১১৫)"
+          },
+          {
+            "en": "Oganesson (118)",
+            "bn": "ওগানেসন (১১৮)"
+          },
+          {
+            "en": "Nihonium (113)",
+            "bn": "নাইহোনিয়াম (১১৩)"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Alpha decay of Ts (Z=117) yields Mc (Z=115).",
+          "bn": "Ts (Z=১১৭) এর আলফা ক্ষয় Mc (Z=১১৫) উৎপন্ন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate half-life of Ts-294, the heaviest known tennessine isotope?",
+          "bn": "Ts-২৯৪, সবচেয়ে ভারী পরিচিত টেনেসিন আইসোটোপের আনুমানিক অর্ধ-জীবন কত?"
+        },
+        "options": [
+          {
+            "en": "~ 50 ms",
+            "bn": "~ ৫০ মিসে"
+          },
+          {
+            "en": "~ 1 second",
+            "bn": "~ ১ সেকেন্ড"
+          },
+          {
+            "en": "~ 1 minute",
+            "bn": "~ ১ মিনিট"
+          },
+          {
+            "en": "~ 1 hour",
+            "bn": "~ ১ ঘণ্টা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Ts-294 decays by alpha emission with a half-life on the order of 50 milliseconds.",
+          "bn": "Ts-২৯৪ প্রায় ৫০ মিলিসেকেন্ড অর্ধ-জীবন সহ আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is tennessine predicted to behave less like a typical halogen?",
+          "bn": "কেন টেনেসিন একটি সাধারণ হ্যালোজেনের মতো কম আচরণ করবে বলে অনুমান করা হয়?"
+        },
+        "options": [
+          {
+            "en": "Lack of valence electrons",
+            "bn": "যোজ্যতা ইলেকট্রনের অভাব"
+          },
+          {
+            "en": "Strong spin-orbit splitting of the 7p shell raises 7p₃/₂ in energy",
+            "bn": "7p শেলের শক্তিশালী স্পিন-অরবিট বিভাজন 7p₃/₂ কে শক্তিতে উপরে তোলে"
+          },
+          {
+            "en": "Low atomic mass",
+            "bn": "কম পারমাণবিক ভর"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "এটি একটি উৎকৃষ্ট গ্যাস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Relativistic spin-orbit effects destabilize the would-be halogen-like behavior and lower electron affinity.",
+          "bn": "আপেক্ষিক স্পিন-অরবিট প্রভাব হ্যালোজেন-সদৃশ আচরণকে অস্থিতিশীল করে এবং ইলেকট্রন আসক্তি কমায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "What systematic name did tennessine carry before 2016?",
+          "bn": "২০১৬ সালের আগে টেনেসিন কোন পদ্ধতিগত নাম বহন করেছিল?"
+        },
+        "options": [
+          {
+            "en": "Ununhexium",
+            "bn": "আনআনহেক্সিয়াম"
+          },
+          {
+            "en": "Ununseptium (Uus)",
+            "bn": "আনআনসেপ্টিয়াম (Uus)"
+          },
+          {
+            "en": "Ununoctium",
+            "bn": "আনআনঅক্টিয়াম"
+          },
+          {
+            "en": "Ununpentium",
+            "bn": "আনআনপেন্টিয়াম"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Element 117 was provisionally Uus until IUPAC approved 'tennessine' in 2016.",
+          "bn": "IUPAC ২০১৬ সালে 'টেনেসিন' অনুমোদন করার আগ পর্যন্ত মৌল ১১৭ অস্থায়ীভাবে Uus ছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why was Bk-249 chosen as the target despite its high cost and ~327-day half-life?",
+          "bn": "এর উচ্চ ব্যয় এবং প্রায় ৩২৭-দিনের অর্ধ-জীবন সত্ত্বেও কেন Bk-২৪৯ লক্ষ্য হিসাবে বেছে নেওয়া হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "It allows ⁴⁸Ca fusion to reach Z=117 with achievable cross-sections",
+            "bn": "এটি ⁴⁸Ca ফিউশনকে অর্জনযোগ্য ক্রস-সেকশন সহ Z=১১৭ এ পৌঁছাতে দেয়"
+          },
+          {
+            "en": "It is the heaviest stable isotope",
+            "bn": "এটি সবচেয়ে ভারী স্থিতিশীল আইসোটোপ"
+          },
+          {
+            "en": "It is freely available in nature",
+            "bn": "এটি প্রকৃতিতে অবাধে উপলব্ধ"
+          },
+          {
+            "en": "It emits visible light when bombarded",
+            "bn": "আঘাত করলে এটি দৃশ্যমান আলো নির্গত করে"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Pairing 97-proton Bk-249 with 20-proton ⁴⁸Ca uniquely yields Z=117 in a fusion-evaporation channel with measurable rates.",
+          "bn": "৯৭-প্রোটন Bk-২৪৯ কে ২০-প্রোটন ⁴⁸Ca-এর সাথে যুক্ত করা অনন্যভাবে পরিমাপযোগ্য হারে একটি ফিউশন-বাষ্পীভবন চ্যানেলে Z=১১৭ উৎপন্ন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Approximately how many tennessine atoms have been confirmed since 2010?",
+          "bn": "২০১০ সাল থেকে আনুমানিক কতটি টেনেসিন পরমাণু নিশ্চিত হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "About 1 million",
+            "bn": "প্রায় ১ মিলিয়ন"
+          },
+          {
+            "en": "About 10,000",
+            "bn": "প্রায় ১০,০০০"
+          },
+          {
+            "en": "On the order of dozens",
+            "bn": "ডজনখানেক"
+          },
+          {
+            "en": "Exactly 1",
+            "bn": "ঠিক ১"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Only on the order of a few dozen tennessine atoms have been confirmed worldwide.",
+          "bn": "বিশ্বব্যাপী মাত্র কয়েক ডজন টেনেসিন পরমাণু নিশ্চিত হয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which oxidation state is predicted to be more stable for Ts compared to lighter halogens?",
+          "bn": "হালকা হ্যালোজেনের তুলনায় Ts-এর জন্য কোন জারণ অবস্থা আরও স্থিতিশীল বলে অনুমান করা হয়?"
+        },
+        "options": [
+          {
+            "en": "-1 (typical halide)",
+            "bn": "-১ (সাধারণ হ্যালাইড)"
+          },
+          {
+            "en": "+1 and +3",
+            "bn": "+১ এবং +৩"
+          },
+          {
+            "en": "+7",
+            "bn": "+৭"
+          },
+          {
+            "en": "-3",
+            "bn": "-৩"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Relativistic effects favor low positive oxidation states (+1, +3) over the typical halide −1 state.",
+          "bn": "আপেক্ষিক প্রভাব সাধারণ হ্যালাইড -১ অবস্থার চেয়ে নিম্ন ধনাত্মক জারণ অবস্থা (+১, +৩) এর পক্ষে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the dominant decay mode of all known tennessine isotopes?",
+          "bn": "সমস্ত পরিচিত টেনেসিন আইসোটোপের প্রভাবশালী ক্ষয় মোড কী?"
+        },
+        "options": [
+          {
+            "en": "Beta-minus decay",
+            "bn": "বিটা-মাইনাস ক্ষয়"
+          },
+          {
+            "en": "Alpha decay",
+            "bn": "আলফা ক্ষয়"
+          },
+          {
+            "en": "Spontaneous fission only",
+            "bn": "শুধুমাত্র স্বতঃস্ফূর্ত বিভাজন"
+          },
+          {
+            "en": "Gamma emission only",
+            "bn": "শুধুমাত্র গামা নির্গমন"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Ts-293 and Ts-294 both decay primarily via alpha emission, producing Mc daughters.",
+          "bn": "Ts-২৯৩ এবং Ts-২৯৪ উভয়ই প্রাথমিকভাবে আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়, Mc কন্যা উৎপন্ন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does Ts-294 contain?",
+          "bn": "Ts-২৯৪ এ কতটি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "175",
+            "bn": "১৭৫"
+          },
+          {
+            "en": "176",
+            "bn": "১৭৬"
+          },
+          {
+            "en": "177",
+            "bn": "১৭৭"
+          },
+          {
+            "en": "178",
+            "bn": "১৭৮"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "294 mass number minus 117 protons equals 177 neutrons.",
+          "bn": "২৯৪ ভর সংখ্যা থেকে ১১৭ প্রোটন বিয়োগ করলে ১৭৭ নিউট্রন হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which institution supplied the rare Bk-249 target material for the Ts synthesis?",
+          "bn": "Ts সংশ্লেষণের জন্য বিরল Bk-২৪৯ লক্ষ্য উপাদান কোন প্রতিষ্ঠান সরবরাহ করেছিল?"
+        },
+        "options": [
+          {
+            "en": "CERN",
+            "bn": "সার্ন"
+          },
+          {
+            "en": "Oak Ridge National Laboratory (HFIR)",
+            "bn": "ওক রিজ জাতীয় গবেষণাগার (HFIR)"
+          },
+          {
+            "en": "Fermilab",
+            "bn": "ফার্মিল্যাব"
+          },
+          {
+            "en": "Los Alamos",
+            "bn": "লস আলামোস"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Oak Ridge's High Flux Isotope Reactor produced ~22 mg of Bk-249, then shipped it to Dubna.",
+          "bn": "ওক রিজের হাই ফ্লাক্স আইসোটোপ রিয়েক্টর প্রায় ২২ মিগ্রা Bk-২৪৯ উৎপাদন করে, তারপর এটি ডুবনায় পাঠানো হয়েছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Tennessine is the heaviest example of which group of elements?",
+          "bn": "টেনেসিন কোন গ্রুপের মৌলের সবচেয়ে ভারী উদাহরণ?"
+        },
+        "options": [
+          {
+            "en": "Halogens",
+            "bn": "হ্যালোজেন"
+          },
+          {
+            "en": "Chalcogens",
+            "bn": "চ্যালকোজেন"
+          },
+          {
+            "en": "Pnictogens",
+            "bn": "নিকোজেন"
+          },
+          {
+            "en": "Noble gases",
+            "bn": "উৎকৃষ্ট গ্যাস"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "By position, Ts is the heaviest halogen, although its predicted chemistry deviates strongly from the trend.",
+          "bn": "অবস্থান অনুসারে, Ts সবচেয়ে ভারী হ্যালোজেন, যদিও এর পূর্বাভাসিত রসায়ন প্রবণতা থেকে দৃঢ়ভাবে বিচ্যুত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why does tennessine have such a low electron affinity compared with iodine (~295 kJ/mol)?",
+          "bn": "আয়োডিনের (~২৯৫ kJ/mol) তুলনায় টেনেসিনের ইলেকট্রন আসক্তি এত কম কেন?"
+        },
+        "options": [
+          {
+            "en": "Larger atomic size and relativistic destabilization of incoming electron",
+            "bn": "বৃহত্তর পারমাণবিক আকার এবং আগত ইলেকট্রনের আপেক্ষিক অস্থিতিশীলতা"
+          },
+          {
+            "en": "It is already saturated",
+            "bn": "এটি ইতিমধ্যে সম্পৃক্ত"
+          },
+          {
+            "en": "It is a noble gas",
+            "bn": "এটি একটি উৎকৃষ্ট গ্যাস"
+          },
+          {
+            "en": "It forms only ionic bonds",
+            "bn": "এটি শুধুমাত্র আয়নিক বন্ধন গঠন করে"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The added electron must enter a relatively diffuse, relativistically destabilized 7p₃/₂ orbital, lowering affinity.",
+          "bn": "অতিরিক্ত ইলেকট্রনকে একটি অপেক্ষাকৃত বিচ্ছুরিত, আপেক্ষিকভাবে অস্থিতিশীল 7p₃/₂ অরবিটালে প্রবেশ করতে হবে, যা আসক্তি কমায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which broader research goal motivates tennessine synthesis efforts?",
+          "bn": "টেনেসিন সংশ্লেষণ প্রচেষ্টা কোন বিস্তৃত গবেষণা লক্ষ্যকে অনুপ্রাণিত করে?"
+        },
+        "options": [
+          {
+            "en": "Cold-fusion energy",
+            "bn": "শীতল-ফিউশন শক্তি"
+          },
+          {
+            "en": "Probing the Island of Stability and limits of nuclear structure",
+            "bn": "স্থিতিশীলতার দ্বীপ এবং পারমাণবিক কাঠামোর সীমা অনুসন্ধান"
+          },
+          {
+            "en": "Medical isotope production",
+            "bn": "চিকিৎসা আইসোটোপ উৎপাদন"
+          },
+          {
+            "en": "Industrial catalyst design",
+            "bn": "শিল্প অনুঘটক নকশা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Heavier isotopes near N=184 are theorized to have dramatically longer half-lives — the Island of Stability.",
+          "bn": "N=১৮৪-এর কাছাকাছি ভারী আইসোটোপগুলি অনেক বেশি দীর্ঘ অর্ধ-জীবন থাকবে বলে তত্ত্ব দেওয়া হয়েছে — স্থিতিশীলতার দ্বীপ।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which IUPAC body officially ratified the name 'tennessine' in November 2016?",
+          "bn": "২০১৬ সালের নভেম্বরে কোন IUPAC সংস্থা আনুষ্ঠানিকভাবে 'টেনেসিন' নাম অনুমোদন করেছিল?"
+        },
+        "options": [
+          {
+            "en": "IUPAC Inorganic Chemistry Division",
+            "bn": "IUPAC অজৈব রসায়ন বিভাগ"
+          },
+          {
+            "en": "IUPAC Council",
+            "bn": "IUPAC কাউন্সিল"
+          },
+          {
+            "en": "IUPAC Bureau",
+            "bn": "IUPAC ব্যুরো"
+          },
+          {
+            "en": "Any of the above via formal recommendation",
+            "bn": "উপরের যেকোনোটি আনুষ্ঠানিক সুপারিশের মাধ্যমে"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "The Inorganic Chemistry Division's recommendation, after public review, leads to IUPAC ratification of new element names.",
+          "bn": "জনসাধারণের পর্যালোচনার পরে অজৈব রসায়ন বিভাগের সুপারিশ নতুন মৌলের নামের IUPAC অনুমোদনের দিকে নিয়ে যায়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Is tennessine considered a metal, nonmetal, or metalloid by predicted properties?",
+          "bn": "পূর্বাভাসিত বৈশিষ্ট্য অনুসারে টেনেসিন একটি ধাতু, অধাতু, নাকি অর্ধধাতু হিসাবে বিবেচিত হয়?"
+        },
+        "options": [
+          {
+            "en": "Pure nonmetal like chlorine",
+            "bn": "ক্লোরিনের মতো বিশুদ্ধ অধাতু"
+          },
+          {
+            "en": "Strongly metallic / post-transition-metal-like",
+            "bn": "দৃঢ়ভাবে ধাতব / উত্তর-অবস্থান্তর-ধাতু-সদৃশ"
+          },
+          {
+            "en": "Noble gas",
+            "bn": "উৎকৃষ্ট গ্যাস"
+          },
+          {
+            "en": "Alkali metal",
+            "bn": "ক্ষারীয় ধাতু"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Predicted properties (low electron affinity, low IE, metallic bonding) place Ts firmly in the post-transition-metal regime.",
+          "bn": "পূর্বাভাসিত বৈশিষ্ট্য (কম ইলেকট্রন আসক্তি, কম IE, ধাতব বন্ধন) Ts-কে দৃঢ়ভাবে উত্তর-অবস্থান্তর-ধাতু শাসনে স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the practical reason no bulk sample of tennessine will ever be made?",
+          "bn": "কেন টেনেসিনের কোনো বাল্ক নমুনা কখনো তৈরি হবে না তার ব্যবহারিক কারণ কী?"
+        },
+        "options": [
+          {
+            "en": "Its raw materials are illegal",
+            "bn": "এর কাঁচামাল অবৈধ"
+          },
+          {
+            "en": "Production rates of a few atoms per week combined with sub-second half-lives",
+            "bn": "প্রতি সপ্তাহে কয়েকটি পরমাণু উৎপাদন হার উপ-সেকেন্ড অর্ধ-জীবনের সাথে মিলিত"
+          },
+          {
+            "en": "It is too cold to handle",
+            "bn": "এটি পরিচালনা করতে খুব ঠান্ডা"
+          },
+          {
+            "en": "It cannot be detected",
+            "bn": "এটি সনাক্ত করা যায় না"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Even decades of continuous beamtime could not accumulate a macroscopic mass given current cross-sections and decay rates.",
+          "bn": "বর্তমান ক্রস-সেকশন এবং ক্ষয়ের হার বিবেচনা করে দশকব্যাপী একটানা বিম টাইমও একটি ম্যাক্রোস্কোপিক ভর জমা করতে পারবে না।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Tennessine behaves chemically just like iodine.",
+        "bn": "টেনেসিন রাসায়নিকভাবে আয়োডিনের মতো আচরণ করে।"
+      },
+      {
+        "en": "Tennessine can be stored in jars like other halogens.",
+        "bn": "টেনেসিন অন্যান্য হ্যালোজেনের মতো জারে সংরক্ষণ করা যেতে পারে।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Symbol 'Ts' for Tennessine — think 'Tennessee Synthesis'. It sits below astatine in group 17.",
+        "bn": "টেনেসিনের প্রতীক 'Ts' — ভাবুন 'টেনেসি সিন্থেসিস'। এটি গ্রুপ ১৭-এ অ্যাস্টাটিনের নিচে বসে।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴⁹Bk + ⁴⁸Ca → ²⁹⁴Ts + 3n",
+        "description": {
+          "en": "Hot-fusion synthesis of tennessine-294 at JINR Dubna.",
+          "bn": "JINR ডুবনায় টেনেসিন-২৯৪-এর হট-ফিউশন সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁹⁴Ts → ²⁹⁰Mc + α",
+        "description": {
+          "en": "Alpha decay of Ts-294 producing moscovium-290.",
+          "bn": "Ts-২৯৪-এর আলফা ক্ষয় মস্কোভিয়াম-২৯০ উৎপন্ন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Ts → Ts⁺ + e⁻",
+        "description": {
+          "en": "Predicted single-electron oxidation, favored due to relativistic destabilization of 7p₃/₂.",
+          "bn": "7p₃/₂ এর আপেক্ষিক অস্থিতিশীলতার কারণে অনুকূল পূর্বাভাসিত একক-ইলেকট্রন জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Ts + e⁻ → Ts⁻",
+        "description": {
+          "en": "Predicted weak halide-like reduction; electron affinity is much smaller than for iodine.",
+          "bn": "পূর্বাভাসিত দুর্বল হ্যালাইড-সদৃশ বিজারণ; ইলেকট্রন আসক্তি আয়োডিনের চেয়ে অনেক ছোট।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar covalent (predicted)",
+          "bn": "মেরু সমযোজী (পূর্বাভাসিত)"
+        },
+        "molecule": "TsH (hypothetical)",
+        "description": {
+          "en": "Theoretical tennessine monohydride analogous to HAt, with elongated bond length due to relativistic 7p effects.",
+          "bn": "HAt-এর সাথে অনুরূপ তাত্ত্বিক টেনেসিন মনোহাইড্রাইড, আপেক্ষিক 7p প্রভাবের কারণে দীর্ঘায়িত বন্ধন দৈর্ঘ্যসহ।"
+        }
+      }
+    ]
+  }
+}

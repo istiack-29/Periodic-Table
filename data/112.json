@@ -1,0 +1,925 @@
+{
+"elementId": 112,
+"basicInformation": {
+"atomicNumber": 112,
+"symbol": "Cn",
+"name": {
+"en": "Copernicium",
+"bn": "কোপার্নিসিয়াম"
+},
+"pronunciation": {
+"en": "/ˌkoʊpərˈnɪsiəm/",
+"bn": "কো-পার-নি-সি-য়াম"
+},
+"atomicMass": 285.0,
+"category": {
+"en": "Transition metal (Predicted to have noble-gas-like properties)",
+"bn": "অবস্থান্তর ধাতু (নিষ্ক্রিয় গ্যাসের মতো বৈশিষ্ট্য থাকার পূর্বাভাস রয়েছে)"
+},
+"group": 12,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Gas or Highly Volatile Liquid (Predicted)",
+"bn": "গ্যাস বা অত্যন্ত উদ্বায়ী তরল (পূর্বাভাসকৃত)"
+},
+"appearance": {
+"en": "Unknown, predicted to be a colorless gas or volatile silvery metallic liquid",
+"bn": "অজানা, বর্ণহীন গ্যাস বা উদ্বায়ী রূপালী ধাতব তরল হওয়ার পূর্বাভাস রয়েছে"
+},
+"color": {
+"en": "Unknown",
+"bn": "অজানা"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "GSI Helmholtz Centre for Heavy Ion Research (Sigurd Hofmann et al.)",
+"bn": "জিএসআই হেল্মহোল্টজ সেন্টার ফর হেভি আয়ন রিসার্চ (সিগুর্ড হফম্যান এবং অন্যান্য)"
+},
+"discoveryYear": 1996,
+"discoveryLocation": {
+"en": "Darmstadt, Germany",
+"bn": "ডার্মস্ট্যাড, জার্মানি"
+},
+"discoveryStory": {
+"en": "Created by bombarding a lead-208 target with zinc-70 nuclei in a heavy ion accelerator. Named after the astronomer Nicolaus Copernicus to honor his contribution to the heliocentric model.",
+"bn": "একটি ভারী আয়ন অ্যাক্সিলারেটরে দস্তা-৭০ নিউক্লিয়াসের সাহায্যে সীসা-২০৮ লক্ষ্যবস্তুতে আঘাত করে তৈরি করা হয়েছিল। সৌরকেন্দ্রিক মডেলে তাঁর অবদানের সম্মানার্থে জ্যোতির্বিজ্ঞানী নিকোলাস কোপার্নিকাসের নামে নামকরণ করা হয়েছে।"
+},
+"historicalUses": {
+"en": "None. Only a few atoms have ever been synthesized for pure scientific research.",
+"bn": "নেই। বিশুদ্ধ বৈজ্ঞানিক গবেষণার জন্য এখন পর্যন্ত মাত্র কয়েকটি পরমাণু সংশ্লেষিত হয়েছে।"
+},
+"famousExperiments": {
+"en": "The original cold fusion reaction (Pb + Zn) and subsequent thermochromatography experiments demonstrating its weak interaction with gold, confirming extreme relativistic effects.",
+"bn": "মূল শীতল ফিউশন বিক্রিয়া (Pb + Zn) এবং পরবর্তী থার্মোক্রোমাটোগ্রাফি পরীক্ষা যা সোনার সাথে এর দুর্বল মিথস্ক্রিয়া প্রদর্শন করে, চরম আপেক্ষিক প্রভাব নিশ্চিত করে।"
+}
+},
+"atomicStructure": {
+"protons": 112,
+"neutrons": 173,
+"electrons": 112,
+"valenceElectrons": 2,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 18, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s²",
+"orbitalConfiguration": {
+"7s": 2,
+"6d": 10,
+"5f": 14
+},
+"oxidationStates": [2, 4, 0],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 0,
+"magnetic": 0,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 14.0,
+"unit": "g/cm³ (predicted)"
+},
+"meltingPoint": {
+"value": 283.0,
+"unit": "K (predicted)"
+},
+"boilingPoint": {
+"value": 340.0,
+"unit": "K (predicted)"
+},
+"atomicRadius": {
+"value": 147,
+"unit": "pm (predicted)"
+},
+"covalentRadius": {
+"value": 122,
+"unit": "pm (predicted)"
+},
+"vanDerWaalsRadius": {
+"value": null,
+"unit": "pm"
+},
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Hexagonal close-packed (predicted)",
+"bn": "ষড়ভুজাকার ক্লোজ-প্যাকড (পূর্বাভাসকৃত)"
+},
+"magneticOrdering": {
+"en": "Diamagnetic (predicted)",
+"bn": "ডায়াম্যাগনেটিক (পূর্বাভাসকৃত)"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 1155.0,
+"unit": "kJ/mol (predicted)"
+},
+"electronAffinity": {
+"value": null,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Expected to be extremely unreactive due to strong relativistic stabilization of the 7s orbital, behaving more like a noble gas (Radon) than its group 12 homologue (Mercury).",
+"bn": "7s অরবিটালের শক্তিশালী আপেক্ষিক স্থিতিশীলতার কারণে এটি অত্যন্ত প্রতিক্রিয়াহীন হবে বলে আশা করা হচ্ছে, এটি তার গ্রুপ ১২ সমকক্ষ (পারদ) এর চেয়ে নিষ্ক্রিয় গ্যাস (র‍্যাডন) এর মতো বেশি আচরণ করবে।"
+},
+"commonCompounds": ["CnF₂ (predicted)", "CnF₄ (predicted)", "CnO (predicted)"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": null,
+"commercialUses": null,
+"electronicsUses": null,
+"semiconductorUses": null,
+"aerospaceUses": null,
+"batteryUses": null,
+"aiHardwareUses": null,
+"renewableEnergyUses": null,
+"nanotechnologyUses": null,
+"nuclearUses": {
+"en": "Subject of advanced nuclear physics studies related to the 'Island of Stability' and extreme atomic mass limits.",
+"bn": "'আইল্যান্ড অফ স্টেবিলিটি' এবং চরম পারমাণবিক ভর সীমা সম্পর্কিত উন্নত পারমাণবিক পদার্থবিদ্যা গবেষণার বিষয়।"
+},
+"militaryUses": null,
+"medicalUses": null,
+"foodIndustryUses": null,
+"constructionUses": null
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "None. Copernicium does not exist in nature and decays too quickly to interact with biological systems.",
+"bn": "নেই। কোপার্নিসিয়াম প্রকৃতিতে বিদ্যমান নেই এবং এত দ্রুত ক্ষয়প্রাপ্ত হয় যে এটি জৈবিক সিস্টেমের সাথে যোগাযোগ করতে পারে না।"
+},
+"humanBodyRole": null,
+"toxicity": {
+"en": "Its intense radioactivity would be universally lethal, overshadowing any chemical toxicity.",
+"bn": "এর তীব্র তেজস্ক্রিয়তা সর্বজনীনভাবে মারাত্মক হবে, যা যেকোনো রাসায়নিক বিষাক্ততাকে ছাপিয়ে যাবে।"
+},
+"environmentalImpact": {
+"en": "Zero environmental presence; synthetically produced only in vacuum chambers.",
+"bn": "পরিবেশে শূন্য উপস্থিতি; শুধুমাত্র ভ্যাকুয়াম চেম্বারে কৃত্রিমভাবে উৎপাদিত হয়।"
+},
+"pollutionRisks": null,
+"recyclingMethods": null,
+"sustainabilityScore": null
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+},
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+}
+],
+"miningMethods": null,
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not commercially available. Theoretical cost to synthesize a single atom is millions of dollars.",
+"bn": "বাণিজ্যিকভাবে উপলব্ধ নয়। একটি একক পরমাণু সংশ্লেষ করার তাত্ত্বিক খরচ মিলিয়ন ডলার।"
+},
+"futureDemand": {
+"en": "Demand is strictly limited to basic scientific research in superheavy element physics.",
+"bn": "চাহিদা কঠোরভাবে সুপারহেভি উপাদান পদার্থবিজ্ঞানে মৌলিক বৈজ্ঞানিক গবেষণার মধ্যে সীমাবদ্ধ।"
+},
+"globalImportance": {
+"en": "Critical for validating theories of quantum mechanics and relativistic chemistry in superheavy atoms.",
+"bn": "সুপারহেভি পরমাণুতে কোয়ান্টাম মেকানিক্স এবং আপেক্ষিক রসায়নের তত্ত্বগুলি যাচাই করার জন্য গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiation hazard. Emits high-energy alpha particles during decay.",
+"bn": "চরম বিকিরণ বিপদ। ক্ষয়ের সময় উচ্চ-শক্তির আলফা কণা নির্গত করে।"
+},
+"storageRequirements": {
+"en": "Cannot be stored due to its short half-life (~29 seconds for the most stable known isotope).",
+"bn": "এর স্বল্প অর্ধায়ুর কারণে (~সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপের জন্য ২৯ সেকেন্ড) সংরক্ষণ করা যায় না।"
+},
+"handlingProcedures": {
+"en": "Requires highly specialized particle accelerator facilities and automated remote detectors.",
+"bn": "অত্যন্ত বিশেষায়িত কণা ত্বরক সুবিধা এবং স্বয়ংক্রিয় দূরবর্তী ডিটেক্টর প্রয়োজন।"
+},
+"exposureRisks": {
+"en": "Severe acute radiation syndrome from ionizing radiation if macroscopic quantities were ever possible.",
+"bn": "যদি ম্যাক্রোস্কোপিক পরিমাণের অস্তিত্ব সম্ভব হত, তবে আয়নাইজিং বিকিরণ থেকে গুরুতর তীব্র বিকিরণ সিন্ড্রোম দেখা দিত।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় উপাদান"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Copernicium is a superheavy, artificial element made by smashing atoms together. It is named after the famous astronomer Nicolaus Copernicus.",
+"bn": "কোপার্নিসিয়াম হলো একটি সুপারহেভি, কৃত্রিম উপাদান যা পরমাণুগুলোকে একসাথে আঘাত করে তৈরি করা হয়েছে। বিখ্যাত জ্যোতির্বিজ্ঞানী নিকোলাস কোপার্নিকাসের নামে এর নামকরণ করা হয়েছে।"
+},
+"advancedExplanation": {
+"en": "Copernicium (Z=112) is the heaviest element in group 12. Due to extreme relativistic contraction of the 7s orbital, its valence electrons are strongly held by the nucleus. This makes Copernicium chemically unreactive, behaving more like a volatile noble gas than a transition metal like its homologue, mercury.",
+"bn": "কোপার্নিসিয়াম (Z=112) হলো গ্রুপ ১২ এর সবচেয়ে ভারী উপাদান। 7s অরবিটালের চরম আপেক্ষিক সংকোচনের কারণে, এর যোজ্যতা ইলেকট্রনগুলি নিউক্লিয়াস দ্বারা দৃঢ়ভাবে আটকে থাকে। এটি কোপার্নিসিয়ামকে রাসায়নিকভাবে প্রতিক্রিয়াশীল করে তোলে না, এটি তার সমকক্ষ পারদের মতো অবস্থান্তর ধাতুর পরিবর্তে একটি উদ্বায়ী নিষ্ক্রিয় গ্যাসের মতো বেশি আচরণ করে।"
+},
+"funFacts": [
+{
+"en": "Even though it is in the same column as Zinc and Mercury, it might actually be a gas at room temperature!",
+"bn": "যদিও এটি দস্তা এবং পারদের একই কলামে রয়েছে, এটি আসলে ঘরের তাপমাত্রায় একটি গ্যাস হতে পারে!"
+},
+{
+"en": "Only about 75 atoms of Copernicium have ever been detected in the history of the world.",
+"bn": "বিশ্বের ইতিহাসে এখন পর্যন্ত মাত্র ৭৫ টি কোপার্নিসিয়াম পরমাণু সনাক্ত করা হয়েছে।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 80,
+"relation": {
+"en": "Unlike Mercury (Element 80), which forms strong metallic bonds, Copernicium's relativistic effects make it so inert that it barely interacts with metals like gold.",
+"bn": "পারদের (উপাদান ৮০) বিপরীতে, যা শক্তিশালী ধাতব বন্ধন তৈরি করে, কোপার্নিসিয়ামের আপেক্ষিক প্রভাবগুলি একে এতটাই নিষ্ক্রিয় করে তোলে যে এটি সোনার মতো ধাতুগুলির সাথে খুব কমই যোগাযোগ করে।"
+}
+}
+],
+"relatedElements": [80, 114, 118, 86],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Copernicium?",
+"bn": "কোপার্নিসিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "110",
+"bn": "১১০"
+},
+{
+"en": "112",
+"bn": "১১২"
+},
+{
+"en": "114",
+"bn": "১১৪"
+},
+{
+"en": "118",
+"bn": "১১৮"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Copernicium is element number 112 on the periodic table.",
+"bn": "কোপার্নিসিয়াম হলো পর্যায় সারণির ১১২ নম্বর মৌল।"
+}
+},
+{
+"question": {
+"en": "Copernicium is named in honor of which famous scientist?",
+"bn": "কোন বিখ্যাত বিজ্ঞানীর সম্মানে কোপার্নিসিয়ামের নামকরণ করা হয়েছে?"
+},
+"options": [
+{
+"en": "Albert Einstein",
+"bn": "অ্যালবার্ট আইনস্টাইন"
+},
+{
+"en": "Niels Bohr",
+"bn": "নিলস বোর"
+},
+{
+"en": "Nicolaus Copernicus",
+"bn": "নিকোলাস কোপার্নিকাস"
+},
+{
+"en": "Marie Curie",
+"bn": "মেরি কুরি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It was named after astronomer Nicolaus Copernicus to honor his heliocentric model of the solar system.",
+"bn": "সৌরজগতের সৌরকেন্দ্রিক মডেলের সম্মানার্থে জ্যোতির্বিজ্ঞানী নিকোলাস কোপার্নিকাসের নামে এর নামকরণ করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Which two elements were fused together at the GSI Helmholtz Centre to first synthesize Copernicium?",
+"bn": "কোপার্নিসিয়ামকে প্রথম সংশ্লেষ করার জন্য জিএসআই হেল্মহোল্টজ সেন্টারে কোন দুটি উপাদান একত্রিত করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Gold and Neon",
+"bn": "সোনা এবং নিয়ন"
+},
+{
+"en": "Bismuth and Chromium",
+"bn": "বিসমাথ এবং ক্রোমিয়াম"
+},
+{
+"en": "Lead and Zinc",
+"bn": "সীসা এবং দস্তা"
+},
+{
+"en": "Plutonium and Calcium",
+"bn": "প্লুটোনিয়াম এবং ক্যালসিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "A Lead-208 target was bombarded with Zinc-70 ions in a heavy ion accelerator.",
+"bn": "একটি ভারী আয়ন অ্যাক্সিলারেটরে জিঙ্ক-৭০ আয়ন দিয়ে একটি লিড-২০৮ লক্ষ্যবস্তুতে আঘাত করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Due to strong relativistic effects, what physical state is Copernicium predicted to be in at room temperature?",
+"bn": "শক্তিশালী আপেক্ষিক প্রভাবের কারণে, ঘরের তাপমাত্রায় কোপার্নিসিয়াম কোন ভৌত অবস্থায় থাকবে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "Gas or very volatile liquid",
+"bn": "গ্যাস বা অত্যন্ত উদ্বায়ী তরল"
+},
+{
+"en": "Bose-Einstein Condensate",
+"bn": "বোস-আইনস্টাইন ঘনীভূত অবস্থা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Relativistic contraction stabilizes the 7s orbital, reducing intermolecular forces and making it highly volatile, possibly a gas.",
+"bn": "আপেক্ষিক সংকোচন 7s অরবিটালকে স্থিতিশীল করে, আন্তঃআণবিক শক্তি হ্রাস করে এবং একে অত্যন্ত উদ্বায়ী করে তোলে, যা সম্ভবত একটি গ্যাস।"
+}
+},
+{
+"question": {
+"en": "Copernicium is located directly below which element in the periodic table?",
+"bn": "পর্যায় সারণীতে কোপার্নিসিয়াম ঠিক কোন মৌলের নিচে অবস্থিত?"
+},
+"options": [
+{
+"en": "Cadmium",
+"bn": "ক্যাডমিয়াম"
+},
+{
+"en": "Mercury",
+"bn": "পারদ"
+},
+{
+"en": "Gold",
+"bn": "স্বর্ণ"
+},
+{
+"en": "Lead",
+"bn": "সীসা"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Copernicium is in Group 12, directly below Mercury (Hg).",
+"bn": "কোপার্নিসিয়াম গ্রুপ ১২ এ, পারদের (Hg) ঠিক নিচে অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "The most stable known isotope of Copernicium, Cn-285, has a half-life of approximately how long?",
+"bn": "কোপার্নিসিয়ামের সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপ, Cn-285, এর অর্ধায়ু প্রায় কতক্ষণ?"
+},
+"options": [
+{
+"en": "29 milliseconds",
+"bn": "২৯ মিলিসেকেন্ড"
+},
+{
+"en": "29 seconds",
+"bn": "২৯ সেকেন্ড"
+},
+{
+"en": "29 minutes",
+"bn": "২৯ মিনিট"
+},
+{
+"en": "29 years",
+"bn": "২৯ বছর"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cn-285 is unusually stable for a superheavy element, surviving for about 29 seconds before undergoing alpha decay.",
+"bn": "সুপারহেভি উপাদানের জন্য Cn-285 অস্বাভাবিকভাবে স্থিতিশীল, আলফা ক্ষয় হওয়ার আগে এটি প্রায় ২৯ সেকেন্ড টিকে থাকে।"
+}
+},
+{
+"question": {
+"en": "What is the primary mode of radioactive decay for isotopes of Copernicium?",
+"bn": "কোপার্নিসিয়ামের আইসোটোপগুলির তেজস্ক্রিয় ক্ষয়ের প্রাথমিক রূপ কোনটি?"
+},
+"options": [
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Gamma emission",
+"bn": "গামা নির্গমন"
+},
+{
+"en": "Electron capture",
+"bn": "ইলেকট্রন ক্যাপচার"
+},
+{
+"en": "Alpha decay",
+"bn": "আলফা ক্ষয়"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like most superheavy elements, Copernicium primarily undergoes alpha decay to become Darmstadtium (Z=110).",
+"bn": "বেশিরভাগ সুপারহেভি উপাদানের মতো, কোপার্নিসিয়াম প্রাথমিকভাবে ডার্মস্ট্যাডটিয়াম (Z=110) হওয়ার জন্য আলফা ক্ষয়ের মধ্য দিয়ে যায়।"
+}
+},
+{
+"question": {
+"en": "In what specific period of the periodic table does Copernicium reside?",
+"bn": "পর্যায় সারণির কোন নির্দিষ্ট পর্যায়ে কোপার্নিসিয়াম থাকে?"
+},
+"options": [
+{
+"en": "Period 5",
+"bn": "পর্যায় ৫"
+},
+{
+"en": "Period 6",
+"bn": "পর্যায় ৬"
+},
+{
+"en": "Period 7",
+"bn": "পর্যায় ৭"
+},
+{
+"en": "Period 8",
+"bn": "পর্যায় ৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copernicium is located in the 7th period, filling the 6d subshell.",
+"bn": "কোপার্নিসিয়াম ৭ম পর্যায়ে অবস্থিত, যা 6d সাবশেল পূরণ করে।"
+}
+},
+{
+"question": {
+"en": "Which physical concept explains why Copernicium's 7s electrons are drawn closer to the nucleus, making it chemically inert?",
+"bn": "কোন ভৌত ধারণা ব্যাখ্যা করে যে কেন কোপার্নিসিয়ামের 7s ইলেকট্রনগুলো নিউক্লিয়াসের কাছাকাছি টানা হয়, যা একে রাসায়নিকভাবে নিষ্ক্রিয় করে তোলে?"
+},
+"options": [
+{
+"en": "The Heisenberg Uncertainty Principle",
+"bn": "হাইজেনবার্গের অনিশ্চয়তা নীতি"
+},
+{
+"en": "Relativistic Effects",
+"bn": "আপেক্ষিক প্রভাব"
+},
+{
+"en": "Pauli Exclusion Principle",
+"bn": "পাউলির বর্জন নীতি"
+},
+{
+"en": "Zeeman Effect",
+"bn": "জিম্যান প্রভাব"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Because the inner electrons move at a significant fraction of the speed of light, their mass increases, causing orbitals (especially s-orbitals) to contract towards the heavy nucleus.",
+"bn": "যেহেতু অভ্যন্তরীণ ইলেকট্রনগুলি আলোর গতির একটি উল্লেখযোগ্য ভগ্নাংশে চলে, তাই তাদের ভর বৃদ্ধি পায়, যার ফলে অরবিটালগুলি (বিশেষত s-অরবিটালগুলি) ভারী নিউক্লিয়াসের দিকে সংকুচিত হয়।"
+}
+},
+{
+"question": {
+"en": "Which block of the periodic table contains Copernicium?",
+"bn": "পর্যায় সারণির কোন ব্লকে কোপার্নিসিয়াম রয়েছে?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "s-ব্লক"
+},
+{
+"en": "p-block",
+"bn": "p-ব্লক"
+},
+{
+"en": "d-block",
+"bn": "d-ব্লক"
+},
+{
+"en": "f-block",
+"bn": "f-ব্লক"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copernicium is a d-block element, marking the end of the 6d transition metal series.",
+"bn": "কোপার্নিসিয়াম একটি d-ব্লক উপাদান, যা 6d অবস্থান্তর ধাতব সিরিজের সমাপ্তি চিহ্নিত করে।"
+}
+},
+{
+"question": {
+"en": "What experimental technique was used to measure Copernicium's interaction with gold, proving its high volatility?",
+"bn": "সোনার সাথে কোপার্নিসিয়ামের মিথস্ক্রিয়া পরিমাপ করতে কোন পরীক্ষামূলক কৌশল ব্যবহার করা হয়েছিল, যা এর উচ্চ উদ্বায়িতা প্রমাণ করে?"
+},
+"options": [
+{
+"en": "X-ray crystallography",
+"bn": "এক্স-রে ক্রিস্টালোগ্রাফি"
+},
+{
+"en": "Mass spectrometry",
+"bn": "ভর স্পেকট্রোমেট্রি"
+},
+{
+"en": "Gas-solid thermochromatography",
+"bn": "গ্যাস-সলিড থার্মোক্রোমাটোগ্রাফি"
+},
+{
+"en": "Nuclear magnetic resonance (NMR)",
+"bn": "নিউক্লিয়ার ম্যাগনেটিক রেজোন্যান্স (NMR)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Thermochromatography showed that Copernicium forms a very weak metallic bond with gold, condensing only at very low temperatures compared to Mercury.",
+"bn": "থার্মোক্রোমাটোগ্রাফি দেখায় যে কোপার্নিসিয়াম সোনার সাথে একটি খুব দুর্বল ধাতব বন্ধন তৈরি করে, যা পারদের তুলনায় কেবল খুব কম তাপমাত্রায় ঘনীভূত হয়।"
+}
+},
+{
+"question": {
+"en": "Which noble gas is theoretically the best chemical analogue to Copernicium due to its closed-shell electron configuration?",
+"bn": "কোন নিষ্ক্রিয় গ্যাস তাত্ত্বিকভাবে কোপার্নিসিয়ামের সর্বোত্তম রাসায়নিক অ্যানালগ তার ক্লোজড-শেল ইলেকট্রন কনফিগারেশনের কারণে?"
+},
+"options": [
+{
+"en": "Helium",
+"bn": "হিলিয়াম"
+},
+{
+"en": "Argon",
+"bn": "আর্গন"
+},
+{
+"en": "Krypton",
+"bn": "ক্রিপ্টন"
+},
+{
+"en": "Radon",
+"bn": "র‍্যাডন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Because its 7s electrons are so tightly bound (an 'inert pair'), Copernicium behaves similarly to the noble gas Radon.",
+"bn": "যেহেতু এর 7s ইলেকট্রনগুলি এত শক্তভাবে আবদ্ধ (একটি 'নিষ্ক্রিয় জোড়া'), কোপার্নিসিয়াম র‍্যাডন নিষ্ক্রিয় গ্যাসের মতো আচরণ করে।"
+}
+},
+{
+"question": {
+"en": "If Copernicium were to form chemical compounds, what is its most predicted common oxidation state?",
+"bn": "যদি কোপার্নিসিয়াম রাসায়নিক যৌগ গঠন করে, তবে এর সর্বাধিক পূর্বাভাসিত সাধারণ জারণ অবস্থা কী?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+6",
+"bn": "+৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like Mercury, Copernicium is predicted to most commonly exhibit a +2 oxidation state in theoretical compounds like CnF2.",
+"bn": "পারদের মতো, কোপার্নিসিয়াম CnF2 এর মতো তাত্ত্বিক যৌগগুলিতে সর্বাধিক +2 জারণ অবস্থা প্রদর্শন করবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "In what year was Copernicium first definitively synthesized?",
+"bn": "কোন বছর কোপার্নিসিয়াম প্রথম সুনির্দিষ্টভাবে সংশ্লেষিত হয়েছিল?"
+},
+"options": [
+{
+"en": "1945",
+"bn": "১৯৪৫"
+},
+{
+"en": "1996",
+"bn": "১৯৯৬"
+},
+{
+"en": "2010",
+"bn": "২০১০"
+},
+{
+"en": "2016",
+"bn": "২০১৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "It was first created on February 9, 1996, at the GSI facility in Germany.",
+"bn": "এটি প্রথম ৯ই ফেব্রুয়ারি, ১৯৯৬ সালে জার্মানির GSI সুবিধায় তৈরি করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What is the theoretical region on the chart of nuclides where superheavy elements like Copernicium might exhibit unexpectedly long half-lives?",
+"bn": "নিউক্লাইডগুলির চার্টের তাত্ত্বিক অঞ্চলটি কী যেখানে কোপার্নিসিয়ামের মতো সুপারহেভি উপাদানগুলি অপ্রত্যাশিতভাবে দীর্ঘ অর্ধায়ু প্রদর্শন করতে পারে?"
+},
+"options": [
+{
+"en": "The Magic Mountain",
+"bn": "দ্য ম্যাজিক মাউন্টেন"
+},
+{
+"en": "The Valley of Stability",
+"bn": "দ্য ভ্যালি অফ স্টেবিলিটি"
+},
+{
+"en": "The Island of Stability",
+"bn": "দ্য আইল্যান্ড অফ স্টেবিলিটি"
+},
+{
+"en": "The Sea of Instability",
+"bn": "দ্য সি অফ ইনস্টেবিলিটি"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "The 'Island of Stability' is a predicted region where superheavy elements achieve extra stability due to 'magic numbers' of protons and neutrons.",
+"bn": "'আইল্যান্ড অফ স্টেবিলিটি' হলো একটি পূর্বাভাসিত অঞ্চল যেখানে প্রোটন এবং নিউট্রনের 'ম্যাজিক সংখ্যার' কারণে সুপারহেভি উপাদানগুলি অতিরিক্ত স্থিতিশীলতা অর্জন করে।"
+}
+},
+{
+"question": {
+"en": "How many neutrons are in the nucleus of Copernicium-285?",
+"bn": "কোপার্নিসিয়াম-২৮৫ এর নিউক্লিয়াসে কয়টি নিউট্রন থাকে?"
+},
+"options": [
+{
+"en": "112",
+"bn": "১১২"
+},
+{
+"en": "173",
+"bn": "১৭৩"
+},
+{
+"en": "285",
+"bn": "২৮৫"
+},
+{
+"en": "397",
+"bn": "৩৯৭"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Neutrons = Mass Number (285) - Atomic Number (112) = 173.",
+"bn": "নিউট্রন = ভর সংখ্যা (২৮৫) - পারমাণবিক সংখ্যা (১১২) = ১৭৩।"
+}
+},
+{
+"question": {
+"en": "Before being officially named Copernicium by IUPAC in 2010, what was the temporary systematic name for element 112?",
+"bn": "২০১০ সালে IUPAC দ্বারা আনুষ্ঠানিকভাবে কোপার্নিসিয়াম নামকরণের আগে, ১১২ উপাদানটির অস্থায়ী পদ্ধতিগত নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Ununtrium",
+"bn": "ইউনুনট্রিয়াম"
+},
+{
+"en": "Ununbium",
+"bn": "আনুনবিয়াম"
+},
+{
+"en": "Eka-mercury",
+"bn": "একা-মার্কারি"
+},
+{
+"en": "Ununquadium",
+"bn": "ইউনুনকোয়াডিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ununbium is derived from Latin prefixes for 1 (un) - 1 (un) - 2 (bi) + um.",
+"bn": "আনুনবিয়াম ল্যাটিন উপসর্গ ১ (un) - ১ (un) - ২ (bi) + um থেকে উদ্ভূত হয়েছে।"
+}
+},
+{
+"question": {
+"en": "Why is the synthesis of Copernicium considered a 'cold fusion' reaction in nuclear physics terms?",
+"bn": "কেন কোপার্নিসিয়াম সংশ্লেষণকে পারমাণবিক পদার্থবিজ্ঞানের পরিভাষায় একটি 'শীতল ফিউশন' বিক্রিয়া হিসাবে বিবেচনা করা হয়?"
+},
+"options": [
+{
+"en": "It happens at room temperature",
+"bn": "এটি ঘরের তাপমাত্রায় ঘটে"
+},
+{
+"en": "It uses liquid nitrogen to cool the target",
+"bn": "লক্ষ্যবস্তু ঠান্ডা করার জন্য এটি তরল নাইট্রোজেন ব্যবহার করে"
+},
+{
+"en": "The resulting compound nucleus has low excitation energy",
+"bn": "ফলস্বরূপ যৌগিক নিউক্লিয়াসের কম উত্তেজনা শক্তি রয়েছে"
+},
+{
+"en": "It does not produce any radiation",
+"bn": "এটি কোন বিকিরণ তৈরি করে না"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "In heavy-ion synthesis, 'cold fusion' refers to reactions that create a compound nucleus with relatively low excitation energy (~10–20 MeV), emitting only one or two neutrons.",
+"bn": "ভারী-আয়ন সংশ্লেষণে, 'শীতল ফিউশন' বলতে সেই প্রতিক্রিয়াগুলিকে বোঝায় যা তুলনামূলকভাবে কম উত্তেজনা শক্তিসম্পন্ন (~১০-২০ MeV) যৌগিক নিউক্লিয়াস তৈরি করে, যা শুধুমাত্র একটি বা দুটি নিউট্রন নির্গত করে।"
+}
+},
+{
+"question": {
+"en": "Which subshell is completely filled in a neutral Copernicium atom?",
+"bn": "একটি নিরপেক্ষ কোপার্নিসিয়াম পরমাণুতে কোন সাবশেলটি সম্পূর্ণভাবে পূর্ণ থাকে?"
+},
+"options": [
+{
+"en": "5g",
+"bn": "5g"
+},
+{
+"en": "6p",
+"bn": "6p"
+},
+{
+"en": "6d",
+"bn": "6d"
+},
+{
+"en": "7p",
+"bn": "7p"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copernicium is the final element in the 6d transition series, so its 6d subshell is completely filled with 10 electrons.",
+"bn": "কোপার্নিসিয়াম হলো 6d অবস্থান্তর সিরিজের চূড়ান্ত উপাদান, তাই এর 6d সাবশেল ১০টি ইলেকট্রন দ্বারা সম্পূর্ণভাবে পূর্ণ থাকে।"
+}
+},
+{
+"question": {
+"en": "What does the extreme scarcity of Copernicium (only a few dozen atoms ever made) imply about its commercial utility?",
+"bn": "কোপার্নিসিয়ামের চরম দুষ্প্রাপ্যতা (এখন পর্যন্ত মাত্র কয়েক ডজন পরমাণু তৈরি করা হয়েছে) এর বাণিজ্যিক উপযোগিতা সম্পর্কে কী বোঝায়?"
+},
+"options": [
+{
+"en": "It is highly valuable for making jewelry",
+"bn": "এটি গহনা তৈরির জন্য অত্যন্ত মূল্যবান"
+},
+{
+"en": "It is heavily traded on the black market",
+"bn": "এটি কালো বাজারে ব্যাপকভাবে ব্যবসা করা হয়"
+},
+{
+"en": "It has absolutely no commercial or industrial use",
+"bn": "এর কোনো বাণিজ্যিক বা শিল্প ব্যবহার নেই"
+},
+{
+"en": "It is primarily used in microprocessors",
+"bn": "এটি প্রাথমিকভাবে মাইক্রোপ্রসেসরে ব্যবহৃত হয়"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Because it must be synthesized one atom at a time at extreme cost and decays in seconds, Copernicium has zero practical applications outside pure physics research.",
+"bn": "যেহেতু এটিকে চরম ব্যয়ে একবারে একটি পরমাণু সংশ্লেষ করতে হয় এবং সেকেন্ডের মধ্যে ক্ষয়প্রাপ্ত হয়, তাই বিশুদ্ধ পদার্থবিদ্যা গবেষণার বাইরে কোপার্নিসিয়ামের শূন্য ব্যবহারিক প্রয়োগ রয়েছে।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Copernicium is a shiny, solid metal like Zinc or Cadmium.",
+"bn": "কোপার্নিসিয়াম দস্তা বা ক্যাডমিয়ামের মতো একটি চকচকে, কঠিন ধাতু।"
+},
+{
+"en": "Copernicium can be found in small amounts in nature.",
+"bn": "প্রকৃতিতে অল্প পরিমাণে কোপার্নিসিয়াম পাওয়া যায়।"
+}
+],
+"learningTips": [
+{
+"en": "Think of Copernicium as a 'noble liquid' or 'noble gas'. It belongs with the metals, but relativistic physics forces it to act like the noble gas Radon.",
+"bn": "কোপার্নিসিয়ামকে একটি 'নিষ্ক্রিয় তরল' বা 'নিষ্ক্রিয় গ্যাস' হিসেবে ভাবুন। এটি ধাতুগুলির অন্তর্গত, তবে আপেক্ষিক পদার্থবিদ্যা একে নিষ্ক্রিয় গ্যাস র‍্যাডনের মতো কাজ করতে বাধ্য করে।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "²⁰⁸Pb + ⁷⁰Zn → ²⁷⁷Cn + ¹n",
+"description": {
+"en": "The original cold fusion nuclear reaction used to synthesize Copernicium-277.",
+"bn": "কোপার্নিসিয়াম-২৭৭ সংশ্লেষ করতে ব্যবহৃত মূল শীতল ফিউশন পারমাণবিক বিক্রিয়া।"
+}
+},
+{
+"equation": "Cn + F₂ → CnF₂ (Theoretical)",
+"description": {
+"en": "Predicted formation of Copernicium(II) fluoride, similar to Mercury(II) fluoride.",
+"bn": "পারদ(II) ফ্লোরাইডের মতো কোপার্নিসিয়াম(II) ফ্লোরাইড গঠনের পূর্বাভাস।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Cn → Cn²⁺ + 2e⁻ (Theoretical)",
+"description": {
+"en": "Predicted oxidation half-reaction for Copernicium.",
+"bn": "কোপার্নিসিয়ামের জন্য পূর্বাভাসিত জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "²⁷⁷Cn → ²⁷³Ds + ⁴He",
+"description": {
+"en": "Nuclear alpha decay of Copernicium into Darmstadtium.",
+"bn": "কোপার্নিসিয়ামের ডার্মস্ট্যাডটিয়ামে পারমাণবিক আলফা ক্ষয়।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Van der Waals forces / Weak Metallic",
+"bn": "ভ্যান ডার ওয়ালস বল / দুর্বল ধাতব"
+},
+"molecule": "Cn-Au (Interaction)",
+"description": {
+"en": "Experiments showed Copernicium forms only very weak bonds with gold surfaces compared to its lighter homologues.",
+"bn": "পরীক্ষায় দেখা গেছে যে কোপার্নিসিয়াম এর হালকা সমকক্ষগুলির তুলনায় সোনার পৃষ্ঠের সাথে খুব দুর্বল বন্ধন তৈরি করে।"
+}
+}
+]
+}
+}

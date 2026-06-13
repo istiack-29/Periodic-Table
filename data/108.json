@@ -1,0 +1,978 @@
+{
+"elementId": 108,
+"basicInformation": {
+"atomicNumber": 108,
+"symbol": "Hs",
+"name": {
+"en": "Hassium",
+"bn": "হাসিয়াম"
+},
+"pronunciation": {
+"en": "/ˈhæsiəm/",
+"bn": "হ্যাসিয়াম"
+},
+"atomicMass": 277.0,
+"category": {
+"en": "Transition metal",
+"bn": "অবস্থান্তর ধাতু"
+},
+"group": 8,
+"period": 7,
+"block": "d",
+"phase": {
+"en": "Solid (Predicted)",
+"bn": "কঠিন (আনুমানিক)"
+},
+"appearance": {
+"en": "Silvery metallic (Predicted)",
+"bn": "রূপালি ধাতব (আনুমানিক)"
+},
+"color": {
+"en": "Silver (Predicted)",
+"bn": "রূপালি (আনুমানিক)"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "Peter Armbruster, Gottfried Münzenberg, and the GSI team",
+"bn": "পিটার আর্মব্রাস্টার, গটফ্রিড মুনজেনবার্গ এবং জিএসআই (GSI) দল"
+},
+"discoveryYear": 1984,
+"discoveryLocation": {
+"en": "Darmstadt, Germany",
+"bn": "ডার্মস্ট্যাড, জার্মানি"
+},
+"discoveryStory": {
+"en": "First synthesized by bombarding a target of lead-208 with accelerated nuclei of iron-58 at the GSI Helmholtz Centre for Heavy Ion Research. It was named after the German state of Hesse.",
+"bn": "জিএসআই হেলমহোল্টজ সেন্টারে আয়রন-৫৮ এর ত্বরান্বিত নিউক্লিয়াস দ্বারা সীসা-২০৮ এর একটি লক্ষ্যবস্তুকে বোমাবর্ষণের মাধ্যমে প্রথম সংশ্লেষিত হয়েছিল। জার্মানির হেস (Hesse) রাজ্যের নামানুসারে এর নামকরণ করা হয়েছে।"
+},
+"historicalUses": {
+"en": "No historical uses outside of fundamental nuclear physics research due to its extreme instability and recent discovery.",
+"bn": "অত্যন্ত অস্থিতিশীলতা এবং সাম্প্রতিক আবিষ্কারের কারণে মৌলিক পারমাণবিক পদার্থবিদ্যা গবেষণার বাইরে এর কোনো ঐতিহাসিক ব্যবহার নেই।"
+},
+"famousExperiments": {
+"en": "The synthesis of Hassium tetroxide (HsO4) in 2001, which proved that Hassium behaves similarly to Osmium, validating its placement in Group 8.",
+"bn": "২০০১ সালে হাসিয়াম টেট্রোক্সাইডের (HsO4) সংশ্লেষণ, যা প্রমাণ করে যে হাসিয়াম অসমিয়ামের মতো আচরণ করে এবং গ্রুপ ৮-এ এর অবস্থানকে বৈধতা দেয়।"
+}
+},
+"atomicStructure": {
+"protons": 108,
+"neutrons": 169,
+"electrons": 108,
+"valenceElectrons": 8,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 14, 2],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d⁶ 7s²",
+"orbitalConfiguration": {
+"7s": 2,
+"6d": 6,
+"5f": 14
+},
+"oxidationStates": [8, 6, 5, 4, 3, 2],
+"quantumNumbers": {
+"principal": 6,
+"azimuthal": 2,
+"magnetic": 2,
+"spin": -0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 40.7,
+"unit": "g/cm³ (Predicted)"
+},
+"meltingPoint": {
+"value": null,
+"unit": "K"
+},
+"boilingPoint": {
+"value": null,
+"unit": "K"
+},
+"atomicRadius": {
+"value": 126,
+"unit": "pm (Predicted)"
+},
+"covalentRadius": {
+"value": 134,
+"unit": "pm (Predicted)"
+},
+"vanDerWaalsRadius": {
+"value": null,
+"unit": "pm"
+},
+"thermalConductivity": {
+"value": null,
+"unit": "W/(m·K)"
+},
+"electricalConductivity": null,
+"specificHeat": {
+"value": null,
+"unit": "J/(g·K)"
+},
+"hardness": null,
+"crystalStructure": {
+"en": "Hexagonal close-packed (Predicted)",
+"bn": "হেক্সাগোনাল ক্লোজ-প্যাকড (আনুমানিক)"
+},
+"magneticOrdering": {
+"en": "Paramagnetic (Predicted)",
+"bn": "প্যারাম্যাগনেটিক (আনুমানিক)"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 733.3,
+"unit": "kJ/mol (Predicted)"
+},
+"electronAffinity": {
+"value": null,
+"unit": "kJ/mol"
+},
+"reactivity": {
+"en": "Predicted to be highly reactive towards oxygen, forming a very volatile tetroxide similar to Osmium.",
+"bn": "অক্সিজেনের প্রতি অত্যন্ত প্রতিক্রিয়াশীল বলে ধারণা করা হয়, যা অসমিয়ামের মতো একটি খুব উদ্বায়ী টেট্রোক্সাইড গঠন করে।"
+},
+"commonCompounds": ["HsO₄"],
+"flameTestColor": {
+"en": "Unknown",
+"bn": "অজানা"
+},
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": {
+"en": "None. Exists only in minute quantities for a fraction of a second.",
+"bn": "নেই। শুধুমাত্র এক সেকেন্ডের ভগ্নাংশের জন্য অতি ক্ষুদ্র পরিমাণে বিদ্যমান থাকে।"
+},
+"commercialUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"electronicsUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"semiconductorUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"aerospaceUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"batteryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"aiHardwareUses": {
+"en": "Currently none; strictly limited to highly specialized quantum and nuclear simulations.",
+"bn": "বর্তমানে নেই; কঠোরভাবে শুধুমাত্র উচ্চ বিশেষায়িত কোয়ান্টাম এবং পারমাণবিক সিমুলেশনের মধ্যে সীমাবদ্ধ।"
+},
+"renewableEnergyUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"nanotechnologyUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"nuclearUses": {
+"en": "Studied extensively in nuclear physics to understand the 'Island of Stability' and strong nuclear forces.",
+"bn": "'আইল্যান্ড অফ স্ট্যাবিলিটি' এবং শক্তিশালী পারমাণবিক শক্তি বোঝার জন্য পারমাণবিক পদার্থবিজ্ঞানে ব্যাপকভাবে অধ্যয়ন করা হয়।"
+},
+"militaryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"medicalUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"foodIndustryUses": {
+"en": "None.",
+"bn": "নেই।"
+},
+"constructionUses": {
+"en": "None.",
+"bn": "নেই।"
+}
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "No known biological role. It is entirely synthetic.",
+"bn": "কোনো পরিচিত জৈবিক ভূমিকা নেই। এটি সম্পূর্ণ কৃত্রিম।"
+},
+"humanBodyRole": {
+"en": "Absent from the human body.",
+"bn": "মানবদেহে অনুপস্থিত।"
+},
+"toxicity": {
+"en": "Highly toxic due to extreme radiation, though practically impossible to encounter.",
+"bn": "চরম বিকিরণের কারণে অত্যন্ত বিষাক্ত, যদিও এর সম্মুখীন হওয়া কার্যত অসম্ভব।"
+},
+"environmentalImpact": {
+"en": "No environmental impact as it does not exist in nature and decays almost instantly upon creation.",
+"bn": "পরিবেশগত কোনো প্রভাব নেই কারণ এটি প্রকৃতিতে বিদ্যমান নেই এবং তৈরির প্রায় সাথে সাথেই ক্ষয়প্রাপ্ত হয়।"
+},
+"pollutionRisks": {
+"en": "Zero risk under normal circumstances. Laboratory containment manages the microscopic amounts synthesized.",
+"bn": "স্বাভাবিক পরিস্থিতিতে শূন্য ঝুঁকি। পরীক্ষাগারের নিয়ন্ত্রণ ব্যবস্থা সংশ্লেষিত অতি ক্ষুদ্র পরিমাণ পরিচালনা করে।"
+},
+"recyclingMethods": {
+"en": "Not applicable. Transmutes rapidly into lighter elements via alpha decay.",
+"bn": "প্রযোজ্য নয়। আলফা ক্ষয়ের মাধ্যমে দ্রুত হালকা উপাদানগুলিতে রূপান্তরিত হয়।"
+},
+"sustainabilityScore": 0.0
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Germany (GSI)",
+"bn": "জার্মানি (GSI)"
+},
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+},
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+}
+],
+"miningMethods": {
+"en": "Cannot be mined. Synthesized in particle accelerators via heavy ion fusion.",
+"bn": "খনি থেকে উত্তোলন করা যায় না। ভারী আয়ন ফিউশনের মাধ্যমে পার্টিকেল এক্সিলারেটরে সংশ্লেষিত হয়।"
+},
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not commercially available. Priceless in terms of scientific research costs.",
+"bn": "বাণিজ্যিকভাবে উপলব্ধ নয়। বৈজ্ঞানিক গবেষণার খরচের দিক থেকে অমূল্য।"
+},
+"futureDemand": {
+"en": "Demand is strictly academic for theoretical chemistry and nuclear modeling.",
+"bn": "তাত্ত্বিক রসায়ন এবং পারমাণবিক মডেলিংয়ের জন্য চাহিদা কঠোরভাবে একাডেমিক।"
+},
+"globalImportance": {
+"en": "Vital for expanding the periodic table and testing the limits of nuclear stability.",
+"bn": "পর্যায় সারণী প্রসারিত করতে এবং পারমাণবিক স্থিতিশীলতার সীমা পরীক্ষা করার জন্য অত্যাবশ্যক।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiological hazard. Emits high-energy alpha particles and gamma radiation during rapid decay.",
+"bn": "চরম রেডিওলজিক্যাল বিপদ। দ্রুত ক্ষয়ের সময় উচ্চ-শক্তির আলফা কণা এবং গামা বিকিরণ নির্গত করে।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Decays within seconds or fractions of a second.",
+"bn": "সংরক্ষণ করা যায় না। কয়েক সেকেন্ড বা সেকেন্ডের ভগ্নাংশের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+},
+"handlingProcedures": {
+"en": "Handled autonomously by robotic sensors and detectors within heavy-ion collision chambers.",
+"bn": "ভারী-আয়ন সংঘর্ষ চেম্বারের মধ্যে রোবোটিক সেন্সর এবং ডিটেক্টর দ্বারা স্বয়ংক্রিয়ভাবে পরিচালিত হয়।"
+},
+"exposureRisks": {
+"en": "Severe acute radiation syndrome if macro-quantities could hypothetically exist.",
+"bn": "যদি তাত্ত্বিকভাবে ম্যাক্রো-পরিমাণে অস্তিত্ব থাকে, তবে গুরুতর তীব্র বিকিরণ সিনড্রোম হতে পারে।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় পদার্থ"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Hassium is a superheavy, human-made element that only exists for a few seconds in advanced laboratories. It helps scientists understand how huge atoms work.",
+"bn": "হাসিয়াম একটি অতিভারী, মানবসৃষ্ট উপাদান যা উন্নত গবেষণাগারে মাত্র কয়েক সেকেন্ডের জন্য বিদ্যমান থাকে। এটি বিজ্ঞানীদের বুঝতে সাহায্য করে যে বিশাল পরমাণুগুলি কীভাবে কাজ করে।"
+},
+"advancedExplanation": {
+"en": "Hassium is a transactinide element with atomic number 108. Despite relativistic effects altering the orbital energies of superheavy elements, chemical experiments have proven Hassium reliably behaves as a Group 8 transition metal, specifically forming a volatile tetroxide (HsO4).",
+"bn": "হাসিয়াম হলো ১০৮ পারমাণবিক সংখ্যা বিশিষ্ট একটি ট্রান্সঅ্যাক্টিনাইড উপাদান। অতিভারী উপাদানগুলির অরবিটাল শক্তি পরিবর্তনকারী আপেক্ষিক প্রভাব থাকা সত্ত্বেও, রাসায়নিক পরীক্ষায় প্রমাণিত হয়েছে যে হাসিয়াম নির্ভরযোগ্যভাবে একটি গ্রুপ ৮ ট্রানজিশন ধাতু হিসাবে আচরণ করে, বিশেষত একটি উদ্বায়ী টেট্রোক্সাইড (HsO4) গঠন করে।"
+},
+"funFacts": [
+{
+"en": "If you could collect enough Hassium to hold, it would likely be one of the densest materials in the universe—nearly twice as dense as Gold.",
+"bn": "যদি আপনি ধরে রাখার মতো যথেষ্ট হাসিয়াম সংগ্রহ করতে পারতেন, তবে এটি সম্ভবত মহাবিশ্বের অন্যতম ঘন পদার্থ হবে—সোনার চেয়ে প্রায় দ্বিগুণ ঘন।"
+},
+{
+"en": "Scientists managed to study the chemistry of Hassium using only 7 individual atoms!",
+"bn": "বিজ্ঞানীরা মাত্র ৭টি পৃথক পরমাণু ব্যবহার করে হাসিয়ামের রসায়ন অধ্যয়ন করতে সক্ষম হয়েছেন!"
+}
+],
+"comparisons": [
+{
+"compareWithId": 76,
+"relation": {
+"en": "Hassium is the heavier homologue of Osmium. Both uniquely form highly volatile, highly toxic tetroxides (+8 oxidation state).",
+"bn": "হাসিয়াম হলো অসমিয়ামের একটি ভারী সমতুল্য মৌল। উভয়ই অনন্যভাবে অত্যন্ত উদ্বায়ী, অত্যন্ত বিষাক্ত টেট্রোক্সাইড গঠন করে (+৮ জারণ অবস্থা)।"
+}
+}
+],
+"relatedElements": [76, 44, 26, 107, 109],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Hassium?",
+"bn": "হাসিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "104",
+"bn": "১০৪"
+},
+{
+"en": "108",
+"bn": "১০৮"
+},
+{
+"en": "112",
+"bn": "১১২"
+},
+{
+"en": "106",
+"bn": "১০৬"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hassium is element number 108 on the periodic table.",
+"bn": "হাসিয়াম পর্যায় সারণির ১০৮ নম্বর মৌল।"
+}
+},
+{
+"question": {
+"en": "In which group of the periodic table is Hassium located?",
+"bn": "হাসিয়াম পর্যায় সারণীর কোন গ্রুপে অবস্থিত?"
+},
+"options": [
+{
+"en": "Group 6",
+"bn": "গ্রুপ ৬"
+},
+{
+"en": "Group 8",
+"bn": "গ্রুপ ৮"
+},
+{
+"en": "Group 10",
+"bn": "গ্রুপ ১০"
+},
+{
+"en": "Group 12",
+"bn": "গ্রুপ ১২"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hassium is in Group 8, positioned directly below Iron, Ruthenium, and Osmium.",
+"bn": "হাসিয়াম গ্রুপ ৮-এ অবস্থিত, যা আয়রন, রুথেনিয়াম এবং অসমিয়ামের ঠিক নিচে অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "What is the origin of the name 'Hassium'?",
+"bn": "'হাসিয়াম' নামের উৎপত্তি কী?"
+},
+"options": [
+{
+"en": "A famous scientist named Hassium",
+"bn": "হাসিয়াম নামক একজন বিখ্যাত বিজ্ঞানী"
+},
+{
+"en": "The Latin word for 'Heavy'",
+"bn": "'ভারী' এর ল্যাটিন শব্দ"
+},
+{
+"en": "The German state of Hesse",
+"bn": "জার্মানির হেস রাজ্য"
+},
+{
+"en": "A research laboratory in Russia",
+"bn": "রাশিয়ার একটি গবেষণাগার"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "It was named after Hesse, the German state where the GSI Helmholtz Centre (the discovery site) is located.",
+"bn": "জিএসআই হেলমহোল্টজ সেন্টার (আবিষ্কারের স্থান) অবস্থিত জার্মানির হেস রাজ্যের নামানুসারে এর নামকরণ করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Which compound of Hassium is most famous for proving its chemical properties?",
+"bn": "রাসায়নিক বৈশিষ্ট্য প্রমাণের জন্য হাসিয়ামের কোন যৌগটি সবচেয়ে বিখ্যাত?"
+},
+"options": [
+{
+"en": "Hassium dioxide",
+"bn": "হাসিয়াম ডাই অক্সাইড"
+},
+{
+"en": "Hassium tetroxide",
+"bn": "হাসিয়াম টেট্রোক্সাইড"
+},
+{
+"en": "Hassium hexafluoride",
+"bn": "হাসিয়াম হেক্সাফ্লুরাইড"
+},
+{
+"en": "Hassium chloride",
+"bn": "হাসিয়াম ক্লোরাইড"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hassium tetroxide (HsO4) was successfully synthesized, proving it behaves like its lighter homologue, Osmium.",
+"bn": "হাসিয়াম টেট্রোক্সাইড (HsO4) সফলভাবে সংশ্লেষিত হয়েছিল, যা প্রমাণ করে এটি তার হালকা সমতুল্য অসমিয়ামের মতো আচরণ করে।"
+}
+},
+{
+"question": {
+"en": "What is the highest predicted oxidation state for Hassium?",
+"bn": "হাসিয়ামের জন্য সর্বোচ্চ আনুমানিক জারণ অবস্থা কত?"
+},
+"options": [
+{
+"en": "+4",
+"bn": "+৪"
+},
+{
+"en": "+6",
+"bn": "+৬"
+},
+{
+"en": "+8",
+"bn": "+৮"
+},
+{
+"en": "+10",
+"bn": "+১০"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Like Osmium, Hassium can reach an oxidation state of +8 in compounds like HsO4.",
+"bn": "অসমিয়ামের মতো, হাসিয়াম HsO4-এর মতো যৌগগুলিতে +৮ এর জারণ অবস্থায় পৌঁছাতে পারে।"
+}
+},
+{
+"question": {
+"en": "What method was used to synthesize the first atoms of Hassium?",
+"bn": "হাসিয়ামের প্রথম পরমাণুগুলিকে সংশ্লেষণ করতে কোন পদ্ধতি ব্যবহার করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Neutron capture in a nuclear reactor",
+"bn": "পারমাণবিক চুল্লিতে নিউট্রন ক্যাপচার"
+},
+{
+"en": "Cold fusion by bombarding Lead with Iron",
+"bn": "আয়রন দিয়ে সীসাকে বোমাবর্ষণের মাধ্যমে কোল্ড ফিউশন"
+},
+{
+"en": "Chemical isolation from uranium ore",
+"bn": "ইউরেনিয়াম আকরিক থেকে রাসায়নিক বিচ্ছিন্নকরণ"
+},
+{
+"en": "Proton bombardment of Gold",
+"bn": "সোনার উপর প্রোটন বোমাবর্ষণ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hassium was created by fusing a Lead-208 target with accelerated Iron-58 ions.",
+"bn": "ত্বরান্বিত আয়রন-৫৮ আয়ন দিয়ে সীসা-২০৮ লক্ষ্যবস্তুকে ফিউজ করে হাসিয়াম তৈরি করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Due to its predicted extreme density (~41 g/cm³), how does Hassium compare to Lead?",
+"bn": "এর আনুমানিক চরম ঘনত্বের (~৪১ g/cm³) কারণে, সীসার তুলনায় হাসিয়ামের অবস্থান কী?"
+},
+"options": [
+{
+"en": "It is lighter than Lead",
+"bn": "এটি সীসার চেয়ে হালকা"
+},
+{
+"en": "It is about the same density as Lead",
+"bn": "এটি প্রায় সীসার সমান ঘনত্বের"
+},
+{
+"en": "It is more than 3 times denser than Lead",
+"bn": "এটি সীসার চেয়ে ৩ গুণেরও বেশি ঘন"
+},
+{
+"en": "It is 10 times denser than Lead",
+"bn": "এটি সীসার চেয়ে ১০ গুণ ঘন"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Lead has a density of ~11.3 g/cm³. Hassium's predicted density of ~41 g/cm³ makes it nearly four times denser.",
+"bn": "সীসার ঘনত্ব ~১১.৩ g/cm³। হাসিয়ামের আনুমানিক ঘনত্ব ~৪১ g/cm³ এটিকে প্রায় চারগুণ বেশি ঘন করে তোলে।"
+}
+},
+{
+"question": {
+"en": "In what physical state is Hassium predicted to be at standard room temperature?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় হাসিয়াম কোন ভৌত অবস্থায় থাকবে বলে ধারণা করা হয়?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Following the trend of heavy transition metals, Hassium is predicted to be a solid metal.",
+"bn": "ভারী অবস্থান্তর ধাতুগুলির প্রবণতা অনুসরণ করে, হাসিয়ামকে একটি কঠিন ধাতু বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the primary mode of radioactive decay for Hassium isotopes?",
+"bn": "হাসিয়াম আইসোটোপের জন্য তেজস্ক্রিয় ক্ষয়ের প্রাথমিক রূপ কোনটি?"
+},
+"options": [
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Alpha decay",
+"bn": "আলফা ক্ষয়"
+},
+{
+"en": "Electron capture",
+"bn": "ইলেকট্রন ক্যাপচার"
+},
+{
+"en": "Neutron emission",
+"bn": "নিউট্রন নির্গমন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Superheavy elements like Hassium primarily decay by emitting alpha particles (Helium nuclei) to become lighter elements.",
+"bn": "হাসিয়ামের মতো অতিভারী উপাদানগুলি প্রাথমিকভাবে আলফা কণা (হিলিয়াম নিউক্লিয়াস) নির্গত করে হালকা উপাদানে পরিণত হতে ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "Hassium-270 is of particular interest to physicists because it is thought to be near what theoretical region?",
+"bn": "পদার্থবিজ্ঞানীদের কাছে হাসিয়াম-২৭০ বিশেষভাবে আগ্রহের বিষয় কারণ এটি কোন তাত্ত্বিক অঞ্চলের কাছাকাছি বলে মনে করা হয়?"
+},
+"options": [
+{
+"en": "The Bermuda Triangle",
+"bn": "বারমুডা ট্রায়াঙ্গেল"
+},
+{
+"en": "The Island of Stability",
+"bn": "আইল্যান্ড অফ স্ট্যাবিলিটি"
+},
+{
+"en": "The Supernova Threshold",
+"bn": "সুপারনোভা থ্রেশহোল্ড"
+},
+{
+"en": "The Fermi Paradox",
+"bn": "ফার্মি প্যারাডক্স"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Hs-270 possesses a 'magic number' of protons and neutrons, making it a deformed doubly magic nucleus near the Island of Stability.",
+"bn": "Hs-270-এর প্রোটন এবং নিউট্রনের একটি 'ম্যাজিক নম্বর' রয়েছে, যা এটিকে আইল্যান্ড অফ স্ট্যাবিলিটির কাছাকাছি একটি বিকৃত দ্বিগুণ ম্যাজিক নিউক্লিয়াস করে তোলে।"
+}
+},
+{
+"question": {
+"en": "Before it was officially named, what was the temporary IUPAC systematic name for element 108?",
+"bn": "আনুষ্ঠানিকভাবে নামকরণ করার আগে, ১০৮ নম্বর মৌলের অস্থায়ী IUPAC পদ্ধতিগত নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Unniloctium",
+"bn": "আননিলঅক্টিয়াম"
+},
+{
+"en": "Ununennium",
+"bn": "আনুনেনিয়াম"
+},
+{
+"en": "Eka-Osmium",
+"bn": "একা-অসমিয়াম"
+},
+{
+"en": "Octuatium",
+"bn": "অক্টিউয়াম"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Using the IUPAC systematic naming rules for un-named elements, 1-0-8 translates to Un-nil-oct-ium.",
+"bn": "নামহীন উপাদানগুলির জন্য IUPAC পদ্ধতিগত নামকরণের নিয়ম ব্যবহার করে, ১-০-৮ এর অনুবাদ হয় Un-nil-oct-ium (আন-নিল-অক্ট-িয়াম)।"
+}
+},
+{
+"question": {
+"en": "Which block of the periodic table does Hassium belong to?",
+"bn": "পর্যায় সারণির কোন ব্লকের অন্তর্গত হাসিয়াম?"
+},
+"options": [
+{
+"en": "s-block",
+"bn": "এস-ব্লক (s-block)"
+},
+{
+"en": "p-block",
+"bn": "পি-ব্লক (p-block)"
+},
+{
+"en": "d-block",
+"bn": "ডি-ব্লক (d-block)"
+},
+{
+"en": "f-block",
+"bn": "এফ-ব্লক (f-block)"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "As a transition metal, its outermost electrons reside in the d-orbital, specifically the 6d subshell.",
+"bn": "একটি অবস্থান্তর ধাতু হিসাবে, এর সর্ববহিঃস্থ ইলেকট্রনগুলি ডি-অরবিটালে থাকে, বিশেষ করে ৬ডি (6d) সাবশেল।"
+}
+},
+{
+"question": {
+"en": "How many naturally occurring isotopes does Hassium have?",
+"bn": "প্রকৃতিতে হাসিয়ামের কয়টি আইসোটোপ পাওয়া যায়?"
+},
+"options": [
+{
+"en": "Zero",
+"bn": "শূন্য"
+},
+{
+"en": "One",
+"bn": "একটি"
+},
+{
+"en": "Three",
+"bn": "তিনটি"
+},
+{
+"en": "Eight",
+"bn": "আটটি"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Hassium is entirely artificial. It does not exist in nature.",
+"bn": "হাসিয়াম সম্পূর্ণ কৃত্রিম। প্রকৃতিতে এর কোনো অস্তিত্ব নেই।"
+}
+},
+{
+"question": {
+"en": "What highly advanced scientific technique was used to study the chemical properties of a few Hassium atoms?",
+"bn": "কয়েকটি হাসিয়াম পরমাণুর রাসায়নিক বৈশিষ্ট্য অধ্যয়ন করতে কোন অত্যন্ত উন্নত বৈজ্ঞানিক কৌশল ব্যবহার করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Nuclear Magnetic Resonance",
+"bn": "নিউক্লিয়ার ম্যাগনেটিক রেজোন্যান্স"
+},
+{
+"en": "Gas-solid isothermal chromatography",
+"bn": "গ্যাস-সলিড আইসোথার্মাল ক্রোমাটোগ্রাফি"
+},
+{
+"en": "X-ray crystallography",
+"bn": "এক্স-রে ক্রিস্টালোগ্রাফি"
+},
+{
+"en": "Mass spectrometry",
+"bn": "মাস স্পেকট্রোমেট্রি"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Researchers oxidized single atoms of Hassium as they were created and measured how the resulting gas interacted with detectors at different temperatures.",
+"bn": "গবেষকরা হাসিয়ামের একক পরমাণুগুলি তৈরি হওয়ার সাথে সাথে সেগুলিকে জারিত করেছিলেন এবং ফলস্বরূপ গ্যাস কীভাবে বিভিন্ন তাপমাত্রায় ডিটেক্টরগুলির সাথে যোগাযোগ করেছিল তা পরিমাপ করেছিলেন।"
+}
+},
+{
+"question": {
+"en": "Because of its immense nuclear charge, what physical effect significantly influences Hassium's electron configuration?",
+"bn": "এর বিশাল পারমাণবিক আধানের কারণে, কোন ভৌত প্রভাব হাসিয়ামের ইলেকট্রন কনফিগারেশনকে উল্লেখযোগ্যভাবে প্রভাবিত করে?"
+},
+"options": [
+{
+"en": "The Doppler Effect",
+"bn": "ডপলার প্রভাব"
+},
+{
+"en": "Relativistic effects",
+"bn": "আপেক্ষিক প্রভাব"
+},
+{
+"en": "The Zeeman Effect",
+"bn": "জিম্যান প্রভাব"
+},
+{
+"en": "Capillary action",
+"bn": "কৈশিক ক্রিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Electrons near the heavy nucleus travel at a significant fraction of the speed of light, altering their mass and orbital energies due to relativity.",
+"bn": "ভারী নিউক্লিয়াসের কাছাকাছি ইলেকট্রনগুলি আলোর গতির উল্লেখযোগ্য ভগ্নাংশে ভ্রমণ করে, আপেক্ষিকতার কারণে তাদের ভর এবং অরবিটাল শক্তি পরিবর্তন করে।"
+}
+},
+{
+"question": {
+"en": "Which element was bombarded to act as the target in the original synthesis of Hassium?",
+"bn": "হাসিয়ামের মূল সংশ্লেষণে লক্ষ্যবস্তু হিসেবে কাজ করার জন্য কোন উপাদানটিতে বোমাবর্ষণ করা হয়েছিল?"
+},
+"options": [
+{
+"en": "Uranium",
+"bn": "ইউরেনিয়াম"
+},
+{
+"en": "Plutonium",
+"bn": "প্লুটোনিয়াম"
+},
+{
+"en": "Lead",
+"bn": "সীসা"
+},
+{
+"en": "Bismuth",
+"bn": "বিসমাথ"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "A target of Lead-208 was used in the cold fusion experiment.",
+"bn": "কোল্ড ফিউশন পরীক্ষায় সীসা-২০৮ এর একটি লক্ষ্যবস্তু ব্যবহার করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What is the expected color of Hassium if viewed macroscopically?",
+"bn": "যদি ম্যাক্রোস্কোপিকভাবে দেখা হয় তবে হাসিয়ামের প্রত্যাশিত রঙ কী?"
+},
+"options": [
+{
+"en": "Reddish-brown",
+"bn": "লালচে-বাদামী"
+},
+{
+"en": "Silvery or metallic gray",
+"bn": "রূপালি বা ধাতব ধূসর"
+},
+{
+"en": "Transparent",
+"bn": "স্বচ্ছ"
+},
+{
+"en": "Golden yellow",
+"bn": "সোনালী হলুদ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Like most transition metals, it is expected to be highly reflective, appearing silvery-white or metallic gray.",
+"bn": "অধিকাংশ অবস্থান্তর ধাতুর মতো, এটি অত্যন্ত প্রতিফলক হবে বলে আশা করা হয়, যা রূপালী-সাদা বা ধাতব ধূসর দেখায়।"
+}
+},
+{
+"question": {
+"en": "What is the primary industrial application of Hassium?",
+"bn": "হাসিয়ামের প্রাথমিক শিল্প প্রয়োগ কী?"
+},
+"options": [
+{
+"en": "Nuclear power plant fuel",
+"bn": "পারমাণবিক বিদ্যুৎ কেন্দ্রের জ্বালানী"
+},
+{
+"en": "Advanced armor plating",
+"bn": "উন্নত আর্মার প্লেটিং"
+},
+{
+"en": "Quantum computing processors",
+"bn": "কোয়ান্টাম কম্পিউটিং প্রসেসর"
+},
+{
+"en": "It has no industrial applications",
+"bn": "এর কোন শিল্প প্রয়োগ নেই"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Hassium's extreme radioactivity, difficulty to produce, and incredibly short half-life mean it has absolutely no commercial or industrial uses.",
+"bn": "হাসিয়ামের চরম তেজস্ক্রিয়তা, উৎপাদনের অসুবিধা এবং অবিশ্বাস্যভাবে সংক্ষিপ্ত অর্ধায়ু মানে এর একেবারেই কোন বাণিজ্যিক বা শিল্প ব্যবহার নেই।"
+}
+},
+{
+"question": {
+"en": "Roughly how many valence electrons does Hassium possess?",
+"bn": "হাসিয়ামের আনুমানিক কয়টি যোজনী ইলেকট্রন রয়েছে?"
+},
+"options": [
+{
+"en": "2",
+"bn": "২"
+},
+{
+"en": "4",
+"bn": "৪"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "8",
+"bn": "৮"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "As a Group 8 element, its configuration ends in 6d⁶ 7s², giving it a total of 8 valence electrons.",
+"bn": "গ্রুপ ৮ উপাদান হিসেবে, এর কনফিগারেশন 6d⁶ 7s² এ শেষ হয়, যা একে মোট ৮টি যোজনী ইলেকট্রন দেয়।"
+}
+},
+{
+"question": {
+"en": "What hazard class does Hassium fall into exclusively?",
+"bn": "হাসিয়াম একচেটিয়াভাবে কোন বিপদ শ্রেণীর মধ্যে পড়ে?"
+},
+"options": [
+{
+"en": "Corrosive",
+"bn": "ক্ষয়কারী"
+},
+{
+"en": "Biohazard",
+"bn": "জৈব-ঝুঁকি"
+},
+{
+"en": "Radioactive",
+"bn": "তেজস্ক্রিয়"
+},
+{
+"en": "Flammable Gas",
+"bn": "দাহ্য গ্যাস"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Hassium's primary and overwhelming hazard is severe ionizing radiation.",
+"bn": "হাসিয়ামের প্রাথমিক এবং অপ্রতিরোধ্য বিপদ হলো তীব্র আয়োনাইজিং বিকিরণ।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Scientists have bottles of Hassium in their labs.",
+"bn": "বিজ্ঞানীদের পরীক্ষাগারে হাসিয়ামের বোতল আছে।"
+},
+{
+"en": "Superheavy elements like Hassium don't follow the periodic table rules.",
+"bn": "হাসিয়ামের মতো অতিভারী উপাদানগুলি পর্যায় সারণীর নিয়ম মানে না।"
+}
+],
+"learningTips": [
+{
+"en": "To remember Hassium's chemical properties, just look up at Osmium (Os) directly above it in Group 8. They act like chemical twins!",
+"bn": "হাসিয়ামের রাসায়নিক বৈশিষ্ট্যগুলি মনে রাখার জন্য, গ্রুপ ৮ এ এর ঠিক উপরে থাকা অসমিয়ামের (Os) দিকে লক্ষ্য করুন। তারা রাসায়নিক যমজদের মতো কাজ করে!"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "Hs + 2O₂ → HsO₄",
+"description": {
+"en": "Formation of volatile Hassium tetroxide from single atoms, validated by chemical experiments.",
+"bn": "একক পরমাণু থেকে উদ্বায়ী হাসিয়াম টেট্রোক্সাইড গঠন, রাসায়নিক পরীক্ষা দ্বারা যাচাই করা হয়েছে।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Hs → Hs⁸⁺ + 8e⁻",
+"description": {
+"en": "Theoretical oxidation of Hassium to its +8 state in tetroxide formation.",
+"bn": "টেট্রোক্সাইড গঠনে হাসিয়ামকে তার +৮ অবস্থায় তাত্ত্বিক জারণ।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "HsO₄ + 8H⁺ + 8e⁻ → Hs + 4H₂O",
+"description": {
+"en": "Theoretical reduction of Hassium tetroxide back to elemental Hassium.",
+"bn": "হাসিয়াম টেট্রোক্সাইড থেকে মৌলিক হাসিয়ামে তাত্ত্বিক বিজারণ।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Covalent Bond",
+"bn": "সমযোজী বন্ধন"
+},
+"molecule": "HsO₄",
+"description": {
+"en": "Hassium shares electrons with four oxygen atoms, reaching the rare +8 oxidation state.",
+"bn": "হাসিয়াম চারটি অক্সিজেন পরমাণুর সাথে ইলেকট্রন ভাগ করে, বিরল +৮ জারণ অবস্থায় পৌঁছায়।"
+}
+}
+]
+}
+}

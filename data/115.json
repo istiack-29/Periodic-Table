@@ -1,0 +1,1024 @@
+{
+  "elementId": 115,
+  "basicInformation": {
+    "atomicNumber": 115,
+    "symbol": "Mc",
+    "name": {
+      "en": "Moscovium",
+      "bn": "মস্কোভিয়াম"
+    },
+    "pronunciation": {
+      "en": "/mɒsˈkoʊviəm/",
+      "bn": "মস-কো-ভি-আম"
+    },
+    "atomicMass": 290,
+    "category": {
+      "en": "Post-transition metal (predicted)",
+      "bn": "উত্তর-অবস্থান্তর ধাতু (পূর্বাভাসিত)"
+    },
+    "group": 15,
+    "period": 7,
+    "block": "p",
+    "phase": {
+      "en": "Solid (predicted)",
+      "bn": "কঠিন (পূর্বাভাসিত)"
+    },
+    "appearance": {
+      "en": "Unknown, presumed metallic",
+      "bn": "অজানা, ধাতব বলে অনুমিত"
+    },
+    "color": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "radioactive": true,
+    "naturalOccurrence": {
+      "en": "Synthetic",
+      "bn": "কৃত্রিম"
+    }
+  },
+  "discoveryAndHistory": {
+    "discoveredBy": {
+      "en": "Joint Institute for Nuclear Research (JINR) and Lawrence Livermore National Laboratory",
+      "bn": "যৌথ পারমাণবিক গবেষণা ইনস্টিটিউট (JINR) এবং লরেন্স লিভারমোর জাতীয় গবেষণাগার"
+    },
+    "discoveryYear": 2003,
+    "discoveryLocation": {
+      "en": "Dubna, Russia",
+      "bn": "ডুবনা, রাশিয়া"
+    },
+    "discoveryStory": {
+      "en": "Synthesized by bombarding americium-243 with calcium-48 ions, producing isotopes of element 115 that decayed via alpha emission. Officially named in 2016 after the Moscow Oblast, home of JINR.",
+      "bn": "অ্যামেরিসিয়াম-২৪৩ এর উপর ক্যালসিয়াম-৪৮ আয়ন নিক্ষেপ করে সংশ্লেষিত করা হয়েছিল, যা আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়। JINR-এর আবাসস্থল মস্কো ওব্লাস্টের নামানুসারে ২০১৬ সালে আনুষ্ঠানিকভাবে নামকরণ করা হয়।"
+    },
+    "historicalUses": {
+      "en": "No historical uses; exists only in research as a few atoms at a time. Previously known as ununpentium (Uup).",
+      "bn": "কোনো ঐতিহাসিক ব্যবহার নেই; শুধুমাত্র গবেষণায় কয়েকটি পরমাণু হিসেবে বিদ্যমান। পূর্বে আনআনপেন্টিয়াম (Uup) নামে পরিচিত ছিল।"
+    },
+    "famousExperiments": {
+      "en": "The 2003 Dubna ²⁴³Am(⁴⁸Ca, 3-4n) reaction; later confirmed at GSI Darmstadt and RIKEN.",
+      "bn": "২০০৩ সালের ডুবনার ²⁴³Am(⁴⁸Ca, 3-4n) বিক্রিয়া; পরে GSI ডার্মস্ট্যাডট এবং রাইকেনে নিশ্চিত করা হয়।"
+    }
+  },
+  "atomicStructure": {
+    "protons": 115,
+    "neutrons": 175,
+    "electrons": 115,
+    "valenceElectrons": 5,
+    "shells": 7,
+    "shellDistribution": [
+      2,
+      8,
+      18,
+      32,
+      32,
+      18,
+      5
+    ],
+    "electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³",
+    "orbitalConfiguration": {
+      "7s": 2,
+      "7p": 3
+    },
+    "oxidationStates": [
+      1,
+      3
+    ],
+    "quantumNumbers": {
+      "principal": 7,
+      "azimuthal": 1,
+      "magnetic": 1,
+      "spin": 0.5
+    }
+  },
+  "physicalProperties": {
+    "density": {
+      "value": 13.5,
+      "unit": "g/cm³ (predicted)"
+    },
+    "meltingPoint": {
+      "value": 670,
+      "unit": "K (predicted)"
+    },
+    "boilingPoint": {
+      "value": 1400,
+      "unit": "K (predicted)"
+    },
+    "atomicRadius": {
+      "value": 187,
+      "unit": "pm (predicted)"
+    },
+    "covalentRadius": {
+      "value": 162,
+      "unit": "pm (predicted)"
+    },
+    "vanDerWaalsRadius": null,
+    "thermalConductivity": null,
+    "electricalConductivity": null,
+    "specificHeat": null,
+    "hardness": null,
+    "crystalStructure": {
+      "en": "Face-centered cubic (predicted)",
+      "bn": "ফেস-কেন্দ্রিক ঘনক (পূর্বাভাসিত)"
+    },
+    "magneticOrdering": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    }
+  },
+  "chemicalProperties": {
+    "electronegativity": 1.3,
+    "ionizationEnergy": {
+      "value": 538.3,
+      "unit": "kJ/mol (predicted)"
+    },
+    "electronAffinity": {
+      "value": 35.3,
+      "unit": "kJ/mol (predicted)"
+    },
+    "reactivity": {
+      "en": "Predicted to behave more like a heavy metal than a typical pnictogen due to strong relativistic effects on 7p electrons.",
+      "bn": "7p ইলেকট্রনের উপর শক্তিশালী আপেক্ষিক প্রভাবের কারণে সাধারণ নিকোজেনের চেয়ে ভারী ধাতুর মতো আচরণ করবে বলে অনুমান করা হয়।"
+    },
+    "commonCompounds": [],
+    "flameTestColor": {
+      "en": "Unknown",
+      "bn": "অজানা"
+    },
+    "spectralLines": []
+  },
+  "industrialApplications": {
+    "industrialUses": {
+      "en": "None. Exists only in laboratory quantities of a few atoms with half-lives under a second.",
+      "bn": "নেই। শুধুমাত্র এক সেকেন্ডের নিচে অর্ধ-জীবন সহ কয়েকটি পরমাণুর গবেষণাগার পরিমাণে বিদ্যমান।"
+    },
+    "commercialUses": {
+      "en": "No commercial applications exist or are anticipated.",
+      "bn": "কোনো বাণিজ্যিক প্রয়োগ নেই বা প্রত্যাশিত নয়।"
+    },
+    "electronicsUses": {
+      "en": "None known.",
+      "bn": "কোনোটি জানা নেই।"
+    },
+    "semiconductorUses": {
+      "en": "None known.",
+      "bn": "কোনোটি জানা নেই।"
+    },
+    "aerospaceUses": {
+      "en": "None; quantities are far too small and unstable for any propulsion or structural use.",
+      "bn": "নেই; পরিমাণ যেকোনো প্রপালশন বা কাঠামোগত ব্যবহারের জন্য অত্যন্ত কম এবং অস্থির।"
+    },
+    "batteryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "aiHardwareUses": {
+      "en": "Theoretical interest only in modelling relativistic quantum effects relevant to advanced semiconductor physics.",
+      "bn": "উন্নত অর্ধপরিবাহী পদার্থবিদ্যার সাথে প্রাসঙ্গিক আপেক্ষিক কোয়ান্টাম প্রভাবের মডেলিংয়ে শুধুমাত্র তাত্ত্বিক আগ্রহ।"
+    },
+    "renewableEnergyUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "nanotechnologyUses": {
+      "en": "Future speculative interest if longer-lived isotopes near the 'island of stability' can be produced.",
+      "bn": "যদি 'স্থিতিশীলতার দ্বীপের' কাছাকাছি দীর্ঘ-আয়ুর আইসোটোপ তৈরি করা যায় তবে ভবিষ্যৎ অনুমানমূলক আগ্রহ।"
+    },
+    "nuclearUses": {
+      "en": "Pure research target for studying superheavy element synthesis and decay chains.",
+      "bn": "অতিভারী মৌল সংশ্লেষণ এবং ক্ষয় শৃঙ্খল অধ্যয়নের জন্য বিশুদ্ধ গবেষণা লক্ষ্য।"
+    },
+    "militaryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "medicalUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "foodIndustryUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    },
+    "constructionUses": {
+      "en": "None.",
+      "bn": "নেই।"
+    }
+  },
+  "biologicalAndEnvironmentalData": {
+    "biologicalImportance": {
+      "en": "None; no biological role due to extreme radioactivity and synthetic nature.",
+      "bn": "নেই; চরম তেজস্ক্রিয়তা এবং কৃত্রিম প্রকৃতির কারণে কোনো জৈবিক ভূমিকা নেই।"
+    },
+    "humanBodyRole": {
+      "en": "Not present in the human body.",
+      "bn": "মানবদেহে উপস্থিত নয়।"
+    },
+    "toxicity": {
+      "en": "Presumed extremely radiotoxic, but the quantities produced are too small to pose a real chemical hazard.",
+      "bn": "অত্যন্ত তেজস্ক্রিয়-বিষাক্ত বলে অনুমিত, তবে উৎপাদিত পরিমাণ প্রকৃত রাসায়নিক ঝুঁকি সৃষ্টির জন্য অত্যন্ত কম।"
+    },
+    "environmentalImpact": {
+      "en": "Negligible; never released outside specialized accelerator facilities.",
+      "bn": "নগণ্য; বিশেষায়িত এক্সিলারেটর সুবিধার বাইরে কখনো নির্গত হয় না।"
+    },
+    "pollutionRisks": {
+      "en": "None on any meaningful scale.",
+      "bn": "কোনো অর্থপূর্ণ মাত্রায় কোনো ঝুঁকি নেই।"
+    },
+    "recyclingMethods": {
+      "en": "Not applicable; atoms decay within milliseconds of formation.",
+      "bn": "প্রযোজ্য নয়; পরমাণু গঠনের মিলিসেকেন্ডের মধ্যেই ক্ষয়প্রাপ্ত হয়।"
+    },
+    "sustainabilityScore": 0.5
+  },
+  "miningAndEconomics": {
+    "majorProducingCountries": [
+      {
+        "en": "Russia",
+        "bn": "রাশিয়া"
+      },
+      {
+        "en": "United States",
+        "bn": "যুক্তরাষ্ট্র"
+      },
+      {
+        "en": "Germany",
+        "bn": "জার্মানি"
+      }
+    ],
+    "miningMethods": {
+      "en": "Not mined. Produced atom-by-atom in heavy-ion cyclotrons by fusing americium with calcium-48 projectiles.",
+      "bn": "খনন করা হয় না। অ্যামেরিসিয়ামের সাথে ক্যালসিয়াম-৪৮ প্রজেক্টাইল ফিউজ করে ভারী-আয়ন সাইক্লোট্রনে পরমাণু-ভিত্তিক উৎপাদিত হয়।"
+    },
+    "abundance": {
+      "universe": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "earthCrust": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      },
+      "oceans": {
+        "en": "Not naturally occurring",
+        "bn": "প্রাকৃতিকভাবে পাওয়া যায় না"
+      }
+    },
+    "marketValue": {
+      "en": "Not commercially traded; production cost effectively incalculable per atom.",
+      "bn": "বাণিজ্যিকভাবে লেনদেন হয় না; প্রতি পরমাণু উৎপাদন খরচ কার্যত অপরিমেয়।"
+    },
+    "futureDemand": {
+      "en": "Demand limited to fundamental physics research and chase for the 'island of stability'.",
+      "bn": "চাহিদা মৌলিক পদার্থবিদ্যা গবেষণা এবং 'স্থিতিশীলতার দ্বীপ' অনুসন্ধানে সীমাবদ্ধ।"
+    },
+    "globalImportance": {
+      "en": "Key milestone in completing period 7 of the periodic table and probing relativistic chemistry.",
+      "bn": "পর্যায় সারণির ৭ম পর্যায় সম্পূর্ণ করতে এবং আপেক্ষিক রসায়ন অনুসন্ধানে গুরুত্বপূর্ণ মাইলফলক।"
+    }
+  },
+  "safetyInformation": {
+    "hazards": {
+      "en": "Intense alpha radiation from short-lived isotopes; quantities are sub-microscopic.",
+      "bn": "স্বল্পস্থায়ী আইসোটোপ থেকে তীব্র আলফা বিকিরণ; পরিমাণ উপ-মাইক্রোস্কোপিক।"
+    },
+    "storageRequirements": {
+      "en": "Cannot be stored; isotopes decay in milliseconds to seconds.",
+      "bn": "সংরক্ষণ করা যায় না; আইসোটোপ মিলিসেকেন্ড থেকে সেকেন্ডে ক্ষয়প্রাপ্ত হয়।"
+    },
+    "handlingProcedures": {
+      "en": "Handled exclusively inside shielded vacuum recoil separators with remote detection.",
+      "bn": "শুধুমাত্র দূরবর্তী সনাক্তকরণসহ আবৃত শূন্য রিকয়েল বিভাজকের ভিতরে পরিচালনা করা হয়।"
+    },
+    "exposureRisks": {
+      "en": "Theoretical; researchers are shielded by meters of concrete and never come into contact with the atoms.",
+      "bn": "তাত্ত্বিক; গবেষকরা মিটার মিটার কংক্রিট দ্বারা সুরক্ষিত এবং কখনোই পরমাণুর সংস্পর্শে আসেন না।"
+    },
+    "safetyLevel": {
+      "en": "Extreme (Radiological, research-controlled)",
+      "bn": "চরম (তেজস্ক্রিয়, গবেষণা-নিয়ন্ত্রিত)"
+    },
+    "hazardClassifications": [
+      {
+        "en": "Highly Radioactive",
+        "bn": "অত্যন্ত তেজস্ক্রিয়"
+      },
+      {
+        "en": "Alpha Emitter",
+        "bn": "আলফা নির্গমনকারী"
+      }
+    ]
+  },
+  "learningContent": {
+    "simpleExplanation": {
+      "en": "Moscovium is a man-made superheavy element. Only a handful of atoms have ever existed, each lasting less than a second.",
+      "bn": "মস্কোভিয়াম একটি মনুষ্যনির্মিত অতিভারী মৌল। মাত্র কয়েকটি পরমাণু কখনো বিদ্যমান ছিল, প্রতিটি এক সেকেন্ডের কম সময় টিকে ছিল।"
+    },
+    "advancedExplanation": {
+      "en": "Element 115 sits in group 15 below bismuth. Strong relativistic contraction of the 7s and stabilization of the 7p₁/₂ spinor make its chemistry distinctly metallic, with a stable +1 oxidation state predicted to dominate over the +3 typical of lighter pnictogens.",
+      "bn": "মৌল ১১৫ বিসমাথের নিচে গ্রুপ ১৫-এ অবস্থিত। 7s এর শক্তিশালী আপেক্ষিক সংকোচন এবং 7p₁/₂ স্পিনরের স্থিতিশীলকরণ এর রসায়নকে স্পষ্টভাবে ধাতব করে তোলে, যেখানে হালকা নিকোজেনের সাধারণ +৩ এর পরিবর্তে একটি স্থিতিশীল +১ জারণ অবস্থা প্রাধান্য পাবে বলে পূর্বাভাস দেওয়া হয়েছে।"
+    },
+    "funFacts": [
+      {
+        "en": "Moscovium's discovery was once misrepresented online by a former U.S. government employee who claimed it powered alien spacecraft — a claim with no scientific basis.",
+        "bn": "মস্কোভিয়ামের আবিষ্কারকে একসময় একজন প্রাক্তন মার্কিন সরকারি কর্মচারী অনলাইনে ভুলভাবে উপস্থাপন করেছিলেন, যিনি দাবি করেছিলেন এটি এলিয়েন মহাকাশযানে শক্তি জোগায় — যার কোনো বৈজ্ঞানিক ভিত্তি নেই।"
+      },
+      {
+        "en": "Its longest-lived known isotope, Mc-290, has a half-life of about 0.65 seconds.",
+        "bn": "এর সবচেয়ে দীর্ঘস্থায়ী পরিচিত আইসোটোপ Mc-২৯০, প্রায় ০.৬৫ সেকেন্ডের অর্ধ-জীবন রয়েছে।"
+      }
+    ],
+    "comparisons": [
+      {
+        "compareWithId": 83,
+        "relation": {
+          "en": "Bismuth is the stable pnictogen above moscovium; unlike Bi which is mildly toxic but storable, Mc cannot be isolated in bulk.",
+          "bn": "বিসমাথ হল মস্কোভিয়ামের উপরে অবস্থিত স্থিতিশীল নিকোজেন; Bi হালকা বিষাক্ত কিন্তু সংরক্ষণযোগ্য, যেখানে Mc বাল্ক আকারে আলাদা করা যায় না।"
+        }
+      }
+    ],
+    "relatedElements": [
+      113,
+      114,
+      116,
+      117
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "en": "What is the atomic number of moscovium?",
+          "bn": "মস্কোভিয়ামের পারমাণবিক সংখ্যা কত?"
+        },
+        "options": [
+          {
+            "en": "113",
+            "bn": "১১৩"
+          },
+          {
+            "en": "114",
+            "bn": "১১৪"
+          },
+          {
+            "en": "115",
+            "bn": "১১৫"
+          },
+          {
+            "en": "116",
+            "bn": "১১৬"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Moscovium has 115 protons, placing it in group 15 of period 7.",
+          "bn": "মস্কোভিয়ামের ১১৫টি প্রোটন রয়েছে, যা একে পর্যায় ৭-এর গ্রুপ ১৫-এ স্থাপন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which laboratory first reported the synthesis of moscovium in 2003?",
+          "bn": "২০০৩ সালে মস্কোভিয়ামের সংশ্লেষণ প্রথম কোন গবেষণাগার রিপোর্ট করেছিল?"
+        },
+        "options": [
+          {
+            "en": "CERN",
+            "bn": "সার্ন"
+          },
+          {
+            "en": "JINR Dubna with LLNL",
+            "bn": "JINR ডুবনা LLNL সহ"
+          },
+          {
+            "en": "RIKEN alone",
+            "bn": "শুধুমাত্র রাইকেন"
+          },
+          {
+            "en": "Berkeley Lab",
+            "bn": "বার্কলে ল্যাব"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "The Joint Institute for Nuclear Research in Dubna collaborated with Lawrence Livermore to first synthesize element 115.",
+          "bn": "ডুবনার যৌথ পারমাণবিক গবেষণা ইনস্টিটিউট লরেন্স লিভারমোরের সাথে সহযোগিতায় প্রথম মৌল ১১৫ সংশ্লেষণ করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Moscovium belongs to which group of the periodic table?",
+          "bn": "মস্কোভিয়াম পর্যায় সারণির কোন গ্রুপের অন্তর্গত?"
+        },
+        "options": [
+          {
+            "en": "Group 13",
+            "bn": "গ্রুপ ১৩"
+          },
+          {
+            "en": "Group 14",
+            "bn": "গ্রুপ ১৪"
+          },
+          {
+            "en": "Group 15 (pnictogens)",
+            "bn": "গ্রুপ ১৫ (নিকোজেন)"
+          },
+          {
+            "en": "Group 16 (chalcogens)",
+            "bn": "গ্রুপ ১৬ (চ্যালকোজেন)"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Moscovium sits directly below bismuth in the pnictogen family.",
+          "bn": "মস্কোভিয়াম নিকোজেন পরিবারে বিসমাথের ঠিক নিচে অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which projectile-target combination produced moscovium in the original 2003 experiment?",
+          "bn": "মূল ২০০৩ সালের পরীক্ষায় কোন প্রজেক্টাইল-লক্ষ্য সংমিশ্রণ মস্কোভিয়াম তৈরি করেছিল?"
+        },
+        "options": [
+          {
+            "en": "⁴⁸Ca on ²⁴³Am",
+            "bn": "²⁴³Am এর উপর ⁴⁸Ca"
+          },
+          {
+            "en": "⁵⁰Ti on ²⁴⁹Bk",
+            "bn": "²⁴⁹Bk এর উপর ⁵⁰Ti"
+          },
+          {
+            "en": "⁵⁸Fe on ²⁰⁸Pb",
+            "bn": "²⁰⁸Pb এর উপর ⁵⁸Fe"
+          },
+          {
+            "en": "²²Ne on ²⁴⁴Pu",
+            "bn": "²⁴⁴Pu এর উপর ²²Ne"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Calcium-48 ions bombarded americium-243 targets to produce moscovium isotopes via hot fusion.",
+          "bn": "ক্যালসিয়াম-৪৮ আয়ন অ্যামেরিসিয়াম-২৪৩ লক্ষ্যে আঘাত করে হট ফিউশনের মাধ্যমে মস্কোভিয়াম আইসোটোপ তৈরি করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the predicted ground-state electron configuration of moscovium?",
+          "bn": "মস্কোভিয়ামের পূর্বাভাসিত মৌলিক-অবস্থা ইলেকট্রন কনফিগারেশন কী?"
+        },
+        "options": [
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³"
+          },
+          {
+            "en": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+            "bn": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴"
+          },
+          {
+            "en": "[Rn] 7s² 7p⁵",
+            "bn": "[Rn] 7s² 7p⁵"
+          },
+          {
+            "en": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³",
+            "bn": "[Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Following the pnictogen pattern, Mc has three 7p electrons added to a filled radon-like core plus 5f and 6d shells.",
+          "bn": "নিকোজেন প্যাটার্ন অনুসরণ করে, Mc-এর পূর্ণ রেডন-সদৃশ কোর এবং 5f ও 6d শেলের সাথে তিনটি 7p ইলেকট্রন যুক্ত থাকে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the approximate half-life of the most stable known isotope Mc-290?",
+          "bn": "সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপ Mc-২৯০ এর আনুমানিক অর্ধ-জীবন কত?"
+        },
+        "options": [
+          {
+            "en": "≈ 0.65 seconds",
+            "bn": "≈ ০.৬৫ সেকেন্ড"
+          },
+          {
+            "en": "≈ 12 minutes",
+            "bn": "≈ ১২ মিনিট"
+          },
+          {
+            "en": "≈ 1 hour",
+            "bn": "≈ ১ ঘণ্টা"
+          },
+          {
+            "en": "≈ 24 hours",
+            "bn": "≈ ২৪ ঘণ্টা"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Mc-290 decays by alpha emission with a half-life on the order of 650 milliseconds.",
+          "bn": "Mc-২৯০ প্রায় ৬৫০ মিলিসেকেন্ড অর্ধ-জীবন সহ আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which dominant decay mode characterizes known moscovium isotopes?",
+          "bn": "কোন প্রভাবশালী ক্ষয় মোড পরিচিত মস্কোভিয়াম আইসোটোপগুলিকে চিহ্নিত করে?"
+        },
+        "options": [
+          {
+            "en": "Beta-minus decay",
+            "bn": "বিটা-মাইনাস ক্ষয়"
+          },
+          {
+            "en": "Spontaneous fission only",
+            "bn": "শুধুমাত্র স্বতঃস্ফূর্ত বিভাজন"
+          },
+          {
+            "en": "Alpha decay",
+            "bn": "আলফা ক্ষয়"
+          },
+          {
+            "en": "Electron capture",
+            "bn": "ইলেকট্রন ক্যাপচার"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Moscovium isotopes decay primarily via alpha emission, forming nihonium daughters.",
+          "bn": "মস্কোভিয়াম আইসোটোপ প্রাথমিকভাবে আলফা নির্গমনের মাধ্যমে ক্ষয়প্রাপ্ত হয়, নাইহোনিয়াম কন্যা গঠন করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What is the daughter element produced when moscovium undergoes alpha decay?",
+          "bn": "মস্কোভিয়াম আলফা ক্ষয়ের মধ্য দিয়ে গেলে কোন কন্যা মৌল উৎপন্ন হয়?"
+        },
+        "options": [
+          {
+            "en": "Nihonium (113)",
+            "bn": "নাইহোনিয়াম (১১৩)"
+          },
+          {
+            "en": "Flerovium (114)",
+            "bn": "ফ্লেরোভিয়াম (১১৪)"
+          },
+          {
+            "en": "Tennessine (117)",
+            "bn": "টেনেসিন (১১৭)"
+          },
+          {
+            "en": "Oganesson (118)",
+            "bn": "ওগানেসন (১১৮)"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Alpha decay removes 2 protons and 2 neutrons, transforming Mc (Z=115) into Nh (Z=113).",
+          "bn": "আলফা ক্ষয় ২টি প্রোটন এবং ২টি নিউট্রন অপসারণ করে, Mc (Z=১১৫) কে Nh (Z=১১৩) তে রূপান্তরিত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Moscovium was officially named after which geographical entity in 2016?",
+          "bn": "২০১৬ সালে মস্কোভিয়ামের নামকরণ আনুষ্ঠানিকভাবে কোন ভৌগোলিক সত্তার নামে করা হয়েছিল?"
+        },
+        "options": [
+          {
+            "en": "Moscow Oblast, Russia",
+            "bn": "মস্কো ওব্লাস্ট, রাশিয়া"
+          },
+          {
+            "en": "Moscow, Idaho, USA",
+            "bn": "মস্কো, আইডাহো, যুক্তরাষ্ট্র"
+          },
+          {
+            "en": "The Moscow River",
+            "bn": "মস্কভা নদী"
+          },
+          {
+            "en": "The Kremlin",
+            "bn": "ক্রেমলিন"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "IUPAC accepted the name honoring the Moscow Oblast, where JINR Dubna is located.",
+          "bn": "IUPAC মস্কো ওব্লাস্টকে সম্মান জানিয়ে নামটি গ্রহণ করেছে, যেখানে JINR ডুবনা অবস্থিত।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why are relativistic effects unusually strong in moscovium chemistry?",
+          "bn": "কেন মস্কোভিয়াম রসায়নে আপেক্ষিক প্রভাব অস্বাভাবিকভাবে শক্তিশালী?"
+        },
+        "options": [
+          {
+            "en": "High atomic mass alone",
+            "bn": "শুধুমাত্র উচ্চ পারমাণবিক ভর"
+          },
+          {
+            "en": "1s electrons approach a significant fraction of the speed of light due to Z≈115",
+            "bn": "Z≈১১৫ এর কারণে 1s ইলেকট্রন আলোর গতির উল্লেখযোগ্য ভগ্নাংশের কাছাকাছি পৌঁছায়"
+          },
+          {
+            "en": "Its low temperature",
+            "bn": "এর কম তাপমাত্রা"
+          },
+          {
+            "en": "Empty 7p shell",
+            "bn": "খালি 7p শেল"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Very high nuclear charge accelerates inner electrons close to c, contracting s-orbitals and splitting p-orbitals via spin-orbit coupling.",
+          "bn": "অত্যন্ত উচ্চ নিউক্লিয়ার চার্জ অভ্যন্তরীণ ইলেকট্রনকে c-এর কাছাকাছি ত্বরান্বিত করে, s-অরবিটাল সংকুচিত করে এবং স্পিন-অরবিট সংযোগের মাধ্যমে p-অরবিটাল বিভক্ত করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "What oxidation state is predicted to be most stable for moscovium, contrary to lighter pnictogens?",
+          "bn": "হালকা নিকোজেনের বিপরীতে মস্কোভিয়ামের জন্য কোন জারণ অবস্থা সবচেয়ে স্থিতিশীল বলে অনুমান করা হয়?"
+        },
+        "options": [
+          {
+            "en": "+5",
+            "bn": "+৫"
+          },
+          {
+            "en": "+3",
+            "bn": "+৩"
+          },
+          {
+            "en": "+1",
+            "bn": "+১"
+          },
+          {
+            "en": "-3",
+            "bn": "-৩"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Relativistic stabilization of the 7p₁/₂ spinor makes the +1 state energetically favorable for Mc.",
+          "bn": "7p₁/₂ স্পিনরের আপেক্ষিক স্থিতিশীলতা Mc-এর জন্য +১ অবস্থাকে শক্তিগতভাবে অনুকূল করে তোলে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Before its IUPAC name, moscovium had which systematic placeholder name?",
+          "bn": "এর IUPAC নামের পূর্বে, মস্কোভিয়ামের পদ্ধতিগত প্রতিস্থাপন নাম কী ছিল?"
+        },
+        "options": [
+          {
+            "en": "Ununtrium",
+            "bn": "আনআনট্রিয়াম"
+          },
+          {
+            "en": "Ununpentium (Uup)",
+            "bn": "আনআনপেন্টিয়াম (Uup)"
+          },
+          {
+            "en": "Ununhexium",
+            "bn": "আনআনহেক্সিয়াম"
+          },
+          {
+            "en": "Ununseptium",
+            "bn": "আনআনসেপ্টিয়াম"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Element 115 carried the systematic name ununpentium with symbol Uup until 2016.",
+          "bn": "মৌল ১১৫ ২০১৬ সাল পর্যন্ত Uup প্রতীক সহ পদ্ধতিগত নাম আনআনপেন্টিয়াম বহন করেছিল।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which technique is used to identify moscovium atoms in experiments?",
+          "bn": "পরীক্ষায় মস্কোভিয়াম পরমাণু সনাক্ত করতে কোন কৌশল ব্যবহার করা হয়?"
+        },
+        "options": [
+          {
+            "en": "X-ray crystallography",
+            "bn": "এক্স-রে ক্রিস্টালোগ্রাফি"
+          },
+          {
+            "en": "Detection of correlated alpha-decay chains in silicon detectors",
+            "bn": "সিলিকন ডিটেক্টরে সম্পর্কযুক্ত আলফা-ক্ষয় শৃঙ্খল সনাক্তকরণ"
+          },
+          {
+            "en": "Mass spectrometry of grams of sample",
+            "bn": "গ্রাম পরিমাণ নমুনার ভর বর্ণালিমিতি"
+          },
+          {
+            "en": "Visible flame test",
+            "bn": "দৃশ্যমান শিখা পরীক্ষা"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Single atoms are identified by tracking the unique time-correlated alpha cascade down to a known daughter.",
+          "bn": "পরিচিত কন্যা পর্যন্ত অনন্য সময়-সম্পর্কিত আলফা ক্যাসকেড ট্র্যাক করে এক একটি পরমাণু সনাক্ত করা হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Moscovium is part of which broader effort in nuclear chemistry?",
+          "bn": "মস্কোভিয়াম পারমাণবিক রসায়নের কোন বিস্তৃত প্রচেষ্টার অংশ?"
+        },
+        "options": [
+          {
+            "en": "Search for the Island of Stability",
+            "bn": "স্থিতিশীলতার দ্বীপের সন্ধান"
+          },
+          {
+            "en": "Cold fusion energy production",
+            "bn": "শীতল ফিউশন শক্তি উৎপাদন"
+          },
+          {
+            "en": "Medical radioisotope manufacturing",
+            "bn": "চিকিৎসা রেডিওআইসোটোপ উৎপাদন"
+          },
+          {
+            "en": "Industrial catalysis",
+            "bn": "শিল্প অনুঘটক"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "Researchers hope heavier isotopes of Mc and neighbors could approach predicted spherical-magic stability around N=184.",
+          "bn": "গবেষকরা আশা করেন Mc এবং প্রতিবেশীদের ভারী আইসোটোপ N=১৮৪ এর কাছাকাছি পূর্বাভাসিত গোলাকার-ম্যাজিক স্থিতিশীলতার কাছে পৌঁছাতে পারে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which group-15 element directly above moscovium serves as its closest chemical analog?",
+          "bn": "মস্কোভিয়ামের ঠিক উপরে গ্রুপ-১৫ এর কোন মৌল এর নিকটতম রাসায়নিক অ্যানালগ হিসেবে কাজ করে?"
+        },
+        "options": [
+          {
+            "en": "Antimony",
+            "bn": "অ্যান্টিমনি"
+          },
+          {
+            "en": "Arsenic",
+            "bn": "আর্সেনিক"
+          },
+          {
+            "en": "Bismuth",
+            "bn": "বিসমাথ"
+          },
+          {
+            "en": "Phosphorus",
+            "bn": "ফসফরাস"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Bismuth (Z=83) sits directly above Mc and provides the best baseline for predicting Mc's behavior.",
+          "bn": "বিসমাথ (Z=৮৩) Mc-এর ঠিক উপরে অবস্থান করে এবং Mc-এর আচরণ পূর্বাভাসের জন্য সেরা ভিত্তি প্রদান করে।"
+        }
+      },
+      {
+        "question": {
+          "en": "How many neutrons does the isotope Mc-290 contain?",
+          "bn": "Mc-২৯০ আইসোটোপে কতটি নিউট্রন রয়েছে?"
+        },
+        "options": [
+          {
+            "en": "173",
+            "bn": "১৭৩"
+          },
+          {
+            "en": "174",
+            "bn": "১৭৪"
+          },
+          {
+            "en": "175",
+            "bn": "১৭৫"
+          },
+          {
+            "en": "176",
+            "bn": "১৭৬"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Mass number 290 minus 115 protons equals 175 neutrons.",
+          "bn": "ভর সংখ্যা ২৯০ থেকে ১১৫ প্রোটন বিয়োগ করলে ১৭৫ নিউট্রন হয়।"
+        }
+      },
+      {
+        "question": {
+          "en": "Why is moscovium classified as a 'post-transition metal' rather than a true pnictogen?",
+          "bn": "কেন মস্কোভিয়ামকে একটি প্রকৃত নিকোজেনের পরিবর্তে 'উত্তর-অবস্থান্তর ধাতু' হিসাবে শ্রেণীবদ্ধ করা হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "It has no valence electrons",
+            "bn": "এর কোনো যোজ্যতা ইলেকট্রন নেই"
+          },
+          {
+            "en": "Relativistic effects favor metallic, low-oxidation-state behavior over nonmetallic pnictogen chemistry",
+            "bn": "আপেক্ষিক প্রভাব অ-ধাতব নিকোজেন রসায়নের পরিবর্তে ধাতব, নিম্ন-জারণ-অবস্থা আচরণকে অগ্রাধিকার দেয়"
+          },
+          {
+            "en": "It is a gas",
+            "bn": "এটি একটি গ্যাস"
+          },
+          {
+            "en": "It forms only diatomic molecules",
+            "bn": "এটি শুধুমাত্র দ্বিপরমাণু অণু গঠন করে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Computations show Mc to be metallic with a preference for +1, more akin to thallium-like behavior than to nitrogen-family nonmetals.",
+          "bn": "গণনা দেখায় Mc ধাতব এবং +১ এর প্রতি পক্ষপাতী, নাইট্রোজেন-পরিবারের অ-ধাতুর চেয়ে থ্যালিয়াম-সদৃশ আচরণের মতো।"
+        }
+      },
+      {
+        "question": {
+          "en": "What practical constraint limits chemical studies of moscovium?",
+          "bn": "কোন ব্যবহারিক সীমাবদ্ধতা মস্কোভিয়ামের রাসায়নিক অধ্যয়নকে সীমিত করে?"
+        },
+        "options": [
+          {
+            "en": "It is too expensive to buy",
+            "bn": "এটি কেনার জন্য খুব ব্যয়বহুল"
+          },
+          {
+            "en": "Sub-second half-life and one-atom-at-a-time production",
+            "bn": "উপ-সেকেন্ড অর্ধ-জীবন এবং একবারে এক-পরমাণু উৎপাদন"
+          },
+          {
+            "en": "It only reacts with noble gases",
+            "bn": "এটি শুধুমাত্র উৎকৃষ্ট গ্যাসের সাথে বিক্রিয়া করে"
+          },
+          {
+            "en": "It is invisible to all detectors",
+            "bn": "এটি সমস্ত ডিটেক্টরের কাছে অদৃশ্য"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "Because experiments yield perhaps one atom per week with sub-second lifetimes, conventional 'wet' chemistry is impossible.",
+          "bn": "যেহেতু পরীক্ষায় সম্ভবত প্রতি সপ্তাহে একটি পরমাণু উৎপন্ন হয় উপ-সেকেন্ড আয়ুসহ, প্রচলিত 'ভেজা' রসায়ন অসম্ভব।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which IUPAC criterion must be met before a new element name is approved?",
+          "bn": "একটি নতুন মৌলের নাম অনুমোদিত হওয়ার আগে কোন IUPAC মানদণ্ড পূরণ করতে হবে?"
+        },
+        "options": [
+          {
+            "en": "A single unverified atom is sufficient",
+            "bn": "একটি একক অযাচাইকৃত পরমাণু যথেষ্ট"
+          },
+          {
+            "en": "Independent confirmation of synthesis by another laboratory",
+            "bn": "অন্য গবেষণাগার দ্বারা সংশ্লেষণের স্বাধীন নিশ্চিতকরণ"
+          },
+          {
+            "en": "Commercial production of at least 1 gram",
+            "bn": "অন্তত ১ গ্রামের বাণিজ্যিক উৎপাদন"
+          },
+          {
+            "en": "Discovery must occur in two countries simultaneously",
+            "bn": "আবিষ্কার অবশ্যই একই সাথে দুটি দেশে ঘটতে হবে"
+          }
+        ],
+        "correctOptionIndex": 1,
+        "explanation": {
+          "en": "IUPAC/IUPAP joint working parties require reproducible, independent confirmation before assigning a permanent name.",
+          "bn": "IUPAC/IUPAP যৌথ ওয়ার্কিং পার্টি স্থায়ী নাম বরাদ্দের আগে পুনরুৎপাদনযোগ্য, স্বাধীন নিশ্চিতকরণ প্রয়োজন।"
+        }
+      },
+      {
+        "question": {
+          "en": "Approximately how many moscovium atoms have been produced worldwide since 2003?",
+          "bn": "২০০৩ সাল থেকে বিশ্বব্যাপী আনুমানিক কতগুলি মস্কোভিয়াম পরমাণু উৎপাদিত হয়েছে?"
+        },
+        "options": [
+          {
+            "en": "Several billion",
+            "bn": "কয়েক বিলিয়ন"
+          },
+          {
+            "en": "About one million",
+            "bn": "প্রায় এক মিলিয়ন"
+          },
+          {
+            "en": "Roughly 100 atoms",
+            "bn": "প্রায় ১০০ পরমাণু"
+          },
+          {
+            "en": "Exactly one",
+            "bn": "ঠিক একটি"
+          }
+        ],
+        "correctOptionIndex": 2,
+        "explanation": {
+          "en": "Over the entire history of moscovium research, only on the order of ~100 atoms have been confirmed.",
+          "bn": "মস্কোভিয়াম গবেষণার সম্পূর্ণ ইতিহাস জুড়ে, শুধুমাত্র ~১০০ পরমাণু নিশ্চিত করা হয়েছে।"
+        }
+      },
+      {
+        "question": {
+          "en": "Which property of calcium-48 makes it the projectile of choice for synthesizing superheavy elements like Mc?",
+          "bn": "ক্যালসিয়াম-৪৮ এর কোন বৈশিষ্ট্য একে Mc-এর মতো অতিভারী মৌল সংশ্লেষণের জন্য পছন্দের প্রজেক্টাইল করে তোলে?"
+        },
+        "options": [
+          {
+            "en": "It is doubly magic and neutron-rich",
+            "bn": "এটি দ্বিগুণ ম্যাজিক এবং নিউট্রন-সমৃদ্ধ"
+          },
+          {
+            "en": "It is radioactive",
+            "bn": "এটি তেজস্ক্রিয়"
+          },
+          {
+            "en": "It is cheap and abundant",
+            "bn": "এটি সস্তা এবং প্রচুর"
+          },
+          {
+            "en": "It is the heaviest stable isotope of calcium",
+            "bn": "এটি ক্যালসিয়ামের সবচেয়ে ভারী স্থিতিশীল আইসোটোপ"
+          }
+        ],
+        "correctOptionIndex": 0,
+        "explanation": {
+          "en": "⁴⁸Ca is doubly magic (Z=20, N=28), making the compound nucleus more stable and providing extra neutrons needed for superheavy synthesis.",
+          "bn": "⁴⁸Ca দ্বিগুণ ম্যাজিক (Z=২০, N=২৮), যা যৌগ নিউক্লিয়াসকে আরও স্থিতিশীল করে এবং অতিভারী সংশ্লেষণের জন্য প্রয়োজনীয় অতিরিক্ত নিউট্রন সরবরাহ করে।"
+        }
+      }
+    ],
+    "misconceptions": [
+      {
+        "en": "Moscovium powers UFO propulsion systems.",
+        "bn": "মস্কোভিয়াম ইউএফও প্রপালশন সিস্টেমে শক্তি জোগায়।"
+      },
+      {
+        "en": "Moscovium occurs naturally in trace amounts on Earth.",
+        "bn": "মস্কোভিয়াম পৃথিবীতে প্রাকৃতিকভাবে স্বল্প পরিমাণে পাওয়া যায়।"
+      }
+    ],
+    "learningTips": [
+      {
+        "en": "Place Mc just below Bi in group 15 and remember its symbol — Mc, like the 'Moscow Capital' of element 115.",
+        "bn": "গ্রুপ ১৫-এ Bi-এর ঠিক নিচে Mc রাখুন এবং এর প্রতীক মনে রাখুন — Mc, যেন মৌল ১১৫-এর 'মস্কো ক্যাপিটাল'।"
+      }
+    ]
+  },
+  "reactionExamples": {
+    "reactions": [
+      {
+        "equation": "²⁴³Am + ⁴⁸Ca → ²⁸⁸Mc + 3n",
+        "description": {
+          "en": "Hot fusion synthesis of moscovium-288 at Dubna.",
+          "bn": "ডুবনায় মস্কোভিয়াম-২৮৮-এর হট ফিউশন সংশ্লেষণ।"
+        }
+      },
+      {
+        "equation": "²⁹⁰Mc → ²⁸⁶Nh + α",
+        "description": {
+          "en": "Alpha decay of Mc-290 producing nihonium-286.",
+          "bn": "Mc-২৯০-এর আলফা ক্ষয় নাইহোনিয়াম-২৮৬ উৎপন্ন করে।"
+        }
+      }
+    ],
+    "oxidationExamples": [
+      {
+        "equation": "Mc → Mc⁺ + e⁻",
+        "description": {
+          "en": "Predicted dominant single-electron oxidation due to relativistic stabilization of the 7p₁/₂ spinor.",
+          "bn": "7p₁/₂ স্পিনরের আপেক্ষিক স্থিতিশীলতার কারণে পূর্বাভাসিত প্রভাবশালী একক-ইলেকট্রন জারণ।"
+        }
+      }
+    ],
+    "reductionExamples": [
+      {
+        "equation": "Mc³⁺ + 2e⁻ → Mc⁺",
+        "description": {
+          "en": "Predicted reduction from a less stable +3 state to the favored +1 state.",
+          "bn": "কম স্থিতিশীল +৩ অবস্থা থেকে অনুকূল +১ অবস্থায় পূর্বাভাসিত বিজারণ।"
+        }
+      }
+    ],
+    "bondingExamples": [
+      {
+        "bondType": {
+          "en": "Polar covalent (predicted)",
+          "bn": "মেরু সমযোজী (পূর্বাভাসিত)"
+        },
+        "molecule": "McH (hypothetical)",
+        "description": {
+          "en": "Theoretical moscovium monohydride, analogous to BiH, with significant relativistic bond contraction.",
+          "bn": "BiH-এর সাথে অনুরূপ তাত্ত্বিক মস্কোভিয়াম মনোহাইড্রাইড, উল্লেখযোগ্য আপেক্ষিক বন্ধন সংকোচনসহ।"
+        }
+      }
+    ]
+  }
+}

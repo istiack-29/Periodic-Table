@@ -1,0 +1,922 @@
+{
+"elementId": 113,
+"basicInformation": {
+"atomicNumber": 113,
+"symbol": "Nh",
+"name": {
+"en": "Nihonium",
+"bn": "নিহোনিয়াম"
+},
+"pronunciation": {
+"en": "/nɪˈhoʊniəm/",
+"bn": "নি-হো-নি-য়াম"
+},
+"atomicMass": 286.0,
+"category": {
+"en": "Post-transition metal (Predicted)",
+"bn": "অবস্থান্তর-পরবর্তী ধাতু (পূর্বাভাসকৃত)"
+},
+"group": 13,
+"period": 7,
+"block": "p",
+"phase": {
+"en": "Solid (Predicted)",
+"bn": "কঠিন (পূর্বাভাসকৃত)"
+},
+"appearance": {
+"en": "Unknown, predicted to be a silvery metallic solid",
+"bn": "অজানা, রূপালী ধাতব কঠিন পদার্থ হওয়ার পূর্বাভাস রয়েছে"
+},
+"color": {
+"en": "Unknown",
+"bn": "অজানা"
+},
+"radioactive": true,
+"naturalOccurrence": {
+"en": "Synthetic",
+"bn": "কৃত্রিম"
+}
+},
+"discoveryAndHistory": {
+"discoveredBy": {
+"en": "RIKEN Nishina Center for Accelerator-Based Science (Kosuke Morita et al.)",
+"bn": "রিকেন নিশিনা সেন্টার ফর এক্সিলারেটর-বেসড সায়েন্স (কোসুকে মোরিতা এবং অন্যান্য)"
+},
+"discoveryYear": 2004,
+"discoveryLocation": {
+"en": "Wako, Saitama, Japan",
+"bn": "ওয়াকো, সাইতামা, জাপান"
+},
+"discoveryStory": {
+"en": "First conclusively synthesized by a Japanese team at RIKEN by bombarding a bismuth-209 target with zinc-70 ions. It is the first element to be discovered in an Asian country. The name 'Nihon' is one of the two ways to say 'Japan' in Japanese, meaning 'Land of the Rising Sun'.",
+"bn": "প্রথম সুনির্দিষ্টভাবে জাপানের রিকেন-এর একটি দল বিসমাথ-২০৯ লক্ষ্যবস্তুতে জিংক-৭০ আয়ন দিয়ে আঘাত করে সংশ্লেষ করেছিল। এটি এশীয় কোনো দেশে আবিষ্কৃত প্রথম উপাদান। 'নিহন' নামটি জাপানি ভাষায় 'জাপান' বলার দুটি উপায়ের একটি, যার অর্থ 'উদীয়মান সূর্যের দেশ'।"
+},
+"historicalUses": {
+"en": "None. Nihonium is synthesized only in microscopic quantities for fundamental nuclear physics research.",
+"bn": "নেই। নিহোনিয়াম শুধুমাত্র মৌলিক পারমাণবিক পদার্থবিজ্ঞান গবেষণার জন্য আণুবীক্ষণিক পরিমাণে সংশ্লেষিত হয়।"
+},
+"famousExperiments": {
+"en": "The cold fusion reaction of 209Bi and 70Zn, followed by observing a series of six consecutive alpha decays leading to known isotopes of Dubnium and Lawrencium.",
+"bn": "209Bi এবং 70Zn এর শীতল ফিউশন বিক্রিয়া এবং তারপরে ডাবনিয়াম এবং লরেনসিয়ামের পরিচিত আইসোটোপগুলোতে পৌঁছানো পর্যন্ত পরপর ছয়টি আলফা ক্ষয় পর্যবেক্ষণ করা।"
+}
+},
+"atomicStructure": {
+"protons": 113,
+"neutrons": 173,
+"electrons": 113,
+"valenceElectrons": 3,
+"shells": 7,
+"shellDistribution": [2, 8, 18, 32, 32, 18, 3],
+"electronConfiguration": "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p¹",
+"orbitalConfiguration": {
+"7s": 2,
+"7p": 1,
+"6d": 10,
+"5f": 14
+},
+"oxidationStates": [1, 3, 5],
+"quantumNumbers": {
+"principal": 7,
+"azimuthal": 1,
+"magnetic": -1,
+"spin": 0.5
+}
+},
+"physicalProperties": {
+"density": {
+"value": 16.0,
+"unit": "g/cm³ (predicted)"
+},
+"meltingPoint": {
+"value": 700.0,
+"unit": "K (predicted)"
+},
+"boilingPoint": {
+"value": 1400.0,
+"unit": "K (predicted)"
+},
+"atomicRadius": {
+"value": 170,
+"unit": "pm (predicted)"
+},
+"covalentRadius": {
+"value": 136,
+"unit": "pm (predicted)"
+},
+"vanDerWaalsRadius": {
+"value": null,
+"unit": "pm"
+},
+"thermalConductivity": null,
+"electricalConductivity": null,
+"specificHeat": null,
+"hardness": null,
+"crystalStructure": {
+"en": "Hexagonal close-packed (predicted)",
+"bn": "ষড়ভুজাকার ক্লোজ-প্যাকড (পূর্বাভাসকৃত)"
+},
+"magneticOrdering": {
+"en": "Unknown",
+"bn": "অজানা"
+}
+},
+"chemicalProperties": {
+"electronegativity": null,
+"ionizationEnergy": {
+"value": 704.9,
+"unit": "kJ/mol (predicted)"
+},
+"electronAffinity": {
+"value": 66.6,
+"unit": "kJ/mol (predicted)"
+},
+"reactivity": {
+"en": "Expected to be less reactive than Thallium. Due to relativistic spin-orbit splitting, the 7p1 electron is relatively easy to remove, heavily favoring the +1 oxidation state.",
+"bn": "থ্যালিয়ামের চেয়ে কম প্রতিক্রিয়াশীল হবে বলে আশা করা হচ্ছে। আপেক্ষিক স্পিন-অরবিট স্প্লিটিং এর কারণে, 7p1 ইলেকট্রনটি অপসারণ করা তুলনামূলকভাবে সহজ, যা +1 জারণ অবস্থাকে প্রবলভাবে সমর্থন করে।"
+},
+"commonCompounds": ["NhOH (predicted)", "NhCl (predicted)", "NhF (predicted)"],
+"flameTestColor": null,
+"spectralLines": []
+},
+"industrialApplications": {
+"industrialUses": null,
+"commercialUses": null,
+"electronicsUses": null,
+"semiconductorUses": null,
+"aerospaceUses": null,
+"batteryUses": null,
+"aiHardwareUses": null,
+"renewableEnergyUses": null,
+"nanotechnologyUses": null,
+"nuclearUses": {
+"en": "Serves as a critical data point for nuclear physicists studying the limits of atomic mass and the theoretical Island of Stability.",
+"bn": "পারমাণবিক ভরের সীমা এবং তাত্ত্বিক আইল্যান্ড অফ স্টেবিলিটি নিয়ে অধ্যয়নরত পারমাণবিক পদার্থবিজ্ঞানীদের জন্য একটি গুরুত্বপূর্ণ ডেটা পয়েন্ট হিসাবে কাজ করে।"
+},
+"militaryUses": null,
+"medicalUses": null,
+"foodIndustryUses": null,
+"constructionUses": null
+},
+"biologicalAndEnvironmentalData": {
+"biologicalImportance": {
+"en": "None. Nihonium does not occur naturally and its shortest-lived isotopes decay in milliseconds.",
+"bn": "নেই। নিহোনিয়াম প্রাকৃতিকভাবে ঘটে না এবং এর স্বল্প-স্থায়ী আইসোটোপগুলো মিলি-সেকেন্ডের মধ্যে ক্ষয়প্রাপ্ত হয়।"
+},
+"humanBodyRole": null,
+"toxicity": {
+"en": "Highly radiotoxic due to extreme emission of alpha particles, though its chemical toxicity is unknown due to lack of macroscopic quantities.",
+"bn": "আলফা কণার চরম নির্গমনের কারণে এটি অত্যন্ত রেডিওটক্সিক, যদিও ম্যাক্রোস্কোপিক পরিমাণের অভাবের কারণে এর রাসায়নিক বিষাক্ততা অজানা।"
+},
+"environmentalImpact": {
+"en": "Zero environmental presence; created only inside heavy ion accelerators.",
+"bn": "পরিবেশে শূন্য উপস্থিতি; শুধুমাত্র ভারী আয়ন ত্বরক যন্ত্রের ভিতরে তৈরি হয়।"
+},
+"pollutionRisks": null,
+"recyclingMethods": null,
+"sustainabilityScore": null
+},
+"miningAndEconomics": {
+"majorProducingCountries": [
+{
+"en": "Japan (RIKEN)",
+"bn": "জাপান (RIKEN)"
+},
+{
+"en": "Russia (JINR)",
+"bn": "রাশিয়া (JINR)"
+}
+],
+"miningMethods": null,
+"abundance": {
+"universe": {
+"en": "0%",
+"bn": "০%"
+},
+"earthCrust": {
+"en": "0%",
+"bn": "০%"
+},
+"oceans": {
+"en": "0%",
+"bn": "০%"
+}
+},
+"marketValue": {
+"en": "Not applicable. Billions of dollars are spent on the particle accelerators required to generate a few atoms.",
+"bn": "প্রযোজ্য নয়। কয়েকটি পরমাণু তৈরি করতে প্রয়োজনীয় কণা ত্বরকগুলির পিছনে বিলিয়ন ডলার ব্যয় করা হয়।"
+},
+"futureDemand": {
+"en": "Demand is restricted to theoretical and applied nuclear physics.",
+"bn": "চাহিদা তাত্ত্বিক এবং ফলিত পারমাণবিক পদার্থবিজ্ঞানের মধ্যে সীমাবদ্ধ।"
+},
+"globalImportance": {
+"en": "Crucial for expanding human understanding of the periodic table's ultimate boundaries.",
+"bn": "পর্যায় সারণির চূড়ান্ত সীমানা সম্পর্কে মানুষের বোধগম্যতা প্রসারিত করার জন্য অত্যন্ত গুরুত্বপূর্ণ।"
+}
+},
+"safetyInformation": {
+"hazards": {
+"en": "Extreme radiation hazard from alpha decay and spontaneous fission.",
+"bn": "আলফা ক্ষয় এবং স্বতঃস্ফূর্ত ফিশন থেকে চরম বিকিরণ ঝুঁকি।"
+},
+"storageRequirements": {
+"en": "Cannot be stored. Atoms decay almost immediately upon synthesis.",
+"bn": "সংরক্ষণ করা যায় না। সংশ্লেষণের প্রায় সাথে সাথেই পরমাণু ক্ষয়প্রাপ্ত হয়।"
+},
+"handlingProcedures": {
+"en": "Studied exclusively through sophisticated automated electronic sensor arrays and gas-filled recoil separators.",
+"bn": "একচেটিয়াভাবে অত্যাধুনিক স্বয়ংক্রিয় বৈদ্যুতিন সেন্সর অ্যারে এবং গ্যাস-ভর্তি রিকয়েল বিভাজকগুলোর মাধ্যমে অধ্যয়ন করা হয়।"
+},
+"exposureRisks": {
+"en": "Theoretical massive tissue damage and acute radiation sickness from alpha emissions if macro amounts existed.",
+"bn": "যদি ম্যাক্রো পরিমাণের অস্তিত্ব থাকত, তবে আলফা বিকিরণ থেকে তাত্ত্বিক ভাবে ব্যাপক টিস্যু ক্ষতি এবং তীব্র বিকিরণ অসুস্থতা দেখা দিত।"
+},
+"safetyLevel": {
+"en": "Extreme Risk (Radiation)",
+"bn": "চরম ঝুঁকি (বিকিরণ)"
+},
+"hazardClassifications": [
+{
+"en": "Radioactive Material",
+"bn": "তেজস্ক্রিয় উপাদান"
+}
+]
+},
+"learningContent": {
+"simpleExplanation": {
+"en": "Nihonium is a superheavy, man-made element. It is the very first element to be discovered in Asia, created by Japanese scientists who named it after their home country.",
+"bn": "নিহোনিয়াম একটি অতিভারী, মানুষের তৈরি উপাদান। এশিয়ায় আবিষ্কৃত এটিই প্রথম উপাদান, যা জাপানি বিজ্ঞানীরা তৈরি করেছেন এবং তাদের নিজের দেশের নামে এর নামকরণ করেছেন।"
+},
+"advancedExplanation": {
+"en": "Element 113, Nihonium, resides in Group 13. While lighter homologues like Aluminum and Gallium favor a +3 oxidation state, intense relativistic spin-orbit splitting in Nihonium makes its 7s electrons essentially inert and strongly shields the nucleus. Consequently, it strongly favors a +1 oxidation state and is predicted to behave similarly to silver or thallium in its chemistry.",
+"bn": "১১৩ নম্বর উপাদান, নিহোনিয়াম, গ্রুপ ১৩ এ অবস্থান করে। যদিও অ্যালুমিনিয়াম এবং গ্যালিয়ামের মতো হালকা সমকক্ষগুলি +3 জারণ অবস্থাকে সমর্থন করে, নিহোনিয়ামের তীব্র আপেক্ষিক স্পিন-অরবিট স্প্লিটিং এর 7s ইলেকট্রনগুলিকে অপরিহার্যভাবে নিষ্ক্রিয় করে তোলে এবং নিউক্লিয়াসকে দৃঢ়ভাবে রক্ষা করে। ফলস্বরূপ, এটি +1 জারণ অবস্থাকে প্রবলভাবে সমর্থন করে এবং এর রসায়নে সিলভার বা থ্যালিয়ামের মতো আচরণ করবে বলে পূর্বাভাস দেওয়া হয়েছে।"
+},
+"funFacts": [
+{
+"en": "The discovery of Nihonium took over 9 years of constant particle bombardment to confirm just a few atoms.",
+"bn": "নিহোনিয়াম আবিষ্কারের জন্য মাত্র কয়েকটি পরমাণু নিশ্চিত করতে ৯ বছরেরও বেশি সময় ধরে অবিচ্ছিন্ন কণা বোমাবর্ষণের প্রয়োজন হয়েছিল।"
+},
+{
+"en": "Before it was officially named in 2016, it was known by the temporary systematic name 'Ununtrium'.",
+"bn": "২০১৬ সালে আনুষ্ঠানিকভাবে নামকরণের আগে, এটি অস্থায়ী পদ্ধতিগত নাম 'ইউনুনট্রিয়াম' দ্বারা পরিচিত ছিল।"
+}
+],
+"comparisons": [
+{
+"compareWithId": 81,
+"relation": {
+"en": "Nihonium is directly below Thallium (element 81). Like Thallium, it experiences the 'inert pair effect', but relativistic effects make Nihonium's +1 state even more stable than Thallium's.",
+"bn": "নিহোনিয়াম থ্যালিয়ামের (উপাদান ৮১) ঠিক নিচে অবস্থিত। থ্যালিয়ামের মতো, এটি 'নিষ্ক্রিয় জোড় প্রভাব' অনুভব করে, তবে আপেক্ষিক প্রভাব নিহোনিয়ামের +1 অবস্থাকে থ্যালিয়ামের চেয়েও বেশি স্থিতিশীল করে তোলে।"
+}
+}
+],
+"relatedElements": [81, 49, 31, 13, 5],
+"quizQuestions": [
+{
+"question": {
+"en": "What is the atomic number of Nihonium?",
+"bn": "নিহোনিয়ামের পারমাণবিক সংখ্যা কত?"
+},
+"options": [
+{
+"en": "111",
+"bn": "১১১"
+},
+{
+"en": "113",
+"bn": "১১৩"
+},
+{
+"en": "115",
+"bn": "১১৫"
+},
+{
+"en": "117",
+"bn": "১১৭"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nihonium sits in Group 13 and has an atomic number of 113.",
+"bn": "নিহোনিয়াম গ্রুপ ১৩ তে বসে এবং এর পারমাণবিক সংখ্যা ১১৩।"
+}
+},
+{
+"question": {
+"en": "In which country was Nihonium discovered?",
+"bn": "কোন দেশে নিহোনিয়াম আবিষ্কৃত হয়েছিল?"
+},
+"options": [
+{
+"en": "Russia",
+"bn": "রাশিয়া"
+},
+{
+"en": "United States",
+"bn": "যুক্তরাষ্ট্র"
+},
+{
+"en": "Germany",
+"bn": "জার্মানি"
+},
+{
+"en": "Japan",
+"bn": "জাপান"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "It was discovered by scientists at RIKEN in Japan, making it the first element discovered in Asia.",
+"bn": "এটি জাপানের রিকেনের বিজ্ঞানীরা আবিষ্কার করেছিলেন, যা এটিকে এশিয়ায় আবিষ্কৃত প্রথম উপাদানে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "What does the word 'Nihon', the root of Nihonium, translate to?",
+"bn": "নিহোনিয়ামের মূল 'নিহন' শব্দের অর্থ কী?"
+},
+"options": [
+{
+"en": "Land of the Rising Sun (Japan)",
+"bn": "উদীয়মান সূর্যের দেশ (জাপান)"
+},
+{
+"en": "The great mountain",
+"bn": "মহান পর্বত"
+},
+{
+"en": "Heavy metal",
+"bn": "ভারী ধাতু"
+},
+{
+"en": "Island of science",
+"bn": "বিজ্ঞানের দ্বীপ"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "'Nihon' is a Japanese word for Japan, translating literally to 'origin of the sun' or 'Land of the Rising Sun'.",
+"bn": "'নিহন' হলো জাপানের জন্য একটি জাপানি শব্দ, যার আক্ষরিক অনুবাদ হলো 'সূর্যের উৎপত্তি' বা 'উদীয়মান সূর্যের দেশ'।"
+}
+},
+{
+"question": {
+"en": "What was the temporary systematic IUPAC name for element 113 before it was named Nihonium?",
+"bn": "নিহোনিয়াম নামকরণের আগে উপাদান ১১৩ এর অস্থায়ী পদ্ধতিগত IUPAC নাম কী ছিল?"
+},
+"options": [
+{
+"en": "Ununoctium",
+"bn": "ইউনুনঅক্টিয়াম"
+},
+{
+"en": "Ununtrium",
+"bn": "ইউনুনট্রিয়াম"
+},
+{
+"en": "Ununpentium",
+"bn": "ইউনুনপেন্টিয়াম"
+},
+{
+"en": "Eka-thallium",
+"bn": "একা-থ্যালিয়াম"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Ununtrium simply translates from Latin prefixes to 'one-one-three-ium'.",
+"bn": "ইউনুনট্রিয়াম কেবল ল্যাটিন উপসর্গ থেকে 'ওয়ান-ওয়ান-থ্রি-ইয়াম' এ অনুবাদ করে।"
+}
+},
+{
+"question": {
+"en": "Which element group does Nihonium belong to in the periodic table?",
+"bn": "পর্যায় সারণিতে নিহোনিয়াম কোন উপাদান গ্রুপের অন্তর্গত?"
+},
+"options": [
+{
+"en": "Group 1 (Alkali Metals)",
+"bn": "গ্রুপ ১ (ক্ষার ধাতু)"
+},
+{
+"en": "Group 13 (Boron Group)",
+"bn": "গ্রুপ ১৩ (বোরন গ্রুপ)"
+},
+{
+"en": "Group 17 (Halogens)",
+"bn": "গ্রুপ ১৭ (হ্যালোজেন)"
+},
+{
+"en": "Group 18 (Noble Gases)",
+"bn": "গ্রুপ ১৮ (নিষ্ক্রিয় গ্যাস)"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Nihonium is part of Group 13, sitting beneath Boron, Aluminum, Gallium, Indium, and Thallium.",
+"bn": "নিহোনিয়াম বোরন, অ্যালুমিনিয়াম, গ্যালিয়াম, ইন্ডিয়াম এবং থ্যালিয়ামের নীচে থাকা গ্রুপ ১৩ এর অংশ।"
+}
+},
+{
+"question": {
+"en": "Which two elements were collided in a particle accelerator to originally synthesize Nihonium?",
+"bn": "নিহোনিয়ামকে প্রথম সংশ্লেষ করার জন্য কণা ত্বরকে কোন দুটি উপাদানকে সংঘর্ষ করানো হয়েছিল?"
+},
+"options": [
+{
+"en": "Lead and Calcium",
+"bn": "সীসা এবং ক্যালসিয়াম"
+},
+{
+"en": "Plutonium and Neon",
+"bn": "প্লুটোনিয়াম এবং নিয়ন"
+},
+{
+"en": "Bismuth and Zinc",
+"bn": "বিসমাথ এবং দস্তা"
+},
+{
+"en": "Americium and Calcium",
+"bn": "অ্যামেরিসিয়াম এবং ক্যালসিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Bismuth-209 and Zinc-70 were fused together in a cold fusion reaction to create Nihonium.",
+"bn": "বিসমাথ-২০৯ এবং দস্তা-৭০ নিহোনিয়াম তৈরি করতে একটি শীতল ফিউশন বিক্রিয়ায় একসাথে যুক্ত করা হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "What is the most predicted stable oxidation state of Nihonium?",
+"bn": "নিহোনিয়ামের সর্বাধিক পূর্বাভাসিত স্থিতিশীল জারণ অবস্থা কোনটি?"
+},
+"options": [
+{
+"en": "+1",
+"bn": "+১"
+},
+{
+"en": "+2",
+"bn": "+২"
+},
+{
+"en": "+3",
+"bn": "+৩"
+},
+{
+"en": "+5",
+"bn": "+৫"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Due to relativistic effects (the inert pair effect), the 7s electrons are heavily bound, leaving only the single 7p electron to easily participate in bonding.",
+"bn": "আপেক্ষিক প্রভাবের (নিষ্ক্রিয় জোড় প্রভাব) কারণে, 7s ইলেকট্রনগুলি দৃঢ়ভাবে আবদ্ধ থাকে, যার ফলে কেবল মাত্র একটি 7p ইলেকট্রন সহজেই বন্ধনে অংশ নিতে পারে।"
+}
+},
+{
+"question": {
+"en": "What is the primary mode of decay for Nihonium isotopes?",
+"bn": "নিহোনিয়াম আইসোটোপগুলির ক্ষয়ের প্রাথমিক রূপ কোনটি?"
+},
+"options": [
+{
+"en": "Beta decay",
+"bn": "বিটা ক্ষয়"
+},
+{
+"en": "Alpha decay",
+"bn": "আলফা ক্ষয়"
+},
+{
+"en": "Positron emission",
+"bn": "পজিট্রন নির্গমন"
+},
+{
+"en": "Gamma ray emission",
+"bn": "গামা রশ্মি নির্গমন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Superheavy elements like Nihonium primarily decay by emitting an alpha particle (a helium nucleus) to become lighter elements.",
+"bn": "নিহোনিয়ামের মতো সুপারহেভি উপাদানগুলি প্রাথমিকভাবে একটি আলফা কণা (একটি হিলিয়াম নিউক্লিয়াস) নির্গত করে হালকা উপাদানে পরিণত হওয়ার মাধ্যমে ক্ষয়প্রাপ্ত হয়।"
+}
+},
+{
+"question": {
+"en": "Which specific orbital contains the outermost single valence electron of Nihonium?",
+"bn": "কোন নির্দিষ্ট অরবিটালে নিহোনিয়ামের সবচেয়ে বাইরের একক যোজ্যতা ইলেকট্রন থাকে?"
+},
+"options": [
+{
+"en": "6d",
+"bn": "6d"
+},
+{
+"en": "7s",
+"bn": "7s"
+},
+{
+"en": "7p",
+"bn": "7p"
+},
+{
+"en": "5f",
+"bn": "5f"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Nihonium is the first element in the 7p block, meaning its final electron is placed in the 7p subshell (7p1).",
+"bn": "নিহোনিয়াম হলো 7p ব্লকের প্রথম উপাদান, যার অর্থ এর চূড়ান্ত ইলেকট্রনটি 7p সাবশেল (7p1) এ স্থাপন করা হয়।"
+}
+},
+{
+"question": {
+"en": "Which element sits directly above Nihonium in the periodic table?",
+"bn": "পর্যায় সারণিতে নিহোনিয়ামের ঠিক উপরে কোন উপাদানটি রয়েছে?"
+},
+"options": [
+{
+"en": "Lead",
+"bn": "সীসা"
+},
+{
+"en": "Thallium",
+"bn": "থ্যালিয়াম"
+},
+{
+"en": "Mercury",
+"bn": "পারদ"
+},
+{
+"en": "Bismuth",
+"bn": "বিসমাথ"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Thallium (atomic number 81) is located directly above Nihonium in Group 13.",
+"bn": "থ্যালিয়াম (পারমাণবিক সংখ্যা ৮১) গ্রুপ ১৩ তে নিহোনিয়ামের ঠিক উপরে অবস্থিত।"
+}
+},
+{
+"question": {
+"en": "What is the physical state of Nihonium predicted to be at standard room temperature?",
+"bn": "আদর্শ কক্ষ তাপমাত্রায় নিহোনিয়ামের ভৌত অবস্থা কী হবে বলে পূর্বাভাস দেওয়া হয়েছে?"
+},
+"options": [
+{
+"en": "Gas",
+"bn": "গ্যাস"
+},
+{
+"en": "Liquid",
+"bn": "তরল"
+},
+{
+"en": "Plasma",
+"bn": "প্লাজমা"
+},
+{
+"en": "Solid",
+"bn": "কঠিন"
+}
+],
+"correctOptionIndex": 3,
+"explanation": {
+"en": "Like its heavier group members (Indium, Thallium), Nihonium is predicted to be a solid post-transition metal at room temperature.",
+"bn": "এর ভারী গ্রুপ সদস্যদের (ইন্ডিয়াম, থ্যালিয়াম) মতো, নিহোনিয়াম ঘরের তাপমাত্রায় একটি কঠিন অবস্থান্তর-পরবর্তী ধাতু হবে বলে ধারণা করা হয়।"
+}
+},
+{
+"question": {
+"en": "What is the phenomenon called that makes Nihonium's 7s electrons reluctant to participate in chemical bonding?",
+"bn": "নিহোনিয়ামের 7s ইলেকট্রনগুলোকে রাসায়নিক বন্ধনে অংশ নিতে অনিচ্ছুক করে তোলে এমন ঘটনাটির নাম কী?"
+},
+"options": [
+{
+"en": "Electron shielding",
+"bn": "ইলেকট্রন শিল্ডিং"
+},
+{
+"en": "Inert pair effect",
+"bn": "নিষ্ক্রিয় জোড় প্রভাব"
+},
+{
+"en": "Pauli exclusion",
+"bn": "পাউলি বর্জন"
+},
+{
+"en": "Zeeman effect",
+"bn": "জিম্যান প্রভাব"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The 'inert pair effect' occurs because relativistic contraction pulls the s-orbitals closer to the nucleus, increasing the energy required to remove them.",
+"bn": "'নিষ্ক্রিয় জোড় প্রভাব' ঘটে কারণ আপেক্ষিক সংকোচন s-অরবিটালগুলিকে নিউক্লিয়াসের কাছাকাছি টেনে নেয়, যার ফলে তাদের অপসারণ করতে প্রয়োজনীয় শক্তি বৃদ্ধি পায়।"
+}
+},
+{
+"question": {
+"en": "Roughly how long is the half-life of Nihonium's most stable known isotope (Nh-286)?",
+"bn": "নিহোনিয়ামের সবচেয়ে স্থিতিশীল পরিচিত আইসোটোপ (Nh-286) এর অর্ধায়ু প্রায় কতক্ষণ?"
+},
+"options": [
+{
+"en": "9.5 seconds",
+"bn": "৯.৫ সেকেন্ড"
+},
+{
+"en": "9.5 minutes",
+"bn": "৯.৫ মিনিট"
+},
+{
+"en": "9.5 hours",
+"bn": "৯.৫ ঘণ্টা"
+},
+{
+"en": "9.5 days",
+"bn": "৯.৫ দিন"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Nihonium-286 has a relatively long half-life for a superheavy element, surviving for about 9.5 seconds.",
+"bn": "একটি সুপারহেভি উপাদানের জন্য নিহোনিয়াম-২৮৬ এর তুলনামূলকভাবে দীর্ঘ অর্ধায়ু রয়েছে, এটি প্রায় ৯.৫ সেকেন্ড টিকে থাকে।"
+}
+},
+{
+"question": {
+"en": "In the discovery of Nihonium, scientists proved its creation by observing its decay chain ending at known isotopes of which element?",
+"bn": "নিহোনিয়ামের আবিষ্কারে, বিজ্ঞানীরা কোন উপাদানের পরিচিত আইসোটোপে শেষ হওয়া এর ক্ষয় শৃঙ্খল পর্যবেক্ষণ করে এর সৃষ্টি প্রমাণ করেছিলেন?"
+},
+"options": [
+{
+"en": "Mendelevium",
+"bn": "মেন্ডেলিভিয়াম"
+},
+{
+"en": "Dubnium",
+"bn": "ডাবনিয়াম"
+},
+{
+"en": "Uranium",
+"bn": "ইউরেনিয়াম"
+},
+{
+"en": "Radon",
+"bn": "র‍্যাডন"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "The original Nihonium atoms underwent a series of alpha decays ending at known, trackable isotopes of Dubnium (Element 105).",
+"bn": "আসল নিহোনিয়াম পরমাণুগুলি পর পর বেশ কয়েকটি আলফা ক্ষয়ের মধ্য দিয়ে ডাবনিয়ামের (উপাদান ১০৫) পরিচিত এবং ট্র্যাকযোগ্য আইসোটোপে পরিণত হয়েছিল।"
+}
+},
+{
+"question": {
+"en": "Into which element does Nihonium directly decay via alpha emission?",
+"bn": "আলফা নির্গমনের মাধ্যমে নিহোনিয়াম সরাসরি কোন উপাদানে ক্ষয়প্রাপ্ত হয়?"
+},
+"options": [
+{
+"en": "Moscovium",
+"bn": "মস্কোভিয়াম"
+},
+{
+"en": "Flerovium",
+"bn": "ফ্লেরোভিয়াম"
+},
+{
+"en": "Roentgenium",
+"bn": "রন্টজেনিয়াম"
+},
+{
+"en": "Copernicium",
+"bn": "কোপার্নিসিয়াম"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Alpha decay removes 2 protons. 113 - 2 = 111, which is Roentgenium (Rg).",
+"bn": "আলফা ক্ষয় ২ প্রোটন অপসারণ করে। ১১৩ - ২ = ১১১, যা রন্টজেনিয়াম (Rg)।"
+}
+},
+{
+"question": {
+"en": "Which subatomic property heavily influences the predicted chemistry of Nihonium, diverging it from Thallium?",
+"bn": "কোন সাবঅ্যাটমিক বৈশিষ্ট্যটি নিহোনিয়ামের পূর্বাভাসিত রসায়নকে ব্যাপকভাবে প্রভাবিত করে, যা একে থ্যালিয়াম থেকে দূরে সরিয়ে দেয়?"
+},
+"options": [
+{
+"en": "Neutron degeneracy pressure",
+"bn": "নিউট্রন অবক্ষয় চাপ"
+},
+{
+"en": "Spin-orbit coupling / splitting",
+"bn": "স্পিন-অরবিট কাপলিং / স্প্লিটিং"
+},
+{
+"en": "Nuclear magnetic resonance",
+"bn": "নিউক্লিয়ার ম্যাগনেটিক রেজোন্যান্স"
+},
+{
+"en": "Photoelectric effect",
+"bn": "আলোকতড়িৎ ক্রিয়া"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Relativistic spin-orbit splitting separates the 7p orbital into two distinct energy levels, making the sole 7p1 electron very weakly bound and reactive compared to lighter elements.",
+"bn": "আপেক্ষিক স্পিন-অরবিট স্প্লিটিং 7p অরবিটালকে দুটি স্বতন্ত্র শক্তির স্তরে আলাদা করে, যার ফলে একমাত্র 7p1 ইলেকট্রন হালকা উপাদানগুলির তুলনায় খুব দুর্বলভাবে আবদ্ধ এবং প্রতিক্রিয়াশীল হয়ে ওঠে।"
+}
+},
+{
+"question": {
+"en": "What block of the periodic table marks its beginning with Nihonium?",
+"bn": "পর্যায় সারণির কোন ব্লকটি নিহোনিয়াম দিয়ে তার শুরু চিহ্নিত করে?"
+},
+"options": [
+{
+"en": "The 6d transition metals",
+"bn": "6d অবস্থান্তর ধাতু"
+},
+{
+"en": "The 5f actinides",
+"bn": "5f অ্যাক্টিনাইডস"
+},
+{
+"en": "The 7p block",
+"bn": "7p ব্লক"
+},
+{
+"en": "The 8s alkali metals",
+"bn": "8s ক্ষার ধাতু"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Copernicium (112) finishes the d-block, making Nihonium (113) the first element in the final row's p-block (7p).",
+"bn": "কোপার্নিসিয়াম (১১২) d-ব্লক শেষ করে, যা নিহোনিয়ামকে (১১৩) শেষ সারির p-ব্লকের (7p) প্রথম উপাদানে পরিণত করে।"
+}
+},
+{
+"question": {
+"en": "How many protons and neutrons are in the nucleus of Nihonium-286?",
+"bn": "নিহোনিয়াম-২৮৬ এর নিউক্লিয়াসে কয়টি প্রোটন এবং নিউট্রন থাকে?"
+},
+"options": [
+{
+"en": "113 protons, 173 neutrons",
+"bn": "১১৩ প্রোটন, ১৭৩ নিউট্রন"
+},
+{
+"en": "115 protons, 171 neutrons",
+"bn": "১১৫ প্রোটন, ১৭১ নিউট্রন"
+},
+{
+"en": "113 protons, 286 neutrons",
+"bn": "১১৩ প্রোটন, ২৮৬ নিউট্রন"
+},
+{
+"en": "286 protons, 113 neutrons",
+"bn": "২৮৬ প্রোটন, ১১৩ নিউট্রন"
+}
+],
+"correctOptionIndex": 0,
+"explanation": {
+"en": "Protons equal the atomic number (113). Neutrons = Mass number (286) - Atomic number (113) = 173.",
+"bn": "প্রোটন পারমাণবিক সংখ্যার (১১৩) সমান। নিউট্রন = ভর সংখ্যা (২৮৬) - পারমাণবিক সংখ্যা (১১৩) = ১৭৩।"
+}
+},
+{
+"question": {
+"en": "Why is the creation of Nihonium classified as 'cold fusion'?",
+"bn": "নিহোনিয়ামের সৃষ্টিকে কেন 'শীতল ফিউশন' হিসাবে শ্রেণীবদ্ধ করা হয়?"
+},
+"options": [
+{
+"en": "It requires cryogenic freezing of the target",
+"bn": "এর জন্য লক্ষ্যবস্তুর ক্রায়োজেনিক হিমায়নের প্রয়োজন"
+},
+{
+"en": "The compound nucleus is formed with relatively low excitation energy",
+"bn": "যৌগিক নিউক্লিয়াস তুলনামূলকভাবে কম উত্তেজনা শক্তির সাথে গঠিত হয়"
+},
+{
+"en": "It does not produce radioactive waste",
+"bn": "এটি তেজস্ক্রিয় বর্জ্য তৈরি করে না"
+},
+{
+"en": "It occurs naturally in the arctic",
+"bn": "এটি প্রাকৃতিকভাবে আর্কটিক অঞ্চলে ঘটে"
+}
+],
+"correctOptionIndex": 1,
+"explanation": {
+"en": "Cold fusion in nuclear physics means the fused nucleus has low excitation energy, meaning it is less likely to immediately fission and instead just evaporates a single neutron to stabilize.",
+"bn": "পারমাণবিক পদার্থবিজ্ঞানে শীতল ফিউশনের অর্থ হলো ফিউজড নিউক্লিয়াসের কম উত্তেজনা শক্তি রয়েছে, যার অর্থ এটি অবিলম্বে বিভাজিত হওয়ার সম্ভাবনা কম এবং তার পরিবর্তে স্থিতিশীল হওয়ার জন্য কেবল একটি নিউট্রন বাষ্পীভূত করে।"
+}
+},
+{
+"question": {
+"en": "What is the expected principal quantum number (n) for the outermost valence electron of Nihonium?",
+"bn": "নিহোনিয়ামের সবচেয়ে বাইরের যোজ্যতা ইলেকট্রনের জন্য প্রত্যাশিত প্রধান কোয়ান্টাম সংখ্যা (n) কত?"
+},
+"options": [
+{
+"en": "5",
+"bn": "৫"
+},
+{
+"en": "6",
+"bn": "৬"
+},
+{
+"en": "7",
+"bn": "৭"
+},
+{
+"en": "8",
+"bn": "৮"
+}
+],
+"correctOptionIndex": 2,
+"explanation": {
+"en": "Nihonium is in the 7th period, so its outermost valence shell has a principal quantum number of 7 (specifically 7s and 7p).",
+"bn": "নিহোনিয়াম ৭ম পর্যায়ে রয়েছে, তাই এর সবচেয়ে বাইরের যোজ্যতা শেলের প্রধান কোয়ান্টাম সংখ্যা হলো ৭ (বিশেষত 7s এবং 7p)।"
+}
+}
+],
+"misconceptions": [
+{
+"en": "Nihonium can be mined in Japan.",
+"bn": "জাপানে নিহোনিয়াম খনন করা যেতে পারে।"
+},
+{
+"en": "Nihonium has useful commercial properties in electronics.",
+"bn": "ইলেকট্রনিক্সে নিহোনিয়ামের দরকারী বাণিজ্যিক বৈশিষ্ট্য রয়েছে।"
+}
+],
+"learningTips": [
+{
+"en": "Remember the root 'Nihon' means Japan. It is element 113, the first element of the 7p block, sitting directly under Thallium.",
+"bn": "মনে রাখবেন 'নিহন' মূল শব্দটির অর্থ জাপান। এটি ১১৩ উপাদান, 7p ব্লকের প্রথম উপাদান, যা সরাসরি থ্যালিয়ামের নীচে অবস্থিত।"
+}
+]
+},
+"reactionExamples": {
+"reactions": [
+{
+"equation": "²⁰⁹Bi + ⁷⁰Zn → ²⁷⁸Nh + ¹n",
+"description": {
+"en": "The specific nuclear 'cold fusion' reaction used by the RIKEN team to synthesize an atom of Nihonium-278.",
+"bn": "নিহোনিয়াম-২৭৮ এর একটি পরমাণু সংশ্লেষ করতে রিকেন দলের দ্বারা ব্যবহৃত নির্দিষ্ট পারমাণবিক 'শীতল ফিউশন' বিক্রিয়া।"
+}
+},
+{
+"equation": "Nh + ½Cl₂ → NhCl (Theoretical)",
+"description": {
+"en": "Predicted formation of Nihonium(I) chloride, assuming its dominant +1 oxidation state.",
+"bn": "এর প্রভাবশালী +1 জারণ অবস্থা ধরে নিয়ে নিহোনিয়াম(I) ক্লোরাইড গঠনের পূর্বাভাস।"
+}
+}
+],
+"oxidationExamples": [
+{
+"equation": "Nh → Nh⁺ + e⁻ (Theoretical)",
+"description": {
+"en": "Predicted oxidation half-reaction for Nihonium favoring the +1 state due to the inert pair effect.",
+"bn": "নিষ্ক্রিয় জোড় প্রভাবের কারণে +1 অবস্থাকে সমর্থন করে নিহোনিয়ামের জন্য পূর্বাভাসিত জারণ অর্ধ-বিক্রিয়া।"
+}
+}
+],
+"reductionExamples": [
+{
+"equation": "²٨⁶Nh → ²٨²Rg + ⁴He",
+"description": {
+"en": "Nuclear alpha decay of Nihonium-286 into Roentgenium-282.",
+"bn": "নিহোনিয়াম-২৮৬ এর রন্টজেনিয়াম-২৮২ তে পারমাণবিক আলফা ক্ষয়।"
+}
+}
+],
+"bondingExamples": [
+{
+"bondType": {
+"en": "Ionic / Covalent (Predicted)",
+"bn": "আয়নিক / সমযোজী (পূর্বাভাসকৃত)"
+},
+"molecule": "NhOH (Theoretical)",
+"description": {
+"en": "Predicted to form a stable hydroxide similar to Thallium(I) hydroxide.",
+"bn": "থ্যালিয়াম(I) হাইড্রোক্সাইডের মতো একটি স্থিতিশীল হাইড্রোক্সাইড তৈরি করবে বলে ধারণা করা হয়।"
+}
+}
+]
+}
+}

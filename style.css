@@ -1,229 +1,3 @@
-You are a senior frontend architect, CSS engineer, UI/UX specialist, animation expert, and responsive design consultant.
-
-I already have a fully working existing "style.css" file, a "index.html" file, a "app.js" file, a "security.js" file.
-
-YOUR TASK:
-
-You must modify and extend the existing CSS without removing, breaking, replacing, simplifying, or altering any existing functionality, design system, component behavior, class names, IDs, variables, animations, or responsive rules.
-
-CRITICAL RULES:
-
-1. NEVER remove any existing CSS code.
-2. NEVER rename any existing selector.
-3. NEVER delete any existing animation.
-4. NEVER modify existing logic unless absolutely required for the requested improvements.
-5. All changes must be added as professional enhancements on top of the existing code.
-6. Backward compatibility must remain 100%.
-7. Existing UI, functionality, and interactions must continue working exactly as before.
-8. Making me a minimum of 7000 lines of "style.css"code
-REQUIRED IMPROVEMENTS:
-
-━━━━━━━━━━━━━━━━━━━━
-A. ATOMIC VISUALIZATION SYSTEM UPGRADE
-━━━━━━━━━━━━━━━━━━━━
-
-The atomic element visualizations must become significantly more realistic, educational, modern, and visually impressive.
-
-Requirements:
-
-• Electron shells/orbits must be rendered accurately.
-• Electron positions must correspond correctly to each element.
-• Orbital spacing must be mathematically balanced.
-• Orbit layers must remain visually clean on all screen sizes.
-• Atomic visualizations should look professional and science-app quality.
-
-ANIMATION SYNCHRONIZATION RULE:
-
-If an orbit moves, floats, oscillates, rotates, pulses, scales, or changes position:
-
-→ Every electron attached to that orbit must move perfectly with the orbit.
-
-If an orbit remains static:
-
-→ Electrons must also remain static.
-
-There must never be a situation where:
-
-- Orbit moves but electron stays still.
-- Electron moves but orbit stays still.
-
-Orbit and electron behavior must remain physically synchronized.
-
-━━━━━━━━━━━━━━━━━━━━
-B. NEW "UNDERSTOOD / বুঝেছি" BUTTON SYSTEM
-━━━━━━━━━━━━━━━━━━━━
-
-Create complete styling support for a new quiz action button:
-
-Button Labels:
-
-- Understood
-- বুঝেছি
-
-Requirements:
-
-• Premium modern appearance.
-• Excellent touch interaction.
-• Hover effects.
-• Active effects.
-• Focus accessibility.
-• Keyboard accessibility.
-• Disabled state.
-• Loading state.
-• Success state.
-• Mobile optimization.
-• Desktop optimization.
-• Smooth transitions.
-• Professional educational-app appearance.
-
-Must visually match the existing design system.
-
-━━━━━━━━━━━━━━━━━━━━
-C. MOBILE EXPERIENCE OVERHAUL
-━━━━━━━━━━━━━━━━━━━━
-
-The entire UI must become extremely mobile friendly.
-
-Requirements:
-
-• Small phones support.
-• Medium phones support.
-• Large phones support.
-• Tablets support.
-• Foldable devices support.
-• Landscape mode support.
-
-Improve:
-
-• Touch targets.
-• Spacing.
-• Readability.
-• Accessibility.
-• Font scaling.
-• Animation performance.
-• Scrolling behavior.
-• Gesture friendliness.
-
-The interface should feel like a premium mobile application.
-
-━━━━━━━━━━━━━━━━━━━━
-D. DESKTOP EXPERIENCE OVERHAUL
-━━━━━━━━━━━━━━━━━━━━
-
-Improve desktop usability:
-
-• Better spacing.
-• Better scaling.
-• Better readability.
-• Better component hierarchy.
-• Better hover interactions.
-• Better animation smoothness.
-• Better large-screen utilization.
-
-Must work perfectly on:
-
-- 1366px
-- 1440px
-- 1600px
-- 1920px
-- 2560px
-- Ultrawide monitors
-
-━━━━━━━━━━━━━━━━━━━━
-E. PERIODIC TABLE LOCKING SYSTEM
-━━━━━━━━━━━━━━━━━━━━
-
-The periodic table must remain fixed and stable.
-
-Requirements:
-
-• Prevent zoom-based layout breaking.
-• Prevent accidental scaling distortions.
-• Prevent element overlap.
-• Preserve table structure.
-• Preserve alignment.
-• Preserve readability.
-
-Users should not be able to visually break the periodic table layout through zooming or scaling interactions.
-
-The periodic table must remain consistent and visually stable.
-
-━━━━━━━━━━━━━━━━━━━━
-F. PERFORMANCE OPTIMIZATION
-━━━━━━━━━━━━━━━━━━━━
-
-Improve:
-
-• GPU acceleration.
-• Animation rendering.
-• Paint performance.
-• Layout stability.
-• Reduced reflow.
-• Reduced repaint.
-• Smooth scrolling.
-• Mobile performance.
-
-Animations should remain fluid even on low-end Android devices.
-
-━━━━━━━━━━━━━━━━━━━━
-G. ACCESSIBILITY
-━━━━━━━━━━━━━━━━━━━━
-
-Add support for:
-
-• Keyboard navigation.
-• Focus-visible states.
-• High contrast environments.
-• Reduced motion preferences.
-• Screen size accessibility.
-• Touch accessibility.
-
-━━━━━━━━━━━━━━━━━━━━
-H. CODE QUALITY
-━━━━━━━━━━━━━━━━━━━━
-
-Requirements:
-
-• Enterprise-level CSS architecture.
-• Extremely well organized.
-• Section comments.
-• Maintainable structure.
-• Professional naming consistency.
-• Production-ready quality.
-
-━━━━━━━━━━━━━━━━━━━━
-FINAL OUTPUT REQUIREMENTS
-━━━━━━━━━━━━━━━━━━━━
-
-1. Return the COMPLETE updated CSS.
-2. Do NOT use placeholders.
-3. Do NOT write "existing code remains unchanged".
-4. Actually integrate the improvements.
-5. Do NOT omit any section.
-6. Preserve all previous functionality.
-7. Add only the requested enhancements.
-8. Ensure all atomic visualizations remain scientifically consistent.
-9. Ensure orbit-electron synchronization is perfect.
-10. Generate a highly professional, production-grade stylesheet.
-
-IMPORTANT:
-Quality and correctness are more important than file length. Do NOT generate meaningless filler code. Every line must contribute to functionality, responsiveness, accessibility, performance, visual quality, or maintainability.
-
-/* ================================================================
-   QUANTUM ELEMENTS — COMPLETE STYLESHEET v3.0
-   ================================================================
-   FIXES IN THIS VERSION:
-   1. Table alignment fixed — group/period numbers scale with zoom
-   2. Hero section floating symbols get text-shadow backdrop
-   3. Atom viewer orbit/electron logic corrected (ellipse + CSS 3D)
-   4. Light theme adjustments for all new fixes
-   5. Zoom-aware sizing via CSS custom properties
-   6. Full responsive overhaul
-   ================================================================ */
-
-/* ================================================================
-   CUSTOM FONTS
-================================================================ */
 @font-face {
   font-family: 'EnglishFont';
   src: url('fonts/English.ttf') format('truetype');
@@ -4259,6 +4033,71 @@ body.modal-open { overflow: hidden; }
 
 .pointer     { cursor: pointer; }
 .no-select   { user-select: none; }
+
+/* ==========================================
+   QUIZ UNDERSTOOD BUTTON
+========================================== */
+
+.quiz-understood-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+
+    padding: 12px 22px;
+    margin-top: 18px;
+
+    border: 1px solid rgba(0,229,255,0.25);
+    border-radius: 14px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(0,229,255,0.12),
+            rgba(41,121,255,0.08)
+        );
+
+    color: var(--qe-accent-cyan);
+    font-family: var(--qe-font-ui);
+    font-size: 0.9rem;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition:
+        transform .25s ease,
+        box-shadow .25s ease,
+        border-color .25s ease,
+        background .25s ease;
+
+    box-shadow:
+        0 0 20px rgba(0,229,255,.08),
+        inset 0 0 20px rgba(0,229,255,.03);
+
+    backdrop-filter: blur(10px);
+}
+
+.quiz-understood-btn:hover {
+    transform: translateY(-2px);
+
+    border-color: rgba(0,229,255,0.6);
+
+    box-shadow:
+        0 0 28px rgba(0,229,255,.25),
+        0 0 50px rgba(0,229,255,.08);
+}
+
+.quiz-understood-btn:active {
+    transform: scale(.97);
+}
+
+.quiz-understood-btn::after {
+    content: "→";
+    transition: transform .25s ease;
+}
+
+.quiz-understood-btn:hover::after {
+    transform: translateX(4px);
+}
 
 /* ================================================================
    END OF STYLESHEET — Quantum Elements v3.0
