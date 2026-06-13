@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta name="theme-color" content="#000308">
+  <title>QR Code</title>
+  <style>
+  /* ———— font ———— */
+  @font-face {
+  font-family: 'Bangla';
+  src: url('fonts/Bangla.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+    /* ─── Reset ─── */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* ─── Page Layout ─── */
+    body {
+      background-color: #000308;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Bangla', 'Segoe UI', system-ui, sans-serif;
+                   'Helvetica Neue', Arial, sans-serif;
+      padding: 16px;
+    }
+
+    /* ─── Card ─── */
+    .card {
+      background: #ffffff;
+      color: #111111;
+      border-radius: 24px;
+      width: 100%;
+      max-width: 360px;
+      overflow: hidden;
+      box-shadow:
+        0 2px 6px  rgba(0,   0,   0, 0.35),
+        0 10px 28px rgba(0,   0,   0, 0.50),
+        0 36px 80px rgba(0,   0,   0, 0.60);
+    }
+
+    /* ─── Back Button ─── */
+    .back-btn {
+      display:     flex;
+      align-items: center;
+      gap:         10px;
+      background:  #000308;
+      color:       #ffffff;
+      text-decoration: none;
+      font-weight: 700;
+      font-size:   14.5px;
+      letter-spacing: 0.1px;
+      padding:     14px 18px;
+      min-height:  54px;        /* comfortable touch target */
+      border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+      transition:  background 0.22s ease;
+    }
+    .back-btn:hover  { background: #060d1e; }
+    .back-btn:active { background: #111827; }
+
+    /* Icon pill inside back button */
+    .back-icon {
+      display:         flex;
+      align-items:     center;
+      justify-content: center;
+      width:  30px;
+      height: 30px;
+      background:    rgba(255, 255, 255, 0.10);
+      border-radius: 8px;
+      flex-shrink:   0;
+      transition:    background 0.22s ease;
+    }
+    .back-btn:hover .back-icon { background: rgba(255, 255, 255, 0.18); }
+
+    /* ─── Card Body ─── */
+    .card-body {
+      padding: 22px 22px 28px;
+    }
+
+    /* ─── Live Badge ─── */
+    .live-badge {
+      display:       inline-flex;
+      align-items:   center;
+      gap:           6px;
+      background:    #f0fdf4;
+      color:         #15803d;
+      font-size:     11px;
+      font-weight:   700;
+      letter-spacing: 0.9px;
+      text-transform: uppercase;
+      padding:       4px 11px 4px 9px;
+      border-radius: 999px;
+      border:        1px solid #bbf7d0;
+      margin-bottom: 16px;
+    }
+
+    /* Pulsing green dot */
+    .live-dot {
+      width:         7px;
+      height:        7px;
+      background:    #22c55e;
+      border-radius: 50%;
+      animation:     blink 1.5s ease-in-out infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0.3; }
+    }
+
+    /* ─── QR Frame ─── */
+    .qr-frame {
+      border:        1.5px solid #e2e8f0;
+      border-radius: 16px;
+      padding:       18px;
+      background:    #f8fafc;
+      position:      relative;
+      overflow:      hidden;
+      margin-bottom: 22px;
+    }
+
+    /* Four corner accent marks */
+    .corner {
+      position:     absolute;
+      width:        20px;
+      height:       20px;
+      border-color: #000308;
+      border-style: solid;
+    }
+    .corner.tl { top: 10px; left:  10px; border-width: 2.5px 0 0 2.5px; border-radius: 4px 0 0 0; }
+    .corner.tr { top: 10px; right: 10px; border-width: 2.5px 2.5px 0 0; border-radius: 0 4px 0 0; }
+    .corner.bl { bottom: 10px; left:  10px; border-width: 0 0 2.5px 2.5px; border-radius: 0 0 0 4px; }
+    .corner.br { bottom: 10px; right: 10px; border-width: 0 2.5px 2.5px 0; border-radius: 0 0 4px 0; }
+
+    /* Animated scan line */
+    .scan-line {
+      position:      absolute;
+      left:          18px;
+      right:         18px;
+      height:        2px;
+      border-radius: 1px;
+      background: linear-gradient(
+        90deg,
+        transparent,
+        rgba(0, 3, 8, 0.45) 30%,
+        rgba(0, 3, 8, 0.45) 70%,
+        transparent
+      );
+      animation:   scan 3s ease-in-out infinite;
+      pointer-events: none;
+      z-index:     2;
+    }
+    @keyframes scan {
+      0%   { top: 18px;              opacity: 0; }
+      8%   { opacity: 1; }
+      92%  { opacity: 1; }
+      100% { top: calc(100% - 18px); opacity: 0; }
+    }
+
+    /* QR image — always responsive */
+    .qr-frame img {
+      display:   block;
+      width:     100%;
+      max-width: 100%;
+      height:    auto;
+      border-radius: 8px;
+      position:  relative;
+      z-index:   1;
+      user-select: none;
+    }
+
+    /* ─── Text Section ─── */
+    .preview-title {
+      font-size:    20px;
+      font-weight:  800;
+      color:        #111111;
+      letter-spacing: -0.4px;
+      margin-bottom: 8px;
+    }
+
+    .preview-desc {
+      font-size:   13.5px;
+      line-height: 1.85;
+      color:       #555555;
+    }
+
+    /* ─── Divider ─── */
+    .divider {
+      height:     1px;
+      background: #f0f4f8;
+      margin:     20px 0;
+    }
+
+    /* ─── Footer hint ─── */
+    .footer-hint {
+      display:     flex;
+      align-items: flex-start;
+      gap:         8px;
+      font-size:   12px;
+      color:       #94a3b8;
+      line-height: 1.65;
+    }
+    .footer-hint svg { flex-shrink: 0; margin-top: 1px; }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+
+    <!-- ── Back Button ── -->
+    <a href="index.html" class="back-btn">
+      <span class="back-icon">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2.5"
+             stroke-linecap="round" stroke-linejoin="round"
+             aria-hidden="true">
+          <path d="M19 12H5"/>
+          <path d="M12 5l-7 7 7 7"/>
+        </svg>
+      </span>
+      ফিরে যান
+    </a>
+
+    <!-- ── Card Body ── -->
+    <div class="card-body">
+
+      <!-- Live Badge -->
+      <div class="live-badge">
+        <span class="live-dot"></span>
+        Live
+      </div>
+
+      <!-- QR Frame -->
+      <div class="qr-frame">
+        <span class="corner tl"></span>
+        <span class="corner tr"></span>
+        <span class="corner bl"></span>
+        <span class="corner br"></span>
+        <div class="scan-line"></div>
+        <img src="qr.png" alt="Live Preview QR Code" draggable="false">
+      </div>
+
+      <!-- Title -->
+      <h2 class="preview-title">Live Preview</h2>
+
+      <!-- Bengali description -->
+      <p class="preview-desc">
+        প্রজেক্টটি লাইভ আউটপুট দেখতে আপনার ফোনের ক্যামেরা বা স্ক্যানার দিয়ে
+        কিউআর কোডটি স্ক্যান করুন।
+      </p>
+
+      <!-- Divider -->
+      <div class="divider"></div>
+
+      <!-- Footer Hint -->
+      <div class="footer-hint">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round"
+             aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M12 16v-4M12 8h.01"/>
+        </svg>
+        ক্যামেরা অ্যাপ খুলে QR কোডের দিকে ধরুন — লিংকটি স্বয়ংক্রিয়ভাবে খুলে যাবে।
+      </div>
+
+    </div><!-- /.card-body -->
+
+  </div><!-- /.card -->
+
+</body>
+</html>

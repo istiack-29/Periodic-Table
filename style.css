@@ -4112,3 +4112,181 @@ body.modal-open { overflow: hidden; }
      ✓ Electrons actually ride their orbital planes (rotateX tilt)
      ✓ All font sizes in element blocks scale with --el-zoom
      ✓ F-block rows aligned via calc margin
+*/
+
+/* ================================================================
+   QR CODE MODAL
+   Mobile-first fullscreen overlay with pop-in card.
+   Always white-card design — readable in both dark & light themes.
+   Last updated: KAMLABot / Quantum Elements v3.0 +
+================================================================ */
+
+/* ── Entrance animation ── */
+@keyframes qr-pop-in {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* ── Fullscreen overlay ── */
+.qr-fullscreen-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 10500;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  /* Smooth in/out when toggled via JS */
+  transition: opacity 180ms ease;
+}
+
+/* Hide state — toggled by adding [hidden] attribute in JS */
+.qr-fullscreen-overlay[hidden] {
+  display: none !important;
+}
+
+/* ── Modal card ── */
+.qr-modal-card {
+  position: relative;
+  width: 85%;
+  max-width: 350px;
+  background: #ffffff;
+  color: #111827;
+  border-radius: var(--qe-radius-xl, 22px);
+  box-shadow:
+    0 24px 64px rgba(0, 0, 0, 0.40),
+    0 6px 20px  rgba(0, 0, 0, 0.22),
+    0 0   0 1px rgba(255, 255, 255, 0.06);
+  overflow: hidden;
+  padding: 28px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  /* Pop-in on open */
+  animation: qr-pop-in 300ms var(--transition-spring, cubic-bezier(0.34, 1.56, 0.64, 1)) both;
+}
+
+/* ── Card title ── */
+.qr-modal-card__title {
+  font-family: var(--qe-font-ui, sans-serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: #111827;
+  text-align: center;
+  letter-spacing: 0.01em;
+  line-height: 1.3;
+}
+
+/* ── Card subtitle / description ── */
+.qr-modal-card__subtitle {
+  font-family: var(--qe-font-ui, sans-serif);
+  font-size: 0.78rem;
+  color: #6b7280;
+  text-align: center;
+  line-height: 1.5;
+  margin-top: -6px;
+}
+
+/* ── Close button (top-right of card) ── */
+.qr-modal-close {
+  position: absolute;
+  top: 11px;
+  right: 11px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: var(--qe-radius-full, 9999px);
+  background: rgba(0, 0, 0, 0.07);
+  color: #4b5563;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition:
+    background var(--transition-fast, 120ms ease),
+    color     var(--transition-fast, 120ms ease),
+    transform var(--transition-fast, 120ms ease),
+    box-shadow var(--transition-fast, 120ms ease);
+}
+
+.qr-modal-close:hover {
+  background: rgba(0, 0, 0, 0.13);
+  color: #111827;
+  transform: scale(1.12) rotate(5deg);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.10);
+}
+
+.qr-modal-close:active {
+  transform: scale(0.90);
+}
+
+/* ── QR image container ── */
+.qr-image-container {
+  width: 100%;
+  border: 1.5px solid rgba(0, 0, 0, 0.09);
+  border-radius: var(--qe-radius-md, 10px);
+  padding: 14px;
+  background: #f9fafb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* QR image itself — scales down gracefully on small screens */
+.qr-image-container img,
+.qr-image-container .qr-img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  /* Keep QR pixel dots crisp rather than blurry */
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+/* ── Optional small footer note inside the card ── */
+.qr-modal-card__note {
+  font-size: 0.70rem;
+  color: #9ca3af;
+  text-align: center;
+  line-height: 1.5;
+}
+
+/* ──────────────────────────────────────────
+   RESPONSIVE — very small phones (< 360 px)
+────────────────────────────────────────── */
+@media (max-width: 359px) {
+  .qr-modal-card {
+    width: 94%;
+    padding: 22px 14px 18px;
+    gap: 12px;
+    border-radius: var(--qe-radius-lg, 16px);
+  }
+  .qr-modal-card__title   { font-size: 0.92rem; }
+  .qr-modal-card__subtitle { font-size: 0.74rem; }
+  .qr-image-container     { padding: 10px; }
+}
+
+/* ──────────────────────────────────────────
+   REDUCED MOTION — skip the pop-in animation
+────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  .qr-modal-card {
+    animation: none;
+  }
+}
